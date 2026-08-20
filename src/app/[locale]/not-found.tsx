@@ -9,7 +9,7 @@ export default function NotFound() {
         href="/ja"
         className="mt-8 inline-block font-sans text-[12px] tracking-[0.18em] uppercase text-accent"
       >
-        KASAWA
+        NyanChu
       </Link>
     </main>
   );

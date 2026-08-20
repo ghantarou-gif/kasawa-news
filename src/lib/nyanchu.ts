@@ -31,7 +31,7 @@ export function nyanchuSearchUrl(prefill: NyanchuPrefill): string {
   if (prefill.wtUnit) base.searchParams.set("wtUnit", prefill.wtUnit);
   if (prefill.lang) base.searchParams.set("lang", prefill.lang);
   if (prefill.from) base.searchParams.set("from", prefill.from);
-  base.searchParams.set("via", "kasawa");
+  base.searchParams.set("via", "nyanchu");
   return base.toString();
 }
 

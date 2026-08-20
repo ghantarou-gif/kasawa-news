@@ -150,7 +150,7 @@ async function fetchFeed(feed: Feed): Promise<Article[]> {
       signal: AbortSignal.timeout(FETCH_TIMEOUT_MS),
       headers: {
         Accept: "application/rss+xml, application/atom+xml, application/xml, text/xml",
-        "User-Agent": "KasawaNews/1.0 RSS reader",
+        "User-Agent": "NyanChu/1.0 RSS reader",
       },
     });
     if (!response.ok) return [];

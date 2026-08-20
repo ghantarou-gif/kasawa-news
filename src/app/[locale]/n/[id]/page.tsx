@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { AdSlot } from "@/components/AdSlot";
 import { AffiliateBlock } from "@/components/AffiliateBlock";
 import { RelatedStories } from "@/components/RelatedStories";
 import { ShareBar } from "@/components/ShareBar";
@@ -117,6 +118,8 @@ export default async function ArticlePage({
       {article.excerpt ? (
         <p className="mt-6 text-[17px] leading-8 text-ink/90">{article.excerpt}</p>
       ) : null}
+
+      <AdSlot placement="article" className="mt-8" />
 
       {take ? (
         <section className="take-block mt-8">

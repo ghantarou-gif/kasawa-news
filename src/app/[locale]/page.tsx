@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { DayList } from "@/components/DayList";
 import { GenreChips } from "@/components/DeskHeader";
+import { AdSlot } from "@/components/AdSlot";
+import { DayList } from "@/components/DayList";
 import { isLocale } from "@/lib/locale";
 import { getDaySummaries } from "@/lib/rss";
 
@@ -30,6 +31,7 @@ export default async function HomePage({
       <div className="pt-6">
         <GenreChips locale={locale} latestDate={days[0]?.date ?? null} />
       </div>
+      <AdSlot placement="home" className="mt-6" />
       <DayList days={days} locale={locale} />
     </>
   );

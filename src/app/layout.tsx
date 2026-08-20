@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Fraunces, IBM_Plex_Sans_JP, Noto_Serif_JP } from "next/font/google";
+import { AdSenseScript } from "@/components/AdSenseScript";
 import { siteUrl } from "@/lib/site";
 import "./globals.css";
 
@@ -26,10 +27,10 @@ const plex = IBM_Plex_Sans_JP({
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl()),
   title: {
-    default: "KASAWA",
-    template: "%s · KASAWA",
+    default: "NyanChu",
+    template: "%s · NyanChu",
   },
-  description: "Date-filed headlines from free-to-read RSS feeds.",
+  description: "日付別にまとめたニュース見出し。無料RSSから自動取得。",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
@@ -39,7 +40,10 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       suppressHydrationWarning
       className={`${fraunces.variable} ${notoSerif.variable} ${plex.variable} h-full antialiased`}
     >
-      <body className="min-h-full bg-paper text-ink">{children}</body>
+      <body className="min-h-full bg-paper text-ink">
+        <AdSenseScript />
+        {children}
+      </body>
     </html>
   );
 }

@@ -165,6 +165,19 @@ a {
   padding: 1.15rem 1.25rem;
 }
 
+.ad-slot {
+  overflow: hidden;
+  border-radius: 0.75rem;
+  border: 1px dashed #d6cfbf;
+  background: #faf8f4;
+  min-height: 90px;
+  padding: 0.5rem;
+}
+
+.ad-slot:empty {
+  display: none;
+}
+
 .affiliate-kicker {
   font-family: var(--font-sans);
   font-size: 11px;

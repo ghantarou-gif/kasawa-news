@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { GenreChips } from "@/components/DeskHeader";
+import { AdSlot } from "@/components/AdSlot";
 import { StoryGrid } from "@/components/StoryGrid";
 import { isGenre } from "@/lib/genres";
 import { t } from "@/lib/i18n";
@@ -64,6 +65,7 @@ export default async function DayPage({
           total={summary?.total}
         />
       </div>
+      <AdSlot placement="feed" className="mt-6" />
       <StoryGrid items={items} locale={locale} />
     </section>
   );

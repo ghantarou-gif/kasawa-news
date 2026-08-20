@@ -66,8 +66,9 @@ export function DeskHeader({
             <p className="text-[11px] tracking-[0.28em] text-white/55">{copy.deskKicker}</p>
             <Link href={`/${locale}`} className="font-display mt-1 block text-[clamp(2.2rem,6vw,3.6rem)] leading-none hover:opacity-95">
               <span className="text-accent">BREAKING</span>{" "}
-              <span className="text-white">{copy.archiveTitle}</span>
+              <span className="text-white">{copy.siteName}</span>
             </Link>
+            <p className="mt-1 font-sans text-[12px] tracking-[0.2em] text-white/50">{copy.mastheadKana}</p>
           </div>
           <div className="flex items-center gap-4 pt-2 font-sans text-[12px] tracking-[0.14em] uppercase">
             <LanguageSwitch locale={locale} />
