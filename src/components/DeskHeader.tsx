@@ -60,32 +60,44 @@ export function DeskHeader({
 
   return (
     <header className="desk-hero">
-      <div className="mx-auto flex w-full max-w-6xl flex-col gap-4 px-4 py-8 sm:px-6">
+      <div className="mx-auto flex w-full max-w-6xl flex-col gap-4 px-4 py-7 sm:px-6">
         <div className="flex items-start justify-between gap-4">
-          <div>
-            <p className="text-[11px] tracking-[0.28em] text-white/55">{copy.deskKicker}</p>
-            <Link href={`/${locale}`} className="font-display mt-1 block text-[clamp(2.2rem,6vw,3.6rem)] leading-none hover:opacity-95">
-              <span className="text-accent">BREAKING</span>{" "}
-              <span className="text-white">{copy.siteName}</span>
-            </Link>
-            <p className="mt-1 font-sans text-[12px] tracking-[0.2em] text-white/50">{copy.mastheadKana}</p>
+          <div className="flex items-start gap-3">
+            <span className="brand-mark mt-1" aria-hidden>
+              NC
+            </span>
+            <div>
+              <p className="text-[11px] font-bold tracking-[0.24em] text-muted uppercase">
+                {copy.deskKicker}
+              </p>
+              <Link
+                href={`/${locale}`}
+                className="font-display mt-1 block text-[clamp(2rem,5.5vw,3.2rem)] leading-none tracking-[-0.03em] hover:opacity-90"
+              >
+                <span className="text-accent">BREAKING</span>{" "}
+                <span className="text-ink">{copy.siteName}</span>
+              </Link>
+              <p className="mt-1 font-sans text-[12px] tracking-[0.16em] text-muted">
+                {copy.mastheadKana}
+              </p>
+            </div>
           </div>
-          <div className="flex items-center gap-4 pt-2 font-sans text-[12px] tracking-[0.14em] uppercase">
+          <div className="flex items-center gap-4 pt-2 font-sans text-[12px] tracking-[0.12em] uppercase">
             <LanguageSwitch locale={locale} />
             <a
               href={nyanchuBaseUrl()}
               target="_blank"
               rel="noopener noreferrer"
-              className="text-white/80 hover:text-accent"
+              className="text-muted hover:text-accent"
             >
               {copy.nyanchu}
             </a>
-            <Link href={`/${locale}/book`} className="text-white/80 hover:text-accent">
+            <Link href={`/${locale}/book`} className="text-muted hover:text-accent">
               {copy.book}
             </Link>
           </div>
         </div>
-        <p className="max-w-2xl text-[14px] leading-6 text-white/70">
+        <p className="max-w-2xl text-[14px] leading-6 text-muted">
           {copy.deskLead} {formatStamp(updatedAt)} {copy.updated}
         </p>
       </div>

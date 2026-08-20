@@ -9,7 +9,7 @@ export function SiteFooter({ locale }: { locale: Locale }) {
   const names = sourceNames(locale);
 
   return (
-    <footer className="mt-16 border-t border-ink pt-8 pb-12 text-[13px] leading-6 text-muted">
+    <footer className="mt-16 border-t border-line pt-8 pb-12 text-[13px] leading-6 text-muted">
       <div className="flex flex-wrap items-start justify-between gap-6">
         <div>
           <p className="font-display text-lg tracking-wide text-ink">{copy.siteName}</p>

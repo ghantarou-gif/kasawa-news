@@ -53,7 +53,7 @@ export function StoryGrid({
                 {article.excerpt}
               </p>
             ) : null}
-            <div className="mt-4 flex items-center justify-between gap-3 border-t border-ink/10 pt-3 text-[12px] text-muted">
+            <div className="mt-4 flex items-center justify-between gap-3 border-t border-line pt-3 text-[12px] text-muted">
               <span>{formatWhen(article.publishedAt ?? article.firstSeenAt, locale)}</span>
               <div className="flex items-center gap-2">
                 <Link href={hub} className="open-btn">

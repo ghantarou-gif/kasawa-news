@@ -23,7 +23,7 @@ export function LanguageSwitch({
       href={href}
       className={
         className ??
-        "text-[13px] tracking-[0.12em] uppercase text-white/80 hover:text-accent"
+        "text-[13px] tracking-[0.12em] uppercase text-muted hover:text-accent"
       }
       onClick={() => {
         document.cookie = `${LOCALE_COOKIE}=${next}; path=/; max-age=31536000; SameSite=Lax`;

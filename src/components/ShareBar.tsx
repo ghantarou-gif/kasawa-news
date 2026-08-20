@@ -76,7 +76,6 @@ export function ShareBar({
           {copied ? copy.copied : copy.copyLink}
         </button>
       </div>
-      <p className="mt-3 break-all font-mono text-[11px] leading-5 text-muted">{shareUrl}</p>
     </div>
   );
 }

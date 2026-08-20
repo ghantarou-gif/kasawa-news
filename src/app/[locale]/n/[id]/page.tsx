@@ -104,14 +104,6 @@ export default async function ArticlePage({
         {formatWhen(article.publishedAt ?? article.firstSeenAt, locale)}
       </p>
 
-      <div className="mt-6">
-        <ShareBar url={pageUrl} title={article.title} locale={locale} take={take} />
-      </div>
-
-      <div className="mt-4">
-        <NyanchuSearchLink article={article} locale={locale} />
-      </div>
-
       {article.image ? (
         <div className="story-image mt-6">
           {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -133,6 +125,13 @@ export default async function ArticlePage({
           {copy.readAt.replace("{source}", article.source)}
         </a>
       </div>
+
+      <section className="article-actions">
+        <ShareBar url={pageUrl} title={article.title} locale={locale} take={take} />
+        <div className="mt-3">
+          <NyanchuSearchLink article={article} locale={locale} />
+        </div>
+      </section>
 
       <AdSlot placement="article" className="mt-8" />
 
