@@ -5,7 +5,6 @@ import { AdSlot } from "@/components/AdSlot";
 import { AffiliateBlock } from "@/components/AffiliateBlock";
 import { RelatedStories } from "@/components/RelatedStories";
 import { ShareBar } from "@/components/ShareBar";
-import { XSearchTools } from "@/components/XSearchTools";
 import { decodeArticleId } from "@/lib/article-id";
 import { genres, primaryGenre } from "@/lib/genres";
 import { t } from "@/lib/i18n";
@@ -127,10 +126,6 @@ export default async function ArticlePage({
           <p className="mt-3 whitespace-pre-wrap text-[16px] leading-8">{take}</p>
         </section>
       ) : null}
-
-      <div className="mt-8">
-        <XSearchTools article={article} locale={locale} />
-      </div>
 
       <div className="mt-8">
         <AffiliateBlock locale={locale} genre={genre} />

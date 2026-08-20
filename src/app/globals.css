@@ -199,21 +199,6 @@ a {
   background: #c45c28;
 }
 
-.x-tools {
-  border-radius: 1rem;
-  border: 1px dashed rgba(36, 28, 24, 0.18);
-  background: rgba(255, 253, 248, 0.65);
-  padding: 1.15rem 1.25rem;
-}
-
-.x-tools-kicker {
-  font-family: var(--font-sans);
-  font-size: 11px;
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
-  color: #2c211c;
-}
-
 .share-bar {
   border-radius: 1rem;
   border: 1px solid rgba(196, 92, 40, 0.35);
