@@ -123,6 +123,17 @@ export default async function ArticlePage({
         <p className="mt-6 text-[17px] leading-8 text-ink/90">{article.excerpt}</p>
       ) : null}
 
+      <div className="mt-6 flex flex-wrap items-center gap-3">
+        <a
+          href={article.url}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="open-btn text-[13px]"
+        >
+          {copy.readAt.replace("{source}", article.source)}
+        </a>
+      </div>
+
       <AdSlot placement="article" className="mt-8" />
 
       {take ? (
@@ -134,17 +145,6 @@ export default async function ArticlePage({
 
       <div className="mt-8">
         <AffiliateBlock locale={locale} genre={genre} />
-      </div>
-
-      <div className="mt-8 flex flex-wrap items-center gap-3">
-        <a
-          href={article.url}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="open-btn text-[13px]"
-        >
-          {copy.readAt.replace("{source}", article.source)}
-        </a>
       </div>
 
       <RelatedStories items={related} locale={locale} />
