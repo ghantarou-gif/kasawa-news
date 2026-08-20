@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { AdSlot } from "@/components/AdSlot";
 import { AffiliateBlock } from "@/components/AffiliateBlock";
 import { RelatedStories } from "@/components/RelatedStories";
+import { NyanchuSearchLink } from "@/components/NyanchuSearchLink";
 import { ShareBar } from "@/components/ShareBar";
 import { decodeArticleId } from "@/lib/article-id";
 import { genres, primaryGenre } from "@/lib/genres";
@@ -105,6 +106,10 @@ export default async function ArticlePage({
 
       <div className="mt-6">
         <ShareBar url={pageUrl} title={article.title} locale={locale} take={take} />
+      </div>
+
+      <div className="mt-4">
+        <NyanchuSearchLink article={article} locale={locale} />
       </div>
 
       {article.image ? (
