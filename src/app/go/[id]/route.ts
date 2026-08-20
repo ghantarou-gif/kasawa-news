@@ -20,6 +20,9 @@ export async function GET(
   }
 
   if (!destination) {
+    if (id.startsWith("travel-")) {
+      return NextResponse.redirect(new URL("/ja/travel", siteUrl()), 302);
+    }
     return NextResponse.redirect(new URL("/ja/book", siteUrl()), 302);
   }
 

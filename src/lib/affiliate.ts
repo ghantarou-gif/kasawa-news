@@ -55,6 +55,29 @@ export const goLinks: Record<string, GoLink> = {
     },
     url: "",
   },
+  "travel-hotel": {
+    label: {
+      ja: "旅行の宿（予約）",
+      en: "Travel hotels",
+    },
+    /** 楽天トラベル / Booking / じゃらん 等のアフィリURLを入れる */
+    url: "",
+  },
+  "travel-tour": {
+    label: {
+      ja: "ツアー・体験（予約）",
+      en: "Tours & activities",
+    },
+    /** じゃらん体験 / Klook / Viator 等 */
+    url: "",
+  },
+  "travel-book": {
+    label: {
+      ja: "旅行ガイド本（Amazon）",
+      en: "Travel guidebook (Amazon)",
+    },
+    url: "",
+  },
 };
 
 const genreGoId: Record<GenreId, string> = {
@@ -85,5 +108,21 @@ export function affiliateOffersForGenre(
     }
   }
 
+  return offers;
+}
+
+export function affiliateOffersForTravel(
+  goIds: string[],
+  locale: Locale,
+): { id: string; label: string }[] {
+  const offers: { id: string; label: string }[] = [];
+  for (const id of goIds) {
+    const link = goLinks[id];
+    if (!link) continue;
+    offers.push({
+      id,
+      label: link.label[locale],
+    });
+  }
   return offers;
 }

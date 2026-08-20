@@ -2,6 +2,7 @@ import type { MetadataRoute } from "next";
 import { LOCALES } from "@/lib/locale";
 import { getDaySummaries } from "@/lib/rss";
 import { siteUrl } from "@/lib/site";
+import { listTravelPosts } from "@/lib/travel";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const base = siteUrl();
@@ -18,6 +19,19 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       changeFrequency: "monthly",
       priority: 0.6,
     });
+    entries.push({
+      url: `${base}/${locale}/travel`,
+      changeFrequency: "weekly",
+      priority: 0.85,
+    });
+
+    for (const post of listTravelPosts()) {
+      entries.push({
+        url: `${base}/${locale}/travel/${post.slug}`,
+        changeFrequency: "monthly",
+        priority: 0.75,
+      });
+    }
 
     const { days } = await getDaySummaries(locale);
     for (const day of days.slice(0, 14)) {
