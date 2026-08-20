@@ -1,0 +1,631 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NyanChu検索ツール | X検索コマンドビルダー</title>
+<meta name="description" content="Xの高度検索コマンドをスマホで簡単に作れる無料ツール。投稿者・宛先・言及・キーワード・ハッシュタグ・除外・投稿タイプ・メディア・認証済み・反応数・期間・言語・URL・リストまでフル演算子対応。入力は端末内だけで処理し、サーバーへ送信しません。">
+<style>
+  :root{
+    --bg:#F6CE42; --bg-top:#FBDA6A; --card:#FFFFFF; --ink:#1A1611; --outline:#221C15;
+    --muted:#6E6353; --line:#E7E1D5; --line-strong:#D6CFBF; --field:#FBFAF6;
+    --accent:#2E74CE; --accent-press:#205AA8; --accent-soft:#E6EEFA;
+    --red:#E23A2C; --red-press:#C22C20;
+    --console-bg:#181410; --console-line:#2A2419;
+    --syn-user:#7CB0FF; --syn-key:#F7D34E; --syn-neg:#FF8272; --syn-num:#FFB454; --syn-filter:#D2D7DF; --syn-date:#9FD0FF; --syn-muted:#948A78;
+    --shadow:3px 3px 0 var(--outline); --shadow-sm:2px 2px 0 var(--outline);
+    --mono:ui-monospace,"SF Mono","SFMono-Regular",Menlo,Consolas,monospace;
+    --sans:system-ui,-apple-system,"Segoe UI","Hiragino Sans","Hiragino Kaku Gothic ProN","Noto Sans JP",Meiryo,sans-serif;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{
+    background:var(--bg);
+    background-image:radial-gradient(120% 60% at 50% -10%,var(--bg-top),transparent 60%);
+    color:var(--ink); font-family:var(--sans); line-height:1.5; -webkit-font-smoothing:antialiased;
+    padding:20px 14px 44px;
+  }
+  .wrap{max-width:560px;margin:0 auto}
+
+  header{display:flex;align-items:center;gap:12px;margin-bottom:16px}
+  .stamp{
+    flex:none;width:52px;height:52px;border-radius:50%;background:var(--red);
+    color:#fff;display:grid;place-items:center;transform:rotate(-7deg);
+    border:2px solid var(--outline);box-shadow:var(--shadow-sm);
+    font-weight:800;font-size:15px;letter-spacing:-.02em;line-height:1;
+    text-align:center;padding:2px;
+  }
+  .brand h1{font-size:20px;font-weight:800;letter-spacing:-.02em;margin:0}
+  .brand p{margin:2px 0 0;font-size:12px;color:var(--muted);font-weight:500}
+  .langtoggle{margin-left:auto;display:inline-flex;background:var(--card);border:2px solid var(--outline);border-radius:999px;overflow:hidden;flex:none;box-shadow:var(--shadow-sm)}
+  .langtoggle button{border:0;background:transparent;color:var(--muted);font:700 12px/1 var(--sans);padding:7px 11px;cursor:pointer}
+  .langtoggle button.on{background:var(--ink);color:#fff}
+
+  /* Console (signature) */
+  .console{
+    background:var(--console-bg);border:2px solid var(--outline);border-radius:16px;
+    padding:15px 15px 16px;margin-bottom:20px;box-shadow:var(--shadow);
+  }
+  .console-top{display:flex;align-items:center;gap:7px;margin-bottom:11px}
+  .dot{width:11px;height:11px;border-radius:50%;border:1.5px solid rgba(0,0,0,.35)}
+  .dot.r{background:#FF5F57}.dot.y{background:#FEBC2E}.dot.g{background:#28C840}
+  .console-label{margin-left:auto;font:700 10.5px/1 var(--mono);letter-spacing:.1em;color:var(--syn-muted);text-transform:uppercase}
+  .cmd{font-family:var(--mono);font-size:14px;line-height:1.95;word-break:break-word;min-height:28px}
+  .cmd .tok{padding:2px 6px;border-radius:6px;background:rgba(255,255,255,.055);margin:0 3px 5px 0;display:inline-block;white-space:nowrap}
+  .cmd .op{opacity:.8}
+  .tok.user{color:var(--syn-user)} .tok.key{color:var(--syn-key)} .tok.neg{color:var(--syn-neg)}
+  .tok.filter{color:var(--syn-filter)} .tok.num{color:var(--syn-num)} .tok.date{color:var(--syn-date)}
+  .cmd .placeholder{color:var(--syn-muted);opacity:.8}
+  .actions{display:flex;gap:9px;margin-top:15px}
+  .actions button{flex:1;border:2px solid var(--outline);border-radius:11px;font:800 13.5px/1 var(--sans);padding:12px 8px;cursor:pointer;box-shadow:var(--shadow-sm);transition:transform .05s ease,box-shadow .05s ease,background .15s ease}
+  .actions button:active:not(:disabled){transform:translate(2px,2px);box-shadow:0 0 0 var(--outline)}
+  .btn-primary{background:var(--accent);color:#fff}
+  .btn-primary:hover{background:var(--accent-press)}
+  .btn-ghost{background:#F2EFE8;color:var(--ink)}
+  .btn-ghost:hover{background:#E9E5DB}
+  .actions button:disabled{opacity:.45;cursor:not-allowed;box-shadow:none;transform:none}
+
+  .card{background:var(--card);border:2px solid var(--outline);border-radius:16px;padding:15px 15px 16px;margin-bottom:13px;box-shadow:var(--shadow)}
+  .eyebrow{display:flex;align-items:center;gap:8px;font:800 12px/1 var(--sans);letter-spacing:.02em;color:var(--ink);margin:0 0 13px}
+  .eyebrow::before{content:"";width:12px;height:12px;background:var(--red);border:2px solid var(--outline);border-radius:3px;flex:none}
+  .field{margin-bottom:13px}
+  .field:last-child{margin-bottom:0}
+  label.lab{display:block;font-size:12.5px;font-weight:700;color:var(--ink);margin-bottom:6px}
+  label.lab .hint{font-weight:500;color:var(--muted)}
+  input[type=text],input[type=number],input[type=date],select{
+    width:100%;border:2px solid var(--line-strong);border-radius:10px;background:var(--field);
+    font:400 15px/1.3 var(--sans);color:var(--ink);padding:11px 12px;
+  }
+  input:focus,select:focus{outline:none;border-color:var(--accent);background:#fff;box-shadow:0 0 0 3px var(--accent-soft)}
+  .row2{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+  .row3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px}
+
+  .chips{display:flex;flex-wrap:wrap;gap:8px}
+  .chip{position:relative}
+  .chip input{position:absolute;opacity:0;width:0;height:0}
+  .chip span{display:inline-block;border:2px solid var(--line-strong);border-radius:999px;padding:8px 14px;font-size:13px;font-weight:700;color:var(--muted);cursor:pointer;user-select:none;background:var(--field)}
+  .chip input:checked + span{background:var(--accent-soft);border-color:var(--accent);color:var(--accent-press)}
+  .chip input:focus-visible + span{outline:2px solid var(--accent);outline-offset:2px}
+  .chip.warn input:checked + span{background:#FCE7E4;border-color:var(--red);color:var(--red-press)}
+
+  .guide{background:var(--card);border:2px solid var(--outline);border-radius:16px;padding:18px 16px 20px;margin-top:16px;box-shadow:var(--shadow)}
+  .guide h2{font-size:16px;font-weight:800;margin:0 0 5px;display:flex;align-items:center;gap:8px}
+  .guide h2::before{content:"";width:13px;height:13px;background:var(--accent);border:2px solid var(--outline);border-radius:3px;flex:none}
+  .guide .lead{font-size:12.5px;color:var(--muted);margin:0 0 4px}
+  .guide h3{font-size:13.5px;font-weight:800;margin:20px 0 9px;color:var(--ink)}
+  .guide p{font-size:13px;line-height:1.75;margin:0 0 10px;color:#3c372e}
+  .guide ol,.guide ul{margin:0 0 10px;padding-left:1.25em}
+  .guide li{font-size:13px;line-height:1.7;margin-bottom:6px;color:#3c372e}
+  .guide code{font-family:var(--mono);font-size:12px;background:var(--console-bg);color:var(--syn-key);padding:1px 6px;border-radius:5px;white-space:nowrap}
+  .oplist{display:flex;flex-direction:column;gap:8px;margin:0 0 10px}
+  .oprow{display:grid;grid-template-columns:150px 1fr;gap:10px;align-items:start;font-size:12.5px;line-height:1.55}
+  .oprow code{justify-self:start}
+  .oprow span{color:#3c372e}
+  .tzhint{font-size:11px;color:var(--muted);margin:9px 0 2px;line-height:1.5}
+  [data-guide][hidden]{display:none}
+  @media (max-width:400px){.oprow{grid-template-columns:1fr;gap:3px}}
+
+  footer{margin-top:24px;text-align:center;font-size:11.5px;color:#7a6f5c;line-height:1.7;font-weight:500}
+  .toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%) translateY(20px);background:var(--ink);color:#fff;font-size:13px;font-weight:700;padding:11px 20px;border-radius:999px;border:2px solid var(--outline);opacity:0;pointer-events:none;transition:opacity .2s,transform .2s;z-index:20}
+  .toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
+
+  @media (prefers-reduced-motion:reduce){*{transition:none!important}}
+  @media (max-width:400px){.row3{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div class="stamp">闘魂</div>
+    <div class="brand">
+      <h1 data-i18n="title">NyanChu検索ツール</h1>
+      <p data-i18n="sub">Xの高度検索コマンドを、ワンタップで。</p>
+    </div>
+    <div class="langtoggle" role="group" aria-label="language">
+      <button id="lang-ja" class="on" onclick="setLang('ja')">日本語</button>
+      <button id="lang-en" onclick="setLang('en')">EN</button>
+    </div>
+  </header>
+
+  <!-- Console -->
+  <div class="console">
+    <div class="console-top">
+      <span class="dot r"></span><span class="dot y"></span><span class="dot g"></span>
+      <span class="console-label">search command</span>
+    </div>
+    <div class="cmd" id="cmdOut"><span class="placeholder" data-i18n="empty">条件を1つ以上入れてください</span></div>
+    <div class="actions">
+      <button class="btn-primary" id="btnSearch" disabled onclick="doSearch()" data-i18n="search">Xで検索</button>
+      <button class="btn-ghost" id="btnCopy" disabled onclick="doCopy()" data-i18n="copy">コピー</button>
+      <button class="btn-ghost" id="btnClear" onclick="doClear()" data-i18n="clear">クリア</button>
+    </div>
+  </div>
+
+  <!-- Accounts -->
+  <div class="card">
+    <p class="eyebrow"><span data-i18n="who">アカウント</span></p>
+    <div class="field">
+      <label class="lab" for="from"><span data-i18n="fromL">投稿者</span> <span class="hint">from:</span></label>
+      <input type="text" id="from" data-i18n-ph="phFrom" autocomplete="off" autocapitalize="off" spellcheck="false">
+    </div>
+    <div class="field">
+      <label class="lab" for="to"><span data-i18n="toL">宛先</span> <span class="hint">to:</span></label>
+      <input type="text" id="to" data-i18n-ph="phTo" autocomplete="off" autocapitalize="off" spellcheck="false">
+    </div>
+    <div class="field">
+      <label class="lab" for="mention"><span data-i18n="mentionL">言及</span> <span class="hint">@</span></label>
+      <input type="text" id="mention" data-i18n-ph="phMention" autocomplete="off" autocapitalize="off" spellcheck="false">
+    </div>
+  </div>
+
+  <!-- Keywords -->
+  <div class="card">
+    <p class="eyebrow"><span data-i18n="words">キーワード</span></p>
+    <div class="field">
+      <label class="lab" for="kw" data-i18n="kwL">語句</label>
+      <input type="text" id="kw" data-i18n-ph="phKw" autocomplete="off">
+      <div class="chips" style="margin-top:8px" id="kwModeChips">
+        <label class="chip"><input type="radio" name="kwmode" value="phrase" checked><span data-i18n="modePhrase">完全一致</span></label>
+        <label class="chip"><input type="radio" name="kwmode" value="and"><span data-i18n="modeAnd">すべて含む</span></label>
+        <label class="chip"><input type="radio" name="kwmode" value="or"><span data-i18n="modeOr">いずれか</span></label>
+      </div>
+    </div>
+    <div class="field">
+      <label class="lab" for="tag"><span data-i18n="tagL">ハッシュタグ</span> <span class="hint">#</span></label>
+      <input type="text" id="tag" data-i18n-ph="phTag" autocomplete="off">
+    </div>
+    <div class="field">
+      <label class="lab" for="ex"><span data-i18n="exL">除外ワード</span> <span class="hint">-</span></label>
+      <input type="text" id="ex" data-i18n-ph="phEx" autocomplete="off">
+    </div>
+  </div>
+
+  <!-- Type & media -->
+  <div class="card">
+    <p class="eyebrow"><span data-i18n="type">投稿タイプ・メディア</span></p>
+    <div class="field">
+      <label class="lab" data-i18n="typeL">投稿タイプ</label>
+      <div class="chips">
+        <label class="chip"><input type="radio" name="ptype" value="" checked><span data-i18n="typeAny">指定なし</span></label>
+        <label class="chip"><input type="radio" name="ptype" value="exclude:replies"><span data-i18n="typePost">ポストのみ</span></label>
+        <label class="chip"><input type="radio" name="ptype" value="filter:replies"><span data-i18n="typeReply">リプライのみ</span></label>
+      </div>
+    </div>
+    <div class="field">
+      <label class="lab" data-i18n="mediaL">メディア</label>
+      <div class="chips">
+        <label class="chip"><input type="checkbox" id="m-img" value="filter:images"><span data-i18n="mImg">画像</span></label>
+        <label class="chip"><input type="checkbox" id="m-vid" value="filter:videos"><span data-i18n="mVid">動画</span></label>
+        <label class="chip"><input type="checkbox" id="m-link" value="filter:links"><span data-i18n="mLink">リンク</span></label>
+        <label class="chip"><input type="checkbox" id="m-media" value="filter:media"><span data-i18n="mMedia">メディア全般</span></label>
+        <label class="chip warn"><input type="checkbox" id="m-nolink" value="-filter:links"><span data-i18n="mNoLink">リンク除外</span></label>
+        <label class="chip warn"><input type="checkbox" id="m-textonly"><span data-i18n="mTextOnly">文字だけ</span></label>
+      </div>
+    </div>
+    <div class="field">
+      <label class="lab" data-i18n="verifL">アカウント種別</label>
+      <div class="chips">
+        <label class="chip"><input type="checkbox" id="verified" value="filter:blue_verified"><span data-i18n="verifOn">認証済みのみ</span></label>
+      </div>
+    </div>
+  </div>
+
+  <!-- Engagement -->
+  <div class="card">
+    <p class="eyebrow"><span data-i18n="engage">最低反応数</span></p>
+    <div class="row3">
+      <div class="field" style="margin:0">
+        <label class="lab" for="faves" data-i18n="favesL">いいね</label>
+        <input type="number" id="faves" min="0" step="1" inputmode="numeric" placeholder="0">
+      </div>
+      <div class="field" style="margin:0">
+        <label class="lab" for="reps" data-i18n="repsL">リプライ</label>
+        <input type="number" id="reps" min="0" step="1" inputmode="numeric" placeholder="0">
+      </div>
+      <div class="field" style="margin:0">
+        <label class="lab" for="rts" data-i18n="rtsL">リポスト</label>
+        <input type="number" id="rts" min="0" step="1" inputmode="numeric" placeholder="0">
+      </div>
+    </div>
+  </div>
+
+  <!-- More -->
+  <div class="card">
+    <p class="eyebrow"><span data-i18n="more">期間・言語・その他</span></p>
+    <div class="row2">
+      <div class="field" style="margin:0">
+        <label class="lab" for="since" data-i18n="sinceL">開始日</label>
+        <input type="date" id="since">
+      </div>
+      <div class="field" style="margin:0">
+        <label class="lab" for="sinceT" data-i18n="sinceTL">開始時刻</label>
+        <input type="time" id="sinceT">
+      </div>
+    </div>
+    <div class="row2" style="margin-top:10px">
+      <div class="field" style="margin:0">
+        <label class="lab" for="until" data-i18n="untilL">終了日</label>
+        <input type="date" id="until">
+      </div>
+      <div class="field" style="margin:0">
+        <label class="lab" for="untilT" data-i18n="untilTL">終了時刻</label>
+        <input type="time" id="untilT">
+      </div>
+    </div>
+    <p class="tzhint" data-i18n="tzHint">時刻はこの端末の時刻（例: JST）で入力すると、自動でUTCに換算します。日付だけなら従来どおり1日単位です。</p>
+
+    <div class="field" style="margin-top:8px;margin-bottom:13px">
+      <label class="lab" for="wt"><span data-i18n="wtL">直近◯以内</span> <span class="hint">within_time:</span></label>
+      <div class="row2">
+        <input type="number" id="wt" min="1" step="1" inputmode="numeric" placeholder="0">
+        <select id="wtUnit">
+          <option value="h" data-i18n="wtHour">時間</option>
+          <option value="m" data-i18n="wtMin">分</option>
+          <option value="d" data-i18n="wtDay">日</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="field" style="margin-bottom:13px">
+      <label class="lab" for="lang" data-i18n="langL">言語</label>
+      <select id="lang">
+        <option value="" data-i18n="langAny">指定なし</option>
+        <option value="ja">日本語 (ja)</option>
+        <option value="en">English (en)</option>
+        <option value="ko">한국어 (ko)</option>
+        <option value="zh">中文 (zh)</option>
+        <option value="es">Español (es)</option>
+        <option value="fr">Français (fr)</option>
+      </select>
+    </div>
+    <div class="row2">
+      <div class="field" style="margin:0">
+        <label class="lab" for="url"><span data-i18n="urlL">URL</span> <span class="hint">url:</span></label>
+        <input type="text" id="url" data-i18n-ph="phUrl" autocomplete="off" autocapitalize="off" spellcheck="false">
+      </div>
+      <div class="field" style="margin:0">
+        <label class="lab" for="list"><span data-i18n="listL">リストID</span> <span class="hint">list:</span></label>
+        <input type="text" id="list" inputmode="numeric" data-i18n-ph="phList" autocomplete="off">
+      </div>
+    </div>
+  </div>
+
+  <!-- Manual / Guide -->
+  <section class="guide" id="guide">
+    <!-- Japanese -->
+    <div data-guide="ja">
+      <h2>使い方（説明書）</h2>
+      <p class="lead">Xの検索窓に入れる「検索コマンド」を、フォームを埋めるだけで正しい書式で組み立てるツールです。演算子を覚えていなくても、上のコンソールに完成形が色分けで表示されます。</p>
+
+      <h3>3ステップ</h3>
+      <ol>
+        <li>絞り込みたい条件を入力します。<strong>投稿者・宛先・キーワードのうち最低1つ</strong>が入ればコマンドが完成します。</li>
+        <li>上の黒いコンソールに、色分けされた検索コマンドが自動で組み上がります。</li>
+        <li><strong>「Xで検索」</strong>を押すと最新順の結果が新しいタブで開きます。コマンドだけ使いたい時は<strong>「コピー」</strong>してX側の検索窓に貼ってください。</li>
+      </ol>
+
+      <h3>各項目の意味（演算子）</h3>
+      <div class="oplist">
+        <div class="oprow"><code>from:</code><span>そのアカウントの投稿だけに絞る</span></div>
+        <div class="oprow"><code>to:</code><span>そのアカウント宛の返信だけに絞る</span></div>
+        <div class="oprow"><code>@</code><span>そのアカウントに言及した投稿に絞る</span></div>
+        <div class="oprow"><code>"語句"</code><span>完全一致。その並びのまま含む投稿に絞る</span></div>
+        <div class="oprow"><code>語句 語句</code><span>すべて含む（AND）</span></div>
+        <div class="oprow"><code>A OR B</code><span>いずれかを含む（OR）</span></div>
+        <div class="oprow"><code>#タグ</code><span>ハッシュタグで絞る</span></div>
+        <div class="oprow"><code>-語句</code><span>その語句を含む投稿を除外</span></div>
+        <div class="oprow"><code>exclude:replies</code><span>返信を除く（ポストのみ）</span></div>
+        <div class="oprow"><code>filter:replies</code><span>返信だけを表示</span></div>
+        <div class="oprow"><code>filter:images</code><span>画像付き投稿に絞る（動画は videos、リンクは links）</span></div>
+        <div class="oprow"><code>filter:media</code><span>メディア付き全般に絞る</span></div>
+        <div class="oprow"><code>-filter:media -filter:links</code><span>文字だけの投稿（画像・動画・リンクを含まない）に絞る</span></div>
+        <div class="oprow"><code>-filter:links</code><span>リンクを含む投稿を除外</span></div>
+        <div class="oprow"><code>filter:blue_verified</code><span>認証済みアカウントのみ</span></div>
+        <div class="oprow"><code>min_faves:</code><span>指定数以上のいいねが付いた投稿</span></div>
+        <div class="oprow"><code>min_replies:</code><span>指定数以上の返信が付いた投稿</span></div>
+        <div class="oprow"><code>min_retweets:</code><span>指定数以上のリポストが付いた投稿</span></div>
+        <div class="oprow"><code>since: / until:</code><span>期間で絞る（日付。時刻を入れるとその時刻まで指定でき、ローカル時刻→UTCに自動換算）</span></div>
+        <div class="oprow"><code>within_time:</code><span>今から遡って◯以内（例: 2h=2時間、30m=30分、1d=1日）。伸び始めを追うのに便利</span></div>
+        <div class="oprow"><code>lang:</code><span>言語で絞る（ja・en など）</span></div>
+        <div class="oprow"><code>url:</code><span>そのドメインへのリンクを含む投稿</span></div>
+        <div class="oprow"><code>list:</code><span>そのリスト内の投稿を検索（リストIDを入力）</span></div>
+      </div>
+
+      <h3>キーワードの3モード</h3>
+      <ul>
+        <li><strong>完全一致</strong>：入力した並びのまま含む投稿を探す（フレーズ検索）。</li>
+        <li><strong>すべて含む</strong>：入力した語をすべて含む投稿（AND）。2語両方を含めたい時はこちら。</li>
+        <li><strong>いずれか</strong>：入力した語のどれかを含む投稿（OR）。表記ゆれをまとめて拾いたい時に。</li>
+      </ul>
+
+      <h3>検索の例（レシピ）</h3>
+      <ul>
+        <li>特定アカウントのバズった投稿：<code>from:アカウント min_faves:1000</code></li>
+        <li>あるテーマで認証済みの高反応投稿：<code>"テーマ" filter:blue_verified min_faves:500</code></li>
+        <li>直近6時間の話題の反応：<code>"キーワード" within_time:6h</code></li>
+        <li>文字だけの投稿を拾う：<code>"キーワード" -filter:media -filter:links</code></li>
+        <li>自分への言及を集める：<code>@自分のID</code>（または <code>to:自分のID</code>）</li>
+        <li>ある月のまとめ：<code>from:アカウント since:2026-06-01 until:2026-07-01</code></li>
+      </ul>
+
+      <h3>コツとつまずき</h3>
+      <ul>
+        <li><strong>結果が0件になる</strong>：条件の入れすぎです。最低反応数を空にして、キーワードだけで試してから1つずつ足すと原因が分かります。</li>
+        <li><strong>思った投稿が出ない</strong>：キーワードは表記ゆれ（カタカナ・ひらがな・英字）を別語として扱います。短めの語で試してください。</li>
+        <li><strong>古い投稿ばかり出る</strong>：このツールは最新順で開くよう設定済みです。X側で「話題」に切り替わっていたら「最新」に戻してください。</li>
+        <li><strong>いいね100以上などを指定すると</strong>：それ未満は結果から消えます。伸びた投稿探しには便利ですが、投稿直後を探す用途には向きません。</li>
+        <li><strong>「いずれか(OR)」は英大文字</strong>：<code>OR</code> は大文字でないと機能しません（このツールは自動で大文字にします）。</li>
+        <li><strong><code>until:</code> は排他的</strong>：<code>until:2026-02-01</code> は1月31日までが対象で、2月1日は含みません。1日分だけ見たい時は翌日を指定します。</li>
+        <li><strong>時刻はUTC基準</strong>：時刻欄はローカル（JST）で入力→UTCに自動換算されます。日付だけの指定もUTC基準で評価されるため、深夜帯は1日ずれて見えることがあります。</li>
+        <li><strong>ログイン状態で結果が変わる</strong>：<code>filter:blue_verified</code> などはログイン中のアカウントやXの仕様で結果が変動します。</li>
+        <li><strong>使えない演算子</strong>：位置情報系（<code>near:</code>・<code>geocode:</code>）などは現在無効なため、このツールには入れていません。</li>
+      </ul>
+
+      <h3>プライバシー</h3>
+      <p>入力内容はこの端末のブラウザ内でコマンド文字列に組み立てるだけで、サーバーへは送信しません。検索そのものはX側で実行されるため、表示される結果はXの仕様やログイン状態で変わります。</p>
+    </div>
+
+    <!-- English -->
+    <div data-guide="en" hidden>
+      <h2>How to use</h2>
+      <p class="lead">Fill in the fields and this tool builds a correctly formatted X search command for you. You don't need to memorize the operators, the finished command appears color-coded in the console above.</p>
+
+      <h3>3 steps</h3>
+      <ol>
+        <li>Enter the conditions you want. <strong>At least one of From, To, or a keyword</strong> completes a command.</li>
+        <li>The command assembles itself in the black console above, with each operator color-coded.</li>
+        <li>Press <strong>Search on X</strong> to open the latest results in a new tab, or press <strong>Copy</strong> to paste the command into X's own search box.</li>
+      </ol>
+
+      <h3>What each operator means</h3>
+      <div class="oplist">
+        <div class="oprow"><code>from:</code><span>only posts from that account</span></div>
+        <div class="oprow"><code>to:</code><span>only replies addressed to that account</span></div>
+        <div class="oprow"><code>@</code><span>posts that mention that account</span></div>
+        <div class="oprow"><code>"phrase"</code><span>exact match: the words in that exact order</span></div>
+        <div class="oprow"><code>word word</code><span>contains all words (AND)</span></div>
+        <div class="oprow"><code>A OR B</code><span>contains either word (OR)</span></div>
+        <div class="oprow"><code>#tag</code><span>filter by hashtag</span></div>
+        <div class="oprow"><code>-word</code><span>exclude posts containing that word</span></div>
+        <div class="oprow"><code>exclude:replies</code><span>exclude replies (posts only)</span></div>
+        <div class="oprow"><code>filter:replies</code><span>show replies only</span></div>
+        <div class="oprow"><code>filter:images</code><span>posts with images (videos, links likewise)</span></div>
+        <div class="oprow"><code>filter:media</code><span>posts with any media</span></div>
+        <div class="oprow"><code>-filter:media -filter:links</code><span>text-only posts (no images, videos, or links)</span></div>
+        <div class="oprow"><code>-filter:links</code><span>exclude posts with links</span></div>
+        <div class="oprow"><code>filter:blue_verified</code><span>verified accounts only</span></div>
+        <div class="oprow"><code>min_faves:</code><span>at least N likes</span></div>
+        <div class="oprow"><code>min_replies:</code><span>at least N replies</span></div>
+        <div class="oprow"><code>min_retweets:</code><span>at least N reposts</span></div>
+        <div class="oprow"><code>since: / until:</code><span>limit by date; add a time for finer precision (local time auto-converted to UTC)</span></div>
+        <div class="oprow"><code>within_time:</code><span>within the last N (e.g. 2h, 30m, 1d). Handy for catching posts as they take off</span></div>
+        <div class="oprow"><code>lang:</code><span>limit by language (ja, en, etc.)</span></div>
+        <div class="oprow"><code>url:</code><span>posts linking to that domain</span></div>
+        <div class="oprow"><code>list:</code><span>search posts within that list (enter the list ID)</span></div>
+      </div>
+
+      <h3>Keyword modes</h3>
+      <ul>
+        <li><strong>Exact phrase</strong>: matches the words in that exact order.</li>
+        <li><strong>All words</strong>: posts containing every word (AND).</li>
+        <li><strong>Any word</strong>: posts containing any of the words (OR). Handy for spelling variants.</li>
+      </ul>
+
+      <h3>Search recipes</h3>
+      <ul>
+        <li>An account's high-performing posts: <code>from:account min_faves:1000</code></li>
+        <li>High-engagement posts on a topic from verified accounts: <code>"topic" filter:blue_verified min_faves:500</code></li>
+        <li>Reactions on a topic in the last 6 hours: <code>"keyword" within_time:6h</code></li>
+        <li>Text-only posts: <code>"keyword" -filter:media -filter:links</code></li>
+        <li>Mentions of you: <code>@yourID</code> (or <code>to:yourID</code>)</li>
+        <li>Everything from one month: <code>from:account since:2026-06-01 until:2026-07-01</code></li>
+      </ul>
+
+      <h3>Tips &amp; gotchas</h3>
+      <ul>
+        <li><strong>Zero results</strong>: too many conditions. Clear the minimum-engagement fields, try the keyword alone, then add one condition at a time.</li>
+        <li><strong>Missing the posts you expected</strong>: keywords are matched exactly, so spelling variants count as different words. Try shorter terms.</li>
+        <li><strong>Only old posts</strong>: this tool opens results in Latest order. If X switched to Top, switch back to Latest.</li>
+        <li><strong>Setting min likes, etc.</strong>: anything below the number disappears. Great for finding posts that took off, less so for brand-new ones.</li>
+        <li><strong>"Any word (OR)" must be uppercase</strong>: <code>OR</code> only works in capitals (this tool capitalizes it for you).</li>
+        <li><strong><code>until:</code> is exclusive</strong>: <code>until:2026-02-01</code> covers up to Jan 31, not Feb 1. For a single day, set until to the next day.</li>
+        <li><strong>Times are UTC-based</strong>: the time fields take your local time and convert to UTC. Date-only filters are also evaluated in UTC, so late-night posts can look shifted by a day.</li>
+        <li><strong>Results depend on login state</strong>: operators like <code>filter:blue_verified</code> can vary with your logged-in account and X's current behavior.</li>
+        <li><strong>Dead operators</strong>: geo operators (<code>near:</code>, <code>geocode:</code>) no longer work, so they're not included here.</li>
+      </ul>
+
+      <h3>Privacy</h3>
+      <p>Your inputs are turned into a command string inside this browser only and are never sent to a server. The search itself runs on X, so results depend on X and your login state.</p>
+    </div>
+  </section>
+
+  <footer>
+    <span data-i18n="foot1">入力内容はこの端末のブラウザ内でコマンド化するだけで、サーバーへ送信しません。</span><br>
+    <span data-i18n="foot2">検索はX側で実行され、結果はXの仕様やログイン状態で変わります。</span><br>
+    <a href="https://kasawa.news/ja" id="kasawaLink" style="color:inherit;font-weight:800;margin-top:8px;display:inline-block">KASAWA — ニュースアーカイブ</a>
+  </footer>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+var I18N={
+  ja:{
+    title:"NyanChu検索ツール", sub:"Xの高度検索コマンドを、ワンタップで。", empty:"条件を1つ以上入れてください",
+    who:"アカウント", fromL:"投稿者", toL:"宛先", mentionL:"言及",
+    words:"キーワード", kwL:"語句", modePhrase:"完全一致", modeAnd:"すべて含む", modeOr:"いずれか",
+    tagL:"ハッシュタグ", exL:"除外ワード",
+    type:"投稿タイプ・メディア", typeL:"投稿タイプ", typeAny:"指定なし", typePost:"ポストのみ", typeReply:"リプライのみ",
+    mediaL:"メディア", mImg:"画像", mVid:"動画", mLink:"リンク", mMedia:"メディア全般", mNoLink:"リンク除外", mTextOnly:"文字だけ",
+    verifL:"アカウント種別", verifOn:"認証済みのみ",
+    engage:"最低反応数", favesL:"いいね", repsL:"リプライ", rtsL:"リポスト",
+    more:"期間・言語・その他", sinceL:"開始日", untilL:"終了日", sinceTL:"開始時刻", untilTL:"終了時刻", tzHint:"時刻はこの端末の時刻（例: JST）で入力すると、自動でUTCに換算します。日付だけなら従来どおり1日単位です。", wtL:"直近◯以内", wtHour:"時間", wtMin:"分", wtDay:"日", langL:"言語", langAny:"指定なし", urlL:"URL", listL:"リストID",
+    search:"Xで検索", copy:"コピー", clear:"クリア", copied:"コピーしました",
+    foot1:"入力内容はこの端末のブラウザ内でコマンド化するだけで、サーバーへ送信しません。",
+    foot2:"検索はX側で実行され、結果はXの仕様やログイン状態で変わります。",
+    phFrom:"@username / URL可", phTo:"@username / URL可", phMention:"@username / URL可",
+    phKw:"例: 抹茶 かき氷", phTag:"例: 京都 グルメ", phEx:"例: PR 広告", phUrl:"例: youtube.com", phList:"例: 1234567890"
+  },
+  en:{
+    title:"NyanChu Search", sub:"Build advanced X search commands in one tap.", empty:"Add at least one condition",
+    who:"Accounts", fromL:"From", toL:"To", mentionL:"Mentions",
+    words:"Keywords", kwL:"Terms", modePhrase:"Exact phrase", modeAnd:"All words", modeOr:"Any word",
+    tagL:"Hashtag", exL:"Exclude words",
+    type:"Post type & media", typeL:"Post type", typeAny:"Any", typePost:"Posts only", typeReply:"Replies only",
+    mediaL:"Media", mImg:"Images", mVid:"Videos", mLink:"Links", mMedia:"Any media", mNoLink:"No links", mTextOnly:"Text only",
+    verifL:"Account type", verifOn:"Verified only",
+    engage:"Minimum engagement", favesL:"Likes", repsL:"Replies", rtsL:"Reposts",
+    more:"Date, language & more", sinceL:"Since", untilL:"Until", sinceTL:"Start time", untilTL:"End time", tzHint:"Enter times in this device's local time; they're auto-converted to UTC. Date only keeps day-level precision.", wtL:"Within last", wtHour:"hours", wtMin:"minutes", wtDay:"days", langL:"Language", langAny:"Any", urlL:"URL", listL:"List ID",
+    search:"Search on X", copy:"Copy", clear:"Clear", copied:"Copied",
+    foot1:"Your inputs are turned into a command inside this browser only. Nothing is sent to a server.",
+    foot2:"The search runs on X, so results depend on X and your login state.",
+    phFrom:"@username / URL ok", phTo:"@username / URL ok", phMention:"@username / URL ok",
+    phKw:"e.g. matcha shaved ice", phTag:"e.g. kyoto food", phEx:"e.g. PR ad", phUrl:"e.g. youtube.com", phList:"e.g. 1234567890"
+  }
+};
+var LANG="ja";
+function $(id){return document.getElementById(id);}
+
+function setLang(l){
+  LANG=l; var d=I18N[l];
+  $("lang-ja").classList.toggle("on",l==="ja");
+  $("lang-en").classList.toggle("on",l==="en");
+  document.documentElement.lang=l;
+  var gs=document.querySelectorAll("[data-guide]");
+  for(var g=0;g<gs.length;g++){ gs[g].hidden=(gs[g].getAttribute("data-guide")!==l); }
+  var nodes=document.querySelectorAll("[data-i18n]");
+  for(var i=0;i<nodes.length;i++){var k=nodes[i].getAttribute("data-i18n"); if(d[k]!==undefined) nodes[i].textContent=d[k];}
+  var phs=document.querySelectorAll("[data-i18n-ph]");
+  for(var j=0;j<phs.length;j++){var pk=phs[j].getAttribute("data-i18n-ph"); if(d[pk]!==undefined) phs[j].placeholder=d[pk];}
+  build();
+}
+
+// ---------- helpers ----------
+function cleanHandle(v){
+  v=(v||"").trim(); if(!v) return "";
+  var m=v.match(/(?:x\.com|twitter\.com)\/(?:#!\/)?@?([A-Za-z0-9_]{1,15})/i);
+  if(m) return m[1];
+  return v.replace(/^@+/,"").replace(/[^A-Za-z0-9_]/g,"");
+}
+function stripQuotes(v){return (v||"").replace(/^"+|"+$/g,"").trim();}
+function words(v){return (v||"").trim().split(/\s+/).filter(Boolean);}
+function posInt(v){
+  v=(v||"").trim(); if(v==="") return null;
+  if(!/^\d+$/.test(v)) return null;
+  var n=parseInt(v,10); return n>0?n:null;
+}
+function pad2(n){return (n<10?"0":"")+n;}
+function dtStamp(dateStr,timeStr){
+  var dp=dateStr.split("-"), tp=timeStr.split(":");
+  var dt=new Date(+dp[0],(+dp[1])-1,+dp[2],+tp[0],+tp[1],0); // interpreted in device local time
+  return dt.getUTCFullYear()+"-"+pad2(dt.getUTCMonth()+1)+"-"+pad2(dt.getUTCDate())+"_"+pad2(dt.getUTCHours())+":"+pad2(dt.getUTCMinutes())+":"+pad2(dt.getUTCSeconds())+"_UTC";
+}
+
+function collect(){
+  var toks=[], i, w;
+  var f=cleanHandle($("from").value); if(f) toks.push({cls:"user",op:"from:",val:f});
+  var t=cleanHandle($("to").value);   if(t) toks.push({cls:"user",op:"to:",val:t});
+  var mn=cleanHandle($("mention").value); if(mn) toks.push({cls:"user",op:"@",val:mn});
+
+  // keyword by mode
+  var mode=document.querySelector('input[name=kwmode]:checked').value;
+  var kwRaw=stripQuotes($("kw").value);
+  if(kwRaw){
+    if(mode==="phrase"){ toks.push({cls:"key",op:"",val:'"'+kwRaw+'"'}); }
+    else if(mode==="and"){ w=words(kwRaw); for(i=0;i<w.length;i++) toks.push({cls:"key",op:"",val:w[i]}); }
+    else { w=words(kwRaw); if(w.length===1){toks.push({cls:"key",op:"",val:w[0]});} else if(w.length>1){toks.push({cls:"key",op:"",val:w.join(" OR ")});} }
+  }
+  // hashtags
+  w=words($("tag").value);
+  for(i=0;i<w.length;i++){ var tg=w[i].replace(/^#+/,""); if(tg) toks.push({cls:"key",op:"",val:"#"+tg}); }
+  // exclude
+  w=words($("ex").value);
+  for(i=0;i<w.length;i++){ var e=stripQuotes(w[i]); if(e) toks.push({cls:"neg",op:"-",val:e}); }
+
+  // type & media
+  var pt=document.querySelector('input[name=ptype]:checked').value;
+  if(pt) toks.push({cls:"filter",op:"",val:pt});
+  ["m-img","m-vid","m-link","m-media","m-nolink"].forEach(function(id){ if($(id).checked) toks.push({cls:"filter",op:"",val:$(id).value}); });
+  if($("m-textonly").checked){ toks.push({cls:"filter",op:"",val:"-filter:media"}); toks.push({cls:"filter",op:"",val:"-filter:links"}); }
+  if($("verified").checked) toks.push({cls:"filter",op:"",val:"filter:blue_verified"});
+
+  // engagement
+  var fav=posInt($("faves").value); if(fav!==null) toks.push({cls:"num",op:"min_faves:",val:fav});
+  var rp=posInt($("reps").value);   if(rp!==null)  toks.push({cls:"num",op:"min_replies:",val:rp});
+  var rt=posInt($("rts").value);    if(rt!==null)  toks.push({cls:"num",op:"min_retweets:",val:rt});
+
+  // more
+  var s=$("since").value, sT=$("sinceT").value; if(s) toks.push({cls:"date",op:"since:",val:sT?dtStamp(s,sT):s});
+  var u=$("until").value, uT=$("untilT").value; if(u) toks.push({cls:"date",op:"until:",val:uT?dtStamp(u,uT):u});
+  var wtn=posInt($("wt").value); if(wtn!==null) toks.push({cls:"date",op:"within_time:",val:wtn+$("wtUnit").value});
+  var lg=$("lang").value; if(lg) toks.push({cls:"date",op:"lang:",val:lg});
+  var ur=($("url").value||"").trim().replace(/^https?:\/\//i,"").replace(/\/+$/,""); if(ur) toks.push({cls:"filter",op:"url:",val:ur});
+  var ls=($("list").value||"").replace(/[^0-9]/g,""); if(ls) toks.push({cls:"filter",op:"list:",val:ls});
+  return toks;
+}
+
+function build(){
+  var toks=collect(), out=$("cmdOut");
+  if(toks.length===0){
+    out.innerHTML='<span class="placeholder">'+I18N[LANG].empty+'</span>';
+    $("btnSearch").disabled=true; $("btnCopy").disabled=true; window.__cmd=""; return;
+  }
+  out.innerHTML=toks.map(function(t){return '<span class="tok '+t.cls+'"><span class="op">'+t.op+'</span>'+t.val+'</span>';}).join("");
+  window.__cmd=toks.map(function(t){return t.op+t.val;}).join(" ");
+  $("btnSearch").disabled=false; $("btnCopy").disabled=false;
+}
+
+function doSearch(){
+  if(!window.__cmd) return;
+  window.open("https://x.com/search?q="+encodeURIComponent(window.__cmd)+"&src=typed_query&f=live","_blank","noopener");
+}
+function doCopy(){
+  if(!window.__cmd) return;
+  var txt=window.__cmd, done=function(){toast(I18N[LANG].copied);};
+  if(navigator.clipboard && window.isSecureContext){ navigator.clipboard.writeText(txt).then(done).catch(function(){fallbackCopy(txt,done);}); }
+  else { fallbackCopy(txt,done); }
+}
+function fallbackCopy(txt,cb){
+  var ta=document.createElement("textarea"); ta.value=txt; ta.style.position="fixed"; ta.style.opacity="0";
+  document.body.appendChild(ta); ta.focus(); ta.select();
+  try{ document.execCommand("copy"); cb(); }catch(e){} document.body.removeChild(ta);
+}
+function doClear(){
+  ["from","to","mention","kw","tag","ex","faves","reps","rts","since","until","sinceT","untilT","wt","url","list"].forEach(function(id){$(id).value="";});
+  $("lang").value=""; $("wtUnit").value="h";
+  document.querySelector('input[name=ptype][value=""]').checked=true;
+  document.querySelector('input[name=kwmode][value="phrase"]').checked=true;
+  ["m-img","m-vid","m-link","m-media","m-nolink","m-textonly","verified"].forEach(function(id){$(id).checked=false;});
+  build();
+}
+var toastTimer;
+function toast(msg){ var el=$("toast"); el.textContent=msg; el.classList.add("show"); clearTimeout(toastTimer); toastTimer=setTimeout(function(){el.classList.remove("show");},1600); }
+
+function kasawaPrefill(){
+  var p=new URLSearchParams(location.search);
+  if(!p.has("kw") && !p.has("url") && !p.has("from") && !p.has("wt") && !p.has("tag") && !p.has("mention")) return;
+  function set(id,value){ var el=$(id); if(el && value) el.value=value; }
+  set("kw", p.get("kw"));
+  set("url", p.get("url"));
+  set("from", p.get("from"));
+  set("wt", p.get("wt"));
+  set("lang", p.get("lang"));
+  set("tag", p.get("tag"));
+  set("mention", p.get("mention"));
+  set("ex", p.get("ex"));
+  var wtUnit=p.get("wtUnit"); if(wtUnit) set("wtUnit", wtUnit);
+  var mode=p.get("mode");
+  if(mode){
+    var modeInput=document.querySelector('input[name="kwmode"][value="'+mode+'"]');
+    if(modeInput) modeInput.checked=true;
+  }
+}
+
+var all=document.querySelectorAll("input,select");
+for(var q=0;q<all.length;q++){ all[q].addEventListener("input",build); all[q].addEventListener("change",build); }
+kasawaPrefill();
+build();
+</script>
+</body>
+</html>

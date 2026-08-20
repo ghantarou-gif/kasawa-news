@@ -1,0 +1,11 @@
+[build]
+  command = "npm run build"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+# Persist RSS archive between builds (optional; omit if you prefer fresh ingest each deploy)
+# [[edge_functions]]
