@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Fraunces, IBM_Plex_Sans_JP, Noto_Serif_JP } from "next/font/google";
 import { AdSenseScript } from "@/components/AdSenseScript";
 import { publicSiteUrl } from "@/lib/brand";
@@ -33,6 +33,13 @@ export const metadata: Metadata = {
   description: "日付別にまとめたニュース見出し。無料RSSから自動取得。",
 };
 
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  viewportFit: "cover",
+  themeColor: "#fbf6df",
+};
+
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html
@@ -40,7 +47,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       suppressHydrationWarning
       className={`${fraunces.variable} ${notoSerif.variable} ${plex.variable} h-full antialiased`}
     >
-      <body className="min-h-full bg-paper text-ink">
+      <body className="site-body min-h-full bg-paper text-ink">
         <AdSenseScript />
         {children}
       </body>

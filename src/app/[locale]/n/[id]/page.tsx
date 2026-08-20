@@ -79,7 +79,7 @@ export default async function ArticlePage({
   const pageUrl = `${siteUrl()}/${locale}/n/${id}`;
 
   return (
-    <article className="py-8">
+    <article className="break-words py-6 sm:py-8">
       <Link
         href={`/${locale}/d/${day}`}
         className="font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent"
@@ -96,7 +96,7 @@ export default async function ArticlePage({
         ) : null}
       </div>
 
-      <h1 className="font-display mt-4 text-[clamp(1.75rem,4.5vw,2.75rem)] leading-tight tracking-[-0.03em]">
+      <h1 className="font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]">
         {article.title}
       </h1>
 
@@ -112,10 +112,10 @@ export default async function ArticlePage({
       ) : null}
 
       {article.excerpt ? (
-        <p className="mt-6 text-[17px] leading-8 text-ink/90">{article.excerpt}</p>
+        <p className="mt-6 text-[16px] leading-8 text-ink/90 sm:text-[17px]">{article.excerpt}</p>
       ) : null}
 
-      <div className="mt-6 flex flex-wrap items-center gap-3">
+      <div className="action-row mt-6">
         <a
           href={article.url}
           target="_blank"
@@ -128,7 +128,7 @@ export default async function ArticlePage({
 
       <section className="article-actions">
         <ShareBar url={pageUrl} title={article.title} locale={locale} take={take} />
-        <div className="mt-3">
+        <div className="action-row mt-3">
           <NyanchuSearchLink article={article} locale={locale} />
         </div>
       </section>

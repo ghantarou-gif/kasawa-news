@@ -62,7 +62,7 @@ export function ShareBar({
   return (
     <div className="share-bar">
       <p className="share-kicker">{copy.shareKicker}</p>
-      <div className="mt-3 flex flex-wrap gap-2">
+      <div className="action-row mt-3">
         <a
           href={xIntent}
           onClick={openShare}

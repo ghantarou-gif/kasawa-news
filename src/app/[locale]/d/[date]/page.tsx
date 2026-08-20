@@ -42,14 +42,14 @@ export default async function DayPage({
   const summary = days.find((day) => day.date === date);
 
   return (
-    <section className="py-8">
+    <section className="break-words py-6 sm:py-8">
       <Link
         href={`/${locale}`}
         className="font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent"
       >
         {copy.back}
       </Link>
-      <h2 className="font-display mt-4 text-[clamp(2rem,5vw,3.3rem)] leading-none">
+      <h2 className="font-display mt-4 text-[clamp(1.55rem,7vw,3.3rem)] leading-none">
         <span className="text-accent">BREAKING</span> {formatDayHeading(date, locale)}
       </h2>
       <p className="mt-3 text-[14px] text-muted">

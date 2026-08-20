@@ -37,7 +37,7 @@ export function StoryGrid({
             </div>
             <Link
               href={hub}
-              className="mt-3 block font-display text-[1.25rem] leading-snug tracking-[-0.02em] hover:text-accent"
+              className="mt-3 block break-words font-display text-[1.15rem] leading-snug tracking-[-0.02em] hover:text-accent sm:text-[1.25rem]"
             >
               {article.title}
             </Link>
@@ -53,9 +53,9 @@ export function StoryGrid({
                 {article.excerpt}
               </p>
             ) : null}
-            <div className="mt-4 flex items-center justify-between gap-3 border-t border-line pt-3 text-[12px] text-muted">
+            <div className="mt-4 flex flex-col gap-3 border-t border-line pt-3 text-[12px] text-muted sm:flex-row sm:items-center sm:justify-between">
               <span>{formatWhen(article.publishedAt ?? article.firstSeenAt, locale)}</span>
-              <div className="flex items-center gap-2">
+              <div className="action-row">
                 <Link href={hub} className="open-btn">
                   {copy.more}
                 </Link>

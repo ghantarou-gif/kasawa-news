@@ -42,8 +42,8 @@ export default async function LocaleLayout({
       <HtmlLang locale={locale} />
       <DeskHeader locale={locale} updatedAt={updatedAt} />
       <LiveRefresh />
-      <div className="mx-auto w-full max-w-6xl flex-1 px-4 sm:px-6">{children}</div>
-      <div className="mx-auto w-full max-w-6xl px-4 sm:px-6">
+      <div className="site-shell mx-auto w-full max-w-6xl flex-1 px-4 sm:px-6">{children}</div>
+      <div className="site-shell mx-auto w-full max-w-6xl px-4 sm:px-6">
         <SiteFooter locale={locale} />
       </div>
     </div>

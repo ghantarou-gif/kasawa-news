@@ -15,6 +15,12 @@
   --font-display: var(--font-fraunces), var(--font-serif-jp), Georgia, serif;
 }
 
+html {
+  overflow-x: clip;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
 html,
 body {
   background: var(--color-paper);
@@ -23,6 +29,16 @@ body {
 
 body {
   font-family: var(--font-sans);
+}
+
+.site-body {
+  padding-left: env(safe-area-inset-left);
+  padding-right: env(safe-area-inset-right);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+.site-shell {
+  max-width: min(72rem, 100%);
 }
 
 ::selection {
@@ -45,12 +61,91 @@ a {
   align-items: center;
   gap: 0.35rem;
   border-radius: 999px;
-  padding: 0.42rem 0.85rem;
+  padding: 0.55rem 0.9rem;
   font-size: 13px;
   line-height: 1;
   background: var(--color-card);
   color: var(--color-ink);
   border: 1px solid var(--color-line);
+  min-height: 44px;
+  flex: none;
+  white-space: nowrap;
+}
+
+.chip-nav {
+  display: flex;
+  gap: 0.5rem;
+  overflow-x: auto;
+  flex-wrap: nowrap;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  padding-bottom: 0.15rem;
+  margin-inline: -0.15rem;
+  padding-inline: 0.15rem;
+}
+
+.chip-nav::-webkit-scrollbar {
+  display: none;
+}
+
+@media (min-width: 640px) {
+  .chip-nav {
+    flex-wrap: wrap;
+    overflow-x: visible;
+    margin-inline: 0;
+    padding-inline: 0;
+  }
+}
+
+.header-nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem 0.75rem;
+}
+
+.header-nav-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 0.35rem 0.15rem;
+  font-size: 12px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--color-muted);
+}
+
+.header-nav-link:hover {
+  color: var(--color-accent);
+}
+
+.action-row {
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+}
+
+@media (min-width: 640px) {
+  .action-row {
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+}
+
+.action-row .open-btn,
+.action-row .ghost-btn,
+.action-row .share-btn {
+  width: 100%;
+  justify-content: center;
+}
+
+@media (min-width: 640px) {
+  .action-row .open-btn,
+  .action-row .ghost-btn,
+  .action-row .share-btn {
+    width: auto;
+  }
 }
 
 .chip:hover,
@@ -69,9 +164,15 @@ a {
   display: block;
   border-radius: 1rem;
   background: var(--color-card);
-  padding: 1.35rem 1.4rem;
+  padding: 1.1rem 1.15rem;
   border: 1px solid var(--color-line);
   transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+@media (min-width: 640px) {
+  .day-card {
+    padding: 1.35rem 1.4rem;
+  }
 }
 
 .day-card:hover {
@@ -140,13 +241,16 @@ a {
 .open-btn {
   display: inline-flex;
   align-items: center;
+  justify-content: center;
   border-radius: 999px;
   background: var(--color-ink);
   color: #fff;
-  padding: 0.45rem 0.95rem;
-  font-size: 13px;
-  line-height: 1;
+  padding: 0.65rem 1rem;
+  font-size: 14px;
+  line-height: 1.2;
   border: 1px solid var(--color-ink);
+  min-height: 44px;
+  touch-action: manipulation;
 }
 
 .open-btn:hover {
@@ -157,13 +261,16 @@ a {
 .ghost-btn {
   display: inline-flex;
   align-items: center;
+  justify-content: center;
   border-radius: 999px;
   background: var(--color-card);
   color: var(--color-ink);
-  padding: 0.45rem 0.95rem;
-  font-size: 13px;
-  line-height: 1;
+  padding: 0.65rem 1rem;
+  font-size: 14px;
+  line-height: 1.2;
   border: 1px solid var(--color-line);
+  min-height: 44px;
+  touch-action: manipulation;
 }
 
 .ghost-btn:hover {
@@ -218,11 +325,15 @@ a {
 
 .affiliate-link {
   display: inline-flex;
+  align-items: center;
+  justify-content: center;
   border-radius: 999px;
   background: var(--color-ink);
   color: #fff;
-  padding: 0.45rem 0.85rem;
-  font-size: 13px;
+  padding: 0.65rem 1rem;
+  font-size: 14px;
+  min-height: 44px;
+  touch-action: manipulation;
 }
 
 .affiliate-link:hover {
@@ -234,7 +345,13 @@ a {
   border-radius: 1rem;
   background: var(--color-card);
   border: 1px solid var(--color-line);
-  padding: 1.15rem 1.25rem;
+  padding: 1rem 1rem;
+}
+
+@media (min-width: 640px) {
+  .article-actions {
+    padding: 1.15rem 1.25rem;
+  }
 }
 
 .share-bar {
@@ -256,11 +373,14 @@ a {
 .share-btn {
   display: inline-flex;
   align-items: center;
+  justify-content: center;
   border-radius: 999px;
-  padding: 0.45rem 0.9rem;
-  font-size: 13px;
-  line-height: 1;
+  padding: 0.65rem 1rem;
+  font-size: 14px;
+  line-height: 1.2;
   cursor: pointer;
+  min-height: 44px;
+  touch-action: manipulation;
 }
 
 .share-btn-x {

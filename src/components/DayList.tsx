@@ -21,7 +21,7 @@ export function DayList({
           <Link href={`/${locale}/d/${day.date}`} className={`day-card ${index === 0 ? "day-card-new" : ""}`}>
             <div className="flex flex-wrap items-end justify-between gap-3">
               <div>
-                <p className="flex items-center gap-2 font-display text-[1.85rem] leading-none tracking-[-0.03em]">
+                <p className="flex flex-wrap items-center gap-2 font-display text-[clamp(1.45rem,6.5vw,1.85rem)] leading-none tracking-[-0.03em]">
                   {formatDayHeading(day.date, locale)}
                   {index === 0 ? <span className="new-badge">{copy.newBadge}</span> : null}
                 </p>
