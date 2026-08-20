@@ -11,8 +11,10 @@
   --color-card: #ffffff;
   --color-line: #e6e6e2;
   --color-surface: #f0f0ec;
-  --font-sans: var(--font-ui), "Hiragino Sans", sans-serif;
-  --font-display: var(--font-fraunces), var(--font-serif-jp), Georgia, serif;
+  --font-sans: var(--font-ui), "Hiragino Kaku Gothic ProN", "Hiragino Sans",
+    "Yu Gothic", YuGothic, Meiryo, sans-serif;
+  --font-display: var(--font-ui), "Hiragino Kaku Gothic ProN", "Hiragino Sans",
+    "Yu Gothic", YuGothic, Meiryo, sans-serif;
 }
 
 html {
@@ -29,6 +31,13 @@ body {
 
 body {
   font-family: var(--font-sans);
+  font-weight: 400;
+  letter-spacing: 0.01em;
+}
+
+.font-display {
+  font-family: var(--font-display);
+  font-weight: 700;
 }
 
 .site-body {
