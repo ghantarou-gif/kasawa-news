@@ -42,7 +42,7 @@ const dictionary = {
     freshWindow: "表は24時間以内",
     footerNote:
       "無料で本文が読める発行元の公式RSSだけを使っています。有料会員が必要な媒体は入れていません。見出しの著作権は各社にあります。",
-    deskKicker: "AUTO NEWS DESK",
+    deskKicker: "NYANCHU NEWS",
     deskLead: "日付ごとに保存。最新は先頭。ジャンルチップから各日のフィードへ。",
     all: "すべて",
     items: "件",
@@ -103,7 +103,7 @@ const dictionary = {
     freshWindow: "Front page is the last 24 hours",
     footerNote:
       "Only official RSS feeds from outlets whose articles can be read without a paywall. Copyright stays with the publishers.",
-    deskKicker: "AUTO NEWS DESK",
+    deskKicker: "NYANCHU NEWS",
     deskLead: "Saved by date. Newest first. Genre chips open that day's feed.",
     all: "All",
     items: "items",

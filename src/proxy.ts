@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
 import type { NextRequest } from "next/server";
+import { LOCALE_COOKIE, LOCALE_COOKIE_LEGACY } from "@/lib/brand";
 import { LOCALES } from "@/lib/locale";
 
 export function proxy(request: NextRequest) {
@@ -10,7 +11,9 @@ export function proxy(request: NextRequest) {
   );
   if (hasLocale) return NextResponse.next();
 
-  const cookie = request.cookies.get("kasawa-locale")?.value;
+  const cookie =
+    request.cookies.get(LOCALE_COOKIE)?.value ??
+    request.cookies.get(LOCALE_COOKIE_LEGACY)?.value;
   const header = request.headers.get("accept-language") ?? "";
   const locale =
     cookie === "en" || cookie === "ja"

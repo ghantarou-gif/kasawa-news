@@ -443,7 +443,7 @@
   <footer>
     <span data-i18n="foot1">入力内容はこの端末のブラウザ内でコマンド化するだけで、サーバーへ送信しません。</span><br>
     <span data-i18n="foot2">検索はX側で実行され、結果はXの仕様やログイン状態で変わります。</span><br>
-    <a href="https://kasawa-news.vercel.app/ja" id="kasawaLink" style="color:inherit;font-weight:800;margin-top:8px;display:inline-block">NyanChu — ニュース</a>
+    <a href="https://kasawa-news.vercel.app/ja" id="nyanchuNewsLink" style="color:inherit;font-weight:800;margin-top:8px;display:inline-block">NyanChu — ニュース</a>
   </footer>
 </div>
 
@@ -602,7 +602,7 @@ function doClear(){
 var toastTimer;
 function toast(msg){ var el=$("toast"); el.textContent=msg; el.classList.add("show"); clearTimeout(toastTimer); toastTimer=setTimeout(function(){el.classList.remove("show");},1600); }
 
-function kasawaPrefill(){
+function nyanchuPrefill(){
   var p=new URLSearchParams(location.search);
   if(!p.has("kw") && !p.has("url") && !p.has("from") && !p.has("wt") && !p.has("tag") && !p.has("mention")) return;
   function set(id,value){ var el=$(id); if(el && value) el.value=value; }
@@ -624,7 +624,7 @@ function kasawaPrefill(){
 
 var all=document.querySelectorAll("input,select");
 for(var q=0;q<all.length;q++){ all[q].addEventListener("input",build); all[q].addEventListener("change",build); }
-kasawaPrefill();
+nyanchuPrefill();
 build();
 </script>
 </body>

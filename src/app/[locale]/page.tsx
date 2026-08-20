@@ -4,6 +4,7 @@ import { GenreChips } from "@/components/DeskHeader";
 import { AdSlot } from "@/components/AdSlot";
 import { DayList } from "@/components/DayList";
 import { isLocale } from "@/lib/locale";
+import { t } from "@/lib/i18n";
 import { getDaySummaries } from "@/lib/rss";
 
 export const revalidate = 120;
@@ -15,7 +16,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   if (!isLocale(locale)) return {};
-  return { title: "Archive" };
+  return { title: t(locale).news };
 }
 
 export default async function HomePage({

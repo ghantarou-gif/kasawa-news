@@ -20,7 +20,7 @@ export default function Icon() {
           letterSpacing: -1,
         }}
       >
-        K
+        N
       </div>
     ),
     size,

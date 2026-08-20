@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Fraunces, IBM_Plex_Sans_JP, Noto_Serif_JP } from "next/font/google";
 import { AdSenseScript } from "@/components/AdSenseScript";
-import { siteUrl } from "@/lib/site";
+import { publicSiteUrl } from "@/lib/brand";
 import "./globals.css";
 
 const fraunces = Fraunces({
@@ -25,7 +25,7 @@ const plex = IBM_Plex_Sans_JP({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL(siteUrl()),
+  metadataBase: new URL(publicSiteUrl()),
   title: {
     default: "NyanChu",
     template: "%s · NyanChu",
