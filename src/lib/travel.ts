@@ -1,9 +1,12 @@
 import type { Locale } from "./locale";
 
 export type TravelRegion =
-  | "kanto"
-  | "kansai"
   | "hokkaido"
+  | "tohoku"
+  | "kanto"
+  | "chubu"
+  | "kansai"
+  | "chugoku"
   | "kyushu"
   | "okinawa"
   | "other";
@@ -43,6 +46,313 @@ export type TravelPost = {
  * アフィリURLは src/lib/affiliate.ts の goLinks に設定。
  */
 export const travelPosts: TravelPost[] = [
+  {
+    slug: "unusual-dining-performance-and-place",
+    publishedAt: "2026-08-24",
+    region: "other",
+    place: { ja: "全国", en: "Across Japan" },
+    title: {
+      ja: "もっと面白い食事：場所と演出で食べる店5軒",
+      en: "Stranger meals in Japan: five places where the setting is the dish",
+    },
+    excerpt: {
+      ja: "釣る・蒸す・焼くの次は、食べる場所と出され方が変わっている店。走る列車、海女小屋、鵜飼の船、囲炉裏端、そして給仕と向き合うわんこそばの5軒です。",
+      en: "After the catch-it-yourself places, here are five where the room, the vehicle, or the person serving you is the point: a moving restaurant, a diver's hut, a cormorant-fishing boat, a hearth counter, and a bottomless bowl of soba.",
+    },
+    xHook: {
+      ja: "食べる場所ごと面白い店。走る列車・海女小屋・鵜飼の船・囲炉裏・わんこそば↓",
+      en: "Five Japanese meals where the setting does the work: a train, a diver's hut, a fishing boat, a hearth, endless soba↓",
+    },
+    sections: [
+      {
+        heading: {
+          ja: "盛岡・東家：給仕と向き合うわんこそば",
+          en: "Morioka: soba served until you close the lid",
+        },
+        body: {
+          ja: "「はい、じゃんじゃん」の掛け声とともに、給仕の人がひと口分の蕎麦を椀に投げ込み続けます。15杯でかけ蕎麦1杯分ほど。100杯を超えると証明手形がもらえるのが有名で、食べ放題というより給仕との共同作業に近い時間です。\n料金は給仕付きのコースで4,500円（税込、2025年12月改定）から。予約は原則平日のみで、土日祝・GW・海の日〜8月末は事前予約不可の当日席になります。",
+          en: "A server keeps flipping single-bite portions into your bowl with a chant of \"hai, jan-jan\"—about fifteen bowls equal one normal serving of soba. Pass a hundred and you get a certificate, which is the part everyone photographs. It feels less like a buffet than a duet with the person serving you.\nThe served course starts at 4,500 yen including tax (revised December 2025). Reservations are weekdays only in principle; weekends, holidays, Golden Week and mid-July through August are same-day seating.",
+        },
+      },
+      {
+        heading: {
+          ja: "鳥羽・相差の海女小屋：現役の海女さんの炭火",
+          en: "Toba: grilled by an ama diver",
+        },
+        body: {
+          ja: "海女さんが実際に体を温めていた小屋で、目の前の炭火でサザエや干物を焼いてもらいながら、素潜り漁の話を聞きます。はちまんかまどは完全予約制で、原則2日前まで。\n軽食とお話だけのAコースが50分で大人2,900円、サザエ・干物・伊勢エビ汁などの料理コースが1時間15分で4,700円から。伊勢海老や鮑の入った上のコースもあります。台風など海が荒れると中止になります。",
+          en: "You sit in the hut where ama divers used to warm up, while a working diver grills turban shells and dried fish on the charcoal in front of you and talks about free-diving. Hachiman Kamado is reservation-only, generally two days ahead.\nThe short course—snacks, tea and conversation—is 50 minutes for 2,900 yen; the meal course with shellfish, dried fish and lobster soup runs 75 minutes from 4,700 yen, with pricier lobster and abalone options above it. Rough seas or typhoons cancel it.",
+        },
+      },
+      {
+        heading: {
+          ja: "八戸線・TOHOKU EMOTION：走るレストラン",
+          en: "The Hachinohe line: a restaurant that moves",
+        },
+        body: {
+          ja: "八戸駅と久慈駅の間を走る、車両ごとレストランにした列車。2号車がライブキッチンで、目の前で仕上げた料理が出てきます。往路はランチコース、復路はデザートブッフェと、方向で内容が違うのが特徴です。\n予約は「のってたのしい列車予約サイト」で乗車日の4日前まで。みどりの窓口では買えず、1回の申し込みは2〜4名まで、支払いはクレジットカードのみ。運行日は限られるので、まず運行カレンダーから日程を決めます。",
+          en: "TOHOKU EMOTION runs between Hachinohe and Kuji as a three-car restaurant, with a live kitchen in the middle car finishing plates in front of you. The outbound run is a lunch course; the return is a dessert buffet, so the direction decides the meal.\nBook on JR East's Joyful Train reservation site up to four days before travel. Station ticket windows cannot sell it, each booking is for two to four people, and payment is by credit card only. It runs on selected days, so start from the operating calendar.",
+        },
+      },
+      {
+        heading: {
+          ja: "岐阜・長良川鵜飼：篝火の下で船の上",
+          en: "Gifu: dinner on a boat under the fires",
+        },
+        body: {
+          ja: "1300年続く鵜飼を、川に浮かべた観覧船から見ます。開催は毎年5月11日〜10月15日。船が出るのは夕方で、鵜飼が始まるのは19:45頃、終わるのは20:30〜21:00頃です。\n注意点は、乗船料に食事が含まれないこと。持ち込みは自由で、乗船場まで届けてくれる仕出し業者が案内されています。宿の貸切船プランなら船内で食事が出ます。予約はインターネットか窓口のみで、電話では受け付けていません。",
+          en: "Watch 1,300-year-old cormorant fishing from a viewing boat on the Nagara river, held every year from May 11 to October 15. Boats leave in the evening, the fishing starts around 19:45, and it ends between 20:30 and 21:00.\nOne catch: the fare does not include food. You may bring your own, and the office lists caterers who deliver to the boarding point; hotels also sell charter-boat plans that include dinner on board. Booking is online or at the counter—no phone reservations.",
+        },
+      },
+      {
+        heading: {
+          ja: "東京・六本木 田舎家 東店：長いしゃもじで渡される",
+          en: "Tokyo: food handed over on a giant paddle",
+        },
+        body: {
+          ja: "カウンターの中の囲炉裏で炭火焼きにした魚や貝を、「掘返しべら」と呼ばれる長いしゃもじに載せ、掛け声とともに客の手元へ差し出す炉端焼きの老舗。50年以上続き、海外の要人が来日のたびに通う店としても知られます。\n営業は17:00〜23:00。サービス料10%とお通しがつき、予算はそれなりに張るので、記念日や案内役として使うのが向いています。",
+          en: "At this half-century-old robatayaki counter, fish and shellfish are grilled over the hearth in the middle of the room and passed to you on a long wooden paddle, with a shout to go with it. It has hosted enough visiting heads of state to have a reputation abroad.\nOpen 17:00–23:00. There is a 10% service charge plus a cover dish, and the bill is not small, so it works best as an occasion or a place to take a guest.",
+        },
+      },
+    ],
+    tips: [
+      {
+        ja: "列車・鵜飼・海女小屋は日程を先に押さえる型。思いつきで行けるのは炉端とわんこそばくらい。",
+        en: "The train, the boats and the diver's hut are book-first; only the hearth counter and the soba work on a whim.",
+      },
+      {
+        ja: "鵜飼は船が出る時間と鵜飼開始が別。乗ってから始まるまで1時間ほど空くので、食べ物を用意しておく。",
+        en: "On the Nagara boats, boarding is about an hour before the fishing starts—bring something to eat in the gap.",
+      },
+      {
+        ja: "屋外・船上は夜が冷える。5月と10月の鵜飼、夏でも海辺の海女小屋は羽織るものを。",
+        en: "Boats and open huts get cold after dark—carry a layer, especially for May and October river trips.",
+      },
+    ],
+    offers: [
+      {
+        goId: "travel-hotel",
+        label: { ja: "近くの宿を探す", en: "Find a hotel nearby" },
+      },
+      {
+        goId: "travel-tour",
+        label: { ja: "体験・アクティビティ", en: "Experiences & activities" },
+      },
+    ],
+    related: [
+      "morioka-wanko-soba-azumaya",
+      "toba-ama-hut-hachiman-kamado",
+      "tohoku-emotion-restaurant-train",
+      "zauo-next-experience-restaurants",
+    ],
+  },
+  {
+    slug: "morioka-wanko-soba-azumaya",
+    publishedAt: "2026-08-24",
+    region: "tohoku",
+    place: { ja: "岩手・盛岡", en: "Morioka, Iwate" },
+    title: {
+      ja: "盛岡のわんこそば：東家で100杯の手形を取りに行く",
+      en: "Wanko soba in Morioka: going for the hundred-bowl certificate",
+    },
+    excerpt: {
+      ja: "椀に蕎麦を投げ込まれ続ける盛岡の名物。大食い企画に見えて、実際は給仕との呼吸と薬味の使い方の話です。料金・予約・杯数の目安をまとめました。",
+      en: "Morioka's bottomless soba looks like an eating contest but is really about pacing and condiments. Prices, reservation rules, and how many bowls people actually manage.",
+    },
+    xHook: {
+      ja: "盛岡のわんこそば、100杯で手形。予約は原則平日だけという落とし穴↓",
+      en: "A hundred bowls of soba earns you a certificate in Morioka—but weekends can't be booked↓",
+    },
+    sections: [
+      {
+        heading: { ja: "何が起きるのか", en: "What actually happens" },
+        body: {
+          ja: "席につくと薬味と付け合わせが並び、給仕の人が横に立ちます。あとは「はい、じゃんじゃん」の掛け声とともに、ひと口分の蕎麦が次々と椀へ。止めたいときは、椀が空の状態で蓋を閉めるのが合図です。\n15杯でかけ蕎麦およそ1杯分。全員に証明書、100杯を超えると証明手形が出ます。よく言われる目安は男性で50〜60杯、女性で30〜50杯くらいですが、薬味を変えながら食べるほうが結果的に伸びます。",
+          en: "You sit down to a tray of condiments and side dishes, and a server takes up position beside you. From there it is one mouthful of soba after another, chanted in as they go. To stop, you put the lid on the bowl while it is empty—that is the signal.\nFifteen bowls is roughly one normal serving. Everyone gets a certificate, and passing a hundred earns the wooden tally. People often cite fifty to sixty bowls for men and thirty to fifty for women, though switching condiments as you go tends to carry you further than brute force.",
+        },
+      },
+      {
+        heading: { ja: "予約の落とし穴", en: "The reservation trap" },
+        body: {
+          ja: "わんこそばは事前予約が必須ではありませんが、席の予約を受けているのは原則平日のみ。土日祝、GW、海の日から8月末までは事前予約不可で、当日の受付順になります。旅行者が集中する時期ほど予約できない仕組みなので、混雑期は開店前後を狙うのが現実的です。\n当日の受付状況は公式サイトで案内されているので、出発前に見ておくと空振りを避けられます。",
+          en: "You do not need a reservation, but seats can generally only be booked on weekdays. Weekends, holidays, Golden Week and the stretch from Marine Day to the end of August are same-day only, in order of arrival—that is, exactly when tourists show up. In those periods, aim for opening time.\nThe restaurant posts the day's wanko soba status on its site, which is worth checking before you set out.",
+        },
+      },
+      {
+        heading: { ja: "本店と駅前店", en: "Main shop or station shop" },
+        body: {
+          ja: "本店は中ノ橋通で、盛岡バスセンターの近く。老舗らしい構えで、盛岡駅からは徒歩30分ほどなのでバスかタクシーが無難です。定休は毎月第1水曜（5月のGWと8月は除く）。\n駅前店は盛岡駅前通の地下道A1出口すぐで、列車の待ち時間に寄れます。定休は毎週火曜（同じくGWと8月は除く）。どちらも専用駐車場はなく、近隣の有料駐車場を使い、会計時に伝えると一部が還元されます。",
+          en: "The main shop sits on Nakanohashi-dori near the Morioka bus centre—old-school and about thirty minutes on foot from the station, so take a bus or taxi. Closed the first Wednesday of the month, except during Golden Week and August.\nThe station branch is right by exit A1 of the underpass in front of Morioka Station, easy to fit into a train connection. Closed Tuesdays, with the same exceptions. Neither has its own car park; use a nearby paid lot and mention it when you pay for a partial refund.",
+        },
+      },
+    ],
+    tips: [
+      {
+        ja: "給仕付きコースは4,500円から（2025年12月改定）。上のコースは薬味と付け合わせが増える。",
+        en: "The served course starts at 4,500 yen (revised December 2025); pricier courses add condiments and side dishes.",
+      },
+      {
+        ja: "わんこそばのラストオーダーは通常メニューより早い。夜に行くなら18:30前後が締切と考える。",
+        en: "Last orders for wanko soba come earlier than for the regular menu—treat about 18:30 as the cut-off for dinner.",
+      },
+      {
+        ja: "同行者がそば以外でもいい。丼物などを頼んで同席できるので、全員で挑む必要はない。",
+        en: "Not everyone has to compete—companions can order regular dishes at the same table.",
+      },
+    ],
+    offers: [
+      {
+        goId: "travel-hotel",
+        label: { ja: "盛岡の宿を探す", en: "Find a Morioka hotel" },
+      },
+      {
+        goId: "travel-book",
+        label: { ja: "東北ガイド本（Amazon）", en: "Tohoku guidebook (Amazon)" },
+      },
+    ],
+    related: [
+      "unusual-dining-performance-and-place",
+      "tohoku-emotion-restaurant-train",
+    ],
+  },
+  {
+    slug: "toba-ama-hut-hachiman-kamado",
+    publishedAt: "2026-08-24",
+    region: "chubu",
+    place: { ja: "三重・鳥羽（相差）", en: "Osatsu, Toba" },
+    title: {
+      ja: "海女小屋はちまんかまど：現役の海女さんの炭火で食べる",
+      en: "Hachiman Kamado: lunch grilled by a working ama diver",
+    },
+    excerpt: {
+      ja: "鳥羽・相差の海女小屋で、素潜り漁の話を聞きながら炭火の魚介を食べる体験。完全予約制で時間割が決まっているので、行程の組み方だけ先に知っておくと楽です。",
+      en: "In a diver's hut on the Toba coast you eat charcoal-grilled seafood while a working ama diver talks about her dives. It is reservation-only and runs to a timetable, so the trick is fitting it into the day.",
+    },
+    xHook: {
+      ja: "鳥羽の海女小屋、完全予約制。海女さんの目の前でサザエを焼いてもらう↓",
+      en: "A reservation-only ama diver's hut in Toba, where she grills your shellfish in front of you↓",
+    },
+    sections: [
+      {
+        heading: { ja: "どんな時間か", en: "What the visit is like" },
+        body: {
+          ja: "海女さんが漁の合間に体を温めていた小屋を、そのまま食事の場にしています。中央の炭火でサザエや干物、イカなどを焼きながら、素潜り漁や海女の生活の話を聞く、という時間割です。相差はあさり浜に面していて、小屋の外は海。\n観光ショーというより、話し相手のいる食事という感触に近く、ひとりでも参加できます。海女に扮する衣装の貸し出しもあります。",
+          en: "The hut is where divers used to warm themselves between dives, now used for meals. Shellfish, dried fish and squid cook on the charcoal in the middle while a diver talks about free-diving and the life around it. Osatsu faces Asari beach, and the sea is right outside.\nIt reads less like a staged show than a meal with someone to talk to, and solo visitors are welcome. Diver costumes can be borrowed for photos.",
+        },
+      },
+      {
+        heading: { ja: "コースと時間割", en: "Courses and time slots" },
+        body: {
+          ja: "軽食とお話のAコースが50分で大人2,900円、こども1,450円。サザエ2個・干物・とこぶし・伊勢エビ汁・ご飯などの料理コースが1時間15分で大人4,700円、こども2,600円。伊勢海老や鮑を足した上のコースは9,200円前後から用意されています。\n体験の時間帯は11:45／13:15／14:45の3部制が基本で、Aコースには10:00の枠もあります。夕食利用（17:00〜）は6名以上・電話のみ・サービス料10%という条件です。",
+          en: "The short course—light food, tea and conversation—is 50 minutes, 2,900 yen for adults and 1,450 for children. The meal course, 75 minutes, brings turban shells, dried fish, abalone-family shellfish, lobster broth and rice for 4,700 yen (2,600 for children). Courses adding spiny lobster or abalone start around 9,200 yen.\nSlots are generally 11:45, 13:15 and 14:45, with a 10:00 option for the short course. Dinner sittings from 17:00 need six or more people, are booked by phone only, and add a 10% service charge.",
+        },
+      },
+      {
+        heading: { ja: "予約と行き方", en: "Booking and getting there" },
+        body: {
+          ja: "完全予約制で、原則2日前まで。公式サイトのフォームか電話で申し込み、返信をもって予約成立です。台風などで海が荒れた場合は中止になります。\n鳥羽駅から車で約25分、伊勢神宮内宮からは約30分。車がない場合は鳥羽駅発の送迎バス（要予約）があり、11:15／12:45／14:15発が案内されています。伊勢志摩を1日で回るなら、内宮参拝を午前、海女小屋を昼過ぎ、という並びが組みやすいです。",
+          en: "Reservation-only, generally two days ahead, by web form or phone; the booking is confirmed when they reply. Storms and rough seas cancel it.\nIt is about 25 minutes by car from Toba Station and 30 from Ise Jingu's inner shrine. Without a car, there is a shuttle from Toba Station by reservation, listed at 11:15, 12:45 and 14:15. For a one-day Ise-Shima loop, the inner shrine in the morning and the hut in the early afternoon fits neatly.",
+        },
+      },
+    ],
+    tips: [
+      {
+        ja: "完全予約制・2日前まで。当日ふらっと寄る店ではない。",
+        en: "Reservation-only, about two days ahead—this is not a walk-in.",
+      },
+      {
+        ja: "炭火の前に座るので、においがついてもいい服で。夏でも海風で冷えることがある。",
+        en: "You sit at a charcoal fire, so wear something you don't mind smelling of smoke; sea wind can be cool even in summer.",
+      },
+      {
+        ja: "近くに海女の信仰を集める神明神社・石神さんがあり、待ち時間や前後に寄りやすい。",
+        en: "Shinmei Shrine and its Ishigami-san hall, long venerated by divers, are close enough to visit before or after.",
+      },
+    ],
+    offers: [
+      {
+        goId: "travel-hotel",
+        label: { ja: "鳥羽・伊勢志摩の宿", en: "Stay in Toba & Ise-Shima" },
+      },
+      {
+        goId: "travel-tour",
+        label: { ja: "伊勢志摩の体験・ツアー", en: "Ise-Shima tours & activities" },
+      },
+    ],
+    related: [
+      "unusual-dining-performance-and-place",
+      "zauo-next-experience-restaurants",
+    ],
+  },
+  {
+    slug: "tohoku-emotion-restaurant-train",
+    publishedAt: "2026-08-24",
+    region: "tohoku",
+    place: { ja: "青森・八戸〜岩手・久慈", en: "Hachinohe to Kuji" },
+    title: {
+      ja: "TOHOKU EMOTION：三陸を走るレストランに乗る",
+      en: "TOHOKU EMOTION: riding a restaurant along the Sanriku coast",
+    },
+    excerpt: {
+      ja: "八戸線を走る列車まるごとのレストラン。往路はランチ、復路はデザートという構成で、予約サイトの条件がやや独特です。乗る前に知っておくことを整理しました。",
+      en: "A three-car restaurant that runs the Hachinohe line—lunch outbound, dessert inbound. The booking rules are unusual enough to be worth reading before you plan the trip.",
+    },
+    xHook: {
+      ja: "三陸を走るレストラン列車。往路はランチ、復路はデザートブッフェ↓",
+      en: "A restaurant train along the Sanriku coast: lunch one way, dessert buffet the other↓",
+    },
+    sections: [
+      {
+        heading: { ja: "列車の中身", en: "What is on board" },
+        body: {
+          ja: "八戸駅と久慈駅の間、三陸の海沿いを走る3両編成。1号車がコンパートメントの個室、2号車がライブキッチン、3号車がオープンダイニングで、列車全体がひとつのレストランになっています。2013年10月のデビューで、八戸線の運転再開とともに走り始めた列車です。\n景色のいい区間では速度を落として走るので、食事と車窓が競合しにくいのが利点。往路では沿線の人が手を振ってくれることもあります。",
+          en: "Three cars run the coast between Hachinohe and Kuji: private compartments in car 1, a live kitchen in car 2, and open dining in car 3, with the whole train working as one restaurant. It debuted in October 2013, when the Hachinohe line reopened after the tsunami.\nThe train slows at the best viewpoints, so the food and the window are not competing. On the outbound run, people along the line sometimes come out to wave.",
+        },
+      },
+      {
+        heading: { ja: "往路と復路で違う", en: "Direction decides the meal" },
+        body: {
+          ja: "八戸から久慈へ向かう往路がランチコース、久慈から八戸へ戻る復路がデザートブッフェです。食事目当てなら往路、甘いもの目当てなら復路と、目的で乗る向きが決まります。料金も往路のほうが高く設定されています。\n復路は本八戸・鮫・種差海岸に停まりますが、下車専用で乗車はできません。久慈での滞在時間は短いので、往復するのか、片道だけ乗って三陸鉄道やレンタカーにつなぐのかは先に決めておくと動きやすいです。",
+          en: "Hachinohe to Kuji is the lunch course; Kuji back to Hachinohe is the dessert buffet. Pick your direction by which one you want—the outbound is also the pricier of the two.\nThe return stops at Hon-Hachinohe, Same and Tanesashi-Kaigan, but only to let people off. The turnaround at Kuji is short, so decide in advance whether you are riding both ways or continuing on the Sanriku Railway or by car.",
+        },
+      },
+      {
+        heading: { ja: "予約の条件", en: "Booking rules" },
+        body: {
+          ja: "予約はJR東日本の「のってたのしい列車予約サイト」で、乗車日の4日前まで。みどりの窓口や券売機では買えません。1回の申し込みは2〜4名で、1名では申し込めず、大人1名以上が必要です。支払いはクレジットカードのみ。\n予約後の変更は人数変更も含めてできず、取り消して取り直す形になります。出発10日前からは取消料がかかるので、日程は固めてから申し込むこと。運行日は限られ、一部の日は旅行会社扱いになります。",
+          en: "Book through JR East's Joyful Train reservation site, up to four days before departure; station windows and machines cannot sell it. Each booking covers two to four people—solo bookings are not accepted—and must include at least one adult. Credit card only.\nNo changes are possible after booking, not even party size; you cancel and rebook. Cancellation fees start ten days out, so fix your dates first. It runs on limited days, and some dates are sold through travel agencies instead.",
+        },
+      },
+    ],
+    tips: [
+      {
+        ja: "料金は運行期ごとに改定される。最新額と空席は予約サイトで確認。",
+        en: "Fares are revised each operating period—check current prices and availability on the reservation site.",
+      },
+      {
+        ja: "八戸side泊なら朝の往路が組みやすい。久慈からは三陸鉄道で南下する手もある。",
+        en: "Staying in Hachinohe makes the late-morning outbound easy; from Kuji you can continue south on the Sanriku Railway.",
+      },
+      {
+        ja: "個室は追加料金。少人数でゆっくり話したいときだけ選べば十分。",
+        en: "Compartments cost extra—worth it only if your group wants a quiet room.",
+      },
+    ],
+    offers: [
+      {
+        goId: "travel-hotel",
+        label: { ja: "八戸・久慈の宿を探す", en: "Find a hotel in Hachinohe or Kuji" },
+      },
+      {
+        goId: "travel-tour",
+        label: { ja: "東北の体験・ツアー", en: "Tohoku tours & activities" },
+      },
+    ],
+    related: [
+      "unusual-dining-performance-and-place",
+      "morioka-wanko-soba-azumaya",
+    ],
+  },
   {
     slug: "zauo-next-experience-restaurants",
     publishedAt: "2026-08-24",
@@ -137,6 +447,7 @@ export const travelPosts: TravelPost[] = [
       "beppu-jigokumushi-kannawa",
       "kyoto-kibune-nagashi-somen",
       "yamaguchi-irori-sanzoku",
+      "unusual-dining-performance-and-place",
     ],
   },
   {
@@ -274,7 +585,7 @@ export const travelPosts: TravelPost[] = [
   {
     slug: "yamaguchi-irori-sanzoku",
     publishedAt: "2026-08-21",
-    region: "other",
+    region: "chugoku",
     place: { ja: "山口・岩国", en: "Iwakuni, Yamaguchi" },
     title: {
       ja: "いろり山賊：山の中の祭り屋敷で鶏を一本かじる",
@@ -469,9 +780,12 @@ export function travelPostPath(locale: Locale, slug: string): string {
 }
 
 export const travelRegions: { id: TravelRegion; label: Record<Locale, string> }[] = [
-  { id: "kanto", label: { ja: "関東", en: "Kanto" } },
-  { id: "kansai", label: { ja: "関西", en: "Kansai" } },
   { id: "hokkaido", label: { ja: "北海道", en: "Hokkaido" } },
+  { id: "tohoku", label: { ja: "東北", en: "Tohoku" } },
+  { id: "kanto", label: { ja: "関東", en: "Kanto" } },
+  { id: "chubu", label: { ja: "中部", en: "Chubu" } },
+  { id: "kansai", label: { ja: "関西", en: "Kansai" } },
+  { id: "chugoku", label: { ja: "中国", en: "Chugoku" } },
   { id: "kyushu", label: { ja: "九州", en: "Kyushu" } },
   { id: "okinawa", label: { ja: "沖縄", en: "Okinawa" } },
   { id: "other", label: { ja: "その他", en: "Other" } },
