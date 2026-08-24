@@ -12,7 +12,7 @@ http://localhost:3000
 
 ## 直す場所
 
-- 旅ガイド記事: `src/lib/travel.ts`（配列の先頭に追加）
+- 旅ガイド記事: `src/lib/travel.ts`（配列の先頭に追加。`related` に他記事のスラッグを入れると末尾に相互リンクが出る）
 - 本の書名・紹介・Kindle URL: `src/lib/book.ts`
 - アフィリエイト先: `src/lib/affiliate.ts`（`travel-hotel` / `travel-tour` / `travel-book`）
 - Google AdSense: `.env` の `NEXT_PUBLIC_ADSENSE_*`（下記）
