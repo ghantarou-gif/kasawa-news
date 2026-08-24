@@ -11,6 +11,7 @@ import {
   getTravelPost,
   listTravelPosts,
   regionLabel,
+  relatedTravelPosts,
   travelPostPath,
 } from "@/lib/travel";
 
@@ -61,6 +62,7 @@ export default async function TravelPostPage({
 
   const copy = t(locale);
   const pageUrl = `${siteUrl()}${travelPostPath(locale, slug)}`;
+  const related = relatedTravelPosts(post);
 
   return (
     <article className="break-words py-6 sm:py-8">
@@ -128,6 +130,31 @@ export default async function TravelPostPage({
       </div>
 
       <AdSlot placement="article" className="mt-8" />
+
+      {related.length > 0 ? (
+        <section className="mt-10 border-t border-line pt-8">
+          <h2 className="font-display text-[1.35rem] tracking-[-0.02em]">
+            {copy.travelRelated}
+          </h2>
+          <ul className="mt-4 flex flex-col gap-3">
+            {related.map((item) => (
+              <li key={item.slug}>
+                <Link
+                  href={travelPostPath(locale, item.slug)}
+                  className="related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35"
+                >
+                  <p className="text-[11px] uppercase tracking-[0.12em] text-muted">
+                    {item.place[locale]}
+                  </p>
+                  <p className="mt-1 font-display text-[1.05rem] leading-snug">
+                    {item.title[locale]}
+                  </p>
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ) : null}
 
       <section className="article-actions">
         <ShareBar
