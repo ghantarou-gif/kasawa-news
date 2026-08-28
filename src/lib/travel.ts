@@ -11,6 +11,9 @@ export type TravelRegion =
 export type TravelSection = {
   heading: Record<Locale, string>;
   body: Record<Locale, string>;
+  image?: string;
+  imageAlt?: Record<Locale, string>;
+  caption?: Record<Locale, string>;
 };
 
 export type TravelOffer = {
@@ -28,6 +31,8 @@ export type TravelPost = {
   excerpt: Record<Locale, string>;
   /** Hero image URL (optional). Use your own photo CDN/path later. */
   image?: string;
+  imageAlt?: Record<Locale, string>;
+  imageCaption?: Record<Locale, string>;
   /** Short line for X posts */
   xHook: Record<Locale, string>;
   sections: TravelSection[];
@@ -54,6 +59,15 @@ export const travelPosts: TravelPost[] = [
       ja: "電車・バス・コンビニで使う交通系ICの定番。改札の仕組み、無記名カードとモバイル、訪日向けWelcome Suicaの違い、チャージと払い戻しまで一通りまとめました。",
       en: "Japan's everyday transit IC for trains, buses, and convenience stores. How the gates work, physical vs mobile vs Welcome Suica, plus charging and refunds.",
     },
+    image: "/travel/suica/hero-gate.jpg",
+    imageAlt: {
+      ja: "駅の改札で緑のICカードをタッチしているところ",
+      en: "Tapping a green IC card at a station gate",
+    },
+    imageCaption: {
+      ja: "イメージ。改札の読取機にカードをタッチする。絵柄は公式デザインではありません。",
+      en: "Illustration. Tap the card on the gate reader. Art is not the official design.",
+    },
     xHook: {
       ja: "Suica、いまはモバイルかWelcomeが現実的。買い方と仕組み↓",
       en: "Suica in 2026: mobile or Welcome is the practical pick. How it works↓",
@@ -72,12 +86,30 @@ export const travelPosts: TravelPost[] = [
           ja: "入場時にカード（またはスマホ）をタッチすると入場記録が書き込まれ、出場時にもう一度タッチして区間運賃が計算されます。残高が足りないと出場できません。バスは「乗るときだけタッチ」か「乗り降り両方」か路線で違うので、車内の案内を見てください。電子マネーは店舗の読取機にタッチして即時引き落とし。改札も店もオフラインに近い処理で動くため、電波が弱い地下でも通りやすい一方、スマホ側は電源オフや機内モードの扱いに注意が必要です（iPhoneのエクスプレスカード設定ならロック画面のまま通せることが多いです）。",
           en: "Tap in to write an entry record, tap out to calculate the fare. Too little balance and you cannot exit. Buses may require tap-on only or tap on and off—follow the signage. Shops deduct instantly at the reader. Gates work even underground because the transaction is local to the card. Keep the phone powered; on iPhone, Express Transit usually lets you tap from the lock screen.",
         },
+        image: "/travel/suica/mobile-wallet.jpg",
+        imageAlt: {
+          ja: "改札の読取機にスマートフォンをかざしているところ",
+          en: "Tapping a smartphone on a ticket-gate reader",
+        },
+        caption: {
+          ja: "イメージ。iPhoneはエクスプレスカード設定ならロック画面のまま通せることが多いです。カード絵柄は公式デザインではありません。",
+          en: "Illustration. iPhone Express Transit usually works from the lock screen. Card art is not the official design.",
+        },
       },
       {
         heading: { ja: "どれを選べばよいか", en: "Which Suica to choose" },
         body: {
           ja: "いま現実的な選択肢は四つです。\n\n1）モバイルSuica（iPhoneのWallet、またはFeliCa対応の国内向けAndroid＋Google Wallet）— 券売機に並ばず、カードを忘れない。長く日本にいる人の本命。\n2）Welcome Suica Mobile（訪日向けアプリ、iPhone / Apple Watch）— 発行手数料・デポジットなし、有効期間は発行から180日、残高の払い戻しは不可。海外発行のカードでもApple Payチャージしやすい。\n3）カード型Welcome Suica — デポジットなし、有効28日、払い戻し不可。成田・羽田や主要駅のJR EAST Travel Service Center、一部の専用券売機。Androidやスマホを改札に当てたくない短期旅行向き。\n4）通常のSuica（無記名）／My Suica（記名）— 発売額はチャージ＋デポジット500円が基本。払い戻し時にデポジットは戻り、残高は手数料（220円が目安）を差し引いて返金。記名式は紛失時の再発行に向く。在庫は駅によって差があるので、並んで空振りするくらいならモバイルを先に試すのが早いです。",
           en: "Four practical options:\n\n1) Mobile Suica (iPhone Wallet, or a Japan-sold FeliCa Android with Google Wallet)—no ticket-machine queue, nothing to forget. Best if you live here or visit often.\n2) Welcome Suica Mobile (visitor app, iPhone / Apple Watch)—no issue fee or deposit, valid 180 days from issue, no balance refund. Overseas cards often work via Apple Pay.\n3) Plastic Welcome Suica—no deposit, valid 28 days, no refund. JR EAST Travel Service Centers at Narita, Haneda, and major stations, plus some dedicated machines. Good for short trips or Android phones that cannot run Mobile Suica.\n4) Regular unnamed Suica or named My Suica—price is charge plus a ¥500 deposit. On refund the deposit comes back and leftover balance is returned minus a fee (around ¥220). Named cards can be reissued if lost. Stock still varies by station; try mobile first if the machine is empty.",
+        },
+        image: "/travel/suica/welcome-card.jpg",
+        imageAlt: {
+          ja: "空港カウンターに置かれた訪日向けICカードとパスポート",
+          en: "Visitor IC card and passport on an airport counter",
+        },
+        caption: {
+          ja: "イメージ。カード型Welcomeはデポジットなし・有効28日。窓口ではパスポート確認があることがあります。",
+          en: "Illustration. Plastic Welcome has no deposit and lasts 28 days. Some counters ask for a passport.",
         },
       },
       {
@@ -86,12 +118,30 @@ export const travelPosts: TravelPost[] = [
           ja: "モバイルSuica（iPhone）：Walletを開き「＋」→交通系ICカード→Suica。チャージ額を入れてApple Payで支払います。日本の電話番号がなくても発行できることが多いです。すでにプラスチックSuicaを持っている人は、対応する券売機でカードを取り込んでスマホに移せます（移したカードは使えなくなります）。\n\nWelcome Suica Mobile：App Storeで同名アプリを入れ、合言葉を決めて発行。会員登録は不要。チャージはApple Payが中心で、国内では現金チャージに対応する案内もあります。\n\nカード型Welcome：空港到着後、JR東日本の旅行サービスセンターか専用券売機。額面は1,000／2,000／5,000／10,000円など（全額が乗車・買い物に使える残高で、デポジットは乗らない）。パスポートが必要な窓口もあるので、到着ロビーで案内を確認してください。\n\n通常カード：JR東日本の多機能券売機・話せる指定席券売機・みどりの窓口。「Suica購入」から金額を選び、現金または対応するカードで支払います。PASMOは私鉄・地下鉄寄りの券売機でも買えますが、改札の相互利用はほぼ同じです。\n\n注意：海外で買ったAndroidはFeliCa非搭載が多く、モバイルSuicaが出せません。その場合はカードか、iPhoneのWelcome Suica Mobileです。",
           en: "Mobile Suica on iPhone: Wallet → + → Transit card → Suica, then charge with Apple Pay. A Japanese phone number is often unnecessary. An existing plastic Suica can be transferred at a compatible machine (the card then dies).\n\nWelcome Suica Mobile: install the app, set a passphrase, issue. No membership. Charge via Apple Pay; cash top-up is described for use inside Japan.\n\nPlastic Welcome: after landing, JR East Travel Service Center or a dedicated machine. Typical values ¥1,000 / ¥2,000 / ¥5,000 / ¥10,000—all usable balance, no deposit. Some counters ask for a passport.\n\nRegular card: JR East multi-function machines, reserved-seat machines, or Midori-no-madoguchi. Pick Suica purchase and pay cash or a supported card. PASMO is sold at many private-railway machines; gate interoperability is essentially the same.\n\nNote: most overseas Androids lack FeliCa, so Mobile Suica will not issue. Use plastic or Welcome Suica Mobile on iPhone.",
         },
+        image: "/travel/suica/ticket-machine.jpg",
+        imageAlt: {
+          ja: "駅の券売機でICカード購入のボタンを押しているところ",
+          en: "Selecting IC card on a station ticket machine",
+        },
+        caption: {
+          ja: "イメージ。通常カードはJR東日本の多機能券売機やみどりの窓口。在庫は駅によって差があります。",
+          en: "Illustration. Regular cards come from JR East machines or Midori-no-madoguchi. Stock varies by station.",
+        },
       },
       {
         heading: { ja: "チャージと日常の使い方", en: "Charging and everyday use" },
         body: {
           ja: "チャージは駅の券売機（現金が確実）、コンビニレジ、モバイルならアプリやWalletからクレジットカード／Apple Pay／Google Pay。オートチャージはビューカードなど対応カードを紐づけた記名式・モバイル向けです。\n\n改札は財布やスマホごとタッチせず、カード面や端末上部を読取部にまっすぐ当てる。改札を通ったあと残高不足に気づいたら、駅の精算機か有人改札へ。新幹線の自由席はタッチだけで乗れる区間と、EXやチケットレス予約が必要な列車が混在するので、乗る前に案内を見てください。\n\n買い物は「交通系IC」のマークがある店。一部の屋台や個人店は現金のみ。残高は券売機かモバイルの履歴で確認できます。",
           en: "Top up at station machines (cash is reliable), convenience-store counters, or in the app / Wallet with a card, Apple Pay, or Google Pay. Auto-charge is for named or mobile Suica linked to a supported card such as View.\n\nTap the card face or the top of the phone on the reader—don't bury it in a stack of cards. If you are stuck inside with too little balance, use a fare-adjustment machine or staffed gate. Some shinkansen cars allow a simple tap; others need EX or a ticketless booking—check before you board.\n\nShops showing the transit-IC mark take Suica. Stalls may be cash only. Check the balance on a machine or in the mobile history.",
+        },
+        image: "/travel/suica/konbini-pay.jpg",
+        imageAlt: {
+          ja: "コンビニレジの端末にICカードをタッチして支払っているところ",
+          en: "Paying at a convenience store by tapping an IC card",
+        },
+        caption: {
+          ja: "イメージ。「交通系IC」のマークがある店なら改札と同じタッチで払えます。",
+          en: "Illustration. Shops with the transit-IC mark take the same tap as the gates.",
         },
       },
       {

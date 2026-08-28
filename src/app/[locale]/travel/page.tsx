@@ -68,6 +68,12 @@ export default async function TravelIndexPage({
                 <h2 className="font-display mt-3 text-[clamp(1.2rem,4.5vw,1.55rem)] leading-snug tracking-[-0.02em]">
                   {post.title[locale]}
                 </h2>
+                {post.image ? (
+                  <div className="story-image mt-3">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img src={post.image} alt={post.imageAlt?.[locale] ?? ""} />
+                  </div>
+                ) : null}
                 <p className="mt-2 text-[14px] leading-6 text-muted line-clamp-3">
                   {post.excerpt[locale]}
                 </p>

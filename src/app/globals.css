@@ -247,6 +247,17 @@ a {
   object-fit: cover;
 }
 
+.story-image-photo {
+  aspect-ratio: 4 / 3;
+}
+
+.travel-caption {
+  margin-top: 0.5rem;
+  font-size: 12px;
+  line-height: 1.45;
+  color: var(--color-muted);
+}
+
 .open-btn {
   display: inline-flex;
   align-items: center;

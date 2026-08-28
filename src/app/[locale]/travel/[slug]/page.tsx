@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { AdSlot } from "@/components/AdSlot";
 import { ShareBar } from "@/components/ShareBar";
 import { TravelAffiliateBlock } from "@/components/TravelAffiliateBlock";
+import { TravelPhoto } from "@/components/TravelPhoto";
 import { t } from "@/lib/i18n";
 import { isLocale } from "@/lib/locale";
 import { siteUrl } from "@/lib/site";
@@ -29,6 +30,11 @@ export async function generateMetadata({
   if (!isLocale(locale)) return {};
   const post = getTravelPost(slug);
   if (!post) return {};
+  const ogImage = post.image
+    ? post.image.startsWith("http")
+      ? post.image
+      : `${siteUrl()}${post.image}`
+    : undefined;
   return {
     title: post.title[locale],
     description: post.excerpt[locale],
@@ -37,13 +43,13 @@ export async function generateMetadata({
       title: post.title[locale],
       description: post.excerpt[locale],
       url: `${siteUrl()}${travelPostPath(locale, slug)}`,
-      images: post.image ? [{ url: post.image, alt: post.title[locale] }] : undefined,
+      images: ogImage ? [{ url: ogImage, alt: post.title[locale] }] : undefined,
     },
     twitter: {
-      card: post.image ? "summary_large_image" : "summary",
+      card: ogImage ? "summary_large_image" : "summary",
       title: post.title[locale],
       description: post.excerpt[locale],
-      images: post.image ? [post.image] : undefined,
+      images: ogImage ? [ogImage] : undefined,
     },
   };
 }
@@ -88,10 +94,12 @@ export default async function TravelPostPage({
       </p>
 
       {post.image ? (
-        <div className="story-image mt-6">
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src={post.image} alt="" />
-        </div>
+        <TravelPhoto
+          src={post.image}
+          alt={post.imageAlt?.[locale] ?? post.title[locale]}
+          caption={post.imageCaption?.[locale]}
+          wide
+        />
       ) : null}
 
       <div className="mt-8 flex flex-col gap-8">
@@ -103,6 +111,13 @@ export default async function TravelPostPage({
             <p className="mt-3 whitespace-pre-wrap text-[16px] leading-8 text-ink/90">
               {section.body[locale]}
             </p>
+            {section.image ? (
+              <TravelPhoto
+                src={section.image}
+                alt={section.imageAlt?.[locale] ?? section.heading[locale]}
+                caption={section.caption?.[locale]}
+              />
+            ) : null}
           </section>
         ))}
       </div>
