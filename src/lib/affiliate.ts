@@ -1,6 +1,7 @@
 import { book } from "./book";
 import type { GenreId } from "./genres";
 import type { Locale } from "./locale";
+import { viatorLinkUrl } from "./viator";
 
 export type GoLink = {
   label: Record<Locale, string>;
@@ -83,7 +84,8 @@ export const goLinks: Record<string, GoLink> = {
       ja: "ツアー・体験（予約）",
       en: "Tours & activities",
     },
-    /** じゃらん体験 / Klook / KKday / Viator 等（AFF_TRAVEL_TOUR_URL） */
+    /** 既定はViatorのパートナーリンク。AFF_TRAVEL_TOUR_URL で上書き可 */
+    url: viatorLinkUrl(),
     urlEnv: affEnv("TRAVEL_TOUR_URL"),
   },
   "travel-book": {
@@ -96,16 +98,15 @@ export const goLinks: Record<string, GoLink> = {
   },
 };
 
-/** Resolve a link's destination URL at request time (static url, then env). */
+/** Resolve a link's destination URL at request time (env override, then static url). */
 export function goLinkUrl(id: string): string {
   const link = goLinks[id];
   if (!link) return "";
-  if (link.url) return link.url;
   for (const name of link.urlEnv ?? []) {
     const value = process.env[name]?.trim();
     if (value) return value;
   }
-  return "";
+  return link.url ?? "";
 }
 
 const genreGoId: Record<GenreId, string> = {

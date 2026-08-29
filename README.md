@@ -38,7 +38,7 @@ http://localhost:3000
 ```bash
 # 旅ガイド（記事下の宿・ツアー・本の枠）
 AFF_TRAVEL_HOTEL_URL="https://..."   # 宿（楽天トラベル / Booking / じゃらん 等）
-AFF_TRAVEL_TOUR_URL="https://..."    # ツアー・体験・eSIM/WiFi（Klook / KKday / じゃらん体験 等）
+AFF_TRAVEL_TOUR_URL="https://..."    # ツアー・体験（未設定ならViatorパートナーリンクが既定で有効）
 AFF_TRAVEL_BOOK_URL="https://..."    # ガイド本（Amazonアソシエイト 等）
 
 # ニュース記事のジャンル別枠（任意）
@@ -50,8 +50,9 @@ AFF_SPORTS_URL="https://..."
 ```
 
 - 各変数は `NEXT_PUBLIC_AFF_*`（例 `NEXT_PUBLIC_AFF_TRAVEL_HOTEL_URL`）でも読めます。
-- 未設定の場合、`travel-*` は `/ja/travel` に、その他は `/ja/book` にフォールバックします。
-- コードに直書きしたい場合は `src/lib/affiliate.ts` の `goLinks[id].url` に設定（`urlEnv` より優先）。
+- **`travel-tour` は未設定でも動きます**: Viatorのパートナーリンク（`pid` = ViatorバナーのパートナーID）に飛びます。
+- それ以外は未設定の場合、`travel-*` は `/ja/travel` に、その他は `/ja/book` にフォールバックします。
+- 優先順位: 環境変数 → `src/lib/affiliate.ts` の `goLinks[id].url`（直書き）→ フォールバック。
 - Vercel/Netlify では上記を環境変数に登録して再デプロイ。
 
 ### Viator バナー
