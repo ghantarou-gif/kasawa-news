@@ -61,12 +61,12 @@ export const travelPosts: TravelPost[] = [
     },
     image: "/images/travel/suica/hero-gate.jpg",
     imageAlt: {
-      ja: "駅の改札で緑のICカードをタッチしているところ",
-      en: "Tapping a green IC card at a station gate",
+      ja: "JR新宿駅・甲州街道改札の自動改札機",
+      en: "Automatic ticket gates at JR Shinjuku Station, Koshu-kaido Gate",
     },
     imageCaption: {
-      ja: "イメージ。改札の読取機にカードをタッチする。絵柄は公式デザインではありません。",
-      en: "Illustration. Tap the card on the gate reader. Art is not the official design.",
+      ja: "JR新宿駅・甲州街道改札。写真: MaedaAkihiko / Wikimedia Commons（CC BY-SA 4.0）",
+      en: "Koshu-kaido Gate, JR Shinjuku. Photo: MaedaAkihiko / Wikimedia Commons (CC BY-SA 4.0)",
     },
     xHook: {
       ja: "Suica、いまはモバイルかWelcomeが現実的。買い方と仕組み↓",
@@ -79,6 +79,15 @@ export const travelPosts: TravelPost[] = [
           ja: "Suica（スイカ）はJR東日本が発行する交通系ICカードです。駅の改札やバスの読取機にタッチするだけで運賃が引き落とされ、対応するコンビニ・自販機・ロッカーでも電子マネーとして使えます。PASMOやICOCAなど他社のICと全国相互利用が進んでいるので、関東で作った1枚を大阪や福岡の改札でも使える場面が多いです。残高の上限は2万円。仕組みの核はソニーのFeliCaという非接触ICで、改札を秒速で通れるのはこの通信速度のおかげです。",
           en: "Suica is JR East's transit IC card. Tap a gate or bus reader and the fare is deducted; many convenience stores, vending machines, and lockers take it as e-money. Nationwide interoperability with PASMO, ICOCA, and others means a Kanto card often works in Osaka or Fukuoka too. The balance cap is ¥20,000. The chip is Sony FeliCa—fast enough that ticket gates feel instant.",
         },
+        image: "/images/travel/suica/card-tap.jpg",
+        imageAlt: {
+          ja: "ペンギン柄のSuicaを改札の読取機にかざしているところ",
+          en: "Tapping a penguin-design Suica on a gate reader",
+        },
+        caption: {
+          ja: "本物のSuicaカード。読取機にタッチすると入場・運賃が記録されます。写真: タチヤマカムイ / Wikimedia Commons（CC BY-SA 4.0）",
+          en: "A real Suica card. Tap the reader to record entry and fare. Photo: タチヤマカムイ / Wikimedia Commons (CC BY-SA 4.0)",
+        },
       },
       {
         heading: { ja: "改札と残高の仕組み", en: "How gates and the balance work" },
@@ -86,14 +95,14 @@ export const travelPosts: TravelPost[] = [
           ja: "入場時にカード（またはスマホ）をタッチすると入場記録が書き込まれ、出場時にもう一度タッチして区間運賃が計算されます。残高が足りないと出場できません。バスは「乗るときだけタッチ」か「乗り降り両方」か路線で違うので、車内の案内を見てください。電子マネーは店舗の読取機にタッチして即時引き落とし。改札も店もオフラインに近い処理で動くため、電波が弱い地下でも通りやすい一方、スマホ側は電源オフや機内モードの扱いに注意が必要です（iPhoneのエクスプレスカード設定ならロック画面のまま通せることが多いです）。",
           en: "Tap in to write an entry record, tap out to calculate the fare. Too little balance and you cannot exit. Buses may require tap-on only or tap on and off—follow the signage. Shops deduct instantly at the reader. Gates work even underground because the transaction is local to the card. Keep the phone powered; on iPhone, Express Transit usually lets you tap from the lock screen.",
         },
-        image: "/images/travel/suica/mobile-wallet.jpg",
+        image: "/images/travel/suica/simple-gate.jpg",
         imageAlt: {
-          ja: "改札の読取機にスマートフォンをかざしているところ",
-          en: "Tapping a smartphone on a ticket-gate reader",
+          ja: "入場・出場と書かれた簡易Suica改札機",
+          en: "Simple Suica entry and exit readers",
         },
         caption: {
-          ja: "イメージ。iPhoneはエクスプレスカード設定ならロック画面のまま通せることが多いです。カード絵柄は公式デザインではありません。",
-          en: "Illustration. iPhone Express Transit usually works from the lock screen. Card art is not the official design.",
+          ja: "無人駅などで使う簡易改札。入場と出場を間違えると運賃が正しく引けません。写真: 西内 正 / Wikimedia Commons（CC BY-SA 4.0）",
+          en: "Simple readers at unstaffed stations. Tap the correct entry/exit pillar. Photo: 西内 正 / Wikimedia Commons (CC BY-SA 4.0)",
         },
       },
       {
@@ -104,12 +113,12 @@ export const travelPosts: TravelPost[] = [
         },
         image: "/images/travel/suica/welcome-card.jpg",
         imageAlt: {
-          ja: "空港カウンターに置かれた訪日向けICカードとパスポート",
-          en: "Visitor IC card and passport on an airport counter",
+          ja: "桜模様の赤いWelcome Suicaカード",
+          en: "Red Welcome Suica card with cherry-blossom design",
         },
         caption: {
-          ja: "イメージ。カード型Welcomeはデポジットなし・有効28日。窓口ではパスポート確認があることがあります。",
-          en: "Illustration. Plastic Welcome has no deposit and lasts 28 days. Some counters ask for a passport.",
+          ja: "訪日向けWelcome Suica。デポジットなし・有効28日・払い戻し不可。写真: Ravi Dwivedi / Wikimedia Commons（CC BY-SA 4.0）",
+          en: "Welcome Suica for visitors: no deposit, 28 days, no refund. Photo: Ravi Dwivedi / Wikimedia Commons (CC BY-SA 4.0)",
         },
       },
       {
@@ -120,12 +129,12 @@ export const travelPosts: TravelPost[] = [
         },
         image: "/images/travel/suica/ticket-machine.jpg",
         imageAlt: {
-          ja: "駅の券売機でICカード購入のボタンを押しているところ",
-          en: "Selecting IC card on a station ticket machine",
+          ja: "Suicaのチャージ機。お札を入れてカードを置くタイプ",
+          en: "A Suica charge machine that takes bills and a card on the tray",
         },
         caption: {
-          ja: "イメージ。通常カードはJR東日本の多機能券売機やみどりの窓口。在庫は駅によって差があります。",
-          en: "Illustration. Regular cards come from JR East machines or Midori-no-madoguchi. Stock varies by station.",
+          ja: "駅や店頭のチャージ機。おつりは出ないことが多い。カード購入は券売機・窓口。写真: Tatsuo Yamashita / Wikimedia Commons（CC BY 2.0）",
+          en: "Charge kiosks at stations and shops often give no change. Buy cards at machines or counters. Photo: Tatsuo Yamashita / Wikimedia Commons (CC BY 2.0)",
         },
       },
       {
@@ -134,14 +143,14 @@ export const travelPosts: TravelPost[] = [
           ja: "チャージは駅の券売機（現金が確実）、コンビニレジ、モバイルならアプリやWalletからクレジットカード／Apple Pay／Google Pay。オートチャージはビューカードなど対応カードを紐づけた記名式・モバイル向けです。\n\n改札は財布やスマホごとタッチせず、カード面や端末上部を読取部にまっすぐ当てる。改札を通ったあと残高不足に気づいたら、駅の精算機か有人改札へ。新幹線の自由席はタッチだけで乗れる区間と、EXやチケットレス予約が必要な列車が混在するので、乗る前に案内を見てください。\n\n買い物は「交通系IC」のマークがある店。一部の屋台や個人店は現金のみ。残高は券売機かモバイルの履歴で確認できます。",
           en: "Top up at station machines (cash is reliable), convenience-store counters, or in the app / Wallet with a card, Apple Pay, or Google Pay. Auto-charge is for named or mobile Suica linked to a supported card such as View.\n\nTap the card face or the top of the phone on the reader—don't bury it in a stack of cards. If you are stuck inside with too little balance, use a fare-adjustment machine or staffed gate. Some shinkansen cars allow a simple tap; others need EX or a ticketless booking—check before you board.\n\nShops showing the transit-IC mark take Suica. Stalls may be cash only. Check the balance on a machine or in the mobile history.",
         },
-        image: "/images/travel/suica/konbini-pay.jpg",
+        image: "/images/travel/suica/vending-pay.jpg",
         imageAlt: {
-          ja: "コンビニレジの端末にICカードをタッチして支払っているところ",
-          en: "Paying at a convenience store by tapping an IC card",
+          ja: "飲料自販機のSuica対応IC読取機",
+          en: "Suica IC reader on a drink vending machine",
         },
         caption: {
-          ja: "イメージ。「交通系IC」のマークがある店なら改札と同じタッチで払えます。",
-          en: "Illustration. Shops with the transit-IC mark take the same tap as the gates.",
+          ja: "自販機でも交通系ICが使える。店の「交通系IC」マークと同じタッチ。写真: Real Estate Japan / Wikimedia Commons（CC BY 2.0）",
+          en: "Vending machines take transit IC with the same tap as shops. Photo: Real Estate Japan / Wikimedia Commons (CC BY 2.0)",
         },
       },
       {
