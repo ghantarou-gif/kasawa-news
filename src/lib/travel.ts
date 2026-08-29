@@ -8,12 +8,22 @@ export type TravelRegion =
   | "okinawa"
   | "other";
 
+export type TravelCta = {
+  /** Key in goLinks /go/[id] */
+  goId: string;
+  kicker: Record<Locale, string>;
+  title: Record<Locale, string>;
+  note?: Record<Locale, string>;
+};
+
 export type TravelSection = {
   heading: Record<Locale, string>;
   body: Record<Locale, string>;
   image?: string;
   imageAlt?: Record<Locale, string>;
   caption?: Record<Locale, string>;
+  /** Inline offer card shown after the section (image-like prominence). */
+  cta?: TravelCta;
 };
 
 export type TravelOffer = {
@@ -272,6 +282,18 @@ export const travelPosts: TravelPost[] = [
         caption: {
           ja: "訪日向けWelcome Suica。デポジットなし・有効28日・払い戻し不可。写真: Ravi Dwivedi / Wikimedia Commons（CC BY-SA 4.0）",
           en: "Welcome Suica for visitors: no deposit, 28 days, no refund. Photo: Ravi Dwivedi / Wikimedia Commons (CC BY-SA 4.0)",
+        },
+        cta: {
+          goId: "viator-tokyo-halfday",
+          kicker: { ja: "PR・東京の歩き方に迷ったら", en: "Sponsored · New to Tokyo?" },
+          title: {
+            ja: "Suicaを片手に、地元ガイドと東京を半日で回るプライベートツアー",
+            en: "A half-day in Tokyo with a local: private and personalized",
+          },
+          note: {
+            ja: "行きたい場所に合わせてルートを組んでくれる少人数ツアー（Viator）",
+            en: "A small private tour shaped around where you want to go (Viator)",
+          },
         },
       },
       {

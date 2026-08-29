@@ -121,6 +121,19 @@ export default async function TravelPostPage({
                 caption={section.caption?.[locale]}
               />
             ) : null}
+            {section.cta ? (
+              <Link
+                href={`/go/${section.cta.goId}?utm_source=site&utm_medium=affiliate&utm_campaign=travel`}
+                className="travel-cta mt-5"
+                rel="sponsored"
+              >
+                <p className="travel-cta-kicker">{section.cta.kicker[locale]}</p>
+                <p className="travel-cta-title">{section.cta.title[locale]}</p>
+                {section.cta.note ? (
+                  <p className="travel-cta-note">{section.cta.note[locale]}</p>
+                ) : null}
+              </Link>
+            ) : null}
           </section>
         ))}
       </div>
