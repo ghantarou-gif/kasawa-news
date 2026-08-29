@@ -1,5 +1,6 @@
 import { cache } from "react";
 import { FETCH_TIMEOUT_MS, isPaywalledText, isPaywalledUrl, PER_SOURCE_PER_DAY, REVALIDATE_SECONDS } from "./config";
+import { isElectionArticle } from "./election";
 import { feedsForLocale, type Feed } from "./feeds";
 import { genres, type GenreId } from "./genres";
 import { mergeArticles } from "./store";
@@ -249,6 +250,15 @@ export async function getDayArticles(
 export async function latestDay(locale: Locale): Promise<string | null> {
   const { days } = await getDaySummaries(locale);
   return days[0]?.date ?? null;
+}
+
+export async function getElectionArticles(
+  locale: Locale,
+  limit = 48,
+): Promise<Article[]> {
+  const items = await ingest(locale);
+  const matched = capDay(items.filter(isElectionArticle));
+  return sortNewest(matched).slice(0, limit);
 }
 
 export async function getArticleById(
