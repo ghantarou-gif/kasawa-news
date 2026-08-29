@@ -92,6 +92,9 @@ export function DeskHeader({
           >
             {copy.nyanchu}
           </a>
+          <Link href={`/${locale}/election`} className="header-nav-link">
+            {copy.election}
+          </Link>
           <Link href={`/${locale}/travel`} className="header-nav-link">
             {copy.travel}
           </Link>

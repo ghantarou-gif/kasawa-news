@@ -103,6 +103,8 @@ export default async function TravelPostPage({
         />
       ) : null}
 
+      {post.viatorBanner ? <ViatorBanner className="mt-8" /> : null}
+
       <div className="mt-8 flex flex-col gap-8">
         {post.sections.map((section) => (
           <section key={section.heading[locale]}>
@@ -143,7 +145,7 @@ export default async function TravelPostPage({
         <TravelAffiliateBlock locale={locale} offers={post.offers} />
       </div>
 
-      <ViatorBanner className="mt-8" />
+      {!post.viatorBanner ? <ViatorBanner className="mt-8" /> : null}
 
       <AdSlot placement="article" className="mt-8" />
 

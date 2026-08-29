@@ -20,6 +20,11 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 0.6,
     });
     entries.push({
+      url: `${base}/${locale}/election`,
+      changeFrequency: "hourly",
+      priority: 0.9,
+    });
+    entries.push({
       url: `${base}/${locale}/travel`,
       changeFrequency: "weekly",
       priority: 0.85,

@@ -1,7 +1,7 @@
 import { book } from "./book";
 import type { GenreId } from "./genres";
 import type { Locale } from "./locale";
-import { viatorLinkUrl } from "./viator";
+import { viatorOfferHref } from "./viator";
 
 export type GoLink = {
   label: Record<Locale, string>;
@@ -85,8 +85,15 @@ export const goLinks: Record<string, GoLink> = {
       en: "Tours & activities",
     },
     /** 既定はViatorのパートナーリンク。AFF_TRAVEL_TOUR_URL で上書き可 */
-    url: viatorLinkUrl(),
+    url: viatorOfferHref(),
     urlEnv: affEnv("TRAVEL_TOUR_URL"),
+  },
+  viator: {
+    label: {
+      ja: "ツアー・体験（Viator）",
+      en: "Tours & activities (Viator)",
+    },
+    url: viatorOfferHref(),
   },
   "travel-book": {
     label: {

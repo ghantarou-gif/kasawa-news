@@ -1,18 +1,47 @@
-/** Viator affiliate partner id. Override with NEXT_PUBLIC_VIATOR_PARTNER_ID. */
-const DEFAULT_PARTNER_ID = "P00316100";
+/**
+ * Viator Banner Builder (partner P00316100).
+ * URL construction matches partners.vtrcdn.com/static/scripts/banners/banners.js
+ * so the creative and tracking work without waiting on that script.
+ */
+export const viatorPartnerId = "P00316100";
+const viatorMcid = "42383";
+const bannerVersion = "version1";
 
-/** Viator's marketing channel id for affiliate links (same value their banner script uses). */
-const VIATOR_MCID = "42383";
+export const viatorBanner = {
+  url: "https://www.viator.com/",
+  width: 728,
+  height: 90,
+  language: "en",
+  selection: "banner1",
+} as const;
 
-export function viatorPartnerId(): string {
-  return process.env.NEXT_PUBLIC_VIATOR_PARTNER_ID?.trim() || DEFAULT_PARTNER_ID;
+function mediumVersion(): string {
+  const { selection, width, height } = viatorBanner;
+  return `${selection}_${width}x${height}_${bannerVersion}`;
 }
 
-/** Monetized Viator text link (used as the default /go/travel-tour destination). */
-export function viatorLinkUrl(path = "/"): string {
-  const url = new URL(path, "https://www.viator.com");
-  url.searchParams.set("pid", viatorPartnerId());
-  url.searchParams.set("mcid", VIATOR_MCID);
-  url.searchParams.set("medium", "link");
-  return url.toString();
+export function viatorBannerHref(): string {
+  const dest = new URL(viatorBanner.url);
+  dest.searchParams.set("mcid", viatorMcid);
+  dest.searchParams.set("medium", "banner");
+  dest.searchParams.set("medium_version", mediumVersion());
+  dest.searchParams.set("pid", viatorPartnerId);
+  return dest.toString();
+}
+
+export function viatorBannerImageSrc(): string {
+  const { language, selection, width, height } = viatorBanner;
+  return `https://partners.vtrcdn.com/static/images/banners/${language}/${selection}/${width}x${height}_${bannerVersion}.jpg`;
+}
+
+export function viatorBannerAlt(): string {
+  return `${viatorPartnerId}-${viatorBanner.selection}`;
+}
+
+export function viatorOfferHref(): string {
+  const dest = new URL(viatorBanner.url);
+  dest.searchParams.set("mcid", viatorMcid);
+  dest.searchParams.set("medium", "link");
+  dest.searchParams.set("pid", viatorPartnerId);
+  return dest.toString();
 }

@@ -57,14 +57,11 @@ AFF_SPORTS_URL="https://..."
 
 ### Viator バナー
 
-旅ガイドの一覧（`/ja/travel`）と各記事の下部に Viator の公式アフィバナー（`ViatorBanner`）を表示します。パートナーIDは既定で `P00316100`。変更する場合のみ設定:
+旅ガイドの一覧（`/ja/travel`）と各記事に Viator のアフィバナー（728×90）を表示します。パートナーID・サイズ等は `src/lib/viator.ts` で設定（既定 `P00316100`）。
 
-```bash
-NEXT_PUBLIC_VIATOR_PARTNER_ID="Pxxxxxxxx"
-```
-
-- 実装: `src/components/ViatorBanner.tsx`（ID: `src/lib/viator.ts`）。Viator公式の `banners.js` を読み込み、`div[data-id=viator-banner]` を画像リンクに置換します。
-- 既定は 728×90・英語。サイズ・言語を変える場合は `ViatorBanner` に `width` / `height` / `language` / `selection` を渡す。
+- 実装: `src/components/ViatorBanner.tsx`。公式 `banners.js` と同じURL構成でサーバーレンダリングするため、クライアントJS不要で確実に表示されます。
+- 記事内の位置: `src/lib/travel.ts` の記事に `viatorBanner: true` を付けると本文上部（ヒーロー直下）、指定なしの記事はアフィ枠の下に表示。
+- テキストリンク側: `/go/viator`（Viator直リンク）と `/go/travel-tour`（既定でViator、`AFF_TRAVEL_TOUR_URL` で差し替え可）。
 
 ## Google AdSense
 
