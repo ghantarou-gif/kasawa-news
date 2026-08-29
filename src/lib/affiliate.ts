@@ -1,6 +1,7 @@
 import { book } from "./book";
 import type { GenreId } from "./genres";
 import type { Locale } from "./locale";
+import { viatorOfferHref } from "./viator";
 
 export type GoLink = {
   label: Record<Locale, string>;
@@ -70,6 +71,13 @@ export const goLinks: Record<string, GoLink> = {
     },
     /** じゃらん体験 / Klook / Viator 等 */
     url: "",
+  },
+  viator: {
+    label: {
+      ja: "ツアー・体験（Viator）",
+      en: "Tours & activities (Viator)",
+    },
+    url: viatorOfferHref(),
   },
   "travel-book": {
     label: {

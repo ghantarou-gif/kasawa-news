@@ -5,6 +5,7 @@ import { AdSlot } from "@/components/AdSlot";
 import { ShareBar } from "@/components/ShareBar";
 import { TravelAffiliateBlock } from "@/components/TravelAffiliateBlock";
 import { TravelPhoto } from "@/components/TravelPhoto";
+import { ViatorBanner } from "@/components/ViatorBanner";
 import { t } from "@/lib/i18n";
 import { isLocale } from "@/lib/locale";
 import { siteUrl } from "@/lib/site";
@@ -101,6 +102,8 @@ export default async function TravelPostPage({
           wide
         />
       ) : null}
+
+      {post.viatorBanner ? <ViatorBanner className="mt-8" /> : null}
 
       <div className="mt-8 flex flex-col gap-8">
         {post.sections.map((section) => (

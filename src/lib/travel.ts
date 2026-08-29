@@ -38,6 +38,8 @@ export type TravelPost = {
   sections: TravelSection[];
   tips: Record<Locale, string>[];
   offers: TravelOffer[];
+  /** Viator Banner Builder 728x90 (partner P00316100). */
+  viatorBanner?: boolean;
 };
 
 /**
@@ -49,6 +51,7 @@ export const travelPosts: TravelPost[] = [
   {
     slug: "suica-how-to",
     publishedAt: "2026-08-28",
+    viatorBanner: true,
     region: "kanto",
     place: { ja: "東京・JR東日本", en: "Tokyo / JR East" },
     title: {
@@ -185,8 +188,8 @@ export const travelPosts: TravelPost[] = [
         label: { ja: "東京の宿を探す", en: "Find a Tokyo hotel" },
       },
       {
-        goId: "travel-tour",
-        label: { ja: "東京のツアー・体験", en: "Tokyo tours & activities" },
+        goId: "viator",
+        label: { ja: "東京のツアー・体験（Viator）", en: "Tokyo tours on Viator" },
       },
       {
         goId: "travel-book",
