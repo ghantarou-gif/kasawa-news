@@ -95,6 +95,13 @@ export const goLinks: Record<string, GoLink> = {
     },
     url: viatorOfferHref(),
   },
+  "viator-tokyo-halfday": {
+    label: {
+      ja: "東京半日プライベートツアー（Viator）",
+      en: "Half-day private Tokyo tour (Viator)",
+    },
+    url: "https://www.viator.com/tours/Tokyo/A-Half-Day-in-Tokyo-with-a-Local-Private-and-Personalized/d334-30791P656?pid=P00316100&mcid=42383&medium=link",
+  },
   "travel-book": {
     label: {
       ja: "旅行ガイド本（Amazon）",
