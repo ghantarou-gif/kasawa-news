@@ -31,6 +31,11 @@ const dictionary = {
     travelEmpty: "まだ旅ガイドはありません。",
     travelTips: "ポイント",
     travelOffers: "宿・ツアー・ガイド本",
+    election: "選挙",
+    electionKicker: "Election watch",
+    electionLead:
+      "国内外の選挙・投票に関する見出しを、配信元の公式RSSから自動でまとめています。最新順・24時間以内が中心です。",
+    electionEmpty: "いまは選挙関連の見出しがありません。しばらくしてから開き直してください。",
     search: "見出しを探す",
     searchPlaceholder: "キーワード",
     leadKicker: "先頭記事",
@@ -95,6 +100,11 @@ const dictionary = {
     travelEmpty: "No travel guides yet.",
     travelTips: "Tips",
     travelOffers: "Hotels, tours & books",
+    election: "Elections",
+    electionKicker: "Election watch",
+    electionLead:
+      "Headlines on elections and votes at home and abroad, gathered automatically from publishers' official RSS. Newest first, mostly the last 24 hours.",
+    electionEmpty: "No election headlines right now. Try again in a few minutes.",
     search: "Search headlines",
     searchPlaceholder: "Keyword",
     leadKicker: "Lead",
