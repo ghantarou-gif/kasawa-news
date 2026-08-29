@@ -18,6 +18,7 @@ export function ViatorBanner({ className = "" }: { className?: string }) {
         rel="sponsored noopener noreferrer"
         target="_blank"
       >
+        {/* eslint-disable-next-line @next/next/no-img-element -- Viator host-served creative */}
         <img
           src={viatorBannerImageSrc()}
           alt={viatorBannerAlt()}
