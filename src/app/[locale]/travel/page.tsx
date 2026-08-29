@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { ViatorBanner } from "@/components/ViatorBanner";
 import { t } from "@/lib/i18n";
 import { isLocale } from "@/lib/locale";
 import {
@@ -47,6 +48,8 @@ export default async function TravelIndexPage({
         {copy.travel}
       </h1>
       <p className="mt-3 max-w-2xl text-[15px] leading-7 text-muted">{copy.travelLead}</p>
+
+      <ViatorBanner className="mt-6" />
 
       {posts.length === 0 ? (
         <p className="mt-10 text-muted">{copy.travelEmpty}</p>

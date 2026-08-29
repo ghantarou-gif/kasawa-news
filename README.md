@@ -54,6 +54,17 @@ AFF_SPORTS_URL="https://..."
 - コードに直書きしたい場合は `src/lib/affiliate.ts` の `goLinks[id].url` に設定（`urlEnv` より優先）。
 - Vercel/Netlify では上記を環境変数に登録して再デプロイ。
 
+### Viator バナー
+
+旅ガイドの一覧（`/ja/travel`）と各記事の下部に Viator の公式アフィバナー（`ViatorBanner`）を表示します。パートナーIDは既定で `P00316100`。変更する場合のみ設定:
+
+```bash
+NEXT_PUBLIC_VIATOR_PARTNER_ID="Pxxxxxxxx"
+```
+
+- 実装: `src/components/ViatorBanner.tsx`（ID: `src/lib/viator.ts`）。Viator公式の `banners.js` を読み込み、`div[data-id=viator-banner]` を画像リンクに置換します。
+- 既定は 728×90・英語。サイズ・言語を変える場合は `ViatorBanner` に `width` / `height` / `language` / `selection` を渡す。
+
 ## Google AdSense
 
 1. [Google AdSense](https://www.google.com/adsense/) に申請（サイトURLを本番URLに）

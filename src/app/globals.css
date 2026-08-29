@@ -334,6 +334,21 @@ a {
   display: none;
 }
 
+.viator-banner {
+  display: flex;
+  justify-content: center;
+}
+
+.viator-banner > div:empty {
+  display: none;
+}
+
+.viator-banner img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 0.5rem;
+}
+
 .affiliate-kicker {
   font-family: var(--font-sans);
   font-size: 11px;

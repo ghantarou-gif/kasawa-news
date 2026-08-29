@@ -5,6 +5,7 @@ import { AdSlot } from "@/components/AdSlot";
 import { ShareBar } from "@/components/ShareBar";
 import { TravelAffiliateBlock } from "@/components/TravelAffiliateBlock";
 import { TravelPhoto } from "@/components/TravelPhoto";
+import { ViatorBanner } from "@/components/ViatorBanner";
 import { t } from "@/lib/i18n";
 import { isLocale } from "@/lib/locale";
 import { siteUrl } from "@/lib/site";
@@ -141,6 +142,8 @@ export default async function TravelPostPage({
       <div className="mt-8">
         <TravelAffiliateBlock locale={locale} offers={post.offers} />
       </div>
+
+      <ViatorBanner className="mt-8" />
 
       <AdSlot placement="article" className="mt-8" />
 
