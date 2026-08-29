@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { AdSlot } from "@/components/AdSlot";
+import { CupSizeMap } from "@/components/CupSizeMap";
 import { ShareBar } from "@/components/ShareBar";
 import { TravelAffiliateBlock } from "@/components/TravelAffiliateBlock";
 import { TravelPhoto } from "@/components/TravelPhoto";
@@ -102,6 +103,8 @@ export default async function TravelPostPage({
         />
       ) : null}
 
+      {slug === "cup-size-map" ? <CupSizeMap locale={locale} /> : null}
+
       <div className="mt-8 flex flex-col gap-8">
         {post.sections.map((section) => (
           <section key={section.heading[locale]}>
@@ -142,7 +145,9 @@ export default async function TravelPostPage({
         <TravelAffiliateBlock locale={locale} offers={post.offers} />
       </div>
 
-      <AdSlot placement="article" className="mt-8" />
+      {slug === "cup-size-map" ? null : (
+        <AdSlot placement="article" className="mt-8" />
+      )}
 
       <section className="article-actions">
         <ShareBar
