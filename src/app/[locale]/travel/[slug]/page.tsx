@@ -145,6 +145,8 @@ export default async function TravelPostPage({
         <TravelAffiliateBlock locale={locale} offers={post.offers} />
       </div>
 
+      {!post.viatorBanner ? <ViatorBanner className="mt-8" /> : null}
+
       <AdSlot placement="article" className="mt-8" />
 
       <section className="article-actions">

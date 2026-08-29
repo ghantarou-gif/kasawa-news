@@ -25,11 +25,43 @@ http://localhost:3000
 ## 旅ガイド（X → サイト → 旅行アフィリ）
 
 1. `src/lib/travel.ts` に観光地の記事を追加
-2. `src/lib/affiliate.ts` の `travel-hotel` などに予約・Amazon URLを入れる
+2. アフィリURLを設定（下記「アフィリエイトリンク」）
 3. Xに `xHook` の文＋URL `/ja/travel/スラッグ` を投稿
 4. 読者が詳細を読み、宿・ツアー枠から遷移
 
 例: `/ja/travel/kyoto-arashiyama`
+
+## アフィリエイトリンク
+
+`/go/<id>` が各アフィリ先へ302リダイレクトします（`utm_source/medium/campaign` を引き継ぐ）。リンク先URLはアカウント固有なので **`.env` に貼るだけ** で有効化できます（コード変更不要・URLはコミットされません）。各ASP（楽天／A8.net／もしもアフィリエイト／Booking.com／Amazonアソシエイト／Klook／KKday 等）で生成したURLをそのまま入れてください。
+
+```bash
+# 旅ガイド（記事下の宿・ツアー・本の枠）
+AFF_TRAVEL_HOTEL_URL="https://..."   # 宿（楽天トラベル / Booking / じゃらん 等）
+AFF_TRAVEL_TOUR_URL="https://..."    # ツアー・体験（未設定ならViatorパートナーリンクが既定で有効）
+AFF_TRAVEL_BOOK_URL="https://..."    # ガイド本（Amazonアソシエイト 等）
+
+# ニュース記事のジャンル別枠（任意）
+AFF_TECH_URL="https://..."
+AFF_BUSINESS_URL="https://..."
+AFF_WORLD_URL="https://..."
+AFF_JAPAN_URL="https://..."
+AFF_SPORTS_URL="https://..."
+```
+
+- 各変数は `NEXT_PUBLIC_AFF_*`（例 `NEXT_PUBLIC_AFF_TRAVEL_HOTEL_URL`）でも読めます。
+- **`travel-tour` は未設定でも動きます**: Viatorのパートナーリンク（`pid` = ViatorバナーのパートナーID）に飛びます。
+- それ以外は未設定の場合、`travel-*` は `/ja/travel` に、その他は `/ja/book` にフォールバックします。
+- 優先順位: 環境変数 → `src/lib/affiliate.ts` の `goLinks[id].url`（直書き）→ フォールバック。
+- Vercel/Netlify では上記を環境変数に登録して再デプロイ。
+
+### Viator バナー
+
+旅ガイドの一覧（`/ja/travel`）と各記事に Viator のアフィバナー（728×90）を表示します。パートナーID・サイズ等は `src/lib/viator.ts` で設定（既定 `P00316100`）。
+
+- 実装: `src/components/ViatorBanner.tsx`。公式 `banners.js` と同じURL構成でサーバーレンダリングするため、クライアントJS不要で確実に表示されます。
+- 記事内の位置: `src/lib/travel.ts` の記事に `viatorBanner: true` を付けると本文上部（ヒーロー直下）、指定なしの記事はアフィ枠の下に表示。
+- テキストリンク側: `/go/viator`（Viator直リンク）と `/go/travel-tour`（既定でViator、`AFF_TRAVEL_TOUR_URL` で差し替え可）。
 
 ## Google AdSense
 

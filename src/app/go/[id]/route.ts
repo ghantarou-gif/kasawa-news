@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 import { book } from "@/lib/book";
-import { resolveGoLink } from "@/lib/affiliate";
+import { goLinkUrl, resolveGoLink } from "@/lib/affiliate";
 import { siteUrl } from "@/lib/site";
 
 export async function GET(
@@ -14,7 +14,7 @@ export async function GET(
     return NextResponse.redirect(new URL("/ja", siteUrl()), 302);
   }
 
-  let destination = link.url;
+  let destination = goLinkUrl(id);
   if (id === "kindle" && !book.kindleUrl) {
     destination = new URL("/ja/book", siteUrl()).toString();
   }
