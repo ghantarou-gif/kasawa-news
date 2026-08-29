@@ -47,6 +47,111 @@ export type TravelPost = {
  */
 export const travelPosts: TravelPost[] = [
   {
+    slug: "japan-esim-sim-wifi",
+    publishedAt: "2026-08-29",
+    region: "other",
+    place: { ja: "全国・訪日データ通信", en: "Nationwide / visitor data" },
+    title: {
+      ja: "日本のネット回線どれにする？eSIM・SIM・ポケットWiFiの選び方",
+      en: "Staying online in Japan: how to choose between eSIM, SIM, and pocket Wi-Fi",
+    },
+    excerpt: {
+      ja: "地図・翻訳・Suicaチャージ・予約確認まで、日本の旅はほぼネット前提。eSIMと物理SIM、ポケットWiFi、無料Wi-Fiの違いと、端末別の失敗しない選び方をまとめました。",
+      en: "Maps, translation, topping up Suica, checking bookings—a Japan trip runs on data. Here's how eSIM, physical SIM, pocket Wi-Fi, and free Wi-Fi differ, and how to pick by device.",
+    },
+    xHook: {
+      ja: "日本のネット、結論だけ言うとiPhoneはeSIM一択が近い。選び方↓",
+      en: "Data in Japan, short version: on iPhone, eSIM is usually the move. How to choose↓",
+    },
+    sections: [
+      {
+        heading: { ja: "なぜ最初に決めるべきか", en: "Why sort this out first" },
+        body: {
+          ja: "日本の旅行はネットにつながっている前提で回ります。Googleマップの乗換案内、翻訳アプリ、飲食店やアクティビティの予約確認、モバイルSuicaのチャージ、配車アプリ、緊急時の連絡——どれも到着直後から使いたいものばかりです。空港の到着ロビーは無料Wi-Fiがありますが、駅に移動して電車に乗った瞬間から切れるので、街歩き用の回線は現地に着く前に用意しておくのが基本です。選択肢は大きく四つ:eSIM、物理SIM、ポケットWiFi(モバイルルーター)、そして施設の無料Wi-Fi。どれを主役にするかは、使う端末・人数・滞在日数・データ量で決まります。",
+          en: "A Japan trip assumes you're online. Google Maps transit directions, translation, confirming restaurant and activity bookings, topping up Mobile Suica, ride-hailing, reaching someone in an emergency—you'll want all of it the moment you land. Airport arrival halls have free Wi-Fi, but it drops the second you board a train, so arrange your street-walking connection before you arrive. There are four options: eSIM, physical SIM, pocket Wi-Fi (a mobile router), and venue free Wi-Fi. Which one leads depends on your device, party size, trip length, and data appetite.",
+        },
+      },
+      {
+        heading: { ja: "eSIM:いまの本命(対応端末なら)", en: "eSIM: the default now (if your phone supports it)" },
+        body: {
+          ja: "eSIMは端末に内蔵のSIMへプロファイルを書き込む方式で、SIMカードを差し替えません。海外にいるうちにアプリやサイトで買ってQRを読み込み、日本に着いたら回線を有効化するだけ。空港カウンターに並ばず、SIMピンも不要で、日本の番号を持たなくてもデータ通信が使えます。iPhoneはXR/XS以降がeSIM対応、AndroidはPixelや近年の主要機種が対応しますが、地域版で無効な個体もあるので『設定』からeSIM追加が出るか出発前に確認を。多くの訪日向けeSIMはデータ専用(電話番号なし)で、通話やSMS認証が必要ならその点だけ注意します。容量は1日500MB〜無制限、日数は3〜30日など幅広く、地図と検索が中心なら1日1GB前後、動画やテザリングを多用するなら無制限プランが安心です。",
+          en: "An eSIM writes a profile to the phone's built-in SIM—no card swap. Buy it from an app or site while still abroad, scan the QR, and activate the line once you land. No airport queue, no SIM pin, and you get data without holding a Japanese number. iPhone XR/XS and later support eSIM; Pixel and most recent Android flagships do too, though some regional units disable it—before you fly, check that Settings offers 'Add eSIM.' Most visitor eSIMs are data-only (no phone number), so note that if you need calls or SMS codes. Allowances range from 500MB/day to unlimited over 3–30 days; roughly 1GB/day covers maps and search, while heavy video or tethering is calmer on an unlimited plan.",
+        },
+      },
+      {
+        heading: { ja: "物理SIM:安さと汎用性", en: "Physical SIM: cheap and universal" },
+        body: {
+          ja: "物理SIMは端末のSIMトレイに差し替えて使います。eSIM非対応の古い端末や地域版Androidでも使え、家電量販店・空港・オンラインで訪日向けプリペイドSIMが手に入ります。注意点は二つ。ひとつはSIMロック——自国のキャリアでロックされた端末は日本のSIMが刺さらないので、出発前にSIMフリー化しておくこと。もうひとつは元のSIMの保管——抜いたSIMは小さいので失くしやすく、SIMピン(またはクリップ)も必要です。通話付きは本人確認(パスポート提示)が要る場合がありますが、データ専用プリペイドなら登録が簡単なものが多いです。到着日に空港のカウンターや自販機で買う手もありますが、混雑や在庫切れもあるので、確実に使いたいならオンラインで事前手配→受取か、eSIMの方が読みやすいです。",
+          en: "A physical SIM swaps into the tray. It works on older phones or regional Androids that lack eSIM, and visitor prepaid SIMs are sold at electronics stores, airports, and online. Two cautions. First, SIM lock—if your home carrier locked the phone, a Japanese SIM won't work, so unlock before you fly. Second, keep your original SIM safe—it's tiny and easy to lose, and you'll need a SIM pin (or paperclip). Voice plans may require ID (passport); data-only prepaid is usually quick to set up. You can buy at an airport counter or vending machine on arrival, but crowds and stockouts happen, so ordering online for pickup—or just using an eSIM—is more predictable.",
+        },
+      },
+      {
+        heading: { ja: "ポケットWiFi:複数人・複数端末に強い", en: "Pocket Wi-Fi: best for groups and many devices" },
+        body: {
+          ja: "ポケットWiFi(モバイルルーター)は1台のルーターに複数端末をつなぐ方式。家族やグループ旅行、ノートPCやタブレットも一緒につなぎたい人、SIMを差し替えたくない人に向きます。空港受取・返却か宅配受取が一般的で、大容量・無制限プランが多く、地図と写真をみんなでガンガン使っても割り勘なら割安になりがち。弱点は『荷物と充電がひとつ増える』こと。ルーターの電池が切れると全員のネットが止まるので、モバイルバッテリーは必須。また常に持ち歩く必要があり、グループが別行動すると片方がオフラインになります。返却期限・受取カウンターの営業時間・受渡し場所は予約時に必ず確認を。短期の一人旅ならeSIMの方が身軽ですが、3〜4人以上ならポケットWiFiが総額で有利なことが多いです。",
+          en: "A pocket Wi-Fi (mobile router) connects several devices to one router. It suits families and groups, anyone bringing a laptop or tablet, and people who don't want to swap SIMs. You typically pick up and return at the airport or receive it by mail; plans are often high-cap or unlimited, so heavy map and photo use split across a group tends to be cheap per person. The downsides: it's one more thing to carry and charge. If the router dies, everyone's offline, so a power bank is mandatory. Someone must always carry it—if the group splits up, one side goes dark. Confirm the return deadline, counter hours, and pickup point when you book. For a short solo trip an eSIM is lighter, but for 3–4+ people pocket Wi-Fi often wins on total cost.",
+        },
+      },
+      {
+        heading: { ja: "無料Wi-Fiだけで乗り切れるか", en: "Can you get by on free Wi-Fi alone?" },
+        body: {
+          ja: "結論から言うと、旅の主役にはしない方が無難です。日本の無料Wi-Fiは空港・主要駅・コンビニ・カフェ・一部の観光施設やバス・電車で使えますが、面で常時つながっている国ではありません。歩いている最中に地図が更新されない、乗換の最中に途切れる、メール認証のためにログインが要る、といった場面が必ず出ます。訪日者向けの共通Wi-Fiアプリ(登録すると各所のスポットに自動接続するタイプ)を入れておくと補助にはなりますが、これを命綱にすると道に迷ったときに一番困ります。無料Wi-Fiは『宿やカフェで大きなダウンロードをするとき』『データを節約したいとき』の補助と位置づけ、街歩き用は必ず自前の回線(eSIM/SIM/ポケットWiFi)を用意するのが安全です。セキュリティ面でも、公衆Wi-Fiでの決済・ログインは避けるか、信頼できる回線に切り替えてから行いましょう。",
+          en: "Bottom line: don't make it the backbone of your trip. Japan's free Wi-Fi covers airports, major stations, convenience stores, cafes, and some attractions, buses, and trains—but it isn't blanket coverage. You'll inevitably hit moments where the map won't refresh mid-walk, the signal drops during a transfer, or a spot demands an email login. A visitor Wi-Fi app (register once, auto-connect at partner hotspots) helps as a backup, but relying on it is exactly what fails you when you're lost. Treat free Wi-Fi as a supplement—for big downloads at your hotel or cafe, or to save data—and always carry your own line (eSIM/SIM/pocket Wi-Fi) for walking around. For security, avoid payments and logins on public Wi-Fi, or switch to a trusted connection first.",
+        },
+      },
+      {
+        heading: { ja: "端末・人数別のおすすめ", en: "Recommendations by device and party size" },
+        body: {
+          ja: "・iPhone(XR以降)の一人旅・短期:eSIMが最短。並ばず、着いた瞬間から使える。地図と検索中心なら1日1GB前後、動画やテザリング多めなら無制限。\n・eSIM対応Androidの一人旅:同じくeSIMでOK。ただし地域版で機能無効の個体があるので、出発前に『設定→eSIM追加』が出るか確認。\n・eSIM非対応の古い端末:物理SIM。出発前にSIMロック解除とSIMピンの準備を忘れずに。\n・家族/グループ(3人以上)、PC・タブレットも:ポケットWiFi。無制限プランを割り勘にすると安く、みんなで地図を使える。モバイルバッテリー必須。\n・別行動が多いグループ:各自eSIMの方が安心(ルーター1台だと片方がオフラインになる)。\n・仕事でオンライン会議や大量アップロードがある:無制限のeSIMかポケットWiFi。安定重視ならルーター。\nいずれの場合も、SMS認証が必要なサービス(銀行アプリ等)を使う予定があるなら、自国のSIM/eSIMを『データオフ・SMS受信のみ』で残すか、番号付きプランを検討してください。",
+          en: "・Solo, short trip on iPhone (XR+): eSIM is fastest—no queue, live the moment you land. ~1GB/day for maps and search; unlimited if you stream or tether a lot.\n・Solo on an eSIM-capable Android: eSIM works too, but some regional units disable it—before you fly, confirm Settings offers 'Add eSIM.'\n・Older phone without eSIM: physical SIM. Unlock the SIM lock beforehand and pack a SIM pin.\n・Family/group (3+), plus laptop or tablet: pocket Wi-Fi. An unlimited plan split across people is cheap and everyone shares the map. Bring a power bank.\n・Group that often splits up: individual eSIMs are safer (one router leaves the other side offline).\n・Work calls or big uploads: unlimited eSIM or pocket Wi-Fi; the router if you want steadiest speed.\nIn every case, if you'll use services needing SMS codes (banking apps, etc.), keep your home SIM/eSIM set to 'data off, SMS on,' or consider a plan that includes a number.",
+        },
+      },
+      {
+        heading: { ja: "セットアップと当日の注意", en: "Setup and day-of tips" },
+        body: {
+          ja: "eSIMは『安定したネットがあるうちに』インストールまで済ませ、日本到着後に回線を有効化するのが鉄則です(QRの読み込みには元のネットが要るため、機内や現地でゼロから始めると詰みます)。到着したら『設定』でデータ通信に使う回線を訪日eSIMに切り替え、データローミングをオンに。物理SIMは差し替え後にAPN設定が自動で入らないことがあるので、提供元の案内どおりAPNを手入力できるようにメモしておく。ポケットWiFiは受取時にSSIDとパスワードを控え、まず1台つないで通信確認をしてから移動を。共通の注意として、①自国キャリアの高額な国際ローミングを切る(データローミングを訪日回線側だけオンにする/自国SIMはデータオフ)、②バッテリー消費が増えるのでモバイルバッテリーを持つ、③到着前にオフライン地図をダウンロードしておくと、有効化前や電波の弱い場所でも道に迷わない。返却が要るポケットWiFiは返却期限と方法(空港ポスト投函など)を最終日に慌てないよう前日に確認しておきます。",
+          en: "For eSIM, install it while you still have solid internet and only activate the line after you land (scanning the QR needs a working connection, so starting from zero on the plane or on-site can trap you). On arrival, switch your data line to the visitor eSIM in Settings and turn on data roaming. Physical SIMs sometimes don't auto-configure the APN, so note how to enter it manually from the provider's instructions. For pocket Wi-Fi, record the SSID and password at pickup and confirm one device connects before you leave the counter. Universally: (1) kill your home carrier's pricey international roaming (roam only on the visitor line; set the home SIM to data off), (2) carry a power bank since battery drain rises, and (3) download offline maps before arrival so you won't get lost pre-activation or in weak-signal spots. If your pocket Wi-Fi needs returning, check the deadline and method (e.g. drop in an airport post box) the day before so the last day isn't a scramble.",
+        },
+      },
+    ],
+    tips: [
+      {
+        ja: "eSIMは日本到着前にインストールまで、有効化は現地で。QR読込には元のネットが要る。",
+        en: "Install the eSIM before you arrive; activate on the ground. Scanning the QR needs existing internet.",
+      },
+      {
+        ja: "自国キャリアの国際ローミングは必ずオフ。訪日回線だけデータローミングをオンにする。",
+        en: "Turn off your home carrier's international roaming; enable data roaming only on the visitor line.",
+      },
+      {
+        ja: "地図と検索中心なら1日1GB前後で足りる。動画・テザリング多めなら無制限が安心。",
+        en: "~1GB/day covers maps and search; go unlimited if you stream or tether heavily.",
+      },
+      {
+        ja: "3〜4人以上・PCも使うならポケットWiFiが総額で有利。ただしモバイルバッテリー必須。",
+        en: "For 3–4+ people or a laptop, pocket Wi-Fi wins on total cost—but pack a power bank.",
+      },
+      {
+        ja: "オフライン地図を事前DL。無料Wi-Fiは主役にせず、街歩きは自前回線を用意する。",
+        en: "Pre-download offline maps. Don't lead with free Wi-Fi—carry your own line for walking around.",
+      },
+    ],
+    offers: [
+      {
+        goId: "travel-tour",
+        label: { ja: "eSIM・WiFi・体験を予約", en: "Book eSIM, Wi-Fi & activities" },
+      },
+      {
+        goId: "travel-hotel",
+        label: { ja: "日本の宿を探す", en: "Find a hotel in Japan" },
+      },
+      {
+        goId: "travel-book",
+        label: { ja: "日本旅行のガイド本（Amazon）", en: "Japan travel guidebook (Amazon)" },
+      },
+    ],
+  },
+  {
     slug: "suica-how-to",
     publishedAt: "2026-08-28",
     region: "kanto",
