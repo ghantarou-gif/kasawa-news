@@ -31,6 +31,11 @@ const dictionary = {
     travelEmpty: "まだ旅ガイドはありません。",
     travelTips: "ポイント",
     travelOffers: "宿・ツアー・ガイド本",
+    election: "選挙",
+    electionKicker: "日本の選挙 · Japan election watch",
+    electionLead:
+      "日本国内の選挙・投票の見出しだけを、配信元の公式RSSから90秒ごとに自動更新でまとめています。国政選挙から知事選・市長選・地方議員選まで対象。海外の選挙は含みません。最新順・24時間以内が中心です。",
+    electionEmpty: "いまは日本の選挙に関する見出しがありません。しばらくしてから開き直してください。",
     search: "見出しを探す",
     searchPlaceholder: "キーワード",
     leadKicker: "先頭記事",
@@ -95,6 +100,11 @@ const dictionary = {
     travelEmpty: "No travel guides yet.",
     travelTips: "Tips",
     travelOffers: "Hotels, tours & books",
+    election: "Elections",
+    electionKicker: "Japan election watch",
+    electionLead:
+      "Headlines on elections and votes in Japan only, auto-updated every 90 seconds from publishers' official RSS. Covers national polls through gubernatorial, mayoral and local assembly races. Overseas elections are excluded. Newest first, mostly the last 24 hours.",
+    electionEmpty: "No Japanese election headlines right now. Try again in a few minutes.",
     search: "Search headlines",
     searchPlaceholder: "Keyword",
     leadKicker: "Lead",
