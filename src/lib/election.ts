@@ -68,10 +68,56 @@ const EN_KEYWORDS = [
   "byelection",
 ];
 
-const EN_PATTERN = new RegExp(
-  `\\b(?:${EN_KEYWORDS.map((word) => word.replace(/[-]/g, "\\-")).join("|")})\\b`,
-  "i",
-);
+// 日本の選挙に限定するための「日本」シグナル。海外の総選挙・大統領選・国民投票を
+// 除外するため、国名・日本の政党名・国会/議院・首長選など、日本を明示する語のみを使う。
+// （「総選挙」「大統領選」など海外にも使われる語はここには入れない）
+const JAPAN_JA_MARKERS = [
+  "日本",
+  "ニッポン",
+  "邦人",
+  "国内",
+  "永田町",
+  "国会議員",
+  "衆院",
+  "衆議院",
+  "参院",
+  "参議院",
+  "自民",
+  "自由民主党",
+  "立憲",
+  "公明",
+  "日本維新",
+  "維新の会",
+  "国民民主",
+  "れいわ",
+  "社民",
+  "日本共産党",
+  "都議",
+  "都知事",
+  "東京都知事",
+];
+
+// 英語記事で日本を示す語。Tokyo / LDP など語境界で判定。
+const JAPAN_EN_MARKERS = [
+  "japan",
+  "japanese",
+  "tokyo",
+  "ldp",
+  "komeito",
+  "ishiba",
+  "kishida",
+  "takaichi",
+];
+
+function toBoundaryPattern(words: string[]): RegExp {
+  return new RegExp(
+    `\\b(?:${words.map((word) => word.replace(/[-]/g, "\\-")).join("|")})\\b`,
+    "i",
+  );
+}
+
+const EN_PATTERN = toBoundaryPattern(EN_KEYWORDS);
+const JAPAN_EN_PATTERN = toBoundaryPattern(JAPAN_EN_MARKERS);
 
 function matchesElection(text: string): boolean {
   if (!text) return false;
@@ -79,6 +125,15 @@ function matchesElection(text: string): boolean {
   return EN_PATTERN.test(text);
 }
 
-export function isElectionArticle(article: Article): boolean {
-  return matchesElection(`${article.title} ${article.excerpt}`);
+function mentionsJapan(text: string): boolean {
+  if (!text) return false;
+  if (JAPAN_JA_MARKERS.some((marker) => text.includes(marker))) return true;
+  return JAPAN_EN_PATTERN.test(text);
+}
+
+// 日本国内の選挙記事だけを対象にする。「選挙関連の語」かつ「日本への明示的な言及」の
+// 両方を満たす記事のみ true。海外の選挙（EU国民投票・米大統領選など）は除外される。
+export function isJapaneseElectionArticle(article: Article): boolean {
+  const text = `${article.title} ${article.excerpt}`;
+  return matchesElection(text) && mentionsJapan(text);
 }

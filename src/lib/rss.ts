@@ -1,6 +1,6 @@
 import { cache } from "react";
 import { FETCH_TIMEOUT_MS, isPaywalledText, isPaywalledUrl, PER_SOURCE_PER_DAY, REVALIDATE_SECONDS } from "./config";
-import { isElectionArticle } from "./election";
+import { isJapaneseElectionArticle } from "./election";
 import { feedsForLocale, type Feed } from "./feeds";
 import { genres, type GenreId } from "./genres";
 import { mergeArticles } from "./store";
@@ -257,7 +257,7 @@ export async function getElectionArticles(
   limit = 48,
 ): Promise<Article[]> {
   const items = await ingest(locale);
-  const matched = capDay(items.filter(isElectionArticle));
+  const matched = capDay(items.filter(isJapaneseElectionArticle));
   return sortNewest(matched).slice(0, limit);
 }
 
