@@ -47,6 +47,84 @@ export type TravelPost = {
  */
 export const travelPosts: TravelPost[] = [
   {
+    slug: "cup-size-map",
+    publishedAt: "2026-08-29",
+    region: "other",
+    place: { ja: "日本全国", en: "Nationwide, Japan" },
+    title: {
+      ja: "カップサイズマップ：日本旅行を計画中の男性へ贈る47都道府県の分布図",
+      en: "The Japan cup size map: a 47-prefecture gift for men planning a trip",
+    },
+    excerpt: {
+      ja: "食べ物マップではない。神社マップでもない。温泉マップでもない。ネットでおなじみのカップサイズ分布図を、47都道府県すべてタップして遊べるインタラクティブ地図に仕立てました。",
+      en: "Not a food map. Not a shrine map. Not a hot spring map. The viral cup size map of Japan, rebuilt as a fully tappable 47-prefecture interactive toy.",
+    },
+    image: "/images/travel/cupmap/hero-map.jpg",
+    imageAlt: {
+      ja: "都道府県別にカップサイズで色分けされた日本地図",
+      en: "Map of Japan with prefectures colored by cup size",
+    },
+    imageCaption: {
+      ja: "元になった話題の地図。下のインタラクティブ版で県ごとの「データ」が見られます。",
+      en: "The original viral map. The interactive version below has per-prefecture data.",
+    },
+    xHook: {
+      ja: "日本旅行を計画中の男性諸君へ。食べ物マップじゃない。神社マップじゃない。カップサイズマップだ。触って遊べる版↓",
+      en: "For men planning a trip to Japan: not a food map, not a shrine map — a cup size map. Now interactive↓",
+    },
+    sections: [
+      {
+        heading: { ja: "これは何か", en: "What this is" },
+        body: {
+          ja: "日本のインターネットで定期的にバズる「都道府県別カップサイズマップ」。下着メーカーの調査データ（とされるもの）をもとに、47都道府県をA〜Eで色分けした地図です。見るだけの画像では物足りないので、県をタップするとカップサイズと一言コメントが出るインタラクティブ版にしました。旅ガイドのコーナーに置いてありますが、旅の役には立ちません。",
+          en: "A map that goes viral on the Japanese internet every few years: all 47 prefectures graded A to E, attributed to a lingerie maker's survey data. A static image felt like a missed opportunity, so this edition lets you tap any prefecture for its grade and a field note. It lives in the travel guide section, but it will not help your trip.",
+        },
+      },
+      {
+        heading: { ja: "見どころ", en: "Highlights" },
+        body: {
+          ja: "・Eは京都と岐阜の2府県だけ。千年の都と飛騨の山々が日本の頂点です。\n・Aは北海道のみ。広さとカップは比例しませんでした。\n・東京・神奈川・千葉はまさかのC。首都圏は平均的です。\n・北陸（富山・石川・福井）から山梨・長野・静岡・愛知にかけて、Dのベルト地帯を形成。\n・「行き先を運まかせで決める」ボタンを押すと47都道府県からランダムで1県が選ばれます。旅行計画には一切役に立ちませんが、グループチャットは盛り上がります。",
+          en: "・Only two prefectures earn an E: Kyoto and Gifu. The thousand-year capital and the Hida mountains share the summit.\n・Hokkaido alone holds the A. Size and cup turned out unrelated.\n・Tokyo, Kanagawa, and Chiba sit at a surprising C — the capital region is average.\n・The Hokuriku trio (Toyama, Ishikawa, Fukui) plus Yamanashi, Nagano, Shizuoka, and Aichi form a D belt.\n・The random button picks one prefecture out of 47. Useless for planning; excellent for group chats.",
+        },
+      },
+      {
+        heading: { ja: "注意書き", en: "Disclaimer" },
+        body: {
+          ja: "この地図はエンタメです。元になったとされる調査の詳細は不明で、統計的な信頼性は皆無です。この地図を根拠に旅行先を決めるのは自由ですが、宿は普通に立地と値段で選びましょう。下のリンクからどうぞ。",
+          en: "This map is entertainment. The underlying survey is unverified and statistically worthless. You are free to pick destinations by it, but please choose hotels by location and price like everyone else. Links below.",
+        },
+      },
+    ],
+    tips: [
+      {
+        ja: "Eは京都と岐阜だけ。行くなら東山と高山。",
+        en: "Only Kyoto and Gifu are E. Higashiyama and Takayama await.",
+      },
+      {
+        ja: "この地図を旅の計画に使わない。使うとしても誰にも言わない。",
+        en: "Do not plan trips with this map. If you do, tell no one.",
+      },
+      {
+        ja: "元ネタは下着メーカーの調査とされるネットの地図。真偽は不明。",
+        en: "Source: a viral map attributed to a lingerie maker's survey. Authenticity unknown.",
+      },
+    ],
+    offers: [
+      {
+        goId: "travel-hotel",
+        label: { ja: "日本の宿を探す", en: "Find hotels in Japan" },
+      },
+      {
+        goId: "travel-tour",
+        label: { ja: "日本のツアー・体験", en: "Japan tours & activities" },
+      },
+      {
+        goId: "travel-book",
+        label: { ja: "日本ガイド本（Amazon）", en: "Japan guidebook (Amazon)" },
+      },
+    ],
+  },
+  {
     slug: "suica-how-to",
     publishedAt: "2026-08-28",
     region: "kanto",
