@@ -59,6 +59,116 @@ export type TravelPost = {
  */
 export const travelPosts: TravelPost[] = [
   {
+    slug: "zauo-fishing-restaurant",
+    publishedAt: "2026-08-30",
+    region: "other",
+    place: { ja: "全国（東京・新宿ほか）", en: "Nationwide (Shinjuku, Tokyo & more)" },
+    title: {
+      ja: "夕食は自分で釣る。釣船茶屋「ざうお」の仕組みと初めてでも楽しむコツ",
+      en: "Catch your own dinner: how Zauo, Japan's fishing izakaya, works",
+    },
+    excerpt: {
+      ja: "店内の生け簀に釣り糸を垂らし、釣れた魚をその場で刺身や塩焼きにしてもらう居酒屋「ざうお」。料金の仕組み、釣れる魚、失敗しないコツ、予約の注意までまとめました。",
+      en: "At Zauo you drop a line into an indoor tank, and whatever you catch becomes your sashimi or grilled dinner. How pricing works, what you can catch, and how to not go home fishless.",
+    },
+    xHook: {
+      ja: "夕食を自分で釣る居酒屋「ざうお」。初めてでも釣れる回り方↓",
+      en: "Zauo: the izakaya where you fish your own dinner. First-timer guide↓",
+    },
+    sections: [
+      {
+        heading: { ja: "ざうおとは何か", en: "What Zauo is" },
+        body: {
+          ja: "「釣船茶屋ざうお」は、店の中に大きな生け簀と木の釣り船があり、客席から竿を垂らして自分の夕食を釣る体験型の居酒屋です。発祥は福岡で、海沿いの本店のほか、東京・新宿など都市部にも店舗があり、海外にも進出しています。釣れた瞬間にスタッフが太鼓を鳴らして「大漁！」と店中に響かせてくれるので、店内は始終にぎやか。釣った魚はそのまま厨房へ運ばれ、刺身・塩焼き・唐揚げ・煮付け・寿司などに調理されて席に届きます。子ども連れの家族はもちろん、「食事がそのままアトラクションになる」ので訪日観光の夜の予定としても人気です。",
+          en: "Tsuribune Chaya Zauo is an izakaya built around a large indoor tank with a wooden fishing boat for seating. You drop a line from your seat and catch your own dinner. The chain started in Fukuoka—its seaside flagship is still there—and has branches in city centers like Shinjuku, Tokyo, plus locations overseas. Every catch triggers a staff drumroll and a loud congratulatory chant, so the room stays lively. Your fish goes straight to the kitchen and comes back as sashimi, salt-grilled, deep-fried, simmered, or sushi. It's a hit with kids, and because dinner doubles as an attraction, it's a popular evening plan for visitors to Japan.",
+        },
+      },
+      {
+        heading: { ja: "仕組み:釣ってから食べるまで", en: "How it works, catch to table" },
+        body: {
+          ja: "流れはシンプルです。席についたら竿をレンタルし(有料・数百円程度)、エサをつけて生け簀に糸を垂らします。エサ釣りが基本ですが、店やターゲットによっては網や置き竿の案内もあり、コツはスタッフが教えてくれます。\n\n大事なルールがひとつ。釣った魚は必ず買い取りです。キャッチ&リリースはできないので、「釣れたら食べる」前提で竿を出してください。そのかわり、同じ魚をメニューで注文するより釣ったほうが安く設定されているのが基本で、釣り自体が割引になっています。\n\n釣れたら調理法を選びます。刺身・塩焼き・唐揚げ・煮付け・天ぷら・寿司などから選び、魚の代金とは別に調理代がかかります。1匹を半身ずつ2つの調理法に分けられる店舗もあるので、大きめの魚が釣れたら「半分刺身、半分唐揚げ」のような頼み方を聞いてみると満足度が高いです。",
+          en: "The flow is simple. Rent a rod at your table (a small fee, a few hundred yen), bait the hook, and drop the line into the tank. Bait fishing is the default; staff will show you the technique, and some branches offer nets or set rods for certain targets.\n\nOne rule matters: whatever you catch, you buy. There is no catch-and-release, so only cast when you're ready to eat the result. In exchange, a caught fish is generally cheaper than ordering the same fish from the menu—the discount is the reward for catching it.\n\nOnce you land one, pick a cooking style: sashimi, salt-grilled, deep-fried, simmered, tempura, or sushi, with a cooking fee on top of the fish price. Some branches will split one fish two ways—half sashimi, half karaage—which is worth asking about if you catch something big.",
+        },
+      },
+      {
+        heading: { ja: "何が釣れる?値段の考え方", en: "What you can catch and what it costs" },
+        body: {
+          ja: "生け簀の主役はアジ・タイ(真鯛)・ヒラメあたりで、店舗や日によってはイセエビや貝類が入ることもあります。難易度と値段はおおむね比例します。\n\n・アジ — いちばん釣りやすく、いちばん安い。初心者や子どもはまずアジ狙いが正解。唐揚げや姿造りに。\n・タイ・ヒラメ — 引きが強く、値段も数千円クラス。釣れたときの太鼓は最高に気持ちいい。刺身や塩焼き向き。\n・イセエビなど — 釣りではなく網ですくう形式の場合も。値段は張るのでご褒美枠。\n\n会計のイメージは「竿レンタル＋釣った魚の代金＋調理代＋通常の居酒屋メニュー・ドリンク」。魚の値段は時価に近い設定で店舗により違うので、竿を出す前に値札や店員さんの説明を確認しておくと安心です。釣りに自信がなくても、普通の海鮮居酒屋としてメニュー注文だけで過ごすこともできます。",
+          en: "The tanks usually hold horse mackerel (aji), sea bream (tai), and flounder (hirame), with spiny lobster or shellfish appearing at some branches. Difficulty and price rise together.\n\n- Aji — easiest to hook and cheapest. The right first target for beginners and kids; great deep-fried or as a whole-fish sashimi plate.\n- Tai and hirame — a real fight on the line and a few thousand yen a fish. Best as sashimi or salt-grilled, and the drumroll feels earned.\n- Lobster and friends — sometimes netted rather than hooked; a splurge item.\n\nThe bill adds up as rod rental + your fish + cooking fees + normal izakaya food and drinks. Fish prices vary by branch and season, so check the price board or ask before casting. And if fishing isn't your thing, you can simply order from the menu like a regular seafood izakaya.",
+        },
+        cta: {
+          goId: "viator",
+          kicker: { ja: "PR・体験をもっと探す", en: "Sponsored · More experiences" },
+          title: {
+            ja: "釣り以外も。東京のフード体験・ナイトツアーをViatorで探す",
+            en: "Beyond fishing: browse Tokyo food experiences and night tours on Viator",
+          },
+          note: {
+            ja: "築地・居酒屋はしご・ラーメン作りなど、夜の予定の選択肢に",
+            en: "Tsukiji walks, izakaya hopping, ramen making and more",
+          },
+        },
+      },
+      {
+        heading: { ja: "初めてでも釣るコツ", en: "How to actually catch one" },
+        body: {
+          ja: "「1時間粘って釣れなかった」を避けるコツはだいたい決まっています。\n\n1)開店直後に行く。魚がまだ満腹になっていない時間帯がいちばん食いつきがいい。逆に、閉店間際は魚がエサを見飽きています。\n2)魚が溜まっている場所を探す。生け簀の角や物陰に群れができやすいので、席の前だけで粘らず移動を。\n3)エサはこまめに確認。取られたまま糸を垂らしていても釣れません。\n4)アタリが来たら一呼吸置いて合わせる。すぐ引くと逃げられます。竿がしなってから引き上げるくらいでちょうどいい。\n5)迷ったらスタッフに聞く。どの魚が今日は釣れやすいか、正直に教えてくれます。\n\nそれでも釣れない日はあります。その場合もメニュー注文で同じ料理は食べられるので、「釣れたらラッキー」くらいの気持ちで楽しむのがちょうどいいです。",
+          en: "Avoiding the dreaded fishless hour comes down to a few habits.\n\n1) Go right at opening. The fish are hungriest before everyone else has fed them; by closing time they've seen every bait in the house.\n2) Find where the fish crowd—corners and shaded spots of the tank—rather than casting only in front of your seat.\n3) Check your bait often. An empty hook catches nothing.\n4) When you feel a bite, wait a beat before setting the hook. Pull too early and it's gone; wait until the rod bends.\n5) Ask the staff which fish are biting today. They'll tell you honestly.\n\nSome days nothing bites. You can still order the same dishes from the menu, so treat a catch as a bonus, not the entry fee for dinner.",
+        },
+      },
+      {
+        heading: { ja: "予約・店舗・行き方", en: "Reservations, locations, getting there" },
+        body: {
+          ja: "観光で行きやすいのは東京・新宿店で、駅から徒歩圏のホテル地下にあり、英語メニューや外国人観光客の対応にも慣れています。ほかに首都圏・中部・関西・九州などに店舗があり、発祥地・福岡の本店は海沿いで雰囲気が別格。店舗は増減があるので、行く前に公式サイトの店舗一覧を確認してください。\n\n席は釣り船の上の「船席」が人気で、週末や連休は家族連れで埋まりがち。船席狙いなら早めの予約が無難です(オンライン予約対応の店舗が多い)。所要時間は釣り＋食事でおおむね90〜120分。誕生日や記念日の演出をやってくれる店舗もあるので、予約時に相談を。\n\nディナーの予算感は、釣る魚の種類と数で大きく変わりますが、飲み物込みでひとり数千円〜が目安。家族で行くなら「釣るのは2〜3匹まで」のように上限を決めておくと会計が読めます。",
+          en: "For visitors, the easiest branch is Shinjuku, Tokyo—in a hotel basement within walking distance of the station, with English menus and staff used to overseas guests. Other branches cover the Tokyo area, central Japan, Kansai, and Kyushu, and the seaside Fukuoka flagship where it all started has an atmosphere of its own. Branches open and close, so check the official store list before you go.\n\nThe boat seats are the popular ones and fill up with families on weekends, so book ahead if you want them (many branches take online reservations). Plan on roughly 90–120 minutes for fishing plus dinner. Some branches do birthday and anniversary celebrations—ask when booking.\n\nDinner cost swings with what and how much you catch; a few thousand yen per person including drinks is a reasonable baseline. With a family, agree on a catch limit—say two or three fish—so the bill stays predictable.",
+        },
+      },
+      {
+        heading: { ja: "注意点とマナー", en: "Cautions and etiquette" },
+        body: {
+          ja: "楽しい店ですが、押さえておくべき注意がいくつかあります。\n\n・釣った魚のリリースは不可。遊びで数を釣ると会計が膨らみます。食べられる分だけ。\n・手はエサと魚で汚れます。おしぼりはありますが、気になる人はウェットティッシュがあると快適。服に水が跳ねることもあるので、白い服は避けるのが無難。\n・生け簀の魚を驚かせない・叩かないなど、生き物への配慮はマナーとして。竿の扱いも周囲の席に注意。\n・刺身(生魚)が苦手な人は、唐揚げ・塩焼き・煮付けなど加熱調理を選べば問題なし。アレルギーは注文時に伝えてください。\n・料金・営業時間・店舗は変わります。この記事は仕組みの解説なので、最新の値段と予約条件は公式サイトで確認を。",
+          en: "A few things to know before you go.\n\n- No releasing your catch. Hooking fish for sport inflates the bill fast—catch only what you'll eat.\n- Your hands will smell of bait and fish. Towels are provided, but wet wipes make life better, and skip the white shirt in case of splashes.\n- Be kind to the tank: don't startle or slap at the fish, and mind your rod around neighboring seats.\n- Not a raw-fish person? Choose cooked styles—deep-fried, salt-grilled, simmered. Mention allergies when ordering.\n- Prices, hours, and branches change. This article explains the system; confirm current numbers and booking rules on the official site.",
+        },
+      },
+    ],
+    tips: [
+      {
+        ja: "開店直後がいちばん釣れる。船席狙いなら週末は予約必須。",
+        en: "Fish bite best right at opening. Reserve boat seats on weekends.",
+      },
+      {
+        ja: "初心者と子どもはまずアジ狙い。安くて釣りやすく、唐揚げが確実にうまい。",
+        en: "Beginners and kids: target aji first—cheap, easy, and great deep-fried.",
+      },
+      {
+        ja: "釣った魚は買い取り。家族なら「釣るのは3匹まで」など上限を決めておく。",
+        en: "You buy what you catch. Set a family catch limit (say three) to control the bill.",
+      },
+      {
+        ja: "釣れなくても同じ料理はメニューで注文できる。「釣れたらラッキー」で楽しむ。",
+        en: "No catch? Order the same dishes from the menu. Treat catching as a bonus.",
+      },
+      {
+        ja: "最新の店舗一覧・料金は「ざうお」公式サイトで確認(店舗の増減あり)。",
+        en: "Check Zauo's official site for current branches and prices—they change.",
+      },
+    ],
+    offers: [
+      {
+        goId: "viator",
+        label: { ja: "東京のフード体験・ツアー（Viator）", en: "Tokyo food experiences (Viator)" },
+      },
+      {
+        goId: "travel-hotel",
+        label: { ja: "新宿・東京の宿を探す", en: "Find a hotel in Shinjuku / Tokyo" },
+      },
+      {
+        goId: "travel-book",
+        label: { ja: "東京グルメのガイド本（Amazon）", en: "Tokyo food guidebook (Amazon)" },
+      },
+    ],
+  },
+  {
     slug: "japan-esim-sim-wifi",
     publishedAt: "2026-08-29",
     region: "other",
