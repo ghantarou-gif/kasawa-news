@@ -134,6 +134,23 @@ export default async function TravelPostPage({
                 ) : null}
               </Link>
             ) : null}
+            {section.links && section.links.length > 0 ? (
+              <ul className="travel-links mt-5">
+                {section.links.map((link) => (
+                  <li key={link.href}>
+                    <a
+                      href={link.href}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="travel-link"
+                    >
+                      {link.label[locale]}
+                      <span aria-hidden> ↗</span>
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            ) : null}
           </section>
         ))}
       </div>

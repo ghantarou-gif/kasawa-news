@@ -405,6 +405,31 @@ a {
   color: var(--color-muted);
 }
 
+.travel-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.travel-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.15rem;
+  border-radius: 999px;
+  border: 1px solid var(--color-line);
+  background: var(--color-card);
+  color: var(--color-accent);
+  padding: 0.45rem 0.9rem;
+  font-size: 13px;
+  min-height: 40px;
+  touch-action: manipulation;
+  transition: border-color 0.15s ease;
+}
+
+.travel-link:hover {
+  border-color: var(--color-accent);
+}
+
 .affiliate-link {
   display: inline-flex;
   align-items: center;
