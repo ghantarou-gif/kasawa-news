@@ -46,9 +46,11 @@ function HeadlineRow({ article, locale }: { article: Article; locale: Locale }) 
 export function TopStories({
   items,
   locale,
+  headings = true,
 }: {
   items: Article[];
   locale: Locale;
+  headings?: boolean;
 }) {
   const copy = t(locale);
 
@@ -56,18 +58,27 @@ export function TopStories({
     return <p className="py-16 text-center text-muted">{copy.emptyDay}</p>;
   }
 
-  const [lead, ...rest] = items;
+  // Prefer an article with a thumbnail for the hero so the lead never renders
+  // as a large empty placeholder; fall back to the newest item otherwise.
+  const leadIndex = Math.max(
+    0,
+    items.findIndex((article) => article.image),
+  );
+  const lead = items[leadIndex];
+  const rest = items.filter((_, index) => index !== leadIndex);
   const leadHub = articleHubPath(locale, lead.id);
   const headlines = rest.slice(0, 9);
   const latest = rest.slice(9);
 
   return (
     <div className="top-stories">
-      <section aria-labelledby="top-heading">
-        <h2 id="top-heading" className="section-heading">
-          <span className="section-heading-bar" aria-hidden />
-          {copy.topHeadlines}
-        </h2>
+      <section aria-labelledby={headings ? "top-heading" : undefined}>
+        {headings ? (
+          <h2 id="top-heading" className="section-heading">
+            <span className="section-heading-bar" aria-hidden />
+            {copy.topHeadlines}
+          </h2>
+        ) : null}
 
         <div className="top-grid">
           <article className="lead-card">
@@ -104,11 +115,16 @@ export function TopStories({
       </section>
 
       {latest.length > 0 ? (
-        <section aria-labelledby="latest-heading" className="mt-10">
-          <h2 id="latest-heading" className="section-heading">
-            <span className="section-heading-bar" aria-hidden />
-            {copy.latestHeadlines}
-          </h2>
+        <section
+          aria-labelledby={headings ? "latest-heading" : undefined}
+          className={headings ? "mt-10" : "mt-4"}
+        >
+          {headings ? (
+            <h2 id="latest-heading" className="section-heading">
+              <span className="section-heading-bar" aria-hidden />
+              {copy.latestHeadlines}
+            </h2>
+          ) : null}
           <ol className="latest-grid">
             {latest.map((article) => (
               <HeadlineRow key={article.id} article={article} locale={locale} />
