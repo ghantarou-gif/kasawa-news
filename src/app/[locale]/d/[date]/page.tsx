@@ -3,7 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { GenreChips } from "@/components/DeskHeader";
 import { AdSlot } from "@/components/AdSlot";
-import { StoryGrid } from "@/components/StoryGrid";
+import { TopStories } from "@/components/TopStories";
 import { isGenre } from "@/lib/genres";
 import { t } from "@/lib/i18n";
 import { isLocale } from "@/lib/locale";
@@ -66,7 +66,7 @@ export default async function DayPage({
         />
       </div>
       <AdSlot placement="feed" className="mt-6" />
-      <StoryGrid items={items} locale={locale} />
+      <TopStories items={items} locale={locale} headings={false} />
     </section>
   );
 }
