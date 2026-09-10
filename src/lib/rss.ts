@@ -171,6 +171,25 @@ function sortNewest(articles: Article[]): Article[] {
   });
 }
 
+// Treat Japanese-language sources (Yahoo!ニュース, ライブドア, マイナビ, ITmedia,
+// Gigazine, CNET Japan, BBC日本語 …) as domestic. Feeds carry a single "ja"
+// locale for these, whereas foreign outlets shown in Japanese (BBC, CNA, …)
+// are tagged for both locales.
+function isDomestic(article: Article): boolean {
+  return article.locales.length === 1 && article.locales[0] === "ja";
+}
+
+// Surfaces domestic (Japanese) stories first while keeping each group's existing
+// (newest-first) order. Used for the "all" home/day feed so domestic news leads.
+export function sortDomesticFirst(articles: Article[]): Article[] {
+  const domestic: Article[] = [];
+  const rest: Article[] = [];
+  for (const article of articles) {
+    (isDomestic(article) ? domestic : rest).push(article);
+  }
+  return [...domestic, ...rest];
+}
+
 function capDay(articles: Article[]): Article[] {
   const seen = new Map<string, number>();
   const kept: Article[] = [];
