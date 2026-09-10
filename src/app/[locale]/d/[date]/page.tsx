@@ -7,7 +7,7 @@ import { TopStories } from "@/components/TopStories";
 import { isGenre } from "@/lib/genres";
 import { t } from "@/lib/i18n";
 import { isLocale } from "@/lib/locale";
-import { getDayArticles, getDaySummaries } from "@/lib/rss";
+import { getDayArticles, getDaySummaries, sortDomesticFirst } from "@/lib/rss";
 import { formatDayHeading, formatDayMeta, isDayKey } from "@/lib/time";
 
 export const revalidate = 120;
@@ -40,6 +40,8 @@ export default async function DayPage({
     getDaySummaries(locale),
   ]);
   const summary = days.find((day) => day.date === date);
+  // Lead every view with domestic (Japanese-language) stories.
+  const feedItems = sortDomesticFirst(items);
 
   return (
     <section className="break-words py-6 sm:py-8">
@@ -66,7 +68,7 @@ export default async function DayPage({
         />
       </div>
       <AdSlot placement="feed" className="mt-6" />
-      <TopStories items={items} locale={locale} headings={false} />
+      <TopStories items={feedItems} locale={locale} headings={false} />
     </section>
   );
 }

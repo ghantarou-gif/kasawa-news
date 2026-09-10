@@ -59,11 +59,14 @@ export function TopStories({
   }
 
   // Prefer an article with a thumbnail for the hero so the lead never renders
-  // as a large empty placeholder; fall back to the newest item otherwise.
-  const leadIndex = Math.max(
-    0,
-    items.findIndex((article) => article.image),
-  );
+  // as a large empty placeholder, but only look near the top so the promotion
+  // can't pull a lower-priority story (e.g. a foreign item) ahead of the
+  // domestic-first ordering the page already applied.
+  const LEAD_IMAGE_WINDOW = 8;
+  const windowedImageIndex = items
+    .slice(0, LEAD_IMAGE_WINDOW)
+    .findIndex((article) => article.image);
+  const leadIndex = windowedImageIndex === -1 ? 0 : windowedImageIndex;
   const lead = items[leadIndex];
   const rest = items.filter((_, index) => index !== leadIndex);
   const leadHub = articleHubPath(locale, lead.id);

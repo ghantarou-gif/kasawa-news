@@ -6,7 +6,7 @@ import { DayList } from "@/components/DayList";
 import { TopStories } from "@/components/TopStories";
 import { isLocale } from "@/lib/locale";
 import { t } from "@/lib/i18n";
-import { getDayArticles, getDaySummaries } from "@/lib/rss";
+import { getDayArticles, getDaySummaries, sortDomesticFirst } from "@/lib/rss";
 
 export const revalidate = 120;
 
@@ -30,7 +30,9 @@ export default async function HomePage({
   const copy = t(locale);
   const { days } = await getDaySummaries(locale);
   const latestDate = days[0]?.date ?? null;
-  const topItems = latestDate ? await getDayArticles(locale, latestDate) : [];
+  const topItems = latestDate
+    ? sortDomesticFirst(await getDayArticles(locale, latestDate))
+    : [];
 
   return (
     <>
