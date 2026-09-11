@@ -190,6 +190,20 @@ export function sortDomesticFirst(articles: Article[]): Article[] {
   return [...domestic, ...rest];
 }
 
+// A sports story only counts as "big" when it also surfaced in a general
+// top-headlines feed (top desk); routine sports headlines carry the sports
+// desk alone. Feeds share URLs across their topics, so desks are unioned in
+// the store (see mergeArticles), which lets a headline earn the top desk.
+function isMinorSports(article: Article): boolean {
+  return article.desks.includes("sports") && !article.desks.includes("top");
+}
+
+// Drops routine sports from the aggregated ("all") feed so it isn't flooded by
+// them; the dedicated sports desk view keeps showing everything.
+export function excludeMinorSports(articles: Article[]): Article[] {
+  return articles.filter((article) => !isMinorSports(article));
+}
+
 function capDay(articles: Article[]): Article[] {
   const seen = new Map<string, number>();
   const kept: Article[] = [];
