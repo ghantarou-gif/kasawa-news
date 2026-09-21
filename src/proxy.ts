@@ -6,7 +6,11 @@ import { LOCALES } from "@/lib/locale";
 export function proxy(request: NextRequest) {
   const { pathname } = request.nextUrl;
   if (pathname.startsWith("/go/")) return NextResponse.next();
-  if (pathname === "/tetris.html" || pathname === "/phrasebook.html")
+  if (
+    pathname === "/tetris.html" ||
+    pathname === "/phrasebook.html" ||
+    pathname === "/phrasebook-extra.js"
+  )
     return NextResponse.next();
   const hasLocale = LOCALES.some(
     (locale) => pathname === `/${locale}` || pathname.startsWith(`/${locale}/`),
@@ -31,6 +35,6 @@ export function proxy(request: NextRequest) {
 
 export const config = {
   matcher: [
-    "/((?!_next/static|_next/image|favicon.ico|icon|.*\\.(?:svg|png|jpg|jpeg|gif|webp|ico)$).*)",
+    "/((?!_next/static|_next/image|favicon.ico|icon|.*\\.(?:svg|png|jpg|jpeg|gif|webp|ico|js)$).*)",
   ],
 };
