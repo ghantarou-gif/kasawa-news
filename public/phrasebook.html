@@ -58,6 +58,47 @@
     padding:8px 12px;font-size:12px;margin:8px 16px 0}
   .warn.show{display:block}
   .hide-ro .ro{display:none}
+  /* ---- mode switch ---- */
+  .modeSwitch{display:flex;gap:6px;background:var(--chip);border-radius:10px;padding:3px;margin-bottom:10px}
+  .modeSwitch button{flex:1;border:none;background:transparent;padding:9px;border-radius:8px;font-size:14px;font-weight:800;color:var(--sub);cursor:pointer}
+  .modeSwitch button.on{background:#fff;color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.08)}
+  body[data-mode="quiz"] .browse-only{display:none}
+  body[data-mode="browse"] #quizView{display:none}
+  /* ---- quiz ---- */
+  #quizView{max-width:560px;margin:0 auto;padding:16px 16px 90px}
+  .quiz-panel{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px;margin-top:8px}
+  .q-title{margin:0 0 4px;font-size:22px}
+  .q-sub{color:var(--sub);margin:0 0 8px;font-size:14px}
+  .q-label{display:block;font-size:12px;font-weight:800;color:var(--sub);text-transform:uppercase;letter-spacing:.5px;margin:14px 0 6px}
+  #qCat{width:100%;padding:12px;border:1px solid var(--line);border-radius:10px;font-size:16px;background:#fff}
+  .seg.full{display:flex;width:100%}
+  .seg.full button{flex:1}
+  .q-start{width:100%;margin-top:22px;padding:15px;border:none;border-radius:12px;background:var(--accent);color:#fff;font-size:17px;font-weight:800;cursor:pointer}
+  .q-again{width:100%;margin-top:10px;padding:13px;border:1px solid var(--line);border-radius:12px;background:#fff;color:var(--ink);font-size:15px;font-weight:700;cursor:pointer}
+  .q-best{text-align:center;color:var(--sub);margin-top:14px;font-size:13px;font-weight:700}
+  .q-top{display:flex;align-items:center;gap:12px}
+  .q-prog{flex:1;height:8px;background:var(--chip);border-radius:99px;overflow:hidden}
+  .q-prog-bar{height:100%;width:0;background:var(--accent2);transition:width .3s}
+  .q-score{font-weight:800;color:var(--accent2);min-width:24px;text-align:right}
+  .q-count{color:var(--sub);font-size:12px;font-weight:700;margin:12px 0 4px}
+  .q-prompt{position:relative;text-align:center;padding:26px 12px;border:1px solid var(--line);border-radius:14px;margin-bottom:16px;background:#fafbfc}
+  .q-prompt .p-main{font-size:26px;font-weight:800;line-height:1.3}
+  .q-prompt .p-sub{color:var(--sub);font-size:12px;margin-top:8px}
+  .q-prompt .p-speak{position:absolute;top:10px;right:10px;width:38px;height:38px;border-radius:50%;border:1px solid var(--line);background:#fff;font-size:18px;cursor:pointer}
+  .q-options{display:flex;flex-direction:column;gap:10px}
+  .q-opt{display:flex;flex-direction:column;align-items:flex-start;gap:2px;text-align:left;padding:14px 16px;border:1.5px solid var(--line);border-radius:12px;background:#fff;font-size:17px;font-weight:700;cursor:pointer;transition:.15s;width:100%}
+  .q-opt small{color:var(--sub);font-weight:600;font-style:italic}
+  .q-opt:active{transform:scale(.99)}
+  .q-opt.locked{cursor:default}
+  .q-opt.correct{border-color:#0a9d63;background:#eafaf1;color:#0a7d4f}
+  .q-opt.wrong{border-color:var(--accent);background:#fdeeee;color:#b02a25}
+  .q-next{width:100%;margin-top:16px;padding:14px;border:none;border-radius:12px;background:var(--ink);color:#fff;font-size:16px;font-weight:800;cursor:pointer}
+  .q-scorebig{text-align:center;font-size:30px;font-weight:900;margin:8px 0}
+  .q-msg{text-align:center;color:var(--sub);margin-bottom:16px;font-weight:700}
+  .q-revh{font-size:13px;font-weight:800;color:var(--sub);margin:16px 0 8px;text-transform:uppercase}
+  .q-rev{display:flex;flex-direction:column;padding:10px 12px;border:1px solid var(--line);border-radius:10px;margin-bottom:8px}
+  .q-rev b{font-size:15px}.q-rev span{font-size:19px;margin-top:2px}.q-rev i{color:var(--sub);font-size:12px;font-style:italic}
+  .q-perfect{text-align:center;color:#0a9d63;font-weight:800;padding:14px}
 </style>
 </head>
 <body>
@@ -66,10 +107,14 @@
     <h1>Japan Travel Phrasebook</h1>
     <small>by <span class="jp">NyanChu</span></small>
   </div>
-  <div class="search">
+  <div class="modeSwitch" id="modeSwitch">
+    <button data-m="browse" class="on">📖 Browse</button>
+    <button data-m="quiz">🎯 Quiz</button>
+  </div>
+  <div class="search browse-only">
     <input id="q" type="search" placeholder="Search English, 日本語, or romaji…" autocomplete="off">
   </div>
-  <div class="toolbar">
+  <div class="toolbar browse-only">
     <div class="seg" id="typeSeg">
       <button data-t="all" class="on">All</button>
       <button data-t="p">Phrases</button>
@@ -81,12 +126,55 @@
 
 <div class="warn" id="warn">🔊 Your browser has no Japanese voice installed, so audio may be unavailable. Try Safari or Chrome.</div>
 
-<div class="cats" id="cats"></div>
+<div class="cats browse-only" id="cats"></div>
 
-<main>
+<main class="browse-only">
   <div class="count" id="count"></div>
   <div id="list"></div>
 </main>
+
+<section id="quizView">
+  <div id="quizSetup" class="quiz-panel">
+    <h2 class="q-title">🎯 Quiz</h2>
+    <p class="q-sub">Test your Japanese. Pick a category and start.</p>
+    <label class="q-label">Category</label>
+    <select id="qCat"></select>
+    <label class="q-label">Direction</label>
+    <div class="seg full" id="qDir">
+      <button data-d="en2ja" class="on">EN → 日本語</button>
+      <button data-d="ja2en">日本語 → EN</button>
+      <button data-d="mix">Mix</button>
+    </div>
+    <label class="q-label">Questions</label>
+    <div class="seg full" id="qLen">
+      <button data-n="10" class="on">10</button>
+      <button data-n="20">20</button>
+      <button data-n="0">All</button>
+    </div>
+    <button class="q-start" id="qStart">Start Quiz</button>
+    <div class="q-best" id="qBest"></div>
+  </div>
+
+  <div id="quizPlay" class="quiz-panel" style="display:none">
+    <div class="q-top">
+      <div class="q-prog"><div class="q-prog-bar" id="qProg"></div></div>
+      <div class="q-score" id="qScoreLive">0</div>
+    </div>
+    <div class="q-count" id="qCount"></div>
+    <div class="q-prompt" id="qPrompt"></div>
+    <div class="q-options" id="qOptions"></div>
+    <button class="q-next" id="qNext" style="display:none">Next →</button>
+  </div>
+
+  <div id="quizResult" class="quiz-panel" style="display:none">
+    <h2 class="q-title">Result</h2>
+    <div class="q-scorebig" id="qScoreBig"></div>
+    <div class="q-msg" id="qMsg"></div>
+    <div id="qReview"></div>
+    <button class="q-start" id="qRetryWrong" style="display:none">Retry wrong only</button>
+    <button class="q-again" id="qAgain">New quiz</button>
+  </div>
+</section>
 
 <footer>
   Tap any card to hear it spoken. Made for travelers in Japan · <a href="/tetris.html">🎮 Tetris</a>
@@ -589,6 +677,119 @@ document.getElementById("typeSeg").addEventListener("click", e=>{
 });
 document.getElementById("roToggle").addEventListener("change", e=>{ showRo=e.target.checked; render(); });
 
+/* ================= QUIZ ================= */
+const qCatSel = document.getElementById('qCat');
+let qDir="en2ja", qLen=10, quiz=[], qi=0, qScore=0, qWrong=[];
+
+function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
+function promptText(it,dir){return dir==="en2ja"?it.en:it.ja;}
+function answerText(it,dir){return dir==="en2ja"?it.ja:it.en;}
+const BEST_KEY="nyanchu_quiz_best";
+
+function fillQuizCats(){
+  qCatSel.innerHTML="";
+  ["All",...CATS].forEach(c=>{const o=document.createElement("option");o.value=c;o.textContent=c;qCatSel.appendChild(o);});
+}
+function makeQuestion(item,dirMode){
+  const dir = dirMode==="mix" ? (Math.random()<0.5?"en2ja":"ja2en") : dirMode;
+  const others = DATA.filter(x=>x!==item);
+  const same = others.filter(x=>x.c===item.c);
+  const src = shuffle((same.length>=3?same:others).slice());
+  const distract=[]; const seen=new Set([answerText(item,dir)]);
+  for(const o of src){const t=answerText(o,dir);if(!seen.has(t)){seen.add(t);distract.push(o);}if(distract.length>=3)break;}
+  return {item,dir,opts:shuffle([item,...distract])};
+}
+function buildQuizFromItems(items){ quiz=items.map(it=>makeQuestion(it,qDir)); qi=0; qScore=0; qWrong=[]; }
+function buildQuiz(){
+  const cat=qCatSel.value;
+  const pool=shuffle(DATA.filter(x=>cat==="All"||x.c===cat).slice());
+  buildQuizFromItems(qLen>0?pool.slice(0,qLen):pool);
+}
+function showQuizSetup(){
+  document.getElementById("quizPlay").style.display="none";
+  document.getElementById("quizResult").style.display="none";
+  document.getElementById("quizSetup").style.display="block";
+  const b=localStorage.getItem(BEST_KEY);
+  document.getElementById("qBest").textContent = b?("🏆 Best score: "+b+"%"):"";
+}
+function startQuiz(){
+  buildQuiz();
+  if(quiz.length<1){alert("Not enough entries for a quiz.");return;}
+  document.getElementById("quizSetup").style.display="none";
+  document.getElementById("quizResult").style.display="none";
+  document.getElementById("quizPlay").style.display="block";
+  renderQuestion();
+}
+function renderQuestion(){
+  const q=quiz[qi];
+  document.getElementById("qCount").textContent=`Question ${qi+1} / ${quiz.length}`;
+  document.getElementById("qProg").style.width=(qi/quiz.length*100)+"%";
+  document.getElementById("qScoreLive").textContent=qScore;
+  const isJa = q.dir==="ja2en";
+  const p=document.getElementById("qPrompt");
+  p.innerHTML=`<div class="p-main">${escapeHtml(promptText(q.item,q.dir))}</div>`
+    + (isJa?`<button class="p-speak" id="pSpeak" aria-label="Play">🔊</button>`:"")
+    + `<div class="p-sub">${q.dir==="en2ja"?"Choose the Japanese":"Choose the English"}</div>`;
+  if(isJa){const sp=document.getElementById("pSpeak");sp.onclick=()=>speak(speakText(q.item.ja));speak(speakText(q.item.ja));}
+  const optEl=document.getElementById("qOptions");optEl.innerHTML="";
+  q.opts.forEach(o=>{
+    const b=document.createElement("button");b.className="q-opt";b._item=o;
+    const t=answerText(o,q.dir);
+    b.innerHTML=`<span>${escapeHtml(t)}</span>`+(q.dir==="en2ja"?`<small>${escapeHtml(o.ro)}</small>`:"");
+    b.onclick=()=>answer(b,o,q);
+    optEl.appendChild(b);
+  });
+  document.getElementById("qNext").style.display="none";
+}
+function answer(btn,chosen,q){
+  const optEl=document.getElementById("qOptions");
+  [...optEl.children].forEach(b=>{b.classList.add("locked");b.onclick=null;});
+  if(chosen===q.item){btn.classList.add("correct");qScore++;}
+  else{btn.classList.add("wrong");qWrong.push(q);[...optEl.children].forEach(b=>{if(b._item===q.item)b.classList.add("correct");});}
+  speak(speakText(q.item.ja));
+  document.getElementById("qScoreLive").textContent=qScore;
+  document.getElementById("qProg").style.width=((qi+1)/quiz.length*100)+"%";
+  const nx=document.getElementById("qNext");
+  nx.textContent = (qi+1>=quiz.length)?"See result →":"Next →";
+  nx.style.display="block";
+}
+function showResults(){
+  document.getElementById("quizPlay").style.display="none";
+  document.getElementById("quizResult").style.display="block";
+  const pct=Math.round(qScore/quiz.length*100);
+  document.getElementById("qScoreBig").textContent=`${qScore} / ${quiz.length}　(${pct}%)`;
+  document.getElementById("qMsg").textContent =
+    pct>=90?"すばらしい！ Excellent!":pct>=70?"いいね！ Nice work!":pct>=50?"その調子！ Keep going!":"また挑戦しよう！ Try again!";
+  const best=parseInt(localStorage.getItem(BEST_KEY)||"0",10);
+  if(pct>best)localStorage.setItem(BEST_KEY,String(pct));
+  const rev=document.getElementById("qReview");
+  if(qWrong.length===0){rev.innerHTML='<div class="q-perfect">All correct! 🎉</div>';}
+  else{rev.innerHTML='<div class="q-revh">Review your misses</div>'+qWrong.map(q=>
+    `<div class="q-rev"><b>${escapeHtml(q.item.en)}</b><span>${escapeHtml(q.item.ja)}</span><i>${escapeHtml(q.item.ro)}</i></div>`).join("");}
+  document.getElementById("qRetryWrong").style.display=qWrong.length?"block":"none";
+}
+document.getElementById("qNext").onclick=()=>{qi++; if(qi>=quiz.length)showResults(); else renderQuestion();};
+document.getElementById("qRetryWrong").onclick=()=>{
+  const items=qWrong.map(q=>q.item);
+  document.getElementById("quizResult").style.display="none";
+  document.getElementById("quizPlay").style.display="block";
+  buildQuizFromItems(items); renderQuestion();
+};
+document.getElementById("qAgain").onclick=showQuizSetup;
+document.getElementById("qStart").onclick=startQuiz;
+document.getElementById("qDir").addEventListener("click",e=>{if(e.target.tagName!=="BUTTON")return;qDir=e.target.dataset.d;[...e.currentTarget.children].forEach(b=>b.classList.remove("on"));e.target.classList.add("on");});
+document.getElementById("qLen").addEventListener("click",e=>{if(e.target.tagName!=="BUTTON")return;qLen=parseInt(e.target.dataset.n,10);[...e.currentTarget.children].forEach(b=>b.classList.remove("on"));e.target.classList.add("on");});
+
+/* ---- mode switch ---- */
+function setMode(m){
+  document.body.dataset.mode=m;
+  [...document.getElementById("modeSwitch").children].forEach(b=>b.classList.toggle("on",b.dataset.m===m));
+  if(m==="quiz")showQuizSetup();
+}
+document.getElementById("modeSwitch").addEventListener("click",e=>{if(e.target.tagName!=="BUTTON")return;setMode(e.target.dataset.m);});
+
+fillQuizCats();
+document.body.dataset.mode="browse";
 buildCats();
 render();
 </script>
