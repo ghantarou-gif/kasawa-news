@@ -290,4 +290,55 @@ window.PHRASE_EXTRA = [
   {c:"Useful Words",t:"w",lv:3,en:"to see",ja:"見る（みる）",ro:"miru"},
   {c:"Useful Words",t:"w",lv:3,en:"to buy",ja:"買う（かう）",ro:"kau"},
   {c:"Useful Words",t:"w",lv:3,en:"to wait",ja:"待つ（まつ）",ro:"matsu"},
+
+  // --- Colors ---
+  {c:"Useful Words",t:"w",lv:2,en:"red",ja:"赤（あか）",ro:"aka"},
+  {c:"Useful Words",t:"w",lv:2,en:"blue",ja:"青（あお）",ro:"ao"},
+  {c:"Useful Words",t:"w",lv:2,en:"white",ja:"白（しろ）",ro:"shiro"},
+  {c:"Useful Words",t:"w",lv:2,en:"black",ja:"黒（くろ）",ro:"kuro"},
+  {c:"Useful Words",t:"w",lv:2,en:"yellow",ja:"黄（き）",ro:"ki"},
+  {c:"Useful Words",t:"w",lv:3,en:"green",ja:"緑（みどり）",ro:"midori"},
+  {c:"Useful Words",t:"w",lv:3,en:"pink",ja:"ピンク",ro:"pinku"},
+  {c:"Useful Words",t:"w",lv:3,en:"gold",ja:"金色（きんいろ）",ro:"kin'iro"},
+
+  // --- More restaurant / konbini ---
+  {c:"Restaurant",t:"w",lv:2,en:"salt",ja:"塩（しお）",ro:"shio"},
+  {c:"Restaurant",t:"w",lv:2,en:"sugar",ja:"砂糖（さとう）",ro:"satō"},
+  {c:"Restaurant",t:"w",lv:2,en:"ice",ja:"氷（こおり）",ro:"kōri"},
+  {c:"Restaurant",t:"w",lv:2,en:"hot (food/drink)",ja:"熱い（あつい）",ro:"atsui"},
+  {c:"Restaurant",t:"w",lv:2,en:"cold (food/drink)",ja:"冷たい（つめたい）",ro:"tsumetai"},
+  {c:"Restaurant",t:"p",lv:2,en:"No ice, please.",ja:"氷なしでお願いします。",ro:"Kōri nashi de onegai shimasu."},
+  {c:"Restaurant",t:"p",lv:2,en:"A refill, please.",ja:"おかわりお願いします。",ro:"Okawari onegai shimasu."},
+  {c:"Restaurant",t:"w",lv:3,en:"edamame",ja:"枝豆（えだまめ）",ro:"edamame"},
+  {c:"Restaurant",t:"w",lv:3,en:"onigiri (tuna mayo)",ja:"ツナマヨおにぎり",ro:"tsuna mayo onigiri"},
+  {c:"Restaurant",t:"w",lv:3,en:"oyakodon",ja:"親子丼（おやこどん）",ro:"oyakodon"},
+  {c:"Restaurant",t:"w",lv:3,en:"katsu curry",ja:"カツカレー",ro:"katsu karē"},
+  {c:"Convenience Store",t:"w",lv:2,en:"microwave",ja:"電子レンジ（でんしれんじ）",ro:"denshi renji"},
+  {c:"Convenience Store",t:"p",lv:2,en:"Please don't heat it.",ja:"温めないでください。",ro:"Atatamenaide kudasai."},
+  {c:"Convenience Store",t:"w",lv:3,en:"wet wipes",ja:"おしりふき",ro:"oshirifuki"},
+  {c:"Convenience Store",t:"w",lv:3,en:"handkerchief / tissue",ja:"ティッシュ",ro:"tisshu"},
+
+  // --- Onsen / culture ---
+  {c:"Sightseeing",t:"p",lv:2,en:"Where can I leave my shoes?",ja:"靴はどこに置けばいいですか？",ro:"Kutsu wa doko ni okeba ii desu ka?"},
+  {c:"Sightseeing",t:"p",lv:2,en:"Is a towel included?",ja:"タオルは付いていますか？",ro:"Taoru wa tsuite imasu ka?"},
+  {c:"Hotel",t:"p",lv:2,en:"Is there a public bath?",ja:"大浴場はありますか？",ro:"Daiyokujō wa arimasu ka?"},
+  {c:"Hotel",t:"w",lv:2,en:"public bath",ja:"大浴場（だいよくじょう）",ro:"daiyokujō"},
+  {c:"Hotel",t:"w",lv:3,en:"tattoo OK?",ja:"タトゥー可（たとぅーか）",ro:"tatū ka"},
+  {c:"Sightseeing",t:"p",lv:3,en:"Are tattoos allowed?",ja:"タトゥーは大丈夫ですか？",ro:"Tatū wa daijōbu desu ka?"},
+
+  // --- Airport ---
+  {c:"Directions & Transport",t:"w",lv:2,en:"passport control",ja:"入国審査（にゅうこくしんさ）",ro:"nyūkoku shinsa"},
+  {c:"Directions & Transport",t:"w",lv:2,en:"baggage claim",ja:"手荷物受取（てにもつうけとり）",ro:"tenimotsu uketori"},
+  {c:"Directions & Transport",t:"w",lv:2,en:"customs",ja:"税関（ぜいかん）",ro:"zeikan"},
+  {c:"Directions & Transport",t:"p",lv:2,en:"Where is the airport bus?",ja:"空港バスはどこですか？",ro:"Kūkō basu wa doko desu ka?"},
+  {c:"Directions & Transport",t:"p",lv:2,en:"I have a connecting flight.",ja:"乗り継ぎです。",ro:"Noritsugi desu."},
+  {c:"Directions & Transport",t:"w",lv:3,en:"boarding gate",ja:"搭乗口（とうじょうぐち）",ro:"tōjōguchi"},
+  {c:"Directions & Transport",t:"w",lv:3,en:"delay",ja:"遅延（ちえん）",ro:"chien"},
+
+  // --- Polite extras ---
+  {c:"Polite / Small Talk",t:"p",lv:2,en:"Sorry to bother you.",ja:"お忙しいところすみません。",ro:"Oisogashii tokoro sumimasen."},
+  {c:"Polite / Small Talk",t:"p",lv:2,en:"Could you help me?",ja:"手伝っていただけますか？",ro:"Tetsudatte itadakemasu ka?"},
+  {c:"Polite / Small Talk",t:"p",lv:2,en:"I understand a little.",ja:"少しわかります。",ro:"Sukoshi wakarimasu."},
+  {c:"Basics",t:"p",lv:2,en:"Never mind.",ja:"気にしないでください。",ro:"Ki ni shinaide kudasai."},
+  {c:"Basics",t:"p",lv:2,en:"After you.",ja:"お先にどうぞ。",ro:"Osaki ni dōzo."},
 ];

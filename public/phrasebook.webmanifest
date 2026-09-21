@@ -1,0 +1,13 @@
+{
+  "name": "NyanChu Travel Japanese",
+  "short_name": "NyanChu JP",
+  "description": "Japanese phrases and words for travelers. Flashcards, quiz, and audio.",
+  "start_url": "/phrasebook.html",
+  "display": "standalone",
+  "background_color": "#f6f1e8",
+  "theme_color": "#c45c26",
+  "lang": "en",
+  "icons": [
+    { "src": "/phrasebook-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

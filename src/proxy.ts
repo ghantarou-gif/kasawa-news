@@ -9,7 +9,8 @@ export function proxy(request: NextRequest) {
   if (
     pathname === "/tetris.html" ||
     pathname === "/phrasebook.html" ||
-    pathname === "/phrasebook-extra.js"
+    pathname === "/phrasebook-extra.js" ||
+    pathname === "/phrasebook.webmanifest"
   )
     return NextResponse.next();
   const hasLocale = LOCALES.some(
@@ -35,6 +36,6 @@ export function proxy(request: NextRequest) {
 
 export const config = {
   matcher: [
-    "/((?!_next/static|_next/image|favicon.ico|icon|.*\\.(?:svg|png|jpg|jpeg|gif|webp|ico|js)$).*)",
+    "/((?!_next/static|_next/image|favicon.ico|icon|.*\\.(?:svg|png|jpg|jpeg|gif|webp|ico|js|webmanifest)$).*)",
   ],
 };
