@@ -98,6 +98,9 @@ export function DeskHeader({
           <Link href={`/${locale}/travel`} className="header-nav-link">
             {copy.travel}
           </Link>
+          <a href="/phrasebook.html" className="header-nav-link">
+            {copy.phrasebook}
+          </a>
           <Link href={`/${locale}/book`} className="header-nav-link">
             {copy.book}
           </Link>

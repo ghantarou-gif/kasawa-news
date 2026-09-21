@@ -22,6 +22,9 @@ export function SiteFooter({ locale }: { locale: Locale }) {
           <Link href={`/${locale}/travel`} className="hover:text-accent">
             {copy.travel}
           </Link>
+          <a href="/phrasebook.html" className="hover:text-accent">
+            {copy.phrasebook}
+          </a>
           <Link href={`/${locale}/book`} className="hover:text-accent">
             {copy.book}
           </Link>

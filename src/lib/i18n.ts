@@ -24,6 +24,7 @@ const dictionary = {
     sports: "スポーツ",
     book: "本",
     travel: "旅ガイド",
+    phrasebook: "旅の日本語",
     travelKicker: "Travel guide",
     travelLead:
       "観光地の回り方・穴場・注意点をストック。Xから飛んできた人が、すぐ使える案内です。",
@@ -96,6 +97,7 @@ const dictionary = {
     sports: "Sports",
     book: "Book",
     travel: "Travel",
+    phrasebook: "Phrasebook",
     travelKicker: "Travel guide",
     travelLead:
       "Stocked walking guides and tips for places you post about on X—ready when readers land here.",

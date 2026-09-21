@@ -99,6 +99,43 @@
   .q-rev{display:flex;flex-direction:column;padding:10px 12px;border:1px solid var(--line);border-radius:10px;margin-bottom:8px}
   .q-rev b{font-size:15px}.q-rev span{font-size:19px;margin-top:2px}.q-rev i{color:var(--sub);font-size:12px;font-style:italic}
   .q-perfect{text-align:center;color:#0a9d63;font-weight:800;padding:14px}
+  /* ---- cards mode visibility ---- */
+  body[data-mode="cards"] .browse-only{display:none}
+  body[data-mode="cards"] #quizView{display:none}
+  body[data-mode="browse"] #cardView{display:none}
+  body[data-mode="quiz"] #cardView{display:none}
+  /* ---- flashcards ---- */
+  #cardView{max-width:560px;margin:0 auto;padding:16px 16px 90px}
+  .card-scene{perspective:1200px;margin:14px 0}
+  .flip{position:relative;width:100%;height:260px;transform-style:preserve-3d;transition:transform .5s;cursor:pointer}
+  .flip.flipped{transform:rotateY(180deg)}
+  .face{position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;
+    display:flex;flex-direction:column;align-items:center;justify-content:center;
+    border:1px solid var(--line);border-radius:16px;background:#fff;padding:24px;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,.05)}
+  .face.back{transform:rotateY(180deg);background:#fafbfc}
+  .face .big{font-size:28px;font-weight:800;line-height:1.35}
+  .face .ro2{color:var(--sub);font-style:italic;margin-top:10px;font-size:15px}
+  .face .hint{position:absolute;bottom:12px;color:var(--sub);font-size:11px}
+  .face .cspeak{position:absolute;top:12px;right:12px;width:40px;height:40px;border-radius:50%;border:1px solid var(--line);background:#fff;font-size:18px;cursor:pointer}
+  .card-actions{display:flex;gap:10px;margin-top:6px}
+  .card-actions button{flex:1;padding:16px;border-radius:12px;font-size:15px;font-weight:800;cursor:pointer}
+  .btn-still{background:#fdeeee;color:#b02a25;border:1.5px solid #f3c4c2}
+  .btn-got{background:#eafaf1;color:#0a7d4f;border:1.5px solid #b8e6cd}
+  .card-meta{display:flex;justify-content:space-between;color:var(--sub);font-size:12px;font-weight:700;margin-bottom:6px}
+  .reset-link{display:block;text-align:center;margin-top:16px;color:var(--accent);font-size:12px;font-weight:700;cursor:pointer;background:none;border:none;width:100%}
+  .tag.lv1{background:#2563eb}.tag.lv2{background:#7c3aed}.tag.lv3{background:#6b7280}
+  .levels{display:flex;gap:8px;overflow-x:auto;padding:8px 16px 0;scrollbar-width:none}
+  .levels button{white-space:nowrap;border:1px solid var(--line);background:#fff;color:var(--ink);
+    padding:6px 12px;border-radius:999px;font-size:12px;font-weight:800;cursor:pointer}
+  .levels button.on{background:#1a1f2b;color:#fff;border-color:#1a1f2b}
+  .tier-home{max-width:720px;margin:0 auto;padding:8px 16px 0}
+  .tier-grid{display:grid;grid-template-columns:1fr;gap:10px}
+  @media(min-width:520px){.tier-grid{grid-template-columns:1fr 1fr 1fr}}
+  .tier{background:#fff;border:1px solid var(--line);border-radius:14px;padding:14px;cursor:pointer;text-align:left}
+  .tier.on{border-color:#1a1f2b;box-shadow:0 0 0 2px #1a1f2b}
+  .tier h3{margin:0 0 4px;font-size:15px}
+  .tier p{margin:0;color:var(--sub);font-size:12px;font-weight:600}
+  .swipe-hint{text-align:center;color:var(--sub);font-size:11px;margin-top:8px}
 </style>
 </head>
 <body>
@@ -109,6 +146,7 @@
   </div>
   <div class="modeSwitch" id="modeSwitch">
     <button data-m="browse" class="on">📖 Browse</button>
+    <button data-m="cards">🃏 Cards</button>
     <button data-m="quiz">🎯 Quiz</button>
   </div>
   <div class="search browse-only">
@@ -126,6 +164,7 @@
 
 <div class="warn" id="warn">🔊 Your browser has no Japanese voice installed, so audio may be unavailable. Try Safari or Chrome.</div>
 
+<div class="levels browse-only" id="levels"></div>
 <div class="cats browse-only" id="cats"></div>
 
 <main class="browse-only">
@@ -137,6 +176,8 @@
   <div id="quizSetup" class="quiz-panel">
     <h2 class="q-title">🎯 Quiz</h2>
     <p class="q-sub">Test your Japanese. Pick a category and start.</p>
+    <label class="q-label">Level</label>
+    <select id="qLv"></select>
     <label class="q-label">Category</label>
     <select id="qCat"></select>
     <label class="q-label">Direction</label>
@@ -176,10 +217,61 @@
   </div>
 </section>
 
+<section id="cardView">
+  <div id="cardSetup" class="quiz-panel">
+    <h2 class="q-title">🃏 Flashcards</h2>
+    <p class="q-sub">Flip the card, then mark “Got it” or “Still learning”. Your progress is saved on this device.</p>
+    <label class="q-label">Level</label>
+    <select id="cLv"></select>
+    <label class="q-label">Category</label>
+    <select id="cCat"></select>
+    <label class="q-label">Front side</label>
+    <div class="seg full" id="cFront">
+      <button data-f="en" class="on">English first</button>
+      <button data-f="ja">日本語 first</button>
+    </div>
+    <button class="q-start" id="cStart">Start</button>
+    <div class="q-best" id="cInfo"></div>
+    <button class="reset-link" id="cReset">Reset learned progress</button>
+  </div>
+
+  <div id="cardPlay" class="quiz-panel" style="display:none">
+    <div class="card-meta"><span id="cCount"></span><span id="cLearned"></span></div>
+    <div class="q-prog"><div class="q-prog-bar" id="cProg"></div></div>
+    <div class="card-scene">
+      <div class="flip" id="cFlip">
+        <div class="face front">
+          <button class="cspeak" id="cSpeakF" style="display:none" aria-label="Play">🔊</button>
+          <div class="big" id="cFrontText"></div>
+          <div class="hint">tap to flip</div>
+        </div>
+        <div class="face back">
+          <button class="cspeak" id="cSpeakB" aria-label="Play">🔊</button>
+          <div class="big" id="cBackText"></div>
+          <div class="ro2" id="cBackRo"></div>
+          <div class="hint">tap to flip back</div>
+        </div>
+      </div>
+    </div>
+    <div class="card-actions">
+      <button class="btn-still" id="cStill">❌ Still learning</button>
+      <button class="btn-got" id="cGot">✅ Got it</button>
+    </div>
+    <div class="swipe-hint">swipe left = still learning · swipe right = got it · or tap the card to flip</div>
+  </div>
+
+  <div id="cardDone" class="quiz-panel" style="display:none">
+    <h2 class="q-title">Done! 🎉</h2>
+    <div class="q-msg" id="cDoneMsg"></div>
+    <button class="q-start" id="cAgain">Study again</button>
+  </div>
+</section>
+
 <footer>
-  Tap any card to hear it spoken. Made for travelers in Japan · <a href="/tetris.html">🎮 Tetris</a>
+  Tap any card to hear it spoken. Made for travelers in Japan · <a href="/tetris.html">🎮 Tetris</a> · <a href="/">NyanChu</a>
 </footer>
 
+<script src="phrasebook-extra.js"></script>
 <script>
 /* ---- Data: {c:category, t:'p'|'w', en, ja, ro} ---- */
 const CATS = ["Basics","Greetings","Numbers & Time","Directions & Transport",
@@ -578,8 +670,14 @@ const DATA = [
   {c:"Useful Words",t:"w",en:"amazing",ja:"すごい",ro:"sugoi"},
 ];
 
+if (Array.isArray(window.PHRASE_EXTRA)) DATA.push(...window.PHRASE_EXTRA);
+DATA.forEach((it, i) => { if (!it.lv) it.lv = i < 196 ? 1 : 2; });
+
+const LV_LABEL = {1:"CORE",2:"USEFUL",3:"EXTRA"};
+
 /* ---- State ---- */
 let curCat = "All";
+let curLv = 0;
 let curType = "all";
 let query = "";
 let showRo = true;
@@ -615,6 +713,20 @@ const catsEl = document.getElementById("cats");
 const listEl = document.getElementById("list");
 const countEl = document.getElementById("count");
 
+function buildLevels(){
+  const el = document.getElementById("levels");
+  if(!el) return;
+  const opts = [[0,"All levels"],[1,"① Core"],[2,"② Useful"],[3,"③ Extra"]];
+  el.innerHTML = "";
+  opts.forEach(([id,label])=>{
+    const b = document.createElement("button");
+    b.textContent = label;
+    if(id===curLv) b.classList.add("on");
+    b.onclick = ()=>{ curLv=id; render(); [...el.children].forEach(x=>x.classList.remove("on")); b.classList.add("on"); };
+    el.appendChild(b);
+  });
+}
+
 function buildCats(){
   const all = ["All", ...CATS];
   catsEl.innerHTML = "";
@@ -627,9 +739,15 @@ function buildCats(){
   });
 }
 
+function poolFilter(item, cat, lv){
+  if(lv && item.lv!==lv) return false;
+  if(cat && cat!=="All" && item.c!==cat) return false;
+  return true;
+}
+
 function match(item){
   if(curType!=="all" && item.t!==curType) return false;
-  if(curCat!=="All" && item.c!==curCat) return false;
+  if(!poolFilter(item, curCat, curLv)) return false;
   if(query){
     const q = query.toLowerCase();
     if(!(item.en.toLowerCase().includes(q) || item.ja.includes(query) || item.ro.toLowerCase().includes(q))) return false;
@@ -655,6 +773,7 @@ function render(){
         <div class="ja">${escapeHtml(it.ja)}</div>
         <div class="ro">${escapeHtml(it.ro)}</div>
         <span class="tag ${it.t==='w'?'w':''}">${it.t==='w'?'WORD':'PHRASE'}</span>
+        <span class="tag lv${it.lv||1}">${LV_LABEL[it.lv||1]}</span>
       </div>
       <button class="speak" aria-label="Play pronunciation">🔊</button>`;
     const doSpeak = (e)=>{ e && e.stopPropagation(); speak(speakText(it.ja)); };
@@ -686,9 +805,16 @@ function promptText(it,dir){return dir==="en2ja"?it.en:it.ja;}
 function answerText(it,dir){return dir==="en2ja"?it.ja:it.en;}
 const BEST_KEY="nyanchu_quiz_best";
 
+function fillLvSelect(sel){
+  sel.innerHTML="";
+  [["0","All levels"],["1","① Core — must-know"],["2","② Useful — next step"],["3","③ Extra — more vocab"]].forEach(([v,t])=>{
+    const o=document.createElement("option");o.value=v;o.textContent=t;sel.appendChild(o);
+  });
+}
 function fillQuizCats(){
   qCatSel.innerHTML="";
   ["All",...CATS].forEach(c=>{const o=document.createElement("option");o.value=c;o.textContent=c;qCatSel.appendChild(o);});
+  fillLvSelect(document.getElementById("qLv"));
 }
 function makeQuestion(item,dirMode){
   const dir = dirMode==="mix" ? (Math.random()<0.5?"en2ja":"ja2en") : dirMode;
@@ -702,7 +828,8 @@ function makeQuestion(item,dirMode){
 function buildQuizFromItems(items){ quiz=items.map(it=>makeQuestion(it,qDir)); qi=0; qScore=0; qWrong=[]; }
 function buildQuiz(){
   const cat=qCatSel.value;
-  const pool=shuffle(DATA.filter(x=>cat==="All"||x.c===cat).slice());
+  const lv=parseInt(document.getElementById("qLv").value,10);
+  const pool=shuffle(DATA.filter(x=>poolFilter(x,cat,lv)).slice());
   buildQuizFromItems(qLen>0?pool.slice(0,qLen):pool);
 }
 function showQuizSetup(){
@@ -780,16 +907,104 @@ document.getElementById("qStart").onclick=startQuiz;
 document.getElementById("qDir").addEventListener("click",e=>{if(e.target.tagName!=="BUTTON")return;qDir=e.target.dataset.d;[...e.currentTarget.children].forEach(b=>b.classList.remove("on"));e.target.classList.add("on");});
 document.getElementById("qLen").addEventListener("click",e=>{if(e.target.tagName!=="BUTTON")return;qLen=parseInt(e.target.dataset.n,10);[...e.currentTarget.children].forEach(b=>b.classList.remove("on"));e.target.classList.add("on");});
 
+/* ================= FLASHCARDS ================= */
+const cCatSel=document.getElementById("cCat");
+let cFront="en", cQueue=[], cTotal=0, cLearnedSession=0, cFlipped=false;
+const KNOWN_KEY="nyanchu_known";
+function loadKnown(){try{return new Set(JSON.parse(localStorage.getItem(KNOWN_KEY)||"[]"));}catch(e){return new Set();}}
+function saveKnown(set){localStorage.setItem(KNOWN_KEY,JSON.stringify([...set]));}
+function keyOf(it){return it.en+"|"+it.ja;}
+function fillCardCats(){cCatSel.innerHTML="";["All",...CATS].forEach(c=>{const o=document.createElement("option");o.value=c;o.textContent=c;cCatSel.appendChild(o);});fillLvSelect(document.getElementById("cLv"));}
+function cardPool(){
+  const cat=cCatSel.value;
+  const lv=parseInt(document.getElementById("cLv").value,10);
+  return DATA.filter(x=>poolFilter(x,cat,lv));
+}
+function cardInfo(){
+  const known=loadKnown();
+  const pool=cardPool();
+  const learned=pool.filter(x=>known.has(keyOf(x))).length;
+  document.getElementById("cInfo").textContent=`Learned ${learned} / ${pool.length} in this set`;
+}
+function showCardSetup(){
+  document.getElementById("cardPlay").style.display="none";
+  document.getElementById("cardDone").style.display="none";
+  document.getElementById("cardSetup").style.display="block";
+  cardInfo();
+}
+function startCards(){
+  cQueue=shuffle(cardPool().slice());
+  if(cQueue.length<1){alert("No entries in this category.");return;}
+  cTotal=cQueue.length;cLearnedSession=0;
+  document.getElementById("cardSetup").style.display="none";
+  document.getElementById("cardDone").style.display="none";
+  document.getElementById("cardPlay").style.display="block";
+  renderCard();
+}
+function renderCard(){
+  if(cQueue.length===0){showCardDone();return;}
+  cFlipped=false;
+  document.getElementById("cFlip").classList.remove("flipped");
+  const it=cQueue[0];
+  const frontIsEn=cFront==="en";
+  document.getElementById("cFrontText").textContent=frontIsEn?it.en:it.ja;
+  document.getElementById("cBackText").textContent=frontIsEn?it.ja:it.en;
+  document.getElementById("cBackRo").textContent=it.ro;
+  const sf=document.getElementById("cSpeakF");
+  sf.style.display=frontIsEn?"none":"flex";
+  sf.onclick=(e)=>{e.stopPropagation();speak(speakText(it.ja));};
+  document.getElementById("cSpeakB").onclick=(e)=>{e.stopPropagation();speak(speakText(it.ja));};
+  document.getElementById("cCount").textContent=`${cQueue.length} left`;
+  document.getElementById("cLearned").textContent=`✅ ${cLearnedSession}`;
+  document.getElementById("cProg").style.width=(cLearnedSession/cTotal*100)+"%";
+}
+function showCardDone(){
+  document.getElementById("cardPlay").style.display="none";
+  document.getElementById("cardDone").style.display="block";
+  document.getElementById("cDoneMsg").textContent=`You reviewed all the cards! Marked ${cLearnedSession} as learned this session.`;
+}
+document.getElementById("cFlip").onclick=()=>{
+  cFlipped=!cFlipped;
+  document.getElementById("cFlip").classList.toggle("flipped",cFlipped);
+  if(cFlipped){const it=cQueue[0];if(it)speak(speakText(it.ja));}
+};
+document.getElementById("cGot").onclick=()=>{
+  const it=cQueue.shift();const known=loadKnown();known.add(keyOf(it));saveKnown(known);
+  cLearnedSession++;renderCard();
+};
+document.getElementById("cStill").onclick=()=>{const it=cQueue.shift();cQueue.push(it);renderCard();};
+document.getElementById("cStart").onclick=startCards;
+document.getElementById("cAgain").onclick=showCardSetup;
+document.getElementById("cReset").onclick=()=>{if(confirm("Reset all learned progress?")){localStorage.removeItem(KNOWN_KEY);cardInfo();}};
+document.getElementById("cFront").addEventListener("click",e=>{if(e.target.tagName!=="BUTTON")return;cFront=e.target.dataset.f;[...e.currentTarget.children].forEach(b=>b.classList.remove("on"));e.target.classList.add("on");});
+document.getElementById("cCat").addEventListener("change",cardInfo);
+document.getElementById("cLv").addEventListener("change",cardInfo);
+/* swipe on flashcards */
+(function(){
+  const el=document.getElementById("cFlip");
+  let sx=0,sy=0;
+  el.addEventListener("touchstart",e=>{const t=e.changedTouches[0];sx=t.clientX;sy=t.clientY;},{passive:true});
+  el.addEventListener("touchend",e=>{
+    const t=e.changedTouches[0];const dx=t.clientX-sx,dy=t.clientY-sy;
+    if(Math.abs(dx)<50||Math.abs(dx)<Math.abs(dy)) return;
+    if(dx>0) document.getElementById("cGot").click();
+    else document.getElementById("cStill").click();
+  },{passive:true});
+})();
+fillCardCats();
+
 /* ---- mode switch ---- */
 function setMode(m){
   document.body.dataset.mode=m;
   [...document.getElementById("modeSwitch").children].forEach(b=>b.classList.toggle("on",b.dataset.m===m));
   if(m==="quiz")showQuizSetup();
+  if(m==="cards")showCardSetup();
 }
 document.getElementById("modeSwitch").addEventListener("click",e=>{if(e.target.tagName!=="BUTTON")return;setMode(e.target.dataset.m);});
 
 fillQuizCats();
 document.body.dataset.mode="browse";
+buildLevels();
 buildCats();
 render();
 </script>
