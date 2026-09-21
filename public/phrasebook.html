@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Japan Travel Phrasebook ｜ NyanChu</title>
+<meta name="description" content="Essential Japanese phrases and words for travelers in Japan. Tap to hear the pronunciation.">
+<style>
+  :root{
+    --bg:#f7f7f9; --card:#ffffff; --ink:#1a1f2b; --sub:#6b7280;
+    --line:#e7e9ee; --accent:#e0362f; --accent2:#2563eb; --chip:#eef1f6;
+  }
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);
+    font-family:-apple-system,"Hiragino Kaku Gothic ProN","Yu Gothic",Segoe UI,Roboto,sans-serif;}
+  header{position:sticky;top:0;z-index:20;background:rgba(255,255,255,.92);
+    backdrop-filter:blur(8px);border-bottom:1px solid var(--line);padding:14px 16px 10px;}
+  .brand{display:flex;align-items:center;gap:8px;margin-bottom:10px}
+  .brand h1{font-size:18px;margin:0;font-weight:800;letter-spacing:.2px}
+  .brand .jp{color:var(--accent);font-weight:800}
+  .brand small{color:var(--sub);font-weight:600;font-size:11px;margin-left:auto}
+  .search{display:flex;gap:8px}
+  .search input{flex:1;padding:11px 14px;border:1px solid var(--line);border-radius:12px;
+    font-size:16px;background:#fff;outline:none}
+  .search input:focus{border-color:var(--accent2)}
+  .toolbar{display:flex;gap:8px;align-items:center;margin-top:10px;flex-wrap:wrap}
+  .seg{display:flex;background:var(--chip);border-radius:10px;padding:3px}
+  .seg button{border:none;background:transparent;padding:6px 12px;border-radius:8px;
+    font-size:13px;font-weight:700;color:var(--sub);cursor:pointer}
+  .seg button.on{background:#fff;color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.08)}
+  .romaji-toggle{margin-left:auto;font-size:13px;color:var(--sub);display:flex;align-items:center;gap:6px;cursor:pointer;font-weight:600}
+  .cats{display:flex;gap:8px;overflow-x:auto;padding:12px 16px 4px;scrollbar-width:none}
+  .cats::-webkit-scrollbar{display:none}
+  .cats button{white-space:nowrap;border:1px solid var(--line);background:#fff;color:var(--ink);
+    padding:8px 14px;border-radius:999px;font-size:13px;font-weight:700;cursor:pointer}
+  .cats button.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+  main{padding:8px 16px 80px;max-width:720px;margin:0 auto}
+  .count{color:var(--sub);font-size:12px;margin:8px 2px 12px;font-weight:600}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;
+    padding:14px 15px;margin-bottom:10px;display:flex;gap:12px;align-items:flex-start;cursor:pointer;
+    transition:transform .05s ease, box-shadow .15s ease}
+  .card:active{transform:scale(.995)}
+  .card .body{flex:1;min-width:0}
+  .card .en{font-size:16px;font-weight:700;line-height:1.35}
+  .card .ja{font-size:20px;font-weight:800;margin-top:4px;letter-spacing:.3px}
+  .card .ro{font-size:13px;color:var(--sub);margin-top:3px;font-style:italic}
+  .card .tag{display:inline-block;font-size:10px;font-weight:800;color:#fff;
+    background:var(--accent2);border-radius:6px;padding:2px 7px;margin-top:8px;letter-spacing:.5px}
+  .card .tag.w{background:#0a9d63}
+  .speak{flex:none;width:44px;height:44px;border-radius:50%;border:1px solid var(--line);
+    background:#fff;font-size:20px;cursor:pointer;display:flex;align-items:center;justify-content:center}
+  .speak:active{background:var(--chip)}
+  .empty{text-align:center;color:var(--sub);padding:40px 0}
+  footer{position:fixed;bottom:0;left:0;right:0;background:rgba(255,255,255,.95);
+    border-top:1px solid var(--line);padding:8px 16px;text-align:center;font-size:11px;color:var(--sub)}
+  footer a{color:var(--accent2);text-decoration:none;font-weight:700}
+  .warn{display:none;background:#fff5f5;border:1px solid #ffd0cf;color:#a33;border-radius:10px;
+    padding:8px 12px;font-size:12px;margin:8px 16px 0}
+  .warn.show{display:block}
+  .hide-ro .ro{display:none}
+</style>
+</head>
+<body>
+<header>
+  <div class="brand">
+    <h1>Japan Travel Phrasebook</h1>
+    <small>by <span class="jp">NyanChu</span></small>
+  </div>
+  <div class="search">
+    <input id="q" type="search" placeholder="Search English, 日本語, or romaji…" autocomplete="off">
+  </div>
+  <div class="toolbar">
+    <div class="seg" id="typeSeg">
+      <button data-t="all" class="on">All</button>
+      <button data-t="p">Phrases</button>
+      <button data-t="w">Words</button>
+    </div>
+    <label class="romaji-toggle"><input type="checkbox" id="roToggle" checked> Romaji</label>
+  </div>
+</header>
+
+<div class="warn" id="warn">🔊 Your browser has no Japanese voice installed, so audio may be unavailable. Try Safari or Chrome.</div>
+
+<div class="cats" id="cats"></div>
+
+<main>
+  <div class="count" id="count"></div>
+  <div id="list"></div>
+</main>
+
+<footer>
+  Tap any card to hear it spoken. Made for travelers in Japan · <a href="/tetris.html">🎮 Tetris</a>
+</footer>
+
+<script>
+/* ---- Data: {c:category, t:'p'|'w', en, ja, ro} ---- */
+const CATS = ["Basics","Greetings","Numbers & Time","Directions & Transport",
+  "Restaurant","Shopping","Convenience Store","Hotel","Sightseeing",
+  "Emergency & Health","Polite / Small Talk","Useful Words"];
+
+const DATA = [
+  // ---------- Basics ----------
+  {c:"Basics",t:"p",en:"Yes.",ja:"はい。",ro:"Hai."},
+  {c:"Basics",t:"p",en:"No.",ja:"いいえ。",ro:"Iie."},
+  {c:"Basics",t:"p",en:"Thank you.",ja:"ありがとうございます。",ro:"Arigatō gozaimasu."},
+  {c:"Basics",t:"p",en:"You're welcome.",ja:"どういたしまして。",ro:"Dō itashimashite."},
+  {c:"Basics",t:"p",en:"Excuse me. / Sorry.",ja:"すみません。",ro:"Sumimasen."},
+  {c:"Basics",t:"p",en:"I'm sorry.",ja:"ごめんなさい。",ro:"Gomen nasai."},
+  {c:"Basics",t:"p",en:"Please.",ja:"お願いします。",ro:"Onegai shimasu."},
+  {c:"Basics",t:"p",en:"OK / Understood.",ja:"わかりました。",ro:"Wakarimashita."},
+  {c:"Basics",t:"p",en:"I don't understand.",ja:"わかりません。",ro:"Wakarimasen."},
+  {c:"Basics",t:"p",en:"Do you speak English?",ja:"英語を話せますか？",ro:"Eigo o hanasemasu ka?"},
+  {c:"Basics",t:"p",en:"I don't speak Japanese.",ja:"日本語が話せません。",ro:"Nihongo ga hanasemasen."},
+  {c:"Basics",t:"p",en:"Please say it again.",ja:"もう一度お願いします。",ro:"Mō ichido onegai shimasu."},
+  {c:"Basics",t:"p",en:"Please speak slowly.",ja:"ゆっくり話してください。",ro:"Yukkuri hanashite kudasai."},
+  {c:"Basics",t:"p",en:"What does this mean?",ja:"これはどういう意味ですか？",ro:"Kore wa dō iu imi desu ka?"},
+  {c:"Basics",t:"p",en:"Just a moment, please.",ja:"少々お待ちください。",ro:"Shōshō omachi kudasai."},
+  {c:"Basics",t:"p",en:"It's OK. / No problem.",ja:"大丈夫です。",ro:"Daijōbu desu."},
+  {c:"Basics",t:"p",en:"I'm fine, thank you. (no need)",ja:"けっこうです。",ro:"Kekkō desu."},
+  {c:"Basics",t:"p",en:"Help me, please.",ja:"助けてください。",ro:"Tasukete kudasai."},
+
+  // ---------- Greetings ----------
+  {c:"Greetings",t:"p",en:"Good morning.",ja:"おはようございます。",ro:"Ohayō gozaimasu."},
+  {c:"Greetings",t:"p",en:"Hello. / Good afternoon.",ja:"こんにちは。",ro:"Konnichiwa."},
+  {c:"Greetings",t:"p",en:"Good evening.",ja:"こんばんは。",ro:"Konbanwa."},
+  {c:"Greetings",t:"p",en:"Good night.",ja:"おやすみなさい。",ro:"Oyasumi nasai."},
+  {c:"Greetings",t:"p",en:"Goodbye.",ja:"さようなら。",ro:"Sayōnara."},
+  {c:"Greetings",t:"p",en:"See you later.",ja:"またね。",ro:"Mata ne."},
+  {c:"Greetings",t:"p",en:"Nice to meet you.",ja:"はじめまして。",ro:"Hajimemashite."},
+  {c:"Greetings",t:"p",en:"How are you?",ja:"お元気ですか？",ro:"Ogenki desu ka?"},
+  {c:"Greetings",t:"p",en:"I'm good.",ja:"元気です。",ro:"Genki desu."},
+  {c:"Greetings",t:"p",en:"Thanks for the meal. (before)",ja:"いただきます。",ro:"Itadakimasu."},
+  {c:"Greetings",t:"p",en:"Thanks for the meal. (after)",ja:"ごちそうさまでした。",ro:"Gochisōsama deshita."},
+  {c:"Greetings",t:"p",en:"Welcome! (from staff)",ja:"いらっしゃいませ。",ro:"Irasshaimase."},
+  {c:"Greetings",t:"p",en:"Take care.",ja:"お気をつけて。",ro:"Oki o tsukete."},
+  {c:"Greetings",t:"p",en:"Congratulations!",ja:"おめでとうございます！",ro:"Omedetō gozaimasu!"},
+  {c:"Greetings",t:"p",en:"Cheers! (toast)",ja:"乾杯！",ro:"Kanpai!"},
+
+  // ---------- Numbers & Time ----------
+  {c:"Numbers & Time",t:"w",en:"1",ja:"一（いち）",ro:"ichi"},
+  {c:"Numbers & Time",t:"w",en:"2",ja:"二（に）",ro:"ni"},
+  {c:"Numbers & Time",t:"w",en:"3",ja:"三（さん）",ro:"san"},
+  {c:"Numbers & Time",t:"w",en:"4",ja:"四（よん）",ro:"yon"},
+  {c:"Numbers & Time",t:"w",en:"5",ja:"五（ご）",ro:"go"},
+  {c:"Numbers & Time",t:"w",en:"6",ja:"六（ろく）",ro:"roku"},
+  {c:"Numbers & Time",t:"w",en:"7",ja:"七（なな）",ro:"nana"},
+  {c:"Numbers & Time",t:"w",en:"8",ja:"八（はち）",ro:"hachi"},
+  {c:"Numbers & Time",t:"w",en:"9",ja:"九（きゅう）",ro:"kyū"},
+  {c:"Numbers & Time",t:"w",en:"10",ja:"十（じゅう）",ro:"jū"},
+  {c:"Numbers & Time",t:"w",en:"100",ja:"百（ひゃく）",ro:"hyaku"},
+  {c:"Numbers & Time",t:"w",en:"1,000",ja:"千（せん）",ro:"sen"},
+  {c:"Numbers & Time",t:"w",en:"10,000",ja:"一万（いちまん）",ro:"ichiman"},
+  {c:"Numbers & Time",t:"w",en:"How much? (price)",ja:"いくらですか？",ro:"Ikura desu ka?"},
+  {c:"Numbers & Time",t:"p",en:"What time is it?",ja:"今、何時ですか？",ro:"Ima, nanji desu ka?"},
+  {c:"Numbers & Time",t:"p",en:"What time do you open?",ja:"何時に開きますか？",ro:"Nanji ni akimasu ka?"},
+  {c:"Numbers & Time",t:"p",en:"What time do you close?",ja:"何時に閉まりますか？",ro:"Nanji ni shimarimasu ka?"},
+  {c:"Numbers & Time",t:"w",en:"today",ja:"今日（きょう）",ro:"kyō"},
+  {c:"Numbers & Time",t:"w",en:"tomorrow",ja:"明日（あした）",ro:"ashita"},
+  {c:"Numbers & Time",t:"w",en:"yesterday",ja:"昨日（きのう）",ro:"kinō"},
+  {c:"Numbers & Time",t:"w",en:"now",ja:"今（いま）",ro:"ima"},
+  {c:"Numbers & Time",t:"w",en:"morning",ja:"朝（あさ）",ro:"asa"},
+  {c:"Numbers & Time",t:"w",en:"night",ja:"夜（よる）",ro:"yoru"},
+
+  // ---------- Directions & Transport ----------
+  {c:"Directions & Transport",t:"p",en:"Where is the station?",ja:"駅はどこですか？",ro:"Eki wa doko desu ka?"},
+  {c:"Directions & Transport",t:"p",en:"Where is the toilet?",ja:"トイレはどこですか？",ro:"Toire wa doko desu ka?"},
+  {c:"Directions & Transport",t:"p",en:"How do I get to ___ ?",ja:"___ へはどう行きますか？",ro:"___ e wa dō ikimasu ka?"},
+  {c:"Directions & Transport",t:"p",en:"Is it far from here?",ja:"ここから遠いですか？",ro:"Koko kara tōi desu ka?"},
+  {c:"Directions & Transport",t:"p",en:"Please take me to this address.",ja:"この住所までお願いします。",ro:"Kono jūsho made onegai shimasu."},
+  {c:"Directions & Transport",t:"p",en:"Which platform?",ja:"何番線ですか？",ro:"Nanban-sen desu ka?"},
+  {c:"Directions & Transport",t:"p",en:"Does this train go to ___ ?",ja:"この電車は ___ に行きますか？",ro:"Kono densha wa ___ ni ikimasu ka?"},
+  {c:"Directions & Transport",t:"p",en:"One ticket to ___, please.",ja:"___ まで一枚お願いします。",ro:"___ made ichimai onegai shimasu."},
+  {c:"Directions & Transport",t:"p",en:"Please stop here.",ja:"ここで止めてください。",ro:"Koko de tomete kudasai."},
+  {c:"Directions & Transport",t:"p",en:"Where can I buy tickets?",ja:"切符はどこで買えますか？",ro:"Kippu wa doko de kaemasu ka?"},
+  {c:"Directions & Transport",t:"p",en:"Is there Wi-Fi here?",ja:"ここにWi-Fiはありますか？",ro:"Koko ni Wai-Fai wa arimasu ka?"},
+  {c:"Directions & Transport",t:"w",en:"right",ja:"右（みぎ）",ro:"migi"},
+  {c:"Directions & Transport",t:"w",en:"left",ja:"左（ひだり）",ro:"hidari"},
+  {c:"Directions & Transport",t:"w",en:"straight",ja:"まっすぐ",ro:"massugu"},
+  {c:"Directions & Transport",t:"w",en:"station",ja:"駅（えき）",ro:"eki"},
+  {c:"Directions & Transport",t:"w",en:"train",ja:"電車（でんしゃ）",ro:"densha"},
+  {c:"Directions & Transport",t:"w",en:"bus",ja:"バス",ro:"basu"},
+  {c:"Directions & Transport",t:"w",en:"taxi",ja:"タクシー",ro:"takushī"},
+  {c:"Directions & Transport",t:"w",en:"airport",ja:"空港（くうこう）",ro:"kūkō"},
+  {c:"Directions & Transport",t:"w",en:"ticket",ja:"切符（きっぷ）",ro:"kippu"},
+  {c:"Directions & Transport",t:"w",en:"entrance",ja:"入口（いりぐち）",ro:"iriguchi"},
+  {c:"Directions & Transport",t:"w",en:"exit",ja:"出口（でぐち）",ro:"deguchi"},
+
+  // ---------- Restaurant ----------
+  {c:"Restaurant",t:"p",en:"A table for two, please.",ja:"二人です。",ro:"Futari desu."},
+  {c:"Restaurant",t:"p",en:"Menu, please.",ja:"メニューをお願いします。",ro:"Menyū o onegai shimasu."},
+  {c:"Restaurant",t:"p",en:"This one, please. (pointing)",ja:"これをください。",ro:"Kore o kudasai."},
+  {c:"Restaurant",t:"p",en:"Do you have an English menu?",ja:"英語のメニューはありますか？",ro:"Eigo no menyū wa arimasu ka?"},
+  {c:"Restaurant",t:"p",en:"What do you recommend?",ja:"おすすめは何ですか？",ro:"Osusume wa nan desu ka?"},
+  {c:"Restaurant",t:"p",en:"I'll have the same.",ja:"同じものをください。",ro:"Onaji mono o kudasai."},
+  {c:"Restaurant",t:"p",en:"Water, please.",ja:"お水をください。",ro:"Omizu o kudasai."},
+  {c:"Restaurant",t:"p",en:"Check, please.",ja:"お会計をお願いします。",ro:"Okaikei o onegai shimasu."},
+  {c:"Restaurant",t:"p",en:"Is this spicy?",ja:"これは辛いですか？",ro:"Kore wa karai desu ka?"},
+  {c:"Restaurant",t:"p",en:"I have an allergy.",ja:"アレルギーがあります。",ro:"Arerugī ga arimasu."},
+  {c:"Restaurant",t:"p",en:"I can't eat pork.",ja:"豚肉が食べられません。",ro:"Butaniku ga taberaremasen."},
+  {c:"Restaurant",t:"p",en:"I'm vegetarian.",ja:"ベジタリアンです。",ro:"Bejitarian desu."},
+  {c:"Restaurant",t:"p",en:"It's delicious!",ja:"おいしいです！",ro:"Oishii desu!"},
+  {c:"Restaurant",t:"p",en:"Can I pay by card?",ja:"カードで払えますか？",ro:"Kādo de haraemasu ka?"},
+  {c:"Restaurant",t:"p",en:"Separate checks, please.",ja:"別々でお願いします。",ro:"Betsubetsu de onegai shimasu."},
+  {c:"Restaurant",t:"w",en:"water",ja:"水（みず）",ro:"mizu"},
+  {c:"Restaurant",t:"w",en:"tea",ja:"お茶（おちゃ）",ro:"ocha"},
+  {c:"Restaurant",t:"w",en:"beer",ja:"ビール",ro:"bīru"},
+  {c:"Restaurant",t:"w",en:"rice",ja:"ご飯（ごはん）",ro:"gohan"},
+  {c:"Restaurant",t:"w",en:"chicken",ja:"鶏肉（とりにく）",ro:"toriniku"},
+  {c:"Restaurant",t:"w",en:"fish",ja:"魚（さかな）",ro:"sakana"},
+  {c:"Restaurant",t:"w",en:"delicious",ja:"おいしい",ro:"oishii"},
+
+  // ---------- Shopping ----------
+  {c:"Shopping",t:"p",en:"How much is this?",ja:"これはいくらですか？",ro:"Kore wa ikura desu ka?"},
+  {c:"Shopping",t:"p",en:"I'll take this.",ja:"これをください。",ro:"Kore o kudasai."},
+  {c:"Shopping",t:"p",en:"I'm just looking.",ja:"見ているだけです。",ro:"Mite iru dake desu."},
+  {c:"Shopping",t:"p",en:"Do you have a bigger size?",ja:"もっと大きいサイズはありますか？",ro:"Motto ōkii saizu wa arimasu ka?"},
+  {c:"Shopping",t:"p",en:"Can I try it on?",ja:"試着してもいいですか？",ro:"Shichaku shite mo ii desu ka?"},
+  {c:"Shopping",t:"p",en:"Do you accept credit cards?",ja:"クレジットカードは使えますか？",ro:"Kurejitto kādo wa tsukaemasu ka?"},
+  {c:"Shopping",t:"p",en:"Tax-free, please.",ja:"免税でお願いします。",ro:"Menzei de onegai shimasu."},
+  {c:"Shopping",t:"p",en:"Can I have a bag?",ja:"袋をもらえますか？",ro:"Fukuro o moraemasu ka?"},
+  {c:"Shopping",t:"p",en:"That's a bit expensive.",ja:"ちょっと高いです。",ro:"Chotto takai desu."},
+  {c:"Shopping",t:"p",en:"Where is the cashier?",ja:"レジはどこですか？",ro:"Reji wa doko desu ka?"},
+  {c:"Shopping",t:"w",en:"money",ja:"お金（おかね）",ro:"okane"},
+  {c:"Shopping",t:"w",en:"cheap",ja:"安い（やすい）",ro:"yasui"},
+  {c:"Shopping",t:"w",en:"expensive",ja:"高い（たかい）",ro:"takai"},
+  {c:"Shopping",t:"w",en:"receipt",ja:"レシート",ro:"reshīto"},
+  {c:"Shopping",t:"w",en:"cash",ja:"現金（げんきん）",ro:"genkin"},
+
+  // ---------- Convenience Store ----------
+  {c:"Convenience Store",t:"p",en:"A bag, please.",ja:"袋をください。",ro:"Fukuro o kudasai."},
+  {c:"Convenience Store",t:"p",en:"No bag, thank you.",ja:"袋はいりません。",ro:"Fukuro wa irimasen."},
+  {c:"Convenience Store",t:"p",en:"Please heat this up.",ja:"温めてください。",ro:"Atatamete kudasai."},
+  {c:"Convenience Store",t:"p",en:"Can I withdraw cash here (ATM)?",ja:"ここでお金をおろせますか？",ro:"Koko de okane o orosemasu ka?"},
+  {c:"Convenience Store",t:"p",en:"Chopsticks, please.",ja:"お箸をください。",ro:"Ohashi o kudasai."},
+  {c:"Convenience Store",t:"p",en:"I'll pay with IC card.",ja:"ICカードで払います。",ro:"Ai-Shī kādo de haraimasu."},
+  {c:"Convenience Store",t:"w",en:"convenience store",ja:"コンビニ",ro:"konbini"},
+  {c:"Convenience Store",t:"w",en:"plastic bag",ja:"袋（ふくろ）",ro:"fukuro"},
+  {c:"Convenience Store",t:"w",en:"chopsticks",ja:"お箸（おはし）",ro:"ohashi"},
+  {c:"Convenience Store",t:"w",en:"lunch box",ja:"お弁当（おべんとう）",ro:"obentō"},
+
+  // ---------- Hotel ----------
+  {c:"Hotel",t:"p",en:"I have a reservation.",ja:"予約しています。",ro:"Yoyaku shite imasu."},
+  {c:"Hotel",t:"p",en:"I'd like to check in.",ja:"チェックインをお願いします。",ro:"Chekkuin o onegai shimasu."},
+  {c:"Hotel",t:"p",en:"I'd like to check out.",ja:"チェックアウトをお願いします。",ro:"Chekkuauto o onegai shimasu."},
+  {c:"Hotel",t:"p",en:"What time is checkout?",ja:"チェックアウトは何時ですか？",ro:"Chekkuauto wa nanji desu ka?"},
+  {c:"Hotel",t:"p",en:"Can I leave my luggage?",ja:"荷物を預かってもらえますか？",ro:"Nimotsu o azukatte moraemasu ka?"},
+  {c:"Hotel",t:"p",en:"Is breakfast included?",ja:"朝食は付いていますか？",ro:"Chōshoku wa tsuite imasu ka?"},
+  {c:"Hotel",t:"p",en:"The Wi-Fi password, please.",ja:"Wi-Fiのパスワードをお願いします。",ro:"Wai-Fai no pasuwādo o onegai shimasu."},
+  {c:"Hotel",t:"p",en:"The room key, please.",ja:"部屋の鍵をお願いします。",ro:"Heya no kagi o onegai shimasu."},
+  {c:"Hotel",t:"p",en:"The air conditioner isn't working.",ja:"エアコンが動きません。",ro:"Eakon ga ugokimasen."},
+  {c:"Hotel",t:"w",en:"room",ja:"部屋（へや）",ro:"heya"},
+  {c:"Hotel",t:"w",en:"key",ja:"鍵（かぎ）",ro:"kagi"},
+  {c:"Hotel",t:"w",en:"luggage",ja:"荷物（にもつ）",ro:"nimotsu"},
+  {c:"Hotel",t:"w",en:"towel",ja:"タオル",ro:"taoru"},
+
+  // ---------- Sightseeing ----------
+  {c:"Sightseeing",t:"p",en:"Can I take a photo?",ja:"写真を撮ってもいいですか？",ro:"Shashin o totte mo ii desu ka?"},
+  {c:"Sightseeing",t:"p",en:"Could you take our photo?",ja:"写真を撮ってもらえますか？",ro:"Shashin o totte moraemasu ka?"},
+  {c:"Sightseeing",t:"p",en:"How much is admission?",ja:"入場料はいくらですか？",ro:"Nyūjōryō wa ikura desu ka?"},
+  {c:"Sightseeing",t:"p",en:"Is there an English guide?",ja:"英語のガイドはありますか？",ro:"Eigo no gaido wa arimasu ka?"},
+  {c:"Sightseeing",t:"p",en:"What time does it start?",ja:"何時に始まりますか？",ro:"Nanji ni hajimarimasu ka?"},
+  {c:"Sightseeing",t:"p",en:"That's beautiful!",ja:"きれいですね！",ro:"Kirei desu ne!"},
+  {c:"Sightseeing",t:"p",en:"Where is the information center?",ja:"案内所はどこですか？",ro:"Annaijo wa doko desu ka?"},
+  {c:"Sightseeing",t:"w",en:"temple",ja:"お寺（おてら）",ro:"otera"},
+  {c:"Sightseeing",t:"w",en:"shrine",ja:"神社（じんじゃ）",ro:"jinja"},
+  {c:"Sightseeing",t:"w",en:"castle",ja:"城（しろ）",ro:"shiro"},
+  {c:"Sightseeing",t:"w",en:"hot spring",ja:"温泉（おんせん）",ro:"onsen"},
+  {c:"Sightseeing",t:"w",en:"photo",ja:"写真（しゃしん）",ro:"shashin"},
+  {c:"Sightseeing",t:"w",en:"ticket (admission)",ja:"入場券（にゅうじょうけん）",ro:"nyūjōken"},
+
+  // ---------- Emergency & Health ----------
+  {c:"Emergency & Health",t:"p",en:"Help!",ja:"助けて！",ro:"Tasukete!"},
+  {c:"Emergency & Health",t:"p",en:"Please call the police.",ja:"警察を呼んでください。",ro:"Keisatsu o yonde kudasai."},
+  {c:"Emergency & Health",t:"p",en:"Please call an ambulance.",ja:"救急車を呼んでください。",ro:"Kyūkyūsha o yonde kudasai."},
+  {c:"Emergency & Health",t:"p",en:"I feel sick.",ja:"気分が悪いです。",ro:"Kibun ga warui desu."},
+  {c:"Emergency & Health",t:"p",en:"It hurts here.",ja:"ここが痛いです。",ro:"Koko ga itai desu."},
+  {c:"Emergency & Health",t:"p",en:"Where is a hospital?",ja:"病院はどこですか？",ro:"Byōin wa doko desu ka?"},
+  {c:"Emergency & Health",t:"p",en:"Where is a pharmacy?",ja:"薬局はどこですか？",ro:"Yakkyoku wa doko desu ka?"},
+  {c:"Emergency & Health",t:"p",en:"I lost my passport.",ja:"パスポートをなくしました。",ro:"Pasupōto o nakushimashita."},
+  {c:"Emergency & Health",t:"p",en:"I lost my wallet.",ja:"財布をなくしました。",ro:"Saifu o nakushimashita."},
+  {c:"Emergency & Health",t:"p",en:"Please call a doctor.",ja:"医者を呼んでください。",ro:"Isha o yonde kudasai."},
+  {c:"Emergency & Health",t:"w",en:"hospital",ja:"病院（びょういん）",ro:"byōin"},
+  {c:"Emergency & Health",t:"w",en:"police",ja:"警察（けいさつ）",ro:"keisatsu"},
+  {c:"Emergency & Health",t:"w",en:"medicine",ja:"薬（くすり）",ro:"kusuri"},
+  {c:"Emergency & Health",t:"w",en:"pain / hurts",ja:"痛い（いたい）",ro:"itai"},
+  {c:"Emergency & Health",t:"w",en:"passport",ja:"パスポート",ro:"pasupōto"},
+
+  // ---------- Polite / Small Talk ----------
+  {c:"Polite / Small Talk",t:"p",en:"May I ask you something?",ja:"ちょっといいですか？",ro:"Chotto ii desu ka?"},
+  {c:"Polite / Small Talk",t:"p",en:"I'm a tourist.",ja:"観光客です。",ro:"Kankōkyaku desu."},
+  {c:"Polite / Small Talk",t:"p",en:"I'm from America.",ja:"アメリカから来ました。",ro:"Amerika kara kimashita."},
+  {c:"Polite / Small Talk",t:"p",en:"This is my first time in Japan.",ja:"日本は初めてです。",ro:"Nihon wa hajimete desu."},
+  {c:"Polite / Small Talk",t:"p",en:"Japan is wonderful.",ja:"日本は素晴らしいです。",ro:"Nihon wa subarashii desu."},
+  {c:"Polite / Small Talk",t:"p",en:"Thank you for your kindness.",ja:"ご親切にありがとうございます。",ro:"Goshinsetsu ni arigatō gozaimasu."},
+  {c:"Polite / Small Talk",t:"p",en:"What's your name?",ja:"お名前は何ですか？",ro:"Onamae wa nan desu ka?"},
+  {c:"Polite / Small Talk",t:"p",en:"My name is ___.",ja:"私は ___ です。",ro:"Watashi wa ___ desu."},
+  {c:"Polite / Small Talk",t:"p",en:"Really?",ja:"本当ですか？",ro:"Hontō desu ka?"},
+  {c:"Polite / Small Talk",t:"p",en:"That's great!",ja:"いいですね！",ro:"Ii desu ne!"},
+
+  // ---------- Useful Words ----------
+  {c:"Useful Words",t:"w",en:"this",ja:"これ",ro:"kore"},
+  {c:"Useful Words",t:"w",en:"that",ja:"それ",ro:"sore"},
+  {c:"Useful Words",t:"w",en:"here",ja:"ここ",ro:"koko"},
+  {c:"Useful Words",t:"w",en:"there",ja:"そこ",ro:"soko"},
+  {c:"Useful Words",t:"w",en:"where",ja:"どこ",ro:"doko"},
+  {c:"Useful Words",t:"w",en:"what",ja:"何（なに）",ro:"nani"},
+  {c:"Useful Words",t:"w",en:"who",ja:"誰（だれ）",ro:"dare"},
+  {c:"Useful Words",t:"w",en:"when",ja:"いつ",ro:"itsu"},
+  {c:"Useful Words",t:"w",en:"why",ja:"なぜ",ro:"naze"},
+  {c:"Useful Words",t:"w",en:"how much",ja:"いくら",ro:"ikura"},
+  {c:"Useful Words",t:"w",en:"big",ja:"大きい（おおきい）",ro:"ōkii"},
+  {c:"Useful Words",t:"w",en:"small",ja:"小さい（ちいさい）",ro:"chiisai"},
+  {c:"Useful Words",t:"w",en:"hot",ja:"暑い（あつい）",ro:"atsui"},
+  {c:"Useful Words",t:"w",en:"cold",ja:"寒い（さむい）",ro:"samui"},
+  {c:"Useful Words",t:"w",en:"good",ja:"いい",ro:"ii"},
+  {c:"Useful Words",t:"w",en:"bad",ja:"悪い（わるい）",ro:"warui"},
+  {c:"Useful Words",t:"w",en:"a little",ja:"少し（すこし）",ro:"sukoshi"},
+  {c:"Useful Words",t:"w",en:"a lot",ja:"たくさん",ro:"takusan"},
+  {c:"Useful Words",t:"w",en:"restroom / toilet",ja:"トイレ",ro:"toire"},
+  {c:"Useful Words",t:"w",en:"restaurant",ja:"レストラン",ro:"resutoran"},
+];
+
+/* ---- State ---- */
+let curCat = "All";
+let curType = "all";
+let query = "";
+let showRo = true;
+
+/* ---- TTS ---- */
+let jaVoice = null;
+function pickVoice(){
+  const voices = window.speechSynthesis ? speechSynthesis.getVoices() : [];
+  jaVoice = voices.find(v=>v.lang==="ja-JP") || voices.find(v=>v.lang && v.lang.startsWith("ja")) || null;
+  const hasSpeech = "speechSynthesis" in window;
+  document.getElementById("warn").classList.toggle("show", hasSpeech && voices.length>0 && !jaVoice);
+}
+if("speechSynthesis" in window){
+  pickVoice();
+  speechSynthesis.onvoiceschanged = pickVoice;
+}
+function speak(text){
+  if(!("speechSynthesis" in window)) return;
+  speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = "ja-JP";
+  if(jaVoice) u.voice = jaVoice;
+  u.rate = 0.9;
+  speechSynthesis.speak(u);
+}
+// strip furigana in ( ) for cleaner speech, keep kanji
+function speakText(ja){
+  return ja.replace(/（[^）]*）/g,"").replace(/___/g,"");
+}
+
+/* ---- Render ---- */
+const catsEl = document.getElementById("cats");
+const listEl = document.getElementById("list");
+const countEl = document.getElementById("count");
+
+function buildCats(){
+  const all = ["All", ...CATS];
+  catsEl.innerHTML = "";
+  all.forEach(c=>{
+    const b = document.createElement("button");
+    b.textContent = c;
+    if(c===curCat) b.classList.add("on");
+    b.onclick = ()=>{ curCat=c; render(); [...catsEl.children].forEach(x=>x.classList.remove("on")); b.classList.add("on"); };
+    catsEl.appendChild(b);
+  });
+}
+
+function match(item){
+  if(curType!=="all" && item.t!==curType) return false;
+  if(curCat!=="All" && item.c!==curCat) return false;
+  if(query){
+    const q = query.toLowerCase();
+    if(!(item.en.toLowerCase().includes(q) || item.ja.includes(query) || item.ro.toLowerCase().includes(q))) return false;
+  }
+  return true;
+}
+
+function render(){
+  const items = DATA.filter(match);
+  countEl.textContent = `${items.length} ${items.length===1?"entry":"entries"}`;
+  listEl.className = showRo ? "" : "hide-ro";
+  if(items.length===0){
+    listEl.innerHTML = `<div class="empty">No results. Try another word.</div>`;
+    return;
+  }
+  listEl.innerHTML = "";
+  items.forEach(it=>{
+    const card = document.createElement("div");
+    card.className = "card";
+    card.innerHTML = `
+      <div class="body">
+        <div class="en">${escapeHtml(it.en)}</div>
+        <div class="ja">${escapeHtml(it.ja)}</div>
+        <div class="ro">${escapeHtml(it.ro)}</div>
+        <span class="tag ${it.t==='w'?'w':''}">${it.t==='w'?'WORD':'PHRASE'}</span>
+      </div>
+      <button class="speak" aria-label="Play pronunciation">🔊</button>`;
+    const doSpeak = (e)=>{ e && e.stopPropagation(); speak(speakText(it.ja)); };
+    card.querySelector(".speak").onclick = doSpeak;
+    card.onclick = ()=>speak(speakText(it.ja));
+    listEl.appendChild(card);
+  });
+}
+
+function escapeHtml(s){return s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));}
+
+/* ---- Events ---- */
+document.getElementById("q").addEventListener("input", e=>{ query=e.target.value.trim(); render(); });
+document.getElementById("typeSeg").addEventListener("click", e=>{
+  if(e.target.tagName!=="BUTTON") return;
+  curType = e.target.dataset.t;
+  [...e.currentTarget.children].forEach(b=>b.classList.remove("on"));
+  e.target.classList.add("on");
+  render();
+});
+document.getElementById("roToggle").addEventListener("change", e=>{ showRo=e.target.checked; render(); });
+
+buildCats();
+render();
+</script>
+</body>
+</html>
