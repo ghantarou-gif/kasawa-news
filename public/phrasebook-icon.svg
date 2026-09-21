@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
-  <rect width="128" height="128" rx="28" fill="#c45c26"/>
-  <text x="64" y="82" text-anchor="middle" font-size="56" font-family="Hiragino Mincho ProN, Yu Mincho, serif" fill="#fff8ee">å</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#100e0c"/>
+  <rect x="11" y="11" width="42" height="42" fill="none" stroke="#c43b2a" stroke-width="2.4"/>
+  <text x="32" y="43" text-anchor="middle" font-family="Hiragino Mincho ProN, Yu Mincho, serif" font-size="26" fill="#c43b2a">?</text>
 </svg>

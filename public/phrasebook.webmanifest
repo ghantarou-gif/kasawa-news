@@ -1,11 +1,11 @@
 {
-  "name": "NyanChu Travel Japanese",
+  "name": "旅の日本語",
   "short_name": "旅の日本語",
-  "description": "Japanese phrases and words for travelers. Flashcards, quiz, and audio.",
+  "description": "A pocket book of Japanese for the counter.",
   "start_url": "/phrasebook.html",
   "display": "standalone",
-  "background_color": "#efe8dc",
-  "theme_color": "#efe8dc",
+  "background_color": "#100e0c",
+  "theme_color": "#100e0c",
   "lang": "en",
   "icons": [
     { "src": "/phrasebook-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
