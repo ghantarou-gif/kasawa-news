@@ -4,8 +4,8 @@
   "description": "A pocket book of Japanese for the counter.",
   "start_url": "/phrasebook.html",
   "display": "standalone",
-  "background_color": "#100e0c",
-  "theme_color": "#100e0c",
+  "background_color": "#f2f2f7",
+  "theme_color": "#f2f2f7",
   "lang": "en",
   "icons": [
     { "src": "/phrasebook-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }

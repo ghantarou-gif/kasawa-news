@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="12" fill="#100e0c"/>
-  <rect x="11" y="11" width="42" height="42" fill="none" stroke="#c43b2a" stroke-width="2.4"/>
-  <text x="32" y="43" text-anchor="middle" font-family="Hiragino Mincho ProN, Yu Mincho, serif" font-size="26" fill="#c43b2a">?</text>
+  <rect width="64" height="64" rx="14" fill="#f2f2f7"/>
+  <rect x="14" y="12" width="36" height="44" rx="6" fill="#fff" stroke="#e5e5ea"/>
+  <rect x="18" y="16" width="28" height="36" rx="4" fill="#fff" stroke="#ececef"/>
+  <path d="M24 28h16M24 34h12" stroke="#1c1c1e" stroke-width="2" stroke-linecap="round"/>
 </svg>
