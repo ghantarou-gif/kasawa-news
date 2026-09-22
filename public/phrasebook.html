@@ -3,12 +3,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=1">
-<title>旅の日本語</title>
+<title>Travel Japanese</title>
 <meta name="description" content="Learn Japanese for travel. Flashcards, lists, and tap-to-hear.">
 <meta name="theme-color" content="#f2f2f7">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
-<meta name="apple-mobile-web-app-title" content="旅の日本語">
+<meta name="apple-mobile-web-app-title" content="Travel Japanese">
 <link rel="manifest" href="phrasebook.webmanifest">
 <link rel="icon" href="phrasebook-icon.svg">
 <style>
@@ -227,10 +227,10 @@ body[data-mode="list"] #useView{display:block}
 <header class="topbar">
   <div class="brand">
     <button class="back" id="goHome" type="button" aria-label="Back">‹</button>
-    <h1 id="pageTitle">リスト</h1>
+    <h1 id="pageTitle">List</h1>
   </div>
   <div class="search browse-only">
-    <input id="q" type="search" placeholder="Search English, 日本語, or romaji…" autocomplete="off">
+    <input id="q" type="search" placeholder="Search English, Japanese, or romaji…" autocomplete="off">
   </div>
   <div class="toolbar browse-only">
     <div class="seg" id="typeSeg">
@@ -246,16 +246,16 @@ body[data-mode="list"] #useView{display:block}
 <div class="warn" id="warn">Japanese voice is missing on this browser. Safari or Chrome can read the lines aloud.</div>
 
 <section id="homeView">
-  <h1 class="book-title">旅の日本語</h1>
+  <h1 class="book-title">Travel Japanese</h1>
   <p class="home-meta"><b id="stKnown">0</b> · <b id="stStreak">0</b> · <b id="stTotal">0</b></p>
   <div class="book" id="packs"></div>
-  <h2 class="book-title sm">使えるリスト</h2>
+  <h2 class="book-title sm">Use now</h2>
   <div class="scenes" id="homeScenes"></div>
 </section>
 
 <section id="useView">
   <div class="search" style="margin:8px 0 10px">
-    <input id="useQ" type="search" placeholder="このリストを探す" autocomplete="off">
+    <input id="useQ" type="search" placeholder="Search this list" autocomplete="off">
   </div>
   <div class="cats" id="useCats"></div>
   <div class="count" id="useCount"></div>
@@ -272,16 +272,16 @@ body[data-mode="list"] #useView{display:block}
 
 <section id="quizView">
   <div id="quizSetup" class="quiz-panel">
-    <h2 class="q-title">クイズ</h2>
-    <p class="q-sub">4択。いまの単語帳から出します。</p>
+    <h2 class="q-title">Quiz</h2>
+    <p class="q-sub">4 choices from the current deck.</p>
     <label class="q-label">Level</label>
     <select id="qLv"></select>
     <label class="q-label">Category</label>
     <select id="qCat"></select>
     <label class="q-label">Direction</label>
     <div class="seg full" id="qDir">
-      <button data-d="en2ja" class="on">EN → 日本語</button>
-      <button data-d="ja2en">日本語 → EN</button>
+      <button data-d="en2ja" class="on">EN → JP</button>
+      <button data-d="ja2en">JP → EN</button>
       <button data-d="mix">Mix</button>
     </div>
     <label class="q-label">Questions</label>
@@ -291,7 +291,7 @@ body[data-mode="list"] #useView{display:block}
       <button data-n="0">All</button>
     </div>
     <label class="check"><input type="checkbox" id="qUnlearned"> Quiz unlearned only</label>
-    <button class="q-start" id="qStart">はじめる</button>
+    <button class="q-start" id="qStart">Start</button>
     <div class="q-best" id="qBest"></div>
   </div>
 
@@ -303,23 +303,23 @@ body[data-mode="list"] #useView{display:block}
     <div class="q-count" id="qCount"></div>
     <div class="q-prompt" id="qPrompt"></div>
     <div class="q-options" id="qOptions"></div>
-    <button class="q-next" id="qNext" style="display:none">つぎ</button>
+    <button class="q-next" id="qNext" style="display:none">Next</button>
   </div>
 
   <div id="quizResult" class="quiz-panel" style="display:none">
-    <h2 class="q-title">結果</h2>
+    <h2 class="q-title">Results</h2>
     <div class="q-scorebig" id="qScoreBig"></div>
     <div class="q-msg" id="qMsg"></div>
     <div id="qReview"></div>
-    <button class="q-start" id="qRetryWrong" style="display:none">まちがいだけ</button>
-    <button class="q-again" id="qAgain">もういちど</button>
+    <button class="q-start" id="qRetryWrong" style="display:none">Retry misses</button>
+    <button class="q-again" id="qAgain">Try again</button>
   </div>
 </section>
 
 <section id="cardView">
   <div id="cardSetup" class="quiz-panel">
-    <h2 class="q-title">カード</h2>
-    <p class="q-sub">単語を見て、右は自信あり、左は自信なし。</p>
+    <h2 class="q-title">Cards</h2>
+    <p class="q-sub">Look at the word. Right if you know it, left if not.</p>
     <label class="q-label">Level</label>
     <select id="cLv"></select>
     <label class="q-label">Category</label>
@@ -327,7 +327,7 @@ body[data-mode="list"] #useView{display:block}
     <label class="q-label">Front side</label>
     <div class="seg full" id="cFront">
       <button data-f="en" class="on">English</button>
-      <button data-f="ja">日本語</button>
+      <button data-f="ja">Japanese</button>
     </div>
     <label class="q-label">Cards this session</label>
     <div class="seg full" id="cLen">
@@ -335,10 +335,10 @@ body[data-mode="list"] #useView{display:block}
       <button data-n="20">20</button>
       <button data-n="0">All</button>
     </div>
-    <label class="check"><input type="checkbox" id="cUnlearned" checked> まだのだけ</label>
-    <button class="q-start" id="cStart">はじめる</button>
+    <label class="check"><input type="checkbox" id="cUnlearned" checked> Unlearned only</label>
+    <button class="q-start" id="cStart">Start</button>
     <div class="q-best" id="cInfo"></div>
-    <button class="reset-link" id="cReset">記憶を消す</button>
+    <button class="reset-link" id="cReset">Reset progress</button>
   </div>
 
   <div id="cardPlay" class="quiz-panel" style="display:none">
@@ -350,35 +350,35 @@ body[data-mode="list"] #useView{display:block}
         <div class="face front">
           <button class="cspeak" id="cSpeakF" style="display:none" aria-label="Play"></button>
           <div class="big" id="cFrontText"></div>
-          <div class="hint">タップで答え</div>
+          <div class="hint">Tap for the answer</div>
         </div>
         <div class="face back">
           <button class="cspeak" id="cSpeakB" aria-label="Play"></button>
           <div class="big" id="cBackText"></div>
           <div class="ro2" id="cBackRo"></div>
-          <div class="hint">タップで戻す</div>
+          <div class="hint">Tap to flip back</div>
         </div>
       </div>
     </div>
     <div class="card-actions">
-      <button class="btn-still" id="cStill">自信なし</button>
-      <button class="btn-got" id="cGot">自信あり</button>
+      <button class="btn-still" id="cStill">Still learning</button>
+      <button class="btn-got" id="cGot">Got it</button>
     </div>
-    <div class="swipe-hint">左：自信なし　右：自信あり　タップで答え</div>
+    <div class="swipe-hint">Left: still learning · Right: got it · Tap for the answer</div>
   </div>
 
   <div id="cardDone" class="quiz-panel" style="display:none">
-    <h2 class="q-title">おわり</h2>
+    <h2 class="q-title">Done</h2>
     <div class="q-msg" id="cDoneMsg"></div>
-    <button class="q-start" id="cAgain">もういちど</button>
+    <button class="q-start" id="cAgain">Study again</button>
   </div>
 </section>
 
 <nav class="modeSwitch tabbar" id="modeSwitch">
-  <button data-m="home" class="on">ホーム</button>
-  <button data-m="list">リスト</button>
-  <button data-m="cards">カード</button>
-  <button data-m="quiz">クイズ</button>
+  <button data-m="home" class="on">Home</button>
+  <button data-m="list">List</button>
+  <button data-m="cards">Cards</button>
+  <button data-m="quiz">Quiz</button>
 </nav>
 </div>
 <div class="homeind"></div>
@@ -798,15 +798,15 @@ const MARK={
   help:'<svg class="mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><circle cx="12" cy="12" r="8"/><path d="M12 8v5M12 16.2v.4"/></svg>',
 };
 const USE_SCENES = [
-  {id:"all", label:"全部", sub:"使えるフレーズ", cats:null},
-  {id:"talk", label:"あいさつ", sub:"ありがとう・すみません", cats:["Basics","Greetings","Polite / Small Talk"]},
-  {id:"eat", label:"レストラン", sub:"注文・会計・アレルギー", cats:["Restaurant"]},
-  {id:"train", label:"駅・タクシー", sub:"切符とホーム", cats:["Directions & Transport"]},
-  {id:"shop", label:"買い物", sub:"値段・免税・サイズ", cats:["Shopping"]},
-  {id:"conv", label:"コンビニ", sub:"レジで出す", cats:["Convenience Store"]},
-  {id:"sleep", label:"ホテル", sub:"チェックイン・Wi-Fi", cats:["Hotel"]},
-  {id:"see", label:"観光", sub:"写真とチケット", cats:["Sightseeing"]},
-  {id:"help", label:"緊急", sub:"病院・警察", cats:["Emergency & Health"]},
+  {id:"all", label:"All", sub:"Useful phrases", cats:null},
+  {id:"talk", label:"Greetings", sub:"Thanks and sorry", cats:["Basics","Greetings","Polite / Small Talk"]},
+  {id:"eat", label:"Restaurant", sub:"Order, bill, allergies", cats:["Restaurant"]},
+  {id:"train", label:"Station & taxi", sub:"Tickets and platforms", cats:["Directions & Transport"]},
+  {id:"shop", label:"Shopping", sub:"Price, tax-free, size", cats:["Shopping"]},
+  {id:"conv", label:"Convenience store", sub:"At the register", cats:["Convenience Store"]},
+  {id:"sleep", label:"Hotel", sub:"Check-in and Wi-Fi", cats:["Hotel"]},
+  {id:"see", label:"Sightseeing", sub:"Photos and tickets", cats:["Sightseeing"]},
+  {id:"help", label:"Emergency", sub:"Hospital and police", cats:["Emergency & Health"]},
 ];
 function paperTap(){
   try{
@@ -1050,7 +1050,7 @@ function answer(btn,chosen,q){
   document.getElementById("qScoreLive").textContent=qScore;
   document.getElementById("qProg").style.width=((qi+1)/quiz.length*100)+"%";
   const nx=document.getElementById("qNext");
-  nx.textContent = (qi+1>=quiz.length)?"結果へ":"つぎ";
+  nx.textContent = (qi+1>=quiz.length)?"See results":"Next";
   nx.style.display="block";
 }
 function showResults(){
@@ -1060,7 +1060,7 @@ function showResults(){
   const pct=Math.round(qScore/quiz.length*100);
   document.getElementById("qScoreBig").textContent=`${qScore} / ${quiz.length}　(${pct}%)`;
   document.getElementById("qMsg").textContent =
-    pct>=90?"すばらしい！ Excellent!":pct>=70?"いいね！ Nice work!":pct>=50?"その調子！ Keep going!":"また挑戦しよう！ Try again!";
+    pct>=90?"Excellent!":pct>=70?"Nice work!":pct>=50?"Keep going!":"Try again!";
   const best=parseInt(localStorage.getItem(BEST_KEY)||"0",10);
   if(pct>best)localStorage.setItem(BEST_KEY,String(pct));
   markStudy();
@@ -1137,14 +1137,14 @@ function renderCard(){
   sf.style.display=frontIsEn?"none":"flex";
   sf.onclick=(e)=>{e.stopPropagation();speak(speakText(it.ja));};
   document.getElementById("cSpeakB").onclick=(e)=>{e.stopPropagation();speak(speakText(it.ja));};
-  document.getElementById("cCount").textContent=`あと ${cQueue.length}`;
-  document.getElementById("cLearned").textContent=`覚 ${cLearnedSession}`;
+  document.getElementById("cCount").textContent=`${cQueue.length} left`;
+  document.getElementById("cLearned").textContent=`${cLearnedSession} known`;
   document.getElementById("cProg").style.width=(cLearnedSession/cTotal*100)+"%";
 }
 function showCardDone(){
   document.getElementById("cardPlay").style.display="none";
   document.getElementById("cardDone").style.display="block";
-  document.getElementById("cDoneMsg").textContent=`この束はおわり。${cLearnedSession} を覚えた。`;
+  document.getElementById("cDoneMsg").textContent=`Deck finished. You marked ${cLearnedSession} as known.`;
   document.body.classList.remove("studying");
 }
 document.getElementById("cFlip").onclick=()=>{
@@ -1195,9 +1195,9 @@ function refreshHome(){
   document.getElementById("stTotal").textContent=DATA.length;
   const packs=document.getElementById("packs");
   const meta=[
-    {lv:1,title:"必須",desc:"空港・駅・店で先に使う", num:"1"},
-    {lv:2,title:"実践",desc:"宿・買い物・観光", num:"2"},
-    {lv:3,title:"発展",desc:"メニューと文化のことば", num:"3"},
+    {lv:1,title:"Must-know",desc:"Airport, station, shops first", num:"1"},
+    {lv:2,title:"Useful",desc:"Hotel, shopping, sightseeing", num:"2"},
+    {lv:3,title:"Extra",desc:"Menus and culture words", num:"3"},
   ];
   packs.innerHTML="";
   meta.forEach(m=>{
@@ -1208,7 +1208,7 @@ function refreshHome(){
       <div class="sheet front">
         <span class="num">${m.num}</span>
         <span><b>${m.title}</b><small>${m.desc}</small></span>
-        <span class="n">${pool.length}<span>語</span></span>
+        <span class="n">${pool.length}<span>cards</span></span>
       </div>`;
     b.onclick=()=>{
       document.getElementById("cLv").value=String(m.lv);
@@ -1258,7 +1258,7 @@ function renderUse(){
     cats.appendChild(b);
   });
   const items=usePool();
-  document.getElementById("useCount").textContent=`${items.length} 行 · 見せて、鳴らす`;
+  document.getElementById("useCount").textContent=`${items.length} lines · tap to hear`;
   const box=document.getElementById("useList");
   const pins=loadPins();
   box.innerHTML="";
@@ -1289,13 +1289,13 @@ function renderUse(){
     box.appendChild(row);
   });
 }
-const PAGE_TITLE={home:"旅の日本語",list:"リスト",cards:"カード",quiz:"クイズ",browse:"一覧"};
+const PAGE_TITLE={home:"Travel Japanese",list:"List",cards:"Cards",quiz:"Quiz",browse:"Browse"};
 function setMode(m){
   if(m!=="cards") document.body.classList.remove("studying");
   if(m!=="quiz") document.body.classList.remove("quizzing");
   document.body.dataset.mode=m;
   const t=document.getElementById("pageTitle");
-  if(t) t.textContent=PAGE_TITLE[m]||"旅の日本語";
+  if(t) t.textContent=PAGE_TITLE[m]||"Travel Japanese";
   [...document.getElementById("modeSwitch").children].forEach(b=>b.classList.toggle("on",b.dataset.m===m));
   if(m==="quiz")showQuizSetup();
   if(m==="cards"){

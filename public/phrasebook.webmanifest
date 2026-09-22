@@ -1,7 +1,7 @@
 {
-  "name": "旅の日本語",
-  "short_name": "旅の日本語",
-  "description": "A pocket book of Japanese for the counter.",
+  "name": "Travel Japanese",
+  "short_name": "Travel JP",
+  "description": "Learn Japanese for travel. Flashcards, lists, and tap-to-hear.",
   "start_url": "/phrasebook.html",
   "display": "standalone",
   "background_color": "#f2f2f7",
