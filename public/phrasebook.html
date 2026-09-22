@@ -2,34 +2,58 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=1">
 <title>旅の日本語</title>
 <meta name="description" content="Learn Japanese for travel. Flashcards, lists, and tap-to-hear.">
 <meta name="theme-color" content="#f2f2f7">
 <meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="apple-mobile-web-app-title" content="旅の日本語">
 <link rel="manifest" href="phrasebook.webmanifest">
 <link rel="icon" href="phrasebook-icon.svg">
 <style>
 :root{
-  --bg:#f2f2f7; --card:#fff; --ink:#1c1c1e; --sub:#8e8e93; --line:#efeef2;
+  --bg:#f2f2f7; --card:#fff; --ink:#1c1c1e; --sub:#8e8e93; --line:rgba(60,60,67,.12);
   --blue:#007aff; --ok:#34c759; --no:#ff3b30;
 }
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
-html,body{margin:0;min-height:100%;background:var(--bg);color:var(--ink);
-  font-family:-apple-system,"Hiragino Sans","Hiragino Kaku Gothic ProN","Segoe UI",sans-serif;
-  -webkit-font-smoothing:antialiased}
-.app{max-width:430px;margin:0 auto;min-height:100dvh;background:var(--bg);
-  padding:0 0 calc(78px + env(safe-area-inset-bottom))}
-header.topbar{display:none;padding:16px 20px 0}
+html,body{margin:0;min-height:100%;background:#0b0b0d;color:var(--ink);
+  font-family:-apple-system,"SF Pro Text","Hiragino Sans","Hiragino Kaku Gothic ProN",sans-serif;
+  -webkit-font-smoothing:antialiased;overscroll-behavior:none}
+.desk{min-height:100dvh;display:flex;align-items:center;justify-content:center;padding:24px}
+.phone{width:min(100%,390px);height:min(100dvh,844px);background:#000;border-radius:0;
+  box-shadow:none;position:relative;padding:0}
+.screen{height:100%;background:var(--bg);position:relative;overflow:hidden;display:flex;flex-direction:column}
+.island,.statusbar,.homeind{display:none}
+.app{flex:1;overflow:auto;-webkit-overflow-scrolling:touch;padding-bottom:calc(72px + env(safe-area-inset-bottom))}
+@media(min-width:700px){
+  .phone{height:844px;border-radius:56px;padding:11px;
+    box-shadow:0 0 0 1px #2c2c2e,0 0 0 8px #111,0 50px 100px rgba(0,0,0,.55)}
+  .screen{border-radius:46px}
+  .island{display:block;position:absolute;top:12px;left:50%;transform:translateX(-50%);
+    width:126px;height:36px;background:#000;border-radius:20px;z-index:40}
+  .statusbar{display:flex;justify-content:space-between;align-items:center;
+    padding:16px 28px 0;height:54px;font-size:15px;font-weight:700;position:relative;z-index:30}
+  .sb-right{display:flex;gap:6px;align-items:center}
+  .homeind{display:block;position:absolute;left:50%;bottom:8px;transform:translateX(-50%);
+    width:134px;height:5px;background:#1c1c1e;border-radius:99px;opacity:.28;z-index:40}
+  .app{padding-bottom:78px}
+}
+@media(max-width:699px){
+  html,body,.desk{background:var(--bg)}
+  .desk{padding:0;min-height:100dvh}
+  .phone{width:100%;height:100dvh;border-radius:0}
+}
+header.topbar{display:none;padding:8px 20px 0}
 body[data-mode="list"] header.topbar,
 body[data-mode="cards"] header.topbar,
 body[data-mode="quiz"] header.topbar{display:block}
-.brand{display:flex;align-items:baseline;justify-content:space-between}
-.brand h1{margin:0;font-size:28px;font-weight:800;letter-spacing:-.02em}
-.brand small{color:var(--sub);font-size:12px;font-weight:600}
+.brand{display:flex;align-items:center;gap:4px}
+.brand h1{margin:0;font-size:34px;font-weight:800;letter-spacing:-.04em}
+.brand small{display:none}
+.back{border:0;background:0;color:var(--blue);font-size:34px;line-height:.8;padding:0 6px 0 0;cursor:pointer;font-weight:300}
 .search{display:flex;padding:10px 20px 0}
-.search input{width:100%;padding:11px 14px;border:0;border-radius:12px;background:#fff;font-size:16px;outline:none}
+.search input{width:100%;padding:11px 14px;border:0;border-radius:12px;background:#e5e5ea;font-size:16px;outline:none}
 .toolbar{display:none}
 .seg{display:flex;background:#e5e5ea;border-radius:10px;padding:2px}
 .seg button{flex:1;border:0;background:transparent;padding:8px 6px;border-radius:8px;font-size:13px;font-weight:700;color:var(--sub);cursor:pointer}
@@ -50,17 +74,27 @@ main{padding:8px 20px 24px}
   background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='18' height='18' fill='none' stroke='%231c1c1e' stroke-width='1.6'><path d='M3 8.5v2h3l4 3V5.5L6 8.5H3z'/><path d='M13.5 7.6a2.6 2.6 0 0 1 0 2.8'/></svg>");
   background-repeat:no-repeat;background-position:center}
 .pin{border-radius:10px;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='none' stroke='%238e8e93' stroke-width='1.5'><path d='M8 2.4 9.7 6l3.8.5-2.8 2.7.7 3.8L8 11.2 4.6 13l.7-3.8L2.5 6.5 6.3 6z'/></svg>")}
-.pin.on{background:#fff3c4;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='%23f5b400' stroke='%23f5b400' stroke-width='1'><path d='M8 2.4 9.7 6l3.8.5-2.8 2.7.7 3.8L8 11.2 4.6 13l.7-3.8L2.5 6.5 6.3 6z'/></svg>")}
+.pin.on{background:#fff3c4;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='%23f5b400' stroke='%23f5b400'><path d='M8 2.4 9.7 6l3.8.5-2.8 2.7.7 3.8L8 11.2 4.6 13l.7-3.8L2.5 6.5 6.3 6z'/></svg>")}
 .empty{text-align:center;color:var(--sub);padding:40px 0}
 footer{display:none}
 .warn{display:none;margin:10px 20px 0;color:var(--no);font-size:12px}
 .warn.show{display:block}
 .hide-ro .ro{display:none}
-.modeSwitch.tabbar{position:fixed;left:50%;bottom:0;transform:translateX(-50%);width:min(100%,430px);
-  display:flex;background:rgba(255,255,255,.92);backdrop-filter:blur(16px);
-  border-top:1px solid #ececef;padding:6px 4px calc(8px + env(safe-area-inset-bottom));z-index:30}
-.modeSwitch button{flex:1;border:0;background:transparent;color:var(--sub);padding:8px 0 4px;font-size:10px;font-weight:700;cursor:pointer}
-.modeSwitch button.on{color:var(--ink)}
+.modeSwitch.tabbar{position:absolute;left:0;right:0;bottom:0;display:flex;
+  background:rgba(249,249,249,.92);backdrop-filter:saturate(180%) blur(20px);
+  border-top:1px solid rgba(0,0,0,.08);padding:4px 8px 18px;z-index:30}
+@media(max-width:699px){.modeSwitch.tabbar{position:fixed;padding-bottom:calc(8px + env(safe-area-inset-bottom))}}
+.modeSwitch button{flex:1;border:0;background:transparent;color:var(--sub);padding:6px 0 2px;
+  font-size:10px;font-weight:600;cursor:pointer;display:flex;flex-direction:column;align-items:center;gap:3px}
+.modeSwitch button:before{content:"";width:26px;height:26px;background:currentColor;opacity:.45;
+  mask:var(--ico) center/24px no-repeat;-webkit-mask:var(--ico) center/24px no-repeat}
+.modeSwitch button.on{color:var(--blue)}
+.modeSwitch button.on:before{opacity:1}
+.modeSwitch [data-m="home"]{--ico:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M3 11.2 12 3.5 21 11.2V21h-6.5v-6h-5v6H3z'/></svg>")}
+.modeSwitch [data-m="list"]{--ico:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M4 6.5h16v2.2H4zm0 4.4h16v2.2H4zm0 4.4h16v2.2H4z'/></svg>")}
+.modeSwitch [data-m="cards"]{--ico:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M8 4h11a2 2 0 0 1 2 2v12h-2.2V6.8H8zM3 7h13a2 2 0 0 1 2 2v11H5a2 2 0 0 1-2-2z'/></svg>")}
+.modeSwitch [data-m="quiz"]{--ico:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M12 2a10 10 0 1 0 .01 20.01A10 10 0 0 0 12 2zm.1 15.2a1.2 1.2 0 1 1 0-2.4 1.2 1.2 0 0 1 0 2.4zM12 6.8c2 0 3.4 1.2 3.4 3.1 0 1.3-.7 2.1-1.9 2.8-.9.6-1.1 1-1.1 1.7v.3h-1.7v-.5c0-1.2.5-2 1.6-2.7 1-.6 1.4-1.1 1.4-1.7 0-.7-.5-1.2-1.4-1.2-.9 0-1.5.5-1.6 1.4H8.8C9 8 10.2 6.8 12 6.8z'/></svg>")}
+body.studying .tabbar,body.quizzing .tabbar{display:none}
 body[data-mode="quiz"] .browse-only,
 body[data-mode="cards"] .browse-only,
 body[data-mode="home"] .browse-only,
@@ -81,92 +115,119 @@ body[data-mode="home"] #useView,
 body[data-mode="list"] #homeView,
 body[data-mode="list"] #quizView,
 body[data-mode="list"] #cardView{display:none}
+#homeView,#useView,#quizView,#cardView{animation:rise .35s ease}
+@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
 #quizView,#cardView{padding:8px 20px 24px}
 .quiz-panel{background:transparent;padding:0;margin:0;border:0}
-.q-title{margin:8px 0 6px;font-size:28px;font-weight:800}
-.q-sub{color:var(--sub);margin:0 0 16px;font-size:14px}
-.q-label{display:block;font-size:12px;font-weight:700;color:var(--sub);margin:16px 0 6px}
+.q-title{margin:8px 0 6px;font-size:34px;font-weight:800;letter-spacing:-.04em}
+.q-sub{color:var(--sub);margin:0 0 16px;font-size:15px}
+.q-label{display:block;font-size:13px;font-weight:600;color:var(--sub);margin:16px 0 6px}
 select,#qCat,#qLv,#cCat,#cLv{width:100%;padding:13px 14px;border:0;border-radius:12px;font-size:16px;background:#fff}
 .seg.full{width:100%}
-.q-start,.q-next{width:100%;margin-top:22px;padding:15px;border:0;border-radius:14px;background:var(--ink);color:#fff;font-size:16px;font-weight:800;cursor:pointer}
-.q-again{width:100%;margin-top:10px;padding:14px;border:0;border-radius:14px;background:#fff;color:var(--ink);font-size:15px;font-weight:700;cursor:pointer}
+.q-start,.q-next{width:100%;margin-top:22px;padding:16px;border:0;border-radius:14px;background:var(--blue);color:#fff;font-size:17px;font-weight:700;cursor:pointer}
+.q-again{width:100%;margin-top:10px;padding:14px;border:0;border-radius:14px;background:#fff;color:var(--blue);font-size:16px;font-weight:700;cursor:pointer}
 .q-best{color:var(--sub);margin-top:14px;font-size:13px;font-weight:600}
 .q-top{display:flex;align-items:center;gap:12px}
 .q-prog{flex:1;height:4px;background:#e5e5ea;border-radius:99px;overflow:hidden}
 .q-prog-bar{height:100%;width:0;background:var(--blue);transition:width .3s}
 .q-score{font-weight:800;min-width:24px;text-align:right}
 .q-count{color:var(--sub);font-size:12px;font-weight:700;margin:14px 0 8px}
-.q-prompt{position:relative;text-align:center;padding:40px 16px;border-radius:22px;margin-bottom:16px;background:#fff;box-shadow:0 10px 30px rgba(0,0,0,.06)}
-.q-prompt .p-main{font-size:28px;font-weight:800;line-height:1.35}
+.q-prompt{position:relative;text-align:center;padding:44px 16px;border-radius:28px;margin-bottom:16px;background:#fff;box-shadow:0 18px 40px rgba(0,0,0,.08)}
+.q-prompt .p-main{font-size:30px;font-weight:800;line-height:1.35}
 .q-prompt .p-sub{color:var(--sub);font-size:12px;margin-top:8px}
 .q-prompt .p-speak{position:absolute;top:12px;right:12px}
 .q-options{display:flex;flex-direction:column;gap:8px}
-.q-opt{text-align:left;padding:14px 16px;border:0;border-radius:14px;background:#fff;font-size:16px;font-weight:700;cursor:pointer;width:100%}
+.q-opt{text-align:left;padding:16px;border:0;border-radius:16px;background:#fff;font-size:17px;font-weight:700;cursor:pointer;width:100%}
 .q-opt small{color:var(--sub);font-weight:600}
 .q-opt.correct{background:#e8f8ee;color:#1b7f3a}
 .q-opt.wrong{background:#fdecec;color:#c42929}
-.q-scorebig{text-align:center;font-size:42px;font-weight:900;margin:16px 0}
+.q-scorebig{text-align:center;font-size:48px;font-weight:900;margin:16px 0}
 .q-msg{text-align:center;color:var(--sub);margin-bottom:14px}
 .q-revh{font-size:12px;color:var(--sub);margin:18px 0 8px;font-weight:800}
 .q-rev{display:flex;flex-direction:column;padding:12px 0;border-bottom:1px solid var(--line)}
 .q-rev b{font-size:14px}.q-rev span{font-size:20px;font-weight:800;margin-top:2px}
 .q-rev i{color:var(--sub);font-size:12px;font-style:normal}
 .q-perfect{text-align:center;color:var(--ok);font-weight:800;padding:12px}
-.card-scene{perspective:1400px;margin:20px 0 8px}
-.flip{position:relative;width:100%;height:340px;transform-style:preserve-3d;transition:transform .5s;cursor:pointer}
+.card-scene{perspective:1400px;margin:18px 0 8px;position:relative}
+.ghost{position:absolute;left:8px;right:8px;top:10px;height:360px;border-radius:28px;background:#fff;box-shadow:0 10px 24px rgba(0,0,0,.05);z-index:0}
+.ghost.g2{top:18px;left:16px;right:16px;transform:scale(.97);opacity:.65}
+.card-scene .flip{z-index:1}
+.flip{position:relative;width:100%;height:360px;transform-style:preserve-3d;transition:transform .45s cubic-bezier(.2,.8,.2,1);cursor:pointer}
 .flip.flipped{transform:rotateY(180deg)}
 .face{position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;
   display:flex;flex-direction:column;align-items:center;justify-content:center;
-  background:#fff;border-radius:24px;padding:28px;text-align:center;box-shadow:0 16px 40px rgba(0,0,0,.08)}
+  background:#fff;border-radius:28px;padding:28px;text-align:center;box-shadow:0 20px 50px rgba(0,0,0,.12)}
 .face.back{transform:rotateY(180deg)}
-.face .big{font-size:32px;font-weight:800;line-height:1.4}
-.face .ro2{color:var(--sub);margin-top:12px;font-size:15px}
-.face .hint{position:absolute;bottom:16px;color:var(--sub);font-size:11px}
+.face .big{font-size:34px;font-weight:800;line-height:1.35}
+.face .ro2{color:var(--sub);margin-top:12px;font-size:16px}
+.face .hint{position:absolute;bottom:18px;color:var(--sub);font-size:12px}
 .face .cspeak{position:absolute;top:14px;right:14px}
-.card-actions{display:flex;gap:10px;margin-top:8px}
-.card-actions button{flex:1;padding:16px;border:0;border-radius:16px;font-size:15px;font-weight:800;cursor:pointer}
-.btn-still{background:#fff;color:var(--no)}
-.btn-got{background:#fff;color:var(--ok)}
+.card-actions{display:flex;gap:10px;margin-top:6px}
+.card-actions button{flex:1;padding:16px;border:0;border-radius:16px;font-size:16px;font-weight:800;cursor:pointer;background:#fff}
+.btn-still{color:var(--no)}
+.btn-got{color:var(--ok)}
 .card-meta{display:flex;justify-content:space-between;color:var(--sub);font-size:12px;font-weight:700;margin-bottom:8px}
-.reset-link{display:block;width:100%;margin-top:20px;border:0;background:none;color:var(--sub);font-size:12px;cursor:pointer}
+.reset-link{display:block;width:100%;margin-top:20px;border:0;background:none;color:var(--sub);font-size:13px;cursor:pointer}
 .swipe-hint{text-align:center;color:var(--sub);font-size:12px;margin-top:8px}
-#homeView{display:none;padding:28px 20px 20px}
+#homeView{display:none;padding:10px 22px 28px}
 body[data-mode="home"] #homeView{display:block}
-.book-title{margin:0 4px 14px;font-size:28px;font-weight:800;letter-spacing:-.03em}
-.book-title.sm{margin:28px 4px 12px;font-size:20px}
+.book-title{margin:8px 2px 20px;font-size:34px;font-weight:800;letter-spacing:-.045em}
+.book-title.sm{margin:10px 2px 14px;font-size:22px}
 .home-meta{display:none}
-.book{position:relative;background:#fff;border-radius:22px;padding:6px 4px;
-  box-shadow:0 1px 0 rgba(0,0,0,.03),0 14px 36px rgba(0,0,0,.05)}
-.book:before,.book:after{content:"";position:absolute;left:10px;right:10px;height:100%;border-radius:22px;background:#fff;z-index:-1}
-.book:before{top:7px;transform:scale(.975);box-shadow:0 10px 20px rgba(0,0,0,.03)}
-.book:after{top:14px;transform:scale(.95);opacity:.65}
+.book{display:flex;flex-direction:column;gap:26px;background:transparent;box-shadow:none;padding:0}
+.book:before,.book:after{display:none}
+.deck{position:relative;height:132px;border:0;background:transparent;padding:0;cursor:pointer;text-align:left}
+.deck .sheet{position:absolute;left:0;right:0;top:0;height:112px;border-radius:24px;background:#fff;
+  box-shadow:0 18px 40px rgba(0,0,0,.1)}
+.deck .s2{top:22px;transform:scale(.9) rotate(-3deg);opacity:.7;box-shadow:none;background:#ececf0}
+.deck .s1{top:11px;transform:scale(.955) rotate(2.2deg);opacity:.92;box-shadow:0 8px 18px rgba(0,0,0,.05);background:#f6f6f8}
+.deck .front{display:grid;grid-template-columns:28px 1fr auto;gap:10px;align-items:center;
+  padding:24px 20px;z-index:2}
+.deck:active{transform:scale(.98)}
+.deck .num,.row .num{color:#c7c7cc;font-size:18px;font-weight:700;font-variant-numeric:tabular-nums}
+.deck b,.row b{display:block;font-size:22px;font-weight:800;letter-spacing:-.03em}
+.deck small,.row small{display:block;color:var(--sub);font-size:12px;font-weight:600;margin-top:4px}
+.deck .n,.row .n{font-size:30px;font-weight:800;font-variant-numeric:tabular-nums;letter-spacing:-.05em;line-height:1}
+.deck .n span,.row .n span{display:block;font-size:11px;color:var(--sub);font-weight:700;margin-top:4px;text-align:right}
+.scenes{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.tile{border:0;background:#fff;border-radius:18px;padding:16px 14px;text-align:left;cursor:pointer;
+  box-shadow:0 8px 20px rgba(0,0,0,.04)}
+.tile:active{transform:scale(.98)}
+.tile b{display:block;font-size:16px;font-weight:800}
+.tile small{display:block;color:var(--sub);font-size:11px;margin-top:4px;font-weight:600}
 .row{width:100%;border:0;background:transparent;display:grid;grid-template-columns:28px 1fr auto;gap:10px;align-items:center;
-  padding:16px 16px;text-align:left;cursor:pointer;border-bottom:1px solid var(--line)}
-.row:last-child{border-bottom:0}
-.row .num{color:#c7c7cc;font-size:17px;font-weight:700;font-variant-numeric:tabular-nums}
-.row b{display:block;font-size:17px;font-weight:800}
-.row small{display:block;color:var(--sub);font-size:12px;font-weight:600;margin-top:2px}
-.row .n{font-size:26px;font-weight:800;font-variant-numeric:tabular-nums;letter-spacing:-.04em;line-height:1}
-.row .n span{display:block;font-size:11px;color:var(--sub);font-weight:700;margin-top:3px;text-align:right}
+  padding:17px 16px;text-align:left;cursor:pointer}
 #useView{display:none;padding:4px 0 24px}
 body[data-mode="list"] #useView{display:block}
-.use-row{background:#fff;margin:0 20px 8px;border-radius:16px;padding:14px 16px;display:flex;gap:12px;align-items:flex-start;cursor:pointer}
+.use-row{background:#fff;margin:0 16px 8px;border-radius:16px;padding:14px 16px;display:flex;gap:12px;align-items:flex-start;cursor:pointer}
+.use-row:active{transform:scale(.99)}
 .use-row .no{display:none}
 .use-row .ja{font-size:24px;font-weight:800;line-height:1.35}
 .use-row .en{font-size:14px;font-weight:700;margin-top:4px}
 .use-row .ro{color:var(--sub);font-size:12px;margin-top:2px}
-.use-row.speaking{box-shadow:0 0 0 2px var(--ink)}
+.use-row.speaking{box-shadow:0 0 0 2px var(--blue)}
 .check{display:flex;align-items:center;gap:8px;margin-top:16px;font-size:14px;color:var(--sub);cursor:pointer}
-.check input{accent-color:var(--ink)}
+.check input{accent-color:var(--blue)}
 .kbd{display:none}
+
 </style>
 </head>
 <body>
+<div class="desk"><div class="phone"><div class="screen">
+<div class="island"></div>
+<div class="statusbar">
+  <span id="clock">9:41</span>
+  <span class="sb-right" aria-hidden="true">
+    <svg width="17" height="11" viewBox="0 0 17 11"><rect x="0" y="7" width="3" height="4" rx=".5" fill="#1c1c1e"/><rect x="4.5" y="5" width="3" height="6" rx=".5" fill="#1c1c1e"/><rect x="9" y="2.5" width="3" height="8.5" rx=".5" fill="#1c1c1e"/><rect x="13.5" y="0" width="3" height="11" rx=".5" fill="#1c1c1e"/></svg>
+    <svg width="16" height="12" viewBox="0 0 16 12"><path d="M8 3.2c2.2 0 4.1 1 5.5 2.5l-1.2 1.2A6.1 6.1 0 0 0 8 5.2a6.1 6.1 0 0 0-4.3 1.7L2.5 5.7A7.8 7.8 0 0 1 8 3.2zm0 3.2c1.3 0 2.4.5 3.3 1.4L8 11 4.7 7.8A4.6 4.6 0 0 1 8 6.4z" fill="#1c1c1e"/></svg>
+    <svg width="27" height="13" viewBox="0 0 27 13"><rect x=".5" y=".5" width="22" height="12" rx="3.2" fill="none" stroke="#1c1c1e" stroke-width="1"/><rect x="2" y="2" width="19" height="9" rx="2" fill="#1c1c1e"/><rect x="23.5" y="4.2" width="2.2" height="4.6" rx="1" fill="#1c1c1e"/></svg>
+  </span>
+</div>
 <div class="app">
 <header class="topbar">
   <div class="brand">
+    <button class="back" id="goHome" type="button" aria-label="Back">‹</button>
     <h1 id="pageTitle">リスト</h1>
-    <small>NyanChu</small>
   </div>
   <div class="search browse-only">
     <input id="q" type="search" placeholder="Search English, 日本語, or romaji…" autocomplete="off">
@@ -189,7 +250,7 @@ body[data-mode="list"] #useView{display:block}
   <p class="home-meta"><b id="stKnown">0</b> · <b id="stStreak">0</b> · <b id="stTotal">0</b></p>
   <div class="book" id="packs"></div>
   <h2 class="book-title sm">使えるリスト</h2>
-  <div class="book" id="homeScenes"></div>
+  <div class="scenes" id="homeScenes"></div>
 </section>
 
 <section id="useView">
@@ -320,6 +381,8 @@ body[data-mode="list"] #useView{display:block}
   <button data-m="quiz">クイズ</button>
 </nav>
 </div>
+<div class="homeind"></div>
+</div></div></div>
 
 <script src="phrasebook-extra.js"></script>
 <script>
@@ -941,6 +1004,7 @@ function buildQuiz(){
   buildQuizFromItems(qLen>0?pool.slice(0,qLen):pool);
 }
 function showQuizSetup(){
+  document.body.classList.remove("quizzing");
   document.getElementById("quizPlay").style.display="none";
   document.getElementById("quizResult").style.display="none";
   document.getElementById("quizSetup").style.display="block";
@@ -950,6 +1014,7 @@ function showQuizSetup(){
 function startQuiz(){
   buildQuiz();
   if(quiz.length<1){alert("Not enough entries for a quiz.");return;}
+  document.body.classList.add("quizzing");
   document.getElementById("quizSetup").style.display="none";
   document.getElementById("quizResult").style.display="none";
   document.getElementById("quizPlay").style.display="block";
@@ -985,10 +1050,11 @@ function answer(btn,chosen,q){
   document.getElementById("qScoreLive").textContent=qScore;
   document.getElementById("qProg").style.width=((qi+1)/quiz.length*100)+"%";
   const nx=document.getElementById("qNext");
-  nx.textContent = (qi+1>=quiz.length)?"See result →":"Next →";
+  nx.textContent = (qi+1>=quiz.length)?"結果へ":"つぎ";
   nx.style.display="block";
 }
 function showResults(){
+  document.body.classList.remove("quizzing");
   document.getElementById("quizPlay").style.display="none";
   document.getElementById("quizResult").style.display="block";
   const pct=Math.round(qScore/quiz.length*100);
@@ -1008,6 +1074,7 @@ function showResults(){
 document.getElementById("qNext").onclick=()=>{qi++; if(qi>=quiz.length)showResults(); else renderQuestion();};
 document.getElementById("qRetryWrong").onclick=()=>{
   const items=qWrong.map(q=>q.item);
+  document.body.classList.add("quizzing");
   document.getElementById("quizResult").style.display="none";
   document.getElementById("quizPlay").style.display="block";
   buildQuizFromItems(items); renderQuestion();
@@ -1070,7 +1137,7 @@ function renderCard(){
   sf.style.display=frontIsEn?"none":"flex";
   sf.onclick=(e)=>{e.stopPropagation();speak(speakText(it.ja));};
   document.getElementById("cSpeakB").onclick=(e)=>{e.stopPropagation();speak(speakText(it.ja));};
-  document.getElementById("cCount").textContent=`${cQueue.length} left`;
+  document.getElementById("cCount").textContent=`あと ${cQueue.length}`;
   document.getElementById("cLearned").textContent=`覚 ${cLearnedSession}`;
   document.getElementById("cProg").style.width=(cLearnedSession/cTotal*100)+"%";
 }
@@ -1136,25 +1203,25 @@ function refreshHome(){
   meta.forEach(m=>{
     const pool=DATA.filter(x=>x.lv===m.lv);
     const b=document.createElement("button");
-    b.className="row";
-    b.innerHTML=`<span class="num">${m.num}</span>
-      <span><b>${m.title}</b><small>${m.desc}</small></span>
-      <span class="n">${pool.length}<span>語</span></span>`;
+    b.className="deck";
+    b.innerHTML=`<i class="sheet s2"></i><i class="sheet s1"></i>
+      <div class="sheet front">
+        <span class="num">${m.num}</span>
+        <span><b>${m.title}</b><small>${m.desc}</small></span>
+        <span class="n">${pool.length}<span>語</span></span>
+      </div>`;
     b.onclick=()=>{
       document.getElementById("cLv").value=String(m.lv);
-      setMode("cards"); cardInfo(); startCards();
+      setMode("cards");
     };
     packs.appendChild(b);
   });
   const hs=document.getElementById("homeScenes");
   hs.innerHTML="";
-  USE_SCENES.filter(s=>s.id!=="all").forEach((s,i)=>{
-    const n=DATA.filter(x=>!s.cats||s.cats.includes(x.c)).length;
+  USE_SCENES.filter(s=>s.id!=="all").forEach(s=>{
     const b=document.createElement("button");
-    b.className="row";
-    b.innerHTML=`<span class="num">${i+1}</span>
-      <span><b>${s.label}</b><small>${s.sub}</small></span>
-      <span class="n">${n}<span>語</span></span>`;
+    b.className="tile";
+    b.innerHTML=`<b>${s.label}</b><small>${s.sub}</small>`;
     b.onclick=()=>openUse(s.id);
     hs.appendChild(b);
   });
@@ -1225,17 +1292,27 @@ function renderUse(){
 const PAGE_TITLE={home:"旅の日本語",list:"リスト",cards:"カード",quiz:"クイズ",browse:"一覧"};
 function setMode(m){
   if(m!=="cards") document.body.classList.remove("studying");
+  if(m!=="quiz") document.body.classList.remove("quizzing");
   document.body.dataset.mode=m;
   const t=document.getElementById("pageTitle");
   if(t) t.textContent=PAGE_TITLE[m]||"旅の日本語";
   [...document.getElementById("modeSwitch").children].forEach(b=>b.classList.toggle("on",b.dataset.m===m));
   if(m==="quiz")showQuizSetup();
-  if(m==="cards")showCardSetup();
+  if(m==="cards"){
+    const play=document.getElementById("cardPlay");
+    if(play.style.display==="none") startCards();
+  }
   if(m==="home")refreshHome();
   if(m==="browse")render();
   if(m==="list")renderUse();
 }
 document.getElementById("modeSwitch").addEventListener("click",e=>{if(e.target.tagName!=="BUTTON")return;setMode(e.target.dataset.m);});
+document.getElementById("goHome").onclick=()=>setMode("home");
+(function tickClock(){
+  const el=document.getElementById("clock");
+  if(el) el.textContent=new Date().toLocaleTimeString([], {hour:"numeric", minute:"2-digit"});
+  setTimeout(tickClock, 15000);
+})();
 
 document.addEventListener("keydown",e=>{
   if(e.target && (e.target.tagName==="INPUT"||e.target.tagName==="SELECT"||e.target.tagName==="TEXTAREA")) return;
