@@ -14,6 +14,12 @@ export function proxy(request: NextRequest) {
     pathname === "/search.html"
   )
     return NextResponse.next();
+  // Bare /search (no .html) used to get locale-prefixed into /ja/search → 404.
+  if (pathname === "/search" || pathname === "/search/") {
+    const url = request.nextUrl.clone();
+    url.pathname = "/search.html";
+    return NextResponse.redirect(url);
+  }
   const hasLocale = LOCALES.some(
     (locale) => pathname === `/${locale}` || pathname.startsWith(`/${locale}/`),
   );
