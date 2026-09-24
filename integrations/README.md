@@ -14,14 +14,16 @@
 
 ## ニュースサイト側（このリポジトリ）
 
-- ヘッダーに **X検索ツール** → 検索ツールへ
-
-環境変数:
+- ヘッダー／記事ページの **NyanChu検索する** → 検索ツールへ
+- 検索ツール本体は `public/search.html` として同サイト内で配信（デフォルト URL: `/search.html`）
+- 外部ホストに置く場合だけ環境変数で上書き:
 
 ```
-NEXT_PUBLIC_NYANCHU_URL=https://candid-cassata-bceae7.netlify.app
+NEXT_PUBLIC_NYANCHU_URL=https://（X検索ツールの独自ドメイン）
 NEXT_PUBLIC_SITE_URL=https://（NyanChuニュースサイトのURL）
 ```
+
+以前の Netlify デフォルト（`candid-cassata-bceae7.netlify.app`）はニュースサイト本体に上書きされて死んだため、同梱配信に切り替えました。Vercel に古い `NEXT_PUBLIC_NYANCHU_URL` が残っている場合は削除してください。
 
 ## X検索ツール側（1回だけ）
 

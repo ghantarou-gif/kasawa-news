@@ -10,7 +10,8 @@ export function proxy(request: NextRequest) {
     pathname === "/tetris.html" ||
     pathname === "/phrasebook.html" ||
     pathname === "/phrasebook-extra.js" ||
-    pathname === "/phrasebook.webmanifest"
+    pathname === "/phrasebook.webmanifest" ||
+    pathname === "/search.html"
   )
     return NextResponse.next();
   const hasLocale = LOCALES.some(
