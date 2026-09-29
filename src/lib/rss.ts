@@ -1,5 +1,6 @@
 import { cache } from "react";
-import { excerptFromBody, fetchArticleLead, paragraphsFromHtml, shouldExpandStory } from "./article-body";
+import { excerptFromBody, fetchArticleLead, fetchPublisherImage, paragraphsFromHtml, shouldExpandStory } from "./article-body";
+import { isPlaceholderImage } from "./card-image";
 import { FETCH_TIMEOUT_MS, isPaywalledText, isPaywalledUrl, PER_SOURCE_PER_DAY, REVALIDATE_SECONDS } from "./config";
 import { isJapaneseElectionArticle } from "./election";
 import { feedsForLocale, type Feed } from "./feeds";
@@ -103,6 +104,7 @@ function itemImage(block: string): string | null {
   for (const candidate of candidates) {
     if (candidate.startsWith("http://") || candidate.startsWith("https://")) {
       if (/\.(mp3|mp4|m4a|aac)(\?|$)/i.test(candidate)) continue;
+      if (isPlaceholderImage(candidate)) continue;
       return candidate;
     }
   }
@@ -319,26 +321,33 @@ export async function getArticleById(
   const items = await ingest(locale);
   const article = items.find((item) => item.id === articleId) ?? null;
   if (!article) return null;
-  if (!shouldExpandStory(article)) return article;
-  const current = (article.body || article.excerpt || "").trim();
-  const lead = await fetchArticleLead(article.url, article.title);
-  if (!lead) return article;
-  if (lead.length <= current.length + 40) {
-    const settled: Article = {
-      ...article,
-      body: article.body || lead,
-      bodyComplete: true,
-    };
-    await mergeArticles([settled]);
-    return settled;
+
+  let next = article;
+  if (shouldExpandStory(article)) {
+    const current = (article.body || article.excerpt || "").trim();
+    const lead = await fetchArticleLead(article.url, article.title);
+    if (lead && lead.length > current.length + 40) {
+      next = {
+        ...article,
+        body: lead,
+        excerpt: excerptFromBody(lead),
+        bodyComplete: true,
+      };
+    } else if (lead) {
+      next = {
+        ...article,
+        body: article.body || lead,
+        bodyComplete: true,
+      };
+    }
   }
-  const next: Article = {
-    ...article,
-    body: lead,
-    excerpt: excerptFromBody(lead),
-    bodyComplete: true,
-  };
-  await mergeArticles([next]);
+
+  if (isPlaceholderImage(next.image)) {
+    const image = await fetchPublisherImage(next.url);
+    if (image) next = { ...next, image };
+  }
+
+  if (next !== article) await mergeArticles([next]);
   return next;
 }
 

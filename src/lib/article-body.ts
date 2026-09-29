@@ -1,3 +1,4 @@
+import { imageFromHtml } from "./card-image";
 import { FETCH_TIMEOUT_MS, isPaywalledText, isPaywalledUrl, REVALIDATE_SECONDS } from "./config";
 
 const BOILERPLATE =
@@ -355,6 +356,18 @@ function extractPublisherStory(url: string, html: string, title: string): string
   const chunks = publisherChunks(url, html);
   if (chunks.length === 0) return "";
   return paragraphsFromHtml(chunks.join("\n"), title, true);
+}
+
+/** The photo the publisher page uses for its own share card. */
+export async function fetchPublisherImage(url: string): Promise<string | null> {
+  if (!url.startsWith("https://") || isPaywalledUrl(url)) return null;
+  try {
+    const html = await fetchHtml(url);
+    if (!html) return null;
+    return imageFromHtml(html, url);
+  } catch {
+    return null;
+  }
 }
 
 /** Reads the article text the publisher page actually contains. */
