@@ -81,8 +81,7 @@ const dictionary = {
     shareKicker: "Xに投稿",
     shareOnX: "Xでシェア",
     buzzShape: "構文で整える",
-    buzzHint:
-      "構文を選んでプロンプトをコピーし、Claudeの結果を貼ると、この記事のリンク付きでXを開けます。",
+    buzzHint: "構文を押すと、この記事の下書きがすぐ出ます。そのままXを開けます。",
     buzzCount: "本数",
     buzzCopyPrompt: "プロンプトをコピー",
     buzzCopyFailed: "コピーできませんでした",
@@ -167,8 +166,7 @@ const dictionary = {
     shareKicker: "Post on X",
     shareOnX: "Share on X",
     buzzShape: "Shape a post",
-    buzzHint:
-      "Pick syntaxes, copy the prompt, then paste the model's JSON. X opens with that text and this article link.",
+    buzzHint: "Tap a syntax and a draft of this article appears. Open it on X as-is.",
     buzzCount: "Count",
     buzzCopyPrompt: "Copy prompt",
     buzzCopyFailed: "Could not copy",

@@ -1,7 +1,13 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { buzzStyles, buildBuzzPrompt, parseBuzzPosts, type BuzzPost } from "@/lib/buzz-prompt";
+import {
+  buzzStyles,
+  buildBuzzPrompt,
+  draftBuzzPosts,
+  parseBuzzPosts,
+  type BuzzPost,
+} from "@/lib/buzz-prompt";
 import { t } from "@/lib/i18n";
 import type { Locale } from "@/lib/locale";
 
@@ -27,16 +33,21 @@ export function ArticleBuzz({
 }) {
   const copy = t(locale);
   const [open, setOpen] = useState(false);
-  const [selected, setSelected] = useState<string[]>(() => buzzStyles.map((style) => style.id));
+  const [selected, setSelected] = useState<string[]>([]);
   const [count, setCount] = useState<(typeof COUNTS)[number]>(10);
   const [paste, setPaste] = useState("");
-  const [posts, setPosts] = useState<BuzzPost[]>([]);
+  const [imported, setImported] = useState<BuzzPost[] | null>(null);
   const [notice, setNotice] = useState("");
 
   const source = useMemo(
     () => [title.trim(), excerpt?.trim()].filter(Boolean).join("\n\n"),
     [title, excerpt],
   );
+  const drafts = useMemo(
+    () => draftBuzzPosts(title, excerpt, selected, count),
+    [title, excerpt, selected, count],
+  );
+  const posts = imported ?? drafts;
 
   function flash(message: string) {
     setNotice(message);
@@ -63,7 +74,7 @@ export function ArticleBuzz({
         flash(copy.buzzBadJson);
         return;
       }
-      setPosts(next);
+      setImported(next);
       flash(copy.buzzImported.replace("{count}", String(next.length)));
     } catch {
       flash(copy.buzzBadJson);
@@ -71,6 +82,7 @@ export function ArticleBuzz({
   }
 
   function toggle(id: string) {
+    setImported(null);
     setSelected((current) =>
       current.includes(id) ? current.filter((item) => item !== id) : [...current, id],
     );
@@ -103,7 +115,10 @@ export function ArticleBuzz({
                 key={value}
                 type="button"
                 className={`chip ${count === value ? "chip-active" : ""}`}
-                onClick={() => setCount(value)}
+                onClick={() => {
+                  setImported(null);
+                  setCount(value);
+                }}
               >
                 {value}
               </button>
@@ -112,25 +127,10 @@ export function ArticleBuzz({
               {copy.buzzCopyPrompt}
             </button>
           </div>
-          <label className="mt-4 block text-[12px] text-muted" htmlFor="buzz-paste">
-            {copy.buzzPasteLabel}
-          </label>
-          <textarea
-            id="buzz-paste"
-            className="buzz-paste"
-            rows={5}
-            value={paste}
-            placeholder='{"posts":[{"text":"...","style":"...","tag":"breaking"}]}'
-            onChange={(event) => setPaste(event.target.value)}
-          />
-          <button type="button" className="ghost-btn mt-2" onClick={importPosts}>
-            {copy.buzzImport}
-          </button>
-          {notice ? <p className="mt-2 text-[13px] text-accent">{notice}</p> : null}
           {posts.length > 0 ? (
             <ol className="mt-4">
               {posts.map((post) => (
-                <li key={post.id} className="buzz-post">
+                <li key={`${post.id}-${post.style}`} className="buzz-post">
                   <p className="text-[11px] text-muted">
                     {post.style}
                     <span className="mx-2 text-ink/25">·</span>
@@ -154,7 +154,24 @@ export function ArticleBuzz({
                 </li>
               ))}
             </ol>
-          ) : null}
+          ) : (
+            <p className="mt-4 text-[13px] text-muted">{copy.buzzNeedStyle}</p>
+          )}
+          {notice ? <p className="mt-2 text-[13px] text-accent">{notice}</p> : null}
+          <details className="mt-4">
+            <summary className="cursor-pointer text-[12px] text-muted">{copy.buzzPasteLabel}</summary>
+            <textarea
+              id="buzz-paste"
+              className="buzz-paste"
+              rows={4}
+              value={paste}
+              placeholder='{"posts":[{"text":"...","style":"...","tag":"breaking"}]}'
+              onChange={(event) => setPaste(event.target.value)}
+            />
+            <button type="button" className="ghost-btn mt-2" onClick={importPosts}>
+              {copy.buzzImport}
+            </button>
+          </details>
         </div>
       ) : null}
     </div>

@@ -142,6 +142,91 @@ ${TEMPLATE_GUIDE}
 ${FORMAT_RULES}`;
 }
 
+function cleanTitle(title: string): string {
+  return title.replace(/[（(][^）)]*[）)]/g, "").replace(/\s+/g, " ").trim();
+}
+
+function sentences(excerpt: string): string[] {
+  return excerpt
+    .split(/[。！？\n]/)
+    .map((part) => part.trim())
+    .filter((part) => part.length > 0);
+}
+
+function clip(text: string, max: number): string {
+  const value = text.trim();
+  if (value.length <= max) return value;
+  return `${value.slice(0, max - 1)}…`;
+}
+
+function styleDraft(styleId: string, title: string, excerpt: string): string {
+  const head = cleanTitle(title) || title.trim();
+  const lines = sentences(excerpt);
+  const lead = lines[0] ?? "";
+  const more = lines.slice(0, 3);
+
+  switch (styleId) {
+    case "夏樹(数字砲弾)":
+      return clip(`${head}\n\n${lead}\n\nこれが日本の現実‼️`, 140);
+    case "夏樹(構造告発)":
+      return clip(`つまりこう言ってる→\n${head}`, 140);
+    case "夏樹(速報矢印)":
+      return clip(`↓↓↓\n${head}${lead ? `\n↓\n${lead}` : ""}`, 140);
+    case "夏樹(感情崩壊)":
+      return clip(`${head}\n\n…うがががぎぐぎが😡🤬‼️`, 140);
+    case "夏樹(問いかけ)":
+      return clip(`${head}\n\nこれ、生活は豊かになりましたか？`, 140);
+    case "夏樹(夢語り)":
+      return clip(`${head}\n\nそんな国にしなきゃダメだし、本当はなれるはず。`, 140);
+    case "夏樹(感動泣ける)":
+      return clip(`これ見て泣いた。\n\n${head}`, 140);
+    case "夏樹(余白ポエム)":
+      return clip(head.split(/\s+/).slice(0, 4).join("\n\n"), 80);
+    case "夏樹(絵文字ガン盛り)":
+      return clip(`🚨🚨🚨\n${head}\n🔥🔥🔥`, 140);
+    case "梅津(速報告発)":
+      return clip(`🔻${head}\n😨😡\n💢`, 140);
+    case "マスオ(庶民怒り)":
+      return clip(`${head}\n${lead}\n\nこれが日本のリアル。`, 140);
+    case "マスオ(比較ツッコミ)":
+      return clip(`${head}\n\nおかしくない？`, 140);
+    case "マスオ(深夜独白)":
+      return clip(`夜中にふと思った。\n${head}\n…わかんないけどさ。`, 140);
+    case "ゆるふわ怪電波":
+      return clip(`${head}\n想像の100倍でダメ💀`, 140);
+    case "あーぁ(議論まとめ)":
+      return clip(`【物議】🔥\n${head}\n\n←ｲﾏｺｺ📌`, 140);
+    case "あーぁ(時系列)":
+      return clip(
+        `【経緯まとめ】\n${[head, ...more].filter(Boolean).map((line) => `・${line}`).join("\n")}\n\nで、今ここ→`,
+        220,
+      );
+    case "あーぁ(問いかけ)":
+      return clip(`${head}\n\nこれってどう思う？🤔`, 140);
+    case "ガレソ(炎上まとめ)":
+      return clip(
+        `【悲報】\n${[head, ...more].filter(Boolean).map((line, index) => `${index + 1}. ${line}`).join("\n")}\n\n続報あり次第追記します`,
+        220,
+      );
+    default:
+      return clip(head, 140);
+  }
+}
+
+export function draftBuzzPosts(
+  title: string,
+  excerpt: string | null | undefined,
+  styles: string[],
+  count: number,
+): BuzzPost[] {
+  return styles.slice(0, count).map((styleId, index) => ({
+    id: index + 1,
+    text: styleDraft(styleId, title, excerpt ?? ""),
+    style: buzzStyles.find((style) => style.id === styleId)?.label ?? styleId,
+    tag: "hook",
+  }));
+}
+
 export function parseBuzzPosts(raw: string): BuzzPost[] {
   const match = raw.match(/\{[\s\S]*"posts"[\s\S]*\}/);
   if (!match) throw new Error("bad json");
