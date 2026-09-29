@@ -127,7 +127,13 @@ export default async function ArticlePage({
       </div>
 
       <section className="article-actions">
-        <ShareBar url={pageUrl} title={article.title} locale={locale} take={take} />
+        <ShareBar
+          url={pageUrl}
+          title={article.title}
+          excerpt={article.excerpt}
+          locale={locale}
+          take={take}
+        />
         <div className="action-row mt-3">
           <NyanchuSearchLink article={article} locale={locale} />
         </div>
