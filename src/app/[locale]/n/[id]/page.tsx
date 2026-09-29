@@ -8,6 +8,7 @@ import { NyanchuSearchLink } from "@/components/NyanchuSearchLink";
 import { ArticleBuzz } from "@/components/ArticleBuzz";
 import { ShareBar } from "@/components/ShareBar";
 import { decodeArticleId } from "@/lib/article-id";
+import { cardImageUrl, isPlaceholderImage } from "@/lib/card-image";
 import { genres, primaryGenre } from "@/lib/genres";
 import { t } from "@/lib/i18n";
 import { isLocale } from "@/lib/locale";
@@ -36,7 +37,9 @@ export async function generateMetadata({
       ? "記事の本文を表示しています。"
       : "The story text is on this page.");
 
-  const images = article.image ? [{ url: article.image, alt: article.title }] : undefined;
+  const photo =
+    article.image && !isPlaceholderImage(article.image) ? cardImageUrl(article.image, siteUrl()) : null;
+  const images = photo ? [{ url: photo, alt: article.title }] : undefined;
 
   return {
     title: article.title,
@@ -49,10 +52,10 @@ export async function generateMetadata({
       url: `${siteUrl()}/${locale}/n/${id}`,
     },
     twitter: {
-      card: article.image ? "summary_large_image" : "summary",
+      card: photo ? "summary_large_image" : "summary",
       title: article.title,
       description,
-      images: article.image ? [article.image] : undefined,
+      images: photo ? [photo] : undefined,
     },
   };
 }

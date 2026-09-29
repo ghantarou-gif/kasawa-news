@@ -1,5 +1,6 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
+import { isPlaceholderImage } from "./card-image";
 import { ARCHIVE_KEEP_MS, isPaywalledUrl } from "./config";
 import { feeds } from "./feeds";
 import { articleAgeMs } from "./time";
@@ -70,6 +71,12 @@ function longerText(next?: string, previous?: string): string {
   return incoming.length >= stored.length ? incoming : stored;
 }
 
+function preferImage(incoming: string | null, stored: string | null): string | null {
+  if (incoming && !isPlaceholderImage(incoming)) return incoming;
+  if (stored && !isPlaceholderImage(stored)) return stored;
+  return incoming || stored;
+}
+
 export async function mergeArticles(incoming: Article[]): Promise<Article[]> {
   return enqueue(async () => {
     const now = new Date().toISOString();
@@ -94,7 +101,7 @@ export async function mergeArticles(incoming: Article[]): Promise<Article[]> {
         publishedAt: article.publishedAt ?? previous.publishedAt,
         source: article.source,
         sourceId: article.sourceId,
-        image: article.image || previous.image,
+        image: preferImage(article.image, previous.image),
         desks: union(previous.desks, article.desks),
         locales: union(previous.locales, article.locales),
       });
