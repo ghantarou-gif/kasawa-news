@@ -81,6 +81,11 @@ a {
   white-space: nowrap;
 }
 
+button.chip {
+  font: inherit;
+  cursor: pointer;
+}
+
 .chip-nav {
   display: flex;
   gap: 0.5rem;
@@ -445,6 +450,33 @@ a {
 
 .affiliate-link:hover {
   background: var(--color-accent);
+}
+
+.buzz-paste {
+  width: 100%;
+  margin-top: 0.4rem;
+  border-radius: 0.75rem;
+  border: 1px solid var(--color-line);
+  background: var(--color-hero);
+  color: var(--color-ink);
+  padding: 0.7rem 0.85rem;
+  font-size: 13px;
+  line-height: 1.5;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+
+.buzz-paste:focus {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 1px;
+}
+
+.buzz-post {
+  padding: 0.9rem 0;
+  border-top: 1px solid var(--color-line);
+}
+
+.buzz-post .share-btn {
+  width: auto;
 }
 
 .article-actions {

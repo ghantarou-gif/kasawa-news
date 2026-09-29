@@ -5,6 +5,7 @@ import { AdSlot } from "@/components/AdSlot";
 import { AffiliateBlock } from "@/components/AffiliateBlock";
 import { RelatedStories } from "@/components/RelatedStories";
 import { NyanchuSearchLink } from "@/components/NyanchuSearchLink";
+import { ArticleBuzz } from "@/components/ArticleBuzz";
 import { ShareBar } from "@/components/ShareBar";
 import { decodeArticleId } from "@/lib/article-id";
 import { genres, primaryGenre } from "@/lib/genres";
@@ -127,12 +128,12 @@ export default async function ArticlePage({
       </div>
 
       <section className="article-actions">
-        <ShareBar
-          url={pageUrl}
+        <ShareBar url={pageUrl} title={article.title} locale={locale} take={take} />
+        <ArticleBuzz
           title={article.title}
           excerpt={article.excerpt}
+          url={pageUrl}
           locale={locale}
-          take={take}
         />
         <div className="action-row mt-3">
           <NyanchuSearchLink article={article} locale={locale} />
