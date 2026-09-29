@@ -1,100 +1,32 @@
 export const buzzStyles = [
-  { id: '夏樹(数字砲弾)', label: '🔥 数字砲弾' },
-  { id: '夏樹(構造告発)', label: '👹 構造告発' },
-  { id: '夏樹(速報矢印)', label: '↓↓ 速報矢印' },
-  { id: '夏樹(感情崩壊)', label: '🤬 感情崩壊' },
-  { id: '夏樹(問いかけ)', label: '❓ 問いかけ' },
-  { id: '夏樹(夢語り)', label: '💭 夢語り' },
-  { id: '夏樹(感動泣ける)', label: '😭 感動泣ける' },
-  { id: '夏樹(余白ポエム)', label: '🌙 余白ポエム' },
-  { id: '夏樹(絵文字ガン盛り)', label: '🚨 絵文字ガン盛り' },
-  { id: '梅津(速報告発)', label: '🔻 速報告発' },
-  { id: 'マスオ(庶民怒り)', label: '💴 庶民怒り' },
-  { id: 'マスオ(比較ツッコミ)', label: '⚖️ 比較ツッコミ' },
-  { id: 'マスオ(深夜独白)', label: '🌃 深夜独白' },
-  { id: 'ゆるふわ怪電波', label: '💀 怪電波' },
-  { id: 'あーぁ(議論まとめ)', label: '📌 議論まとめ' },
-  { id: 'あーぁ(時系列)', label: '📅 時系列' },
-  { id: 'あーぁ(問いかけ)', label: '🤔 問いかけ' },
-  { id: 'ガレソ(炎上まとめ)', label: '🔥 炎上まとめ' },
+  { id: "先にオチ", label: "先にオチ" },
+  { id: "落差", label: "落差" },
+  { id: "数字", label: "数字" },
+  { id: "つまり", label: "つまり" },
+  { id: "発言", label: "発言だけ" },
+  { id: "時系列", label: "時系列" },
+  { id: "財布", label: "自分の財布" },
+  { id: "問い", label: "問い一つ" },
+  { id: "余白", label: "余白" },
+  { id: "淡々", label: "淡々" },
 ] as const;
 
 export type BuzzStyleId = (typeof buzzStyles)[number]["id"];
 
-const STYLE_DEFS = `1. 夏樹(数字砲弾): 数字3つ以上で常識を破壊。「これが日本の現実‼️」で締め。絵文字5個以上🔥😱‼️💢📉
-2. 夏樹(構造告発): 「つまりこう言ってる→」で権力者の発言を皮肉翻訳。‼️👹💢🚨
-3. 夏樹(速報矢印): ↓↓↓で展開。時系列で悪化→皮肉オチ。スクショ前提
-4. 夏樹(感情崩壊): 途中まで冷静→「うがががぎぐぎが😡🤬👹‼️」で感情爆発。絵文字8個以上
-5. 夏樹(問いかけ): 「〜の皆様へ。生活は豊かになりましたか？」短く刺す。絵文字なし
-6. 夏樹(夢語り): 「そんな国にしなきゃダメだし本当はなれるはず」理想→現実の落差
-7. 夏樹(感動泣ける): 「これ見て泣いた。」行間空け余韻。🥺😭✨
-8. 夏樹(余白ポエム): 1行書いて2行空け。10文字以内。体言止め。絵文字ゼロ。最後で刺す
-9. 夏樹(絵文字ガン盛り): 🚨🚨🚨で始まり🔥🔥🔥で終わる。全行に絵文字3個以上
-10. 梅津(速報告発): 🔻+事実+感情絵文字😨😡🤬の繰り返し→怒りの一言💢
-11. マスオ(庶民怒り): 庶民目線告発。具体金額+箇条書き→「これが日本のリアル。」「そりゃ金なくなるよ!!!!」絵文字なし
-12. マスオ(比較ツッコミ): 「〜には○○なのに、〜には△△」矛盾を並べて「おかしくない？」絵文字なし
-13. マスオ(深夜独白): 「夜中にふと思った」本音。結論出さない。「…わかんないけどさ。」絵文字ゼロ
-14. ゆるふわ怪電波: 「想像の100倍でダメ💀」ニュース+脱力一言。自虐オチ
-15. あーぁ(議論まとめ): 【物議】🔥→「〜派」vs「〜派」→←ｲﾏｺｺ📌 答え出さない
-16. あーぁ(時系列): 【経緯まとめ】→時系列で事実→「で、今ここ→」感情入れない
-17. あーぁ(問いかけ): 事実1〜2行→「これってどう思う？🤔」意見言わない
-18. ガレソ(炎上まとめ): 【悲報】①②③④で経緯整理。淡々と。「続報あり次第追記します」`;
+const STYLE_DEFS = `1. 先にオチ: いちばん具体的な結末を1行目。空行。その直前の事実を1文。感想は足さない。
+2. 落差: 記事にある対比（なのに／一方／しかし）はその文のまま。対比がなければ事実を2つ、空行で並べる。対比の言葉は足さない。
+3. 数字: 記事にある数字を1行目。空行。その数字が出てくる文。数字がなければ見出しだけ。
+4. つまり: 「つまり、」のあとに見出しの主張だけ。
+5. 発言: かぎ括弧の発言だけを1行目。空行。その次の事実を1文。発言がなければ、数字のある文か短い事実を1文。
+6. 時系列: 事実を最大3つ、起きた順。最後の前だけ空行。感情は入れない。220字まで。
+7. 財布: 円の金額を1行目。空行。その金額が出てくる文。円がなければ見出しだけ。別の金額に換算しない。
+8. 問い: 事実を1文。空行。問いを1つだけ。円・税なら「誰が払う」。人なら「どこへ行く」。年・期限なら「まだ間に合う」。方針・検討なら「いつ決まる」。どれもなければ「誰が得する」。
+9. 余白: 見出しを2〜3切れ。切れのあいだは空行。絵文字なし。
+10. 淡々: 記事の文だけを最大3つ並べる。反応は足さない。`;
 
-const TECHNIQUES = `【伝え方が9割 — 10の武器（1ポストに2〜3個まで。全部入りは逆効果。武器は選んで絞れ）】
-
-ギャップ法: A事実とB事実の落差で殴る。「〇〇に△億使うくせに□□はたった××万」。落差がないポストは存在しないのと同じ。落差のないポストは誰の心も動かさない。
-
-ナンバー法: 数字は最強の武器。抽象を一発で具体に変える。1ポストに最低3箇所。「すごい」と書くな、数字を出せ。数字がない怒りはただの愚痴。数字がある怒りは証拠になる。
-
-サプライズ法: 読者の予想を裏切れ。怒りの文脈で急にトーンを下げろ。感動の文脈でふざけろ。予想通りの着地はスクロールされて消える。裏切った瞬間、指が止まる。
-
-赤裸裸法: 身体感覚で殴れ。1行目の仕事はこれだ。「心臓がバクバクした」「胸がギュッてなった」「手が震えた」。頭じゃなくて身体に訴えろ。理屈の前に身体が反応したら勝ちだ。
-
-上位赤裸裸法: 自分じゃなく「相手の身体」を描写しろ。これが最強。「管だらけの手を握ったら冷たかった」「知らない人みたいに小さくなってた」。これを読んで平気な人間はいない。感情の核爆弾。使えるなら迷わず使え。
-
-クライマックス法: 最も衝撃的な事実を最後にぶちこめ。小さい事実を積み上げて、最後にドカンと落とす。「まさか」と思った瞬間にはもうRTボタン押してる。その「まさか」を設計しろ。
-
-リバースクライマックス法: 長文なら逆だ。最大衝撃を1行目に叩け。冒頭で心を掴めなかったら最後まで読まれない。1行目で勝負は決まる。2行目はもう「読んでもらえたらラッキー」だと思え。
-
-リピート法: 同じ構文を並べて畳みかけろ。リズムが感情を増幅する。「毎朝。毎夕。暑い日も。寒い日も。雨の日も。」3回で気づく。5回で鳥肌が立つ。10回で泣く。それがリピートの暴力だ。
-
-合体法: 無関係な2つの事実をぶつけろ。矛盾が爆発する。1つじゃ弱い事実でも、2つ並べた瞬間にこの国の歪みが浮かび上がる。並べるだけで怒りが湧く。
-
-生活換算法: 数字がデカすぎてピンとこないなら日常に変換しろ。「年間〇〇万＝中古の車1台分」「月額△△円＝毎日コンビニ弁当1個分」。自分の財布と繋がった瞬間、他人事が自分事に変わる。それがバズの瞬間だ。`;
-
-const TONE_GUIDE = `【トーン定義】
-男・ストレート: 断定。皮肉。数字で殴る。「〜だろ」「〜じゃん」。感情を抑えて事実の重さだけで押す。冷たいほど怖い。
-女・かわいい: やわらかく問いかける。守りたくなる空気を作る。「〜なの」「ね…？」「〜の…💕」。そこに涙を一滴落とせ。一気に心を持っていける。
-おふざけ: 短い。バカ。勢いだけ。考えさせたら負け。3秒で笑えないなら書き直せ。
-激怒: 🚨連打。？連打。文字の暴力。「は？？？」「ふざけるな‼️‼️‼️」。絵文字が弾丸。句読点が爆発。読者の中の怒りに火をつけろ。
-淡々・知的: 事実だけ。感情ゼロ。だから逆に一番怖い。「〜らしい」「〜だった」。冷静に並べた数字が、読者の中で勝手に爆発する。
-一人称告白: 過去形。体言止め。声が震えてる文体。「〜だった」「〜した」。カッコつけるな。素の言葉が一番泣ける。`;
-
-const TEMPLATE_GUIDE = `【テンプレート（伝え方が9割の組み合わせ）】
-
-🔥超激怒: リバースクライマックスで1行目に最大衝撃。赤裸裸法で背景を描写。ナンバー法で証拠を叩きつけろ。相手の発言を引用してそのままぶっ壊せ。超短文で突き放せ（「以上。」「終わり。」）。怒りの頂点まで一気に駆け上がれ。最後は問いかけで読者の胸に刺して終われ。感情爆発は1〜2箇所に絞れ。連発するとくどくなる。全部怒りにするな、悲しみで締めると刺さる。
-
-😏皮肉: ギャップ法の極致。A事実とB事実を並べるだけ。自分の意見は一切言うな。読者が勝手に怒る。意見がないから誰でもRTできる。オチはトーンダウン（「謎の国」「逆にすごい」）。型：ダブスタ/犠牲者すり替え/本末転倒/数字の暴力/時系列矛盾/感覚マヒ暴露/国際比較
-
-😭感動: 赤裸裸法＋上位赤裸裸法＋当事者セリフ間接引用。この三種の神器で泣かせろ。人物ストーリー：逆境→当事者の控えめなセリフ→名前で人格化して締め。核心：読者が自分の人生を重ねる瞬間を作れ。美談より罪→贖罪が100倍刺さる。
-
-😱衝撃: 表の数字で終わるな。裏の数字を掘れ。「え、そうなの？」がないポストは価値ゼロ。ディストピア予言：現在の問題を未来に外挿→具体年号で恐怖を具体化して締め。
-
-🥹ほっこり: テキスト最小。画像が全て。語尾「〜なの」「ね…？」「〜の…💕」。毒を完全に抜き、他ジャンルの激しい投稿との強烈なコントラストだけを作れ。
-
-🇯🇵愛国: 敗戦の美学：相手スペック畳みかけ→「胸張っていい」。負けをポジティブに転換。感動→愛国ブリッジ：日常の英雄→世界比較→「日本ってすごい国」で着地。`;
-
-const FORMAT_RULES = `【出力フォーマット（JSONのみ・厳守）】
-形式: {"posts":[{"id":1,"text":"本文\\n続き","style":"スタイル名","tag":"breaking"},...]}
-tag: breaking/analysis/opinion/hook
-・ポスト内の改行は \\n で表現
-・箇条書きの各項目は \\n で改行
-・感情の切り替わり・事実列挙・締めの前は \\n\\n で空行
-・改行なしのベタ書き禁止
-
-【絶対NG】
-特定個人攻撃禁止（構造を批判しろ）/ 命令形・上から目線禁止 / 政党名出すな
-未確認情報禁止 / テクニック名を本文に出すな / 「」を使え（""は不可）`;
+const FORMAT_RULES = `{"posts":[{"id":1,"text":"本文","style":"構文名","tag":"hook"}]}
+・改行は \\n、空行は \\n\\n
+・tag は hook`;
 
 export type BuzzPost = {
   id: number;
@@ -104,40 +36,27 @@ export type BuzzPost = {
 };
 
 export function buildBuzzPrompt(topic: string, styles: string[], count: number): string {
-  const chosen = styles.length ? styles : ["夏樹(数字砲弾)", "マスオ(庶民怒り)", "あーぁ(時系列)"];
+  const chosen = styles.length ? styles : ["先にオチ", "落差", "つまり"];
   const perStyle = Math.max(1, Math.floor(count / chosen.length));
-  const subject = topic.trim() || "日本の時事ニュース、経済、社会問題";
-  return `以下のニュース/キーワードを元に、Xでバズるポストを${count}個生成して。JSONのみ返す。
+  const subject = topic.trim() || "（記事本文）";
+  return `以下の記事だけを材料に、Xの投稿を${count}本書いて。JSONだけ返す。
 
-【絶対法則】
-読んだ人の感情を動かし、誰かに届けたくなる。それだけがバズの正体。テクニックじゃない、感情だ。
-読者を傍観者にするな。「じゃあ自分は？」で当事者にしろ。「明日これをやれ」で行動者にしろ。
-1本1本の言葉の鋭さと完成度を極限まで高めろ。妥協は一切許さない。
-画像が強いならテキストは見出しだけでいい。文字が多いほど弱くなる。
-
-【ニュース/キーワード】
+【記事】
 ${subject}
 
-【スタイル一覧】
+【構文】
 ${STYLE_DEFS}
 
-【使用スタイル】
+【使う構文】
 ${chosen.join("、")}
-※各スタイルを均等に使用（各約${perStyle}個）
+各構文をだいたい${perStyle}本。1本につき構文は1つ。
 
 【ルール】
-・各ポスト140字以内
-・各スタイルの特徴を忠実に再現
-・全て自然な日本語の話し言葉
-・皮肉/毒舌/政府批判OK
-・共通の敵設定（政府/官僚/大企業）
-・エコーチェンバー最適化：内集団バイアス/確証バイアス/感情伝染を意識
-
-${TECHNIQUES}
-
-${TONE_GUIDE}
-
-${TEMPLATE_GUIDE}
+・記事に書いてある事実だけ使う
+・数字、発言、金額を作らない
+・「これが日本の現実」「うががが」「生活は豊かになりましたか」「想像の100倍でダメ」で締めない
+・各投稿140字以内。時系列だけ220字まで
+・話し言葉。絵文字は足さない
 
 ${FORMAT_RULES}`;
 }
@@ -147,67 +66,205 @@ function cleanTitle(title: string): string {
 }
 
 function sentences(excerpt: string): string[] {
-  return excerpt
-    .split(/[。！？\n]/)
-    .map((part) => part.trim())
-    .filter((part) => part.length > 0);
+  const seen = new Set<string>();
+  const out: string[] = [];
+  for (const part of excerpt.split(/[。！？\n]/)) {
+    const text = part.replace(/\s+/g, " ").trim();
+    if (text.length < 8) continue;
+    if (/放送分|著作権|写真は|画像は|画像提供|関連記事|続きを読む/.test(text)) continue;
+    if (seen.has(text)) continue;
+    seen.add(text);
+    out.push(text);
+  }
+  return out;
+}
+
+function withPeriod(text: string): string {
+  const value = text.trim();
+  if (!value) return value;
+  return /[。！？」]$/.test(value) ? value : `${value}。`;
 }
 
 function clip(text: string, max: number): string {
   const value = text.trim();
   if (value.length <= max) return value;
-  return `${value.slice(0, max - 1)}…`;
+  const cut = value.slice(0, max);
+  const marks = ["。", "\n", "」", "！", "？", "、"];
+  let best = -1;
+  for (const mark of marks) {
+    const at = cut.lastIndexOf(mark);
+    if (at > best) best = at;
+  }
+  if (best >= 40) {
+    const end = cut[best] === "\n" ? best : best + 1;
+    return cut.slice(0, end).trim();
+  }
+  return `${cut.slice(0, max - 1).trim()}…`;
+}
+
+function figuresIn(text: string): string[] {
+  const re =
+    /[0-9０-９]+(?:[,，][0-9０-９]{3})*(?:[.．][0-9０-９]+)?[万億兆]?(?:円|％|%|人|件|年|倍|社|ポイント|ドル)?/g;
+  const out: string[] = [];
+  for (const match of text.matchAll(re)) {
+    const token = match[0].replace(/[,，\s]/g, "");
+    const digits = token.replace(/[^0-9０-９]/g, "");
+    if (/^[12１２][0-9０-９]{3}年?$/.test(token)) continue;
+    const hasUnit = /[円％%人件倍社]|ポイント|ドル|[万億兆]/.test(token);
+    if (/年$/.test(token) && digits.length > 2) continue;
+    if (!hasUnit && digits.length < 3) continue;
+    out.push(token);
+  }
+  return out;
+}
+
+function bestFigure(text: string, yenOnly: boolean): string | null {
+  const all = figuresIn(text);
+  const yen = all.filter((token) => token.includes("円"));
+  if (yenOnly) return yen[0] ?? null;
+  return yen[0] ?? all[0] ?? null;
+}
+
+function digitsOf(token: string): string {
+  return token.replace(/[^0-9０-９]/g, "");
+}
+
+function lineWith(lines: string[], head: string, token: string): string {
+  const digits = digitsOf(token);
+  return lines.find((line) => line.includes(digits)) ?? (head.includes(digits) ? head : lines[0] ?? head);
+}
+
+function titleFragments(title: string): string[] {
+  const head = cleanTitle(title);
+  const spaced = head
+    .split(/[\s　、。・／/|｜]+/)
+    .map((part) => part.trim())
+    .filter((part) => part.length >= 2);
+  if (spaced.length >= 2) return spaced.slice(0, 3);
+  const chunks: string[] = [];
+  let rest = head;
+  while (rest.length > 8 && chunks.length < 2) {
+    const rel = rest.slice(4, 16).search(/[はがをにでとへ]/);
+    if (rel < 0) break;
+    const at = 4 + rel + 1;
+    chunks.push(rest.slice(0, at).trim());
+    rest = rest.slice(at).trim();
+  }
+  if (rest) chunks.push(rest);
+  const usable = chunks.filter((part) => part.length >= 2);
+  return (usable.length >= 2 ? usable : [head]).slice(0, 3);
+}
+
+function sharpest(lines: string[], head: string): string {
+  const numbered = lines.find((line) => bestFigure(line, false));
+  if (numbered) return numbered;
+  return lines[0] || head;
+}
+
+function punchDraft(lines: string[], head: string): string {
+  const concrete = lines.filter((line) => !line.includes("「"));
+  const pool = concrete.length ? concrete : lines;
+  if (!pool.length) return clip(head, 140);
+  const punch = pool[pool.length - 1];
+  const cause = pool.length > 1 ? pool[pool.length - 2] : "";
+  if (!cause) return clip(withPeriod(punch), 140);
+  return clip(`${withPeriod(punch)}\n\n${withPeriod(cause)}`, 140);
+}
+
+function gapDraft(lines: string[], head: string): string {
+  const contrast = lines.find((line) => /なのに|一方|しかし|にもかかわらず|反面/.test(line));
+  if (contrast) return clip(withPeriod(contrast), 140);
+  const facts = lines.length ? lines : [head];
+  if (facts.length < 2) return clip(withPeriod(facts[0] ?? head), 140);
+  const numbered = facts.find((line) => bestFigure(line, false));
+  const first = numbered ?? facts[0];
+  const second = facts.find((line) => line !== first);
+  if (!second) return clip(withPeriod(first), 140);
+  return clip(`${withPeriod(first)}\n\n${withPeriod(second)}`, 140);
+}
+
+function numberDraft(lines: string[], head: string): string {
+  const figure = bestFigure(`${head}\n${lines.join("\n")}`, false);
+  if (!figure) return clip(head, 140);
+  const owner = lineWith(lines, head, figure);
+  return clip(`${figure}。\n\n${withPeriod(owner)}`, 140);
+}
+
+function quoteDraft(lines: string[], head: string): string {
+  const found = lines.join("\n").match(/「([^」]{4,120})」/);
+  if (!found) return clip(withPeriod(sharpest(lines, head)), 140);
+  const quote = `「${found[1].trim()}」`;
+  const index = lines.findIndex((line) => line.includes(found[1]));
+  const follow =
+    lines.slice(index + 1).find((line) => !line.includes("「")) ??
+    lines.slice(0, Math.max(index, 0)).reverse().find((line) => !line.includes("「"));
+  if (!follow) return clip(quote, 140);
+  return clip(`${quote}\n\n${withPeriod(follow)}`, 140);
+}
+
+function timelineDraft(lines: string[], head: string): string {
+  const beats = (lines.length ? lines : [head]).slice(0, 3).map(withPeriod);
+  if (beats.length === 1) return clip(beats[0], 220);
+  const earlier = beats.slice(0, -1).join("\n");
+  return clip(`${earlier}\n\n${beats[beats.length - 1]}`, 220);
+}
+
+function walletDraft(lines: string[], head: string): string {
+  const figure = bestFigure(`${head}\n${lines.join("\n")}`, true);
+  if (!figure) return clip(head, 140);
+  const owner = lineWith(lines, head, figure);
+  return clip(`${figure}。\n\n${withPeriod(owner)}`, 140);
+}
+
+function mentionsPeople(text: string): boolean {
+  return /[0-9０-９]+人(?!員)|人々|(?<![員法])人が|(?<![員])人は|(?<![員])人を/.test(text);
+}
+
+function askDraft(lines: string[], head: string): string {
+  const pool = [...lines, head].filter((line) => line.length > 0);
+  const joined = pool.join("\n");
+  let question = "誰が得する";
+  let fact = lines[0] || head;
+  if (/円|税/.test(joined)) {
+    question = "誰が払う";
+    fact = pool.find((line) => /円|税/.test(line)) ?? fact;
+  } else if (mentionsPeople(joined)) {
+    question = "どこへ行く";
+    fact = pool.find((line) => mentionsPeople(line)) ?? fact;
+  } else if (/(?<![0-9０-９])[0-9０-９]{1,2}年|期限|年内|までに/.test(joined)) {
+    question = "まだ間に合う";
+    fact = pool.find((line) => /(?<![0-9０-９])[0-9０-９]{1,2}年|期限|年内|までに/.test(line)) ?? fact;
+  } else if (/方針|検討/.test(joined)) {
+    question = "いつ決まる";
+    fact = pool.find((line) => /方針|検討/.test(line)) ?? fact;
+  }
+  return clip(`${withPeriod(fact)}\n\n${question}。`, 140);
 }
 
 function styleDraft(styleId: string, title: string, excerpt: string): string {
   const head = cleanTitle(title) || title.trim();
   const lines = sentences(excerpt);
-  const lead = lines[0] ?? "";
-  const more = lines.slice(0, 3);
-
   switch (styleId) {
-    case "夏樹(数字砲弾)":
-      return clip(`${head}\n\n${lead}\n\nこれが日本の現実‼️`, 140);
-    case "夏樹(構造告発)":
-      return clip(`つまりこう言ってる→\n${head}`, 140);
-    case "夏樹(速報矢印)":
-      return clip(`↓↓↓\n${head}${lead ? `\n↓\n${lead}` : ""}`, 140);
-    case "夏樹(感情崩壊)":
-      return clip(`${head}\n\n…うがががぎぐぎが😡🤬‼️`, 140);
-    case "夏樹(問いかけ)":
-      return clip(`${head}\n\nこれ、生活は豊かになりましたか？`, 140);
-    case "夏樹(夢語り)":
-      return clip(`${head}\n\nそんな国にしなきゃダメだし、本当はなれるはず。`, 140);
-    case "夏樹(感動泣ける)":
-      return clip(`これ見て泣いた。\n\n${head}`, 140);
-    case "夏樹(余白ポエム)":
-      return clip(head.split(/\s+/).slice(0, 4).join("\n\n"), 80);
-    case "夏樹(絵文字ガン盛り)":
-      return clip(`🚨🚨🚨\n${head}\n🔥🔥🔥`, 140);
-    case "梅津(速報告発)":
-      return clip(`🔻${head}\n😨😡\n💢`, 140);
-    case "マスオ(庶民怒り)":
-      return clip(`${head}\n${lead}\n\nこれが日本のリアル。`, 140);
-    case "マスオ(比較ツッコミ)":
-      return clip(`${head}\n\nおかしくない？`, 140);
-    case "マスオ(深夜独白)":
-      return clip(`夜中にふと思った。\n${head}\n…わかんないけどさ。`, 140);
-    case "ゆるふわ怪電波":
-      return clip(`${head}\n想像の100倍でダメ💀`, 140);
-    case "あーぁ(議論まとめ)":
-      return clip(`【物議】🔥\n${head}\n\n←ｲﾏｺｺ📌`, 140);
-    case "あーぁ(時系列)":
-      return clip(
-        `【経緯まとめ】\n${[head, ...more].filter(Boolean).map((line) => `・${line}`).join("\n")}\n\nで、今ここ→`,
-        220,
-      );
-    case "あーぁ(問いかけ)":
-      return clip(`${head}\n\nこれってどう思う？🤔`, 140);
-    case "ガレソ(炎上まとめ)":
-      return clip(
-        `【悲報】\n${[head, ...more].filter(Boolean).map((line, index) => `${index + 1}. ${line}`).join("\n")}\n\n続報あり次第追記します`,
-        220,
-      );
+    case "先にオチ":
+      return punchDraft(lines, head);
+    case "落差":
+      return gapDraft(lines, head);
+    case "数字":
+      return numberDraft(lines, head);
+    case "つまり":
+      return clip(`つまり、${head.replace(/[。！？]+$/g, "")}。`, 140);
+    case "発言":
+      return quoteDraft(lines, head);
+    case "時系列":
+      return timelineDraft(lines, head);
+    case "財布":
+      return walletDraft(lines, head);
+    case "問い":
+      return askDraft(lines, head);
+    case "余白":
+      return clip(titleFragments(head).join("\n\n"), 140);
+    case "淡々":
+      return clip((lines.length ? lines : [head]).slice(0, 3).map(withPeriod).join("\n"), 140);
     default:
       return clip(head, 140);
   }
