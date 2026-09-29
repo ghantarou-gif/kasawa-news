@@ -11,7 +11,8 @@ export function proxy(request: NextRequest) {
     pathname === "/phrasebook.html" ||
     pathname === "/phrasebook-extra.js" ||
     pathname === "/phrasebook.webmanifest" ||
-    pathname === "/search.html"
+    pathname === "/search.html" ||
+    pathname === "/buzz.html"
   )
     return NextResponse.next();
   // Bare /search (no .html) used to get locale-prefixed into /ja/search → 404.

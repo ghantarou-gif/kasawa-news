@@ -16,6 +16,17 @@ const nextConfig: NextConfig = {
         destination: "/search.html",
         permanent: false,
       },
+      { source: "/buzz", destination: "/buzz.html", permanent: false },
+      {
+        source: "/:locale(ja|en)/buzz",
+        destination: "/buzz.html",
+        permanent: false,
+      },
+      {
+        source: "/:locale(ja|en)/buzz.html",
+        destination: "/buzz.html",
+        permanent: false,
+      },
     ];
   },
 };

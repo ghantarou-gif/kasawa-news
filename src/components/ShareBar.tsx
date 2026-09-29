@@ -16,11 +16,13 @@ export function ShareBar({
   title,
   locale,
   take,
+  excerpt,
 }: {
   url: string;
   title: string;
   locale: Locale;
   take?: string | null;
+  excerpt?: string | null;
 }) {
   const copy = t(locale);
   const [copied, setCopied] = useState(false);
@@ -40,6 +42,14 @@ export function ShareBar({
     () => xIntentUrl(tweetText, shareUrl),
     [tweetText, shareUrl],
   );
+
+  const buzzHref = useMemo(() => {
+    const source = [title.trim(), excerpt?.trim()].filter(Boolean).join("\n\n");
+    const params = new URLSearchParams();
+    params.set("text", source.slice(0, 1200));
+    if (shareUrl) params.set("url", shareUrl);
+    return `/buzz.html?${params.toString()}`;
+  }, [title, excerpt, shareUrl]);
 
   const copyLink = useCallback(async () => {
     try {
@@ -71,6 +81,9 @@ export function ShareBar({
           className="share-btn share-btn-x"
         >
           {copy.shareOnX}
+        </a>
+        <a href={buzzHref} className="ghost-btn">
+          {copy.buzzShape}
         </a>
         <button type="button" onClick={copyLink} className="share-btn share-btn-ghost">
           {copied ? copy.copied : copy.copyLink}
