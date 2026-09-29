@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useMemo, useRef, useState } from "react";
 import {
   buzzStyles,
   buildBuzzPrompt,
@@ -38,6 +38,7 @@ export function ArticleBuzz({
   const [paste, setPaste] = useState("");
   const [imported, setImported] = useState<BuzzPost[] | null>(null);
   const [notice, setNotice] = useState("");
+  const noticeTimer = useRef(0);
 
   const source = useMemo(
     () => [title.trim(), excerpt?.trim()].filter(Boolean).join("\n\n"),
@@ -51,7 +52,8 @@ export function ArticleBuzz({
 
   function flash(message: string) {
     setNotice(message);
-    window.setTimeout(() => setNotice(""), 2200);
+    window.clearTimeout(noticeTimer.current);
+    noticeTimer.current = window.setTimeout(() => setNotice(""), 2800);
   }
 
   async function copyPrompt() {
