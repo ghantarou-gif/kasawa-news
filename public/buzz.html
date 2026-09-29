@@ -128,7 +128,7 @@ textarea:focus, select:focus { border-color: var(--accent); }
           </div>
         </div>
         <div>
-          <label class="fl">投稿の構文（10種）</label>
+          <label class="fl">投稿の構文</label>
           <div class="style-grid" id="styleGrid"></div>
         </div>
       </div>
@@ -165,9 +165,9 @@ textarea:focus, select:focus { border-color: var(--accent); }
 <div class="toast" id="toast"></div>
 <script>
 let postCount = 50;
-const STYLE_LIST = ['先にオチ','落差','数字','つまり','発言','時系列','財布','問い','余白','淡々'];
+const STYLE_LIST = ['あーぁ','いちか','ソラピヨ'];
 const STYLE_LABEL = {
-  '先にオチ':'先にオチ','落差':'落差','数字':'数字','つまり':'つまり','発言':'発言だけ','時系列':'時系列','財布':'自分の財布','問い':'問い一つ','余白':'余白','淡々':'淡々'
+  'あーぁ':'あーぁ','いちか':'いちか','ソラピヨ':'ソラピヨ'
 };
 let selectedStyles = STYLE_LIST.slice();
 let generatedPosts = [];
@@ -198,16 +198,9 @@ function showToast(msg) {
 }
 function setLog(msg) { document.getElementById('logText').textContent = msg; }
 
-const STYLE_DEFS = `1. 先にオチ: いちばん具体的な結末を1行目。空行。その直前の事実を1文。感想は足さない。
-2. 落差: 記事にある対比（なのに／一方／しかし）はその文のまま。対比がなければ事実を2つ、空行で並べる。対比の言葉は足さない。
-3. 数字: 記事にある数字を1行目。空行。その数字が出てくる文。数字がなければ見出しだけ。
-4. つまり: 「つまり、」のあとに見出しの主張だけ。
-5. 発言: かぎ括弧の発言だけを1行目。空行。その次の事実を1文。発言がなければ、数字のある文か短い事実を1文。
-6. 時系列: 事実を最大3つ、起きた順。最後の前だけ空行。感情は入れない。220字まで。
-7. 財布: 円の金額を1行目。空行。その金額が出てくる文。円がなければ見出しだけ。別の金額に換算しない。
-8. 問い: 事実を1文。空行。問いを1つだけ。円・税なら「誰が払う」。人なら「どこへ行く」。年・期限なら「まだ間に合う」。方針・検討なら「いつ決まる」。どれもなければ「誰が得する」。
-9. 余白: 見出しを2〜3切れ。切れのあいだは空行。絵文字なし。
-10. 淡々: 記事の文だけを最大3つ並べる。反応は足さない。`;
+const STYLE_DEFS = `1. あーぁ: 1行目は【悲報】か【朗報】か【場面】。中身は記事の事実を「・」で最大4つ。発言は「」のまま1行。記事に「一方」「しかし」「なのに」があるときは、その前後を「↓」でつなぐ。箇条のあとに決まり文句は足さない。
+2. いちか: 発言があるときは「」を先に置く。空行。「だったら、」のあとは、記事の別の事実を1文。発言がなければ、結末を1行、空行、主体。記事にない感情語は足さない。
+3. ソラピヨ: 1行目は問い。数字があるなら「なんで{その数字}も{記事にある動作}するの？」。発言があって数字がなければ「{発言}」ってどういうこと？。空行。【主体】。その下に事実を短く。転回は「▶︎」。数字も発言もなければ、見出しを問いにして事実を積む。`;
 
 const FORMAT_RULES = `{"posts":[{"id":1,"text":"本文","style":"構文名","tag":"hook"}]}
 ・改行は \\n、空行は \\n\\n
@@ -216,16 +209,16 @@ const FORMAT_RULES = `{"posts":[{"id":1,"text":"本文","style":"構文名","tag
 
 function buildGenPrompt() {
   var topic = document.getElementById('inputText').value.trim() || '（記事本文）';
-  var styles = selectedStyles.length ? selectedStyles : ['先にオチ','落差','つまり'];
+  var styles = selectedStyles.length ? selectedStyles : ['あーぁ','いちか','ソラピヨ'];
   var perStyle = Math.max(1, Math.floor(postCount / styles.length));
-  return '以下の記事だけを材料に、Xの投稿を' + postCount + '本書いて。JSONだけ返す。\n\n【記事】\n' + topic + '\n\n【構文】\n' + STYLE_DEFS + '\n\n【使う構文】\n' + styles.join('、') + '\n各構文をだいたい' + perStyle + '本。1本につき構文は1つ。\n\n【ルール】\n・記事に書いてある事実だけ使う\n・数字、発言、金額を作らない\n・「これが日本の現実」「うががが」「生活は豊かになりましたか」「想像の100倍でダメ」で締めない\n・各投稿140字以内。時系列だけ220字まで\n・話し言葉。絵文字は足さない\n\n' + FORMAT_RULES;
+  return '以下の記事だけを材料に、Xの投稿を' + postCount + '本書いて。JSONだけ返す。\n\n【記事】\n' + topic + '\n\n【構文】\n' + STYLE_DEFS + '\n\n【使う構文】\n' + styles.join('、') + '\n各構文をだいたい' + perStyle + '本。1本につき構文は1つ。\n\n【ルール】\n・記事に書いてある事実だけ使う。数字と発言は記事から取る。作らない\n・「だったら、」のあとも記事の別の事実。共通の敵は設定しない\n・「これが日本の現実」「うががが」「生活は豊かになりましたか」「想像の100倍でダメ」「マジで狂ってる」で締めない\n・あーぁは280字まで。いちかは200字まで。ソラピヨは220字まで\n\n' + FORMAT_RULES;
 }
 
 function buildRewritePrompt() {
   var original = document.getElementById('inputText').value.trim();
   var compressed = original.replace(/\s+/g, ' ').trim().slice(0, 4000);
-  var styles = selectedStyles.length ? selectedStyles : ['先にオチ','落差','つまり'];
-  return '以下の記事だけを材料に、指定の構文で書き直して。JSONだけ返す。\n\n【記事】\n' + compressed + '\n\n【構文】\n' + STYLE_DEFS + '\n\n【使う構文】\n' + styles.join('、') + '\n各構文1本。1本につき構文は1つ。\n\n【ルール】\n・記事に書いてある事実だけ使う\n・数字、発言、固有名詞は残す。作らない\n・「これが日本の現実」「うががが」「生活は豊かになりましたか」「想像の100倍でダメ」で締めない\n・各投稿140字以内。時系列だけ220字まで\n・話し言葉。絵文字は足さない\n\n' + FORMAT_RULES;
+  var styles = selectedStyles.length ? selectedStyles : ['あーぁ','いちか','ソラピヨ'];
+  return '以下の記事だけを材料に、指定の構文で書き直して。JSONだけ返す。\n\n【記事】\n' + compressed + '\n\n【構文】\n' + STYLE_DEFS + '\n\n【使う構文】\n' + styles.join('、') + '\n各構文1本。1本につき構文は1つ。\n\n【ルール】\n・記事に書いてある事実だけ使う。数字と発言は残す。作らない\n・「だったら、」のあとも記事の別の事実\n・「これが日本の現実」「うががが」「生活は豊かになりましたか」「想像の100倍でダメ」「マジで狂ってる」で締めない\n・あーぁは280字まで。いちかは200字まで。ソラピヨは220字まで\n\n' + FORMAT_RULES;
 }
 
 function openGrokModal() {
