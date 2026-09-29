@@ -667,6 +667,25 @@ button.chip {
   overflow: hidden;
 }
 
+.article-copy {
+  margin-top: 1.5rem;
+  max-width: 40rem;
+  font-size: 1.05rem;
+  line-height: 1.95;
+  color: var(--color-ink);
+}
+
+.article-copy p + p {
+  margin-top: 1.05rem;
+}
+
+.article-credit {
+  margin-top: 1.35rem;
+  font-size: 12px;
+  line-height: 1.6;
+  color: var(--color-muted);
+}
+
 .headline-meta {
   display: flex;
   flex-wrap: wrap;

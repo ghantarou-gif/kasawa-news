@@ -39,7 +39,11 @@ async function readAll(): Promise<Article[]> {
     const raw = await readFile(STORE_PATH, "utf8");
     const parsed = JSON.parse(raw) as Article[];
     const list = Array.isArray(parsed) ? parsed : [];
-    memoryStore = list;
+    memoryStore = list.map((article) => ({
+      ...article,
+      excerpt: article.excerpt ?? "",
+      body: article.body ?? "",
+    }));
     return list;
   } catch {
     return [];
@@ -60,6 +64,12 @@ function union<T>(left: T[], right: T[]): T[] {
   return [...new Set([...left, ...right])];
 }
 
+function longerText(next?: string, previous?: string): string {
+  const incoming = next?.trim() ?? "";
+  const stored = previous?.trim() ?? "";
+  return incoming.length >= stored.length ? incoming : stored;
+}
+
 export async function mergeArticles(incoming: Article[]): Promise<Article[]> {
   return enqueue(async () => {
     const now = new Date().toISOString();
@@ -78,7 +88,9 @@ export async function mergeArticles(incoming: Article[]): Promise<Article[]> {
       byUrl.set(article.url, {
         ...previous,
         title: article.title || previous.title,
-        excerpt: article.excerpt || previous.excerpt,
+        excerpt: longerText(article.excerpt, previous.excerpt),
+        body: longerText(article.body, previous.body),
+        bodyComplete: Boolean(previous.bodyComplete || article.bodyComplete),
         publishedAt: article.publishedAt ?? previous.publishedAt,
         source: article.source,
         sourceId: article.sourceId,
