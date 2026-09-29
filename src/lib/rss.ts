@@ -1,5 +1,5 @@
 import { cache } from "react";
-import { excerptFromBody, fetchArticleLead, needsFullStory, paragraphsFromHtml } from "./article-body";
+import { excerptFromBody, fetchArticleLead, paragraphsFromHtml, shouldExpandStory } from "./article-body";
 import { FETCH_TIMEOUT_MS, isPaywalledText, isPaywalledUrl, PER_SOURCE_PER_DAY, REVALIDATE_SECONDS } from "./config";
 import { isJapaneseElectionArticle } from "./election";
 import { feedsForLocale, type Feed } from "./feeds";
@@ -319,14 +319,24 @@ export async function getArticleById(
   const items = await ingest(locale);
   const article = items.find((item) => item.id === articleId) ?? null;
   if (!article) return null;
+  if (!shouldExpandStory(article)) return article;
   const current = (article.body || article.excerpt || "").trim();
-  if (!needsFullStory(current)) return article;
   const lead = await fetchArticleLead(article.url, article.title);
-  if (!lead || lead.length <= current.length) return article;
+  if (!lead) return article;
+  if (lead.length <= current.length + 40) {
+    const settled: Article = {
+      ...article,
+      body: article.body || lead,
+      bodyComplete: true,
+    };
+    await mergeArticles([settled]);
+    return settled;
+  }
   const next: Article = {
     ...article,
     body: lead,
     excerpt: excerptFromBody(lead),
+    bodyComplete: true,
   };
   await mergeArticles([next]);
   return next;

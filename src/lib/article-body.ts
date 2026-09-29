@@ -20,8 +20,10 @@ function normalize(value: string): string {
   return value.replace(/\s+/g, "").trim();
 }
 
-function isProse(line: string, titleNorm: string): boolean {
-  if (line.length < 40 || line.length > 700) return false;
+function isProse(line: string, titleNorm: string, full: boolean): boolean {
+  const min = full ? 20 : 40;
+  const max = full ? 2500 : 700;
+  if (line.length < min || line.length > max) return false;
   if (BOILERPLATE.test(line)) return false;
   if (/https?:|www\./i.test(line)) return false;
   if (!/[。！？.!?]/.test(line)) return false;
@@ -30,8 +32,8 @@ function isProse(line: string, titleNorm: string): boolean {
   return true;
 }
 
-/** Turns feed HTML or a publisher page into short readable paragraphs. */
-export function paragraphsFromHtml(html: string, title = ""): string {
+/** Turns feed HTML or a publisher page into readable paragraphs. */
+export function paragraphsFromHtml(html: string, title = "", full = false): string {
   let source = html;
   for (let pass = 0; pass < 2; pass += 1) {
     const decoded = decodeEntities(source);
@@ -54,7 +56,7 @@ export function paragraphsFromHtml(html: string, title = ""): string {
       .replace(/\s+/g, " ")
       .replace(/(続きを読む|記事を読む|read more).*/i, "")
       .trim();
-    if (!isProse(line, titleNorm)) continue;
+    if (!isProse(line, titleNorm, full)) continue;
     if (lines.at(-1) === line) continue;
     lines.push(line);
   }
@@ -62,8 +64,8 @@ export function paragraphsFromHtml(html: string, title = ""): string {
   const kept: string[] = [];
   let total = 0;
   for (const line of lines) {
-    if (kept.length >= 2 && total >= 180 && line.length < 45) break;
-    if (total >= 1200 || kept.length >= 8) break;
+    if (!full && kept.length >= 2 && total >= 180 && line.length < 45) break;
+    if (total >= (full ? 10000 : 1200) || (!full && kept.length >= 8)) break;
     kept.push(line);
     total += line.length;
   }
@@ -224,11 +226,135 @@ function isYahooArticle(url: string): boolean {
   }
 }
 
-/** A feed blurb that stops mid-sentence is not readable as the story. */
-export function needsFullStory(text: string): boolean {
-  const trimmed = text.trim();
-  if (trimmed.length < 180) return true;
-  return !/[。！？.!?」）)]$/.test(trimmed);
+/** A stored blurb still needs the publisher article behind it. */
+export function shouldExpandStory(article: {
+  body?: string;
+  excerpt?: string;
+  bodyComplete?: boolean;
+}): boolean {
+  if (article.bodyComplete) return false;
+  const text = (article.body || article.excerpt || "").trim();
+  if (text.length >= 900 && /[。！？.!?」）)]$/.test(text)) return false;
+  return true;
+}
+
+function sliceElement(html: string, start: number, tag: string): string {
+  const gt = html.indexOf(">", start);
+  if (gt < 0) return "";
+  const lower = html.toLowerCase();
+  const open = `<${tag.toLowerCase()}`;
+  const close = `</${tag.toLowerCase()}>`;
+  let depth = 1;
+  let index = gt + 1;
+  while (index < html.length && depth > 0) {
+    const nextOpen = lower.indexOf(open, index);
+    const nextClose = lower.indexOf(close, index);
+    if (nextClose < 0) return html.slice(gt + 1);
+    if (nextOpen !== -1 && nextOpen < nextClose) {
+      depth += 1;
+      index = nextOpen + open.length;
+    } else {
+      depth -= 1;
+      if (depth === 0) return html.slice(gt + 1, nextClose);
+      index = nextClose + close.length;
+    }
+  }
+  return "";
+}
+
+function elementsMatching(html: string, pattern: RegExp): string[] {
+  const chunks: string[] = [];
+  for (const match of html.matchAll(pattern)) {
+    const tag = match[1];
+    if (match.index === undefined || !tag) continue;
+    chunks.push(sliceElement(html, match.index, tag));
+  }
+  return chunks;
+}
+
+function byId(html: string, id: string): string[] {
+  return elementsMatching(html, new RegExp(`<([a-z0-9]+)[^>]*\\bid="${id}"[^>]*>`, "ig"));
+}
+
+function byClass(html: string, className: string): string[] {
+  return elementsMatching(
+    html,
+    new RegExp(`<([a-z0-9]+)[^>]*\\bclass="[^"]*\\b${className}\\b[^"]*"`, "ig"),
+  );
+}
+
+function bbcStory(html: string): string {
+  const match = html.match(/<script id="__NEXT_DATA__"[^>]*>([\s\S]*?)<\/script>/);
+  if (!match) return "";
+  let data: unknown;
+  try {
+    data = JSON.parse(match[1]) as unknown;
+  } catch {
+    return "";
+  }
+  const root = data as {
+    props?: { pageProps?: { pageData?: { content?: { model?: { blocks?: unknown } } } } };
+  };
+  const blocks = root.props?.pageProps?.pageData?.content?.model?.blocks;
+  if (!blocks) return "";
+  const lines: string[] = [];
+  const walk = (node: unknown) => {
+    if (Array.isArray(node)) {
+      node.forEach(walk);
+      return;
+    }
+    if (!node || typeof node !== "object") return;
+    const record = node as Record<string, unknown>;
+    const type = record.type;
+    if (type === "recommendations" || type === "relatedContent" || type === "headline") return;
+    if (type === "paragraph") {
+      const model = record.model as { text?: unknown } | undefined;
+      const text = typeof model?.text === "string" ? model.text.replace(/\s+/g, " ").trim() : "";
+      if (text.length > 25 && lines.at(-1) !== text) lines.push(text);
+      return;
+    }
+    for (const value of Object.values(record)) walk(value);
+  };
+  walk(blocks);
+  return lines.join("\n\n");
+}
+
+function publisherChunks(url: string, html: string): string[] {
+  let host = "";
+  try {
+    host = new URL(url).hostname.replace(/^www\./, "");
+  } catch {
+    return [];
+  }
+  if (host.endsWith("itmedia.co.jp")) return byClass(html, "p-syntax-sentence");
+  if (host.endsWith("gigazine.net")) return byId(html, "article");
+  if (host.endsWith("mynavi.jp")) return byId(html, "js-articleBody");
+  if (host.endsWith("livedoor.com")) return byId(html, "article-body");
+  if (host.endsWith("cnet.com")) return byClass(html, "article_body");
+  if (host.endsWith("bbc.com") || host.endsWith("bbci.co.uk")) return [];
+  return [
+    ...byId(html, "article-body"),
+    ...byId(html, "js-articleBody"),
+    ...byClass(html, "article_body"),
+    ...byClass(html, "article-body"),
+    ...byClass(html, "articleBody"),
+  ].slice(0, 1);
+}
+
+function extractPublisherStory(url: string, html: string, title: string): string {
+  let host = "";
+  try {
+    host = new URL(url).hostname.replace(/^www\./, "");
+  } catch {
+    return "";
+  }
+  if (host.endsWith("bbc.com") || host.endsWith("bbci.co.uk")) {
+    const story = bbcStory(html);
+    if (story) return story;
+  }
+  const chunks = publisherChunks(url, html);
+  if (chunks.length === 0) return "";
+  return paragraphsFromHtml(chunks.join("\n"), title, true);
 }
 
 /** Reads the article text the publisher page actually contains. */
@@ -241,6 +367,8 @@ export async function fetchArticleLead(url: string, title: string): Promise<stri
     }
     const html = await fetchHtml(url);
     if (!html) return "";
+    const story = extractPublisherStory(url, html, title);
+    if (story && !isPaywalledText(story)) return story;
     const lead = paragraphsFromHtml(html, title);
     if (!lead || isPaywalledText(lead)) return "";
     return lead;

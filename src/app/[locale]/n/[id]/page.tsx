@@ -122,6 +122,7 @@ export default async function ArticlePage({
           {paragraphs.map((paragraph, index) => (
             <p key={index}>{paragraph}</p>
           ))}
+          <p className="article-credit">{copy.sourceCredit.replace("{source}", article.source)}</p>
         </div>
       ) : (
         <p className="article-copy text-muted">{copy.bodyMissing}</p>

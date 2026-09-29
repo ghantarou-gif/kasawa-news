@@ -90,6 +90,7 @@ export async function mergeArticles(incoming: Article[]): Promise<Article[]> {
         title: article.title || previous.title,
         excerpt: longerText(article.excerpt, previous.excerpt),
         body: longerText(article.body, previous.body),
+        bodyComplete: Boolean(previous.bodyComplete || article.bodyComplete),
         publishedAt: article.publishedAt ?? previous.publishedAt,
         source: article.source,
         sourceId: article.sourceId,

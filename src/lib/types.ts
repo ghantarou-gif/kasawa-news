@@ -6,8 +6,10 @@ export type Article = {
   title: string;
   url: string;
   excerpt: string;
-  /** Readable lead from the feed, or from the publisher page when the feed has none. */
+  /** Readable article text. Feed blurbs are replaced with the publisher story when it is longer. */
   body: string;
+  /** True after the publisher page has been read, so a short story is not fetched again. */
+  bodyComplete?: boolean;
   publishedAt: string | null;
   source: string;
   sourceId: string;
