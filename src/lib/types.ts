@@ -6,6 +6,8 @@ export type Article = {
   title: string;
   url: string;
   excerpt: string;
+  /** Readable lead from the feed, or from the publisher page when the feed has none. */
+  body: string;
   publishedAt: string | null;
   source: string;
   sourceId: string;

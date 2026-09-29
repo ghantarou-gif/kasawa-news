@@ -31,10 +31,10 @@ export async function generateMetadata({
   if (!article) return {};
 
   const description =
-    article.excerpt ||
+    (article.body || article.excerpt || "").split("\n\n")[0]?.trim() ||
     (locale === "ja"
-      ? "見出しはここで。本文は発行元で。"
-      : "Headline here. Full story at the publisher.");
+      ? "記事の本文を表示しています。"
+      : "The story text is on this page.");
 
   const images = article.image ? [{ url: article.image, alt: article.title }] : undefined;
 
@@ -78,6 +78,11 @@ export default async function ArticlePage({
   const day = articleDayKey(article);
   const related = await getRelatedArticles(locale, article);
   const pageUrl = `${siteUrl()}/${locale}/n/${id}`;
+  const story = (article.body || article.excerpt || "").trim();
+  const paragraphs = story
+    .split(/\n\n+/)
+    .map((paragraph) => paragraph.trim())
+    .filter(Boolean);
 
   return (
     <article className="break-words py-6 sm:py-8">
@@ -112,9 +117,15 @@ export default async function ArticlePage({
         </div>
       ) : null}
 
-      {article.excerpt ? (
-        <p className="mt-6 text-[16px] leading-8 text-ink/90 sm:text-[17px]">{article.excerpt}</p>
-      ) : null}
+      {paragraphs.length > 0 ? (
+        <div className="article-copy">
+          {paragraphs.map((paragraph, index) => (
+            <p key={index}>{paragraph}</p>
+          ))}
+        </div>
+      ) : (
+        <p className="article-copy text-muted">{copy.bodyMissing}</p>
+      )}
 
       <div className="action-row mt-6">
         <a
@@ -131,7 +142,7 @@ export default async function ArticlePage({
         <ShareBar url={pageUrl} title={article.title} locale={locale} take={take} />
         <ArticleBuzz
           title={article.title}
-          excerpt={article.excerpt}
+          excerpt={story}
           url={pageUrl}
           locale={locale}
         />

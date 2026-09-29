@@ -1,4 +1,5 @@
 import { cache } from "react";
+import { excerptFromBody, fetchArticleLead, paragraphsFromHtml } from "./article-body";
 import { FETCH_TIMEOUT_MS, isPaywalledText, isPaywalledUrl, PER_SOURCE_PER_DAY, REVALIDATE_SECONDS } from "./config";
 import { isJapaneseElectionArticle } from "./election";
 import { feedsForLocale, type Feed } from "./feeds";
@@ -108,10 +109,27 @@ function itemImage(block: string): string | null {
   return null;
 }
 
-function cleanExcerpt(value: string): string {
-  const text = value.trim();
-  if (!text || text === "記事を読む" || text === "続きを読む") return "";
-  return text;
+function rawInner(block: string, tag: string): string {
+  const match = block.match(
+    new RegExp(`<${tag}(?:\\s[^>]*)?>([\\s\\S]*?)</${tag}>`, "i"),
+  );
+  return match?.[1] ?? "";
+}
+
+function itemBody(block: string, title: string): string {
+  const candidates = [
+    rawInner(block, "content:encoded"),
+    rawInner(block, "content"),
+    rawInner(block, "description"),
+    rawInner(block, "summary"),
+  ];
+  let best = "";
+  for (const candidate of candidates) {
+    if (!candidate.trim()) continue;
+    const text = paragraphsFromHtml(candidate, title);
+    if (text.length > best.length) best = text;
+  }
+  return best;
 }
 
 function parseFeed(xml: string, feed: Feed): Article[] {
@@ -121,10 +139,9 @@ function parseFeed(xml: string, feed: Feed): Article[] {
       const url = itemLink(block);
       if (!title || !url || !url.startsWith("http")) return null;
       const cleanUrl = canonicalizeUrl(url);
-      const excerpt = cleanExcerpt(
-        inner(block, "description") || inner(block, "summary"),
-      );
-      if (isPaywalledUrl(cleanUrl) || isPaywalledText(`${title} ${excerpt}`)) {
+      const body = itemBody(block, title);
+      const excerpt = excerptFromBody(body);
+      if (isPaywalledUrl(cleanUrl) || isPaywalledText(`${title} ${excerpt} ${body}`)) {
         return null;
       }
       return {
@@ -132,6 +149,7 @@ function parseFeed(xml: string, feed: Feed): Article[] {
         title,
         url: cleanUrl,
         excerpt,
+        body,
         publishedAt: itemDate(block),
         source: feed.name,
         sourceId: feed.id,
@@ -299,7 +317,19 @@ export async function getArticleById(
   articleId: string,
 ): Promise<Article | null> {
   const items = await ingest(locale);
-  return items.find((article) => article.id === articleId) ?? null;
+  const article = items.find((item) => item.id === articleId) ?? null;
+  if (!article) return null;
+  const current = (article.body || article.excerpt || "").trim();
+  if (current.length >= 80) return article;
+  const lead = await fetchArticleLead(article.url, article.title);
+  if (!lead || lead.length <= current.length) return article;
+  const next: Article = {
+    ...article,
+    body: lead,
+    excerpt: article.excerpt || excerptFromBody(lead),
+  };
+  await mergeArticles([next]);
+  return next;
 }
 
 export async function getRelatedArticles(
