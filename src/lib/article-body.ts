@@ -87,22 +87,160 @@ function sameSite(left: string, right: string): boolean {
   }
 }
 
-/** Reads the lead a publisher already shows, when the feed itself has no body. */
+type YahooParagraph = {
+  textDetails?: Array<{ text?: string }>;
+};
+
+type YahooState = {
+  articleDetail?: {
+    maxPage?: number;
+    paragraphs?: YahooParagraph[];
+  };
+};
+
+function readAssignmentJson(html: string, marker: string): unknown | null {
+  const at = html.indexOf(marker);
+  if (at < 0) return null;
+  const start = html.indexOf("{", at);
+  if (start < 0) return null;
+  let depth = 0;
+  let inString = false;
+  let escaped = false;
+  for (let index = start; index < html.length; index += 1) {
+    const char = html[index];
+    if (inString) {
+      if (escaped) escaped = false;
+      else if (char === "\\") escaped = true;
+      else if (char === '"') inString = false;
+      continue;
+    }
+    if (char === '"') inString = true;
+    else if (char === "{") depth += 1;
+    else if (char === "}") {
+      depth -= 1;
+      if (depth === 0) {
+        try {
+          return JSON.parse(html.slice(start, index + 1)) as unknown;
+        } catch {
+          return null;
+        }
+      }
+    }
+  }
+  return null;
+}
+
+function plainText(value: string): string {
+  let source = value;
+  for (let pass = 0; pass < 2; pass += 1) {
+    const decoded = decodeEntities(source);
+    if (decoded === source) break;
+    source = decoded;
+  }
+  return source
+    .replace(/<br\s*\/?>/gi, "\n")
+    .replace(/<\/p>/gi, "\n")
+    .replace(/<[^>]+>/g, "")
+    .replace(/\u3000/g, " ")
+    .replace(/[ \t]+\n/g, "\n")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+}
+
+function paragraphsFromYahooState(data: YahooState): string {
+  const lines: string[] = [];
+  for (const paragraph of data.articleDetail?.paragraphs ?? []) {
+    for (const detail of paragraph.textDetails ?? []) {
+      const text = plainText(detail.text ?? "");
+      for (const line of text.split(/\n+/)) {
+        const cleaned = line.replace(/\s+/g, " ").trim();
+        if (cleaned.length < 8 || lines.at(-1) === cleaned) continue;
+        if (BOILERPLATE.test(cleaned)) continue;
+        lines.push(cleaned);
+      }
+    }
+  }
+  return lines.join("\n\n");
+}
+
+function yahooPageUrl(url: string, page: number): string {
+  const parsed = new URL(url);
+  parsed.searchParams.delete("source");
+  if (page > 1) parsed.searchParams.set("page", String(page));
+  else parsed.searchParams.delete("page");
+  return parsed.toString();
+}
+
+async function fetchHtml(url: string): Promise<string> {
+  const response = await fetch(url, {
+    next: { revalidate: REVALIDATE_SECONDS },
+    signal: AbortSignal.timeout(FETCH_TIMEOUT_MS),
+    headers: {
+      Accept: "text/html",
+      "User-Agent": "NyanChu/1.0 RSS reader",
+    },
+  });
+  if (!response.ok || !sameSite(url, response.url)) return "";
+  const type = response.headers.get("content-type") ?? "";
+  if (type && !type.includes("html") && !type.includes("xml") && !type.includes("json")) {
+    return "";
+  }
+  return (await response.text()).slice(0, 400_000);
+}
+
+async function fetchYahooArticle(url: string): Promise<string> {
+  const first = await fetchHtml(yahooPageUrl(url, 1));
+  if (!first) return "";
+  const state = readAssignmentJson(first, "window.__PRELOADED_STATE__") as YahooState | null;
+  const maxPage = Math.min(Math.max(state?.articleDetail?.maxPage ?? 1, 1), 8);
+  const pages = [paragraphsFromYahooState(state ?? {})];
+  if (maxPage > 1) {
+    const rest = await Promise.all(
+      Array.from({ length: maxPage - 1 }, (_, index) => fetchHtml(yahooPageUrl(url, index + 2))),
+    );
+    for (const html of rest) {
+      if (!html) continue;
+      const next = readAssignmentJson(html, "window.__PRELOADED_STATE__") as YahooState | null;
+      pages.push(paragraphsFromYahooState(next ?? {}));
+    }
+  }
+  const lines: string[] = [];
+  for (const page of pages) {
+    for (const line of page.split("\n\n")) {
+      const cleaned = line.trim();
+      if (!cleaned || lines.at(-1) === cleaned) continue;
+      lines.push(cleaned);
+    }
+  }
+  return lines.join("\n\n");
+}
+
+function isYahooArticle(url: string): boolean {
+  try {
+    const parsed = new URL(url);
+    return parsed.hostname.replace(/^www\./, "").endsWith("yahoo.co.jp") && parsed.pathname.includes("/articles/");
+  } catch {
+    return false;
+  }
+}
+
+/** A feed blurb that stops mid-sentence is not readable as the story. */
+export function needsFullStory(text: string): boolean {
+  const trimmed = text.trim();
+  if (trimmed.length < 180) return true;
+  return !/[。！？.!?」）)]$/.test(trimmed);
+}
+
+/** Reads the article text the publisher page actually contains. */
 export async function fetchArticleLead(url: string, title: string): Promise<string> {
   if (!url.startsWith("https://") || isPaywalledUrl(url)) return "";
   try {
-    const response = await fetch(url, {
-      next: { revalidate: REVALIDATE_SECONDS },
-      signal: AbortSignal.timeout(FETCH_TIMEOUT_MS),
-      headers: {
-        Accept: "text/html",
-        "User-Agent": "NyanChu/1.0 RSS reader",
-      },
-    });
-    if (!response.ok || !sameSite(url, response.url)) return "";
-    const type = response.headers.get("content-type") ?? "";
-    if (type && !type.includes("html") && !type.includes("xml")) return "";
-    const html = (await response.text()).slice(0, 220_000);
+    if (isYahooArticle(url)) {
+      const story = await fetchYahooArticle(url);
+      if (story && !isPaywalledText(story)) return story;
+    }
+    const html = await fetchHtml(url);
+    if (!html) return "";
     const lead = paragraphsFromHtml(html, title);
     if (!lead || isPaywalledText(lead)) return "";
     return lead;

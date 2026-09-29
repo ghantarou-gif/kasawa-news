@@ -1,5 +1,5 @@
 import { cache } from "react";
-import { excerptFromBody, fetchArticleLead, paragraphsFromHtml } from "./article-body";
+import { excerptFromBody, fetchArticleLead, needsFullStory, paragraphsFromHtml } from "./article-body";
 import { FETCH_TIMEOUT_MS, isPaywalledText, isPaywalledUrl, PER_SOURCE_PER_DAY, REVALIDATE_SECONDS } from "./config";
 import { isJapaneseElectionArticle } from "./election";
 import { feedsForLocale, type Feed } from "./feeds";
@@ -320,13 +320,13 @@ export async function getArticleById(
   const article = items.find((item) => item.id === articleId) ?? null;
   if (!article) return null;
   const current = (article.body || article.excerpt || "").trim();
-  if (current.length >= 80) return article;
+  if (!needsFullStory(current)) return article;
   const lead = await fetchArticleLead(article.url, article.title);
   if (!lead || lead.length <= current.length) return article;
   const next: Article = {
     ...article,
     body: lead,
-    excerpt: article.excerpt || excerptFromBody(lead),
+    excerpt: excerptFromBody(lead),
   };
   await mergeArticles([next]);
   return next;
