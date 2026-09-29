@@ -104,7 +104,7 @@ function clip(text: string, max: number): string {
 
 function figuresIn(text: string): string[] {
   const re =
-    /[0-9０-９]+(?:[,，][0-9０-９]{3})*(?:[.．][0-9０-９]+)?[万億兆]?(?:円|％|%|人|件|年|倍|社|ポイント|ドル)?/g;
+    /[0-9０-９]+(?:[,，][0-9０-９]{3})*(?:[.．][0-9０-９]+)?(?:[万億兆][0-9０-９]+)*(?:[万億兆])?(?:千[0-9０-９]*)?(?:円|％|%|人|件|年|倍|社|ポイント|ドル)/g;
   const out: string[] = [];
   for (const match of text.matchAll(re)) {
     const token = match[0].replace(/[,，\s]/g, "");
