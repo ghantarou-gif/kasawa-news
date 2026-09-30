@@ -1,5 +1,13 @@
 import { cache } from "react";
-import { excerptFromBody, fetchArticleLead, paragraphsFromHtml, shouldExpandStory } from "./article-body";
+import {
+  excerptFromBody,
+  fetchArticleLead,
+  fetchNhkStory,
+  nhkArticleId,
+  nhkLeadText,
+  paragraphsFromHtml,
+  shouldExpandStory,
+} from "./article-body";
 import { FETCH_TIMEOUT_MS, isPaywalledText, isPaywalledUrl, PER_SOURCE_PER_DAY, REVALIDATE_SECONDS } from "./config";
 import { isJapaneseElectionArticle } from "./election";
 import { feedsForLocale, type Feed } from "./feeds";
@@ -139,7 +147,10 @@ function parseFeed(xml: string, feed: Feed): Article[] {
       const url = itemLink(block);
       if (!title || !url || !url.startsWith("http")) return null;
       const cleanUrl = canonicalizeUrl(url);
-      const body = itemBody(block, title);
+      const described = feed.id.startsWith("nhk-")
+        ? nhkLeadText(decodeEntities(rawInner(block, "description")))
+        : "";
+      const body = itemBody(block, title) || described;
       const excerpt = excerptFromBody(body);
       if (isPaywalledUrl(cleanUrl) || isPaywalledText(`${title} ${excerpt} ${body}`)) {
         return null;
@@ -189,7 +200,7 @@ function sortNewest(articles: Article[]): Article[] {
   });
 }
 
-// Treat Japanese-language sources (Yahoo!ニュース, ライブドア, マイナビ, ITmedia,
+// Treat Japanese-language sources (Yahoo!ニュース, ライブドア, NHKニュース, マイナビ, ITmedia,
 // Gigazine, CNET Japan, BBC日本語 …) as domestic. Feeds carry a single "ja"
 // locale for these, whereas foreign outlets shown in Japanese (BBC, CNA, …)
 // are tagged for both locales.
@@ -220,6 +231,33 @@ function isMinorSports(article: Article): boolean {
 // them; the dedicated sports desk view keeps showing everything.
 export function excludeMinorSports(articles: Article[]): Article[] {
   return articles.filter((article) => !isMinorSports(article));
+}
+
+async function withNhkMedia(articles: Article[]): Promise<Article[]> {
+  const targets = articles.filter(
+    (article) => nhkArticleId(article.url) && (!article.image || !article.bodyComplete),
+  );
+  if (targets.length === 0) return articles;
+  const updates = (
+    await Promise.all(
+      targets.slice(0, 8).map(async (article) => {
+        const story = await fetchNhkStory(article.url);
+        if (!story.text && !story.image) return null;
+        const body = story.text || article.body;
+        return {
+          ...article,
+          body,
+          excerpt: body ? excerptFromBody(body) : article.excerpt,
+          image: article.image || story.image,
+          bodyComplete: Boolean(story.text || article.body),
+        } satisfies Article;
+      }),
+    )
+  ).filter((article): article is Article => article !== null);
+  if (updates.length === 0) return articles;
+  await mergeArticles(updates);
+  const byId = new Map(updates.map((article) => [article.id, article]));
+  return articles.map((article) => byId.get(article.id) ?? article);
 }
 
 function capDay(articles: Article[]): Article[] {
@@ -295,7 +333,7 @@ export async function getDayArticles(
   const filtered = desk
     ? matched.filter((article) => article.desks.includes(desk))
     : matched;
-  return sortNewest(filtered);
+  return withNhkMedia(sortNewest(filtered));
 }
 
 export async function latestDay(locale: Locale): Promise<string | null> {
@@ -319,6 +357,21 @@ export async function getArticleById(
   const items = await ingest(locale);
   const article = items.find((item) => item.id === articleId) ?? null;
   if (!article) return null;
+  if (nhkArticleId(article.url)) {
+    if (article.bodyComplete && article.image) return article;
+    const story = await fetchNhkStory(article.url);
+    if (!story.text && !story.image) return article;
+    const body = story.text || article.body;
+    const next: Article = {
+      ...article,
+      body,
+      excerpt: body ? excerptFromBody(body) : article.excerpt,
+      image: article.image || story.image,
+      bodyComplete: Boolean(story.text || article.body),
+    };
+    await mergeArticles([next]);
+    return next;
+  }
   if (!shouldExpandStory(article)) return article;
   const current = (article.body || article.excerpt || "").trim();
   const lead = await fetchArticleLead(article.url, article.title);

@@ -247,6 +247,28 @@ export const feeds: Feed[] = [
     ["ja"],
     ["sports"],
   ),
+  feed("nhk-top", "NHKニュース", "https://www.nhk.or.jp/rss/news/cat0.xml", ["ja"], [
+    "top",
+    "japan",
+  ]),
+  feed("nhk-society", "NHKニュース", "https://www.nhk.or.jp/rss/news/cat1.xml", ["ja"], [
+    "japan",
+  ]),
+  feed("nhk-politics", "NHKニュース", "https://www.nhk.or.jp/rss/news/cat4.xml", ["ja"], [
+    "japan",
+  ]),
+  feed("nhk-business", "NHKニュース", "https://www.nhk.or.jp/rss/news/cat5.xml", ["ja"], [
+    "business",
+  ]),
+  feed("nhk-world", "NHKニュース", "https://www.nhk.or.jp/rss/news/cat6.xml", ["ja"], [
+    "world",
+  ]),
+  feed("nhk-science", "NHKニュース", "https://www.nhk.or.jp/rss/news/cat3.xml", ["ja"], [
+    "tech",
+  ]),
+  feed("nhk-sports", "NHKニュース", "https://www.nhk.or.jp/rss/news/cat7.xml", ["ja"], [
+    "sports",
+  ]),
 ];
 
 export function feedsForLocale(locale: Locale): Feed[] {

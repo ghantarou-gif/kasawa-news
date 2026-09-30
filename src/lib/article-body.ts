@@ -357,10 +357,81 @@ function extractPublisherStory(url: string, html: string, title: string): string
   return paragraphsFromHtml(chunks.join("\n"), title, true);
 }
 
+export function nhkArticleId(url: string): string | null {
+  try {
+    const parsed = new URL(url);
+    const host = parsed.hostname.replace(/^www\./, "");
+    if (host !== "news.web.nhk" && !host.endsWith(".nhk.or.jp")) return null;
+    const id = parsed.pathname.split("/").filter(Boolean).at(-1) ?? "";
+    if (!/^n[a-z]-[A-Za-z0-9-]+$/.test(id)) return null;
+    return id;
+  } catch {
+    return null;
+  }
+}
+
+/** NHK publishes a short lead in RSS. The rest sits behind their usage check. */
+export function nhkLeadText(value: string): string {
+  return value
+    .replace(/\r/g, "")
+    .replace(/<[^>]+>/g, " ")
+    .split(/\n+/)
+    .map((line) => line.replace(/\s+/g, " ").replace(/^【NHK】/, "").trim())
+    .filter((line) => line.length >= 8 && /[。！？.!?」）)]$/.test(line))
+    .join("\n\n");
+}
+
+type NhkArticleJson = {
+  description?: string;
+  abstract?: string;
+  image?: { medium?: { url?: string }; icon?: { url?: string } };
+};
+
+function nhkImageUrl(value: string | undefined): string | null {
+  if (!value || !value.startsWith("https://")) return null;
+  try {
+    const host = new URL(value).hostname.replace(/^www\./, "");
+    if (host === "nhk" || host.endsWith(".nhk") || host.endsWith(".nhk.or.jp") || host.endsWith(".nhk.jp")) {
+      return value;
+    }
+  } catch {
+    return null;
+  }
+  return null;
+}
+
+export async function fetchNhkStory(url: string): Promise<{ text: string; image: string | null }> {
+  const id = nhkArticleId(url);
+  if (!id) return { text: "", image: null };
+  try {
+    const response = await fetch(`https://api.web.nhk/r8/t/newsarticle/na/${id}.json`, {
+      next: { revalidate: REVALIDATE_SECONDS },
+      signal: AbortSignal.timeout(FETCH_TIMEOUT_MS),
+      headers: {
+        Accept: "application/json",
+        "User-Agent": "NyanChu/1.0 RSS reader",
+      },
+    });
+    if (!response.ok) return { text: "", image: null };
+    const data = (await response.json()) as NhkArticleJson;
+    const text = nhkLeadText(data.description || data.abstract || "");
+    const image = nhkImageUrl(data.image?.medium?.url) || nhkImageUrl(data.image?.icon?.url);
+    if (text && isPaywalledText(text)) return { text: "", image };
+    return { text, image };
+  } catch {
+    return { text: "", image: null };
+  }
+}
+
 /** Reads the article text the publisher page actually contains. */
 export async function fetchArticleLead(url: string, title: string): Promise<string> {
   if (!url.startsWith("https://") || isPaywalledUrl(url)) return "";
   try {
+    if (nhkArticleId(url)) {
+      const story = await fetchNhkStory(url);
+      if (story.text) return story.text;
+      return "";
+    }
     if (isYahooArticle(url)) {
       const story = await fetchYahooArticle(url);
       if (story && !isPaywalledText(story)) return story;
