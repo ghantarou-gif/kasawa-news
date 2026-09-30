@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { AdSlot } from "@/components/AdSlot";
 import { AffiliateBlock } from "@/components/AffiliateBlock";
+import { ViatorBanner } from "@/components/ViatorBanner";
 import { RelatedStories } from "@/components/RelatedStories";
 import { NyanchuSearchLink } from "@/components/NyanchuSearchLink";
 import { ArticleBuzz } from "@/components/ArticleBuzz";
@@ -139,6 +140,11 @@ export default async function ArticlePage({
         </a>
       </div>
 
+      <ViatorBanner className="mt-8" />
+      <div className="mt-4">
+        <AffiliateBlock locale={locale} genre={genre} />
+      </div>
+
       <section className="article-actions">
         <ShareBar url={pageUrl} title={article.title} locale={locale} take={take} />
         <ArticleBuzz
@@ -160,10 +166,6 @@ export default async function ArticlePage({
           <p className="mt-3 whitespace-pre-wrap text-[16px] leading-8">{take}</p>
         </section>
       ) : null}
-
-      <div className="mt-8">
-        <AffiliateBlock locale={locale} genre={genre} />
-      </div>
 
       <RelatedStories items={related} locale={locale} />
     </article>

@@ -135,22 +135,23 @@ export function resolveGoLink(id: string): GoLink | null {
   return goLinks[id] ?? null;
 }
 
+const standingGoIds = ["viator-tokyo-halfday", "viator"] as const;
+
 export function affiliateOffersForGenre(
   genre: GenreId | null,
   locale: Locale,
 ): { id: string; label: string }[] {
-  const offers: { id: string; label: string }[] = [
-    { id: "kindle", label: goLinks.kindle.label[locale] },
-  ];
+  const ids = [...standingGoIds];
+  if (genre) ids.push(genreGoId[genre]);
+  if (goLinkUrl("kindle")) ids.push("kindle");
 
-  if (genre) {
-    const goId = genreGoId[genre];
-    const genreLink = goLinks[goId];
-    if (genreLink && goLinkUrl(goId)) {
-      offers.push({ id: goId, label: genreLink.label[locale] });
-    }
+  const offers: { id: string; label: string }[] = [];
+  for (const id of ids) {
+    const link = goLinks[id];
+    if (!link || !goLinkUrl(id)) continue;
+    if (offers.some((offer) => offer.id === id)) continue;
+    offers.push({ id, label: link.label[locale] });
   }
-
   return offers;
 }
 
