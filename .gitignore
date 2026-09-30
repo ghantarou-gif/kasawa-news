@@ -35,6 +35,7 @@ yarn-error.log*
 
 # local headline archive
 /data/headlines.json
+/data/visits.json
 
 # vercel
 .vercel
