@@ -12,6 +12,7 @@ import { genres, primaryGenre } from "@/lib/genres";
 import { t } from "@/lib/i18n";
 import { isLocale } from "@/lib/locale";
 import { getArticleById, getRelatedArticles } from "@/lib/rss";
+import { visitCount } from "@/lib/visits";
 import { siteUrl } from "@/lib/site";
 import { getTake } from "@/lib/takes";
 import { articleDayKey, formatWhen } from "@/lib/time";
@@ -78,6 +79,7 @@ export default async function ArticlePage({
   const day = articleDayKey(article);
   const related = await getRelatedArticles(locale, article);
   const pageUrl = `${siteUrl()}/${locale}/n/${id}`;
+  const views = await visitCount(`/${locale}/n/${id}`);
   const story = (article.body || article.excerpt || "").trim();
   const paragraphs = story
     .split(/\n\n+/)
@@ -108,6 +110,10 @@ export default async function ArticlePage({
 
       <p className="mt-3 text-[13px] text-muted">
         {formatWhen(article.publishedAt ?? article.firstSeenAt, locale)}
+        <span className="mx-2 text-ink/25">·</span>
+        <span data-visit-count data-visit-label={copy.visits}>
+          {copy.visits} {views.toLocaleString(locale === "ja" ? "ja-JP" : "en-US")}
+        </span>
       </p>
 
       {article.image ? (

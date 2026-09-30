@@ -5,7 +5,7 @@ import { LOCALES } from "@/lib/locale";
 
 export function proxy(request: NextRequest) {
   const { pathname } = request.nextUrl;
-  if (pathname.startsWith("/go/")) return NextResponse.next();
+  if (pathname.startsWith("/go/") || pathname.startsWith("/api/")) return NextResponse.next();
   if (
     pathname === "/tetris.html" ||
     pathname === "/phrasebook.html" ||

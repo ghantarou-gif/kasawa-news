@@ -97,6 +97,10 @@ const dictionary = {
     copyLink: "リンクをコピー",
     copied: "コピーしました",
     relatedStories: "同じ日の他の見出し",
+    visits: "訪問",
+    visitsTitle: "ページごとの訪問",
+    visitsLead: "同じタブで開いたページは1回です。数字はこのサーバーが動いているあいだ残ります。",
+    visitsEmpty: "まだ訪問はありません。",
   },
   en: {
     siteName: "NyanChu",
@@ -184,6 +188,10 @@ const dictionary = {
     copyLink: "Copy link",
     copied: "Copied",
     relatedStories: "More from this day",
+    visits: "Visits",
+    visitsTitle: "Visits by page",
+    visitsLead: "Each page counts once per browser tab. Numbers stay while this server is running.",
+    visitsEmpty: "No visits yet.",
   },
 } as const;
 

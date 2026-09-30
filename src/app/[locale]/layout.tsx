@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { DeskHeader } from "@/components/DeskHeader";
+import { VisitBeacon } from "@/components/VisitBeacon";
 import { HtmlLang } from "@/components/HtmlLang";
 import { SiteFooter } from "@/components/SiteFooter";
 import { LiveRefresh } from "@/components/LiveRefresh";
@@ -41,6 +42,7 @@ export default async function LocaleLayout({
     <div className="flex min-h-full flex-col">
       <HtmlLang locale={locale} />
       <DeskHeader locale={locale} updatedAt={updatedAt} />
+      <VisitBeacon />
       <LiveRefresh />
       <div className="site-shell mx-auto w-full max-w-6xl flex-1 px-4 sm:px-6">{children}</div>
       <div className="site-shell mx-auto w-full max-w-6xl px-4 sm:px-6">
