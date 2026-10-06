@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { LanguageSwitch } from "@/components/LanguageSwitch";
+import { publicHref } from "@/lib/hosting";
 import { nyanchuBaseUrl } from "@/lib/nyanchu";
 import { genres, type GenreId } from "@/lib/genres";
 import { t } from "@/lib/i18n";
@@ -98,7 +99,7 @@ export function DeskHeader({
           <Link href={`/${locale}/travel`} className="header-nav-link">
             {copy.travel}
           </Link>
-          <a href="/phrasebook.html" className="header-nav-link">
+          <a href={publicHref("/phrasebook.html")} className="header-nav-link">
             {copy.phrasebook}
           </a>
           <Link href={`/${locale}/book`} className="header-nav-link">

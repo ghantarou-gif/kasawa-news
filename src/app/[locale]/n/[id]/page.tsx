@@ -7,16 +7,28 @@ import { RelatedStories } from "@/components/RelatedStories";
 import { NyanchuSearchLink } from "@/components/NyanchuSearchLink";
 import { ArticleBuzz } from "@/components/ArticleBuzz";
 import { ShareBar } from "@/components/ShareBar";
-import { decodeArticleId } from "@/lib/article-id";
+import { decodeArticleId, encodeArticleId } from "@/lib/article-id";
 import { genres, primaryGenre } from "@/lib/genres";
 import { t } from "@/lib/i18n";
 import { isLocale } from "@/lib/locale";
-import { getArticleById, getRelatedArticles } from "@/lib/rss";
+import { getArticleById, getRelatedArticles, listCappedArticles } from "@/lib/rss";
 import { siteUrl } from "@/lib/site";
 import { getTake } from "@/lib/takes";
 import { articleDayKey, formatWhen } from "@/lib/time";
 
 export const revalidate = 120;
+
+export async function generateStaticParams() {
+  if (process.env.GITHUB_PAGES !== "1") return [];
+  const params: { locale: string; id: string }[] = [];
+  for (const locale of ["ja", "en"] as const) {
+    const articles = await listCappedArticles(locale);
+    for (const article of articles) {
+      params.push({ locale, id: encodeArticleId(article.id) });
+    }
+  }
+  return params;
+}
 
 export async function generateMetadata({
   params,

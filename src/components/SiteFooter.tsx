@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { publicHref } from "@/lib/hosting";
 import { nyanchuBaseUrl } from "@/lib/nyanchu";
 import { t } from "@/lib/i18n";
 import type { Locale } from "@/lib/locale";
@@ -22,7 +23,7 @@ export function SiteFooter({ locale }: { locale: Locale }) {
           <Link href={`/${locale}/travel`} className="hover:text-accent">
             {copy.travel}
           </Link>
-          <a href="/phrasebook.html" className="hover:text-accent">
+          <a href={publicHref("/phrasebook.html")} className="hover:text-accent">
             {copy.phrasebook}
           </a>
           <Link href={`/${locale}/book`} className="hover:text-accent">

@@ -9,13 +9,18 @@ import {
   shouldExpandStory,
 } from "./article-body";
 import { FETCH_TIMEOUT_MS, isPaywalledText, isPaywalledUrl, PER_SOURCE_PER_DAY, REVALIDATE_SECONDS } from "./config";
+import { encodeArticleId } from "./article-id";
 import { isJapaneseElectionArticle } from "./election";
+import { excludeMinorSports, sortDomesticFirst } from "./feed-order";
 import { feedsForLocale, type Feed } from "./feeds";
 import { genres, type GenreId } from "./genres";
+import { githubPages } from "./hosting";
 import { mergeArticles } from "./store";
 import { articleDayKey } from "./time";
 import type { Article } from "./types";
 import type { Locale } from "./locale";
+
+export { excludeMinorSports, sortDomesticFirst } from "./feed-order";
 
 function decodeEntities(value: string): string {
   return value
@@ -200,39 +205,6 @@ function sortNewest(articles: Article[]): Article[] {
   });
 }
 
-// Treat Japanese-language sources (Yahoo!ニュース, ライブドア, NHKニュース, マイナビ, ITmedia,
-// Gigazine, CNET Japan, BBC日本語 …) as domestic. Feeds carry a single "ja"
-// locale for these, whereas foreign outlets shown in Japanese (BBC, CNA, …)
-// are tagged for both locales.
-function isDomestic(article: Article): boolean {
-  return article.locales.length === 1 && article.locales[0] === "ja";
-}
-
-// Surfaces domestic (Japanese) stories first while keeping each group's existing
-// (newest-first) order. Used for the "all" home/day feed so domestic news leads.
-export function sortDomesticFirst(articles: Article[]): Article[] {
-  const domestic: Article[] = [];
-  const rest: Article[] = [];
-  for (const article of articles) {
-    (isDomestic(article) ? domestic : rest).push(article);
-  }
-  return [...domestic, ...rest];
-}
-
-// A sports story only counts as "big" when it also surfaced in a general
-// top-headlines feed (top desk); routine sports headlines carry the sports
-// desk alone. Feeds share URLs across their topics, so desks are unioned in
-// the store (see mergeArticles), which lets a headline earn the top desk.
-function isMinorSports(article: Article): boolean {
-  return article.desks.includes("sports") && !article.desks.includes("top");
-}
-
-// Drops routine sports from the aggregated ("all") feed so it isn't flooded by
-// them; the dedicated sports desk view keeps showing everything.
-export function excludeMinorSports(articles: Article[]): Article[] {
-  return articles.filter((article) => !isMinorSports(article));
-}
-
 async function withNhkMedia(articles: Article[]): Promise<Article[]> {
   const targets = articles.filter(
     (article) => nhkArticleId(article.url) && (!article.image || !article.bodyComplete),
@@ -244,16 +216,17 @@ async function withNhkMedia(articles: Article[]): Promise<Article[]> {
         const story = await fetchNhkStory(article.url);
         if (!story.text && !story.image) return null;
         const body = story.text || article.body;
-        return {
+        const next: Article = {
           ...article,
           body,
           excerpt: body ? excerptFromBody(body) : article.excerpt,
           image: article.image || story.image,
           bodyComplete: Boolean(story.text || article.body),
-        } satisfies Article;
+        };
+        return next;
       }),
     )
-  ).filter((article): article is Article => article !== null);
+  ).filter((article): article is Article => article != null);
   if (updates.length === 0) return articles;
   await mergeArticles(updates);
   const byId = new Map(updates.map((article) => [article.id, article]));
@@ -355,8 +328,12 @@ export async function getArticleById(
   articleId: string,
 ): Promise<Article | null> {
   const items = await ingest(locale);
-  const article = items.find((item) => item.id === articleId) ?? null;
+  const article =
+    items.find(
+      (item) => item.id === articleId || encodeArticleId(item.id) === articleId,
+    ) ?? null;
   if (!article) return null;
+  if (githubPages) return article;
   if (nhkArticleId(article.url)) {
     if (article.bodyComplete && article.image) return article;
     const story = await fetchNhkStory(article.url);
@@ -403,4 +380,16 @@ export async function getRelatedArticles(
   const day = articleDayKey(article);
   const items = await getDayArticles(locale, day);
   return items.filter((item) => item.id !== article.id).slice(0, limit);
+}
+
+export async function listCappedArticles(locale: Locale): Promise<Article[]> {
+  const items = await ingest(locale);
+  const buckets = new Map<string, Article[]>();
+  for (const article of items) {
+    const key = articleDayKey(article);
+    const list = buckets.get(key) ?? [];
+    list.push(article);
+    buckets.set(key, list);
+  }
+  return [...buckets.values()].flatMap((list) => capDay(list));
 }

@@ -10,6 +10,8 @@ npm run dev
 
 http://localhost:3000
 
+Vercel 本番（https://kasawa-news.vercel.app）が `402 DEPLOYMENT_DISABLED` のときは、GitHub Pages が代替公開先です: https://ghantarou-gif.github.io/kasawa-news/ja/
+
 ## 直す場所
 
 - 旅ガイド記事: `src/lib/travel.ts`（配列の先頭に追加）

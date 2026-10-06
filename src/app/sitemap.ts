@@ -4,6 +4,8 @@ import { getDaySummaries } from "@/lib/rss";
 import { siteUrl } from "@/lib/site";
 import { listTravelPosts } from "@/lib/travel";
 
+export const dynamic = "force-static";
+
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const base = siteUrl();
   const entries: MetadataRoute.Sitemap = [];

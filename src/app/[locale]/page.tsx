@@ -6,12 +6,8 @@ import { DayList } from "@/components/DayList";
 import { TopStories } from "@/components/TopStories";
 import { isLocale } from "@/lib/locale";
 import { t } from "@/lib/i18n";
-import {
-  excludeMinorSports,
-  getDayArticles,
-  getDaySummaries,
-  sortDomesticFirst,
-} from "@/lib/rss";
+import { excludeMinorSports, sortDomesticFirst } from "@/lib/feed-order";
+import { getDayArticles, getDaySummaries } from "@/lib/rss";
 
 export const revalidate = 120;
 

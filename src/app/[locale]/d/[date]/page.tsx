@@ -1,21 +1,25 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { GenreChips } from "@/components/DeskHeader";
-import { AdSlot } from "@/components/AdSlot";
-import { TopStories } from "@/components/TopStories";
-import { isGenre } from "@/lib/genres";
+import { Suspense } from "react";
+import { DayDeskFeed } from "@/components/DayDeskFeed";
 import { t } from "@/lib/i18n";
 import { isLocale } from "@/lib/locale";
-import {
-  excludeMinorSports,
-  getDayArticles,
-  getDaySummaries,
-  sortDomesticFirst,
-} from "@/lib/rss";
+import { getDayArticles, getDaySummaries } from "@/lib/rss";
 import { formatDayHeading, formatDayMeta, isDayKey } from "@/lib/time";
 
 export const revalidate = 120;
+
+export async function generateStaticParams() {
+  const params: { locale: string; date: string }[] = [];
+  for (const locale of ["ja", "en"] as const) {
+    const { days } = await getDaySummaries(locale);
+    for (const day of days) {
+      params.push({ locale, date: day.date });
+    }
+  }
+  return params;
+}
 
 export async function generateMetadata({
   params,
@@ -29,26 +33,18 @@ export async function generateMetadata({
 
 export default async function DayPage({
   params,
-  searchParams,
 }: {
   params: Promise<{ locale: string; date: string }>;
-  searchParams: Promise<{ desk?: string }>;
 }) {
   const { locale, date } = await params;
-  const query = await searchParams;
   if (!isLocale(locale) || !isDayKey(date)) notFound();
 
-  const desk = query.desk && isGenre(query.desk) ? query.desk : undefined;
   const copy = t(locale);
   const [items, { days }] = await Promise.all([
-    getDayArticles(locale, date, desk),
+    getDayArticles(locale, date),
     getDaySummaries(locale),
   ]);
   const summary = days.find((day) => day.date === date);
-  // Keep routine sports out of the aggregated view, but show everything on the
-  // dedicated sports desk; then lead with domestic (Japanese) stories.
-  const base = desk === "sports" ? items : excludeMinorSports(items);
-  const feedItems = sortDomesticFirst(base);
 
   return (
     <section className="break-words py-6 sm:py-8">
@@ -65,17 +61,15 @@ export default async function DayPage({
         {formatDayMeta(date, locale)}
         {summary ? ` · ${summary.total}${copy.items}` : null}
       </p>
-      <div className="mt-5">
-        <GenreChips
+      <Suspense fallback={<p className="mt-6 text-muted">{copy.live}</p>}>
+        <DayDeskFeed
+          items={items}
           locale={locale}
-          latestDate={date}
-          active={desk ?? "all"}
+          date={date}
           counts={summary?.counts}
           total={summary?.total}
         />
-      </div>
-      <AdSlot placement="feed" className="mt-6" />
-      <TopStories items={feedItems} locale={locale} headings={false} />
+      </Suspense>
     </section>
   );
 }
