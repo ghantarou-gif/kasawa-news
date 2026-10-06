@@ -11,7 +11,6 @@ import {
 import { FETCH_TIMEOUT_MS, isPaywalledText, isPaywalledUrl, PER_SOURCE_PER_DAY, REVALIDATE_SECONDS } from "./config";
 import { encodeArticleId } from "./article-id";
 import { isJapaneseElectionArticle } from "./election";
-import { excludeMinorSports, sortDomesticFirst } from "./feed-order";
 import { feedsForLocale, type Feed } from "./feeds";
 import { genres, type GenreId } from "./genres";
 import { githubPages } from "./hosting";
@@ -19,8 +18,6 @@ import { mergeArticles } from "./store";
 import { articleDayKey } from "./time";
 import type { Article } from "./types";
 import type { Locale } from "./locale";
-
-export { excludeMinorSports, sortDomesticFirst } from "./feed-order";
 
 function decodeEntities(value: string): string {
   return value
@@ -205,34 +202,6 @@ function sortNewest(articles: Article[]): Article[] {
   });
 }
 
-async function withNhkMedia(articles: Article[]): Promise<Article[]> {
-  const targets = articles.filter(
-    (article) => nhkArticleId(article.url) && (!article.image || !article.bodyComplete),
-  );
-  if (targets.length === 0) return articles;
-  const updates = (
-    await Promise.all(
-      targets.slice(0, 8).map(async (article) => {
-        const story = await fetchNhkStory(article.url);
-        if (!story.text && !story.image) return null;
-        const body = story.text || article.body;
-        const next: Article = {
-          ...article,
-          body,
-          excerpt: body ? excerptFromBody(body) : article.excerpt,
-          image: article.image || story.image,
-          bodyComplete: Boolean(story.text || article.body),
-        };
-        return next;
-      }),
-    )
-  ).filter((article): article is Article => article != null);
-  if (updates.length === 0) return articles;
-  await mergeArticles(updates);
-  const byId = new Map(updates.map((article) => [article.id, article]));
-  return articles.map((article) => byId.get(article.id) ?? article);
-}
-
 function capDay(articles: Article[]): Article[] {
   const seen = new Map<string, number>();
   const kept: Article[] = [];
@@ -306,7 +275,7 @@ export async function getDayArticles(
   const filtered = desk
     ? matched.filter((article) => article.desks.includes(desk))
     : matched;
-  return withNhkMedia(sortNewest(filtered));
+  return sortNewest(filtered);
 }
 
 export async function latestDay(locale: Locale): Promise<string | null> {

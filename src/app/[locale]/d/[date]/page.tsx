@@ -8,7 +8,7 @@ import { isLocale } from "@/lib/locale";
 import { getDayArticles, getDaySummaries } from "@/lib/rss";
 import { formatDayHeading, formatDayMeta, isDayKey } from "@/lib/time";
 
-export const revalidate = 120;
+export const revalidate = 1800;
 
 export async function generateStaticParams() {
   const params: { locale: string; date: string }[] = [];

@@ -55,7 +55,7 @@ const dictionary = {
     archiveLead: "表から外した見出しです。14日を過ぎると消えます。",
     archiveEmpty: "まだ過去に送った見出しはありません。",
     archiveLink: "過去の見出し",
-    live: "90秒ごとに取り込み",
+    live: "30分ごとに取り込み",
     freshWindow: "表は24時間以内",
     footerNote:
       "配信に含まれる本文を記事ページに出しています。見出しだけの配信は、発行元ページの要点を表示します。有料記事は入れていません。著作権は各社にあります。",
@@ -142,7 +142,7 @@ const dictionary = {
     archiveLead: "Headlines moved off the front. They drop after 14 days.",
     archiveEmpty: "Nothing has been filed to the archive yet.",
     archiveLink: "Older headlines",
-    live: "Ingested every 90 seconds",
+    live: "Ingested every 30 minutes",
     freshWindow: "Front page is the last 24 hours",
     footerNote:
       "Article pages show the text included in each feed. Headline-only feeds show the publisher's own lead. Paywalled outlets are left out. Copyright stays with the publishers.",

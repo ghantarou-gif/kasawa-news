@@ -1,7 +1,7 @@
 import type { Category } from "./i18n";
 
-export const REVALIDATE_SECONDS = 120;
-export const POLL_SECONDS = 90;
+/** ISR / fetch cache. 30 minutes keeps headlines fresh enough without burning credits. */
+export const REVALIDATE_SECONDS = 1800;
 export const FRESH_MS = 24 * 60 * 60 * 1000;
 export const ARCHIVE_KEEP_MS = 14 * 24 * 60 * 60 * 1000;
 export const FETCH_TIMEOUT_MS = 10000;

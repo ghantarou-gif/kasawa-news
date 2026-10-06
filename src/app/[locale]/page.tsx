@@ -9,7 +9,7 @@ import { t } from "@/lib/i18n";
 import { excludeMinorSports, sortDomesticFirst } from "@/lib/feed-order";
 import { getDayArticles, getDaySummaries } from "@/lib/rss";
 
-export const revalidate = 120;
+export const revalidate = 1800;
 
 export async function generateMetadata({
   params,

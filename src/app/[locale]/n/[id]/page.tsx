@@ -16,7 +16,7 @@ import { siteUrl } from "@/lib/site";
 import { getTake } from "@/lib/takes";
 import { articleDayKey, formatWhen } from "@/lib/time";
 
-export const revalidate = 120;
+export const revalidate = 1800;
 
 export async function generateStaticParams() {
   if (process.env.GITHUB_PAGES !== "1") return [];

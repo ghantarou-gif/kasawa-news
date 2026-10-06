@@ -3,10 +3,8 @@ import { notFound } from "next/navigation";
 import { DeskHeader } from "@/components/DeskHeader";
 import { HtmlLang } from "@/components/HtmlLang";
 import { SiteFooter } from "@/components/SiteFooter";
-import { LiveRefresh } from "@/components/LiveRefresh";
 import { t } from "@/lib/i18n";
 import { isLocale } from "@/lib/locale";
-import { getDaySummaries } from "@/lib/rss";
 
 export function generateStaticParams() {
   return [{ locale: "ja" }, { locale: "en" }];
@@ -35,13 +33,11 @@ export default async function LocaleLayout({
 }) {
   const { locale } = await params;
   if (!isLocale(locale)) notFound();
-  const { updatedAt } = await getDaySummaries(locale);
 
   return (
     <div className="flex min-h-full flex-col">
       <HtmlLang locale={locale} />
-      <DeskHeader locale={locale} updatedAt={updatedAt} />
-      <LiveRefresh />
+      <DeskHeader locale={locale} updatedAt={new Date().toISOString()} />
       <div className="site-shell mx-auto w-full max-w-6xl flex-1 px-4 sm:px-6">{children}</div>
       <div className="site-shell mx-auto w-full max-w-6xl px-4 sm:px-6">
         <SiteFooter locale={locale} />

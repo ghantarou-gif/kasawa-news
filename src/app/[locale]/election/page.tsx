@@ -7,7 +7,7 @@ import { t } from "@/lib/i18n";
 import { isLocale } from "@/lib/locale";
 import { getElectionArticles } from "@/lib/rss";
 
-export const revalidate = 120;
+export const revalidate = 1800;
 
 export function generateStaticParams() {
   return [{ locale: "ja" }, { locale: "en" }];
