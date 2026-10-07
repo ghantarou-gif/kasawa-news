@@ -1,3 +1,4 @@
+import { dynamicSiteUrl } from "@/lib/hosting";
 import { t } from "@/lib/i18n";
 import type { Locale } from "@/lib/locale";
 
@@ -56,7 +57,7 @@ export function MemberGate({
       ) : null}
 
       {!action ? (
-        <a className="open-btn mt-8 px-5" href={`https://kasawa.news/${locale}/members/x`}>
+        <a className="open-btn mt-8 px-5" href={`${dynamicSiteUrl}/${locale}/members/x`}>
           {copy.memberExport}
         </a>
       ) : null}
