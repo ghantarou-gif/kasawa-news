@@ -1,3 +1,5 @@
+import { mkdir, readFile, rename, writeFile } from "node:fs/promises";
+import path from "node:path";
 import { cache } from "react";
 import {
   excerptFromBody,
@@ -90,7 +92,8 @@ function canonicalizeUrl(url: string): string {
       "utm_medium",
       "utm_campaign",
     ].forEach((key) => parsed.searchParams.delete(key));
-    if (parsed.hostname.startsWith("www.")) {
+    // itmedia.co.jp without www redirects to the site root, not the article.
+    if (parsed.hostname.startsWith("www.") && !parsed.hostname.endsWith("itmedia.co.jp")) {
       parsed.hostname = parsed.hostname.slice(4);
     }
     return parsed.toString();
@@ -292,54 +295,154 @@ export async function getElectionArticles(
   return sortNewest(matched).slice(0, limit);
 }
 
-export async function getArticleById(
-  locale: Locale,
-  articleId: string,
-): Promise<Article | null> {
-  const items = await ingest(locale);
-  const article =
-    items.find(
-      (item) => item.id === articleId || encodeArticleId(item.id) === articleId,
-    ) ?? null;
-  if (!article) return null;
-  if (githubPages) return article;
+function longer(next?: string, previous?: string): string {
+  const incoming = next?.trim() ?? "";
+  const stored = previous?.trim() ?? "";
+  return incoming.length >= stored.length ? incoming : stored;
+}
+
+/** Reads the publisher page when the stored feed text is still a blurb. */
+async function fillStory(article: Article): Promise<Article> {
   if (nhkArticleId(article.url)) {
     if (article.bodyComplete && article.image) return article;
     const story = await fetchNhkStory(article.url);
     if (!story.text && !story.image) return article;
-    const body = story.text || article.body;
-    const next: Article = {
+    const body = longer(story.text, article.body);
+    return {
       ...article,
       body,
       excerpt: body ? excerptFromBody(body) : article.excerpt,
       image: article.image || story.image,
-      bodyComplete: Boolean(story.text || article.body),
+      bodyComplete: Boolean(body),
     };
-    await mergeArticles([next]);
-    return next;
   }
   if (!shouldExpandStory(article)) return article;
   const current = (article.body || article.excerpt || "").trim();
   const lead = await fetchArticleLead(article.url, article.title);
   if (!lead) return article;
   if (lead.length <= current.length + 40) {
-    const settled: Article = {
+    return {
       ...article,
       body: article.body || lead,
       bodyComplete: true,
     };
-    await mergeArticles([settled]);
-    return settled;
   }
-  const next: Article = {
+  return {
     ...article,
     body: lead,
     excerpt: excerptFromBody(lead),
     bodyComplete: true,
   };
-  await mergeArticles([next]);
-  return next;
 }
+
+const PAGES_STORY_PATH = path.join(process.cwd(), "data", "pages-stories.json");
+const PAGES_FILL_CONCURRENCY = 6;
+
+type BakedStory = {
+  body: string;
+  excerpt: string;
+  image: string | null;
+};
+
+const bakedStories = new Map<string, BakedStory>();
+let bakedFile: Map<string, BakedStory> | null = null;
+
+function toBaked(article: Article): BakedStory {
+  return {
+    body: article.body || "",
+    excerpt: article.excerpt || "",
+    image: article.image,
+  };
+}
+
+function needsFill(article: Article): boolean {
+  if (nhkArticleId(article.url) && (!article.image || shouldExpandStory(article))) return true;
+  return shouldExpandStory(article);
+}
+
+async function mapPool<T>(items: T[], limit: number, fn: (item: T) => Promise<void>): Promise<void> {
+  if (items.length === 0) return;
+  let index = 0;
+  const workers = Array.from({ length: Math.min(limit, items.length) }, async () => {
+    while (index < items.length) {
+      const current = index;
+      index += 1;
+      await fn(items[current]);
+    }
+  });
+  await Promise.all(workers);
+}
+
+async function flushBakedStories(): Promise<void> {
+  await mkdir(path.dirname(PAGES_STORY_PATH), { recursive: true });
+  const tmp = `${PAGES_STORY_PATH}.tmp`;
+  await writeFile(tmp, JSON.stringify(Object.fromEntries(bakedStories)));
+  await rename(tmp, PAGES_STORY_PATH);
+  bakedFile = bakedStories;
+}
+
+/** GitHub Pages bakes HTML at build time, so publisher text has to be fetched then. */
+async function expandForStaticPages(articles: Article[]): Promise<void> {
+  const pending = articles.filter((article) => !bakedStories.has(article.id));
+  for (const article of pending) {
+    if (!needsFill(article)) bakedStories.set(article.id, toBaked(article));
+  }
+  const targets = pending.filter((article) => !bakedStories.has(article.id));
+  console.log(`Expanding ${targets.length} article bodies for the static site`);
+  await mapPool(targets, PAGES_FILL_CONCURRENCY, async (article) => {
+    try {
+      bakedStories.set(article.id, toBaked(await fillStory(article)));
+    } catch {
+      bakedStories.set(article.id, toBaked(article));
+    }
+  });
+  await flushBakedStories();
+}
+
+async function bakedStory(id: string): Promise<BakedStory | null> {
+  if (bakedStories.has(id)) return bakedStories.get(id) ?? null;
+  if (!bakedFile) {
+    try {
+      const raw = await readFile(PAGES_STORY_PATH, "utf8");
+      bakedFile = new Map(Object.entries(JSON.parse(raw) as Record<string, BakedStory>));
+    } catch {
+      return null;
+    }
+  }
+  return bakedFile.get(id) ?? null;
+}
+
+function applyBaked(article: Article, baked: BakedStory): Article {
+  const body = longer(baked.body, article.body);
+  const image = article.image || baked.image;
+  if (body === (article.body || "") && image === (article.image || null)) return article;
+  return {
+    ...article,
+    body,
+    excerpt: body ? excerptFromBody(body) : article.excerpt,
+    image,
+    bodyComplete: true,
+  };
+}
+
+export const getArticleById = cache(async (
+  locale: Locale,
+  articleId: string,
+): Promise<Article | null> => {
+  const items = await ingest(locale);
+  const article =
+    items.find(
+      (item) => item.id === articleId || encodeArticleId(item.id) === articleId,
+    ) ?? null;
+  if (!article) return null;
+  if (githubPages) {
+    const baked = await bakedStory(article.id);
+    return baked ? applyBaked(article, baked) : article;
+  }
+  const filled = await fillStory(article);
+  if (filled !== article) await mergeArticles([filled]);
+  return filled;
+});
 
 export async function getRelatedArticles(
   locale: Locale,
@@ -360,5 +463,7 @@ export async function listCappedArticles(locale: Locale): Promise<Article[]> {
     list.push(article);
     buckets.set(key, list);
   }
-  return [...buckets.values()].flatMap((list) => capDay(list));
+  const list = [...buckets.values()].flatMap((day) => capDay(day));
+  if (githubPages) await expandForStaticPages(list);
+  return list;
 }
