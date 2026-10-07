@@ -27,7 +27,11 @@ Vercel 本番（https://kasawa-news.vercel.app）が `402 DEPLOYMENT_DISABLED` �
 
 ## 会員限定（編集者思考）
 
-`/ja/members/x` と `/en/members/x` は、会員コードを入れたブラウザだけ本文を出します。コードが違うとき、未設定のときは項目をHTMLに含めません。公開先は https://kasawa-news.vercel.app/ja/members/x です。`kasawa.news` は名前が引けないので使いません。GitHub Pages の静的書き出しには本文を載せず、このVercelのURLへ案内します。
+`/ja/members/x` と `/en/members/x` は、会員コードを入れたブラウザだけ本文を出します。`kasawa.news` は名前が引けないので使いません。
+
+いま開ける公開ページは https://ghantarou-gif.github.io/kasawa-news/ja/members/x/ です。ここはブラウザでコードを照合します。照合用のSHA-256は GitHub Actions の `NEXT_PUBLIC_MEMBER_CODE_SHA256` です。
+
+Vercel（https://kasawa-news.vercel.app/ja/members/x）はサーバーで照合します。環境変数 `MEMBER_ACCESS_CODES` が無いと項目は出ません。
 
 ```bash
 MEMBER_ACCESS_CODES="会員に配るコード"
