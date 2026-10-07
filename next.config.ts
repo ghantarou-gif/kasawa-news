@@ -8,6 +8,11 @@ const nextConfig: NextConfig = {
         trailingSlash: true,
         basePath: githubPagesBasePath,
         images: { unoptimized: true },
+        turbopack: {
+          resolveAlias: {
+            "@/lib/member-desk": "./src/lib/member-desk-static.tsx",
+          },
+        },
       }
     : {}),
   env: {
@@ -38,6 +43,14 @@ const nextConfig: NextConfig = {
               source: "/:locale(ja|en)/buzz.html",
               destination: "/buzz.html",
               permanent: false,
+            },
+          ];
+        },
+        async headers() {
+          return [
+            {
+              source: "/:locale(ja|en)/members/:path*",
+              headers: [{ key: "Cache-Control", value: "private, no-store" }],
             },
           ];
         },
