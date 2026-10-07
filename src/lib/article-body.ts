@@ -173,7 +173,20 @@ function yahooPageUrl(url: string, page: number): string {
   return parsed.toString();
 }
 
-async function fetchHtml(url: string): Promise<string> {
+/** A redirect to the publisher homepage is not the article. */
+function landedOnStory(requestUrl: string, responseUrl: string): boolean {
+  if (!sameSite(requestUrl, responseUrl)) return false;
+  try {
+    const requested = new URL(requestUrl).pathname.replace(/\/+$/, "");
+    const landed = new URL(responseUrl).pathname.replace(/\/+$/, "");
+    if (requested && !landed) return false;
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+async function fetchHtmlOnce(url: string): Promise<string> {
   const response = await fetch(url, {
     next: { revalidate: REVALIDATE_SECONDS },
     signal: AbortSignal.timeout(FETCH_TIMEOUT_MS),
@@ -182,12 +195,25 @@ async function fetchHtml(url: string): Promise<string> {
       "User-Agent": "NyanChu/1.0 RSS reader",
     },
   });
-  if (!response.ok || !sameSite(url, response.url)) return "";
+  if (!response.ok || !landedOnStory(url, response.url)) return "";
   const type = response.headers.get("content-type") ?? "";
   if (type && !type.includes("html") && !type.includes("xml") && !type.includes("json")) {
     return "";
   }
   return (await response.text()).slice(0, 400_000);
+}
+
+async function fetchHtml(url: string): Promise<string> {
+  const first = await fetchHtmlOnce(url);
+  if (first) return first;
+  try {
+    const parsed = new URL(url);
+    if (parsed.hostname.startsWith("www.")) return "";
+    parsed.hostname = `www.${parsed.hostname}`;
+    return await fetchHtmlOnce(parsed.toString());
+  } catch {
+    return "";
+  }
 }
 
 async function fetchYahooArticle(url: string): Promise<string> {
@@ -372,13 +398,15 @@ export function nhkArticleId(url: string): string | null {
 
 /** NHK publishes a short lead in RSS. The rest sits behind their usage check. */
 export function nhkLeadText(value: string): string {
-  return value
+  const lines = value
     .replace(/\r/g, "")
     .replace(/<[^>]+>/g, " ")
     .split(/\n+/)
     .map((line) => line.replace(/\s+/g, " ").replace(/^【NHK】/, "").trim())
-    .filter((line) => line.length >= 8 && /[。！？.!?」）)]$/.test(line))
-    .join("\n\n");
+    .filter((line) => line.length >= 8);
+  const finished = lines.filter((line) => /[。！？.!?」）)]$/.test(line));
+  // The public JSON lead is often cut off mid-sentence around 100 characters.
+  return (finished.length > 0 ? finished : lines).join("\n\n");
 }
 
 type NhkArticleJson = {

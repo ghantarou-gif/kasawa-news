@@ -33,8 +33,9 @@ yarn-error.log*
 # env files (can opt-in for committing if needed)
 .env*
 
-# local headline archive
+# local headline archive and static-export story cache
 /data/headlines.json
+/data/pages-stories.json
 
 # vercel
 .vercel
