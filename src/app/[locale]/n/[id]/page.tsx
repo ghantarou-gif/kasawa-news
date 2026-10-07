@@ -12,6 +12,7 @@ import { genres, primaryGenre } from "@/lib/genres";
 import { t } from "@/lib/i18n";
 import { isLocale } from "@/lib/locale";
 import { getArticleById, getRelatedArticles, listCappedArticles } from "@/lib/rss";
+import { articleOpenGraphImage } from "@/lib/share-image";
 import { siteUrl } from "@/lib/site";
 import { getTake } from "@/lib/takes";
 import { articleDayKey, formatWhen } from "@/lib/time";
@@ -48,7 +49,7 @@ export async function generateMetadata({
       ? "記事の本文を表示しています。"
       : "The story text is on this page.");
 
-  const images = article.image ? [{ url: article.image, alt: article.title }] : undefined;
+  const card = articleOpenGraphImage(article.image);
 
   return {
     title: article.title,
@@ -57,14 +58,14 @@ export async function generateMetadata({
       type: "article",
       title: article.title,
       description,
-      images,
       url: `${siteUrl()}/${locale}/n/${id}`,
+      images: [{ ...card, alt: article.title }],
     },
     twitter: {
-      card: article.image ? "summary_large_image" : "summary",
+      card: "summary_large_image",
       title: article.title,
       description,
-      images: article.image ? [article.image] : undefined,
+      images: [card.url],
     },
   };
 }
