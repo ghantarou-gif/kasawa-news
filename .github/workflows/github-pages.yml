@@ -28,7 +28,7 @@ jobs:
         env:
           GITHUB_PAGES: "1"
           NEXT_PUBLIC_SITE_URL: https://ghantarou-gif.github.io/kasawa-news
-          NEXT_PUBLIC_MEMBER_CODE_SHA256: "d8c46bb06452abf9e893afda1ea5291823029b9612c13f264afa2932e1f5f70c"
+          NEXT_PUBLIC_MEMBER_CODE_SHA256: "789beea79c9ae46f0b08cbb56ec514b57d148ac7fc7bd12d09bc2d11e3ef644e"
           NEXT_PUBLIC_ADSENSE_CLIENT: ca-pub-9222859203841922
       - run: touch out/.nojekyll
       - uses: peaceiris/actions-gh-pages@v4
