@@ -338,20 +338,91 @@ function doCopy() {
     showToast('テキストエリアをクリックして Ctrl+C でコピーしてください');
   }
 }
+function repairJson(raw) {
+  var out = '';
+  var inString = false;
+  var escaped = false;
+  for (var i = 0; i < raw.length; i++) {
+    var char = raw[i];
+    if (inString) {
+      if (escaped) { out += char; escaped = false; continue; }
+      if (char === '\\') { out += char; escaped = true; continue; }
+      if (char === '"') { inString = false; out += char; continue; }
+      if (char === '\n') { out += '\\n'; continue; }
+      if (char === '\r') continue;
+      out += char;
+      continue;
+    }
+    if (char === '"') inString = true;
+    out += (char === '\u201C' || char === '\u201D') ? '"' : char;
+  }
+  return out.replace(/,\s*([}\]])/g, '$1');
+}
+function extractJsonBlocks(raw) {
+  var cleaned = raw.replace(/```(?:json)?/gi, '');
+  var blocks = [];
+  var cursor = 0;
+  while (cursor < cleaned.length) {
+    var relative = cleaned.slice(cursor).search(/[[{]/);
+    if (relative < 0) break;
+    var start = cursor + relative;
+    var open = cleaned[start];
+    var close = open === '[' ? ']' : '}';
+    var depth = 0;
+    var inString = false;
+    var escaped = false;
+    var end = -1;
+    for (var index = start; index < cleaned.length; index++) {
+      var char = cleaned[index];
+      if (inString) {
+        if (escaped) escaped = false;
+        else if (char === '\\') escaped = true;
+        else if (char === '"') inString = false;
+        continue;
+      }
+      if (char === '"') inString = true;
+      else if (char === open) depth += 1;
+      else if (char === close) {
+        depth -= 1;
+        if (depth === 0) { end = index; break; }
+      }
+    }
+    if (end < 0) break;
+    blocks.push(cleaned.slice(start, end + 1));
+    cursor = end + 1;
+  }
+  return blocks;
+}
+function postsFromParsed(value) {
+  var list = Array.isArray(value) ? value : (value && (value.posts || value.items || value.data));
+  if (!Array.isArray(list)) {
+    if (value && typeof value.text === 'string') list = [value];
+    else return [];
+  }
+  return list.map(function(item) {
+    if (typeof item === 'string') return { text: item, style: '', tag: 'analysis' };
+    if (!item || typeof item !== 'object') return null;
+    var text = item.text || item.body || item.content || item.post || '';
+    if (typeof text !== 'string' || !text.trim()) return null;
+    return { text: text.replace(/\\n/g, '\n'), style: item.style || '', tag: item.tag || 'analysis' };
+  }).filter(Boolean);
+}
 function doImport() {
   var raw = document.getElementById('pasteArea').value.trim();
-  if (!raw) { showToast('JSONを貼り付けてください'); return; }
-  var parsed;
-  try {
-    var m = raw.match(/\{[\s\S]*"posts"[\s\S]*\}/);
-    if (!m) throw new Error('no json');
-    parsed = JSON.parse(m[0]);
-  } catch (e) {
-    showToast('❌ JSONの形式が正しくありません');
-    return;
+  if (!raw) { showToast('貼り付け欄が空です。生成結果を貼ってから取り込んでください'); return; }
+  var posts = [];
+  extractJsonBlocks(raw).some(function(block) {
+    try {
+      posts = postsFromParsed(JSON.parse(repairJson(block)));
+      return posts.length > 0;
+    } catch (e) {
+      return false;
+    }
+  });
+  if (!posts.length && !/^[[{]/.test(raw.replace(/```(?:json)?/gi, '').trim())) {
+    posts = [{ text: raw, style: '', tag: 'analysis' }];
   }
-  var posts = parsed.posts || [];
-  if (!posts.length) { showToast('ポストが0件です'); return; }
+  if (!posts.length) { showToast('❌ JSONの形式が正しくありません。Claudeの返答をそのまま貼ってください'); return; }
   var base = generatedPosts.length;
   posts.forEach(function(p, i){ p.id = base + i + 1; });
   generatedPosts = generatedPosts.concat(posts);
