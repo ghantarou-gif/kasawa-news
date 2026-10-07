@@ -23,6 +23,18 @@ Vercel 本番（https://kasawa-news.vercel.app）が `402 DEPLOYMENT_DISABLED` �
 - X検索ツール連動: `.env` の `NEXT_PUBLIC_NYANCHU_URL` / `integrations/README.md`
 - RSSの配信元: `src/lib/feeds.ts`
 - 画面の文言: `src/lib/i18n.ts`
+- 会員限定ページ（`/ja/members/x`）: `.env` の `MEMBER_ACCESS_CODES`（カンマ区切り）と、任意で `MEMBER_SECRET`
+
+## 会員限定（編集者思考）
+
+`/ja/members/x` と `/en/members/x` は、会員コードを入れたブラウザだけ本文を出します。コードが違うとき、未設定のときは項目をHTMLに含めません。公開先は https://kasawa-news.vercel.app/ja/members/x です。`kasawa.news` は名前が引けないので使いません。GitHub Pages の静的書き出しには本文を載せず、このVercelのURLへ案内します。
+
+```bash
+MEMBER_ACCESS_CODES="会員に配るコード"
+MEMBER_SECRET="クッキー署名用の長いランダム文字列"
+```
+
+Vercel の環境変数に入れて再デプロイします。`MEMBER_SECRET` を変えると、入っている人は一度外れます。
 
 ## 旅ガイド（X → サイト → 旅行アフィリ）
 

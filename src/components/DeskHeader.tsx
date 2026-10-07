@@ -105,6 +105,9 @@ export function DeskHeader({
           <Link href={`/${locale}/book`} className="header-nav-link">
             {copy.book}
           </Link>
+          <Link href={`/${locale}/members/x`} className="header-nav-link">
+            {copy.memberNav}
+          </Link>
         </nav>
 
         <p className="max-w-2xl text-[13px] leading-6 text-muted sm:text-[14px]">
