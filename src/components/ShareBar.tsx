@@ -1,6 +1,6 @@
 "use client";
 
-import { useCallback, useEffect, useMemo, useState } from "react";
+import { useCallback, useMemo, useState } from "react";
 import { t } from "@/lib/i18n";
 import type { Locale } from "@/lib/locale";
 
@@ -24,11 +24,7 @@ export function ShareBar({
 }) {
   const copy = t(locale);
   const [copied, setCopied] = useState(false);
-  const [shareUrl, setShareUrl] = useState(url);
-
-  useEffect(() => {
-    setShareUrl(window.location.href.split("#")[0]);
-  }, [url]);
+  const shareUrl = url;
 
   const tweetText = useMemo(() => {
     const body = take?.trim() || title.trim();
