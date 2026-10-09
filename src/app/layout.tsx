@@ -21,6 +21,15 @@ export const metadata: Metadata = {
     template: "%s · NyanChu",
   },
   description: "日付別にまとめたニュース見出し。無料RSSから自動取得。",
+  openGraph: {
+    type: "website",
+    locale: "ja_JP",
+    images: [{ url: "/opengraph-image", width: 1200, height: 630, alt: "NyanChu" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    images: ["/opengraph-image"],
+  },
   ...(adsensePublisher
     ? { other: { "google-adsense-account": adsensePublisher } }
     : {}),
