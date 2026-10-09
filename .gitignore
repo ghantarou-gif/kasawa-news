@@ -16,6 +16,10 @@
 # next.js
 /.next/
 /out/
+/public/og/*.jpg
+/public/og/*.jpeg
+/public/og/*.png
+/public/og/*.webp
 
 # production
 /build

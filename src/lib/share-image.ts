@@ -1,3 +1,5 @@
+import { existsSync } from "node:fs";
+import path from "node:path";
 import { siteUrl } from "@/lib/site";
 
 export const OG_WIDTH = 1200;
@@ -63,7 +65,18 @@ export function proxiedShareImage(url: string): string {
 
 export function articleOpenGraphImage(
   image: string | null,
+  pathId?: string,
 ): { url: string; width: number; height: number } {
+  if (pathId) {
+    const local = path.join(process.cwd(), "public", "og", `${pathId}.jpg`);
+    if (existsSync(local)) {
+      return {
+        url: `${siteUrl()}/og/${pathId}.jpg`,
+        width: OG_WIDTH,
+        height: OG_HEIGHT,
+      };
+    }
+  }
   if (image && !isPlaceholderImage(image)) {
     return { url: proxiedShareImage(image), width: OG_WIDTH, height: OG_HEIGHT };
   }

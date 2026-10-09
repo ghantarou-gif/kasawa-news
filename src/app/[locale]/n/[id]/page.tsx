@@ -49,7 +49,7 @@ export async function generateMetadata({
       ? "記事の本文を表示しています。"
       : "The story text is on this page.");
 
-  const card = articleOpenGraphImage(article.image);
+  const card = articleOpenGraphImage(article.image, id);
 
   return {
     title: article.title,
