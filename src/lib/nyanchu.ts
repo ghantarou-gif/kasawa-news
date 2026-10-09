@@ -1,3 +1,5 @@
+import { publicHref } from "@/lib/hosting";
+
 // Search tool ships with this site at /search.html (see public/search.html).
 // Override with NEXT_PUBLIC_NYANCHU_URL only when hosting it elsewhere.
 const DEFAULT = "/search.html";
@@ -24,8 +26,10 @@ function isDeadHost(url: string): boolean {
 
 export function nyanchuBaseUrl(): string {
   const fromEnv = process.env.NEXT_PUBLIC_NYANCHU_URL?.trim();
-  if (fromEnv && !isDeadHost(fromEnv)) return fromEnv;
-  return DEFAULT;
+  if (fromEnv && !isDeadHost(fromEnv)) {
+    return /^https?:\/\//i.test(fromEnv) ? fromEnv : publicHref(fromEnv);
+  }
+  return publicHref(DEFAULT);
 }
 
 export function nyanchuSearchUrl(prefill: NyanchuPrefill): string {
