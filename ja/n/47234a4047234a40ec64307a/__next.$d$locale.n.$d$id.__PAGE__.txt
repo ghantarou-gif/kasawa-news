@@ -1,0 +1,81 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d9ee/live/06010330-c283-11f1-98ea-35e6bf307fc9.jpg","image"]
+c:X
+11:X
+11:C
+0:{"buildId":"lHj7I3KPIAqT3z8d_3G7v","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-08","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"スペインで自宅を退去させられた女性が死去 住宅危機の抗議運動の象徴"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"一昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d9ee/live/06010330-c283-11f1-98ea-35e6bf307fc9.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"マリカルメン・アバスカルさんは2週間前、マドリードのアパートから立ち退きを命じられた（9月23日）"}],["$","p","1",{"children":"アバスカルさんが自宅の椅子に座っている。短い黒髪で、クリーム色のベストを着ている。膝の上には旅行かばんが置いてある。すぐそばで、顔は映っていない別の女性が、ハンガーにかかった服を手にもって見せている"}],["$","p","2",{"children":"マドリードで70年以上住んだ自宅から立ち退きを強いられ、スペインの住宅危機をめぐる全国的な抗議運動と、早期選挙につながる政治的な論争において象徴的存在となっていたマリカルメン・アバスカルさん（87）が7日、死去した。マドリードの貸借人組合が明らかにした。"}],["$","p","3",{"children":"アバスカルさんは先に9月23日、自宅アパートの家賃が大幅に値上げされて支払えなくなり、ストレッチャーに乗せられて強制退去させられた。"}],["$","p","4",{"children":"アパートを所有する投資会社はその後、低い賃料での再入居を提案したが、アバスカルさんは入院したため、契約書に署名できていなかった。"}],["$","p","5",{"children":"マドリード貸借人組合は声明で、「残念ながら、マリカルメンが今日亡くなったことお知らせする」と発表。彼女の状況が「この国の歴史における転換点」になったと付け加えた。"}],["$","p","6",{"children":"アバスカルさんは、父親が1956年から借り始めたマドリードのアパートに、両親の死後も家賃の上限が設けられた状態で住み続けていた。しかし、2018年にこの物件を購入した投資会社ウルバジェスティオンは、家賃を500ユーロ（約9万円）から2650ユーロ（約47万円）に釣り上げた。"}],["$","p","7",{"children":"その後、家賃は1650ユーロまで引き下げられたが、それでもアバスカルさんの月々の年金支給額の1350ユーロよりも高かった。"}],["$","p","8",{"children":"裁判所はこれまでに3回、アバスカルさんの強制退去を差し止めており、メディアも注目していた。"}],["$","p","9",{"children":"9月23日に強制退去が報じられると、マドリードでは住宅支援策を求める抗議活動が発生。抗議はその後、バルセロナ、セビリア、マラガ、カディスなどの都市にも広がった。"}],["$","p","10",{"children":"仮設の祭壇の前で、多くの人がアバスカルさんを追悼した"}],["$","p","11",{"children":"フェンスの前に顔のイラストなどを掲示した祭壇のようなものがあり、赤や白のろうそくやメッセージが書かれた紙などが置かれている。それを取り囲むように人々が座ったり立ったりしている"}],["$","p","12",{"children":"アバスカルさん死去のニュースが伝えられると、マドリードのプエルタ・デル・ソル広場では、人々から一斉にあえぐような声がもれた。そして、1分間の黙とうがささげられた。この広場は、アバスカルさんが立ち退きを命じられて以降、より手頃な価格の住まいを求めて抗議する人々の野営場所となっている。"}],["$","p","13",{"children":"この夜、広場の周辺にはろうそく数十本がともされ、小規模で自主的な追悼集会が開かれた。マドリード州政府庁舎の前には、アバスカルさんをしのぶための祭壇が作られ、ろうそくで飾られた。"}],["$","p","14",{"children":"ろうそくのわきに置かれた段ボールのプラカードには、「これは死ではない、殺人だ」、「闘いは続く」、「マリカルメンはスペイン全体の祖母だ」といったメッセージが書かれていた。"}],["$","p","15",{"children":"その後、数百人が広場からスペイン議会まで行進し、「もう1件の立ち退きも許さない」、「闘いは続く、マリカルメンはまだ生きている」などと声を上げた。ファシズムや警察に抗議するかけ声も上がった。"}],["$","p","16",{"children":"貸借人組合の広報を務めるアリシア・デル・リオ氏は、「投機は命を奪う。今日、家賃で不当な利益を得ようとする行為が、私たちの仲間マリカルメンの命を奪った」とコメント。「彼女の記憶は私たちの心の中で生き続ける」とした。"}],["$","p","17",{"children":"組合はこの日、住宅改革を要求し、11月11日にゼネラルストライキを実施すると発表していた。"}],["$","p","18",{"children":"マドリードのプエルタ・デル・ソル広場には、アバスカルさんの死後、抗議する人たちが集まった"}],["$","p","19",{"children":"夜間、ともされたろうそくの周りに多くの人が集まっている"}],["$","p","20",{"children":"スペインのペドロ・サンチェス首相は、「マリカルメンの家族と愛する人々に心からお悔やみ申し上げる」、「今日この喪失を自分のことのように感じているすべての人々にもお見舞い申し上げる」と述べた。"}],["$","p","21",{"children":"サンチェス首相は5日、住宅危機に対処するために左派連立政権が提出した一連の措置が議会で否決されたことを受け、議会を解散して11月29日に総選挙を実施すると発表している。"}],["$","p","22",{"children":"（英語記事 Spanish pensioner whose eviction sparked nationwide protests dies）"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/cw80zvdr71z1o","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}],["$","section",null,{"className":"article-actions","children":["$L3","$L4","$L5"]}],"$L6",null,"$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":"$@b","staleTime":"$c","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$c","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$c","varyParams":"$11"},{"rsc":"$L12","isPartial":"$@13","staleTime":"$c","varyParams":"$11"}],"isUpgradeableISRFallback":false,"a":"$@14","rootVaryParams":null,"needsRuntimeRequest":"$@15"}
+16:I[36936,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+17:I[98337,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+19:I[9441,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+1a:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1e:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1f:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+20:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+21:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","$L16",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/47234a4047234a40ec64307a","title":"スペインで自宅を退去させられた女性が死去 住宅危機の抗議運動の象徴","locale":"ja","take":null}]
+18:T1459,マリカルメン・アバスカルさんは2週間前、マドリードのアパートから立ち退きを命じられた（9月23日）
+
+アバスカルさんが自宅の椅子に座っている。短い黒髪で、クリーム色のベストを着ている。膝の上には旅行かばんが置いてある。すぐそばで、顔は映っていない別の女性が、ハンガーにかかった服を手にもって見せている
+
+マドリードで70年以上住んだ自宅から立ち退きを強いられ、スペインの住宅危機をめぐる全国的な抗議運動と、早期選挙につながる政治的な論争において象徴的存在となっていたマリカルメン・アバスカルさん（87）が7日、死去した。マドリードの貸借人組合が明らかにした。
+
+アバスカルさんは先に9月23日、自宅アパートの家賃が大幅に値上げされて支払えなくなり、ストレッチャーに乗せられて強制退去させられた。
+
+アパートを所有する投資会社はその後、低い賃料での再入居を提案したが、アバスカルさんは入院したため、契約書に署名できていなかった。
+
+マドリード貸借人組合は声明で、「残念ながら、マリカルメンが今日亡くなったことお知らせする」と発表。彼女の状況が「この国の歴史における転換点」になったと付け加えた。
+
+アバスカルさんは、父親が1956年から借り始めたマドリードのアパートに、両親の死後も家賃の上限が設けられた状態で住み続けていた。しかし、2018年にこの物件を購入した投資会社ウルバジェスティオンは、家賃を500ユーロ（約9万円）から2650ユーロ（約47万円）に釣り上げた。
+
+その後、家賃は1650ユーロまで引き下げられたが、それでもアバスカルさんの月々の年金支給額の1350ユーロよりも高かった。
+
+裁判所はこれまでに3回、アバスカルさんの強制退去を差し止めており、メディアも注目していた。
+
+9月23日に強制退去が報じられると、マドリードでは住宅支援策を求める抗議活動が発生。抗議はその後、バルセロナ、セビリア、マラガ、カディスなどの都市にも広がった。
+
+仮設の祭壇の前で、多くの人がアバスカルさんを追悼した
+
+フェンスの前に顔のイラストなどを掲示した祭壇のようなものがあり、赤や白のろうそくやメッセージが書かれた紙などが置かれている。それを取り囲むように人々が座ったり立ったりしている
+
+アバスカルさん死去のニュースが伝えられると、マドリードのプエルタ・デル・ソル広場では、人々から一斉にあえぐような声がもれた。そして、1分間の黙とうがささげられた。この広場は、アバスカルさんが立ち退きを命じられて以降、より手頃な価格の住まいを求めて抗議する人々の野営場所となっている。
+
+この夜、広場の周辺にはろうそく数十本がともされ、小規模で自主的な追悼集会が開かれた。マドリード州政府庁舎の前には、アバスカルさんをしのぶための祭壇が作られ、ろうそくで飾られた。
+
+ろうそくのわきに置かれた段ボールのプラカードには、「これは死ではない、殺人だ」、「闘いは続く」、「マリカルメンはスペイン全体の祖母だ」といったメッセージが書かれていた。
+
+その後、数百人が広場からスペイン議会まで行進し、「もう1件の立ち退きも許さない」、「闘いは続く、マリカルメンはまだ生きている」などと声を上げた。ファシズムや警察に抗議するかけ声も上がった。
+
+貸借人組合の広報を務めるアリシア・デル・リオ氏は、「投機は命を奪う。今日、家賃で不当な利益を得ようとする行為が、私たちの仲間マリカルメンの命を奪った」とコメント。「彼女の記憶は私たちの心の中で生き続ける」とした。
+
+組合はこの日、住宅改革を要求し、11月11日にゼネラルストライキを実施すると発表していた。
+
+マドリードのプエルタ・デル・ソル広場には、アバスカルさんの死後、抗議する人たちが集まった
+
+夜間、ともされたろうそくの周りに多くの人が集まっている
+
+スペインのペドロ・サンチェス首相は、「マリカルメンの家族と愛する人々に心からお悔やみ申し上げる」、「今日この喪失を自分のことのように感じているすべての人々にもお見舞い申し上げる」と述べた。
+
+サンチェス首相は5日、住宅危機に対処するために左派連立政権が提出した一連の措置が議会で否決されたことを受け、議会を解散して11月29日に総選挙を実施すると発表している。
+
+（英語記事 Spanish pensioner whose eviction sparked nationwide protests dies）4:["$","$L17",null,{"title":"スペインで自宅を退去させられた女性が死去 住宅危機の抗議運動の象徴","excerpt":"$18","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/47234a4047234a40ec64307a","locale":"ja"}]
+5:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3%E3%81%A7%E8%87%AA%E5%AE%85%E3%82%92%E9%80%80%E5%8E%BB%E3%81%95%E3%81%9B%E3%82%89%E3%82%8C%E3%81%9F%E5%A5%B3%E6%80%A7%E3%81%8C%E6%AD%BB%E5%8E%BB+%E4%BD%8F%E5%AE%85%E5%8D%B1%E6%A9%9F%E3%81%AE%E6%8A%97%E8%AD%B0%E9%81%8B%E5%8B%95%E3%81%AE%E8%B1%A1%E5%BE%B4&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+6:["$","$L19",null,{"placement":"article","className":"mt-8"}]
+7:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+8:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","dw:https://dw.com/en/2026-nobel-prize-winner-anne-carson-where-to-start-reading/a-79598953?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/3c40f2643c40f264fe5e565e","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"2026 Nobel Prize winner Anne Carson: Where to start reading"}]]}]}],["$","li","nhk-sports:https://news.web.nhk/newsweb/na/nd-20261008de56508",{"children":["$","$L2",null,{"href":"/ja/n/072ddeef072ddeef665e3adf","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"阪神 佐藤輝明が三冠王 4年ぶり史上9人目 村上宗隆以来"}]]}]}],["$","li","bbc-arts:https://bbc.co.uk/news/articles/cq4g1j54nepyo",{"children":["$","$L2",null,{"href":"/ja/n/02b8405e02b8405e5654af08","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize"}]]}]}]]}]]}]
+9:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+a:["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]
+d:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1e",null,{"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"スペインで自宅を退去させられた女性が死去 住宅危機の抗議運動の象徴"}],["$","meta","1",{"name":"description","content":"マリカルメン・アバスカルさんは2週間前、マドリードのアパートから立ち退きを命じられた（9月23日）"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"スペインで自宅を退去させられた女性が死去 住宅危機の抗議運動の象徴"}],["$","meta","4",{"property":"og:description","content":"マリカルメン・アバスカルさんは2週間前、マドリードのアパートから立ち退きを命じられた（9月23日）"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/47234a4047234a40ec64307a/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fd9ee%2Flive%2F06010330-c283-11f1-98ea-35e6bf307fc9.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"スペインで自宅を退去させられた女性が死去 住宅危機の抗議運動の象徴"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"スペインで自宅を退去させられた女性が死去 住宅危機の抗議運動の象徴"}],["$","meta","13",{"name":"twitter:description","content":"マリカルメン・アバスカルさんは2週間前、マドリードのアパートから立ち退きを命じられた（9月23日）"}],["$","meta","14",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fd9ee%2Flive%2F06010330-c283-11f1-98ea-35e6bf307fc9.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","15",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1f","17",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
+12:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
+15:true
+1c:null
+c:300
+c:C
+14:0
+e:"$undefined"
+10:"$undefined"
+13:"$undefined"
+b:"$undefined"

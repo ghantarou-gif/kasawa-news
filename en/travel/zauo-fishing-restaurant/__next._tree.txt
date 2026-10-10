@@ -1,0 +1,10 @@
+:HL["/kasawa-news/_next/static/chunks/05wjkgi4s2ouj.css","style"]
+:HL["/kasawa-news/_next/static/chunks/2nwnc2kxkcwwn.css","style"]
+:HL["/kasawa-news/_next/static/media/ad9c66e761fed85a-s.p.0fhiaplbf_4wa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/images/travel/zauo/hero-tank.jpg","image"]
+:HL["/images/travel/zauo/sashimi.jpg","image"]
+:HL["/images/travel/zauo/price-board.jpg","image"]
+:HL["/images/travel/zauo/fishing.jpg","image"]
+:HL["/images/travel/zauo/dishes.jpg","image"]
+:HL["https://partners.vtrcdn.com/static/images/banners/en/banner1/728x90_version1.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4184,"slots":{"children":{"name":"locale","param":{"type":"d","key":"en","siblings":["go"]},"prefetchHints":4196,"slots":{"children":{"name":"travel","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"zauo-fishing-restaurant","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"lHj7I3KPIAqT3z8d_3G7v"}

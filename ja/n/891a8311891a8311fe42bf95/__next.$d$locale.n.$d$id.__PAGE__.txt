@@ -1,0 +1,96 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261009-35253431-cnn-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","image"]
+16:X
+1b:X
+1b:C
+0:{"buildId":"lHj7I3KPIAqT3z8d_3G7v","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-09","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"スフィンクスと同じ岩盤層で見つかったワニの化石、新種と判明(CNN.co.jp)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261009-35253431-cnn-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"（CNN） ワニの進化を示す系統樹に、新たな枝が1本加わったようだ。エジプト北部の岩盤で見つかっていた約4500万年前のワニの化石について、今まで知られていなかった新種だとする研究結果が発表された。"}],["$","p","1",{"children":"化石は「モカッタム累層」という石灰岩の厚い岩盤で発見された。ここにはサメなどの魚や初期のクジラなど、太古の海洋生物の化石が保存されている。また、古代エジプト人がギザのスフィンクスやピラミッドを建設するのに使った材料の多くは、ここから切り出された。"}],["$","p","2",{"children":"新種と判明したのは、ピラミッドなどの建造物ができた時代より何百万年も前にエジプトの浅い海に生息し、すでに絶滅したワニの化石だ。地質学的な基盤がこれらの建造物と共通しているだけでなく、1920年代にほぼ完全な形で見つかった一つの頭骨にはスフィンクスとの驚くべき共通点があった。スフィンクスに鼻がないことはよく知られているが、この頭骨も偶然、鼻の先が欠損していた。そこで研究者らは、この化石を「ヘルガビアリス・カイレンシス」と名づけた。スフィンクスは古代エジプト神話に登場する「ヘル（ホルス）」という神の化身とも考えられていた。「ガビアリス」はガビアルというワニの一種に由来する。"}],["$","p","3",{"children":"この成果は、6日付で英王立協会のオープンアクセス学術誌「RSOS」に発表された。研究チームは、新種が見つかったことによって、複雑な進化を遂げてきたガビアルの多様性とその歴史に対する理解が深まったと報告している。"}],["$","p","4",{"children":"チームの責任者の一人、スウェーデンの自然歴史博物館で古脊椎（せきつい）動物学を研究する博士研究員のポール・バーク氏は、ヘルガビアリス・カイレンシスについて「6600万～2300万年前の4300万年間に地中海地域に生息していた6種類のガビアルのうちの一つ」だと説明したうえで、「当然ながら、ほかにもまだ明らかになっていない種類があるかもしれない」と述べた。"}],["$","p","5",{"children":"バーク氏によると、現在も生存しているガビアルはインド亜大陸と東南アジアに分布する2種類のみ。だがその化石は英国やスウェーデン、イタリア、エジプト、日本など、世界各地で見つかっている。"}],["$","p","6",{"children":"（CNN） ワニの進化を示す系統樹に、新たな枝が1本加わったようだ。エジプト北部の岩盤で見つかっていた約4500万年前のワニの化石について、今まで知られていなかった新種だとする研究結果が発表された。"}],["$","p","7",{"children":"化石は「モカッタム累層」という石灰岩の厚い岩盤で発見された。ここにはサメなどの魚や初期のクジラなど、太古の海洋生物の化石が保存されている。また、古代エジプト人がギザのスフィンクスやピラミッドを建設するのに使った材料の多くは、ここから切り出された。"}],["$","p","8",{"children":"新種と判明したのは、ピラミッドなどの建造物ができた時代より何百万年も前にエジプトの浅い海に生息し、すでに絶滅したワニの化石だ。地質学的な基盤がこれらの建造物と共通しているだけでなく、1920年代にほぼ完全な形で見つかった一つの頭骨にはスフィンクスとの驚くべき共通点があった。スフィンクスに鼻がないことはよく知られているが、この頭骨も偶然、鼻の先が欠損していた。そこで研究者らは、この化石を「ヘルガビアリス・カイレンシス」と名づけた。スフィンクスは古代エジプト神話に登場する「ヘル（ホルス）」という神の化身とも考えられていた。「ガビアリス」はガビアルというワニの一種に由来する。"}],["$","p","9",{"children":"この成果は、6日付で英王立協会のオープンアクセス学術誌「RSOS」に発表された。研究チームは、新種が見つかったことによって、複雑な進化を遂げてきたガビアルの多様性とその歴史に対する理解が深まったと報告している。"}],["$","p","10",{"children":"チームの責任者の一人、スウェーデンの自然歴史博物館で古脊椎（せきつい）動物学を研究する博士研究員のポール・バーク氏は、ヘルガビアリス・カイレンシスについて「6600万～2300万年前の4300万年間に地中海地域に生息していた6種類のガビアルのうちの一つ」だと説明したうえで、「当然ながら、ほかにもまだ明らかになっていない種類があるかもしれない」と述べた。"}],["$","p","11",{"children":"バーク氏によると、現在も生存しているガビアルはインド亜大陸と東南アジアに分布する2種類のみ。だがその化石は英国やスウェーデン、イタリア、エジプト、日本など、世界各地で見つかっている。"}],["$","p","12",{"children":"ガビアルは鼻先から口先にかけての口吻（こうふん）が細長いという特徴を持つ。現生種にはガビアル（ガビアリス）属の「インドガビアル」と、マレーガビアル（トミストマ）属の「ガビアルモドキ」がある。ガビアルモドキはこれまで、ガビアルと似ているが実は別の種とされてきたために、この名前がついた。"}],["$","p","13",{"children":"研究チームが分析した頭骨やそのほか5点の標本はガビアルモドキに似ていたため、1927年の時点で、既知の絶滅種だったマレーガビアル属の「トミストマ・カイレンセ」に分類されていた。だが研究チームは今回、絶滅種や現生種との関係を改めて調べようと進化分析を実施した。CTスキャンで頭骨の内部を見た結果、マレーガビアル属ではないことが分かったという。"}],["$","p","14",{"children":"バーク氏とともに研究を率いた英ユニバーシティー・カレッジ・オブ・ロンドンのフィリップ・マニオン教授は、「すでに特定の種類として認識されていたが、正確な分類を知るためにより詳しく調べる必要があった」と説明する。"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc"],"$Ld"]}],"$Le","$Lf","$L10",null,"$L11","$L12"]}],["$L13"],"$L14"]}],"isPartial":"$@15","staleTime":"$16","varyParams":null},{"rsc":"$L17","isPartial":"$@18","staleTime":"$16","varyParams":null},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$16","varyParams":"$1b"},{"rsc":"$L1c","isPartial":"$@1d","staleTime":"$16","varyParams":"$1b"}],"isUpgradeableISRFallback":false,"a":"$@1e","rootVaryParams":null,"needsRuntimeRequest":"$@1f"}
+20:I[36936,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+21:I[98337,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+24:I[9441,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+25:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+26:"$Sreact.suspense"
+28:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+29:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+2a:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+2b:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+2c:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","15",{"children":"その結果、新種だったことが判明した。博士課程でガビアルの化石復元に取り組んでいたバーク氏が、ガビアルモドキとの微妙な違いに気づき、2023年12月から新種としての記載に着手した。"}]
+4:["$","p","16",{"children":"ヘルガビアリスの歯は鋭くとがっていた。この歯と細長い口吻は魚を捕らえるための適応だったのだろうと、バーク氏は指摘する。「ヘルガビアリスが発見されたモカッタム累層には、硬骨魚類や軟骨魚類の化石が保存されている。ヘルガビアリスはこれをえさにしていたと考えられる」"}]
+5:["$","p","17",{"children":"また、眼球の入る穴は頭骨の上方にあることから、インドガビアルと同じように目が望遠鏡のように突き出ていたと推定される。"}]
+6:["$","p","18",{"children":"ヘルガビアリスの頭骨がスフィンクス自体の中から見つかったというわけではないが、スフィンクスやピラミッドは古代エジプトだけでなく、先史時代からの遺物の宝庫として知られている。これまでに二枚貝や、エジプトの海にかつて生息していた有孔虫などの小さな化石が何十万点も発見されている。"}]
+7:["$","p","19",{"children":"マニオン氏は「壁の中にもっと大きな化石もありそうだ。そしてモカッタム累層からは、今後も浅い海の環境を好む動物などの化石がさらに見つかることだろう」と述べ、その一例として古代のカメを挙げた。"}]
+8:["$","p","20",{"children":"モカッタム累層で見つかる大量の化石からは、太古のエジプトに息づいていた豊かな生態系と生物の多様性がうかがえると、同氏は語る。また、百年近く前に発見された化石がヘルガビアリスだったことを示した研究の成果によって、博物館の収蔵品を改めて調べ直すことの重要さも浮き彫りになった。"}]
+9:["$","p","21",{"children":"「同じような状況の化石はほかにもある。その存在にだれも気づいていないというわけではなく、研究者にとっても学芸員にとっても時間とリソースが問題になっているケースが多い」と、マニオン氏は指摘する。"}]
+a:["$","p","22",{"children":"米ミネソタ科学博物館の古生物学者、アレックス・ヘイスティングス氏は、ヘルガビアリスの分類が変更されたことによって、この地域にどんな大型捕食者がいたかについての理解が深まったと評価する。同氏は今回の研究に参加していない。"}]
+b:["$","p","23",{"children":"同氏はさらに、「太古の地中海地域に分布していた細長い口を持つワニの仲間にはどんな種類があり、地球環境が温暖化していた始新世の生態系にそれがどう影響したかについての知識が広がる」とも語った。始新世とは今から約5600万～3400万年前、世界の気温が今よりずっと高かった時代のことだ。"}]
+c:["$","p","24",{"children":"ヘイスティングス氏はヘルガビアリスについて、ほかの多くの例と同様、ずっと昔に絶滅したにもかかわらず、当初は現生種と同じ仲間に分類されていたと指摘。「今回のような研究は、私たちがこういう生物を現生種とひとまとめにすることなく、真の多様性と進化的背景を認識するうえで、極めて重要なデータを提供してくれる」と述べた。"}]
+d:["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]
+e:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/f2029fe126eb9e13659166c89278d011616acd4d?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}]
+22:T267d,（CNN） ワニの進化を示す系統樹に、新たな枝が1本加わったようだ。エジプト北部の岩盤で見つかっていた約4500万年前のワニの化石について、今まで知られていなかった新種だとする研究結果が発表された。
+
+化石は「モカッタム累層」という石灰岩の厚い岩盤で発見された。ここにはサメなどの魚や初期のクジラなど、太古の海洋生物の化石が保存されている。また、古代エジプト人がギザのスフィンクスやピラミッドを建設するのに使った材料の多くは、ここから切り出された。
+
+新種と判明したのは、ピラミッドなどの建造物ができた時代より何百万年も前にエジプトの浅い海に生息し、すでに絶滅したワニの化石だ。地質学的な基盤がこれらの建造物と共通しているだけでなく、1920年代にほぼ完全な形で見つかった一つの頭骨にはスフィンクスとの驚くべき共通点があった。スフィンクスに鼻がないことはよく知られているが、この頭骨も偶然、鼻の先が欠損していた。そこで研究者らは、この化石を「ヘルガビアリス・カイレンシス」と名づけた。スフィンクスは古代エジプト神話に登場する「ヘル（ホルス）」という神の化身とも考えられていた。「ガビアリス」はガビアルというワニの一種に由来する。
+
+この成果は、6日付で英王立協会のオープンアクセス学術誌「RSOS」に発表された。研究チームは、新種が見つかったことによって、複雑な進化を遂げてきたガビアルの多様性とその歴史に対する理解が深まったと報告している。
+
+チームの責任者の一人、スウェーデンの自然歴史博物館で古脊椎（せきつい）動物学を研究する博士研究員のポール・バーク氏は、ヘルガビアリス・カイレンシスについて「6600万～2300万年前の4300万年間に地中海地域に生息していた6種類のガビアルのうちの一つ」だと説明したうえで、「当然ながら、ほかにもまだ明らかになっていない種類があるかもしれない」と述べた。
+
+バーク氏によると、現在も生存しているガビアルはインド亜大陸と東南アジアに分布する2種類のみ。だがその化石は英国やスウェーデン、イタリア、エジプト、日本など、世界各地で見つかっている。
+
+（CNN） ワニの進化を示す系統樹に、新たな枝が1本加わったようだ。エジプト北部の岩盤で見つかっていた約4500万年前のワニの化石について、今まで知られていなかった新種だとする研究結果が発表された。
+
+化石は「モカッタム累層」という石灰岩の厚い岩盤で発見された。ここにはサメなどの魚や初期のクジラなど、太古の海洋生物の化石が保存されている。また、古代エジプト人がギザのスフィンクスやピラミッドを建設するのに使った材料の多くは、ここから切り出された。
+
+新種と判明したのは、ピラミッドなどの建造物ができた時代より何百万年も前にエジプトの浅い海に生息し、すでに絶滅したワニの化石だ。地質学的な基盤がこれらの建造物と共通しているだけでなく、1920年代にほぼ完全な形で見つかった一つの頭骨にはスフィンクスとの驚くべき共通点があった。スフィンクスに鼻がないことはよく知られているが、この頭骨も偶然、鼻の先が欠損していた。そこで研究者らは、この化石を「ヘルガビアリス・カイレンシス」と名づけた。スフィンクスは古代エジプト神話に登場する「ヘル（ホルス）」という神の化身とも考えられていた。「ガビアリス」はガビアルというワニの一種に由来する。
+
+この成果は、6日付で英王立協会のオープンアクセス学術誌「RSOS」に発表された。研究チームは、新種が見つかったことによって、複雑な進化を遂げてきたガビアルの多様性とその歴史に対する理解が深まったと報告している。
+
+チームの責任者の一人、スウェーデンの自然歴史博物館で古脊椎（せきつい）動物学を研究する博士研究員のポール・バーク氏は、ヘルガビアリス・カイレンシスについて「6600万～2300万年前の4300万年間に地中海地域に生息していた6種類のガビアルのうちの一つ」だと説明したうえで、「当然ながら、ほかにもまだ明らかになっていない種類があるかもしれない」と述べた。
+
+バーク氏によると、現在も生存しているガビアルはインド亜大陸と東南アジアに分布する2種類のみ。だがその化石は英国やスウェーデン、イタリア、エジプト、日本など、世界各地で見つかっている。
+
+ガビアルは鼻先から口先にかけての口吻（こうふん）が細長いという特徴を持つ。現生種にはガビアル（ガビアリス）属の「インドガビアル」と、マレーガビアル（トミストマ）属の「ガビアルモドキ」がある。ガビアルモドキはこれまで、ガビアルと似ているが実は別の種とされてきたために、この名前がついた。
+
+研究チームが分析した頭骨やそのほか5点の標本はガビアルモドキに似ていたため、1927年の時点で、既知の絶滅種だったマレーガビアル属の「トミストマ・カイレンセ」に分類されていた。だが研究チームは今回、絶滅種や現生種との関係を改めて調べようと進化分析を実施した。CTスキャンで頭骨の内部を見た結果、マレーガビアル属ではないことが分かったという。
+
+バーク氏とともに研究を率いた英ユニバーシティー・カレッジ・オブ・ロンドンのフィリップ・マニオン教授は、「すでに特定の種類として認識されていたが、正確な分類を知るためにより詳しく調べる必要があった」と説明する。
+
+その結果、新種だったことが判明した。博士課程でガビアルの化石復元に取り組んでいたバーク氏が、ガビアルモドキとの微妙な違いに気づき、2023年12月から新種としての記載に着手した。
+
+ヘルガビアリスの歯は鋭くとがっていた。この歯と細長い口吻は魚を捕らえるための適応だったのだろうと、バーク氏は指摘する。「ヘルガビアリスが発見されたモカッタム累層には、硬骨魚類や軟骨魚類の化石が保存されている。ヘルガビアリスはこれをえさにしていたと考えられる」
+
+また、眼球の入る穴は頭骨の上方にあることから、インドガビアルと同じように目が望遠鏡のように突き出ていたと推定される。
+
+ヘルガビアリスの頭骨がスフィンクス自体の中から見つかったというわけではないが、スフィンクスやピラミッドは古代エジプトだけでなく、先史時代からの遺物の宝庫として知られている。これまでに二枚貝や、エジプトの海にかつて生息していた有孔虫などの小さな化石が何十万点も発見されている。
+
+マニオン氏は「壁の中にもっと大きな化石もありそうだ。そしてモカッタム累層からは、今後も浅い海の環境を好む動物などの化石がさらに見つかることだろう」と述べ、その一例として古代のカメを挙げた。
+
+モカッタム累層で見つかる大量の化石からは、太古のエジプトに息づいていた豊かな生態系と生物の多様性がうかがえると、同氏は語る。また、百年近く前に発見された化石がヘルガビアリスだったことを示した研究の成果によって、博物館の収蔵品を改めて調べ直すことの重要さも浮き彫りになった。
+
+「同じような状況の化石はほかにもある。その存在にだれも気づいていないというわけではなく、研究者にとっても学芸員にとっても時間とリソースが問題になっているケースが多い」と、マニオン氏は指摘する。
+
+米ミネソタ科学博物館の古生物学者、アレックス・ヘイスティングス氏は、ヘルガビアリスの分類が変更されたことによって、この地域にどんな大型捕食者がいたかについての理解が深まったと評価する。同氏は今回の研究に参加していない。
+
+同氏はさらに、「太古の地中海地域に分布していた細長い口を持つワニの仲間にはどんな種類があり、地球環境が温暖化していた始新世の生態系にそれがどう影響したかについての知識が広がる」とも語った。始新世とは今から約5600万～3400万年前、世界の気温が今よりずっと高かった時代のことだ。
+
+ヘイスティングス氏はヘルガビアリスについて、ほかの多くの例と同様、ずっと昔に絶滅したにもかかわらず、当初は現生種と同じ仲間に分類されていたと指摘。「今回のような研究は、私たちがこういう生物を現生種とひとまとめにすることなく、真の多様性と進化的背景を認識するうえで、極めて重要なデータを提供してくれる」と述べた。f:["$","section",null,{"className":"article-actions","children":[["$","$L20",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/891a8311891a8311fe42bf95","title":"スフィンクスと同じ岩盤層で見つかったワニの化石、新種と判明(CNN.co.jp)","locale":"ja","take":null}],["$","$L21",null,{"title":"スフィンクスと同じ岩盤層で見つかったワニの化石、新種と判明(CNN.co.jp)","excerpt":"$22","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/891a8311891a8311fe42bf95","locale":"ja"}],"$L23"]}]
+10:["$","$L24",null,{"placement":"article","className":"mt-8"}]
+11:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+12:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-health:https://bbc.co.uk/news/videos/ck98zyyer83mo",{"children":["$","$L2",null,{"href":"/ja/n/c32ea910c32ea9103e27f9ba","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Yes, hang-xiety is a real thing"}]]}]}],["$","li","cbc-world:https://cbc.ca/news/world/us-deportation-soliman-equatorial-guinea-9.7375381?cmp=rss",{"children":["$","$L2",null,{"href":"/ja/n/a30ef1f7a30ef1f7e26d165f","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"CBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Judge orders U.S. government to return Arizona man deported to Equatorial Guinea"}]]}]}],["$","li","dw:https://dw.com/en/us-imposes-sanctions-aiming-to-dismantle-international-criminal-court/a-79618577?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/88337bf888337bf8cb1cdb30","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"US imposes sanctions aiming to 'dismantle' International Criminal Court"}]]}]}]]}]]}]
+13:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+14:["$","$L25",null,{"children":["$","$26",null,{"name":"Next.MetadataOutlet","children":"$@27"}]}]
+17:["$","$1","h",{"children":[null,["$","$L28",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L29",null,{"children":["$","$26",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"スフィンクスと同じ岩盤層で見つかったワニの化石、新種と判明(CNN.co.jp)"}],["$","meta","1",{"name":"description","content":"（CNN） ワニの進化を示す系統樹に、新たな枝が1本加わったようだ。エジプト北部の岩盤で見つかっていた約4500万年前のワニの化石について、今まで知られていなかった新種だとする研究結果が発表された。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"スフィンクスと同じ岩盤層で見つかったワニの化石、新種と判明(CNN.co.jp)"}],["$","meta","4",{"property":"og:description","content":"（CNN） ワニの進化を示す系統樹に、新たな枝が1本加わったようだ。エジプト北部の岩盤で見つかっていた約4500万年前のワニの化石について、今まで知られていなかった新種だとする研究結果が発表された。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/891a8311891a8311fe42bf95/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261009-35253431-cnn-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"スフィンクスと同じ岩盤層で見つかったワニの化石、新種と判明(CNN.co.jp)"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"スフィンクスと同じ岩盤層で見つかったワニの化石、新種と判明(CNN.co.jp)"}],["$","meta","13",{"name":"twitter:description","content":"（CNN） ワニの進化を示す系統樹に、新たな枝が1本加わったようだ。エジプト北部の岩盤で見つかっていた約4500万年前のワニの化石について、今まで知られていなかった新種だとする研究結果が発表された。"}],["$","meta","14",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261009-35253431-cnn-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","15",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L2a","17",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+19:["$","$1","c",{"children":[null,["$","$L2b",null,{"parallelRouterKey":"children","template":["$","$L2c",null,{}]}]]}]
+1c:["$","$1","c",{"children":[null,["$","$L2b",null,{"parallelRouterKey":"children","template":["$","$L2c",null,{}]}]]}]
+1f:true
+23:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E3%82%B9%E3%83%95%E3%82%A3%E3%83%B3%E3%82%AF%E3%82%B9%E3%81%A8%E5%90%8C%E3%81%98%E5%B2%A9%E7%9B%A4%E5%B1%A4%E3%81%A7%E8%A6%8B%E3%81%A4%E3%81%8B%E3%81%A3%E3%81%9F%E3%83%AF%E3%83%8B%E3%81%AE%E5%8C%96%E7%9F%B3%E3%80%81%E6%96%B0%E7%A8%AE%E3%81%A8%E5%88%A4%E6%98%8E&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+27:null
+16:300
+16:C
+1e:0
+18:"$undefined"
+1a:"$undefined"
+1d:"$undefined"
+15:"$undefined"

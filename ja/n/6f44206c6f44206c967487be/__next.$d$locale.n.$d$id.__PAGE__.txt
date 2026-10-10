@@ -1,0 +1,67 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+c:X
+11:X
+11:C
+0:{"buildId":"lHj7I3KPIAqT3z8d_3G7v","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-09","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Gigazine"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"ロシアとイランがプロパガンダ工作で用いたChatGPTアカウントをOpenAIが停止、工作の影響度は6段階中4～5"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"OpenAIがロシアやイランによる「AI生成の架空組織・架空人物を用いた影響工作」に利用されたアカウントを停止したと発表しました。"}],["$","p","1",{"children":"OpenAIによれば、直近で展開されていた脅威アクターによる活動は、従来の手法や技術とAIを組み合わせて巧妙に架空の人物や組織を生み出し、発信元を隠して地政学や紛争に関するメッセージを標的に送るものだったとのこと。"}],["$","p","2",{"children":"ロシアによる工作活動は「Dark Clark(ダーク・クラーク)作戦」と呼ばれています。名称は、脅威アクターがミア・クラークという架空の人物を通じて自称・調査プラットフォーム「社会調査センター(SRC)」を支配し、活動実績報告書を使って自分たちの活動をもっともらしく見せていたことに由来します。"}],["$","p","3",{"children":"作戦の標的はラテンアメリカ各国。特にアルゼンチンとボリビアで、ウクライナや現地指導者層を貶める偽情報が拡散されました。研究者は、偽情報の一部はロシアで活動している民間軍事会社・ワグネルグループの後継にあたるPolitologyやLa Companiaと呼ばれる組織によるものだと指摘しています。"}],["$","p","4",{"children":"作戦は、ラテンアメリカの人々を取り込んでSRCのために働かせることに成功していました。働いている現地の人々は、自分たちがロシアのために働いていることはまったく知らなかったそうです。"}],["$","p","5",{"children":"エクアドルのジルダ・アルシバール・ガルシア大臣は、ダーク・クラーク作戦で拡散した偽情報を否定する声明を発表。"}],["$","p","6",{"children":"🎥 Hoy denuncié un acto de manipulación política que intentó utilizar a nuestras instituciones educativas para difundir información falsa."}],["$","p","7",{"children":"エクアドル紙・Lupaもファクトチェック記事を公開しています。これは「偽情報が否定声明やファクトチェックを行わせるほどに広く拡散した」ことを示しているとOpenAIは指摘しています。"}],["$","p","8",{"children":"¿Teleamazonas acusó a Noboa de reclutar mercenarios para Ucrania?"}],["$","p","9",{"children":"一方、イランの工作は、7つの異なる名義で生成した記事を売り込んでいたことから「偽りの署名作戦」と呼ばれています。OpenAIによると、この作戦の脅威アクターはペルシャ語でプロンプトを入力し、ペルシャ語と英語のコンテンツを生成していたとのこと。生成されていたのはSNSのコメントなどで、ほかに長文記事や編集者向けの売り込み文面の内部報告書の推敲にも使われていました。"}],["$","p","10",{"children":"実際に、生成された記事のうち世界各国の十数件のメディアで、工作に用いられた著者名義の記事が100本近く公開・転載されていたとのこと。ただ、SNSでは該当する記事に対する反応はそれほどみられなかったそうです。"}],["$","p","11",{"children":"OpenAIによれば、情報の流通経路によって拡散の可能性は大きく変化するとのこと。OpenAIは、これまでの偽情報拡散を6つのカテゴリーに分類しています。カテゴリー1・2は単一プラットフォームでの拡散で、それぞれ爆発的に拡散したかどうかの違い。カテゴリー3・4は複数プラットフォームでの拡散で、爆発的に拡散したかどうかの違い。カテゴリー5は政治家や著名人にまで広がったもの。カテゴリ6は意思決定に影響を与えるレベルです。"}],["$","p","12",{"children":"以下の図は2024年初頭以降にOpenAIが摘発した30件の影響工作を、主な拡散手段(「Social media(SNS)」「Website(ウェブサイト)」「External publications(外部出版物)」)と拡散尺度の評価(カテゴリ1～6)で分類したもの。"}],["$","p","13",{"children":"SNSの偽アカウントだけで情報を拡散させるのには限界がある一方、何とかして偽情報を他メディアに潜り込ませることができれば潜在的な到達範囲が広がる傾向があるとOpenAIは報告しています。"}],["$","p","14",{"children":"なぜ一部の人は「簡単に反証できる誤情報」を支持するのか？ - GIGAZINE"}],["$","p","15",{"children":"「偽SNSアカウント」で信用させてターゲットの情報を盗み出すサイバー攻撃「NEWSCASTER」とは？"}],["$","p","16",{"children":"You can read the machine translated English article OpenAI has suspended ChatGPT accounts us… ."}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はGigazineにあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://gigazine.net/news/20261009-openai-disrupted-russian-operation-dark-clark/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はGigazineで読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/6f44206c6f44206c967487be","title":"ロシアとイランがプロパガンダ工作で用いたChatGPTアカウントをOpenAIが停止、工作の影響度は6段階中4～5","locale":"ja","take":null}],"$L4","$L5"]}],"$L6",null,"$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":"$@b","staleTime":"$c","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$c","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$c","varyParams":"$11"},{"rsc":"$L12","isPartial":"$@13","staleTime":"$c","varyParams":"$11"}],"isUpgradeableISRFallback":false,"a":"$@14","rootVaryParams":null,"needsRuntimeRequest":"$@15"}
+16:I[98337,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+18:I[9441,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+19:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1a:"$Sreact.suspense"
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1e:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1f:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+20:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+17:T117f,OpenAIがロシアやイランによる「AI生成の架空組織・架空人物を用いた影響工作」に利用されたアカウントを停止したと発表しました。
+
+OpenAIによれば、直近で展開されていた脅威アクターによる活動は、従来の手法や技術とAIを組み合わせて巧妙に架空の人物や組織を生み出し、発信元を隠して地政学や紛争に関するメッセージを標的に送るものだったとのこと。
+
+ロシアによる工作活動は「Dark Clark(ダーク・クラーク)作戦」と呼ばれています。名称は、脅威アクターがミア・クラークという架空の人物を通じて自称・調査プラットフォーム「社会調査センター(SRC)」を支配し、活動実績報告書を使って自分たちの活動をもっともらしく見せていたことに由来します。
+
+作戦の標的はラテンアメリカ各国。特にアルゼンチンとボリビアで、ウクライナや現地指導者層を貶める偽情報が拡散されました。研究者は、偽情報の一部はロシアで活動している民間軍事会社・ワグネルグループの後継にあたるPolitologyやLa Companiaと呼ばれる組織によるものだと指摘しています。
+
+作戦は、ラテンアメリカの人々を取り込んでSRCのために働かせることに成功していました。働いている現地の人々は、自分たちがロシアのために働いていることはまったく知らなかったそうです。
+
+エクアドルのジルダ・アルシバール・ガルシア大臣は、ダーク・クラーク作戦で拡散した偽情報を否定する声明を発表。
+
+🎥 Hoy denuncié un acto de manipulación política que intentó utilizar a nuestras instituciones educativas para difundir información falsa.
+
+エクアドル紙・Lupaもファクトチェック記事を公開しています。これは「偽情報が否定声明やファクトチェックを行わせるほどに広く拡散した」ことを示しているとOpenAIは指摘しています。
+
+¿Teleamazonas acusó a Noboa de reclutar mercenarios para Ucrania?
+
+一方、イランの工作は、7つの異なる名義で生成した記事を売り込んでいたことから「偽りの署名作戦」と呼ばれています。OpenAIによると、この作戦の脅威アクターはペルシャ語でプロンプトを入力し、ペルシャ語と英語のコンテンツを生成していたとのこと。生成されていたのはSNSのコメントなどで、ほかに長文記事や編集者向けの売り込み文面の内部報告書の推敲にも使われていました。
+
+実際に、生成された記事のうち世界各国の十数件のメディアで、工作に用いられた著者名義の記事が100本近く公開・転載されていたとのこと。ただ、SNSでは該当する記事に対する反応はそれほどみられなかったそうです。
+
+OpenAIによれば、情報の流通経路によって拡散の可能性は大きく変化するとのこと。OpenAIは、これまでの偽情報拡散を6つのカテゴリーに分類しています。カテゴリー1・2は単一プラットフォームでの拡散で、それぞれ爆発的に拡散したかどうかの違い。カテゴリー3・4は複数プラットフォームでの拡散で、爆発的に拡散したかどうかの違い。カテゴリー5は政治家や著名人にまで広がったもの。カテゴリ6は意思決定に影響を与えるレベルです。
+
+以下の図は2024年初頭以降にOpenAIが摘発した30件の影響工作を、主な拡散手段(「Social media(SNS)」「Website(ウェブサイト)」「External publications(外部出版物)」)と拡散尺度の評価(カテゴリ1～6)で分類したもの。
+
+SNSの偽アカウントだけで情報を拡散させるのには限界がある一方、何とかして偽情報を他メディアに潜り込ませることができれば潜在的な到達範囲が広がる傾向があるとOpenAIは報告しています。
+
+なぜ一部の人は「簡単に反証できる誤情報」を支持するのか？ - GIGAZINE
+
+「偽SNSアカウント」で信用させてターゲットの情報を盗み出すサイバー攻撃「NEWSCASTER」とは？
+
+You can read the machine translated English article OpenAI has suspended ChatGPT accounts us… .4:["$","$L16",null,{"title":"ロシアとイランがプロパガンダ工作で用いたChatGPTアカウントをOpenAIが停止、工作の影響度は6段階中4～5","excerpt":"$17","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/6f44206c6f44206c967487be","locale":"ja"}]
+5:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E3%83%AD%E3%82%B7%E3%82%A2%E3%81%A8%E3%82%A4%E3%83%A9%E3%83%B3%E3%81%8C%E3%83%97%E3%83%AD%E3%83%91%E3%82%AC%E3%83%B3%E3%83%80%E5%B7%A5%E4%BD%9C%E3%81%A7%E7%94%A8%E3%81%84%E3%81%9FChatGPT%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%92OpenAI%E3%81%8C%E5%81%9C%E6%AD%A2%E3%80%81%E5%B7%A5%E4%BD%9C%E3%81%AE%E5%BD%B1%E9%9F%BF&mode=phrase&url=gigazine.net&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+6:["$","$L18",null,{"placement":"article","className":"mt-8"}]
+7:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+8:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-health:https://bbc.co.uk/news/videos/ck98zyyer83mo",{"children":["$","$L2",null,{"href":"/ja/n/c32ea910c32ea9103e27f9ba","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Yes, hang-xiety is a real thing"}]]}]}],["$","li","cbc-world:https://cbc.ca/news/world/us-deportation-soliman-equatorial-guinea-9.7375381?cmp=rss",{"children":["$","$L2",null,{"href":"/ja/n/a30ef1f7a30ef1f7e26d165f","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"CBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Judge orders U.S. government to return Arizona man deported to Equatorial Guinea"}]]}]}],["$","li","dw:https://dw.com/en/us-imposes-sanctions-aiming-to-dismantle-international-criminal-court/a-79618577?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/88337bf888337bf8cb1cdb30","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"US imposes sanctions aiming to 'dismantle' International Criminal Court"}]]}]}]]}]]}]
+9:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+a:["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
+d:["$","$1","h",{"children":[null,["$","$L1c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1d",null,{"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ロシアとイランがプロパガンダ工作で用いたChatGPTアカウントをOpenAIが停止、工作の影響度は6段階中4～5"}],["$","meta","1",{"name":"description","content":"OpenAIがロシアやイランによる「AI生成の架空組織・架空人物を用いた影響工作」に利用されたアカウントを停止したと発表しました。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"ロシアとイランがプロパガンダ工作で用いたChatGPTアカウントをOpenAIが停止、工作の影響度は6段階中4～5"}],["$","meta","4",{"property":"og:description","content":"OpenAIがロシアやイランによる「AI生成の架空組織・架空人物を用いた影響工作」に利用されたアカウントを停止したと発表しました。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/6f44206c6f44206c967487be/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/opengraph-image"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"ロシアとイランがプロパガンダ工作で用いたChatGPTアカウントをOpenAIが停止、工作の影響度は6段階中4～5"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"ロシアとイランがプロパガンダ工作で用いたChatGPTアカウントをOpenAIが停止、工作の影響度は6段階中4～5"}],["$","meta","13",{"name":"twitter:description","content":"OpenAIがロシアやイランによる「AI生成の架空組織・架空人物を用いた影響工作」に利用されたアカウントを停止したと発表しました。"}],["$","meta","14",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/opengraph-image"}],["$","link","15",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1e","17",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+12:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+15:true
+1b:null
+c:300
+c:C
+14:0
+e:"$undefined"
+10:"$undefined"
+13:"$undefined"
+b:"$undefined"

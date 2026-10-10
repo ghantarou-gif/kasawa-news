@@ -1,0 +1,61 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261007-00000230-san-000-5-view.jpg?pri=l&w=450&h=323&exp=10800","image"]
+5:Tdee,「大変うれしい。とりわけ著名なアンリ・カガン先生と一緒に受賞できるのがうれしい」
+
+鏡映しの関係にある左右一対の分子について、わずかな量的偏りを増幅できる仕組みを発見し、今年のノーベル化学賞に決まった東京理科大名誉教授の硤合憲三さん（76）が7日夜、東京都新宿区の同大で記者会見を開いた。
+
+ノーベル賞の選考委員会から一報を受けた際は、自宅付近で食材を買い込んでいたという硤合さん。大学関係者が受賞発表後も「先生と連絡が取れない」と焦りを見せる一幕もあった。
+
+本人が会見場に姿を見せたのは発表から3時間余りが経過した午後10時ごろ。詰めかけた報道陣のカメラのフラッシュが無数にたかれる中、大学関係者から花束を受け取ると緊張気味だった表情が緩んだ。
+
+自身の研究内容について、隣に座った学校法人東京理科大学の浜本隆之理事長の手を借りながら説明。「大学職員、学生の力なくしては（仕組みを）見つけることがなかった」と改めて謝意を示した。
+
+アミノ酸などの物質は左右一対で構成されながらそれぞれ性質に大きな違いがあり、硤合さんは一方の型だけを自己複製して増幅させることに成功。生体のタンパク質は一方の型のみに偏る「ホモキラリティー」の状態にあることから、生命の起源に関わる謎を解く手がかりとされている。
+
+自身の業績について「（ノーベル賞を）受賞できても文句はないだろうな」と自己評価すると、会場からは笑いが起こった。
+
+「大変うれしい。とりわけ著名なアンリ・カガン先生と一緒に受賞できるのがうれしい」
+
+鏡映しの関係にある左右一対の分子について、わずかな量的偏りを増幅できる仕組みを発見し、今年のノーベル化学賞に決まった東京理科大名誉教授の硤合憲三さん（76）が7日夜、東京都新宿区の同大で記者会見を開いた。
+
+ノーベル賞の選考委員会から一報を受けた際は、自宅付近で食材を買い込んでいたという硤合さん。大学関係者が受賞発表後も「先生と連絡が取れない」と焦りを見せる一幕もあった。
+
+本人が会見場に姿を見せたのは発表から3時間余りが経過した午後10時ごろ。詰めかけた報道陣のカメラのフラッシュが無数にたかれる中、大学関係者から花束を受け取ると緊張気味だった表情が緩んだ。
+
+自身の研究内容について、隣に座った学校法人東京理科大学の浜本隆之理事長の手を借りながら説明。「大学職員、学生の力なくしては（仕組みを）見つけることがなかった」と改めて謝意を示した。
+
+アミノ酸などの物質は左右一対で構成されながらそれぞれ性質に大きな違いがあり、硤合さんは一方の型だけを自己複製して増幅させることに成功。生体のタンパク質は一方の型のみに偏る「ホモキラリティー」の状態にあることから、生命の起源に関わる謎を解く手がかりとされている。
+
+自身の業績について「（ノーベル賞を）受賞できても文句はないだろうな」と自己評価すると、会場からは笑いが起こった。d:X
+12:X
+12:C
+0:{"buildId":"lHj7I3KPIAqT3z8d_3G7v","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-07","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"「文句は出ないだろう」 ノーベル化学賞の硤合憲三氏、記者会見で自画自賛 会場から笑い(産経新聞)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"3 日前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261007-00000230-san-000-5-view.jpg?pri=l&w=450&h=323&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"「大変うれしい。とりわけ著名なアンリ・カガン先生と一緒に受賞できるのがうれしい」"}],["$","p","1",{"children":"鏡映しの関係にある左右一対の分子について、わずかな量的偏りを増幅できる仕組みを発見し、今年のノーベル化学賞に決まった東京理科大名誉教授の硤合憲三さん（76）が7日夜、東京都新宿区の同大で記者会見を開いた。"}],["$","p","2",{"children":"ノーベル賞の選考委員会から一報を受けた際は、自宅付近で食材を買い込んでいたという硤合さん。大学関係者が受賞発表後も「先生と連絡が取れない」と焦りを見せる一幕もあった。"}],["$","p","3",{"children":"本人が会見場に姿を見せたのは発表から3時間余りが経過した午後10時ごろ。詰めかけた報道陣のカメラのフラッシュが無数にたかれる中、大学関係者から花束を受け取ると緊張気味だった表情が緩んだ。"}],["$","p","4",{"children":"自身の研究内容について、隣に座った学校法人東京理科大学の浜本隆之理事長の手を借りながら説明。「大学職員、学生の力なくしては（仕組みを）見つけることがなかった」と改めて謝意を示した。"}],["$","p","5",{"children":"アミノ酸などの物質は左右一対で構成されながらそれぞれ性質に大きな違いがあり、硤合さんは一方の型だけを自己複製して増幅させることに成功。生体のタンパク質は一方の型のみに偏る「ホモキラリティー」の状態にあることから、生命の起源に関わる謎を解く手がかりとされている。"}],["$","p","6",{"children":"自身の業績について「（ノーベル賞を）受賞できても文句はないだろうな」と自己評価すると、会場からは笑いが起こった。"}],["$","p","7",{"children":"「大変うれしい。とりわけ著名なアンリ・カガン先生と一緒に受賞できるのがうれしい」"}],["$","p","8",{"children":"鏡映しの関係にある左右一対の分子について、わずかな量的偏りを増幅できる仕組みを発見し、今年のノーベル化学賞に決まった東京理科大名誉教授の硤合憲三さん（76）が7日夜、東京都新宿区の同大で記者会見を開いた。"}],["$","p","9",{"children":"ノーベル賞の選考委員会から一報を受けた際は、自宅付近で食材を買い込んでいたという硤合さん。大学関係者が受賞発表後も「先生と連絡が取れない」と焦りを見せる一幕もあった。"}],["$","p","10",{"children":"本人が会見場に姿を見せたのは発表から3時間余りが経過した午後10時ごろ。詰めかけた報道陣のカメラのフラッシュが無数にたかれる中、大学関係者から花束を受け取ると緊張気味だった表情が緩んだ。"}],["$","p","11",{"children":"自身の研究内容について、隣に座った学校法人東京理科大学の浜本隆之理事長の手を借りながら説明。「大学職員、学生の力なくしては（仕組みを）見つけることがなかった」と改めて謝意を示した。"}],["$","p","12",{"children":"アミノ酸などの物質は左右一対で構成されながらそれぞれ性質に大きな違いがあり、硤合さんは一方の型だけを自己複製して増幅させることに成功。生体のタンパク質は一方の型のみに偏る「ホモキラリティー」の状態にあることから、生命の起源に関わる謎を解く手がかりとされている。"}],["$","p","13",{"children":"自身の業績について「（ノーベル賞を）受賞できても文句はないだろうな」と自己評価すると、会場からは笑いが起こった。"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/7d189065fe07572bc00eec2ba75ea1b4baa76142?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/5aee03e25aee03e2e03fed6e","title":"「文句は出ないだろう」 ノーベル化学賞の硤合憲三氏、記者会見で自画自賛 会場から笑い(産経新聞)","locale":"ja","take":null}],["$","$L4",null,{"title":"「文句は出ないだろう」 ノーベル化学賞の硤合憲三氏、記者会見で自画自賛 会場から笑い(産経新聞)","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/5aee03e25aee03e2e03fed6e","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E5%8C%96%E5%AD%A6%E8%B3%9E%E3%81%AE%E7%A1%A4%E5%90%88%E6%86%B2%E4%B8%89%E6%B0%8F%E3%80%81%E8%A8%98%E8%80%85%E4%BC%9A%E8%A6%8B%E3%81%A7%E8%87%AA%E7%94%BB%E8%87%AA%E8%B3%9B+%E4%BC%9A%E5%A0%B4%E3%81%8B%E3%82%89%E7%AC%91%E3%81%84&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","nhk-business:https://news.web.nhk/newsweb/na/nd-20261007de56183",{"children":["$","$L2",null,{"href":"/ja/n/a84552dea84552de6fcc6356","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"インド中央銀行が3年8か月ぶり利上げ 中東情勢背景に"}]]}]}],["$","li","nhk-society:https://news.web.nhk/newsweb/na/nd-20261007de56174",{"children":["$","$L2",null,{"href":"/ja/n/5a14c6ba5a14c6badaec497c","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"原子力人材確保へ 官民が共同で新団体を設立"}]]}]}],["$","li","nhk-business:https://news.web.nhk/newsweb/na/nd-20261007de56177",{"children":["$","$L2",null,{"href":"/ja/n/1c5bcfc91c5bcfc98939c2c5","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"TOPIX改革で構成銘柄が変更 銘柄数は大きく減少へ"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"「文句は出ないだろう」 ノーベル化学賞の硤合憲三氏、記者会見で自画自賛 会場から笑い(産経新聞)"}],["$","meta","1",{"name":"description","content":"「大変うれしい。とりわけ著名なアンリ・カガン先生と一緒に受賞できるのがうれしい」"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"「文句は出ないだろう」 ノーベル化学賞の硤合憲三氏、記者会見で自画自賛 会場から笑い(産経新聞)"}],["$","meta","4",{"property":"og:description","content":"「大変うれしい。とりわけ著名なアンリ・カガン先生と一緒に受賞できるのがうれしい」"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/5aee03e25aee03e2e03fed6e/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261007-00000230-san-000-5-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"「文句は出ないだろう」 ノーベル化学賞の硤合憲三氏、記者会見で自画自賛 会場から笑い(産経新聞)"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"「文句は出ないだろう」 ノーベル化学賞の硤合憲三氏、記者会見で自画自賛 会場から笑い(産経新聞)"}],["$","meta","13",{"name":"twitter:description","content":"「大変うれしい。とりわけ著名なアンリ・カガン先生と一緒に受賞できるのがうれしい」"}],["$","meta","14",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261007-00000230-san-000-5-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","15",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","17",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

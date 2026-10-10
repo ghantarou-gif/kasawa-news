@@ -1,0 +1,79 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://image.news.livedoor.com/newsimage/stf/d/8/d8eba_1845_1187fec7_5bab6698.jpg","image"]
+5:Te74,心理カウンセラー・公認心理師の栗林あや（いがぐりこ）氏が、 YouTube チャンネル「公認心理師いがぐりこの人間関係がラクになる心理学」にて、「将来の不安が止まらない。考えても安心できない理由【公認心理師が解説】」と題した動画を公開した。
+
+動画では、老後のお金や 病気 など、将来の不安について考え始めると止まらなくなる心理的な理由と、その解決策を解説している。
+
+栗林氏はまず、将来の不安をぐるぐると考えてしまう理由として、2つのポイントを挙げた。
+
+1つ目は、心配している間は「何かをやっている気がするから」だという。心配することが、将来に備える行動の代わりになってしまっているのだ。
+
+2つ目は、考える目的が「将来に備えること」から、「絶対に困らないって確かめること」へとすり替わってしまうためだという。
+
+未来に何が起きるかは誰にも分からないため、絶対に困らないことを証明しようとすると、いつまでも答えが出ず無限ループに陥ってしまうと指摘した。
+
+さらに栗林氏は、お金や 病気 の心配の奥には、「困った時に自分は一人でどうにもできないかもしれない」という「孤独」への恐怖が潜んでいる場合があると語る。
+
+では、不安が止まらなくなった時にはどうすればよいのか。
+
+1つ目は、「今の自分の担当」と「将来の自分の担当」を分けること。
+
+今分かる範囲での準備をしたら、その先の未知の出来事は「将来の自分が対応する」と信頼して任せることが重要だという。
+
+2つ目は、「心配をやめても、準備したことはそのまま役に立つ」と知っておくこと。
+
+心配した時間の長さではなく、実際に実行した準備こそが身を助ける。
+
+3つ目は、「困った時に一人で考えなくてもいい」と知っておくこと。
+
+役所の窓口や専門家など、頼れる相談先を調べておくことも立派な準備であると語った。
+
+最後に栗林氏は、夜になると疲れから悪い場面ばかり思い浮かびやすくなるため、「お金のことは明日の昼に考えよう」と決め、夜のうちに答えを出そうとしないことが大切だとアドバイスした。
+
+将来の不安に苛まれたときには、まずは「今の自分にできる準備」に目を向け、一人で抱え込まずに外部の助けを借りる視点を持つことが、心をラクにする第一歩となる。
+
+意外と知らない大人の人間関係。新しい友達ができないのを「自分のせい」にしてしまう本当の理由
+
+「みんな言ってるよ」に隠された罠とは？知っておくべき責任逃れの心理と正しい対処法
+
+終わったことなのに腹が立つ。何年も前の怒りが消えない本当の理由【反芻思考の心理学】
+
+私にだけ冷たい人。なぜか敵視される心理と対処法【公認心理師が解説】
+
+YouTube チャンネル登録者数 4.69万人
+
+公認心理師いがぐりこが、人間関係に疲れやすい30～50代女性へ、今日から使える心理学をお届けします。心理カウンセラー歴12年以上、1,165件超のカウンセリングと2,697名以上のセミナー実績。FAP療法などトラウマケアを専門に、自己肯定感の高め方や不安の手放し方をわかりやすく解説します。
+
+youtube.com/@iga-guricod:X
+12:X
+12:C
+0:{"buildId":"lHj7I3KPIAqT3z8d_3G7v","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-06","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"ライブドアニュース"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"老後のお金や病気 将来の不安を考え始めると止まらなくなる心理的な理由"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"4 日前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://image.news.livedoor.com/newsimage/stf/d/8/d8eba_1845_1187fec7_5bab6698.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"心理カウンセラー・公認心理師の栗林あや（いがぐりこ）氏が、 YouTube チャンネル「公認心理師いがぐりこの人間関係がラクになる心理学」にて、「将来の不安が止まらない。考えても安心できない理由【公認心理師が解説】」と題した動画を公開した。"}],["$","p","1",{"children":"動画では、老後のお金や 病気 など、将来の不安について考え始めると止まらなくなる心理的な理由と、その解決策を解説している。"}],["$","p","2",{"children":"栗林氏はまず、将来の不安をぐるぐると考えてしまう理由として、2つのポイントを挙げた。"}],["$","p","3",{"children":"1つ目は、心配している間は「何かをやっている気がするから」だという。心配することが、将来に備える行動の代わりになってしまっているのだ。"}],["$","p","4",{"children":"2つ目は、考える目的が「将来に備えること」から、「絶対に困らないって確かめること」へとすり替わってしまうためだという。"}],["$","p","5",{"children":"未来に何が起きるかは誰にも分からないため、絶対に困らないことを証明しようとすると、いつまでも答えが出ず無限ループに陥ってしまうと指摘した。"}],["$","p","6",{"children":"さらに栗林氏は、お金や 病気 の心配の奥には、「困った時に自分は一人でどうにもできないかもしれない」という「孤独」への恐怖が潜んでいる場合があると語る。"}],["$","p","7",{"children":"では、不安が止まらなくなった時にはどうすればよいのか。"}],["$","p","8",{"children":"1つ目は、「今の自分の担当」と「将来の自分の担当」を分けること。"}],["$","p","9",{"children":"今分かる範囲での準備をしたら、その先の未知の出来事は「将来の自分が対応する」と信頼して任せることが重要だという。"}],["$","p","10",{"children":"2つ目は、「心配をやめても、準備したことはそのまま役に立つ」と知っておくこと。"}],["$","p","11",{"children":"心配した時間の長さではなく、実際に実行した準備こそが身を助ける。"}],["$","p","12",{"children":"3つ目は、「困った時に一人で考えなくてもいい」と知っておくこと。"}],["$","p","13",{"children":"役所の窓口や専門家など、頼れる相談先を調べておくことも立派な準備であると語った。"}],["$","p","14",{"children":"最後に栗林氏は、夜になると疲れから悪い場面ばかり思い浮かびやすくなるため、「お金のことは明日の昼に考えよう」と決め、夜のうちに答えを出そうとしないことが大切だとアドバイスした。"}],["$","p","15",{"children":"将来の不安に苛まれたときには、まずは「今の自分にできる準備」に目を向け、一人で抱え込まずに外部の助けを借りる視点を持つことが、心をラクにする第一歩となる。"}],["$","p","16",{"children":"意外と知らない大人の人間関係。新しい友達ができないのを「自分のせい」にしてしまう本当の理由"}],["$","p","17",{"children":"「みんな言ってるよ」に隠された罠とは？知っておくべき責任逃れの心理と正しい対処法"}],["$","p","18",{"children":"終わったことなのに腹が立つ。何年も前の怒りが消えない本当の理由【反芻思考の心理学】"}],["$","p","19",{"children":"私にだけ冷たい人。なぜか敵視される心理と対処法【公認心理師が解説】"}],["$","p","20",{"children":"YouTube チャンネル登録者数 4.69万人"}],["$","p","21",{"children":"公認心理師いがぐりこが、人間関係に疲れやすい30～50代女性へ、今日から使える心理学をお届けします。心理カウンセラー歴12年以上、1,165件超のカウンセリングと2,697名以上のセミナー実績。FAP療法などトラウマケアを専門に、自己肯定感の高め方や不安の手放し方をわかりやすく解説します。"}],["$","p","22",{"children":"youtube.com/@iga-gurico"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はライブドアニュースにあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.livedoor.com/article/detail/32503122/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はライブドアニュースで読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/98607f3498607f34648cc8f4","title":"老後のお金や病気 将来の不安を考え始めると止まらなくなる心理的な理由","locale":"ja","take":null}],["$","$L4",null,{"title":"老後のお金や病気 将来の不安を考え始めると止まらなくなる心理的な理由","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/98607f3498607f34648cc8f4","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E8%80%81%E5%BE%8C%E3%81%AE%E3%81%8A%E9%87%91%E3%82%84%E7%97%85%E6%B0%97+%E5%B0%86%E6%9D%A5%E3%81%AE%E4%B8%8D%E5%AE%89%E3%82%92%E8%80%83%E3%81%88%E5%A7%8B%E3%82%81%E3%82%8B%E3%81%A8%E6%AD%A2%E3%81%BE%E3%82%89%E3%81%AA%E3%81%8F%E3%81%AA%E3%82%8B%E5%BF%83%E7%90%86%E7%9A%84%E3%81%AA%E7%90%86%E7%94%B1&mode=phrase&url=news.livedoor.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","nhk-world:https://news.web.nhk/newsweb/na/nd-20261006de55577",{"children":["$","$L2",null,{"href":"/ja/n/4df75e074df75e072298a8af","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"韓国 金融機関で個人情報漏えい相次ぐ AI悪用のサイバー攻撃か"}]]}]}],["$","li","nhk-society:https://news.web.nhk/newsweb/na/nd-20261006de55566",{"children":["$","$L2",null,{"href":"/ja/n/368f4857368f4857ff81381f","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"女性遺体遺棄事件 自宅前で車からスーツケース下ろす"}]]}]}],["$","li","nhk-society:https://news.web.nhk/newsweb/na/nd-20261006de55567",{"children":["$","$L2",null,{"href":"/ja/n/358f46c4358f46c4a09a6bca","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"天皇ご一家 大英博物館展を鑑賞"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"老後のお金や病気 将来の不安を考え始めると止まらなくなる心理的な理由"}],["$","meta","1",{"name":"description","content":"心理カウンセラー・公認心理師の栗林あや（いがぐりこ）氏が、 YouTube チャンネル「公認心理師いがぐりこの人間関係がラクになる心理学」にて、「将来の不安が止まらない。考えても安心できない理由【公認心理師が解説】」と題した動画を公開した。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"老後のお金や病気 将来の不安を考え始めると止まらなくなる心理的な理由"}],["$","meta","4",{"property":"og:description","content":"心理カウンセラー・公認心理師の栗林あや（いがぐりこ）氏が、 YouTube チャンネル「公認心理師いがぐりこの人間関係がラクになる心理学」にて、「将来の不安が止まらない。考えても安心できない理由【公認心理師が解説】」と題した動画を公開した。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/98607f3498607f34648cc8f4/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fimage.news.livedoor.com%2Fnewsimage%2Fstf%2Fd%2F8%2Fd8eba_1845_1187fec7_5bab6698.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"老後のお金や病気 将来の不安を考え始めると止まらなくなる心理的な理由"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"老後のお金や病気 将来の不安を考え始めると止まらなくなる心理的な理由"}],["$","meta","13",{"name":"twitter:description","content":"心理カウンセラー・公認心理師の栗林あや（いがぐりこ）氏が、 YouTube チャンネル「公認心理師いがぐりこの人間関係がラクになる心理学」にて、「将来の不安が止まらない。考えても安心できない理由【公認心理師が解説】」と題した動画を公開した。"}],["$","meta","14",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fimage.news.livedoor.com%2Fnewsimage%2Fstf%2Fd%2F8%2Fd8eba_1845_1187fec7_5bab6698.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","15",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","17",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

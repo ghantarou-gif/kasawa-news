@@ -1,0 +1,66 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+5:T11d8,2025年にOracle Healthを狙ったサイバー攻撃で、2000万人近くの個人情報が流出した。 Bloomberg によると、米テキサス州司法長官事務所が報告書で明らかにした。
+
+Oracleが調査当局に開示した内容によると、攻撃者が盗み出した個人情報には、社会保障番号、住所、医療情報が含まれていた。Bloombergは、この不正アクセスが2025年1月22日より後に発生し、Oracleが同年3月に一部の顧客に通知したと報じている。
+
+Oracle HealthはOracleの一部門だ。Oracleは2022年6月、医療技術企業Cernerを283億ドルで買収した。
+
+Bloombergによると、Oracleは顧客に対し、保存されていたデータを同社のクラウドストレージサービスに移行する前の、旧式のCernerサーバーが攻撃の標的になったと説明した。英国のサイバーセキュリティー企業 CyPro によると、攻撃者は顧客の認証情報を不正に入手し、それを使ってCernerのサーバー2台にアクセスした上で、患者データをコピーしたという。
+
+Oracleもテキサス州司法長官も、どの病院や診療所、その他の医療機関がデータ窃取の被害を受けたかは明らかにしていない。
+
+米CNETはテキサス州司法長官事務所とOracleの双方にコメントを求めたが、担当者からすぐには回答を得られなかった。
+
+Oracleの医療分野の顧客には、テキサス州などの州の病院、診療所のほか、米国防総省や米退役軍人省が含まれる。被害を受けた2000万人近くのうち、300万人はテキサス州の住民だった。
+
+Bloombergによると、今回の情報流出で被害を受けたテキサス州の非営利医療機関グループCHRISTUS Healthと、カリフォルニア州のTri-City Medical Centerは、盗まれた患者データに氏名、社会保障番号、医師の情報、診断内容、薬剤情報、検査結果が含まれる可能性があると説明した。
+
+CHRISTUS Health は、情報が流出した患者に今回の事案を知らせる書簡を送付し、信用情報の監視や個人情報の不正利用対策のサービスを2年間無料で提供するとしている。
+
+CyProは現地時間10月6日、少なくとも29の病院や医療機関グループが、今回の情報流出の影響を受けたと公表していると伝えた。
+
+「今回の事案は、クラウドへの移行中に古いインフラが、サードパーティーに起因するリスクの要因となり得ることを示している」と、CyProの創業パートナーであるRob McBride氏は記した。「Oracleは同社のクラウドインフラに影響はなかったとしているが、旧式のサーバー2台に保存されていたデータだけでも、数百万人の患者の情報が流出した可能性がある」
+
+デジタル分野の安全性向上に取り組む非営利団体National Cybersecurity Allianceで、情報セキュリティーと啓発活動を担当するディレクターのCliff Steinhauer氏によると、盗まれたデータを使えば、詐欺の手口をはるかに信じ込ませやすくなる。特に、犯罪を企てる者が氏名、住所、医療に関する情報を知っている場合は、その危険性が高まるという。
+
+「保険会社や医療機関の担当者を名乗る人物から連絡があり、機密性の高い情報を求められたり、支払いを要求されたりしたら、電話を切り、保険証の裏面に記載された番号など、正規の連絡先だと分かっている電話番号にかけ直してほしい」と、Steinhauer氏は米CNETに電子メールで述べた。
+
+Steinhauer氏は、今回のOracleの情報流出でデータが盗まれた人は、どの情報が盗まれたのかを確認し、提供されている個人情報の不正利用監視や信用情報の監視サービスを利用すべきだとした。
+
+「信用情報の報告書、金融口座、医療費の明細に、身に覚えのない内容がないか注意して確認してほしい」と同氏は述べた。「予防策として、米国の大手信用情報機関3社すべてで信用情報を凍結しておくのもよい対策だ」
+
+この記事は海外Ziff Davis発の 記事 を4Xが日本向けに編集したものです。
+
+Amazonのアソシエイトとして、CNET Japanは適格販売により収入を得ています。d:X
+12:X
+12:C
+0:{"buildId":"lHj7I3KPIAqT3z8d_3G7v","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-07","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"CNET Japan"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"オラクル医療部門のハッキング被害、約2000万人の個人情報が流出と判明"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"3 日前"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"2025年にOracle Healthを狙ったサイバー攻撃で、2000万人近くの個人情報が流出した。 Bloomberg によると、米テキサス州司法長官事務所が報告書で明らかにした。"}],["$","p","1",{"children":"Oracleが調査当局に開示した内容によると、攻撃者が盗み出した個人情報には、社会保障番号、住所、医療情報が含まれていた。Bloombergは、この不正アクセスが2025年1月22日より後に発生し、Oracleが同年3月に一部の顧客に通知したと報じている。"}],["$","p","2",{"children":"Oracle HealthはOracleの一部門だ。Oracleは2022年6月、医療技術企業Cernerを283億ドルで買収した。"}],["$","p","3",{"children":"Bloombergによると、Oracleは顧客に対し、保存されていたデータを同社のクラウドストレージサービスに移行する前の、旧式のCernerサーバーが攻撃の標的になったと説明した。英国のサイバーセキュリティー企業 CyPro によると、攻撃者は顧客の認証情報を不正に入手し、それを使ってCernerのサーバー2台にアクセスした上で、患者データをコピーしたという。"}],["$","p","4",{"children":"Oracleもテキサス州司法長官も、どの病院や診療所、その他の医療機関がデータ窃取の被害を受けたかは明らかにしていない。"}],["$","p","5",{"children":"米CNETはテキサス州司法長官事務所とOracleの双方にコメントを求めたが、担当者からすぐには回答を得られなかった。"}],["$","p","6",{"children":"Oracleの医療分野の顧客には、テキサス州などの州の病院、診療所のほか、米国防総省や米退役軍人省が含まれる。被害を受けた2000万人近くのうち、300万人はテキサス州の住民だった。"}],["$","p","7",{"children":"Bloombergによると、今回の情報流出で被害を受けたテキサス州の非営利医療機関グループCHRISTUS Healthと、カリフォルニア州のTri-City Medical Centerは、盗まれた患者データに氏名、社会保障番号、医師の情報、診断内容、薬剤情報、検査結果が含まれる可能性があると説明した。"}],["$","p","8",{"children":"CHRISTUS Health は、情報が流出した患者に今回の事案を知らせる書簡を送付し、信用情報の監視や個人情報の不正利用対策のサービスを2年間無料で提供するとしている。"}],["$","p","9",{"children":"CyProは現地時間10月6日、少なくとも29の病院や医療機関グループが、今回の情報流出の影響を受けたと公表していると伝えた。"}],["$","p","10",{"children":"「今回の事案は、クラウドへの移行中に古いインフラが、サードパーティーに起因するリスクの要因となり得ることを示している」と、CyProの創業パートナーであるRob McBride氏は記した。「Oracleは同社のクラウドインフラに影響はなかったとしているが、旧式のサーバー2台に保存されていたデータだけでも、数百万人の患者の情報が流出した可能性がある」"}],["$","p","11",{"children":"デジタル分野の安全性向上に取り組む非営利団体National Cybersecurity Allianceで、情報セキュリティーと啓発活動を担当するディレクターのCliff Steinhauer氏によると、盗まれたデータを使えば、詐欺の手口をはるかに信じ込ませやすくなる。特に、犯罪を企てる者が氏名、住所、医療に関する情報を知っている場合は、その危険性が高まるという。"}],["$","p","12",{"children":"「保険会社や医療機関の担当者を名乗る人物から連絡があり、機密性の高い情報を求められたり、支払いを要求されたりしたら、電話を切り、保険証の裏面に記載された番号など、正規の連絡先だと分かっている電話番号にかけ直してほしい」と、Steinhauer氏は米CNETに電子メールで述べた。"}],["$","p","13",{"children":"Steinhauer氏は、今回のOracleの情報流出でデータが盗まれた人は、どの情報が盗まれたのかを確認し、提供されている個人情報の不正利用監視や信用情報の監視サービスを利用すべきだとした。"}],["$","p","14",{"children":"「信用情報の報告書、金融口座、医療費の明細に、身に覚えのない内容がないか注意して確認してほしい」と同氏は述べた。「予防策として、米国の大手信用情報機関3社すべてで信用情報を凍結しておくのもよい対策だ」"}],["$","p","15",{"children":"この記事は海外Ziff Davis発の 記事 を4Xが日本向けに編集したものです。"}],["$","p","16",{"children":"Amazonのアソシエイトとして、CNET Japanは適格販売により収入を得ています。"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はCNET Japanにあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://japan.cnet.com/article/35253305/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はCNET Japanで読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/f93955c9f93955c938b4025d","title":"オラクル医療部門のハッキング被害、約2000万人の個人情報が流出と判明","locale":"ja","take":null}],["$","$L4",null,{"title":"オラクル医療部門のハッキング被害、約2000万人の個人情報が流出と判明","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/f93955c9f93955c938b4025d","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E3%82%AA%E3%83%A9%E3%82%AF%E3%83%AB%E5%8C%BB%E7%99%82%E9%83%A8%E9%96%80%E3%81%AE%E3%83%8F%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%E8%A2%AB%E5%AE%B3%E3%80%81%E7%B4%842000%E4%B8%87%E4%BA%BA%E3%81%AE%E5%80%8B%E4%BA%BA%E6%83%85%E5%A0%B1%E3%81%8C%E6%B5%81%E5%87%BA%E3%81%A8%E5%88%A4%E6%98%8E&mode=phrase&url=japan.cnet.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","nhk-business:https://news.web.nhk/newsweb/na/nd-20261007de56183",{"children":["$","$L2",null,{"href":"/ja/n/a84552dea84552de6fcc6356","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"インド中央銀行が3年8か月ぶり利上げ 中東情勢背景に"}]]}]}],["$","li","nhk-society:https://news.web.nhk/newsweb/na/nd-20261007de56174",{"children":["$","$L2",null,{"href":"/ja/n/5a14c6ba5a14c6badaec497c","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"原子力人材確保へ 官民が共同で新団体を設立"}]]}]}],["$","li","nhk-business:https://news.web.nhk/newsweb/na/nd-20261007de56177",{"children":["$","$L2",null,{"href":"/ja/n/1c5bcfc91c5bcfc98939c2c5","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"TOPIX改革で構成銘柄が変更 銘柄数は大きく減少へ"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"オラクル医療部門のハッキング被害、約2000万人の個人情報が流出と判明"}],["$","meta","1",{"name":"description","content":"2025年にOracle Healthを狙ったサイバー攻撃で、2000万人近くの個人情報が流出した。 Bloomberg によると、米テキサス州司法長官事務所が報告書で明らかにした。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"オラクル医療部門のハッキング被害、約2000万人の個人情報が流出と判明"}],["$","meta","4",{"property":"og:description","content":"2025年にOracle Healthを狙ったサイバー攻撃で、2000万人近くの個人情報が流出した。 Bloomberg によると、米テキサス州司法長官事務所が報告書で明らかにした。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/f93955c9f93955c938b4025d/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/opengraph-image"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"オラクル医療部門のハッキング被害、約2000万人の個人情報が流出と判明"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"オラクル医療部門のハッキング被害、約2000万人の個人情報が流出と判明"}],["$","meta","13",{"name":"twitter:description","content":"2025年にOracle Healthを狙ったサイバー攻撃で、2000万人近くの個人情報が流出した。 Bloomberg によると、米テキサス州司法長官事務所が報告書で明らかにした。"}],["$","meta","14",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/opengraph-image"}],["$","link","15",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","17",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

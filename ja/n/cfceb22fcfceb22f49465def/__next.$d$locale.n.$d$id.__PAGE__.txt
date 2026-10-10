@@ -1,0 +1,61 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://image.news.livedoor.com/newsimage/stf/1/9/1920c_1845_79167a47_3a3a0ddb.jpg","image"]
+5:Tc16,YouTube チャンネル「じたばたシニアライフ_普通の夫婦と猫の暮らし」が「【夫69、妻63歳の本音トーク】65歳リタイアは正解？失敗？～お金・ 夫婦関係 ・健康～何歳でリタイアがベスト？」と題した動画を公開しました。動画では、65歳で会社をリタイアして4年目を迎えた夫と妻が、当時の決断が正解だったのか、働き続けた場合のメリットやデメリットについて率直に語り合っています。
+
+夫は当初69歳まで働く予定でしたが、65歳で突如リタイアを決断しました。退職当初は老後資金の計画も不十分で、移住や住宅購入も重なり赤字が続いたものの、4年目の現在は生活も落ち着いてきたといいます。
+
+もし69歳まで働き続けていたらどうなっていたかについて、夫は「老後資金はそれなりに貯まったと思う」と金銭面のメリットを挙げる一方で、現在楽しんでいる YouTube 活動や移住、クルーズ旅行などの経験は「きっとできなかっただろうね」と振り返ります。
+
+妻は働き続けていた場合の 夫婦関係 について、「会話もほとんどなかったんじゃないか」と指摘。また、夫に経済力があることで自分が遠慮してしまい、対等な関係が築けなかった可能性に言及しました。さらに健康面についても、リタイア後に夫婦で人間ドックを受診した結果、夫の緑内障やCOPDが早期発見できたと明かし、働き続けていたら「きっと今より不健康になってただろうね」と語り合いました。
+
+最終的に、お金には代えられない好きなことをする時間や良好な 夫婦関係 、健康管理ができるようになったことから、65歳でのリタイアは「ちょうどいいバランスで辞められたかな」と結論づけています。リタイアのタイミングに悩む世代にとって、夫婦で率直に話し合い、自分たちに合った時期を見つけるための大きなヒントになりそうです。
+
+65歳でリタイアして4年、あの時辞めてよかった？
+
+働き続けていたら夫婦関係はどうなっていた？
+
+働き続けていたら健康面にどんな影響があった？
+
+「服もセカスト」視聴者の声に学ぶ！シニアが旅行を存分に楽しむための費用捻出術
+
+真似したいシニア夫婦の程よい距離感！「賄えません」リアルな年金事情と副収入の現実
+
+YouTube チャンネル登録者数 3.41万人
+
+老後のことも考えて、ほどほどに節約し、夫婦仲良く年金暮らしを楽しみたい…。そんな60代夫婦と猫1匹の ちょっと笑える暮らしぶりに、ほっこりとしていただけたら幸いです。
+
+いいね、チャンネル登録、コメントなどしていただけたら、そんなにうれしいことはありません。
+
+youtube.com/channel/UCfbgTveaMP4MEmJbd1KSWtQd:X
+12:X
+12:C
+0:{"buildId":"lHj7I3KPIAqT3z8d_3G7v","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-07","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"ライブドアニュース"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"65歳で会社をリタイア 4年目を迎えた夫婦が語るセカンドライフ"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"3 日前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://image.news.livedoor.com/newsimage/stf/1/9/1920c_1845_79167a47_3a3a0ddb.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"YouTube チャンネル「じたばたシニアライフ_普通の夫婦と猫の暮らし」が「【夫69、妻63歳の本音トーク】65歳リタイアは正解？失敗？～お金・ 夫婦関係 ・健康～何歳でリタイアがベスト？」と題した動画を公開しました。動画では、65歳で会社をリタイアして4年目を迎えた夫と妻が、当時の決断が正解だったのか、働き続けた場合のメリットやデメリットについて率直に語り合っています。"}],["$","p","1",{"children":"夫は当初69歳まで働く予定でしたが、65歳で突如リタイアを決断しました。退職当初は老後資金の計画も不十分で、移住や住宅購入も重なり赤字が続いたものの、4年目の現在は生活も落ち着いてきたといいます。"}],["$","p","2",{"children":"もし69歳まで働き続けていたらどうなっていたかについて、夫は「老後資金はそれなりに貯まったと思う」と金銭面のメリットを挙げる一方で、現在楽しんでいる YouTube 活動や移住、クルーズ旅行などの経験は「きっとできなかっただろうね」と振り返ります。"}],["$","p","3",{"children":"妻は働き続けていた場合の 夫婦関係 について、「会話もほとんどなかったんじゃないか」と指摘。また、夫に経済力があることで自分が遠慮してしまい、対等な関係が築けなかった可能性に言及しました。さらに健康面についても、リタイア後に夫婦で人間ドックを受診した結果、夫の緑内障やCOPDが早期発見できたと明かし、働き続けていたら「きっと今より不健康になってただろうね」と語り合いました。"}],["$","p","4",{"children":"最終的に、お金には代えられない好きなことをする時間や良好な 夫婦関係 、健康管理ができるようになったことから、65歳でのリタイアは「ちょうどいいバランスで辞められたかな」と結論づけています。リタイアのタイミングに悩む世代にとって、夫婦で率直に話し合い、自分たちに合った時期を見つけるための大きなヒントになりそうです。"}],["$","p","5",{"children":"65歳でリタイアして4年、あの時辞めてよかった？"}],["$","p","6",{"children":"働き続けていたら夫婦関係はどうなっていた？"}],["$","p","7",{"children":"働き続けていたら健康面にどんな影響があった？"}],["$","p","8",{"children":"「服もセカスト」視聴者の声に学ぶ！シニアが旅行を存分に楽しむための費用捻出術"}],["$","p","9",{"children":"真似したいシニア夫婦の程よい距離感！「賄えません」リアルな年金事情と副収入の現実"}],["$","p","10",{"children":"YouTube チャンネル登録者数 3.41万人"}],["$","p","11",{"children":"老後のことも考えて、ほどほどに節約し、夫婦仲良く年金暮らしを楽しみたい…。そんな60代夫婦と猫1匹の ちょっと笑える暮らしぶりに、ほっこりとしていただけたら幸いです。"}],["$","p","12",{"children":"いいね、チャンネル登録、コメントなどしていただけたら、そんなにうれしいことはありません。"}],["$","p","13",{"children":"youtube.com/channel/UCfbgTveaMP4MEmJbd1KSWtQ"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はライブドアニュースにあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.livedoor.com/article/detail/32507415/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はライブドアニュースで読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/cfceb22fcfceb22f49465def","title":"65歳で会社をリタイア 4年目を迎えた夫婦が語るセカンドライフ","locale":"ja","take":null}],["$","$L4",null,{"title":"65歳で会社をリタイア 4年目を迎えた夫婦が語るセカンドライフ","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/cfceb22fcfceb22f49465def","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=65%E6%AD%B3%E3%81%A7%E4%BC%9A%E7%A4%BE%E3%82%92%E3%83%AA%E3%82%BF%E3%82%A4%E3%82%A2+4%E5%B9%B4%E7%9B%AE%E3%82%92%E8%BF%8E%E3%81%88%E3%81%9F%E5%A4%AB%E5%A9%A6%E3%81%8C%E8%AA%9E%E3%82%8B%E3%82%BB%E3%82%AB%E3%83%B3%E3%83%89%E3%83%A9%E3%82%A4%E3%83%95&mode=phrase&url=news.livedoor.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","nhk-business:https://news.web.nhk/newsweb/na/nd-20261007de56183",{"children":["$","$L2",null,{"href":"/ja/n/a84552dea84552de6fcc6356","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"インド中央銀行が3年8か月ぶり利上げ 中東情勢背景に"}]]}]}],["$","li","nhk-society:https://news.web.nhk/newsweb/na/nd-20261007de56174",{"children":["$","$L2",null,{"href":"/ja/n/5a14c6ba5a14c6badaec497c","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"原子力人材確保へ 官民が共同で新団体を設立"}]]}]}],["$","li","nhk-business:https://news.web.nhk/newsweb/na/nd-20261007de56177",{"children":["$","$L2",null,{"href":"/ja/n/1c5bcfc91c5bcfc98939c2c5","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"TOPIX改革で構成銘柄が変更 銘柄数は大きく減少へ"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"65歳で会社をリタイア 4年目を迎えた夫婦が語るセカンドライフ"}],["$","meta","1",{"name":"description","content":"YouTube チャンネル「じたばたシニアライフ_普通の夫婦と猫の暮らし」が「【夫69、妻63歳の本音トーク】65歳リタイアは正解？失敗？～お金・ 夫婦関係 ・健康～何歳でリタイアがベスト？」と題した動画を公開しました。動画では、65歳で会社をリタイアして4年目を迎えた夫と妻が、当時の決断が正解だったのか、働き続けた場合のメリットやデメリットについて率直に語り合っています。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"65歳で会社をリタイア 4年目を迎えた夫婦が語るセカンドライフ"}],["$","meta","4",{"property":"og:description","content":"YouTube チャンネル「じたばたシニアライフ_普通の夫婦と猫の暮らし」が「【夫69、妻63歳の本音トーク】65歳リタイアは正解？失敗？～お金・ 夫婦関係 ・健康～何歳でリタイアがベスト？」と題した動画を公開しました。動画では、65歳で会社をリタイアして4年目を迎えた夫と妻が、当時の決断が正解だったのか、働き続けた場合のメリットやデメリットについて率直に語り合っています。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/cfceb22fcfceb22f49465def/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fimage.news.livedoor.com%2Fnewsimage%2Fstf%2F1%2F9%2F1920c_1845_79167a47_3a3a0ddb.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"65歳で会社をリタイア 4年目を迎えた夫婦が語るセカンドライフ"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"65歳で会社をリタイア 4年目を迎えた夫婦が語るセカンドライフ"}],["$","meta","13",{"name":"twitter:description","content":"YouTube チャンネル「じたばたシニアライフ_普通の夫婦と猫の暮らし」が「【夫69、妻63歳の本音トーク】65歳リタイアは正解？失敗？～お金・ 夫婦関係 ・健康～何歳でリタイアがベスト？」と題した動画を公開しました。動画では、65歳で会社をリタイアして4年目を迎えた夫と妻が、当時の決断が正解だったのか、働き続けた場合のメリットやデメリットについて率直に語り合っています。"}],["$","meta","14",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fimage.news.livedoor.com%2Fnewsimage%2Fstf%2F1%2F9%2F1920c_1845_79167a47_3a3a0ddb.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","15",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","17",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

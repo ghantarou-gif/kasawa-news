@@ -1,0 +1,139 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+1a:X
+1f:X
+1f:C
+0:{"buildId":"lHj7I3KPIAqT3z8d_3G7v","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-10","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Gigazine"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"25倍ズームで遠くまで大きく写せるソニー製デジカメ「RX10 V」を使って動物や食べ物を撮影してみた作例はこんな感じ、スマホのAIズームとは別格の出来栄え"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"7 時間前"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"「RX10 V(DSC-RX10M5)」は2026年7月31日に登場したソニー製レンズ一体型カメラで、35mm判換算で24mm～600mmの25倍ズームレンズを搭載しており遠くの被写体を大きく写すことができます。そんなRX10 Vをソニーから借りられたので、実際に動物園や飲食店でいろいろ撮影して「どれだけズームできるのか？」「卓上の食べ物などの近くの被写体は撮影できるのか？」といった疑問点を検証してみました。"}],["$","p","1",{"children":"RX10 Vは1インチセンサーを搭載したソニー製カメラで、35mm判換算で24mm～600mmのズームレンズを搭載しています。RX10 Vの外観や搭載ボタンなどは以下の記事で詳しく確認できます。"}],["$","p","2",{"children":"25倍ズームの実力を検証するために、同じ場所に立って同じ方向を撮影してみました。まずワイド端の24mmで撮影した写真が以下。一般的なスマートフォンのメインカメラに近い画角です。"}],["$","p","3",{"children":"テレ端の600mm。広角でも望遠でもシャープな写真を撮影できました。"}],["$","p","4",{"children":"600mmで撮影した写真の中央部分を等倍表示で切り取ったものが以下。標識の「自転車を除く」という文字をしっかり記録できています。高級スマートフォンに搭載されているAIズーム機能では文字などがつぶれがちですが、RX10 VはAIではなくレンズの光学性能によるズームなのでAIによる創作が入らずにそのまま記録できるというわけです。"}],["$","p","5",{"children":"RX10 Vはワイド端ではレンズ先端から約3cmの距離までピントを合わせることができます。一万円札にピントが合うギリギリの距離まで近づいた様子が以下。レンズが机に接触しそうなほど近づいています。"}],["$","p","6",{"children":"ワイド端でギリギリまで近づいて撮影した写真が以下。RX10 Vはズーム倍率が大きいだけでなく、マクロ撮影にも対応できます。"}],["$","p","7",{"children":"「焦点距離(35mm判換算)：24mm」「F値：2.4」「シャッター速度：1/40秒」「ISO感度：100」"}],["$","p","8",{"children":"RX10 Vのズーム性能を活用するために 天王寺動物園 まで移動してきました。"}],["$","p","9",{"children":"サイの展示コーナーで撮影した写真が以下。中央にサイが写っています。柵があるのでこれ以上サイに近づくことはできません。"}],["$","p","10",{"children":"「焦点距離(35mm判換算)：24mm」「F値：3.5」「シャッター速度：1/80秒」「ISO感度：100」"}],["$","p","11",{"children":"同じ場所でズームして撮影。RX10 Vなら、ググッとズームしてサイを大きく写せます。"}],["$","p","12",{"children":"2匹のサイの顔を大きく撮影してみました。"}],["$","p","13",{"children":"RX10 Vのズームの威力が分かるように、シマウマにピントを合わせて24mmから600mmの間でズーム倍率を切り替えつつ動画を撮影してみました。柵の外側からどんどんズームして遠くのシマウマの顔を激写できることが分かります。"}],["$","p","14",{"children":"動物を大きく撮影できるのはかなりうれしいポイント。"}],["$","p","15",{"children":"エランド も撮影します。これは24mm。"}],["$","p","16",{"children":"「焦点距離(35mm判換算)：24mm」「F値：3.5」「シャッター速度：1/250秒」「ISO感度：100」"}],["$","p","17",{"children":"「焦点距離(35mm判換算)：256mm」「F値：7.1」「シャッター速度：1/80秒」「ISO感度：200」"}],["$","p","18",{"children":"「焦点距離(35mm判換算)：24mm」「F値：2.4」「シャッター速度：1/80秒」「ISO感度：100」"}],["$","p","19",{"children":"「焦点距離(35mm判換算)：31mm」「F値：2.8」「シャッター速度：1/250秒」「ISO感度：100」"}],["$","p","20",{"children":"600mm。RX10 Vの重さはバッテリーを含めて実測1133gなので、大型のカメラと比べて持ち歩きやすいのもメリットです。"}],["$","p","21",{"children":"シロクマの展示エリアには人だかりができていました。スマートフォンで撮影する場合は最前列が空くまで待つ必要があります。"}],["$","p","22",{"children":"「焦点距離(35mm判換算)：27mm」「F値：2.8」「シャッター速度：1/30秒」「ISO感度：125」"}],["$","p","23",{"children":"RX10 Vなら列の後方からササッとズームしてシロクマを大きく撮影できます。"}],["$","p","24",{"children":"後ろの待機列を気にする必要がないので、シャッターチャンスを長時間狙い続けることも可能。これは水しぶきをあげるシロクマ。"}],["$","p","25",{"children":"顔にズーム。クリックしてオリジナル写真を確認すると、羽根やクチバシの表面の質感までしっかり記録できていることが分かります。"}],["$","p","26",{"children":"遠くまで撮影できるレンズだと「近くのものを撮影するのが苦手で、机の上の食べ物を撮影する際はイスから立ち上がって距離を取る必要がある」という場合がありますが、RX10 Vは最短撮影距離が短いので座ったまま食べ物を撮影できます。編集部の近くにあるラーメン店「 茨木 きんせい 」で撮影したラーメンとチャーシュー丼のセット。"}],["$","p","27",{"children":"「焦点距離(35mm判換算)：24mm」「F値：2.4」「シャッター速度：1/80秒」「ISO感度：100」"}],["$","p","28",{"children":"ナルトやネギなどのトッピングを大きく撮影。"}],["$","p","29",{"children":"「焦点距離(35mm判換算)：60mm」「F値：3.5」「シャッター速度：1/60秒」「ISO感度：125」"}],["$","p","30",{"children":"チャーシュー丼を大きく撮影。ズームだけでなく近接撮影も可能なので、あらゆるシチュエーションでパシャパシャと撮影しまくれます。"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10"],"$L11"]}],"$L12","$L13","$L14",null,"$L15","$L16"]}],["$L17"],"$L18"]}],"isPartial":"$@19","staleTime":"$1a","varyParams":null},{"rsc":"$L1b","isPartial":"$@1c","staleTime":"$1a","varyParams":null},{"rsc":"$L1d","isPartial":"$@1e","staleTime":"$1a","varyParams":"$1f"},{"rsc":"$L20","isPartial":"$@21","staleTime":"$1a","varyParams":"$1f"}],"isUpgradeableISRFallback":false,"a":"$@22","rootVaryParams":null,"needsRuntimeRequest":"$@23"}
+24:I[36936,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+25:I[98337,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+28:I[9441,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+29:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+2a:"$Sreact.suspense"
+2c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+2d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+2e:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+2f:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+30:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","31",{"children":"「焦点距離(35mm判換算)：94mm」「F値：5.6」「シャッター速度：1/40秒」「ISO感度：250」"}]
+4:["$","p","32",{"children":"夜間のバスターミナルを撮影してISO感度が高くなった際のノイズ感を確認してみます。まず「ISO感度：2000」で撮影した写真が以下。等倍表示して建物の外壁などに着目するとカラーノイズが見えますが、全体像を見るだけなら目立つノイズはありません。"}]
+5:["$","p","33",{"children":"「焦点距離(35mm判換算)：24mm」「F値：2.4」「シャッター速度：1/30秒」「ISO感度：2000」"}]
+6:["$","p","34",{"children":"「ISO感度：6400」だとノイズが目立つようになります。"}]
+7:["$","p","35",{"children":"「焦点距離(35mm判換算)：130mm」「F値：5.6」「シャッター速度：1/20秒」「ISO感度：6400」"}]
+8:["$","p","36",{"children":"望遠レンズで景色を撮影すると、物体同士の距離が圧縮されて狭いエリアに物体が密集しているように見える「圧縮効果」が発生します。RX10 Vで夜間の道路を撮影して圧縮効果を発生させられるか検証してみました。まず、以下は55mmで歩道橋の上から車道を撮影した写真。"}]
+9:["$","p","37",{"children":"同じ場所から600mmで撮影。車同士の距離がギュッと圧縮されて、すごく混雑した道路に見えるようになりました。"}]
+a:["$","p","38",{"children":"「焦点距離(35mm判換算)：600mm」「F値：5.6」「シャッター速度：1/100秒」「ISO感度：6400」"}]
+b:["$","p","39",{"children":"実際にRX10 Vでいろいろ撮影した結果、近くの食べ物から遠くの動物までしっかり撮影できる便利なカメラでした。望遠レンズならではの圧縮効果も楽しめます。フルサイズセンサーを搭載したカメラと比べると解像感で一歩見劣りしますが、フルサイズセンサー搭載カメラで同等のズーム倍率を実現しようとするとバズーカのような大型レンズが必要になります。RX10 Vは実測1133gという持ち運びやすいカメラでありながら必要十分な画質を確保しているのがポイント。このため、「作品撮影用の超高画質な望遠対応カメラが欲しい」という人よりは、「長時間持ち運べる重さで、ブログやSNS用の思い出写真を撮影したい」という人にオススメなカメラです。"}]
+c:["$","p","40",{"children":"RX10 Vはオープン価格で販売されており、ソニーストアでの価格は税込36万3000円です。Amazon.co.jpでは31万4809円で、ソニーストアより安く入手できます。ハイエンドスマートフォンが20万円を超えることが当たり前になった現状を考えると、「スマートフォンの買い替えを1世代分スキップして、RX10 Vを選択する」というのはかなりアリな選択肢です。"}]
+d:["$","p","41",{"children":"Amazon | SONY(ソニー) DSC-RX10M5 デジタルスチルカメラ Cyber-shot 1.0型積層型CMOSセンサー 24-600mm高倍率ズームレンズ F2.4-F4.0 rx10m5 | コンパクト 通販"}]
+e:["$","p","42",{"children":"とにかく見た目がカッコイイ「Sigma BF」はどんな写真を撮影できるカメラなのか？実際に外に持ち出していろいろ撮影してみた作例まとめ - GIGAZINE"}]
+f:["$","p","43",{"children":"とにかく見た目がカッコイイ「Sigma BF」はどんな写真を撮影できるカメラなのか？実際に外に持ち出していろいろ撮影してみた作例まとめ"}]
+10:["$","p","44",{"children":"You can read the machine translated English article Here are some example photos I took of a… ."}]
+11:["$","p",null,{"className":"article-credit","children":"本文の著作権はGigazineにあります。"}]
+12:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://gigazine.net/news/20261010-sony-rx10-v-photo-example/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はGigazineで読む"}]}]
+26:T22cd,「RX10 V(DSC-RX10M5)」は2026年7月31日に登場したソニー製レンズ一体型カメラで、35mm判換算で24mm～600mmの25倍ズームレンズを搭載しており遠くの被写体を大きく写すことができます。そんなRX10 Vをソニーから借りられたので、実際に動物園や飲食店でいろいろ撮影して「どれだけズームできるのか？」「卓上の食べ物などの近くの被写体は撮影できるのか？」といった疑問点を検証してみました。
+
+RX10 Vは1インチセンサーを搭載したソニー製カメラで、35mm判換算で24mm～600mmのズームレンズを搭載しています。RX10 Vの外観や搭載ボタンなどは以下の記事で詳しく確認できます。
+
+25倍ズームの実力を検証するために、同じ場所に立って同じ方向を撮影してみました。まずワイド端の24mmで撮影した写真が以下。一般的なスマートフォンのメインカメラに近い画角です。
+
+テレ端の600mm。広角でも望遠でもシャープな写真を撮影できました。
+
+600mmで撮影した写真の中央部分を等倍表示で切り取ったものが以下。標識の「自転車を除く」という文字をしっかり記録できています。高級スマートフォンに搭載されているAIズーム機能では文字などがつぶれがちですが、RX10 VはAIではなくレンズの光学性能によるズームなのでAIによる創作が入らずにそのまま記録できるというわけです。
+
+RX10 Vはワイド端ではレンズ先端から約3cmの距離までピントを合わせることができます。一万円札にピントが合うギリギリの距離まで近づいた様子が以下。レンズが机に接触しそうなほど近づいています。
+
+ワイド端でギリギリまで近づいて撮影した写真が以下。RX10 Vはズーム倍率が大きいだけでなく、マクロ撮影にも対応できます。
+
+「焦点距離(35mm判換算)：24mm」「F値：2.4」「シャッター速度：1/40秒」「ISO感度：100」
+
+RX10 Vのズーム性能を活用するために 天王寺動物園 まで移動してきました。
+
+サイの展示コーナーで撮影した写真が以下。中央にサイが写っています。柵があるのでこれ以上サイに近づくことはできません。
+
+「焦点距離(35mm判換算)：24mm」「F値：3.5」「シャッター速度：1/80秒」「ISO感度：100」
+
+同じ場所でズームして撮影。RX10 Vなら、ググッとズームしてサイを大きく写せます。
+
+2匹のサイの顔を大きく撮影してみました。
+
+RX10 Vのズームの威力が分かるように、シマウマにピントを合わせて24mmから600mmの間でズーム倍率を切り替えつつ動画を撮影してみました。柵の外側からどんどんズームして遠くのシマウマの顔を激写できることが分かります。
+
+動物を大きく撮影できるのはかなりうれしいポイント。
+
+エランド も撮影します。これは24mm。
+
+「焦点距離(35mm判換算)：24mm」「F値：3.5」「シャッター速度：1/250秒」「ISO感度：100」
+
+「焦点距離(35mm判換算)：256mm」「F値：7.1」「シャッター速度：1/80秒」「ISO感度：200」
+
+「焦点距離(35mm判換算)：24mm」「F値：2.4」「シャッター速度：1/80秒」「ISO感度：100」
+
+「焦点距離(35mm判換算)：31mm」「F値：2.8」「シャッター速度：1/250秒」「ISO感度：100」
+
+600mm。RX10 Vの重さはバッテリーを含めて実測1133gなので、大型のカメラと比べて持ち歩きやすいのもメリットです。
+
+シロクマの展示エリアには人だかりができていました。スマートフォンで撮影する場合は最前列が空くまで待つ必要があります。
+
+「焦点距離(35mm判換算)：27mm」「F値：2.8」「シャッター速度：1/30秒」「ISO感度：125」
+
+RX10 Vなら列の後方からササッとズームしてシロクマを大きく撮影できます。
+
+後ろの待機列を気にする必要がないので、シャッターチャンスを長時間狙い続けることも可能。これは水しぶきをあげるシロクマ。
+
+顔にズーム。クリックしてオリジナル写真を確認すると、羽根やクチバシの表面の質感までしっかり記録できていることが分かります。
+
+遠くまで撮影できるレンズだと「近くのものを撮影するのが苦手で、机の上の食べ物を撮影する際はイスから立ち上がって距離を取る必要がある」という場合がありますが、RX10 Vは最短撮影距離が短いので座ったまま食べ物を撮影できます。編集部の近くにあるラーメン店「 茨木 きんせい 」で撮影したラーメンとチャーシュー丼のセット。
+
+「焦点距離(35mm判換算)：24mm」「F値：2.4」「シャッター速度：1/80秒」「ISO感度：100」
+
+ナルトやネギなどのトッピングを大きく撮影。
+
+「焦点距離(35mm判換算)：60mm」「F値：3.5」「シャッター速度：1/60秒」「ISO感度：125」
+
+チャーシュー丼を大きく撮影。ズームだけでなく近接撮影も可能なので、あらゆるシチュエーションでパシャパシャと撮影しまくれます。
+
+「焦点距離(35mm判換算)：94mm」「F値：5.6」「シャッター速度：1/40秒」「ISO感度：250」
+
+夜間のバスターミナルを撮影してISO感度が高くなった際のノイズ感を確認してみます。まず「ISO感度：2000」で撮影した写真が以下。等倍表示して建物の外壁などに着目するとカラーノイズが見えますが、全体像を見るだけなら目立つノイズはありません。
+
+「焦点距離(35mm判換算)：24mm」「F値：2.4」「シャッター速度：1/30秒」「ISO感度：2000」
+
+「ISO感度：6400」だとノイズが目立つようになります。
+
+「焦点距離(35mm判換算)：130mm」「F値：5.6」「シャッター速度：1/20秒」「ISO感度：6400」
+
+望遠レンズで景色を撮影すると、物体同士の距離が圧縮されて狭いエリアに物体が密集しているように見える「圧縮効果」が発生します。RX10 Vで夜間の道路を撮影して圧縮効果を発生させられるか検証してみました。まず、以下は55mmで歩道橋の上から車道を撮影した写真。
+
+同じ場所から600mmで撮影。車同士の距離がギュッと圧縮されて、すごく混雑した道路に見えるようになりました。
+
+「焦点距離(35mm判換算)：600mm」「F値：5.6」「シャッター速度：1/100秒」「ISO感度：6400」
+
+実際にRX10 Vでいろいろ撮影した結果、近くの食べ物から遠くの動物までしっかり撮影できる便利なカメラでした。望遠レンズならではの圧縮効果も楽しめます。フルサイズセンサーを搭載したカメラと比べると解像感で一歩見劣りしますが、フルサイズセンサー搭載カメラで同等のズーム倍率を実現しようとするとバズーカのような大型レンズが必要になります。RX10 Vは実測1133gという持ち運びやすいカメラでありながら必要十分な画質を確保しているのがポイント。このため、「作品撮影用の超高画質な望遠対応カメラが欲しい」という人よりは、「長時間持ち運べる重さで、ブログやSNS用の思い出写真を撮影したい」という人にオススメなカメラです。
+
+RX10 Vはオープン価格で販売されており、ソニーストアでの価格は税込36万3000円です。Amazon.co.jpでは31万4809円で、ソニーストアより安く入手できます。ハイエンドスマートフォンが20万円を超えることが当たり前になった現状を考えると、「スマートフォンの買い替えを1世代分スキップして、RX10 Vを選択する」というのはかなりアリな選択肢です。
+
+Amazon | SONY(ソニー) DSC-RX10M5 デジタルスチルカメラ Cyber-shot 1.0型積層型CMOSセンサー 24-600mm高倍率ズームレンズ F2.4-F4.0 rx10m5 | コンパクト 通販
+
+とにかく見た目がカッコイイ「Sigma BF」はどんな写真を撮影できるカメラなのか？実際に外に持ち出していろいろ撮影してみた作例まとめ - GIGAZINE
+
+とにかく見た目がカッコイイ「Sigma BF」はどんな写真を撮影できるカメラなのか？実際に外に持ち出していろいろ撮影してみた作例まとめ
+
+You can read the machine translated English article Here are some example photos I took of a… .13:["$","section",null,{"className":"article-actions","children":[["$","$L24",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/275e186c275e186c97a1cf7a","title":"25倍ズームで遠くまで大きく写せるソニー製デジカメ「RX10 V」を使って動物や食べ物を撮影してみた作例はこんな感じ、スマホのAIズームとは別格の出来栄え","locale":"ja","take":null}],["$","$L25",null,{"title":"25倍ズームで遠くまで大きく写せるソニー製デジカメ「RX10 V」を使って動物や食べ物を撮影してみた作例はこんな感じ、スマホのAIズームとは別格の出来栄え","excerpt":"$26","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/275e186c275e186c97a1cf7a","locale":"ja"}],"$L27"]}]
+14:["$","$L28",null,{"placement":"article","className":"mt-8"}]
+15:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+16:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/3efb47a06f581013b77004192b79bf37ed7c733b?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/f4917879f4917879f8aed3b9","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"【スーパーフォーミュラ第9戦決勝】「僕にとってベストレース」予選6番手のザック・オサリバンが快走3位「ここは僕のラッキートラック」(中日スポーツ)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/76ad86483804f7baf674085c782f4606b1bfadd4?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/6ff7121c6ff7121c6a0a0e72","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"ＳＶリーグ・大阪ブルテオンと大同生命が地域活性化イベント 「ＢＣＰ」をテーマに取り組み紹介(スポーツ報知)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/3d302b7a75940c9116da0d2eb406a168874afc0e?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/d65e11eed65e11eebefe0f44","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"[プレミアリーグEAST]青森山田が首位・流経大柏に3発完封勝利…柏U-18が暫定2位&FC東京U-18が暫定3位に:第17節(ゲキサカ)"}]]}]}]]}]]}]
+17:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+18:["$","$L29",null,{"children":["$","$2a",null,{"name":"Next.MetadataOutlet","children":"$@2b"}]}]
+1b:["$","$1","h",{"children":[null,["$","$L2c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L2d",null,{"children":["$","$2a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"25倍ズームで遠くまで大きく写せるソニー製デジカメ「RX10 V」を使って動物や食べ物を撮影してみた作例はこんな感じ、スマホのAIズームとは別格の出来栄え"}],["$","meta","1",{"name":"description","content":"「RX10 V(DSC-RX10M5)」は2026年7月31日に登場したソニー製レンズ一体型カメラで、35mm判換算で24mm～600mmの25倍ズームレンズを搭載しており遠くの被写体を大きく写すことができます。そんなRX10 Vをソニーから借りられたので、実際に動物園や飲食店でいろいろ撮影して「どれだけズームできるのか？」「卓上の食べ物などの近くの被写体は撮影できるのか？」といった疑問点を検証してみました。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"25倍ズームで遠くまで大きく写せるソニー製デジカメ「RX10 V」を使って動物や食べ物を撮影してみた作例はこんな感じ、スマホのAIズームとは別格の出来栄え"}],["$","meta","4",{"property":"og:description","content":"「RX10 V(DSC-RX10M5)」は2026年7月31日に登場したソニー製レンズ一体型カメラで、35mm判換算で24mm～600mmの25倍ズームレンズを搭載しており遠くの被写体を大きく写すことができます。そんなRX10 Vをソニーから借りられたので、実際に動物園や飲食店でいろいろ撮影して「どれだけズームできるのか？」「卓上の食べ物などの近くの被写体は撮影できるのか？」といった疑問点を検証してみました。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/275e186c275e186c97a1cf7a/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/opengraph-image"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"25倍ズームで遠くまで大きく写せるソニー製デジカメ「RX10 V」を使って動物や食べ物を撮影してみた作例はこんな感じ、スマホのAIズームとは別格の出来栄え"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"25倍ズームで遠くまで大きく写せるソニー製デジカメ「RX10 V」を使って動物や食べ物を撮影してみた作例はこんな感じ、スマホのAIズームとは別格の出来栄え"}],["$","meta","13",{"name":"twitter:description","content":"「RX10 V(DSC-RX10M5)」は2026年7月31日に登場したソニー製レンズ一体型カメラで、35mm判換算で24mm～600mmの25倍ズームレンズを搭載しており遠くの被写体を大きく写すことができます。そんなRX10 Vをソニーから借りられたので、実際に動物園や飲食店でいろいろ撮影して「どれだけズームできるのか？」「卓上の食べ物などの近くの被写体は撮影できるのか？」といった疑問点を検証してみました。"}],["$","meta","14",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/opengraph-image"}],["$","link","15",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L2e","17",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+1d:["$","$1","c",{"children":[null,["$","$L2f",null,{"parallelRouterKey":"children","template":["$","$L30",null,{}]}]]}]
+20:["$","$1","c",{"children":[null,["$","$L2f",null,{"parallelRouterKey":"children","template":["$","$L30",null,{}]}]]}]
+23:true
+27:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=25%E5%80%8D%E3%82%BA%E3%83%BC%E3%83%A0%E3%81%A7%E9%81%A0%E3%81%8F%E3%81%BE%E3%81%A7%E5%A4%A7%E3%81%8D%E3%81%8F%E5%86%99%E3%81%9B%E3%82%8B%E3%82%BD%E3%83%8B%E3%83%BC%E8%A3%BD%E3%83%87%E3%82%B8%E3%82%AB%E3%83%A1%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E5%8B%95%E7%89%A9%E3%82%84%E9%A3%9F%E3%81%B9%E7%89%A9%E3%82%92%E6%92%AE%E5%BD%B1%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F%E4%BD%9C%E4%BE%8B%E3%81%AF%E3%81%93%E3%82%93%E3%81%AA&mode=phrase&url=gigazine.net&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+2b:null
+1a:300
+1a:C
+22:0
+1c:"$undefined"
+1e:"$undefined"
+21:"$undefined"
+19:"$undefined"

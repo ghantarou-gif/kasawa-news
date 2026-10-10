@@ -1,0 +1,99 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261009-35253359-cnn-000-1-view.jpg?pri=l&w=450&h=318&exp=10800","image"]
+17:X
+1c:X
+1c:C
+0:{"buildId":"lHj7I3KPIAqT3z8d_3G7v","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-09","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"白色矮星の周りで「第二世代」とみられる惑星を初めて発見 英研究チーム(CNN.co.jp)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261009-35253359-cnn-000-1-view.jpg?pri=l&w=450&h=318&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"（CNN） 恒星の死骸とも言われる白色矮星（わいせい）の周りで、その星の燃え残りから形成された可能性のある惑星が初めて発見された。"}],["$","p","1",{"children":"5日付で英国の天文学専門誌「ネイチャー・アストロノミー」に発表された研究によると、この天体は地球から約270光年離れた白色矮星「HS 0209+0832」を周回する巨大ガス惑星とみられる。研究チームは、米航空宇宙局（NASA）のハッブル宇宙望遠鏡などを使った観測結果を分析。化学的な証拠に基づき、恒星が燃え尽きて白色矮星となる時に放出された物質から、惑星が形成された可能性を指摘した。"}],["$","p","2",{"children":"恒星は寿命を迎えると、急激に膨らんで赤色巨星となる。その後やがて外層が放出され、非常に小さく、高密度で高温の中心核が残る。これが白色矮星だ。恒星が誕生したのと同じ時期にできていた第一世代の惑星も、軌道が十分に大きければこの破滅的な変化を生き抜くことができる。白色矮星の周りでこのような第一世代惑星は過去にいくつか観測されているが、残骸から新たに生まれた第二世代といわれる惑星が見つかったことはなかった。"}],["$","p","3",{"children":"研究チームによると、HS 0209+0832の表面には、通常はみられない重元素「ニオブ」の痕跡が見つかった。チームはこれを、白色矮星になった後で表面に降り注いだ惑星物質とみている。チームの代表者で英ウォーリック大学の博士課程に在籍するジェイミー・ウィリアムズ氏は「白色矮星でニオブが見つかったのは初めて。これは、恒星が死を迎えた時の燃えかすでできた惑星物質が、後から降り注いだことを意味している」"}],["$","p","4",{"children":"さらにNASAの惑星探査衛星TESS（テス）からの観測結果を分析したところ、4.4日の周期でかすかな明るさの変化が繰り返されていることが分かった。チームによれば、これも白色矮星の周りを巨大な惑星が回っているという説に一致する。"}],["$","p","5",{"children":"ウィリアムズ氏は「白色矮星の近くを周回する惑星が興味深い点」として、「白色矮星は時間の経過とともに冷えていくため、周囲のハビタブルゾーン（地球型生命が存在できる領域）が非常に安定している」と指摘。「第二世代の惑星は形成された後、何百億年もの間ハビタブルゾーンにとどまり続ける可能性がある」と述べた。"}],["$","p","6",{"children":"安定した時代がそれほど長期にわたれば、生命存在の条件がそろう可能性が大きくなるかもしれない。ただし、ウィリアムズ氏は「惑星と確定したわけではない。今のところまだ単なる候補だ」と述べ、第二世代惑星の発見を証明するにはさらに研究を続ける必要があるとの見方を示した。"}],["$","p","7",{"children":"（CNN） 恒星の死骸とも言われる白色矮星（わいせい）の周りで、その星の燃え残りから形成された可能性のある惑星が初めて発見された。"}],["$","p","8",{"children":"5日付で英国の天文学専門誌「ネイチャー・アストロノミー」に発表された研究によると、この天体は地球から約270光年離れた白色矮星「HS 0209+0832」を周回する巨大ガス惑星とみられる。研究チームは、米航空宇宙局（NASA）のハッブル宇宙望遠鏡などを使った観測結果を分析。化学的な証拠に基づき、恒星が燃え尽きて白色矮星となる時に放出された物質から、惑星が形成された可能性を指摘した。"}],["$","p","9",{"children":"恒星は寿命を迎えると、急激に膨らんで赤色巨星となる。その後やがて外層が放出され、非常に小さく、高密度で高温の中心核が残る。これが白色矮星だ。恒星が誕生したのと同じ時期にできていた第一世代の惑星も、軌道が十分に大きければこの破滅的な変化を生き抜くことができる。白色矮星の周りでこのような第一世代惑星は過去にいくつか観測されているが、残骸から新たに生まれた第二世代といわれる惑星が見つかったことはなかった。"}],["$","p","10",{"children":"研究チームによると、HS 0209+0832の表面には、通常はみられない重元素「ニオブ」の痕跡が見つかった。チームはこれを、白色矮星になった後で表面に降り注いだ惑星物質とみている。チームの代表者で英ウォーリック大学の博士課程に在籍するジェイミー・ウィリアムズ氏は「白色矮星でニオブが見つかったのは初めて。これは、恒星が死を迎えた時の燃えかすでできた惑星物質が、後から降り注いだことを意味している」"}],["$","p","11",{"children":"さらにNASAの惑星探査衛星TESS（テス）からの観測結果を分析したところ、4.4日の周期でかすかな明るさの変化が繰り返されていることが分かった。チームによれば、これも白色矮星の周りを巨大な惑星が回っているという説に一致する。"}],["$","p","12",{"children":"ウィリアムズ氏は「白色矮星の近くを周回する惑星が興味深い点」として、「白色矮星は時間の経過とともに冷えていくため、周囲のハビタブルゾーン（地球型生命が存在できる領域）が非常に安定している」と指摘。「第二世代の惑星は形成された後、何百億年もの間ハビタブルゾーンにとどまり続ける可能性がある」と述べた。"}],["$","p","13",{"children":"安定した時代がそれほど長期にわたれば、生命存在の条件がそろう可能性が大きくなるかもしれない。ただし、ウィリアムズ氏は「惑星と確定したわけではない。今のところまだ単なる候補だ」と述べ、第二世代惑星の発見を証明するにはさらに研究を続ける必要があるとの見方を示した。"}],["$","p","14",{"children":"寿命を迎えた恒星は急激に膨らんで赤色巨星となった後、新たな核融合を起こしてさまざまな元素を生み出す。やがて燃料が尽きて白色矮星になると、ニオブを含む重元素は急速に下へ沈み込み、表面には水素やヘリウムのような軽い元素だけが残る。チームはこのことから、HS 0209+0832で検出されたニオブは外から来たはずだと判断した。「白色矮星は非常に高温で、強烈な紫外線を放ち、近くにある惑星の大気を吹き飛ばしている。その結果、これらの元素が表面に降ってきたと考えられる」と、ウィリアムズ氏は説明した。"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld"],"$Le"]}],"$Lf","$L10","$L11",null,"$L12","$L13"]}],["$L14"],"$L15"]}],"isPartial":"$@16","staleTime":"$17","varyParams":null},{"rsc":"$L18","isPartial":"$@19","staleTime":"$17","varyParams":null},{"rsc":"$L1a","isPartial":"$@1b","staleTime":"$17","varyParams":"$1c"},{"rsc":"$L1d","isPartial":"$@1e","staleTime":"$17","varyParams":"$1c"}],"isUpgradeableISRFallback":false,"a":"$@1f","rootVaryParams":null,"needsRuntimeRequest":"$@20"}
+21:I[36936,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+22:I[98337,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+25:I[9441,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+26:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+27:"$Sreact.suspense"
+29:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+2a:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+2b:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+2c:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+2d:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","15",{"children":"チームのメンバーの一人で米コロラド大学大気宇宙物理学研究所の研究員、デービッド・J・ウィルソン氏によると、第二世代惑星という概念は、少なくとも初めて太陽系外惑星が見つかった時からずっと存在していた。"}]
+4:["$","p","16",{"children":"最初に発見された太陽系外惑星は、恒星の死骸の一種で高速回転する天体「パルサー」を周回していた。ウィルソン氏によると、パルサーは超新星爆発という大爆発現象で形成されるため、もともとあった惑星はその威力で破壊されてしまうはずで、後になって見つかる惑星は第二世代と考えられる。"}]
+5:["$","p","17",{"children":"「白色矮星は超新星爆発によってできるわけではないが、さまざまな残骸に取り囲まれている」と、ウィルソン氏は説明する。「幸運にも赤色巨星の時代を生き延びた惑星や、不運にも破壊された惑星の破片、白色矮星に移行した時に残ったガスや放出されたちりなどが周りにあり、それらがみんな集まって新たな惑星ができても不思議ではない」"}]
+6:["$","p","18",{"children":"天文学界では、第一世代の惑星が形成される過程もまだ詳しく分かっていない。新たに報告されたこの第二世代惑星がどんな仕組みでできたのかは、それ以上に未知の領域だ。ウィリアムズ氏によれば、死んでいく星と別の天体とが衝突して惑星が生まれた可能性もある。星の中心核に別の天体、たとえば質量が太陽の20%ほどしかない恒星や、惑星と恒星の中間の質量を持つ「褐色矮星」が接近したのかもしれないと、同氏は語る。"}]
+7:["$","p","19",{"children":"赤色巨星の時代に別の天体が引き込まれた場合、ちりやガスがすべて拡散して巨大な雲となる現象が妨げられ、一部が円盤状に回り始めた可能性がある。この円盤は白色矮星になっても周りで回転し続け、そこから惑星が生まれたとも考えられる。「通常の白色矮星には円盤がない。赤色巨星の間、その星の物質はひたすら外へ向かって拡散してしまうからだ」"}]
+8:["$","p","20",{"children":"研究チームは今後1年間のうちに、NASAのチャンドラX線観測衛星を使って観測を進める予定だ。また、惑星の存在や特徴についてさらなる手がかりを得るため、より強力なNASAのジェームズ・ウェッブ宇宙望遠鏡による観測も希望している。"}]
+9:["$","p","21",{"children":"この惑星の存在が確認されれば、まったく新しい種類に分類され、白色矮星の周りの第二世代惑星がほかにもある可能性が示されると、ウィリアムズ氏は話す。"}]
+a:["$","p","22",{"children":"同氏はさらに「太陽も最後は白色矮星になる。私たちはここに太陽系の未来も見ているわけだ。いつか太陽にも新たな惑星ができるかもしれない」と語った。"}]
+b:["$","p","23",{"children":"宇宙全体の恒星のうち95%が、最終的には白色矮星に移行する。英レスター大学で講師を務めるサラ・ケースウェル氏は、白色矮星になってから形成された惑星が見つかったとすれば、ほかの白色矮星の周りにも第二世代の惑星が存在し得ることを意味し、この太陽系でも太陽が死を迎えた後に新たな惑星が生まれる可能性があると述べた。同氏は今回の研究に参加していない。"}]
+c:["$","p","24",{"children":"ハッブル宇宙望遠鏡を運用する宇宙望遠鏡科学研究所のミッションサイエンティスト、スーザン・ムラーリ氏も本研究には参加していないが、惑星系の多様さ、複雑さを示してきた研究にさらなる証拠が加わったとの見方を示した。"}]
+d:["$","p","25",{"children":"ムラーリ氏は「恒星が死んだ後で生き続ける惑星もあれば、宇宙空間に放り出されたり、恒星にのみ込まれたりする惑星もある。もし第二世代惑星が存在し得るのなら、予想よりはるかに多くの白色矮星に惑星があることになる」「太陽系外惑星の来世には、これまで考えられていたより多くの可能性があることが示された」と話している。"}]
+e:["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]
+f:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/5ca18bfd9ee68d11a28588e11520be4b148e4bbe?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}]
+23:T2b73,（CNN） 恒星の死骸とも言われる白色矮星（わいせい）の周りで、その星の燃え残りから形成された可能性のある惑星が初めて発見された。
+
+5日付で英国の天文学専門誌「ネイチャー・アストロノミー」に発表された研究によると、この天体は地球から約270光年離れた白色矮星「HS 0209+0832」を周回する巨大ガス惑星とみられる。研究チームは、米航空宇宙局（NASA）のハッブル宇宙望遠鏡などを使った観測結果を分析。化学的な証拠に基づき、恒星が燃え尽きて白色矮星となる時に放出された物質から、惑星が形成された可能性を指摘した。
+
+恒星は寿命を迎えると、急激に膨らんで赤色巨星となる。その後やがて外層が放出され、非常に小さく、高密度で高温の中心核が残る。これが白色矮星だ。恒星が誕生したのと同じ時期にできていた第一世代の惑星も、軌道が十分に大きければこの破滅的な変化を生き抜くことができる。白色矮星の周りでこのような第一世代惑星は過去にいくつか観測されているが、残骸から新たに生まれた第二世代といわれる惑星が見つかったことはなかった。
+
+研究チームによると、HS 0209+0832の表面には、通常はみられない重元素「ニオブ」の痕跡が見つかった。チームはこれを、白色矮星になった後で表面に降り注いだ惑星物質とみている。チームの代表者で英ウォーリック大学の博士課程に在籍するジェイミー・ウィリアムズ氏は「白色矮星でニオブが見つかったのは初めて。これは、恒星が死を迎えた時の燃えかすでできた惑星物質が、後から降り注いだことを意味している」
+
+さらにNASAの惑星探査衛星TESS（テス）からの観測結果を分析したところ、4.4日の周期でかすかな明るさの変化が繰り返されていることが分かった。チームによれば、これも白色矮星の周りを巨大な惑星が回っているという説に一致する。
+
+ウィリアムズ氏は「白色矮星の近くを周回する惑星が興味深い点」として、「白色矮星は時間の経過とともに冷えていくため、周囲のハビタブルゾーン（地球型生命が存在できる領域）が非常に安定している」と指摘。「第二世代の惑星は形成された後、何百億年もの間ハビタブルゾーンにとどまり続ける可能性がある」と述べた。
+
+安定した時代がそれほど長期にわたれば、生命存在の条件がそろう可能性が大きくなるかもしれない。ただし、ウィリアムズ氏は「惑星と確定したわけではない。今のところまだ単なる候補だ」と述べ、第二世代惑星の発見を証明するにはさらに研究を続ける必要があるとの見方を示した。
+
+（CNN） 恒星の死骸とも言われる白色矮星（わいせい）の周りで、その星の燃え残りから形成された可能性のある惑星が初めて発見された。
+
+5日付で英国の天文学専門誌「ネイチャー・アストロノミー」に発表された研究によると、この天体は地球から約270光年離れた白色矮星「HS 0209+0832」を周回する巨大ガス惑星とみられる。研究チームは、米航空宇宙局（NASA）のハッブル宇宙望遠鏡などを使った観測結果を分析。化学的な証拠に基づき、恒星が燃え尽きて白色矮星となる時に放出された物質から、惑星が形成された可能性を指摘した。
+
+恒星は寿命を迎えると、急激に膨らんで赤色巨星となる。その後やがて外層が放出され、非常に小さく、高密度で高温の中心核が残る。これが白色矮星だ。恒星が誕生したのと同じ時期にできていた第一世代の惑星も、軌道が十分に大きければこの破滅的な変化を生き抜くことができる。白色矮星の周りでこのような第一世代惑星は過去にいくつか観測されているが、残骸から新たに生まれた第二世代といわれる惑星が見つかったことはなかった。
+
+研究チームによると、HS 0209+0832の表面には、通常はみられない重元素「ニオブ」の痕跡が見つかった。チームはこれを、白色矮星になった後で表面に降り注いだ惑星物質とみている。チームの代表者で英ウォーリック大学の博士課程に在籍するジェイミー・ウィリアムズ氏は「白色矮星でニオブが見つかったのは初めて。これは、恒星が死を迎えた時の燃えかすでできた惑星物質が、後から降り注いだことを意味している」
+
+さらにNASAの惑星探査衛星TESS（テス）からの観測結果を分析したところ、4.4日の周期でかすかな明るさの変化が繰り返されていることが分かった。チームによれば、これも白色矮星の周りを巨大な惑星が回っているという説に一致する。
+
+ウィリアムズ氏は「白色矮星の近くを周回する惑星が興味深い点」として、「白色矮星は時間の経過とともに冷えていくため、周囲のハビタブルゾーン（地球型生命が存在できる領域）が非常に安定している」と指摘。「第二世代の惑星は形成された後、何百億年もの間ハビタブルゾーンにとどまり続ける可能性がある」と述べた。
+
+安定した時代がそれほど長期にわたれば、生命存在の条件がそろう可能性が大きくなるかもしれない。ただし、ウィリアムズ氏は「惑星と確定したわけではない。今のところまだ単なる候補だ」と述べ、第二世代惑星の発見を証明するにはさらに研究を続ける必要があるとの見方を示した。
+
+寿命を迎えた恒星は急激に膨らんで赤色巨星となった後、新たな核融合を起こしてさまざまな元素を生み出す。やがて燃料が尽きて白色矮星になると、ニオブを含む重元素は急速に下へ沈み込み、表面には水素やヘリウムのような軽い元素だけが残る。チームはこのことから、HS 0209+0832で検出されたニオブは外から来たはずだと判断した。「白色矮星は非常に高温で、強烈な紫外線を放ち、近くにある惑星の大気を吹き飛ばしている。その結果、これらの元素が表面に降ってきたと考えられる」と、ウィリアムズ氏は説明した。
+
+チームのメンバーの一人で米コロラド大学大気宇宙物理学研究所の研究員、デービッド・J・ウィルソン氏によると、第二世代惑星という概念は、少なくとも初めて太陽系外惑星が見つかった時からずっと存在していた。
+
+最初に発見された太陽系外惑星は、恒星の死骸の一種で高速回転する天体「パルサー」を周回していた。ウィルソン氏によると、パルサーは超新星爆発という大爆発現象で形成されるため、もともとあった惑星はその威力で破壊されてしまうはずで、後になって見つかる惑星は第二世代と考えられる。
+
+「白色矮星は超新星爆発によってできるわけではないが、さまざまな残骸に取り囲まれている」と、ウィルソン氏は説明する。「幸運にも赤色巨星の時代を生き延びた惑星や、不運にも破壊された惑星の破片、白色矮星に移行した時に残ったガスや放出されたちりなどが周りにあり、それらがみんな集まって新たな惑星ができても不思議ではない」
+
+天文学界では、第一世代の惑星が形成される過程もまだ詳しく分かっていない。新たに報告されたこの第二世代惑星がどんな仕組みでできたのかは、それ以上に未知の領域だ。ウィリアムズ氏によれば、死んでいく星と別の天体とが衝突して惑星が生まれた可能性もある。星の中心核に別の天体、たとえば質量が太陽の20%ほどしかない恒星や、惑星と恒星の中間の質量を持つ「褐色矮星」が接近したのかもしれないと、同氏は語る。
+
+赤色巨星の時代に別の天体が引き込まれた場合、ちりやガスがすべて拡散して巨大な雲となる現象が妨げられ、一部が円盤状に回り始めた可能性がある。この円盤は白色矮星になっても周りで回転し続け、そこから惑星が生まれたとも考えられる。「通常の白色矮星には円盤がない。赤色巨星の間、その星の物質はひたすら外へ向かって拡散してしまうからだ」
+
+研究チームは今後1年間のうちに、NASAのチャンドラX線観測衛星を使って観測を進める予定だ。また、惑星の存在や特徴についてさらなる手がかりを得るため、より強力なNASAのジェームズ・ウェッブ宇宙望遠鏡による観測も希望している。
+
+この惑星の存在が確認されれば、まったく新しい種類に分類され、白色矮星の周りの第二世代惑星がほかにもある可能性が示されると、ウィリアムズ氏は話す。
+
+同氏はさらに「太陽も最後は白色矮星になる。私たちはここに太陽系の未来も見ているわけだ。いつか太陽にも新たな惑星ができるかもしれない」と語った。
+
+宇宙全体の恒星のうち95%が、最終的には白色矮星に移行する。英レスター大学で講師を務めるサラ・ケースウェル氏は、白色矮星になってから形成された惑星が見つかったとすれば、ほかの白色矮星の周りにも第二世代の惑星が存在し得ることを意味し、この太陽系でも太陽が死を迎えた後に新たな惑星が生まれる可能性があると述べた。同氏は今回の研究に参加していない。
+
+ハッブル宇宙望遠鏡を運用する宇宙望遠鏡科学研究所のミッションサイエンティスト、スーザン・ムラーリ氏も本研究には参加していないが、惑星系の多様さ、複雑さを示してきた研究にさらなる証拠が加わったとの見方を示した。
+
+ムラーリ氏は「恒星が死んだ後で生き続ける惑星もあれば、宇宙空間に放り出されたり、恒星にのみ込まれたりする惑星もある。もし第二世代惑星が存在し得るのなら、予想よりはるかに多くの白色矮星に惑星があることになる」「太陽系外惑星の来世には、これまで考えられていたより多くの可能性があることが示された」と話している。10:["$","section",null,{"className":"article-actions","children":[["$","$L21",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/a59755dba59755db681af2b3","title":"白色矮星の周りで「第二世代」とみられる惑星を初めて発見 英研究チーム(CNN.co.jp)","locale":"ja","take":null}],["$","$L22",null,{"title":"白色矮星の周りで「第二世代」とみられる惑星を初めて発見 英研究チーム(CNN.co.jp)","excerpt":"$23","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/a59755dba59755db681af2b3","locale":"ja"}],"$L24"]}]
+11:["$","$L25",null,{"placement":"article","className":"mt-8"}]
+12:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+13:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-health:https://bbc.co.uk/news/videos/ck98zyyer83mo",{"children":["$","$L2",null,{"href":"/ja/n/c32ea910c32ea9103e27f9ba","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Yes, hang-xiety is a real thing"}]]}]}],["$","li","cbc-world:https://cbc.ca/news/world/us-deportation-soliman-equatorial-guinea-9.7375381?cmp=rss",{"children":["$","$L2",null,{"href":"/ja/n/a30ef1f7a30ef1f7e26d165f","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"CBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Judge orders U.S. government to return Arizona man deported to Equatorial Guinea"}]]}]}],["$","li","dw:https://dw.com/en/us-imposes-sanctions-aiming-to-dismantle-international-criminal-court/a-79618577?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/88337bf888337bf8cb1cdb30","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"US imposes sanctions aiming to 'dismantle' International Criminal Court"}]]}]}]]}]]}]
+14:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+15:["$","$L26",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@28"}]}]
+18:["$","$1","h",{"children":[null,["$","$L29",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L2a",null,{"children":["$","$27",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"白色矮星の周りで「第二世代」とみられる惑星を初めて発見 英研究チーム(CNN.co.jp)"}],["$","meta","1",{"name":"description","content":"（CNN） 恒星の死骸とも言われる白色矮星（わいせい）の周りで、その星の燃え残りから形成された可能性のある惑星が初めて発見された。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"白色矮星の周りで「第二世代」とみられる惑星を初めて発見 英研究チーム(CNN.co.jp)"}],["$","meta","4",{"property":"og:description","content":"（CNN） 恒星の死骸とも言われる白色矮星（わいせい）の周りで、その星の燃え残りから形成された可能性のある惑星が初めて発見された。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/a59755dba59755db681af2b3/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261009-35253359-cnn-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"白色矮星の周りで「第二世代」とみられる惑星を初めて発見 英研究チーム(CNN.co.jp)"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"白色矮星の周りで「第二世代」とみられる惑星を初めて発見 英研究チーム(CNN.co.jp)"}],["$","meta","13",{"name":"twitter:description","content":"（CNN） 恒星の死骸とも言われる白色矮星（わいせい）の周りで、その星の燃え残りから形成された可能性のある惑星が初めて発見された。"}],["$","meta","14",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261009-35253359-cnn-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","15",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L2b","17",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+1a:["$","$1","c",{"children":[null,["$","$L2c",null,{"parallelRouterKey":"children","template":["$","$L2d",null,{}]}]]}]
+1d:["$","$1","c",{"children":[null,["$","$L2c",null,{"parallelRouterKey":"children","template":["$","$L2d",null,{}]}]]}]
+20:true
+24:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E7%99%BD%E8%89%B2%E7%9F%AE%E6%98%9F%E3%81%AE%E5%91%A8%E3%82%8A%E3%81%A7%E3%81%A8%E3%81%BF%E3%82%89%E3%82%8C%E3%82%8B%E6%83%91%E6%98%9F%E3%82%92%E5%88%9D%E3%82%81%E3%81%A6%E7%99%BA%E8%A6%8B+%E8%8B%B1%E7%A0%94%E7%A9%B6%E3%83%81%E3%83%BC%E3%83%A0&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+28:null
+17:300
+17:C
+1f:0
+19:"$undefined"
+1b:"$undefined"
+1e:"$undefined"
+16:"$undefined"

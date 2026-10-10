@@ -1,0 +1,62 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+5:T12bd,サブスクリプションを解約しやすくするよう企業に義務付ける全米規模の規則が、控訴裁判所の判断で事実上無効になってから1年。ニューヨーク市が、市民を対象に同様の規則を復活させた。
+
+Zohran Mamdani市長 が、市の最高技術責任者（CTO）や消費者保護担当の局長とともに先週発表したこの規則は、加入時と同じくらい簡単にサブスクリプションを解約できるようにすることを企業に義務付ける。スポーツジムの会員契約、携帯電話の契約、月額料金が発生するアプリなどが対象だ。基本的な考え方は、バイデン政権下の2024年に提案されたが全面施行には至らなかった「クリック・トゥ・キャンセル」規則と似ている。市の規則は2026年1月の行政命令に基づいて制定され、10月1日に施行された。
+
+Mamdani市長は発表で、「望んでもいない契約の支払いを止めるために、45分も保留音を聞かされるようなことがあってはならない」と述べた。「企業がワンクリックで利用者からお金を取れるなら、利用者もワンクリックでお金を取り戻せるべきだ。解約を認めない企業には、これから市が厳しく対処する」
+
+その「厳しい対処」の一環として、ニューヨーク市民が苦情を申し立てられる ウェブページ が設けられた。利用者は市内外の事業者を検索または追加し、「事業者がサブスクリプションの解約を遅らせた」「自動更新について知らされていなかった」などの問題を一覧から選べる。テキスト入力欄や、スクリーンショットなどの資料をアップロードする機能もあり、状況を詳しく説明できる。「返金とサブスクリプションの解約」など、希望する解決方法も選択できる。
+
+ニューヨーク市消費者労働者保護局のSamuel Levine局長によると、ウェブ経由で寄せられた苦情は専任の職員が対応するという。「チャットボットとの終わりのないやりとりに回されることはない」とLevine局長は The Verge に語った。「支援を専任とする人間が対応する」
+
+苦情の対象となった事業者は調査を受け、市の規則への違反が認められれば、違反1件につき最低525ドル（約8万3000円）の罰金を科される。
+
+では、米国のその他の地域はどうなるのか。米CNETの調査によると、米国人はサブスクリプションに年間平均1300ドル（約21万円）超を支出している。その中には、利用していないものや、誤って契約したものもある。
+
+米消費者連盟（CFA）で競争と市場の公正性を担当するディレクターのEmily Peterson-Cassin氏は、ニューヨーク市のクリック・トゥ・キャンセル規則は、自治体が消費者を守る新たな方法を生み出せることを示していると述べた。「この革新的な取り組みは、連邦機関が行動しない中でも、地方や州の消費者保護機関が消費者保護のために立ち上がっていることを改めて示している。ほかの規制当局が同様の取り組みを進める道筋にもなる」
+
+例えばカリフォルニア州には、サブスクリプションの更新料金を請求する前に、顧客の明示的な同意を得ることを事業者に義務付ける規則がある。
+
+メリーランド州で6月に施行された法律も、費用の負担が小さく、速やかに手続きでき、使いやすい方法で、サブスクリプションの自動更新を解約できるようにすることを企業に義務付けている。
+
+コロラド州の同様の法律「Online Cancellation Act」は2025年に施行され、1回の操作で解約できるリンクを提供するよう事業者に義務付けた。
+
+地域ごとに異なる法律が併存する状況を、「継ぎはぎ」と表現する人もいる。連邦第8巡回区控訴裁判所は全米規模の規則を無効とした際、必要な規制分析が行われていなかったことを理由に挙げた。規則の目的や手法に反対したからではない。
+
+FTCの担当者は、クリック・トゥ・キャンセルやニューヨーク市の規則について、米CNETへの電子メールで「この件に関する新たな情報はない」と述べた。
+
+この記事は海外Ziff Davis発の 記事 を4Xが日本向けに編集したものです。
+
+Amazonのアソシエイトとして、CNET Japanは適格販売により収入を得ています。d:X
+12:X
+12:C
+0:{"buildId":"lHj7I3KPIAqT3z8d_3G7v","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-07","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"CNET Japan"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"サブスクの「クリックで解約」をNY市が義務化 加入と同じく簡単に"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"3 日前"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"サブスクリプションを解約しやすくするよう企業に義務付ける全米規模の規則が、控訴裁判所の判断で事実上無効になってから1年。ニューヨーク市が、市民を対象に同様の規則を復活させた。"}],["$","p","1",{"children":"Zohran Mamdani市長 が、市の最高技術責任者（CTO）や消費者保護担当の局長とともに先週発表したこの規則は、加入時と同じくらい簡単にサブスクリプションを解約できるようにすることを企業に義務付ける。スポーツジムの会員契約、携帯電話の契約、月額料金が発生するアプリなどが対象だ。基本的な考え方は、バイデン政権下の2024年に提案されたが全面施行には至らなかった「クリック・トゥ・キャンセル」規則と似ている。市の規則は2026年1月の行政命令に基づいて制定され、10月1日に施行された。"}],["$","p","2",{"children":"Mamdani市長は発表で、「望んでもいない契約の支払いを止めるために、45分も保留音を聞かされるようなことがあってはならない」と述べた。「企業がワンクリックで利用者からお金を取れるなら、利用者もワンクリックでお金を取り戻せるべきだ。解約を認めない企業には、これから市が厳しく対処する」"}],["$","p","3",{"children":"その「厳しい対処」の一環として、ニューヨーク市民が苦情を申し立てられる ウェブページ が設けられた。利用者は市内外の事業者を検索または追加し、「事業者がサブスクリプションの解約を遅らせた」「自動更新について知らされていなかった」などの問題を一覧から選べる。テキスト入力欄や、スクリーンショットなどの資料をアップロードする機能もあり、状況を詳しく説明できる。「返金とサブスクリプションの解約」など、希望する解決方法も選択できる。"}],["$","p","4",{"children":"ニューヨーク市消費者労働者保護局のSamuel Levine局長によると、ウェブ経由で寄せられた苦情は専任の職員が対応するという。「チャットボットとの終わりのないやりとりに回されることはない」とLevine局長は The Verge に語った。「支援を専任とする人間が対応する」"}],["$","p","5",{"children":"苦情の対象となった事業者は調査を受け、市の規則への違反が認められれば、違反1件につき最低525ドル（約8万3000円）の罰金を科される。"}],["$","p","6",{"children":"では、米国のその他の地域はどうなるのか。米CNETの調査によると、米国人はサブスクリプションに年間平均1300ドル（約21万円）超を支出している。その中には、利用していないものや、誤って契約したものもある。"}],["$","p","7",{"children":"米消費者連盟（CFA）で競争と市場の公正性を担当するディレクターのEmily Peterson-Cassin氏は、ニューヨーク市のクリック・トゥ・キャンセル規則は、自治体が消費者を守る新たな方法を生み出せることを示していると述べた。「この革新的な取り組みは、連邦機関が行動しない中でも、地方や州の消費者保護機関が消費者保護のために立ち上がっていることを改めて示している。ほかの規制当局が同様の取り組みを進める道筋にもなる」"}],["$","p","8",{"children":"例えばカリフォルニア州には、サブスクリプションの更新料金を請求する前に、顧客の明示的な同意を得ることを事業者に義務付ける規則がある。"}],["$","p","9",{"children":"メリーランド州で6月に施行された法律も、費用の負担が小さく、速やかに手続きでき、使いやすい方法で、サブスクリプションの自動更新を解約できるようにすることを企業に義務付けている。"}],["$","p","10",{"children":"コロラド州の同様の法律「Online Cancellation Act」は2025年に施行され、1回の操作で解約できるリンクを提供するよう事業者に義務付けた。"}],["$","p","11",{"children":"地域ごとに異なる法律が併存する状況を、「継ぎはぎ」と表現する人もいる。連邦第8巡回区控訴裁判所は全米規模の規則を無効とした際、必要な規制分析が行われていなかったことを理由に挙げた。規則の目的や手法に反対したからではない。"}],["$","p","12",{"children":"FTCの担当者は、クリック・トゥ・キャンセルやニューヨーク市の規則について、米CNETへの電子メールで「この件に関する新たな情報はない」と述べた。"}],["$","p","13",{"children":"この記事は海外Ziff Davis発の 記事 を4Xが日本向けに編集したものです。"}],["$","p","14",{"children":"Amazonのアソシエイトとして、CNET Japanは適格販売により収入を得ています。"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はCNET Japanにあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://japan.cnet.com/article/35253321/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はCNET Japanで読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/1f12b2231f12b223247c2683","title":"サブスクの「クリックで解約」をNY市が義務化 加入と同じく簡単に","locale":"ja","take":null}],["$","$L4",null,{"title":"サブスクの「クリックで解約」をNY市が義務化 加入と同じく簡単に","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/1f12b2231f12b223247c2683","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E3%81%AE%E3%82%92NY%E5%B8%82%E3%81%8C%E7%BE%A9%E5%8B%99%E5%8C%96+%E5%8A%A0%E5%85%A5%E3%81%A8%E5%90%8C%E3%81%98%E3%81%8F%E7%B0%A1%E5%8D%98%E3%81%AB&mode=phrase&url=japan.cnet.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","nhk-business:https://news.web.nhk/newsweb/na/nd-20261007de56183",{"children":["$","$L2",null,{"href":"/ja/n/a84552dea84552de6fcc6356","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"インド中央銀行が3年8か月ぶり利上げ 中東情勢背景に"}]]}]}],["$","li","nhk-society:https://news.web.nhk/newsweb/na/nd-20261007de56174",{"children":["$","$L2",null,{"href":"/ja/n/5a14c6ba5a14c6badaec497c","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"原子力人材確保へ 官民が共同で新団体を設立"}]]}]}],["$","li","nhk-business:https://news.web.nhk/newsweb/na/nd-20261007de56177",{"children":["$","$L2",null,{"href":"/ja/n/1c5bcfc91c5bcfc98939c2c5","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"TOPIX改革で構成銘柄が変更 銘柄数は大きく減少へ"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"サブスクの「クリックで解約」をNY市が義務化 加入と同じく簡単に"}],["$","meta","1",{"name":"description","content":"サブスクリプションを解約しやすくするよう企業に義務付ける全米規模の規則が、控訴裁判所の判断で事実上無効になってから1年。ニューヨーク市が、市民を対象に同様の規則を復活させた。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"サブスクの「クリックで解約」をNY市が義務化 加入と同じく簡単に"}],["$","meta","4",{"property":"og:description","content":"サブスクリプションを解約しやすくするよう企業に義務付ける全米規模の規則が、控訴裁判所の判断で事実上無効になってから1年。ニューヨーク市が、市民を対象に同様の規則を復活させた。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/1f12b2231f12b223247c2683/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/opengraph-image"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"サブスクの「クリックで解約」をNY市が義務化 加入と同じく簡単に"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"サブスクの「クリックで解約」をNY市が義務化 加入と同じく簡単に"}],["$","meta","13",{"name":"twitter:description","content":"サブスクリプションを解約しやすくするよう企業に義務付ける全米規模の規則が、控訴裁判所の判断で事実上無効になってから1年。ニューヨーク市が、市民を対象に同様の規則を復活させた。"}],["$","meta","14",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/opengraph-image"}],["$","link","15",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","17",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

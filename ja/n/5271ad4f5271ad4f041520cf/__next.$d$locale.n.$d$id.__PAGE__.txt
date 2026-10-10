@@ -1,0 +1,77 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+f:X
+14:X
+14:C
+0:{"buildId":"lHj7I3KPIAqT3z8d_3G7v","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-08","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"CNET Japan"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"最新「Apple Watch」と「AirPods 5」、修理のしやすさに課題 iFixit分解レポート"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"一昨日"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"この1カ月ほどの間に、「Apple Watch」の最新モデルや「AirPods 5」を手に入れた人には知っておいてほしいことがある。どれも修理が簡単ではないということだ。"}],["$","p","1",{"children":"Appleは常にレベルアップを図っている。ただし、修理のしやすさに関しては別だ"}],["$","p","2",{"children":"買ったばかりだから、今は問題に感じないかもしれない。しかし、使い続けるうちに、寿命を延ばすためにバッテリーを交換したくなることもあるだろう。交換が不可能というわけではないが、Appleが9月に発表したウェアラブルデバイスは、いずれも手軽に修理できるものではない。"}],["$","p","3",{"children":"修理しやすい製品の普及を推進するiFixitは、新しい消費者向けデバイスを定期的に分解し、修理のしやすさを10点満点で評価している。米国時間10月6日には、「Apple Watch Series 12」と「Apple Watch Ultra 4」をともに 4点と評価した 。先週に同様の分解調査を行ったAirPods 5は、わずか2点だった。"}],["$","p","4",{"children":"点数だけを見れば、AirPodsの方がApple Watchよりも悪い結果となった。しかし、どう捉えるかは見方次第だ。Appleは実際、10点満点中0点だった前モデルからAirPodsを改善している。2点の上昇は、修理しやすくする方向に同社が動いていることを示している。"}],["$","p","5",{"children":"Apple Watch Series 12は、引っ張るとバッテリーを固定する接着剤を剥がせるタブが加わったおかげで、前モデルよりもわずかに修理しやすくなった。ただし、iFixitは依然として「小幅な改善」と表現している。一方、Apple Watch Ultra 4の修理のしやすさは、10点満点中4点だった過去3世代から変わっていない。"}],["$","p","6",{"children":"iFixitの最高経営責任者（CEO）であるKyle Wiens氏は、電子メールで「Appleは、Apple Watchの修理で最大の問題となっているバッテリー交換を、いまだに改善していない」と述べた。「新しいApple Watchはどちらも、バッテリーにたどり着くために非常に強力な接着剤を切り離す必要があり、壊れやすいディスプレイを損傷する恐れがある」"}],["$","p","7",{"children":"さらにiFixitは、Appleが米国の10州で「修理する権利」に関する規制を守っていないと捉えているという。例えばオレゴン州では、企業が自社内で製品を修理する際に使うものと同じ部品、工具、資料を、独立系の修理店や自分で修理する人にも提供することが義務付けられている。Wiens氏は「修理には部品、工具、マニュアルが必要だが、AppleはApple Watchについて、それらを一度も提供していない」と述べている。"}],["$","p","8",{"children":"Wiens氏は6月、筆者に対し、これはApple Watchの「解決できる設計上の問題」だと話していた。必要なのは、Appleがデバイス自体を改良することではなく、自社に限らない修理の仕組みが広がるよう、積極的に支援することだという。"}],["$","p","9",{"children":"Appleは、iFixitの調査結果や結論についてコメントしなかった。同社の広報担当者は以前、ミネソタ州の「修理する権利」に関する法律の要件を満たしていると説明していた。また、連邦レベルでの「修理する権利」に関する規制の推進を支持した、最初のスマートフォンメーカーでもあるとしていた。"}],["$","p","10",{"children":"「修理する権利」に関する規制は州によって異なるが、その根底にある考え方は共通している。デバイスの修理を、より手軽で安価にできるようにすることだ。その手段は主に、製造元に依頼する、サードパーティーの修理業者を選ぶ、自宅で修理するといった選択肢を増やすことだ。"}],["$","p","11",{"children":"修理しやすくすることで、製品を長く使えるようになるという利点がある。電子廃棄物を減らし、買い替えのために何度もお金をかけずに済む。"}],["$","p","12",{"children":"iFixitは新型Apple Watchの評価で、Appleはもっと改善すべきだと結論付けている。修理しやすい製品が実現可能であることを示すものとして、Googleの「Pixel Watch」を挙げている。"}],["$","p","13",{"children":"筆者も6月にPixel Watchを分解し、元通りに組み立てることに成功したため、この点は実体験として語れる。難しかったかといえば、確かに難しかった。想定の2倍の時間がかかった。しかし大切なのは、バッテリーを取り外せただけでなく、画面全体を交換できたということだ。iFixitがPixel Watchの修理のしやすさを10点満点中9点と評価したのは、こうした理由からである。"}],["$","p","14",{"children":"ウェアラブルデバイスの修理のしやすさについて調べる中で、筆者が学んだことがある。スマートウォッチやヘッドホンは、最初から修理を想定して設計しなければならない。既存のデバイスに後から付け足せるものではないのだ。耐久性や防水性能を損なわずに修理のしやすさを確保するのは、簡単ではない。何も犠牲にせず実現するのは、なおさら難しい。"}],["$","p","15",{"children":"Pixel Watchは今のところ、修理のしやすさにおける模範的な製品かもしれない。しかし、業界全体が急いで追いつこうとしているわけではない。Appleの評価は下位にとどまっているが、同社だけが大きく劣っているわけでもない。"}],["$","p","16",{"children":"Appleのやり方にも利点はある。一部の修理を自社内に限定することで、修理してユーザーに返すデバイスの品質を管理できるからだ。しかし、自分が所有するデバイスをどう修理するかを選ぶことは、消費者の権利としてますます認められるようになっている。そして最終的には、巨大テクノロジー企業であっても規制を守らなければならない。"}],"$L3","$L4","$L5"],"$L6"]}],"$L7","$L8","$L9",null,"$La","$Lb"]}],["$Lc"],"$Ld"]}],"isPartial":"$@e","staleTime":"$f","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$f","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$f","varyParams":"$14"},{"rsc":"$L15","isPartial":"$@16","staleTime":"$f","varyParams":"$14"}],"isUpgradeableISRFallback":false,"a":"$@17","rootVaryParams":null,"needsRuntimeRequest":"$@18"}
+19:I[36936,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+1a:I[98337,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+1c:I[9441,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+1d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1e:"$Sreact.suspense"
+20:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+21:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+22:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+23:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+24:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","17",{"children":"Appleは近年、デバイスを修理しやすくするために大きな前進を遂げてきた。「iPhone 18 Pro」も修理がかなり難しいとはいえ、その進歩は確かだ。同社の製品は長く使える傾向があり、中古で売却するときの価値も高い。消費者に恩恵をもたらす画期的な製品や機能を生み出し、Apple製品への愛着を育んできた実績も豊富だ。それでも、修理のしやすさについては、十分に実現できているとまだ証明できていない。"}]
+4:["$","p","18",{"children":"この記事は海外Ziff Davis発の 記事 を4Xが日本向けに編集したものです。"}]
+5:["$","p","19",{"children":"Amazonのアソシエイトとして、CNET Japanは適格販売により収入を得ています。"}]
+6:["$","p",null,{"className":"article-credit","children":"本文の著作権はCNET Japanにあります。"}]
+7:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://japan.cnet.com/article/35253369/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はCNET Japanで読む"}]}]
+1b:T1adc,この1カ月ほどの間に、「Apple Watch」の最新モデルや「AirPods 5」を手に入れた人には知っておいてほしいことがある。どれも修理が簡単ではないということだ。
+
+Appleは常にレベルアップを図っている。ただし、修理のしやすさに関しては別だ
+
+買ったばかりだから、今は問題に感じないかもしれない。しかし、使い続けるうちに、寿命を延ばすためにバッテリーを交換したくなることもあるだろう。交換が不可能というわけではないが、Appleが9月に発表したウェアラブルデバイスは、いずれも手軽に修理できるものではない。
+
+修理しやすい製品の普及を推進するiFixitは、新しい消費者向けデバイスを定期的に分解し、修理のしやすさを10点満点で評価している。米国時間10月6日には、「Apple Watch Series 12」と「Apple Watch Ultra 4」をともに 4点と評価した 。先週に同様の分解調査を行ったAirPods 5は、わずか2点だった。
+
+点数だけを見れば、AirPodsの方がApple Watchよりも悪い結果となった。しかし、どう捉えるかは見方次第だ。Appleは実際、10点満点中0点だった前モデルからAirPodsを改善している。2点の上昇は、修理しやすくする方向に同社が動いていることを示している。
+
+Apple Watch Series 12は、引っ張るとバッテリーを固定する接着剤を剥がせるタブが加わったおかげで、前モデルよりもわずかに修理しやすくなった。ただし、iFixitは依然として「小幅な改善」と表現している。一方、Apple Watch Ultra 4の修理のしやすさは、10点満点中4点だった過去3世代から変わっていない。
+
+iFixitの最高経営責任者（CEO）であるKyle Wiens氏は、電子メールで「Appleは、Apple Watchの修理で最大の問題となっているバッテリー交換を、いまだに改善していない」と述べた。「新しいApple Watchはどちらも、バッテリーにたどり着くために非常に強力な接着剤を切り離す必要があり、壊れやすいディスプレイを損傷する恐れがある」
+
+さらにiFixitは、Appleが米国の10州で「修理する権利」に関する規制を守っていないと捉えているという。例えばオレゴン州では、企業が自社内で製品を修理する際に使うものと同じ部品、工具、資料を、独立系の修理店や自分で修理する人にも提供することが義務付けられている。Wiens氏は「修理には部品、工具、マニュアルが必要だが、AppleはApple Watchについて、それらを一度も提供していない」と述べている。
+
+Wiens氏は6月、筆者に対し、これはApple Watchの「解決できる設計上の問題」だと話していた。必要なのは、Appleがデバイス自体を改良することではなく、自社に限らない修理の仕組みが広がるよう、積極的に支援することだという。
+
+Appleは、iFixitの調査結果や結論についてコメントしなかった。同社の広報担当者は以前、ミネソタ州の「修理する権利」に関する法律の要件を満たしていると説明していた。また、連邦レベルでの「修理する権利」に関する規制の推進を支持した、最初のスマートフォンメーカーでもあるとしていた。
+
+「修理する権利」に関する規制は州によって異なるが、その根底にある考え方は共通している。デバイスの修理を、より手軽で安価にできるようにすることだ。その手段は主に、製造元に依頼する、サードパーティーの修理業者を選ぶ、自宅で修理するといった選択肢を増やすことだ。
+
+修理しやすくすることで、製品を長く使えるようになるという利点がある。電子廃棄物を減らし、買い替えのために何度もお金をかけずに済む。
+
+iFixitは新型Apple Watchの評価で、Appleはもっと改善すべきだと結論付けている。修理しやすい製品が実現可能であることを示すものとして、Googleの「Pixel Watch」を挙げている。
+
+筆者も6月にPixel Watchを分解し、元通りに組み立てることに成功したため、この点は実体験として語れる。難しかったかといえば、確かに難しかった。想定の2倍の時間がかかった。しかし大切なのは、バッテリーを取り外せただけでなく、画面全体を交換できたということだ。iFixitがPixel Watchの修理のしやすさを10点満点中9点と評価したのは、こうした理由からである。
+
+ウェアラブルデバイスの修理のしやすさについて調べる中で、筆者が学んだことがある。スマートウォッチやヘッドホンは、最初から修理を想定して設計しなければならない。既存のデバイスに後から付け足せるものではないのだ。耐久性や防水性能を損なわずに修理のしやすさを確保するのは、簡単ではない。何も犠牲にせず実現するのは、なおさら難しい。
+
+Pixel Watchは今のところ、修理のしやすさにおける模範的な製品かもしれない。しかし、業界全体が急いで追いつこうとしているわけではない。Appleの評価は下位にとどまっているが、同社だけが大きく劣っているわけでもない。
+
+Appleのやり方にも利点はある。一部の修理を自社内に限定することで、修理してユーザーに返すデバイスの品質を管理できるからだ。しかし、自分が所有するデバイスをどう修理するかを選ぶことは、消費者の権利としてますます認められるようになっている。そして最終的には、巨大テクノロジー企業であっても規制を守らなければならない。
+
+Appleは近年、デバイスを修理しやすくするために大きな前進を遂げてきた。「iPhone 18 Pro」も修理がかなり難しいとはいえ、その進歩は確かだ。同社の製品は長く使える傾向があり、中古で売却するときの価値も高い。消費者に恩恵をもたらす画期的な製品や機能を生み出し、Apple製品への愛着を育んできた実績も豊富だ。それでも、修理のしやすさについては、十分に実現できているとまだ証明できていない。
+
+この記事は海外Ziff Davis発の 記事 を4Xが日本向けに編集したものです。
+
+Amazonのアソシエイトとして、CNET Japanは適格販売により収入を得ています。8:["$","section",null,{"className":"article-actions","children":[["$","$L19",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/5271ad4f5271ad4f041520cf","title":"最新「Apple Watch」と「AirPods 5」、修理のしやすさに課題 iFixit分解レポート","locale":"ja","take":null}],["$","$L1a",null,{"title":"最新「Apple Watch」と「AirPods 5」、修理のしやすさに課題 iFixit分解レポート","excerpt":"$1b","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/5271ad4f5271ad4f041520cf","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E6%9C%80%E6%96%B0%E3%80%81%E4%BF%AE%E7%90%86%E3%81%AE%E3%81%97%E3%82%84%E3%81%99%E3%81%95%E3%81%AB%E8%AA%B2%E9%A1%8C+iFixit%E5%88%86%E8%A7%A3%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88&mode=phrase&url=japan.cnet.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+9:["$","$L1c",null,{"placement":"article","className":"mt-8"}]
+a:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+b:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","dw:https://dw.com/en/2026-nobel-prize-winner-anne-carson-where-to-start-reading/a-79598953?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/3c40f2643c40f264fe5e565e","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"2026 Nobel Prize winner Anne Carson: Where to start reading"}]]}]}],["$","li","nhk-sports:https://news.web.nhk/newsweb/na/nd-20261008de56508",{"children":["$","$L2",null,{"href":"/ja/n/072ddeef072ddeef665e3adf","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"阪神 佐藤輝明が三冠王 4年ぶり史上9人目 村上宗隆以来"}]]}]}],["$","li","bbc-arts:https://bbc.co.uk/news/articles/cq4g1j54nepyo",{"children":["$","$L2",null,{"href":"/ja/n/02b8405e02b8405e5654af08","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize"}]]}]}]]}]]}]
+c:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+d:["$","$L1d",null,{"children":["$","$1e",null,{"name":"Next.MetadataOutlet","children":"$@1f"}]}]
+10:["$","$1","h",{"children":[null,["$","$L20",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L21",null,{"children":["$","$1e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"最新「Apple Watch」と「AirPods 5」、修理のしやすさに課題 iFixit分解レポート"}],["$","meta","1",{"name":"description","content":"この1カ月ほどの間に、「Apple Watch」の最新モデルや「AirPods 5」を手に入れた人には知っておいてほしいことがある。どれも修理が簡単ではないということだ。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"最新「Apple Watch」と「AirPods 5」、修理のしやすさに課題 iFixit分解レポート"}],["$","meta","4",{"property":"og:description","content":"この1カ月ほどの間に、「Apple Watch」の最新モデルや「AirPods 5」を手に入れた人には知っておいてほしいことがある。どれも修理が簡単ではないということだ。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/5271ad4f5271ad4f041520cf/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/opengraph-image"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"最新「Apple Watch」と「AirPods 5」、修理のしやすさに課題 iFixit分解レポート"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"最新「Apple Watch」と「AirPods 5」、修理のしやすさに課題 iFixit分解レポート"}],["$","meta","13",{"name":"twitter:description","content":"この1カ月ほどの間に、「Apple Watch」の最新モデルや「AirPods 5」を手に入れた人には知っておいてほしいことがある。どれも修理が簡単ではないということだ。"}],["$","meta","14",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/opengraph-image"}],["$","link","15",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L22","17",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+12:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+15:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+18:true
+1f:null
+f:300
+f:C
+17:0
+11:"$undefined"
+13:"$undefined"
+16:"$undefined"
+e:"$undefined"

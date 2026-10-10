@@ -1,0 +1,288 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261011-01361052-rcg-000-5-view.jpg?pri=l&w=450&h=299&exp=10800","image"]
+48:X
+4d:X
+4d:C
+0:{"buildId":"lHj7I3KPIAqT3z8d_3G7v","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-10","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["⚽"," ","スポーツ"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"【ポイントランキング】2026年スーパーフォーミュラ第9戦富士終了後(オートスポーツweb)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"8 分前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261011-01361052-rcg-000-5-view.jpg?pri=l&w=450&h=299&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"10月10日、静岡県の富士スピードウェイにて2026年全日本スーパーフォーミュラ選手権第9戦の決勝レースが行われ、イゴール・オオムラ・フラガ（PONOS NAKAJIMA RACING）がポール・トゥ・ウインで優勝を飾った。2位には太田格之進（DOCOMO TEAM DANDELION RACING）、3位にはザック・オサリバン（TEAM IMPUL）が続いた。"}],["$","p","1",{"children":"レースはポールポジションからスタートしたフラガが主導権を握る展開に。ピット作業後もトップをキープし、2番手を走行していた太田のプレッシャーを退け、今シーズン2勝目をマークした。この勝利によりフラガは大きくポイントを加算し、74ポイントでドライバーズランキング2位に浮上している。"}],["$","p","2",{"children":"一方、ランキング首位を走る太田は、ファイナルラップでマシントラブルの兆候を抱えながらも2位を死守。得点を122ポイントとし、依然としてランキングトップを快走中だ。太田は明日11日（日）行われる第10戦の結果次第で、最終戦の鈴鹿大会を残してシリーズタイトルを獲得する可能性がある。"}],["$","p","3",{"children":"また、戦前はランキング2位だった岩佐歩夢（TEAM MUGEN AUTOBACS）は4位入賞によって67.5ポイントに伸ばしたものの、フラガの躍進によりランキング3位へと後退。同じく6位フィニッシュの福住仁嶺（NTT docomo Business ROOKIE）も63ポイントでランキング4番手となった。"}],["$","p","4",{"children":"チームランキングにおいては、DOCOMO TEAM DANDELION RACINGが148ポイントで首位を独走している。続いて、今大会でのフラガの優勝もあり、PONOS NAKAJIMA RACINGが80.5ポイントで2位に浮上。VANTELIN TEAM TOM’Sが77.5ポイントで続いている。"}],["$","p","5",{"children":"2026年スーパーフォーミュラ第9戦富士終了時点でのドライバーズランキング、およびチームランキングは以下のとおりだ。"}],["$","p","6",{"children":"■2026全日本スーパーフォーミュラ選手権 ドライバーズランキング"}],["$","p","7",{"children":"Pos.／No.／Driver／Team／Points"}],["$","p","8",{"children":"1／6／太田格之進／DOCOMO TEAM DANDELION RACING／122"}],["$","p","9",{"children":"2／65／I.オオムラ・フラガ／PONOS NAKAJIMA RACING／74"}],["$","p","10",{"children":"3／1／岩佐歩夢／TEAM MUGEN AUTOBACS／67.5"}],["$","p","11",{"children":"4／14／福住仁嶺／NTT docomo Business ROOKIE／63"}],["$","p","12",{"children":"5／36／坪井翔／VANTELIN TEAM TOM’S／43"}],["$","p","13",{"children":"6／5／牧野任祐／DOCOMO TEAM DANDELION RACING／41"}],["$","p","14",{"children":"7／19／Z.オサリバン／TEAM IMPUL／38"}],["$","p","15",{"children":"8／39／大湯都史樹／SANKI VERTEX PARTNERS CERUMO・INGING／35"}],["$","p","16",{"children":"9／37／S.フェネストラズ／VANTELIN TEAM TOM’S／34.5"}],["$","p","17",{"children":"10／16／野尻智紀／TEAM MUGEN AUTOBACS／30.5"}],["$","p","18",{"children":"11／38／阪口晴南／SANKI VERTEX PARTNERS CERUMO・INGING／27"}],["$","p","19",{"children":"12／3／L.ブラウニング／REALIZE KONDO RACING／20"}],["$","p","20",{"children":"13／22／松下信治／DELiGHTWORKS RACING／16"}],["$","p","21",{"children":"14／64／佐藤蓮／PONOS NAKAJIMA RACING／11.5"}],["$","p","22",{"children":"15／12／小出峻／ThreeBond Racing／11"}],["$","p","23",{"children":"16／53／C.ブルツ／TEAM GOH／6"}],["$","p","24",{"children":"17／28／小林利徠斗／KDDI TGMGP TGR-DC／6"}],["$","p","25",{"children":"18／50／野村勇斗／San-Ei Gen with B-Max／6"}],["$","p","26",{"children":"19／8／山下健太／KCMG／5"}],["$","p","27",{"children":"20／7／小林可夢偉／KDDI TGMGP TGR-DC／5"}],["$","p","28",{"children":"21／97／R.スタネック／ナビクル Buzz MK RACING／3.5"}],["$","p","29",{"children":"■2026全日本スーパーフォーミュラ選手権 チームランキング"}],["$","p","30",{"children":"Pos.／Team／Points"}],["$","p","31",{"children":"1／DOCOMO TEAM DANDELION RACING／148"}],["$","p","32",{"children":"2／PONOS NAKAJIMA RACING／80.5"}],["$","p","33",{"children":"3／VANTELIN TEAM TOM’S／77.5"}],["$","p","34",{"children":"4／TEAM MUGEN AUTOBACS／77"}],["$","p","35",{"children":"5／NTT docomo Business ROOKIE／60"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e"],"$L3f"]}],"$L40","$L41","$L42",null,"$L43","$L44"]}],["$L45"],"$L46"]}],"isPartial":"$@47","staleTime":"$48","varyParams":null},{"rsc":"$L49","isPartial":"$@4a","staleTime":"$48","varyParams":null},{"rsc":"$L4b","isPartial":"$@4c","staleTime":"$48","varyParams":"$4d"},{"rsc":"$L4e","isPartial":"$@4f","staleTime":"$48","varyParams":"$4d"}],"isUpgradeableISRFallback":false,"a":"$@50","rootVaryParams":null,"needsRuntimeRequest":"$@51"}
+52:I[36936,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+53:I[98337,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+56:I[9441,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+57:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+58:"$Sreact.suspense"
+5a:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+5b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+5c:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+5d:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+5e:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","36",{"children":"6／SANKI VERTEX PARTNERS CERUMO･INGING／58"}]
+4:["$","p","37",{"children":"7／TEAM IMPUL／35"}]
+5:["$","p","38",{"children":"8／REALIZE KONDO RACING／19"}]
+6:["$","p","39",{"children":"9／DELiGHTWORKS RACING／16"}]
+7:["$","p","40",{"children":"10／ThreeBond Racing／11"}]
+8:["$","p","41",{"children":"11／KDDI TGMGP TGR-DC／11"}]
+9:["$","p","42",{"children":"12／TEAM GOH／6"}]
+a:["$","p","43",{"children":"13／KCMG／5"}]
+b:["$","p","44",{"children":"14／San-Ei Gen with B-Max／4"}]
+c:["$","p","45",{"children":"15／ナビクル Buzz MK RACING／3.5"}]
+d:["$","p","46",{"children":"―／HAZAMA ANDO Triple Tree Racing／0"}]
+e:["$","p","47",{"children":"[オートスポーツweb 2026年10月10日]"}]
+f:["$","p","48",{"children":"10月10日、静岡県の富士スピードウェイにて2026年全日本スーパーフォーミュラ選手権第9戦の決勝レースが行われ、イゴール・オオムラ・フラガ（PONOS NAKAJIMA RACING）がポール・トゥ・ウインで優勝を飾った。2位には太田格之進（DOCOMO TEAM DANDELION RACING）、3位にはザック・オサリバン（TEAM IMPUL）が続いた。"}]
+10:["$","p","49",{"children":"レースはポールポジションからスタートしたフラガが主導権を握る展開に。ピット作業後もトップをキープし、2番手を走行していた太田のプレッシャーを退け、今シーズン2勝目をマークした。この勝利によりフラガは大きくポイントを加算し、74ポイントでドライバーズランキング2位に浮上している。"}]
+11:["$","p","50",{"children":"一方、ランキング首位を走る太田は、ファイナルラップでマシントラブルの兆候を抱えながらも2位を死守。得点を122ポイントとし、依然としてランキングトップを快走中だ。太田は明日11日（日）行われる第10戦の結果次第で、最終戦の鈴鹿大会を残してシリーズタイトルを獲得する可能性がある。"}]
+12:["$","p","51",{"children":"また、戦前はランキング2位だった岩佐歩夢（TEAM MUGEN AUTOBACS）は4位入賞によって67.5ポイントに伸ばしたものの、フラガの躍進によりランキング3位へと後退。同じく6位フィニッシュの福住仁嶺（NTT docomo Business ROOKIE）も63ポイントでランキング4番手となった。"}]
+13:["$","p","52",{"children":"チームランキングにおいては、DOCOMO TEAM DANDELION RACINGが148ポイントで首位を独走している。続いて、今大会でのフラガの優勝もあり、PONOS NAKAJIMA RACINGが80.5ポイントで2位に浮上。VANTELIN TEAM TOM’Sが77.5ポイントで続いている。"}]
+14:["$","p","53",{"children":"2026年スーパーフォーミュラ第9戦富士終了時点でのドライバーズランキング、およびチームランキングは以下のとおりだ。"}]
+15:["$","p","54",{"children":"■2026全日本スーパーフォーミュラ選手権 ドライバーズランキング"}]
+16:["$","p","55",{"children":"Pos.／No.／Driver／Team／Points"}]
+17:["$","p","56",{"children":"1／6／太田格之進／DOCOMO TEAM DANDELION RACING／122"}]
+18:["$","p","57",{"children":"2／65／I.オオムラ・フラガ／PONOS NAKAJIMA RACING／74"}]
+19:["$","p","58",{"children":"3／1／岩佐歩夢／TEAM MUGEN AUTOBACS／67.5"}]
+1a:["$","p","59",{"children":"4／14／福住仁嶺／NTT docomo Business ROOKIE／63"}]
+1b:["$","p","60",{"children":"5／36／坪井翔／VANTELIN TEAM TOM’S／43"}]
+1c:["$","p","61",{"children":"6／5／牧野任祐／DOCOMO TEAM DANDELION RACING／41"}]
+1d:["$","p","62",{"children":"7／19／Z.オサリバン／TEAM IMPUL／38"}]
+1e:["$","p","63",{"children":"8／39／大湯都史樹／SANKI VERTEX PARTNERS CERUMO・INGING／35"}]
+1f:["$","p","64",{"children":"9／37／S.フェネストラズ／VANTELIN TEAM TOM’S／34.5"}]
+20:["$","p","65",{"children":"10／16／野尻智紀／TEAM MUGEN AUTOBACS／30.5"}]
+21:["$","p","66",{"children":"11／38／阪口晴南／SANKI VERTEX PARTNERS CERUMO・INGING／27"}]
+22:["$","p","67",{"children":"12／3／L.ブラウニング／REALIZE KONDO RACING／20"}]
+23:["$","p","68",{"children":"13／22／松下信治／DELiGHTWORKS RACING／16"}]
+24:["$","p","69",{"children":"14／64／佐藤蓮／PONOS NAKAJIMA RACING／11.5"}]
+25:["$","p","70",{"children":"15／12／小出峻／ThreeBond Racing／11"}]
+26:["$","p","71",{"children":"16／53／C.ブルツ／TEAM GOH／6"}]
+27:["$","p","72",{"children":"17／28／小林利徠斗／KDDI TGMGP TGR-DC／6"}]
+28:["$","p","73",{"children":"18／50／野村勇斗／San-Ei Gen with B-Max／6"}]
+29:["$","p","74",{"children":"19／8／山下健太／KCMG／5"}]
+2a:["$","p","75",{"children":"20／7／小林可夢偉／KDDI TGMGP TGR-DC／5"}]
+2b:["$","p","76",{"children":"21／97／R.スタネック／ナビクル Buzz MK RACING／3.5"}]
+2c:["$","p","77",{"children":"■2026全日本スーパーフォーミュラ選手権 チームランキング"}]
+2d:["$","p","78",{"children":"Pos.／Team／Points"}]
+2e:["$","p","79",{"children":"1／DOCOMO TEAM DANDELION RACING／148"}]
+2f:["$","p","80",{"children":"2／PONOS NAKAJIMA RACING／80.5"}]
+30:["$","p","81",{"children":"3／VANTELIN TEAM TOM’S／77.5"}]
+31:["$","p","82",{"children":"4／TEAM MUGEN AUTOBACS／77"}]
+32:["$","p","83",{"children":"5／NTT docomo Business ROOKIE／60"}]
+33:["$","p","84",{"children":"6／SANKI VERTEX PARTNERS CERUMO･INGING／58"}]
+34:["$","p","85",{"children":"7／TEAM IMPUL／35"}]
+35:["$","p","86",{"children":"8／REALIZE KONDO RACING／19"}]
+36:["$","p","87",{"children":"9／DELiGHTWORKS RACING／16"}]
+37:["$","p","88",{"children":"10／ThreeBond Racing／11"}]
+38:["$","p","89",{"children":"11／KDDI TGMGP TGR-DC／11"}]
+39:["$","p","90",{"children":"12／TEAM GOH／6"}]
+3a:["$","p","91",{"children":"13／KCMG／5"}]
+3b:["$","p","92",{"children":"14／San-Ei Gen with B-Max／4"}]
+3c:["$","p","93",{"children":"15／ナビクル Buzz MK RACING／3.5"}]
+3d:["$","p","94",{"children":"―／HAZAMA ANDO Triple Tree Racing／0"}]
+3e:["$","p","95",{"children":"[オートスポーツweb 2026年10月10日]"}]
+3f:["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]
+40:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/0fb17665e25f94d8bdba82c99da564f48993f823?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}]
+54:T1efc,10月10日、静岡県の富士スピードウェイにて2026年全日本スーパーフォーミュラ選手権第9戦の決勝レースが行われ、イゴール・オオムラ・フラガ（PONOS NAKAJIMA RACING）がポール・トゥ・ウインで優勝を飾った。2位には太田格之進（DOCOMO TEAM DANDELION RACING）、3位にはザック・オサリバン（TEAM IMPUL）が続いた。
+
+レースはポールポジションからスタートしたフラガが主導権を握る展開に。ピット作業後もトップをキープし、2番手を走行していた太田のプレッシャーを退け、今シーズン2勝目をマークした。この勝利によりフラガは大きくポイントを加算し、74ポイントでドライバーズランキング2位に浮上している。
+
+一方、ランキング首位を走る太田は、ファイナルラップでマシントラブルの兆候を抱えながらも2位を死守。得点を122ポイントとし、依然としてランキングトップを快走中だ。太田は明日11日（日）行われる第10戦の結果次第で、最終戦の鈴鹿大会を残してシリーズタイトルを獲得する可能性がある。
+
+また、戦前はランキング2位だった岩佐歩夢（TEAM MUGEN AUTOBACS）は4位入賞によって67.5ポイントに伸ばしたものの、フラガの躍進によりランキング3位へと後退。同じく6位フィニッシュの福住仁嶺（NTT docomo Business ROOKIE）も63ポイントでランキング4番手となった。
+
+チームランキングにおいては、DOCOMO TEAM DANDELION RACINGが148ポイントで首位を独走している。続いて、今大会でのフラガの優勝もあり、PONOS NAKAJIMA RACINGが80.5ポイントで2位に浮上。VANTELIN TEAM TOM’Sが77.5ポイントで続いている。
+
+2026年スーパーフォーミュラ第9戦富士終了時点でのドライバーズランキング、およびチームランキングは以下のとおりだ。
+
+■2026全日本スーパーフォーミュラ選手権 ドライバーズランキング
+
+Pos.／No.／Driver／Team／Points
+
+1／6／太田格之進／DOCOMO TEAM DANDELION RACING／122
+
+2／65／I.オオムラ・フラガ／PONOS NAKAJIMA RACING／74
+
+3／1／岩佐歩夢／TEAM MUGEN AUTOBACS／67.5
+
+4／14／福住仁嶺／NTT docomo Business ROOKIE／63
+
+5／36／坪井翔／VANTELIN TEAM TOM’S／43
+
+6／5／牧野任祐／DOCOMO TEAM DANDELION RACING／41
+
+7／19／Z.オサリバン／TEAM IMPUL／38
+
+8／39／大湯都史樹／SANKI VERTEX PARTNERS CERUMO・INGING／35
+
+9／37／S.フェネストラズ／VANTELIN TEAM TOM’S／34.5
+
+10／16／野尻智紀／TEAM MUGEN AUTOBACS／30.5
+
+11／38／阪口晴南／SANKI VERTEX PARTNERS CERUMO・INGING／27
+
+12／3／L.ブラウニング／REALIZE KONDO RACING／20
+
+13／22／松下信治／DELiGHTWORKS RACING／16
+
+14／64／佐藤蓮／PONOS NAKAJIMA RACING／11.5
+
+15／12／小出峻／ThreeBond Racing／11
+
+16／53／C.ブルツ／TEAM GOH／6
+
+17／28／小林利徠斗／KDDI TGMGP TGR-DC／6
+
+18／50／野村勇斗／San-Ei Gen with B-Max／6
+
+19／8／山下健太／KCMG／5
+
+20／7／小林可夢偉／KDDI TGMGP TGR-DC／5
+
+21／97／R.スタネック／ナビクル Buzz MK RACING／3.5
+
+■2026全日本スーパーフォーミュラ選手権 チームランキング
+
+Pos.／Team／Points
+
+1／DOCOMO TEAM DANDELION RACING／148
+
+2／PONOS NAKAJIMA RACING／80.5
+
+3／VANTELIN TEAM TOM’S／77.5
+
+4／TEAM MUGEN AUTOBACS／77
+
+5／NTT docomo Business ROOKIE／60
+
+6／SANKI VERTEX PARTNERS CERUMO･INGING／58
+
+7／TEAM IMPUL／35
+
+8／REALIZE KONDO RACING／19
+
+9／DELiGHTWORKS RACING／16
+
+10／ThreeBond Racing／11
+
+11／KDDI TGMGP TGR-DC／11
+
+12／TEAM GOH／6
+
+13／KCMG／5
+
+14／San-Ei Gen with B-Max／4
+
+15／ナビクル Buzz MK RACING／3.5
+
+―／HAZAMA ANDO Triple Tree Racing／0
+
+[オートスポーツweb 2026年10月10日]
+
+10月10日、静岡県の富士スピードウェイにて2026年全日本スーパーフォーミュラ選手権第9戦の決勝レースが行われ、イゴール・オオムラ・フラガ（PONOS NAKAJIMA RACING）がポール・トゥ・ウインで優勝を飾った。2位には太田格之進（DOCOMO TEAM DANDELION RACING）、3位にはザック・オサリバン（TEAM IMPUL）が続いた。
+
+レースはポールポジションからスタートしたフラガが主導権を握る展開に。ピット作業後もトップをキープし、2番手を走行していた太田のプレッシャーを退け、今シーズン2勝目をマークした。この勝利によりフラガは大きくポイントを加算し、74ポイントでドライバーズランキング2位に浮上している。
+
+一方、ランキング首位を走る太田は、ファイナルラップでマシントラブルの兆候を抱えながらも2位を死守。得点を122ポイントとし、依然としてランキングトップを快走中だ。太田は明日11日（日）行われる第10戦の結果次第で、最終戦の鈴鹿大会を残してシリーズタイトルを獲得する可能性がある。
+
+また、戦前はランキング2位だった岩佐歩夢（TEAM MUGEN AUTOBACS）は4位入賞によって67.5ポイントに伸ばしたものの、フラガの躍進によりランキング3位へと後退。同じく6位フィニッシュの福住仁嶺（NTT docomo Business ROOKIE）も63ポイントでランキング4番手となった。
+
+チームランキングにおいては、DOCOMO TEAM DANDELION RACINGが148ポイントで首位を独走している。続いて、今大会でのフラガの優勝もあり、PONOS NAKAJIMA RACINGが80.5ポイントで2位に浮上。VANTELIN TEAM TOM’Sが77.5ポイントで続いている。
+
+2026年スーパーフォーミュラ第9戦富士終了時点でのドライバーズランキング、およびチームランキングは以下のとおりだ。
+
+■2026全日本スーパーフォーミュラ選手権 ドライバーズランキング
+
+Pos.／No.／Driver／Team／Points
+
+1／6／太田格之進／DOCOMO TEAM DANDELION RACING／122
+
+2／65／I.オオムラ・フラガ／PONOS NAKAJIMA RACING／74
+
+3／1／岩佐歩夢／TEAM MUGEN AUTOBACS／67.5
+
+4／14／福住仁嶺／NTT docomo Business ROOKIE／63
+
+5／36／坪井翔／VANTELIN TEAM TOM’S／43
+
+6／5／牧野任祐／DOCOMO TEAM DANDELION RACING／41
+
+7／19／Z.オサリバン／TEAM IMPUL／38
+
+8／39／大湯都史樹／SANKI VERTEX PARTNERS CERUMO・INGING／35
+
+9／37／S.フェネストラズ／VANTELIN TEAM TOM’S／34.5
+
+10／16／野尻智紀／TEAM MUGEN AUTOBACS／30.5
+
+11／38／阪口晴南／SANKI VERTEX PARTNERS CERUMO・INGING／27
+
+12／3／L.ブラウニング／REALIZE KONDO RACING／20
+
+13／22／松下信治／DELiGHTWORKS RACING／16
+
+14／64／佐藤蓮／PONOS NAKAJIMA RACING／11.5
+
+15／12／小出峻／ThreeBond Racing／11
+
+16／53／C.ブルツ／TEAM GOH／6
+
+17／28／小林利徠斗／KDDI TGMGP TGR-DC／6
+
+18／50／野村勇斗／San-Ei Gen with B-Max／6
+
+19／8／山下健太／KCMG／5
+
+20／7／小林可夢偉／KDDI TGMGP TGR-DC／5
+
+21／97／R.スタネック／ナビクル Buzz MK RACING／3.5
+
+■2026全日本スーパーフォーミュラ選手権 チームランキング
+
+Pos.／Team／Points
+
+1／DOCOMO TEAM DANDELION RACING／148
+
+2／PONOS NAKAJIMA RACING／80.5
+
+3／VANTELIN TEAM TOM’S／77.5
+
+4／TEAM MUGEN AUTOBACS／77
+
+5／NTT docomo Business ROOKIE／60
+
+6／SANKI VERTEX PARTNERS CERUMO･INGING／58
+
+7／TEAM IMPUL／35
+
+8／REALIZE KONDO RACING／19
+
+9／DELiGHTWORKS RACING／16
+
+10／ThreeBond Racing／11
+
+11／KDDI TGMGP TGR-DC／11
+
+12／TEAM GOH／6
+
+13／KCMG／5
+
+14／San-Ei Gen with B-Max／4
+
+15／ナビクル Buzz MK RACING／3.5
+
+―／HAZAMA ANDO Triple Tree Racing／0
+
+[オートスポーツweb 2026年10月10日]41:["$","section",null,{"className":"article-actions","children":[["$","$L52",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/d83acf3fd83acf3f563bdf7f","title":"【ポイントランキング】2026年スーパーフォーミュラ第9戦富士終了後(オートスポーツweb)","locale":"ja","take":null}],["$","$L53",null,{"title":"【ポイントランキング】2026年スーパーフォーミュラ第9戦富士終了後(オートスポーツweb)","excerpt":"$54","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/d83acf3fd83acf3f563bdf7f","locale":"ja"}],"$L55"]}]
+42:["$","$L56",null,{"placement":"article","className":"mt-8"}]
+43:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+44:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/3efb47a06f581013b77004192b79bf37ed7c733b?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/f4917879f4917879f8aed3b9","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"【スーパーフォーミュラ第9戦決勝】「僕にとってベストレース」予選6番手のザック・オサリバンが快走3位「ここは僕のラッキートラック」(中日スポーツ)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/76ad86483804f7baf674085c782f4606b1bfadd4?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/6ff7121c6ff7121c6a0a0e72","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"ＳＶリーグ・大阪ブルテオンと大同生命が地域活性化イベント 「ＢＣＰ」をテーマに取り組み紹介(スポーツ報知)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/3d302b7a75940c9116da0d2eb406a168874afc0e?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/d65e11eed65e11eebefe0f44","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"[プレミアリーグEAST]青森山田が首位・流経大柏に3発完封勝利…柏U-18が暫定2位&FC東京U-18が暫定3位に:第17節(ゲキサカ)"}]]}]}]]}]]}]
+45:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+46:["$","$L57",null,{"children":["$","$58",null,{"name":"Next.MetadataOutlet","children":"$@59"}]}]
+49:["$","$1","h",{"children":[null,["$","$L5a",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L5b",null,{"children":["$","$58",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"【ポイントランキング】2026年スーパーフォーミュラ第9戦富士終了後(オートスポーツweb)"}],["$","meta","1",{"name":"description","content":"10月10日、静岡県の富士スピードウェイにて2026年全日本スーパーフォーミュラ選手権第9戦の決勝レースが行われ、イゴール・オオムラ・フラガ（PONOS NAKAJIMA RACING）がポール・トゥ・ウインで優勝を飾った。2位には太田格之進（DOCOMO TEAM DANDELION RACING）、3位にはザック・オサリバン（TEAM IMPUL）が続いた。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"【ポイントランキング】2026年スーパーフォーミュラ第9戦富士終了後(オートスポーツweb)"}],["$","meta","4",{"property":"og:description","content":"10月10日、静岡県の富士スピードウェイにて2026年全日本スーパーフォーミュラ選手権第9戦の決勝レースが行われ、イゴール・オオムラ・フラガ（PONOS NAKAJIMA RACING）がポール・トゥ・ウインで優勝を飾った。2位には太田格之進（DOCOMO TEAM DANDELION RACING）、3位にはザック・オサリバン（TEAM IMPUL）が続いた。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/d83acf3fd83acf3f563bdf7f/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261011-01361052-rcg-000-5-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"【ポイントランキング】2026年スーパーフォーミュラ第9戦富士終了後(オートスポーツweb)"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"【ポイントランキング】2026年スーパーフォーミュラ第9戦富士終了後(オートスポーツweb)"}],["$","meta","13",{"name":"twitter:description","content":"10月10日、静岡県の富士スピードウェイにて2026年全日本スーパーフォーミュラ選手権第9戦の決勝レースが行われ、イゴール・オオムラ・フラガ（PONOS NAKAJIMA RACING）がポール・トゥ・ウインで優勝を飾った。2位には太田格之進（DOCOMO TEAM DANDELION RACING）、3位にはザック・オサリバン（TEAM IMPUL）が続いた。"}],["$","meta","14",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261011-01361052-rcg-000-5-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","15",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L5c","17",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+4b:["$","$1","c",{"children":[null,["$","$L5d",null,{"parallelRouterKey":"children","template":["$","$L5e",null,{}]}]]}]
+4e:["$","$1","c",{"children":[null,["$","$L5d",null,{"parallelRouterKey":"children","template":["$","$L5e",null,{}]}]]}]
+51:true
+55:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E3%80%90%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%E3%80%912026%E5%B9%B4%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9F%E3%83%A5%E3%83%A9%E7%AC%AC9%E6%88%A6%E5%AF%8C%E5%A3%AB%E7%B5%82%E4%BA%86%E5%BE%8C&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+59:null
+48:300
+48:C
+50:0
+4a:"$undefined"
+4c:"$undefined"
+4f:"$undefined"
+47:"$undefined"

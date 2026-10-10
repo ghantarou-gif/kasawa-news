@@ -1,0 +1,76 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c2f6/live/86e0e040-ba15-11f1-851b-7de4b36a82e3.jpg","image"]
+b:X
+10:X
+10:C
+0:{"buildId":"lHj7I3KPIAqT3z8d_3G7v","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-09-28","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"トランプ氏、ホルムズ海峡再開案を拒否 提案したイラン外相は交渉だけが紛争終結の道と主張"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"9月28日 03:04"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c2f6/live/86e0e040-ba15-11f1-851b-7de4b36a82e3.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"雨が降る中、左手に傘をもっているトランプ氏。ダークスーツ姿で、白い野球帽をかぶっている。帽子には前面に「USA」の文字があり、側面にアメリカ国旗があしらわれている"}],["$","p","1",{"children":"アメリカのドナルド・トランプ大統領は26日、イランのアッバス・アラグチ外相が提示したホルムズ海峡の再開案を公然と拒否した。これを受けてアラグチ氏は、アメリカとイランの紛争を終わらせることができるのは「交渉による解決」だけだと訴えた。"}],["$","p","2",{"children":"トランプ氏は26日、ホワイトハウスで記者団に、イランの提案は「受け入れられない」と述べた。また、イラン側について、「非常にまずい状況にある」ため、ホルムズ海峡を7日以内に商業航行に開放することで合意したがっていると主張した。"}],["$","p","3",{"children":"トランプ氏は、「向こうが出してきた合意を拒否する」と述べ、アメリカはすでにホルムズ海峡を「完全に支配」しているとした。そして、「膨大な量の石油」がそこを通過することで、世界の原油価格が大幅に上昇し、消費者の燃料費が急激に増えていると述べた。"}],["$","p","4",{"children":"アラグチ氏はその後、通信アプリ「テレグラム」への投稿で、自分の提案がトランプ氏に拒否されたと認めた。ただし、アメリカからの「明確な」公式回答を待つとし、トランプ氏には矛盾する発言をしてきた過去があるとした。"}],["$","p","5",{"children":"アラグチ氏はトランプ氏について、「多くの良い発言をしているが、矛盾したものも多く、残念ながら私たちはそれらを頻繁に耳にしている」と書いた。"}],["$","p","6",{"children":"また、「調停者が最終的な見解を伝えてくるのを、私たちは待っている。それに基づいて判断する」とした。"}],["$","p","7",{"children":"アラグチ氏はまた、ホルムズ海峡の開放の条件は、6月にイランとアメリカの間で署名された了解覚書（MOU）に含まれていたものと同じだとした。"}],["$","p","8",{"children":"イランは、米ニューヨークでの国連総会の傍らで先週行われたアメリカ側との協議で、ホルムズ海峡の再開と敵対行為の終結が議題になったとしている。"}],["$","p","9",{"children":"ホルムズ海峡は平時には世界のガスと石油供給量の約2割が通過する重要水路だが、現在の戦争が2月に勃発して以来、事実上封鎖されている。"}],["$","p","10",{"children":"一方、国連総会出席のためニューヨークを訪れたイランのマスード・ペゼシュキアン大統領は、BBCが提携する米CBSに、協議が成功するには「この戦争が作り出した不信感の克服が必要だ」と述べた。"}],["$","p","11",{"children":"ペゼシュキアン大統領は、行き詰まりを打開するため、イラン側は覚書の段階的な履行に向けた協議に前向きだと説明。「アメリカはイラン政府を転覆させる意図がないと示す必要がある」とした。"}],["$","p","12",{"children":"同氏はまた、トランプ氏が米軍による爆撃再開で覚書を「破棄した」と主張。「文書に書いた内容を守らないなら、本当に対話で解決できるのか？」と問うた。"}],["$","p","13",{"children":"2月末の米軍による空爆で、イランの最高指導者モジタバ・ハメネイ師は脚や顔を負傷したとされ、公の場に姿を見せていない。そのことについて質問されると、ペゼシュキアン氏は、これまで2回会ったと説明。「特別な健康上の問題や困難はない」とし、会談を7時間続けられる体調だったと述べた。"}],["$","p","14",{"children":"アメリカとイランの仲介役を務めてきたオマーンのバドル・ビン・ハマド・ビン・ハムード・アルブサイディ外相は、国連総会の一般討論演説で、「すべての関係者」が、戦略的に重要な水路における航行の安全確保に向け、オマーンに協力すべきだと訴えた。"}],["$","p","15",{"children":"ホルムズ海峡と紅海周辺の地図。世界の海上輸送にとって重要なホルムズ海峡と、バブ・エル・マンデブ海峡が赤で示されている"}],["$","p","16",{"children":"トランプ氏がイランの提案を拒否したことについては、北大西洋条約機構（NATO）駐在のマシュー・ウィテカー米大使が26日、大統領の判断を支持すると米FOXニュースのインタビューで述べた。イランが「中途半端な措置」と「国際社会で自らを良く見せるための見せかけの取引」を提示してきたのだと大使は言い、「トランプ大統領にはそれを拒否する権利がある」と強調した。"}],["$","p","17",{"children":"一方、スコット・ベッセント米財務長官は同日、アメリカによる経済制裁がイランに打撃を与えているとソーシャルメディア「X」に投稿。トルコ、オマーン、アラブ首長国連邦（UAE）がイランのさまざまな航空会社のフライトを停止させ、UAEとトルコの一部の銀行がイランとの取引をストップさせたとした。"}],["$","p","18",{"children":"トランプ政権は、イランに対する経済封鎖を「経済的追放作戦」と呼んでいる。経済的圧力をかけることで、イランにホルムズ海峡での船舶攻撃をやめさせることを狙っている。"}],["$","p","19",{"children":"ただし、一部の経済学者は、制裁措置の効果について、イランの主な貿易相手国の反応次第だとしている。イラン産原油の最も多く買い付けている中国は、これまでのところアメリカの制裁措置を無視し、イランと取引を続けている。"}],["$","p","20",{"children":"（英語記事 Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal）"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]]}],"$L3","$L4","$L5",null,"$L6","$L7"]}],["$L8"],"$L9"]}],"isPartial":"$@a","staleTime":"$b","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$b","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$b","varyParams":"$10"},{"rsc":"$L11","isPartial":"$@12","staleTime":"$b","varyParams":"$10"}],"isUpgradeableISRFallback":false,"a":"$@13","rootVaryParams":null,"needsRuntimeRequest":"$@14"}
+15:I[36936,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+16:I[98337,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+18:I[9441,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+19:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1a:"$Sreact.suspense"
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1e:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1f:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+20:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/cx305ez43jvlo","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}]
+17:T16ca,雨が降る中、左手に傘をもっているトランプ氏。ダークスーツ姿で、白い野球帽をかぶっている。帽子には前面に「USA」の文字があり、側面にアメリカ国旗があしらわれている
+
+アメリカのドナルド・トランプ大統領は26日、イランのアッバス・アラグチ外相が提示したホルムズ海峡の再開案を公然と拒否した。これを受けてアラグチ氏は、アメリカとイランの紛争を終わらせることができるのは「交渉による解決」だけだと訴えた。
+
+トランプ氏は26日、ホワイトハウスで記者団に、イランの提案は「受け入れられない」と述べた。また、イラン側について、「非常にまずい状況にある」ため、ホルムズ海峡を7日以内に商業航行に開放することで合意したがっていると主張した。
+
+トランプ氏は、「向こうが出してきた合意を拒否する」と述べ、アメリカはすでにホルムズ海峡を「完全に支配」しているとした。そして、「膨大な量の石油」がそこを通過することで、世界の原油価格が大幅に上昇し、消費者の燃料費が急激に増えていると述べた。
+
+アラグチ氏はその後、通信アプリ「テレグラム」への投稿で、自分の提案がトランプ氏に拒否されたと認めた。ただし、アメリカからの「明確な」公式回答を待つとし、トランプ氏には矛盾する発言をしてきた過去があるとした。
+
+アラグチ氏はトランプ氏について、「多くの良い発言をしているが、矛盾したものも多く、残念ながら私たちはそれらを頻繁に耳にしている」と書いた。
+
+また、「調停者が最終的な見解を伝えてくるのを、私たちは待っている。それに基づいて判断する」とした。
+
+アラグチ氏はまた、ホルムズ海峡の開放の条件は、6月にイランとアメリカの間で署名された了解覚書（MOU）に含まれていたものと同じだとした。
+
+イランは、米ニューヨークでの国連総会の傍らで先週行われたアメリカ側との協議で、ホルムズ海峡の再開と敵対行為の終結が議題になったとしている。
+
+ホルムズ海峡は平時には世界のガスと石油供給量の約2割が通過する重要水路だが、現在の戦争が2月に勃発して以来、事実上封鎖されている。
+
+一方、国連総会出席のためニューヨークを訪れたイランのマスード・ペゼシュキアン大統領は、BBCが提携する米CBSに、協議が成功するには「この戦争が作り出した不信感の克服が必要だ」と述べた。
+
+ペゼシュキアン大統領は、行き詰まりを打開するため、イラン側は覚書の段階的な履行に向けた協議に前向きだと説明。「アメリカはイラン政府を転覆させる意図がないと示す必要がある」とした。
+
+同氏はまた、トランプ氏が米軍による爆撃再開で覚書を「破棄した」と主張。「文書に書いた内容を守らないなら、本当に対話で解決できるのか？」と問うた。
+
+2月末の米軍による空爆で、イランの最高指導者モジタバ・ハメネイ師は脚や顔を負傷したとされ、公の場に姿を見せていない。そのことについて質問されると、ペゼシュキアン氏は、これまで2回会ったと説明。「特別な健康上の問題や困難はない」とし、会談を7時間続けられる体調だったと述べた。
+
+アメリカとイランの仲介役を務めてきたオマーンのバドル・ビン・ハマド・ビン・ハムード・アルブサイディ外相は、国連総会の一般討論演説で、「すべての関係者」が、戦略的に重要な水路における航行の安全確保に向け、オマーンに協力すべきだと訴えた。
+
+ホルムズ海峡と紅海周辺の地図。世界の海上輸送にとって重要なホルムズ海峡と、バブ・エル・マンデブ海峡が赤で示されている
+
+トランプ氏がイランの提案を拒否したことについては、北大西洋条約機構（NATO）駐在のマシュー・ウィテカー米大使が26日、大統領の判断を支持すると米FOXニュースのインタビューで述べた。イランが「中途半端な措置」と「国際社会で自らを良く見せるための見せかけの取引」を提示してきたのだと大使は言い、「トランプ大統領にはそれを拒否する権利がある」と強調した。
+
+一方、スコット・ベッセント米財務長官は同日、アメリカによる経済制裁がイランに打撃を与えているとソーシャルメディア「X」に投稿。トルコ、オマーン、アラブ首長国連邦（UAE）がイランのさまざまな航空会社のフライトを停止させ、UAEとトルコの一部の銀行がイランとの取引をストップさせたとした。
+
+トランプ政権は、イランに対する経済封鎖を「経済的追放作戦」と呼んでいる。経済的圧力をかけることで、イランにホルムズ海峡での船舶攻撃をやめさせることを狙っている。
+
+ただし、一部の経済学者は、制裁措置の効果について、イランの主な貿易相手国の反応次第だとしている。イラン産原油の最も多く買い付けている中国は、これまでのところアメリカの制裁措置を無視し、イランと取引を続けている。
+
+（英語記事 Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal）4:["$","section",null,{"className":"article-actions","children":[["$","$L15",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/72f83d4672f83d4688e4b0d4","title":"トランプ氏、ホルムズ海峡再開案を拒否 提案したイラン外相は交渉だけが紛争終結の道と主張","locale":"ja","take":null}],["$","$L16",null,{"title":"トランプ氏、ホルムズ海峡再開案を拒否 提案したイラン外相は交渉だけが紛争終結の道と主張","excerpt":"$17","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/72f83d4672f83d4688e4b0d4","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E6%B0%8F%E3%80%81%E3%83%9B%E3%83%AB%E3%83%A0%E3%82%BA%E6%B5%B7%E5%B3%A1%E5%86%8D%E9%96%8B%E6%A1%88%E3%82%92%E6%8B%92%E5%90%A6+%E6%8F%90%E6%A1%88%E3%81%97%E3%81%9F%E3%82%A4%E3%83%A9%E3%83%B3%E5%A4%96%E7%9B%B8%E3%81%AF%E4%BA%A4%E6%B8%89%E3%81%A0%E3%81%91%E3%81%8C%E7%B4%9B%E4%BA%89%E7%B5%82%E7%B5%90%E3%81%AE%E9%81%93%E3%81%A8%E4%B8%BB%E5%BC%B5&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+5:["$","$L18",null,{"placement":"article","className":"mt-8"}]
+6:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+7:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","dw:https://dw.com/en/what-do-manchester-city-s-charges-mean-for-german-football/a-79460412?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/5a5aa20a5a5aa20a92b29428","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"What do Manchester City's charges mean for German football?"}]]}]}],["$","li","bbc-africa:https://bbc.co.uk/news/videos/c6n45epzdgk8o",{"children":["$","$L2",null,{"href":"/ja/n/2796c8812796c8815b590f15","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Why are Ethiopia's rebels joining forces?"}]]}]}],["$","li","dw:https://dw.com/en/diesel-prices-are-surging-putting-further-pressure-on-europe/a-79390992?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/c0be8465c0be8465f3077b61","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Diesel prices are surging putting further pressure on Europe"}]]}]}]]}]]}]
+8:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+9:["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
+c:["$","$1","h",{"children":[null,["$","$L1c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1d",null,{"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"トランプ氏、ホルムズ海峡再開案を拒否 提案したイラン外相は交渉だけが紛争終結の道と主張"}],["$","meta","1",{"name":"description","content":"雨が降る中、左手に傘をもっているトランプ氏。ダークスーツ姿で、白い野球帽をかぶっている。帽子には前面に「USA」の文字があり、側面にアメリカ国旗があしらわれている"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"トランプ氏、ホルムズ海峡再開案を拒否 提案したイラン外相は交渉だけが紛争終結の道と主張"}],["$","meta","4",{"property":"og:description","content":"雨が降る中、左手に傘をもっているトランプ氏。ダークスーツ姿で、白い野球帽をかぶっている。帽子には前面に「USA」の文字があり、側面にアメリカ国旗があしらわれている"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/72f83d4672f83d4688e4b0d4/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fc2f6%2Flive%2F86e0e040-ba15-11f1-851b-7de4b36a82e3.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"トランプ氏、ホルムズ海峡再開案を拒否 提案したイラン外相は交渉だけが紛争終結の道と主張"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"トランプ氏、ホルムズ海峡再開案を拒否 提案したイラン外相は交渉だけが紛争終結の道と主張"}],["$","meta","13",{"name":"twitter:description","content":"雨が降る中、左手に傘をもっているトランプ氏。ダークスーツ姿で、白い野球帽をかぶっている。帽子には前面に「USA」の文字があり、側面にアメリカ国旗があしらわれている"}],["$","meta","14",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fc2f6%2Flive%2F86e0e040-ba15-11f1-851b-7de4b36a82e3.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","15",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1e","17",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+e:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+11:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+14:true
+1b:null
+b:300
+b:C
+13:0
+d:"$undefined"
+f:"$undefined"
+12:"$undefined"
+a:"$undefined"

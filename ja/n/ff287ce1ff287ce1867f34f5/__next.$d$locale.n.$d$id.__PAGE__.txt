@@ -1,0 +1,112 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261009-00010000-nknatiogeo-000-1-view.jpg?pri=l&w=450&h=337&exp=10800","image"]
+1a:X
+1f:X
+1f:C
+0:{"buildId":"lHj7I3KPIAqT3z8d_3G7v","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-09","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"「地球最大のペンギンコロニー」が陥落、ヒゲペンギンが63％減、温暖化でオキアミ減少か(ナショナル ジオグラフィック日本版)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261009-00010000-nknatiogeo-000-1-view.jpg?pri=l&w=450&h=337&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"南米大陸の最南端と凍てついた南極大陸の間に位置する英領サウスサンドウィッチ諸島は、岩と氷からなる隔絶された三日月形の群島だ。その最北端に位置するザボドフスキー島では、活火山を取り囲む丘の斜面がヒゲペンギン（Pygoscelis antarcticus）やマカロニペンギン（Eudyptes chrysolophus）で埋め尽くされ、「地球最大のペンギンコロニー」という称号を長らく保持してきた。しかし、2026年10月7日付で学術誌「Current Biology」に発表された研究で、ヒゲペンギンがこの地域のほかの群れよりはるかに速く減っており、島がその称号も失ったことが判明した。"}],["$","p","1",{"children":"1980年代から南極半島でヒゲペンギンが激減し始めたため、科学者たちは、隔絶されたこの島の状況についても懸念していた。"}],["$","p","2",{"children":"英南極観測局（BAS）の研究者は、ドローンによる空中調査と衛星画像を組み合わせた分析で、島のヒゲペンギンの巣（1つの巣につがい1組）が15年足らずの間に63％減り、50万羽以上が失われたことを突き止めた。"}],["$","p","3",{"children":"2011年以降、気候変動に伴う減少が一定のペースで続いている。そのせいで島のペンギン全体の約4割が失われ、地球最大のペンギンコロニーという称号は、南極のロス海にあるアデア岬に譲ることとなった。"}],["$","p","4",{"children":"「ある国の総人口が15年間で60％減ったと想像してみてください。これは本当に憂慮すべき事態です」とチリの研究センター「南極・亜南極エコシステム生物多様性ミレニオ研究所」の極地科学者で、海鳥生態学者のルーカス・クルーガー・ガルシア氏は語る。なお、クルーガー・ガルシア氏は今回の研究に関与していない。"}],["$","p","5",{"children":"南米大陸の最南端と凍てついた南極大陸の間に位置する英領サウスサンドウィッチ諸島は、岩と氷からなる隔絶された三日月形の群島だ。その最北端に位置するザボドフスキー島では、活火山を取り囲む丘の斜面がヒゲペンギン（Pygoscelis antarcticus）やマカロニペンギン（Eudyptes chrysolophus）で埋め尽くされ、「地球最大のペンギンコロニー」という称号を長らく保持してきた。しかし、2026年10月7日付で学術誌「Current Biology」に発表された研究で、ヒゲペンギンがこの地域のほかの群れよりはるかに速く減っており、島がその称号も失ったことが判明した。"}],["$","p","6",{"children":"1980年代から南極半島でヒゲペンギンが激減し始めたため、科学者たちは、隔絶されたこの島の状況についても懸念していた。"}],["$","p","7",{"children":"英南極観測局（BAS）の研究者は、ドローンによる空中調査と衛星画像を組み合わせた分析で、島のヒゲペンギンの巣（1つの巣につがい1組）が15年足らずの間に63％減り、50万羽以上が失われたことを突き止めた。"}],["$","p","8",{"children":"2011年以降、気候変動に伴う減少が一定のペースで続いている。そのせいで島のペンギン全体の約4割が失われ、地球最大のペンギンコロニーという称号は、南極のロス海にあるアデア岬に譲ることとなった。"}],["$","p","9",{"children":"「ある国の総人口が15年間で60％減ったと想像してみてください。これは本当に憂慮すべき事態です」とチリの研究センター「南極・亜南極エコシステム生物多様性ミレニオ研究所」の極地科学者で、海鳥生態学者のルーカス・クルーガー・ガルシア氏は語る。なお、クルーガー・ガルシア氏は今回の研究に関与していない。"}],["$","p","10",{"children":"南極海では、生物の減少は珍しいことではない。わずか6カ月前、主に海氷の減少により、コウテイペンギン（Aptenodytes forsteri）とナンキョクオットセイ（Arctocephalus gazella）が国際自然保護連合（IUCN）から絶滅危惧種（endangered）に指定されたばかりだ。"}],["$","p","11",{"children":"地球の気候を安定させるうえで重要な役割を担う南極海は、世界の海洋が吸収する熱の約4分の3、そして人為的な二酸化炭素排出量の5分の1を取り込んでいる。"}],["$","p","12",{"children":"海面下では、暖かい中間層の水が棚氷を下から解かしている一方、南極のウェッデル海では、水深2000メートルより深い層が温まる速さは、世界の海洋の平均に比べて約5倍だったとの研究もある。南極の海洋生物を支える氷の基盤が脅かされている。"}],["$","p","13",{"children":"ヒゲペンギンはいわゆるスペシャリスト種（特定の環境、気候、または限られた食性に強く適応している種）で、小さな甲殻類オキアミを主食にしている。そのため、温暖化の影響にとても弱い。オキアミは餌や隠れ家として海氷に依存しており、わずかな温暖化でもそのバランスが崩れ、深刻なオキアミ不足につながるからだ。"}],["$","p","14",{"children":"「南極海は急速に変化しています。そのペースは地球上のどこよりも速いです」と研究に参加したBASのリモートセンシング専門家ピーター・フレットウェル氏は述べている。「現在、南極で目撃されている現象は、世界のほかの場所で今後起こり得る事態の予兆です」"}],["$","p","15",{"children":"2023年12月、BASのチームはこのコロニーを調査するため、地球上で最も過酷な海域の一つへと船を出した。科学者たちは、15日間にわたる航海を経て、ザボドフスキー島に到着した。"}],["$","p","16",{"children":"上陸すると、刺激的な火山の煙とペンギンのふんが待っていた。この島を取り囲む海岸の地形には、アクリッド岬、ステンチ岬、リーク岬、パンジェント岬（いずれも刺激的なにおいを意味する）、ノクシャス・ブラフ（有害な崖）といった名前がついている。"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10"],"$L11"]}],"$L12","$L13","$L14",null,"$L15","$L16"]}],["$L17"],"$L18"]}],"isPartial":"$@19","staleTime":"$1a","varyParams":null},{"rsc":"$L1b","isPartial":"$@1c","staleTime":"$1a","varyParams":null},{"rsc":"$L1d","isPartial":"$@1e","staleTime":"$1a","varyParams":"$1f"},{"rsc":"$L20","isPartial":"$@21","staleTime":"$1a","varyParams":"$1f"}],"isUpgradeableISRFallback":false,"a":"$@22","rootVaryParams":null,"needsRuntimeRequest":"$@23"}
+24:I[36936,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+25:I[98337,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+28:I[9441,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+29:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+2a:"$Sreact.suspense"
+2c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+2d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+2e:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+2f:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+30:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","17",{"children":"島で見つかったヒゲペンギンは予想よりはるかに少なかった。対して、すぐそばに暮らすマカロニペンギンは、2011年から2016年の間に約28％増え、その後は横ばいだった。"}]
+4:["$","p","18",{"children":"「この地域は亜南極の状態へと移行しつつあるため、南極の海域の種であるヒゲペンギンが減っています。一方、水温の高い海域に生息する種にとっては、生態系がより適したものになりつつあるため、マカロニペンギンが増えています」と研究を率いたBASの海鳥生態学者ノーマン・ラトクリフ氏は説明する。"}]
+5:["$","p","19",{"children":"マカロニペンギンは岩場に巣をつくる。そして何より、オキアミが不足すると、餌を魚に切り替える。"}]
+6:["$","p","20",{"children":"研究チームは、考えられるほかの原因を系統的に排除し、ヒゲペンギンが急激に減った理由を絞り込んだ。"}]
+7:["$","p","21",{"children":"島には営巣のための十分なスペースがあり、種間の競合は考えにくい。島の周辺にはオキアミ漁の禁止区域があり、乱獲によってペンギンの餌が奪われていたわけではないことが示唆される。"}]
+8:["$","p","22",{"children":"2016年の火山の噴火によって、ヒゲペンギンの群れの一部が死亡した可能性はある。それでも、10年間にわたる着実な減少という傾向には影響していなかった。"}]
+9:["$","p","23",{"children":"むしろ、この長期的な減少の背景に、地域的な海水温の上昇と海氷の減少があると研究チームはみている。ただし、島と海流でつながる別の海域で行われるオキアミ漁が、どの程度影響しているかはまだわかっていない。"}]
+a:["$","p","24",{"children":"長期的には、気候変動によって、この地域全体の生物多様性が低下すると科学者たちは予想している。"}]
+b:["$","p","25",{"children":"「長期的に見れば、生物多様性が失われるでしょう」とフレットウェル氏は南極大陸の野生生物について語る。「幅広い環境に適応できるゼネラリスト種はそうした生息地に進出していき、うまく生き延びるでしょうが、生息できる環境が限られ（中略）繁殖範囲も狭いスペシャリスト種は失われてしまうでしょう」"}]
+c:["$","p","26",{"children":"専門家によれば、ザボドフスキー島のヒゲペンギンが、より適した環境を求めて、南極大陸側へ繁殖地を移す可能性は低い。"}]
+d:["$","p","27",{"children":"「動物たちは南に移動すると考える人が多いですが、一般に、ペンギンは同じ繁殖地に戻る傾向が強く、簡単には場所を変えません」とフレットウェル氏は説明する。"}]
+e:["$","p","28",{"children":"多くの科学者は、ザボドフスキー島で起きているこうした変化は、世界各地で起こる、より大規模な生態系の混乱の前触れと見ている。"}]
+f:["$","p","29",{"children":"「つい最近まで、この島は手つかずの生態系と見なされていました。ですが、今やこの種は気候変動の影響を強く受けています」とクルーガー・ガルシア氏は指摘する。"}]
+10:["$","p","30",{"children":"「この研究は、私たちが懸念していたこと、つまり、この種が実際に厳しい状況にあることを裏付けています。一つの種の問題ではありますが、それははるかに大きな問題の兆候です。炭鉱のカナリアのような存在なのです」"}]
+11:["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]
+12:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/c7b2d6fad8b39418fcfe448eec23952ae6edf646?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}]
+26:T2541,南米大陸の最南端と凍てついた南極大陸の間に位置する英領サウスサンドウィッチ諸島は、岩と氷からなる隔絶された三日月形の群島だ。その最北端に位置するザボドフスキー島では、活火山を取り囲む丘の斜面がヒゲペンギン（Pygoscelis antarcticus）やマカロニペンギン（Eudyptes chrysolophus）で埋め尽くされ、「地球最大のペンギンコロニー」という称号を長らく保持してきた。しかし、2026年10月7日付で学術誌「Current Biology」に発表された研究で、ヒゲペンギンがこの地域のほかの群れよりはるかに速く減っており、島がその称号も失ったことが判明した。
+
+1980年代から南極半島でヒゲペンギンが激減し始めたため、科学者たちは、隔絶されたこの島の状況についても懸念していた。
+
+英南極観測局（BAS）の研究者は、ドローンによる空中調査と衛星画像を組み合わせた分析で、島のヒゲペンギンの巣（1つの巣につがい1組）が15年足らずの間に63％減り、50万羽以上が失われたことを突き止めた。
+
+2011年以降、気候変動に伴う減少が一定のペースで続いている。そのせいで島のペンギン全体の約4割が失われ、地球最大のペンギンコロニーという称号は、南極のロス海にあるアデア岬に譲ることとなった。
+
+「ある国の総人口が15年間で60％減ったと想像してみてください。これは本当に憂慮すべき事態です」とチリの研究センター「南極・亜南極エコシステム生物多様性ミレニオ研究所」の極地科学者で、海鳥生態学者のルーカス・クルーガー・ガルシア氏は語る。なお、クルーガー・ガルシア氏は今回の研究に関与していない。
+
+南米大陸の最南端と凍てついた南極大陸の間に位置する英領サウスサンドウィッチ諸島は、岩と氷からなる隔絶された三日月形の群島だ。その最北端に位置するザボドフスキー島では、活火山を取り囲む丘の斜面がヒゲペンギン（Pygoscelis antarcticus）やマカロニペンギン（Eudyptes chrysolophus）で埋め尽くされ、「地球最大のペンギンコロニー」という称号を長らく保持してきた。しかし、2026年10月7日付で学術誌「Current Biology」に発表された研究で、ヒゲペンギンがこの地域のほかの群れよりはるかに速く減っており、島がその称号も失ったことが判明した。
+
+1980年代から南極半島でヒゲペンギンが激減し始めたため、科学者たちは、隔絶されたこの島の状況についても懸念していた。
+
+英南極観測局（BAS）の研究者は、ドローンによる空中調査と衛星画像を組み合わせた分析で、島のヒゲペンギンの巣（1つの巣につがい1組）が15年足らずの間に63％減り、50万羽以上が失われたことを突き止めた。
+
+2011年以降、気候変動に伴う減少が一定のペースで続いている。そのせいで島のペンギン全体の約4割が失われ、地球最大のペンギンコロニーという称号は、南極のロス海にあるアデア岬に譲ることとなった。
+
+「ある国の総人口が15年間で60％減ったと想像してみてください。これは本当に憂慮すべき事態です」とチリの研究センター「南極・亜南極エコシステム生物多様性ミレニオ研究所」の極地科学者で、海鳥生態学者のルーカス・クルーガー・ガルシア氏は語る。なお、クルーガー・ガルシア氏は今回の研究に関与していない。
+
+南極海では、生物の減少は珍しいことではない。わずか6カ月前、主に海氷の減少により、コウテイペンギン（Aptenodytes forsteri）とナンキョクオットセイ（Arctocephalus gazella）が国際自然保護連合（IUCN）から絶滅危惧種（endangered）に指定されたばかりだ。
+
+地球の気候を安定させるうえで重要な役割を担う南極海は、世界の海洋が吸収する熱の約4分の3、そして人為的な二酸化炭素排出量の5分の1を取り込んでいる。
+
+海面下では、暖かい中間層の水が棚氷を下から解かしている一方、南極のウェッデル海では、水深2000メートルより深い層が温まる速さは、世界の海洋の平均に比べて約5倍だったとの研究もある。南極の海洋生物を支える氷の基盤が脅かされている。
+
+ヒゲペンギンはいわゆるスペシャリスト種（特定の環境、気候、または限られた食性に強く適応している種）で、小さな甲殻類オキアミを主食にしている。そのため、温暖化の影響にとても弱い。オキアミは餌や隠れ家として海氷に依存しており、わずかな温暖化でもそのバランスが崩れ、深刻なオキアミ不足につながるからだ。
+
+「南極海は急速に変化しています。そのペースは地球上のどこよりも速いです」と研究に参加したBASのリモートセンシング専門家ピーター・フレットウェル氏は述べている。「現在、南極で目撃されている現象は、世界のほかの場所で今後起こり得る事態の予兆です」
+
+2023年12月、BASのチームはこのコロニーを調査するため、地球上で最も過酷な海域の一つへと船を出した。科学者たちは、15日間にわたる航海を経て、ザボドフスキー島に到着した。
+
+上陸すると、刺激的な火山の煙とペンギンのふんが待っていた。この島を取り囲む海岸の地形には、アクリッド岬、ステンチ岬、リーク岬、パンジェント岬（いずれも刺激的なにおいを意味する）、ノクシャス・ブラフ（有害な崖）といった名前がついている。
+
+島で見つかったヒゲペンギンは予想よりはるかに少なかった。対して、すぐそばに暮らすマカロニペンギンは、2011年から2016年の間に約28％増え、その後は横ばいだった。
+
+「この地域は亜南極の状態へと移行しつつあるため、南極の海域の種であるヒゲペンギンが減っています。一方、水温の高い海域に生息する種にとっては、生態系がより適したものになりつつあるため、マカロニペンギンが増えています」と研究を率いたBASの海鳥生態学者ノーマン・ラトクリフ氏は説明する。
+
+マカロニペンギンは岩場に巣をつくる。そして何より、オキアミが不足すると、餌を魚に切り替える。
+
+研究チームは、考えられるほかの原因を系統的に排除し、ヒゲペンギンが急激に減った理由を絞り込んだ。
+
+島には営巣のための十分なスペースがあり、種間の競合は考えにくい。島の周辺にはオキアミ漁の禁止区域があり、乱獲によってペンギンの餌が奪われていたわけではないことが示唆される。
+
+2016年の火山の噴火によって、ヒゲペンギンの群れの一部が死亡した可能性はある。それでも、10年間にわたる着実な減少という傾向には影響していなかった。
+
+むしろ、この長期的な減少の背景に、地域的な海水温の上昇と海氷の減少があると研究チームはみている。ただし、島と海流でつながる別の海域で行われるオキアミ漁が、どの程度影響しているかはまだわかっていない。
+
+長期的には、気候変動によって、この地域全体の生物多様性が低下すると科学者たちは予想している。
+
+「長期的に見れば、生物多様性が失われるでしょう」とフレットウェル氏は南極大陸の野生生物について語る。「幅広い環境に適応できるゼネラリスト種はそうした生息地に進出していき、うまく生き延びるでしょうが、生息できる環境が限られ（中略）繁殖範囲も狭いスペシャリスト種は失われてしまうでしょう」
+
+専門家によれば、ザボドフスキー島のヒゲペンギンが、より適した環境を求めて、南極大陸側へ繁殖地を移す可能性は低い。
+
+「動物たちは南に移動すると考える人が多いですが、一般に、ペンギンは同じ繁殖地に戻る傾向が強く、簡単には場所を変えません」とフレットウェル氏は説明する。
+
+多くの科学者は、ザボドフスキー島で起きているこうした変化は、世界各地で起こる、より大規模な生態系の混乱の前触れと見ている。
+
+「つい最近まで、この島は手つかずの生態系と見なされていました。ですが、今やこの種は気候変動の影響を強く受けています」とクルーガー・ガルシア氏は指摘する。
+
+「この研究は、私たちが懸念していたこと、つまり、この種が実際に厳しい状況にあることを裏付けています。一つの種の問題ではありますが、それははるかに大きな問題の兆候です。炭鉱のカナリアのような存在なのです」13:["$","section",null,{"className":"article-actions","children":[["$","$L24",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/ff287ce1ff287ce1867f34f5","title":"「地球最大のペンギンコロニー」が陥落、ヒゲペンギンが63％減、温暖化でオキアミ減少か(ナショナル ジオグラフィック日本版)","locale":"ja","take":null}],["$","$L25",null,{"title":"「地球最大のペンギンコロニー」が陥落、ヒゲペンギンが63％減、温暖化でオキアミ減少か(ナショナル ジオグラフィック日本版)","excerpt":"$26","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/ff287ce1ff287ce1867f34f5","locale":"ja"}],"$L27"]}]
+14:["$","$L28",null,{"placement":"article","className":"mt-8"}]
+15:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+16:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-health:https://bbc.co.uk/news/videos/ck98zyyer83mo",{"children":["$","$L2",null,{"href":"/ja/n/c32ea910c32ea9103e27f9ba","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Yes, hang-xiety is a real thing"}]]}]}],["$","li","cbc-world:https://cbc.ca/news/world/us-deportation-soliman-equatorial-guinea-9.7375381?cmp=rss",{"children":["$","$L2",null,{"href":"/ja/n/a30ef1f7a30ef1f7e26d165f","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"CBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Judge orders U.S. government to return Arizona man deported to Equatorial Guinea"}]]}]}],["$","li","dw:https://dw.com/en/us-imposes-sanctions-aiming-to-dismantle-international-criminal-court/a-79618577?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/88337bf888337bf8cb1cdb30","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"US imposes sanctions aiming to 'dismantle' International Criminal Court"}]]}]}]]}]]}]
+17:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+18:["$","$L29",null,{"children":["$","$2a",null,{"name":"Next.MetadataOutlet","children":"$@2b"}]}]
+1b:["$","$1","h",{"children":[null,["$","$L2c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L2d",null,{"children":["$","$2a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"「地球最大のペンギンコロニー」が陥落、ヒゲペンギンが63％減、温暖化でオキアミ減少か(ナショナル ジオグラフィック日本版)"}],["$","meta","1",{"name":"description","content":"南米大陸の最南端と凍てついた南極大陸の間に位置する英領サウスサンドウィッチ諸島は、岩と氷からなる隔絶された三日月形の群島だ。その最北端に位置するザボドフスキー島では、活火山を取り囲む丘の斜面がヒゲペンギン（Pygoscelis antarcticus）やマカロニペンギン（Eudyptes chrysolophus）で埋め尽くされ、「地球最大のペンギンコロニー」という称号を長らく保持してきた。しかし、2026年10月7日付で学術誌「Current Biology」に発表された研究で、ヒゲペンギンがこの地域のほかの群れよりはるかに速く減っており、島がその称号も失ったことが判明した。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"「地球最大のペンギンコロニー」が陥落、ヒゲペンギンが63％減、温暖化でオキアミ減少か(ナショナル ジオグラフィック日本版)"}],["$","meta","4",{"property":"og:description","content":"南米大陸の最南端と凍てついた南極大陸の間に位置する英領サウスサンドウィッチ諸島は、岩と氷からなる隔絶された三日月形の群島だ。その最北端に位置するザボドフスキー島では、活火山を取り囲む丘の斜面がヒゲペンギン（Pygoscelis antarcticus）やマカロニペンギン（Eudyptes chrysolophus）で埋め尽くされ、「地球最大のペンギンコロニー」という称号を長らく保持してきた。しかし、2026年10月7日付で学術誌「Current Biology」に発表された研究で、ヒゲペンギンがこの地域のほかの群れよりはるかに速く減っており、島がその称号も失ったことが判明した。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/ff287ce1ff287ce1867f34f5/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261009-00010000-nknatiogeo-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"「地球最大のペンギンコロニー」が陥落、ヒゲペンギンが63％減、温暖化でオキアミ減少か(ナショナル ジオグラフィック日本版)"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"「地球最大のペンギンコロニー」が陥落、ヒゲペンギンが63％減、温暖化でオキアミ減少か(ナショナル ジオグラフィック日本版)"}],["$","meta","13",{"name":"twitter:description","content":"南米大陸の最南端と凍てついた南極大陸の間に位置する英領サウスサンドウィッチ諸島は、岩と氷からなる隔絶された三日月形の群島だ。その最北端に位置するザボドフスキー島では、活火山を取り囲む丘の斜面がヒゲペンギン（Pygoscelis antarcticus）やマカロニペンギン（Eudyptes chrysolophus）で埋め尽くされ、「地球最大のペンギンコロニー」という称号を長らく保持してきた。しかし、2026年10月7日付で学術誌「Current Biology」に発表された研究で、ヒゲペンギンがこの地域のほかの群れよりはるかに速く減っており、島がその称号も失ったことが判明した。"}],["$","meta","14",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261009-00010000-nknatiogeo-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","15",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L2e","17",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+1d:["$","$1","c",{"children":[null,["$","$L2f",null,{"parallelRouterKey":"children","template":["$","$L30",null,{}]}]]}]
+20:["$","$1","c",{"children":[null,["$","$L2f",null,{"parallelRouterKey":"children","template":["$","$L30",null,{}]}]]}]
+23:true
+27:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E3%81%8C%E9%99%A5%E8%90%BD%E3%80%81%E3%83%92%E3%82%B2%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%81%8C63%EF%BC%85%E6%B8%9B%E3%80%81%E6%B8%A9%E6%9A%96%E5%8C%96%E3%81%A7%E3%82%AA%E3%82%AD%E3%82%A2%E3%83%9F%E6%B8%9B%E5%B0%91%E3%81%8B&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+2b:null
+1a:300
+1a:C
+22:0
+1c:"$undefined"
+1e:"$undefined"
+21:"$undefined"
+19:"$undefined"

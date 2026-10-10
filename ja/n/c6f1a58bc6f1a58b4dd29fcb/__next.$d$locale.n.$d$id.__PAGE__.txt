@@ -1,0 +1,67 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/25fd/live/4b4dfad0-be0d-11f1-92ea-016450691ea1.jpg","image"]
+5:Tef8,韓国の李大統領は、ウクライナ政府が「朝鮮半島に戦争をもたらそうとしている」と非難した
+
+ダークスーツ姿の李氏が口を閉じ、マイクに向かって立っている。背後には韓国国旗が見える
+
+ウクライナのウォロディミル・ゼレンスキー大統領が先週の国連総会での演説で、捕虜にした北朝鮮兵2人を韓国・ソウルに移送したと公表したことについて、韓国の李在明（イ・ジェミョン）大統領は2日、ウクライナが公に謝罪しないのなら「追加措置」を講じると警告した。措置の詳細は明らかにしなかった。
+
+ゼレンスキー氏は先月23日の国連総会で、韓国との1年以上にわたる協議を経て、北朝鮮の捕虜2人を韓国に移送したと、演説の中で述べた。その際、「生け捕りにするのは容易」ではなかったとした。
+
+これを受けて韓国は、移送については秘密にするとの合意を破ったとして、ゼレンスキー氏を厳しく非難していた。
+
+ウクライナのアンドリー・シビハ外相は1日、「外交上の誤解」だとしたうえで、ウクライナ政府は解決に向けて「取り組んでいる」と述べた。
+
+李氏はソーシャルメディアへの投稿で、今回の問題は「韓国国民と国家の尊厳」に関わるものだとして、シビハ氏の説明は受け入れられないとした。
+
+韓国大統領府は先週、声明で、非公開にするのは北朝鮮兵の家族を守るためでもあったと説明。さらに、ウクライナ人捕虜と交換する機会を放棄したとの批判を避けるため、ウクライナ側も移送を秘密にすることを望んでいたと付け加えた。
+
+一方でウクライナ大統領府は、北朝鮮人捕虜の移送について秘密保持の合意はなかったと反論し、両者の対立が深まった。
+
+ゼレンスキー氏が移送を公表したことで、韓国では李氏が厳しく批判されている。韓国の野党は、李氏が北朝鮮への配慮から移送を隠したと非難している。
+
+北朝鮮の捕虜2人については、ウクライナが2025年1月、ロシア西部クルスク州で拘束したと発表していた。ウクライナと戦争を続けるロシアを支援するために送り込まれた多数の北朝鮮兵の一部で、捕虜になった後にメディアに対し、韓国への移送を望むと話していた。
+
+ウクライナのシビハ外相は1日、ウクライナ・メディアに対し、「この状況がごく近い将来に解決されることを願っている」と述べた。
+
+さらに、「我々はそのために取り組んでいる。韓国は重要な国だ。（韓国との間で）真に達成しつつある勢いと継続、そして具体的な成果につながることを心から願っている」と述べた。
+
+これに対し、李氏は、ウクライナ政府が「朝鮮半島に戦争をもたらそうとしている」と非難した。
+
+「（秘密保持という）合意の事実を認めて謝罪するのではなく、南北間で軍事衝突が差し迫っているかのような話をしていることに、我々は深い遺憾の意を表する」と、李氏はソーシャルメディアに投稿した。
+
+ロシアがウクライナを本格侵攻して以来、韓国は、ウクライナに対して同情的な姿勢を示してきた。同時に、戦争状態にある国には殺傷能力のある兵器を提供しないとする、韓国の長年の方針を変えることは拒否してきた。
+
+（英語記事 Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row）d:X
+12:X
+12:C
+0:{"buildId":"lHj7I3KPIAqT3z8d_3G7v","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-02","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"韓国、ウクライナが謝罪しなければ「追加措置」と警告 北朝鮮捕虜の移送公表めぐり"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"10月2日 06:39"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/25fd/live/4b4dfad0-be0d-11f1-92ea-016450691ea1.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"韓国の李大統領は、ウクライナ政府が「朝鮮半島に戦争をもたらそうとしている」と非難した"}],["$","p","1",{"children":"ダークスーツ姿の李氏が口を閉じ、マイクに向かって立っている。背後には韓国国旗が見える"}],["$","p","2",{"children":"ウクライナのウォロディミル・ゼレンスキー大統領が先週の国連総会での演説で、捕虜にした北朝鮮兵2人を韓国・ソウルに移送したと公表したことについて、韓国の李在明（イ・ジェミョン）大統領は2日、ウクライナが公に謝罪しないのなら「追加措置」を講じると警告した。措置の詳細は明らかにしなかった。"}],["$","p","3",{"children":"ゼレンスキー氏は先月23日の国連総会で、韓国との1年以上にわたる協議を経て、北朝鮮の捕虜2人を韓国に移送したと、演説の中で述べた。その際、「生け捕りにするのは容易」ではなかったとした。"}],["$","p","4",{"children":"これを受けて韓国は、移送については秘密にするとの合意を破ったとして、ゼレンスキー氏を厳しく非難していた。"}],["$","p","5",{"children":"ウクライナのアンドリー・シビハ外相は1日、「外交上の誤解」だとしたうえで、ウクライナ政府は解決に向けて「取り組んでいる」と述べた。"}],["$","p","6",{"children":"李氏はソーシャルメディアへの投稿で、今回の問題は「韓国国民と国家の尊厳」に関わるものだとして、シビハ氏の説明は受け入れられないとした。"}],["$","p","7",{"children":"韓国大統領府は先週、声明で、非公開にするのは北朝鮮兵の家族を守るためでもあったと説明。さらに、ウクライナ人捕虜と交換する機会を放棄したとの批判を避けるため、ウクライナ側も移送を秘密にすることを望んでいたと付け加えた。"}],["$","p","8",{"children":"一方でウクライナ大統領府は、北朝鮮人捕虜の移送について秘密保持の合意はなかったと反論し、両者の対立が深まった。"}],["$","p","9",{"children":"ゼレンスキー氏が移送を公表したことで、韓国では李氏が厳しく批判されている。韓国の野党は、李氏が北朝鮮への配慮から移送を隠したと非難している。"}],["$","p","10",{"children":"北朝鮮の捕虜2人については、ウクライナが2025年1月、ロシア西部クルスク州で拘束したと発表していた。ウクライナと戦争を続けるロシアを支援するために送り込まれた多数の北朝鮮兵の一部で、捕虜になった後にメディアに対し、韓国への移送を望むと話していた。"}],["$","p","11",{"children":"ウクライナのシビハ外相は1日、ウクライナ・メディアに対し、「この状況がごく近い将来に解決されることを願っている」と述べた。"}],["$","p","12",{"children":"さらに、「我々はそのために取り組んでいる。韓国は重要な国だ。（韓国との間で）真に達成しつつある勢いと継続、そして具体的な成果につながることを心から願っている」と述べた。"}],["$","p","13",{"children":"これに対し、李氏は、ウクライナ政府が「朝鮮半島に戦争をもたらそうとしている」と非難した。"}],["$","p","14",{"children":"「（秘密保持という）合意の事実を認めて謝罪するのではなく、南北間で軍事衝突が差し迫っているかのような話をしていることに、我々は深い遺憾の意を表する」と、李氏はソーシャルメディアに投稿した。"}],["$","p","15",{"children":"ロシアがウクライナを本格侵攻して以来、韓国は、ウクライナに対して同情的な姿勢を示してきた。同時に、戦争状態にある国には殺傷能力のある兵器を提供しないとする、韓国の長年の方針を変えることは拒否してきた。"}],["$","p","16",{"children":"（英語記事 Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row）"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/cx7v4v443p7po","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/c6f1a58bc6f1a58b4dd29fcb","title":"韓国、ウクライナが謝罪しなければ「追加措置」と警告 北朝鮮捕虜の移送公表めぐり","locale":"ja","take":null}],["$","$L4",null,{"title":"韓国、ウクライナが謝罪しなければ「追加措置」と警告 北朝鮮捕虜の移送公表めぐり","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/c6f1a58bc6f1a58b4dd29fcb","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E9%9F%93%E5%9B%BD%E3%80%81%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E3%81%8C%E8%AC%9D%E7%BD%AA%E3%81%97%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E3%81%A8%E8%AD%A6%E5%91%8A+%E5%8C%97%E6%9C%9D%E9%AE%AE%E6%8D%95%E8%99%9C%E3%81%AE%E7%A7%BB%E9%80%81%E5%85%AC%E8%A1%A8%E3%82%81%E3%81%90%E3%82%8A&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","guardian-world:https://theguardian.com/world/2026/oct/02/india-cockroach-movement-protests-mumbai-changes-voter-roll",{"children":["$","$L2",null,{"href":"/ja/n/166a168d166a168d5364f6cd","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"The Guardian"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"India’s Cockroach movement launches new protests over changes to voter roll"}]]}]}],["$","li","dw:https://dw.com/en/germany-s-franz-reindl-elected-new-iihf-president/a-79521799?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/11792e9011792e909742d64c","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Germany's Franz Reindl elected new IIHF president"}]]}]}],["$","li","bbc-africa:https://bbc.co.uk/sport/athletics/articles/cvx2z249r33yo",{"children":["$","$L2",null,{"href":"/ja/n/474e3f21474e3f21a81d7fe5","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"'I reduced my running because of urine leaks' – Commonwealth finalist Korir"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"韓国、ウクライナが謝罪しなければ「追加措置」と警告 北朝鮮捕虜の移送公表めぐり"}],["$","meta","1",{"name":"description","content":"韓国の李大統領は、ウクライナ政府が「朝鮮半島に戦争をもたらそうとしている」と非難した"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"韓国、ウクライナが謝罪しなければ「追加措置」と警告 北朝鮮捕虜の移送公表めぐり"}],["$","meta","4",{"property":"og:description","content":"韓国の李大統領は、ウクライナ政府が「朝鮮半島に戦争をもたらそうとしている」と非難した"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/c6f1a58bc6f1a58b4dd29fcb/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F25fd%2Flive%2F4b4dfad0-be0d-11f1-92ea-016450691ea1.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"韓国、ウクライナが謝罪しなければ「追加措置」と警告 北朝鮮捕虜の移送公表めぐり"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"韓国、ウクライナが謝罪しなければ「追加措置」と警告 北朝鮮捕虜の移送公表めぐり"}],["$","meta","13",{"name":"twitter:description","content":"韓国の李大統領は、ウクライナ政府が「朝鮮半島に戦争をもたらそうとしている」と非難した"}],["$","meta","14",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F25fd%2Flive%2F4b4dfad0-be0d-11f1-92ea-016450691ea1.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","15",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","17",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

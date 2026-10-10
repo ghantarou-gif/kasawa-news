@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /ja/members/
+Disallow: /en/members/
+
+Sitemap: https://ghantarou-gif.github.io/kasawa-news/sitemap.xml

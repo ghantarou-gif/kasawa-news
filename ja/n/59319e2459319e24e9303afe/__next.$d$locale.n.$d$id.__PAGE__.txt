@@ -1,0 +1,63 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+c:X
+11:X
+11:C
+0:{"buildId":"lHj7I3KPIAqT3z8d_3G7v","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-07","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"CNET Japan"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"Mistral、1兆パラメーターの新旗艦AI「Mistral Large 4」を発表"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"3 日前"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"新しいAIモデルが次々と登場し、その勢いは止まる気配がない。"}],["$","p","1",{"children":"「Claude Opus 5.5」やOpenAIの「GPT-6 Sol」「GPT-6 Luna」が相次いで公開されたのに続き、仏Mistral AIが新たな旗艦モデル「 Mistral Large 4（ML4） 」を発表し、現地時間10月6日にパブリックプレビューを開始した。ML4は総パラメーターが1兆、アクティブパラメーターが490億のマルチモーダルモデルだ。"}],["$","p","2",{"children":"Mistral AIは、オープンソースやオープンウェイトの大規模言語モデル（LLM）で知られる。同社によると、Mistral Large 4は複数の評価指標を総合すると「世界最高水準のオープンウェイトモデルの1つ」に位置付けられるという。欧米のモデルを上回り、オープンウェイト分野を席巻してきた中国の競合モデルにも追い付いてきたとしている。"}],["$","p","3",{"children":"筆者はMistral AIのチーフサイエンティストであるGuillaume Lample氏と、サイエンス担当バイスプレジデントのPierre Stock氏に、「le Chonk」の愛称が付けられたこの新モデルについて話を聞いた。特定分野での能力や極めて高い計算効率を含め、知っておきたいポイントを紹介する。"}],["$","p","4",{"children":"Lample氏とStock氏によると、Mistral Large 4はテキストと画像の両方を処理できるように設計されており、従来のMistralモデルが抱えていた性能面の課題を改善したという。具体的には、サイバーセキュリティーとAIエージェントの機能を強化したほか、製造業や金融に関連するタスクへの対応力も高めたとしている。"}],["$","p","5",{"children":"Mistral Large 4は、ログの点検、コード監査、新たに公開された攻撃コードや脆弱性の確認など、防御を目的とするサイバーセキュリティーのタスクで高い能力を発揮するように設計された。Mistralによると、防御にとどまらず、弱点を見つけて対処するための攻撃的なサイバーセキュリティー機能も備えているという。"}],["$","p","6",{"children":"「ML4で中核となる能力として重視しているのは、まさにAIエージェントとしての能力だ」とStock氏は述べた。"}],["$","p","7",{"children":"Mistral Large 4は、計画の立案や調査、人間の専門家なら数時間から数日かかるような複雑な企業業務に対応するAIエージェントとしての性能に重点を置いて開発された。Mistral AIのチームによると、コーディング、分析、プルリクエストの処理といったタスクについて、「SWE-bench」や「Terminal Bench」などの重要なエージェント評価ベンチマークで「最先端」の性能に達しているという。これらのベンチマークは、エージェントが複雑なタスクにどれだけ適切に対応できるかを検証するための評価の枠組みだ。"}],["$","p","8",{"children":"Mistralのチームは、航空写真や衛星画像の分析で、このモデルが競合を上回ると説明している。地図上の視覚的なパターンや対象を識別でき、例えば森林火災を見つけられるという。"}],["$","p","9",{"children":"モデルのプレスリリースには、「グラウンディングの能力では、クローズドモデルを含む既存のすべてのモデルを上回る」と記されている。「サイバー攻撃がより迅速かつ低コストになり、企業がかつてないほど多くのコードを書き、AI需要に対応するために世界がより多くの半導体を必要とする中で、こうした能力は極めて重要だ」という。"}],["$","p","10",{"children":"グラウンディングは、LLMが不正確な情報を生成する「ハルシネーション」をなくすことを目指し、AI開発で用いられる手法だ。学習時に使われた情報だけに頼るのではなく、文書やデータベースなどの外部資料にAIの出力を基づかせる。データや情報を最新に保ち、AIの回答に文脈を与えることにも役立つ。"}],["$","p","11",{"children":"Mistralによると、新モデルは欧州連合（EU）のすべての公用語を含む160超の言語で学習している。ラテン系言語と非ラテン系言語の両方に対応し、それぞれの言語で直接プロンプトに回答できるという。"}],["$","p","12",{"children":"Mistralは10月27日にML4の重みを公開する予定だ。それまではパブリックプレビュー期間とし、開発者、サイバーセキュリティーの専門家、政府当局者からのフィードバックを基に、チームがモデルの評価をさらに進める。この期間には、追加の強化学習やファインチューニングも実施する。 プレビュー版API は同社のウェブサイトで公開されている。"}],["$","p","13",{"children":"この記事は海外Ziff Davis発の 記事 を4Xが日本向けに編集したものです。"}],["$","p","14",{"children":"Amazonのアソシエイトとして、CNET Japanは適格販売により収入を得ています。"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はCNET Japanにあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://japan.cnet.com/article/35253300/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はCNET Japanで読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/59319e2459319e24e9303afe","title":"Mistral、1兆パラメーターの新旗艦AI「Mistral Large 4」を発表","locale":"ja","take":null}],"$L4","$L5"]}],"$L6",null,"$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":"$@b","staleTime":"$c","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$c","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$c","varyParams":"$11"},{"rsc":"$L12","isPartial":"$@13","staleTime":"$c","varyParams":"$11"}],"isUpgradeableISRFallback":false,"a":"$@14","rootVaryParams":null,"needsRuntimeRequest":"$@15"}
+16:I[98337,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+18:I[9441,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+19:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1a:"$Sreact.suspense"
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1e:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1f:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+20:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+17:T13a4,新しいAIモデルが次々と登場し、その勢いは止まる気配がない。
+
+「Claude Opus 5.5」やOpenAIの「GPT-6 Sol」「GPT-6 Luna」が相次いで公開されたのに続き、仏Mistral AIが新たな旗艦モデル「 Mistral Large 4（ML4） 」を発表し、現地時間10月6日にパブリックプレビューを開始した。ML4は総パラメーターが1兆、アクティブパラメーターが490億のマルチモーダルモデルだ。
+
+Mistral AIは、オープンソースやオープンウェイトの大規模言語モデル（LLM）で知られる。同社によると、Mistral Large 4は複数の評価指標を総合すると「世界最高水準のオープンウェイトモデルの1つ」に位置付けられるという。欧米のモデルを上回り、オープンウェイト分野を席巻してきた中国の競合モデルにも追い付いてきたとしている。
+
+筆者はMistral AIのチーフサイエンティストであるGuillaume Lample氏と、サイエンス担当バイスプレジデントのPierre Stock氏に、「le Chonk」の愛称が付けられたこの新モデルについて話を聞いた。特定分野での能力や極めて高い計算効率を含め、知っておきたいポイントを紹介する。
+
+Lample氏とStock氏によると、Mistral Large 4はテキストと画像の両方を処理できるように設計されており、従来のMistralモデルが抱えていた性能面の課題を改善したという。具体的には、サイバーセキュリティーとAIエージェントの機能を強化したほか、製造業や金融に関連するタスクへの対応力も高めたとしている。
+
+Mistral Large 4は、ログの点検、コード監査、新たに公開された攻撃コードや脆弱性の確認など、防御を目的とするサイバーセキュリティーのタスクで高い能力を発揮するように設計された。Mistralによると、防御にとどまらず、弱点を見つけて対処するための攻撃的なサイバーセキュリティー機能も備えているという。
+
+「ML4で中核となる能力として重視しているのは、まさにAIエージェントとしての能力だ」とStock氏は述べた。
+
+Mistral Large 4は、計画の立案や調査、人間の専門家なら数時間から数日かかるような複雑な企業業務に対応するAIエージェントとしての性能に重点を置いて開発された。Mistral AIのチームによると、コーディング、分析、プルリクエストの処理といったタスクについて、「SWE-bench」や「Terminal Bench」などの重要なエージェント評価ベンチマークで「最先端」の性能に達しているという。これらのベンチマークは、エージェントが複雑なタスクにどれだけ適切に対応できるかを検証するための評価の枠組みだ。
+
+Mistralのチームは、航空写真や衛星画像の分析で、このモデルが競合を上回ると説明している。地図上の視覚的なパターンや対象を識別でき、例えば森林火災を見つけられるという。
+
+モデルのプレスリリースには、「グラウンディングの能力では、クローズドモデルを含む既存のすべてのモデルを上回る」と記されている。「サイバー攻撃がより迅速かつ低コストになり、企業がかつてないほど多くのコードを書き、AI需要に対応するために世界がより多くの半導体を必要とする中で、こうした能力は極めて重要だ」という。
+
+グラウンディングは、LLMが不正確な情報を生成する「ハルシネーション」をなくすことを目指し、AI開発で用いられる手法だ。学習時に使われた情報だけに頼るのではなく、文書やデータベースなどの外部資料にAIの出力を基づかせる。データや情報を最新に保ち、AIの回答に文脈を与えることにも役立つ。
+
+Mistralによると、新モデルは欧州連合（EU）のすべての公用語を含む160超の言語で学習している。ラテン系言語と非ラテン系言語の両方に対応し、それぞれの言語で直接プロンプトに回答できるという。
+
+Mistralは10月27日にML4の重みを公開する予定だ。それまではパブリックプレビュー期間とし、開発者、サイバーセキュリティーの専門家、政府当局者からのフィードバックを基に、チームがモデルの評価をさらに進める。この期間には、追加の強化学習やファインチューニングも実施する。 プレビュー版API は同社のウェブサイトで公開されている。
+
+この記事は海外Ziff Davis発の 記事 を4Xが日本向けに編集したものです。
+
+Amazonのアソシエイトとして、CNET Japanは適格販売により収入を得ています。4:["$","$L16",null,{"title":"Mistral、1兆パラメーターの新旗艦AI「Mistral Large 4」を発表","excerpt":"$17","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/59319e2459319e24e9303afe","locale":"ja"}]
+5:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=Mistral%E3%80%811%E5%85%86%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E6%96%B0%E6%97%97%E8%89%A6AI%E3%82%92%E7%99%BA%E8%A1%A8&mode=phrase&url=japan.cnet.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+6:["$","$L18",null,{"placement":"article","className":"mt-8"}]
+7:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+8:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","nhk-business:https://news.web.nhk/newsweb/na/nd-20261007de56183",{"children":["$","$L2",null,{"href":"/ja/n/a84552dea84552de6fcc6356","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"インド中央銀行が3年8か月ぶり利上げ 中東情勢背景に"}]]}]}],["$","li","nhk-society:https://news.web.nhk/newsweb/na/nd-20261007de56174",{"children":["$","$L2",null,{"href":"/ja/n/5a14c6ba5a14c6badaec497c","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"原子力人材確保へ 官民が共同で新団体を設立"}]]}]}],["$","li","nhk-business:https://news.web.nhk/newsweb/na/nd-20261007de56177",{"children":["$","$L2",null,{"href":"/ja/n/1c5bcfc91c5bcfc98939c2c5","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"TOPIX改革で構成銘柄が変更 銘柄数は大きく減少へ"}]]}]}]]}]]}]
+9:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+a:["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
+d:["$","$1","h",{"children":[null,["$","$L1c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1d",null,{"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Mistral、1兆パラメーターの新旗艦AI「Mistral Large 4」を発表"}],["$","meta","1",{"name":"description","content":"新しいAIモデルが次々と登場し、その勢いは止まる気配がない。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"Mistral、1兆パラメーターの新旗艦AI「Mistral Large 4」を発表"}],["$","meta","4",{"property":"og:description","content":"新しいAIモデルが次々と登場し、その勢いは止まる気配がない。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/59319e2459319e24e9303afe/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/opengraph-image"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"Mistral、1兆パラメーターの新旗艦AI「Mistral Large 4」を発表"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Mistral、1兆パラメーターの新旗艦AI「Mistral Large 4」を発表"}],["$","meta","13",{"name":"twitter:description","content":"新しいAIモデルが次々と登場し、その勢いは止まる気配がない。"}],["$","meta","14",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/opengraph-image"}],["$","link","15",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1e","17",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+12:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+15:true
+1b:null
+c:300
+c:C
+14:0
+e:"$undefined"
+10:"$undefined"
+13:"$undefined"
+b:"$undefined"

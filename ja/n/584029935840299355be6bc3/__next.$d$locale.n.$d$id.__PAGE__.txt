@@ -1,0 +1,149 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://i.guim.co.uk/img/media/b5feed698def6ab736780b864f672abf0d08e952/248_294_1549_1239/master/1549.jpg?width=140&quality=85&auto=format&fit=max&s=1516ee985afb803b2a884738100b0b00","image"]
+2b:X
+30:X
+30:C
+0:{"buildId":"lHj7I3KPIAqT3z8d_3G7v","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-09","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"The Guardian"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"‘This is not an anti-tech town’: backlash to datacenter in city once home to IBM"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"24 時間前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://i.guim.co.uk/img/media/b5feed698def6ab736780b864f672abf0d08e952/248_294_1549_1239/master/1549.jpg?width=140&quality=85&auto=format&fit=max&s=1516ee985afb803b2a884738100b0b00","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"For decades, East Fishkill helped build New York’s tech industry."}],["$","p","1",{"children":"The hamlet, located 70 miles north of New York City, was home to a 460-acre campus where IBM researched and manufactured semiconductor chips for nearly 50 years."}],["$","p","2",{"children":"So when the news broke in early 2026 that a real estate developer, Treetop Companies, was exploring plans for what could become one of the largest artificial intelligence (AI) datacenters in the country, a roughly 1-gigawatt campus spanning more than 1m sq ft across about 143 acres, it seemed the town would welcome a new phase in its technological evolution."}],["$","p","3",{"children":"Instead, a furious backlash erupted before even a single permit application was filed with the municipal government. Residents began attending town board meetings, organizing rallies and advocating for a temporary ban."}],["$","p","4",{"children":"Even before any plans for the facility were drawn up, East Fishkill’s existing zoning laws did not allow for the construction of large datacenters. The town issued a three-year moratorium on them anyway, a sign of the extreme ire against datacenters."}],["$","p","5",{"children":"The temporary ban, adopted unanimously in late June, forbids the town from considering new datacenters larger than 20 megawatts until July of 2029, while officials study their potential impacts on water resources and local ecosystems. The development company at the center of the controversy has appealed the measure."}],["$","p","6",{"children":"“I just think that we’re at this moment where things are happening very quickly, we need to get our ducks in a row and think about the various ways in which datacenters and new energy usage will affect our long-term community cohesiveness, environmental quality, and character,” said East Fishkill resident and professor Tanya Radford."}],["$","p","7",{"children":"The fight unfolding in East Fishkill is a single piece of a growing divide . Both rural towns and communities that once eagerly welcomed hi-tech development are increasingly questioning whether AI infrastructure adds enough local benefit to justify its enormous appetite for electricity, water and land."}],["$","p","8",{"children":"“This is not an anti-tech town,” said Radford. “I’m an educator. I use technology.”"}],["$","p","9",{"children":"The saga began after Treetop Development purchased property in East Fishkill, initially pursuing approvals for a warehouse development. Residents later discovered that the company, through local property owner Donovan Drive Holdings, had entered the queue to have a project approved that would use approximately 1,000 megawatts of electrical service, an amount more consistent with a large-scale AI datacenter than a warehouse."}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21"],"$L22"]}],"$L23","$L24","$L25",null,"$L26","$L27"]}],["$L28"],"$L29"]}],"isPartial":"$@2a","staleTime":"$2b","varyParams":null},{"rsc":"$L2c","isPartial":"$@2d","staleTime":"$2b","varyParams":null},{"rsc":"$L2e","isPartial":"$@2f","staleTime":"$2b","varyParams":"$30"},{"rsc":"$L31","isPartial":"$@32","staleTime":"$2b","varyParams":"$30"}],"isUpgradeableISRFallback":false,"a":"$@33","rootVaryParams":null,"needsRuntimeRequest":"$@34"}
+35:I[36936,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+36:I[98337,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+39:I[9441,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+3a:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+3b:"$Sreact.suspense"
+3d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+3e:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+3f:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+40:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+41:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","10",{"children":"This request for approval was not submitted to the town of East Fishkill. Rather, it was submitted to New York Independent System Operator (NYISO)’s interconnection queue. NYISO is an independent organization responsible for managing New York’s high-voltage power grid, meaning whenever a company wants to build a big new project, it must formally ask NYISO for permission to connect to the grid."}]
+4:["$","p","11",{"children":"For those that call East Fishkill home, the NYISO filing quickly raised concerns."}]
+5:["$","p","12",{"children":"The proposed datacenter would consume more electricity than the entire city of Buffalo, which has about 275,000 people. East Fishkill is home to just 30,000."}]
+6:["$","p","13",{"children":"New York’s governor, Kathy Hochul, with the US members of Congress Alexandria-Ocasio Cortez and Pat Ryan in East Fishkill this week. Photograph: Susan Watts/Office of Governor Kathy Hochul"}]
+7:["$","p","14",{"children":"“Residents have been speaking out against it to stop any application from coming into the town for the datacenter,” said Melissa Hoffmann, an East Fishkill resident and organizer with a local chapter of Food & Water Watch, an environmental advocacy non-profit."}]
+8:["$","p","15",{"children":"But because no formal application had been filed with East Fishkill, town officials repeatedly stressed that there was nothing before the planning board to review or reject."}]
+9:["$","p","16",{"children":"“There is no application before the Town. There has never been an application for a datacenter,” the East Fishkill supervisor Nick D’Alessandro wrote on Facebook in June. D’Alessandro later took down the post. His office did not respond to the Guardian’s request for comment."}]
+a:["$","p","17",{"children":"He stressed that standalone datacenters were “not even listed as a permissible use” under the town’s zoning laws. Nonetheless, in June the board banned their construction for three years “to give our community certainty and allow time for further study and discussion”."}]
+b:["$","p","18",{"children":"Hoffmann said months of public pressure ultimately convinced the town board to extend what had initially been discussed as a seven-month pause into a three-year moratorium."}]
+c:["$","p","19",{"children":"East Fishkill has often been described as an “ innovation hub ”, making opposition to the datacenter proposal remarkable precisely because the town has not been hostile towards new technology."}]
+d:["$","p","20",{"children":"International Business Machines Corporation, better known as IBM, transformed the town during the latter half of the 20th century into one of the nation’s leading semiconductor manufacturing centers, employing thousands of workers and laying the foundation for what is now iPark 84, home to mixed-use commercial and residential facilities."}]
+e:["$","p","21",{"children":"Former IBM facilities remain a defining part of the local economy, and iPark continues to house technology companies. One tenant is currently seeking to expand an existing datacenter by approximately 150 megawatts, far smaller than the facility proposed by Treetop."}]
+f:["$","p","22",{"children":"Residents have insisted that their opposition is not meant to hinder forward-looking tech, but is directed at the unprecedented scale of emerging AI infrastructure."}]
+10:["$","p","23",{"children":"“The pushback is really to the size,” resident Fran Caracappa, a candidate for county legislature, said. “The Treetop center would be 1,000 megawatts. People do not want to pay higher electricity rates because of a larger datacenter coming in and putting pressure on the grid.”"}]
+11:["$","p","24",{"children":"Residents have also questioned whether the supposed economic benefits justify the costs."}]
+12:["$","p","25",{"children":"Hoffmann worried that the datacenter would “provide very few jobs”. Caracappa similarly expressed doubt that temporary construction jobs would lead to lasting employment for locals."}]
+13:["$","p","26",{"children":"“It’s not going to provide work to keep people here like the previous tech businesses did,” Caracappa said. “So what’s the benefit to the town?”"}]
+14:["$","p","27",{"children":"The town’s skepticism toward a huge industrial project is also informed by the consequences of its past."}]
+15:["$","p","28",{"children":"IBM’s manufacturing operations helped establish the region’s tech-industrial identity, but groundwater contamination associated with semiconductor production left lasting scars . Several polluted Superfund sites remain in the area ."}]
+16:["$","p","29",{"children":"In addition to groundwater protection, residents have raised concerns about noise, diesel backup generators, property values, wetlands and the area’s rural character."}]
+17:["$","p","30",{"children":"People call on Governor Kathy Hochul to sign the Data Center Act in East Fishkill in June. Photograph: Eric Weltman/Food & Water Watch"}]
+18:["$","p","31",{"children":"Radford, whose home sits near the Appalachian trail, said that the serene, woodsy landscape that currently surrounds the proposed site is one of the reasons she moved there."}]
+19:["$","p","32",{"children":"“My neighbors and I agree that additional development in the area could only negatively impact the quality of life here,” she said."}]
+1a:["$","p","33",{"children":"Barely two weeks after the East Fishkill moratorium passed, New York became the first US state to enact a moratorium on new datacenters when Governor Kathy Hochul signed an executive order mandating a one-year statewide pause on so-called hyperscale datacenters."}]
+1b:["$","p","34",{"children":"Donald Trump, an ally to tech billionaires and AI investors, responded with rage. He called the move “a terrible decision” on his Truth Social platform and accused Hochul of implementing the ban for purely political reasons."}]
+1c:["$","p","35",{"children":"“One of the biggest Driving Forces in the Future for Jobs, are Data Centers. They are big, strong, bold, and Money Machines for the State in which they are built,” Trump wrote. Later in the summer, he called towns rejecting datacenters “backwards and poor”."}]
+1d:["$","p","36",{"children":"Like Trump, Treetop did not take kindly to East Fishkill’s three-year ban. In a 17-page objection letter submitted to the town board and reviewed by the Guardian, attorneys for the company argued the three-year moratorium unlawfully targets the company’s property and effectively amounts to a permanent prohibition rather than a “legitimate temporary planning measure”."}]
+1e:["$","p","37",{"children":"In the letter, the company said it spent years and significant resources advancing development plans for the site, including environmental reviews, wetlands investigations, traffic studies and utility coordination."}]
+1f:["$","p","38",{"children":"Town officials have maintained that no datacenter application has ever been submitted and that the moratorium provides time to evaluate whether existing zoning properly addresses an entirely new class of industrial development."}]
+20:["$","p","39",{"children":"East Fishkill residents are claiming victory."}]
+21:["$","p","40",{"children":"“People are winning,” Hoffmann said. “Communities that fight these datacenters are winning.”"}]
+22:["$","p",null,{"className":"article-credit","children":"本文の著作権はThe Guardianにあります。"}]
+23:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://theguardian.com/us-news/2026/oct/09/datacenter-backlash-ibm-east-fishkill-new-york","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はThe Guardianで読む"}]}]
+37:T230a,For decades, East Fishkill helped build New York’s tech industry.
+
+The hamlet, located 70 miles north of New York City, was home to a 460-acre campus where IBM researched and manufactured semiconductor chips for nearly 50 years.
+
+So when the news broke in early 2026 that a real estate developer, Treetop Companies, was exploring plans for what could become one of the largest artificial intelligence (AI) datacenters in the country, a roughly 1-gigawatt campus spanning more than 1m sq ft across about 143 acres, it seemed the town would welcome a new phase in its technological evolution.
+
+Instead, a furious backlash erupted before even a single permit application was filed with the municipal government. Residents began attending town board meetings, organizing rallies and advocating for a temporary ban.
+
+Even before any plans for the facility were drawn up, East Fishkill’s existing zoning laws did not allow for the construction of large datacenters. The town issued a three-year moratorium on them anyway, a sign of the extreme ire against datacenters.
+
+The temporary ban, adopted unanimously in late June, forbids the town from considering new datacenters larger than 20 megawatts until July of 2029, while officials study their potential impacts on water resources and local ecosystems. The development company at the center of the controversy has appealed the measure.
+
+“I just think that we’re at this moment where things are happening very quickly, we need to get our ducks in a row and think about the various ways in which datacenters and new energy usage will affect our long-term community cohesiveness, environmental quality, and character,” said East Fishkill resident and professor Tanya Radford.
+
+The fight unfolding in East Fishkill is a single piece of a growing divide . Both rural towns and communities that once eagerly welcomed hi-tech development are increasingly questioning whether AI infrastructure adds enough local benefit to justify its enormous appetite for electricity, water and land.
+
+“This is not an anti-tech town,” said Radford. “I’m an educator. I use technology.”
+
+The saga began after Treetop Development purchased property in East Fishkill, initially pursuing approvals for a warehouse development. Residents later discovered that the company, through local property owner Donovan Drive Holdings, had entered the queue to have a project approved that would use approximately 1,000 megawatts of electrical service, an amount more consistent with a large-scale AI datacenter than a warehouse.
+
+This request for approval was not submitted to the town of East Fishkill. Rather, it was submitted to New York Independent System Operator (NYISO)’s interconnection queue. NYISO is an independent organization responsible for managing New York’s high-voltage power grid, meaning whenever a company wants to build a big new project, it must formally ask NYISO for permission to connect to the grid.
+
+For those that call East Fishkill home, the NYISO filing quickly raised concerns.
+
+The proposed datacenter would consume more electricity than the entire city of Buffalo, which has about 275,000 people. East Fishkill is home to just 30,000.
+
+New York’s governor, Kathy Hochul, with the US members of Congress Alexandria-Ocasio Cortez and Pat Ryan in East Fishkill this week. Photograph: Susan Watts/Office of Governor Kathy Hochul
+
+“Residents have been speaking out against it to stop any application from coming into the town for the datacenter,” said Melissa Hoffmann, an East Fishkill resident and organizer with a local chapter of Food & Water Watch, an environmental advocacy non-profit.
+
+But because no formal application had been filed with East Fishkill, town officials repeatedly stressed that there was nothing before the planning board to review or reject.
+
+“There is no application before the Town. There has never been an application for a datacenter,” the East Fishkill supervisor Nick D’Alessandro wrote on Facebook in June. D’Alessandro later took down the post. His office did not respond to the Guardian’s request for comment.
+
+He stressed that standalone datacenters were “not even listed as a permissible use” under the town’s zoning laws. Nonetheless, in June the board banned their construction for three years “to give our community certainty and allow time for further study and discussion”.
+
+Hoffmann said months of public pressure ultimately convinced the town board to extend what had initially been discussed as a seven-month pause into a three-year moratorium.
+
+East Fishkill has often been described as an “ innovation hub ”, making opposition to the datacenter proposal remarkable precisely because the town has not been hostile towards new technology.
+
+International Business Machines Corporation, better known as IBM, transformed the town during the latter half of the 20th century into one of the nation’s leading semiconductor manufacturing centers, employing thousands of workers and laying the foundation for what is now iPark 84, home to mixed-use commercial and residential facilities.
+
+Former IBM facilities remain a defining part of the local economy, and iPark continues to house technology companies. One tenant is currently seeking to expand an existing datacenter by approximately 150 megawatts, far smaller than the facility proposed by Treetop.
+
+Residents have insisted that their opposition is not meant to hinder forward-looking tech, but is directed at the unprecedented scale of emerging AI infrastructure.
+
+“The pushback is really to the size,” resident Fran Caracappa, a candidate for county legislature, said. “The Treetop center would be 1,000 megawatts. People do not want to pay higher electricity rates because of a larger datacenter coming in and putting pressure on the grid.”
+
+Residents have also questioned whether the supposed economic benefits justify the costs.
+
+Hoffmann worried that the datacenter would “provide very few jobs”. Caracappa similarly expressed doubt that temporary construction jobs would lead to lasting employment for locals.
+
+“It’s not going to provide work to keep people here like the previous tech businesses did,” Caracappa said. “So what’s the benefit to the town?”
+
+The town’s skepticism toward a huge industrial project is also informed by the consequences of its past.
+
+IBM’s manufacturing operations helped establish the region’s tech-industrial identity, but groundwater contamination associated with semiconductor production left lasting scars . Several polluted Superfund sites remain in the area .
+
+In addition to groundwater protection, residents have raised concerns about noise, diesel backup generators, property values, wetlands and the area’s rural character.
+
+People call on Governor Kathy Hochul to sign the Data Center Act in East Fishkill in June. Photograph: Eric Weltman/Food & Water Watch
+
+Radford, whose home sits near the Appalachian trail, said that the serene, woodsy landscape that currently surrounds the proposed site is one of the reasons she moved there.
+
+“My neighbors and I agree that additional development in the area could only negatively impact the quality of life here,” she said.
+
+Barely two weeks after the East Fishkill moratorium passed, New York became the first US state to enact a moratorium on new datacenters when Governor Kathy Hochul signed an executive order mandating a one-year statewide pause on so-called hyperscale datacenters.
+
+Donald Trump, an ally to tech billionaires and AI investors, responded with rage. He called the move “a terrible decision” on his Truth Social platform and accused Hochul of implementing the ban for purely political reasons.
+
+“One of the biggest Driving Forces in the Future for Jobs, are Data Centers. They are big, strong, bold, and Money Machines for the State in which they are built,” Trump wrote. Later in the summer, he called towns rejecting datacenters “backwards and poor”.
+
+Like Trump, Treetop did not take kindly to East Fishkill’s three-year ban. In a 17-page objection letter submitted to the town board and reviewed by the Guardian, attorneys for the company argued the three-year moratorium unlawfully targets the company’s property and effectively amounts to a permanent prohibition rather than a “legitimate temporary planning measure”.
+
+In the letter, the company said it spent years and significant resources advancing development plans for the site, including environmental reviews, wetlands investigations, traffic studies and utility coordination.
+
+Town officials have maintained that no datacenter application has ever been submitted and that the moratorium provides time to evaluate whether existing zoning properly addresses an entirely new class of industrial development.
+
+East Fishkill residents are claiming victory.
+
+“People are winning,” Hoffmann said. “Communities that fight these datacenters are winning.”24:["$","section",null,{"className":"article-actions","children":[["$","$L35",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/584029935840299355be6bc3","title":"‘This is not an anti-tech town’: backlash to datacenter in city once home to IBM","locale":"ja","take":null}],["$","$L36",null,{"title":"‘This is not an anti-tech town’: backlash to datacenter in city once home to IBM","excerpt":"$37","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/584029935840299355be6bc3","locale":"ja"}],"$L38"]}]
+25:["$","$L39",null,{"placement":"article","className":"mt-8"}]
+26:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+27:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-health:https://bbc.co.uk/news/videos/ck98zyyer83mo",{"children":["$","$L2",null,{"href":"/ja/n/c32ea910c32ea9103e27f9ba","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Yes, hang-xiety is a real thing"}]]}]}],["$","li","cbc-world:https://cbc.ca/news/world/us-deportation-soliman-equatorial-guinea-9.7375381?cmp=rss",{"children":["$","$L2",null,{"href":"/ja/n/a30ef1f7a30ef1f7e26d165f","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"CBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Judge orders U.S. government to return Arizona man deported to Equatorial Guinea"}]]}]}],["$","li","dw:https://dw.com/en/us-imposes-sanctions-aiming-to-dismantle-international-criminal-court/a-79618577?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/88337bf888337bf8cb1cdb30","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"US imposes sanctions aiming to 'dismantle' International Criminal Court"}]]}]}]]}]]}]
+28:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+29:["$","$L3a",null,{"children":["$","$3b",null,{"name":"Next.MetadataOutlet","children":"$@3c"}]}]
+2c:["$","$1","h",{"children":[null,["$","$L3d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3e",null,{"children":["$","$3b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"‘This is not an anti-tech town’: backlash to datacenter in city once home to IBM"}],["$","meta","1",{"name":"description","content":"For decades, East Fishkill helped build New York’s tech industry."}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"‘This is not an anti-tech town’: backlash to datacenter in city once home to IBM"}],["$","meta","4",{"property":"og:description","content":"For decades, East Fishkill helped build New York’s tech industry."}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/584029935840299355be6bc3/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2Fb5feed698def6ab736780b864f672abf0d08e952%2F248_294_1549_1239%2Fmaster%2F1549.jpg%3Fwidth%3D140%26quality%3D85%26auto%3Dformat%26fit%3Dmax%26s%3D1516ee985afb803b2a884738100b0b00&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"‘This is not an anti-tech town’: backlash to datacenter in city once home to IBM"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"‘This is not an anti-tech town’: backlash to datacenter in city once home to IBM"}],["$","meta","13",{"name":"twitter:description","content":"For decades, East Fishkill helped build New York’s tech industry."}],["$","meta","14",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2Fb5feed698def6ab736780b864f672abf0d08e952%2F248_294_1549_1239%2Fmaster%2F1549.jpg%3Fwidth%3D140%26quality%3D85%26auto%3Dformat%26fit%3Dmax%26s%3D1516ee985afb803b2a884738100b0b00&w=1200&h=630&fit=cover&output=jpg"}],["$","link","15",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L3f","17",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+2e:["$","$1","c",{"children":[null,["$","$L40",null,{"parallelRouterKey":"children","template":["$","$L41",null,{}]}]]}]
+31:["$","$1","c",{"children":[null,["$","$L40",null,{"parallelRouterKey":"children","template":["$","$L41",null,{}]}]]}]
+34:true
+38:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E2%80%98This+is+not+an+anti-tech+town%E2%80%99%3A+backlash+to+dat&mode=phrase&url=theguardian.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+3c:null
+2b:300
+2b:C
+33:0
+2d:"$undefined"
+2f:"$undefined"
+32:"$undefined"
+2a:"$undefined"

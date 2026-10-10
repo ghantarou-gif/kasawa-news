@@ -1,0 +1,189 @@
+1:"$Sreact.fragment"
+2:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+4:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"LoadingBoundaryProvider"]
+7:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+f:I[68027,[],"default",1]
+:HL["/kasawa-news/_next/static/chunks/05wjkgi4s2ouj.css","style"]
+:HL["/kasawa-news/_next/static/chunks/2nwnc2kxkcwwn.css","style"]
+:HL["/kasawa-news/_next/static/media/ad9c66e761fed85a-s.p.0fhiaplbf_4wa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+a:X
+0:{"P":null,"c":["","ja","n","1429d6fc1429d6fcc8ec6924",""],"q":"","i":false,"f":[[["",{"children":[["locale","ja","d",["go"]],{"children":["n",{"children":[["id","1429d6fc1429d6fcc8ec6924","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4612]},"$undefined","$undefined",4632],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/05wjkgi4s2ouj.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/2nwnc2kxkcwwn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ja","suppressHydrationWarning":true,"className":"noto_sans_jp_ce83c864-module__rNYPaW__variable h-full antialiased","children":[["$","head",null,{"children":["$","script",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9222859203841922","crossOrigin":"anonymous"}]}],["$","body",null,{"className":"site-body min-h-full bg-paper text-ink","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":[["$","$L4",null,{"loading":[["$","div","l",{"className":"py-16","children":[["$","div",null,{"className":"h-3 w-24 bg-ink/10"}],["$","div",null,{"className":"mt-4 h-16 w-4/5 bg-ink/10"}],["$","div",null,{"className":"mt-6 h-4 w-full bg-ink/10"}],["$","div",null,{"className":"mt-2 h-4 w-2/3 bg-ink/10"}],["$","div",null,{"className":"mt-12 space-y-6","children":[["$","div",null,{"className":"h-10 bg-ink/10"}],["$","div",null,{"className":"h-10 bg-ink/10"}],["$","div",null,{"className":"h-10 w-5/6 bg-ink/10"}]]}]]}],[],null],"children":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","async":true,"nonce":"$undefined"}]],"$L5"]}]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$a"]},null,false,"$a"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/05wjkgi4s2ouj.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/2nwnc2kxkcwwn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"lHj7I3KPIAqT3z8d_3G7v"}
+10:I[50155,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js"],"HtmlLang"]
+11:I[22016,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+12:I[86168,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js"],"LanguageSwitch"]
+a:C
+5:["$","div",null,{"className":"flex min-h-full flex-col","children":[["$","$L10",null,{"locale":"ja"}],["$","header",null,{"className":"desk-hero","children":["$","div",null,{"className":"site-shell mx-auto flex w-full max-w-6xl flex-col gap-4 px-4 py-6 sm:px-6 sm:py-7","children":[["$","div",null,{"className":"flex min-w-0 items-start gap-3","children":[["$","span",null,{"className":"brand-mark mt-1 shrink-0","aria-hidden":true,"children":"NC"}],["$","div",null,{"className":"min-w-0","children":[["$","p",null,{"className":"text-[10px] font-bold tracking-[0.2em] text-muted uppercase sm:text-[11px] sm:tracking-[0.24em]","children":"NYANCHU NEWS"}],["$","$L11",null,{"href":"/ja","className":"font-display mt-1 block text-[clamp(1.65rem,8vw,3.2rem)] leading-[1.05] tracking-[-0.03em] hover:opacity-90","children":[["$","span",null,{"className":"text-accent","children":"BREAKING"}]," ",["$","span",null,{"className":"text-ink","children":"NyanChu"}]]}],["$","p",null,{"className":"mt-1 font-sans text-[11px] tracking-[0.14em] text-muted sm:text-[12px] sm:tracking-[0.16em]","children":"ニャンチュ"}]]}]]}],["$","nav",null,{"className":"header-nav","aria-label":"サイト","children":[["$","$L12",null,{"locale":"ja"}],["$","a",null,{"href":"/search.html","target":"_blank","rel":"noopener noreferrer","className":"header-nav-link","children":"NyanChu検索する"}],["$","$L11",null,{"href":"/ja/election","className":"header-nav-link","children":"選挙"}],["$","$L11",null,{"href":"/ja/travel","className":"header-nav-link","children":"旅ガイド"}],["$","a",null,{"href":"/kasawa-news/phrasebook.html","className":"header-nav-link","children":"旅の日本語"}],["$","$L11",null,{"href":"/ja/book","className":"header-nav-link","children":"本"}],["$","$L11",null,{"href":"/ja/members/x","className":"header-nav-link","children":"会員"}]]}],["$","p",null,{"className":"max-w-2xl text-[13px] leading-6 text-muted sm:text-[14px]","children":["日付ごとに保存。最新は先頭。ジャンルチップから各日のフィードへ。"," ","2026-10-10 21:49"," ","更新"]}]]}]}],["$","div",null,{"className":"site-shell mx-auto w-full max-w-6xl flex-1 px-4 sm:px-6","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"py-24 text-center","children":[["$","p",null,{"className":"font-display text-5xl tracking-[-0.04em]","children":"404"}],["$","p",null,{"className":"mt-4 text-muted","children":"Page not found. / ページが見つかりません。"}],["$","$L11",null,{"href":"/ja","className":"mt-8 inline-block font-sans text-[12px] tracking-[0.18em] uppercase text-accent","children":"NyanChu"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","div",null,{"className":"site-shell mx-auto w-full max-w-6xl px-4 sm:px-6","children":["$","footer",null,{"className":"mt-16 border-t border-line pt-8 pb-12 text-[13px] leading-6 text-muted","children":[["$","div",null,{"className":"flex flex-wrap items-start justify-between gap-6","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-lg tracking-wide text-ink","children":"NyanChu"}],["$","p",null,{"className":"mt-2 max-w-xl","children":"見出しから、記事の本文へ。"}]]}],["$","nav",null,{"className":"flex flex-wrap gap-x-5 gap-y-2 font-sans text-[12px] tracking-[0.14em] uppercase","children":[["$","$L11",null,{"href":"/ja","className":"hover:text-accent","children":"トップ"}],["$","$L11",null,{"href":"/ja/travel","className":"hover:text-accent","children":"旅ガイド"}],["$","a",null,{"href":"/kasawa-news/phrasebook.html","className":"hover:text-accent","children":"旅の日本語"}],["$","$L11",null,{"href":"/ja/book","className":"hover:text-accent","children":"本"}],["$","$L11",null,{"href":"/ja/members/x","className":"hover:text-accent","children":"会員"}],["$","a",null,{"href":"/search.html","target":"_blank","rel":"noopener noreferrer","className":"hover:text-accent","children":"NyanChu検索する"}]]}]]}],["$","p",null,{"className":"mt-6 max-w-3xl","children":"配信に含まれる本文を記事ページに出しています。見出しだけの配信は、発行元ページの要点を表示します。有料記事は入れていません。著作権は各社にあります。"}],["$","p",null,{"className":"mt-4","children":["配信元",": ","BBC日本語 · BBC · NPR · The Guardian · Al Jazeera · Deutsche Welle · France 24 · ABC Australia · CBC · CNA · Euronews · UN News · ITmedia · Gigazine · CNET Japan · マイナビニュース · Yahoo!ニュース · ライブドアニュース · NHKニュース"]}],["$","p",null,{"className":"mt-1","children":["30分ごとに取り込み",["$","span",null,{"className":"mx-2 text-ink/30","children":"/"}],"表は24時間以内"]}]]}]}]]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]
+38:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+6:["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L11",null,{"href":"/ja/d/2026-10-09","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Gigazine"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"2026年10月9日のヘッドラインニュース"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"とんかつ専門店「松のや」が、2026年10月14日(水)15時から新メニュー「ジンギスカン定食」を発売すると発表しました。価格は税込1190円で、一部店舗を除く全国の松のやで販売されます。"}],["$","p","1",{"children":"とんかつ業態のこだわりが光る、羊肉と野菜のスタミナ飯！「ジンギスカン定食」新発売｜松のや｜松屋フーズ"}],["$","p","2",{"children":"「ジンギスカン定食」には厳選されたオーストラリア産の羊肉を使用。とんかつ専門店ならではの油調によって、羊肉特有の風味を生かしつつ、やわらかくジューシーな食感に仕上げているとのこと。醤油ベースの特製ダレが肉や野菜に絡み、ごはんが進む濃厚な味わいを楽しめます。"}],["$","p","3",{"children":"また、ジンギスカンは税込990円で単品注文も可能。テイクアウトにも対応していますが、持ち帰りの場合はみそ汁が別料金となります。なお、松屋・松のや併設店舗は販売対象外です。"}],["$","p","4",{"children":"ちなみに、過去の同月同日にはこんな記事を掲載していました。"}],["$","p","5",{"children":"人気シューティングゲーム「VALORANT」のサーバー側処理時間を50ミリ秒から2ミリ秒未満へ短縮した方法とは？ - GIGAZINE"}],["$","p","6",{"children":"「魔女」が世界中に存在するのはなぜなのか？ - GIGAZINE"}],["$","p","7",{"children":"攻撃ヘリコプターは死んだのか？ - GIGAZINE"}],["$","p","8",{"children":"「交際相手と出会う前にすれ違った回数」をGoogleマップの位置情報履歴から求めた結果とは？ - GIGAZINE"}],["$","p","9",{"children":"「飛行機のシートベルト」が普及するまでの歴史とは？ - GIGAZINE"}],["$","p","10",{"children":"古代エジプト人、王の死に際し召使いを生け贄に 法医学的調査で判明 - CNN.co.jp"}],["$","p","11",{"children":"簗氏発言、何が問題？片山元知事に聞く かつて政治家から「脅し」も [高市早苗首相 自民党総裁][簗和生農林水産大臣]：朝日新聞"}],["$","p","12",{"children":"【恫喝発言問題】「何が問題あんの？ ちゃんと言ってみな」 簗農水大臣が記者の直撃に言い放った一言 | デイリー新潮"}],["$","p","13",{"children":"内閣広報予算10倍要求はなぜ？ 高市首相の説明は… 参院代表質問 [高市早苗首相][高市早苗首相 自民党総裁][立憲民主党]：朝日新聞"}],["$","p","14",{"children":"F35にE3も、イランとの戦争で米軍機81機が破壊や損傷 被害額は最大5220億円 議会報告書 - CNN.co.jp"}],["$","p","15",{"children":"【分析】トランプ氏のらしくない「安物」スーツ、ちぐはぐな装いに浮上する疑問(1/2) - CNN.co.jp"}],["$","p","16",{"children":"フランス高校生デモはなぜ起きた？前例なき警察の弾圧と将来への不安：朝日新聞"}],["$","p","17",{"children":"フランスに広がる大規模学生デモ、政府が強硬対応を転換(1/2) - CNN.co.jp"}],["$","p","18",{"children":"死刑執行を生き延びた米死刑囚、意識回復後の言葉は「ここはどこ、あなたは誰？」 弁護士 - CNN.co.jp"}],["$","p","19",{"children":"味の素のギョーザ標準30個入りを購入したが、29個しか入っていなかったとXで投稿…標準30個で重さにより30〜32個と表記されている中、仕様なのか？不良品なのか？話題に - Togetter"}],["$","p","20",{"children":"10月の値上げで終わったマシンがある。箱型おやつ販売機。中身はポッキー。6月は98円、9月は99円で仕入れる事ができた。が、ついにコスモスもダイレックスも100円超え。これ今年2月に導入し延べ300箱を売り上げた。利益450円、マシン代10万、時間と電気はプライスレス。潔く終わる。誰か買いませんか？ pic.twitter.com/XeOvNnySVm"}],["$","p","21",{"children":"「当日の欠席は半額のキャンセル料がかかる」という規約を2年前から「当日の欠席は半額を返金」に変更したらありがたられるようになった。"}],["$","p","22",{"children":"税込み後に半額返金するのも税抜き後に半額返金するのも同じ金額です。"}],["$","p","23",{"children":"ザイテングラートにて、滑落死亡事故がありました。"}],["$","p","24",{"children":"写真上部に登山道があり、この距離を滑落したものと思われます。"}],["$","p","25",{"children":"ヘルメットは所持していたものの、被らずにザックに付けていました。負傷部位が頭部に集中していたため、被っていれば一命をとりとめていたかもしれないと思うと残念でなりません。 pic.twitter.com/GEQdzkd8mo"}],["$","p","26",{"children":"ノンフライヤーって何？って思ってる人へ…このくらいの適当さで20分で塩豚が出来ます「オーブンとかトースターの親戚と思ったほうが良い」 - Togetter"}],["$","p","27",{"children":"メールアドレス等の個人情報が漏えいした可能性があることが判明いたしました。"}],["$","p","28",{"children":"詳細な原因の特定および影響範囲の調査を進めていますが、対象である東日本リージョン1の一部（teslaゾーン／henryゾーン／pascalゾーン／jouleゾーン）に保管されているお客さまデータについては、取り出しや復元が困難な見通しです。現時点での当社の見解では、データの復元はお客さま自身が保持しているバックアップデータからのみ可能となります。"}],["$","p","29",{"children":"音声対話のための音声合成・音声認識エンジン、speech.cppを作ってみた話 - 逆瀬川ちゃんのブログ"}],["$","p","30",{"children":"【西川和久の不定期コラム】一見フツーのミニPC、中身は最新Panther Lake！「GEEKOM IT13」でローカルLLMまで動かしてみた - PC Watch"}],["$","p","31",{"children":"RubyGems/Bundler 4.1 で追加される override と prune の紹介 - ANDPAD Tech Blog"}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31"],"$L32"]}],"$L33","$L34","$L35",null,"$L36","$L37"]}]
+9:null
+e:[["$","title","0",{"children":"2026年10月9日のヘッドラインニュース"}],["$","meta","1",{"name":"description","content":"とんかつ専門店「松のや」が、2026年10月14日(水)15時から新メニュー「ジンギスカン定食」を発売すると発表しました。価格は税込1190円で、一部店舗を除く全国の松のやで販売されます。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"2026年10月9日のヘッドラインニュース"}],["$","meta","4",{"property":"og:description","content":"とんかつ専門店「松のや」が、2026年10月14日(水)15時から新メニュー「ジンギスカン定食」を発売すると発表しました。価格は税込1190円で、一部店舗を除く全国の松のやで販売されます。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/1429d6fc1429d6fcc8ec6924/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/opengraph-image"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"2026年10月9日のヘッドラインニュース"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"2026年10月9日のヘッドラインニュース"}],["$","meta","13",{"name":"twitter:description","content":"とんかつ専門店「松のや」が、2026年10月14日(水)15時から新メニュー「ジンギスカン定食」を発売すると発表しました。価格は税込1190円で、一部店舗を除く全国の松のやで販売されます。"}],["$","meta","14",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/opengraph-image"}],["$","link","15",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L38","17",{}]]
+39:I[36936,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+3a:I[98337,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+3d:I[9441,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+13:["$","p","32",{"children":"【妹に運転を教える】将来のためにAI妹に運転を教えてあげますわ～～～!!!【東北イタコバンパーベコベコ部】 - ニコニコ動画"}]
+14:["$","p","33",{"children":"お姉ちゃん！オークの軍団だよ！～オークに負けるたび大変なことになる琴葉姉妹～【VOICEROID実況】 - ニコニコ動画"}]
+15:["$","p","34",{"children":"#ヤニねこ ヤニの悪魔 pic.twitter.com/IFX88t0YqR"}]
+16:["$","p","35",{"children":"アイマス無印は、ＴＶ出演で、２分間の歌唱ステージがご褒美で見られるんだけど、これのダンスと音楽が微妙にずれる。「気のせいじゃない？」と言われもしたが、明確にズレを感じていたので、どこかに原因があると調べまくった"}]
+17:["$","p","36",{"children":"Xbox360はTVに出力するときに29.97fpsで出力していることに気づく。ダンスは30fpsで作られていて、アイマスの楽曲は約２分（＝120秒）なので"}]
+18:["$","p","37",{"children":"・実機 29.97×120＝3596フレーム"}]
+19:["$","p","38",{"children":"と、４フレームあふれていることがわかった。その分ダンスが遅れている"}]
+1a:["$","p","39",{"children":"学園アイドルマスター 水分補給する広ちゃん pic.twitter.com/IUq7O0vqaU"}]
+1b:["$","p","40",{"children":"TVアニメ『弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった』キャラクターPV第5弾 ヘンリー・コックス（CV #石谷春貴 ）｜2026年10月4日（日）より好評放送・配信中！ - YouTube"}]
+1c:["$","p","41",{"children":"TVアニメ「ホタルの嫁入り」キャラクターPV | 後藤進平（CV. #内山昂輝） - YouTube"}]
+1d:["$","p","42",{"children":"TVアニメ「世界最強の魔女、始めました」ノンクレジットOPムービー｜HoneyWorks feat.ハコニワリリィ「影響力∞アイドル」 - YouTube"}]
+1e:["$","p","43",{"children":"TVアニメ『探偵はもう、死んでいる。Season2』ノンクレジットオープニング／心梅「この心臓に花束を」 - YouTube"}]
+1f:["$","p","44",{"children":"TVアニメ「転生したら剣でしたII」ノンクレジットED │ 花冷え。「バリバリBuddy」 - YouTube"}]
+20:["$","p","45",{"children":"『最終楽章 響け！ユーフォニアム』前編【2026/10/11(日)22時プレミア配信】 - YouTube"}]
+21:["$","p","46",{"children":"【TVアニメ『涼宮ハルヒの憂鬱』ノンクレジットOP】「Super Driver」｜TVアニメ20周年記念 参加型企画 #ハルヒ歌ってみた #ハルヒ弾いてみた #ハルヒ踊ってみた 開催中！ - YouTube"}]
+22:["$","p","47",{"children":"TVアニメ『涼宮ハルヒの憂鬱』ノンクレジットED】「止マレ！」｜TVアニメ20周年記念 参加型企画 #ハルヒ歌ってみた #ハルヒ弾いてみた #ハルヒ踊ってみた 開催中！ - YouTube"}]
+23:["$","p","48",{"children":"TVアニメ「骨ドラゴンのマナ娘」メインPV第1弾｜2027年放送決定！ - YouTube"}]
+24:["$","p","49",{"children":"TVアニメ「ホタルの嫁入り」キャラクターPV | 桐ヶ谷紗都子（CV. #Lynn） - YouTube"}]
+25:["$","p","50",{"children":"『ゴジラ-0.0』ファイナル予告 - YouTube"}]
+26:["$","p","51",{"children":"『ガールズ＆パンツァーもっとらぶらぶ作戦です！』ノンクレジットOP映像｜ChouCho×佐咲紗花『Nonstop Daydream』 - YouTube"}]
+27:["$","p","52",{"children":"『ガールズ＆パンツァーもっとらぶらぶ作戦です！』ノンクレジットED映像｜西住みほ（CV.渕上舞）『おやすみなさいの続きです！』 - YouTube"}]
+28:["$","p","53",{"children":"【てつりょー！】TVアニメ「てつりょー！meet with 鉄道むすめ」ノンクレジットオープニング映像｜GO! GO! RAILWAY!! - YouTube"}]
+29:["$","p","54",{"children":"TVアニメ『気になってる人が男じゃなかった』第1弾PV | 2027.01.08 ON AIR - YouTube"}]
+2a:["$","p","55",{"children":"王子とメイツの転がしまくりトレーラー！ - YouTube"}]
+2b:["$","p","56",{"children":"ツーポイントミュージアム：ユーエンチアム発売！ - YouTube"}]
+2c:["$","p","57",{"children":"バカみたいにわかる!『ステューピッド・ネバー・ダイズ』 | DEEP BITE #4 - アート編 - YouTube"}]
+2d:["$","p","58",{"children":"身だしなみのアニメが流行ったらオタクも影響されるのでは？『服を着るならこんなふうに』『ふろラン』などの作品もあるが「その理論は無意味」説も… - Togetter"}]
+2e:["$","p","59",{"children":"#関西コミティア77 ではゴミ箱の設置がありません。各自でお持ち帰りください。"}]
+2f:["$","p","60",{"children":"ビールの売り子さんに対する「推し活」が加熱しすぎ？横浜スタジアムでビールを買っては捨てる行為や大量放置が目撃される→球団に問い合わせた人も - Togetter"}]
+30:["$","p","61",{"children":"This week marked my 26th visit to Japan. This place is so special to me and each time I visit, I am continually inspired by the incredible creativity and energy. To the fans, the city of Tokyo, and to all of Japan, thank you for always welcoming me. It has been a dream come true… pic.twitter.com/Auzskto84l"}]
+31:["$","p","62",{"children":"You can read the machine translated English article Headline news for October 9, 2026… ."}]
+32:["$","p",null,{"className":"article-credit","children":"本文の著作権はGigazineにあります。"}]
+33:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://gigazine.net/news/20261009-headline/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はGigazineで読む"}]}]
+3b:T2770,とんかつ専門店「松のや」が、2026年10月14日(水)15時から新メニュー「ジンギスカン定食」を発売すると発表しました。価格は税込1190円で、一部店舗を除く全国の松のやで販売されます。
+
+とんかつ業態のこだわりが光る、羊肉と野菜のスタミナ飯！「ジンギスカン定食」新発売｜松のや｜松屋フーズ
+
+「ジンギスカン定食」には厳選されたオーストラリア産の羊肉を使用。とんかつ専門店ならではの油調によって、羊肉特有の風味を生かしつつ、やわらかくジューシーな食感に仕上げているとのこと。醤油ベースの特製ダレが肉や野菜に絡み、ごはんが進む濃厚な味わいを楽しめます。
+
+また、ジンギスカンは税込990円で単品注文も可能。テイクアウトにも対応していますが、持ち帰りの場合はみそ汁が別料金となります。なお、松屋・松のや併設店舗は販売対象外です。
+
+ちなみに、過去の同月同日にはこんな記事を掲載していました。
+
+人気シューティングゲーム「VALORANT」のサーバー側処理時間を50ミリ秒から2ミリ秒未満へ短縮した方法とは？ - GIGAZINE
+
+「魔女」が世界中に存在するのはなぜなのか？ - GIGAZINE
+
+攻撃ヘリコプターは死んだのか？ - GIGAZINE
+
+「交際相手と出会う前にすれ違った回数」をGoogleマップの位置情報履歴から求めた結果とは？ - GIGAZINE
+
+「飛行機のシートベルト」が普及するまでの歴史とは？ - GIGAZINE
+
+古代エジプト人、王の死に際し召使いを生け贄に 法医学的調査で判明 - CNN.co.jp
+
+簗氏発言、何が問題？片山元知事に聞く かつて政治家から「脅し」も [高市早苗首相 自民党総裁][簗和生農林水産大臣]：朝日新聞
+
+【恫喝発言問題】「何が問題あんの？ ちゃんと言ってみな」 簗農水大臣が記者の直撃に言い放った一言 | デイリー新潮
+
+内閣広報予算10倍要求はなぜ？ 高市首相の説明は… 参院代表質問 [高市早苗首相][高市早苗首相 自民党総裁][立憲民主党]：朝日新聞
+
+F35にE3も、イランとの戦争で米軍機81機が破壊や損傷 被害額は最大5220億円 議会報告書 - CNN.co.jp
+
+【分析】トランプ氏のらしくない「安物」スーツ、ちぐはぐな装いに浮上する疑問(1/2) - CNN.co.jp
+
+フランス高校生デモはなぜ起きた？前例なき警察の弾圧と将来への不安：朝日新聞
+
+フランスに広がる大規模学生デモ、政府が強硬対応を転換(1/2) - CNN.co.jp
+
+死刑執行を生き延びた米死刑囚、意識回復後の言葉は「ここはどこ、あなたは誰？」 弁護士 - CNN.co.jp
+
+味の素のギョーザ標準30個入りを購入したが、29個しか入っていなかったとXで投稿…標準30個で重さにより30〜32個と表記されている中、仕様なのか？不良品なのか？話題に - Togetter
+
+10月の値上げで終わったマシンがある。箱型おやつ販売機。中身はポッキー。6月は98円、9月は99円で仕入れる事ができた。が、ついにコスモスもダイレックスも100円超え。これ今年2月に導入し延べ300箱を売り上げた。利益450円、マシン代10万、時間と電気はプライスレス。潔く終わる。誰か買いませんか？ pic.twitter.com/XeOvNnySVm
+
+「当日の欠席は半額のキャンセル料がかかる」という規約を2年前から「当日の欠席は半額を返金」に変更したらありがたられるようになった。
+
+税込み後に半額返金するのも税抜き後に半額返金するのも同じ金額です。
+
+ザイテングラートにて、滑落死亡事故がありました。
+
+写真上部に登山道があり、この距離を滑落したものと思われます。
+
+ヘルメットは所持していたものの、被らずにザックに付けていました。負傷部位が頭部に集中していたため、被っていれば一命をとりとめていたかもしれないと思うと残念でなりません。 pic.twitter.com/GEQdzkd8mo
+
+ノンフライヤーって何？って思ってる人へ…このくらいの適当さで20分で塩豚が出来ます「オーブンとかトースターの親戚と思ったほうが良い」 - Togetter
+
+メールアドレス等の個人情報が漏えいした可能性があることが判明いたしました。
+
+詳細な原因の特定および影響範囲の調査を進めていますが、対象である東日本リージョン1の一部（teslaゾーン／henryゾーン／pascalゾーン／jouleゾーン）に保管されているお客さまデータについては、取り出しや復元が困難な見通しです。現時点での当社の見解では、データの復元はお客さま自身が保持しているバックアップデータからのみ可能となります。
+
+音声対話のための音声合成・音声認識エンジン、speech.cppを作ってみた話 - 逆瀬川ちゃんのブログ
+
+【西川和久の不定期コラム】一見フツーのミニPC、中身は最新Panther Lake！「GEEKOM IT13」でローカルLLMまで動かしてみた - PC Watch
+
+RubyGems/Bundler 4.1 で追加される override と prune の紹介 - ANDPAD Tech Blog
+
+【妹に運転を教える】将来のためにAI妹に運転を教えてあげますわ～～～!!!【東北イタコバンパーベコベコ部】 - ニコニコ動画
+
+お姉ちゃん！オークの軍団だよ！～オークに負けるたび大変なことになる琴葉姉妹～【VOICEROID実況】 - ニコニコ動画
+
+#ヤニねこ ヤニの悪魔 pic.twitter.com/IFX88t0YqR
+
+アイマス無印は、ＴＶ出演で、２分間の歌唱ステージがご褒美で見られるんだけど、これのダンスと音楽が微妙にずれる。「気のせいじゃない？」と言われもしたが、明確にズレを感じていたので、どこかに原因があると調べまくった
+
+Xbox360はTVに出力するときに29.97fpsで出力していることに気づく。ダンスは30fpsで作られていて、アイマスの楽曲は約２分（＝120秒）なので
+
+・実機 29.97×120＝3596フレーム
+
+と、４フレームあふれていることがわかった。その分ダンスが遅れている
+
+学園アイドルマスター 水分補給する広ちゃん pic.twitter.com/IUq7O0vqaU
+
+TVアニメ『弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった』キャラクターPV第5弾 ヘンリー・コックス（CV #石谷春貴 ）｜2026年10月4日（日）より好評放送・配信中！ - YouTube
+
+TVアニメ「ホタルの嫁入り」キャラクターPV | 後藤進平（CV. #内山昂輝） - YouTube
+
+TVアニメ「世界最強の魔女、始めました」ノンクレジットOPムービー｜HoneyWorks feat.ハコニワリリィ「影響力∞アイドル」 - YouTube
+
+TVアニメ『探偵はもう、死んでいる。Season2』ノンクレジットオープニング／心梅「この心臓に花束を」 - YouTube
+
+TVアニメ「転生したら剣でしたII」ノンクレジットED │ 花冷え。「バリバリBuddy」 - YouTube
+
+『最終楽章 響け！ユーフォニアム』前編【2026/10/11(日)22時プレミア配信】 - YouTube
+
+【TVアニメ『涼宮ハルヒの憂鬱』ノンクレジットOP】「Super Driver」｜TVアニメ20周年記念 参加型企画 #ハルヒ歌ってみた #ハルヒ弾いてみた #ハルヒ踊ってみた 開催中！ - YouTube
+
+TVアニメ『涼宮ハルヒの憂鬱』ノンクレジットED】「止マレ！」｜TVアニメ20周年記念 参加型企画 #ハルヒ歌ってみた #ハルヒ弾いてみた #ハルヒ踊ってみた 開催中！ - YouTube
+
+TVアニメ「骨ドラゴンのマナ娘」メインPV第1弾｜2027年放送決定！ - YouTube
+
+TVアニメ「ホタルの嫁入り」キャラクターPV | 桐ヶ谷紗都子（CV. #Lynn） - YouTube
+
+『ゴジラ-0.0』ファイナル予告 - YouTube
+
+『ガールズ＆パンツァーもっとらぶらぶ作戦です！』ノンクレジットOP映像｜ChouCho×佐咲紗花『Nonstop Daydream』 - YouTube
+
+『ガールズ＆パンツァーもっとらぶらぶ作戦です！』ノンクレジットED映像｜西住みほ（CV.渕上舞）『おやすみなさいの続きです！』 - YouTube
+
+【てつりょー！】TVアニメ「てつりょー！meet with 鉄道むすめ」ノンクレジットオープニング映像｜GO! GO! RAILWAY!! - YouTube
+
+TVアニメ『気になってる人が男じゃなかった』第1弾PV | 2027.01.08 ON AIR - YouTube
+
+王子とメイツの転がしまくりトレーラー！ - YouTube
+
+ツーポイントミュージアム：ユーエンチアム発売！ - YouTube
+
+バカみたいにわかる!『ステューピッド・ネバー・ダイズ』 | DEEP BITE #4 - アート編 - YouTube
+
+身だしなみのアニメが流行ったらオタクも影響されるのでは？『服を着るならこんなふうに』『ふろラン』などの作品もあるが「その理論は無意味」説も… - Togetter
+
+#関西コミティア77 ではゴミ箱の設置がありません。各自でお持ち帰りください。
+
+ビールの売り子さんに対する「推し活」が加熱しすぎ？横浜スタジアムでビールを買っては捨てる行為や大量放置が目撃される→球団に問い合わせた人も - Togetter
+
+This week marked my 26th visit to Japan. This place is so special to me and each time I visit, I am continually inspired by the incredible creativity and energy. To the fans, the city of Tokyo, and to all of Japan, thank you for always welcoming me. It has been a dream come true… pic.twitter.com/Auzskto84l
+
+You can read the machine translated English article Headline news for October 9, 2026… .34:["$","section",null,{"className":"article-actions","children":[["$","$L39",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/1429d6fc1429d6fcc8ec6924","title":"2026年10月9日のヘッドラインニュース","locale":"ja","take":null}],["$","$L3a",null,{"title":"2026年10月9日のヘッドラインニュース","excerpt":"$3b","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/1429d6fc1429d6fcc8ec6924","locale":"ja"}],"$L3c"]}]
+35:["$","$L3d",null,{"placement":"article","className":"mt-8"}]
+36:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L11",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+37:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-health:https://bbc.co.uk/news/videos/ck98zyyer83mo",{"children":["$","$L11",null,{"href":"/ja/n/c32ea910c32ea9103e27f9ba","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Yes, hang-xiety is a real thing"}]]}]}],["$","li","cbc-world:https://cbc.ca/news/world/us-deportation-soliman-equatorial-guinea-9.7375381?cmp=rss",{"children":["$","$L11",null,{"href":"/ja/n/a30ef1f7a30ef1f7e26d165f","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"CBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Judge orders U.S. government to return Arizona man deported to Equatorial Guinea"}]]}]}],["$","li","dw:https://dw.com/en/us-imposes-sanctions-aiming-to-dismantle-international-criminal-court/a-79618577?maca=en-rss-en-all-1573-rdf",{"children":["$","$L11",null,{"href":"/ja/n/88337bf888337bf8cb1cdb30","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"US imposes sanctions aiming to 'dismantle' International Criminal Court"}]]}]}]]}]]}]
+3c:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=2026%E5%B9%B410%E6%9C%889%E6%97%A5%E3%81%AE%E3%83%98%E3%83%83%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&mode=phrase&url=gigazine.net&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]

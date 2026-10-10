@@ -1,0 +1,127 @@
+1:"$Sreact.fragment"
+2:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+4:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"LoadingBoundaryProvider"]
+7:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+f:I[68027,[],"default",1]
+:HL["/kasawa-news/_next/static/chunks/05wjkgi4s2ouj.css","style"]
+:HL["/kasawa-news/_next/static/chunks/2nwnc2kxkcwwn.css","style"]
+:HL["/kasawa-news/_next/static/media/ad9c66e761fed85a-s.p.0fhiaplbf_4wa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+a:X
+0:{"P":null,"c":["","ja","n","7f845cb37f845cb38162c8c3",""],"q":"","i":false,"f":[[["",{"children":[["locale","ja","d",["go"]],{"children":["n",{"children":[["id","7f845cb37f845cb38162c8c3","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4612]},"$undefined","$undefined",4632],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/05wjkgi4s2ouj.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/2nwnc2kxkcwwn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ja","suppressHydrationWarning":true,"className":"noto_sans_jp_ce83c864-module__rNYPaW__variable h-full antialiased","children":[["$","head",null,{"children":["$","script",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9222859203841922","crossOrigin":"anonymous"}]}],["$","body",null,{"className":"site-body min-h-full bg-paper text-ink","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":[["$","$L4",null,{"loading":[["$","div","l",{"className":"py-16","children":[["$","div",null,{"className":"h-3 w-24 bg-ink/10"}],["$","div",null,{"className":"mt-4 h-16 w-4/5 bg-ink/10"}],["$","div",null,{"className":"mt-6 h-4 w-full bg-ink/10"}],["$","div",null,{"className":"mt-2 h-4 w-2/3 bg-ink/10"}],["$","div",null,{"className":"mt-12 space-y-6","children":[["$","div",null,{"className":"h-10 bg-ink/10"}],["$","div",null,{"className":"h-10 bg-ink/10"}],["$","div",null,{"className":"h-10 w-5/6 bg-ink/10"}]]}]]}],[],null],"children":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","async":true,"nonce":"$undefined"}]],"$L5"]}]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$a"]},null,false,"$a"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/05wjkgi4s2ouj.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/2nwnc2kxkcwwn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"lHj7I3KPIAqT3z8d_3G7v"}
+10:I[50155,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js"],"HtmlLang"]
+11:I[22016,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+12:I[86168,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js"],"LanguageSwitch"]
+a:C
+5:["$","div",null,{"className":"flex min-h-full flex-col","children":[["$","$L10",null,{"locale":"ja"}],["$","header",null,{"className":"desk-hero","children":["$","div",null,{"className":"site-shell mx-auto flex w-full max-w-6xl flex-col gap-4 px-4 py-6 sm:px-6 sm:py-7","children":[["$","div",null,{"className":"flex min-w-0 items-start gap-3","children":[["$","span",null,{"className":"brand-mark mt-1 shrink-0","aria-hidden":true,"children":"NC"}],["$","div",null,{"className":"min-w-0","children":[["$","p",null,{"className":"text-[10px] font-bold tracking-[0.2em] text-muted uppercase sm:text-[11px] sm:tracking-[0.24em]","children":"NYANCHU NEWS"}],["$","$L11",null,{"href":"/ja","className":"font-display mt-1 block text-[clamp(1.65rem,8vw,3.2rem)] leading-[1.05] tracking-[-0.03em] hover:opacity-90","children":[["$","span",null,{"className":"text-accent","children":"BREAKING"}]," ",["$","span",null,{"className":"text-ink","children":"NyanChu"}]]}],["$","p",null,{"className":"mt-1 font-sans text-[11px] tracking-[0.14em] text-muted sm:text-[12px] sm:tracking-[0.16em]","children":"ニャンチュ"}]]}]]}],["$","nav",null,{"className":"header-nav","aria-label":"サイト","children":[["$","$L12",null,{"locale":"ja"}],["$","a",null,{"href":"/search.html","target":"_blank","rel":"noopener noreferrer","className":"header-nav-link","children":"NyanChu検索する"}],["$","$L11",null,{"href":"/ja/election","className":"header-nav-link","children":"選挙"}],["$","$L11",null,{"href":"/ja/travel","className":"header-nav-link","children":"旅ガイド"}],["$","a",null,{"href":"/kasawa-news/phrasebook.html","className":"header-nav-link","children":"旅の日本語"}],["$","$L11",null,{"href":"/ja/book","className":"header-nav-link","children":"本"}],["$","$L11",null,{"href":"/ja/members/x","className":"header-nav-link","children":"会員"}]]}],["$","p",null,{"className":"max-w-2xl text-[13px] leading-6 text-muted sm:text-[14px]","children":["日付ごとに保存。最新は先頭。ジャンルチップから各日のフィードへ。"," ","2026-10-10 21:48"," ","更新"]}]]}]}],["$","div",null,{"className":"site-shell mx-auto w-full max-w-6xl flex-1 px-4 sm:px-6","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"py-24 text-center","children":[["$","p",null,{"className":"font-display text-5xl tracking-[-0.04em]","children":"404"}],["$","p",null,{"className":"mt-4 text-muted","children":"Page not found. / ページが見つかりません。"}],["$","$L11",null,{"href":"/ja","className":"mt-8 inline-block font-sans text-[12px] tracking-[0.18em] uppercase text-accent","children":"NyanChu"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","div",null,{"className":"site-shell mx-auto w-full max-w-6xl px-4 sm:px-6","children":["$","footer",null,{"className":"mt-16 border-t border-line pt-8 pb-12 text-[13px] leading-6 text-muted","children":[["$","div",null,{"className":"flex flex-wrap items-start justify-between gap-6","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-lg tracking-wide text-ink","children":"NyanChu"}],["$","p",null,{"className":"mt-2 max-w-xl","children":"見出しから、記事の本文へ。"}]]}],["$","nav",null,{"className":"flex flex-wrap gap-x-5 gap-y-2 font-sans text-[12px] tracking-[0.14em] uppercase","children":[["$","$L11",null,{"href":"/ja","className":"hover:text-accent","children":"トップ"}],["$","$L11",null,{"href":"/ja/travel","className":"hover:text-accent","children":"旅ガイド"}],["$","a",null,{"href":"/kasawa-news/phrasebook.html","className":"hover:text-accent","children":"旅の日本語"}],["$","$L11",null,{"href":"/ja/book","className":"hover:text-accent","children":"本"}],["$","$L11",null,{"href":"/ja/members/x","className":"hover:text-accent","children":"会員"}],["$","a",null,{"href":"/search.html","target":"_blank","rel":"noopener noreferrer","className":"hover:text-accent","children":"NyanChu検索する"}]]}]]}],["$","p",null,{"className":"mt-6 max-w-3xl","children":"配信に含まれる本文を記事ページに出しています。見出しだけの配信は、発行元ページの要点を表示します。有料記事は入れていません。著作権は各社にあります。"}],["$","p",null,{"className":"mt-4","children":["配信元",": ","BBC日本語 · BBC · NPR · The Guardian · Al Jazeera · Deutsche Welle · France 24 · ABC Australia · CBC · CNA · Euronews · UN News · ITmedia · Gigazine · CNET Japan · マイナビニュース · Yahoo!ニュース · ライブドアニュース · NHKニュース"]}],["$","p",null,{"className":"mt-1","children":["30分ごとに取り込み",["$","span",null,{"className":"mx-2 text-ink/30","children":"/"}],"表は24時間以内"]}]]}]}]]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]
+25:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d466/live/028c9160-c28d-11f1-81d9-d568e8babc26.jpg","image"]
+6:["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L11",null,{"href":"/ja/d/2026-10-08","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"ハマス襲撃とガザ戦争開始から3年 イスラエルでは追悼、ガザでは攻撃と惨状続く"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"一昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d466/live/028c9160-c28d-11f1-81d9-d568e8babc26.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"イスラエル・テルアヴィヴのディゼンゴフ広場で体を寄せ合う人たち"}],["$","p","1",{"children":"噴水の前で背の高い人が低い人を抱きしめている。低い人は手で目を覆っている。近くに他の人たちもいる"}],["$","p","2",{"children":"パレスチナの武装組織ハマスが主導した集団がイスラエル南部を急襲し、報復としてイスラエルがガザ地区で戦争を始めてから、7日で3年がたった。イスラエルでは追悼行事が行われた。ガザ地区では、1年前の停戦合意のあとも暴力行為が続いており、住民約210万人の生活状況は悲惨なままとなっている。"}],["$","p","3",{"children":"2023年10月7日のハマスによるイスラエル襲撃では、約1200人が殺害され、251人が人質に取られた。"}],["$","p","4",{"children":"それから3年のこの日、その現場などで、失われた人々を家族らが追悼した。378人が殺害された「スーパー・ノヴァ」音楽フェスティバルの会場だった場所では、追悼集会が開かれ、遺族や生存者らが参加した。"}],["$","p","5",{"children":"娘アディさん（当時21）を射殺されたアフヴァ・ヤヴィン・マイゼさんは、3年前に起きたことは「ディストピア的で、想像を絶する」とBBCに話した。"}],["$","p","6",{"children":"「ノヴァ」フェスティバルが開かれた場所。378人が殺害され、44人が人質として連れ去られた"}],["$","p","7",{"children":"写真や説明がつけられた立て看板が多数立っている場所で、人物写真で背中を覆った人が後ろ向きに立っている"}],["$","p","8",{"children":"元イスラエル代表サッカー選手のシュロモ・シャルフさんも、「ノヴァ」で孫娘マアイ・ナイムさん（当時24）が殺害された。同国の放送局チャンネル12で、「今日は私だけでなく、国民の大部分にとってつらい日だ」と述べた。"}],["$","p","9",{"children":"かつてハマスの人質にされたヤルデン・ビバスさんは、キブツ（農業共同体）のニル・オズにあった自宅から妻と幼い息子2人が誘拐された。妻と息子はその後、ガザで拘束中に殺害された。"}],["$","p","10",{"children":"ビバスさんは現地紙タイムズ・オブ・イスラエルに、「シリ、アリエル、クフィル。ごめん。君たちが天国にいて、私がここにいるなんて、ごめん」と話した。"}],["$","p","11",{"children":"イスラエルのキブツのクファル・アザでは、住民や遺族らが墓のそばで死者を追悼した"}],["$","p","12",{"children":"墓地で墓に顔を寄せる人や、花を手に立っている人たちがいる"}],["$","p","13",{"children":"住民64人が殺害され、19人が人質とされたキブツのクファル・アザでは、小さな墓地に多くの人が姿を見せた。"}],["$","p","14",{"children":"地域リーダーのザイオン・レゲブさんはロイター通信に、生き残った住民のほとんどはトラウマのため、自宅に戻っていないと説明。"}],["$","p","15",{"children":"「このキブツでこうしたことをするのは今回が初めてだ」、「10月7日から3年の今日は、非常に感情的な日であり、私たちのコミュニティーにとって非常につらい日だ」と話した。"}],["$","p","16",{"children":"イスラエルのベンヤミン・ネタニヤフ首相は、この日午後に首相府から声明を発表。犠牲者全員を追悼するため、ろうそくに火をともしたとした。"}],["$","p","17",{"children":"そして、「国民は今日、愛する人々を思う気持ちで一つになる」、「私たちは任務を完遂する。全ての殺人犯に仕返しをしてきたし、これからもし続ける」とした。"}],["$","p","18",{"children":"イスラエル・テルアヴィヴのディゼンゴフ広場では、反政府デモの参加者らが、襲撃から3年に合わせて噴水を血の色に染めた"}],["$","p","19",{"children":"ネタニヤフ首相に対しては、急襲を受けた日の治安上の失敗について、国による独立調査を求める声が出ている。"}],["$","p","20",{"children":"首相は個人的な責任を一切否定。最高裁主導の調査は不要だとし、司法機関には自分に対する偏見があると主張している。"}],["$","p","21",{"children":"ハマスによる襲撃があってから、イスラエルでは国防・治安当局の高官が多数、辞任したり解任されたりした。だが、これまでのところ、同国史上最悪とされる安全保障上の失敗をめぐる独立調査委員会は設置されていない。"}],["$","p","22",{"children":"エイナヴ・ザンガウカーさんは、息子マタンさんがガザで拘束され、昨年10月に停戦合意の一環として解放された。息子の拘束中にネタニヤフ政権を公然と批判するようになったザンガウカーさんは、同政権について、「10月7日に起きたことを私たちに忘れさせようとしている」、「私たちは忘れない。私たちは真実を要求する」と陸軍ラジオで話した。"}],["$","p","23",{"children":"ガザ地区では、イスラエルによるこの3年間の軍事行動により7万4200人以上が殺害されたと、ハマス運営のガザ保健当局が発表している。この人数は、国連から信頼できるとみなされている。"}],["$","p","24",{"children":"アメリカが昨年仲介した停戦合意は、平和も安全もガザにもたらしていない。イスラエルは現在もほぼ毎日、攻撃を続けており、ガザ史上最も死者が多い戦争は、終わりが見えない。"}],["$","p","25",{"children":"ガザ保健当局によると、停戦が発効してからも1460人以上が殺害されている。イスラエル軍は、同国の兵士少なくとも7人が停戦発効後にガザ地区で殺されたとしている。"}],["$","p","26",{"children":"ガザ地区の家族は、自分たちの未来への不安をいちだんと募らせている（7日、ガザ市）"}],["$","p","27",{"children":"ガザの大部分は廃墟と化している。住民約210万人のほぼ全員が避難生活を強いられたままで、人道状況は極めて深刻だ。"}],["$","p","28",{"children":"国連によると、この戦争で建物の約8割が破壊されたか損傷している。がれき6000万トン以上が積み上がり、約120万人がテントや避難所で生活しているという。"}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e"],"$L1f"]}],"$L20","$L21","$L22",null,"$L23","$L24"]}]
+9:null
+e:[["$","title","0",{"children":"ハマス襲撃とガザ戦争開始から3年 イスラエルでは追悼、ガザでは攻撃と惨状続く"}],["$","meta","1",{"name":"description","content":"イスラエル・テルアヴィヴのディゼンゴフ広場で体を寄せ合う人たち"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"ハマス襲撃とガザ戦争開始から3年 イスラエルでは追悼、ガザでは攻撃と惨状続く"}],["$","meta","4",{"property":"og:description","content":"イスラエル・テルアヴィヴのディゼンゴフ広場で体を寄せ合う人たち"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/7f845cb37f845cb38162c8c3/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fd466%2Flive%2F028c9160-c28d-11f1-81d9-d568e8babc26.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"ハマス襲撃とガザ戦争開始から3年 イスラエルでは追悼、ガザでは攻撃と惨状続く"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"ハマス襲撃とガザ戦争開始から3年 イスラエルでは追悼、ガザでは攻撃と惨状続く"}],["$","meta","13",{"name":"twitter:description","content":"イスラエル・テルアヴィヴのディゼンゴフ広場で体を寄せ合う人たち"}],["$","meta","14",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fd466%2Flive%2F028c9160-c28d-11f1-81d9-d568e8babc26.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","15",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L25","17",{}]]
+26:I[36936,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+27:I[98337,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+2a:I[9441,["/kasawa-news/_next/static/chunks/0nfe-yc1nwcum.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+13:["$","p","29",{"children":"何度も避難を余儀なくされてきた家族の間では、次にどこへ行けばいいのか、ガザから完全に離れることを強いられる可能性もあるのか、といった疑問がいっそう大きく膨らんでいる。"}]
+14:["$","p","30",{"children":"ガザ市の理髪師で、子ども2人の父親のモハメド・エマド・アルディンさん（38）は、これまで5回、避難せざるを得なかった。自宅は全壊し、理髪店も一部損壊したという。"}]
+15:["$","p","31",{"children":"ガザから強制追放される恐怖が夢にまで現れると、アルディンさんはBBCに話した。"}]
+16:["$","p","32",{"children":"「これほどの破壊を、イスラエルが無意味に引き起こしたとは思えない」"}]
+17:["$","p","33",{"children":"「（イスラエルは）ガザを、住むのがほぼ不可能な場所に変えてしまった。最終的に、私たちは生まれた場所から追い出されるのではないかと心配している」"}]
+18:["$","p","34",{"children":"やはり住む家を失ったアッタ・サイード・ハッサン・シュウェイクさんは、息子、娘、女きょうだい、その子どもたちみんなが、戦争中に殺されたとBBCに話した。"}]
+19:["$","p","35",{"children":"現在ガザ市にいるシュウェイクさんは、パレスチナ人は「生きたまま墓の中で暮らしている」状態で、「深刻な苦難」に耐えていると述べた。"}]
+1a:["$","p","36",{"children":"医療関係者によると、7日もガザ地区の北部ベイトラヒアと南部ハンユニスでイスラエル軍の攻撃があり、少なくとも3人のパレスチナ人が殺害された。"}]
+1b:["$","p","37",{"children":"イスラエル軍は、ガザ北部で前日夜以降にハマス工作員2人を攻撃したと説明した。うち1人については、同軍がなお占領している地域を区分けする「イエローライン」付近に爆発物を仕掛けたとした。"}]
+1c:["$","p","38",{"children":"ハマスは、10月7日の襲撃を「進行中の闘争プロジェクト」における「歴史的な節目」だと称賛する声明を発表した。イスラエル、イギリスなどはハマスをテロ組織に指定している。"}]
+1d:["$","p","39",{"children":"パレスチナのメディアで拡散されたこの声明は、3年前の襲撃を、イスラエルに押し付けられた「激しい苦しみ」に対する「当然の反応」だとした。"}]
+1e:["$","p","40",{"children":"（英語記事 Israelis mourn 7 October attack victims three years after deadly Hamas raid）"}]
+1f:["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]
+20:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/ckq6n27nj3e2o","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}]
+28:T20c9,イスラエル・テルアヴィヴのディゼンゴフ広場で体を寄せ合う人たち
+
+噴水の前で背の高い人が低い人を抱きしめている。低い人は手で目を覆っている。近くに他の人たちもいる
+
+パレスチナの武装組織ハマスが主導した集団がイスラエル南部を急襲し、報復としてイスラエルがガザ地区で戦争を始めてから、7日で3年がたった。イスラエルでは追悼行事が行われた。ガザ地区では、1年前の停戦合意のあとも暴力行為が続いており、住民約210万人の生活状況は悲惨なままとなっている。
+
+2023年10月7日のハマスによるイスラエル襲撃では、約1200人が殺害され、251人が人質に取られた。
+
+それから3年のこの日、その現場などで、失われた人々を家族らが追悼した。378人が殺害された「スーパー・ノヴァ」音楽フェスティバルの会場だった場所では、追悼集会が開かれ、遺族や生存者らが参加した。
+
+娘アディさん（当時21）を射殺されたアフヴァ・ヤヴィン・マイゼさんは、3年前に起きたことは「ディストピア的で、想像を絶する」とBBCに話した。
+
+「ノヴァ」フェスティバルが開かれた場所。378人が殺害され、44人が人質として連れ去られた
+
+写真や説明がつけられた立て看板が多数立っている場所で、人物写真で背中を覆った人が後ろ向きに立っている
+
+元イスラエル代表サッカー選手のシュロモ・シャルフさんも、「ノヴァ」で孫娘マアイ・ナイムさん（当時24）が殺害された。同国の放送局チャンネル12で、「今日は私だけでなく、国民の大部分にとってつらい日だ」と述べた。
+
+かつてハマスの人質にされたヤルデン・ビバスさんは、キブツ（農業共同体）のニル・オズにあった自宅から妻と幼い息子2人が誘拐された。妻と息子はその後、ガザで拘束中に殺害された。
+
+ビバスさんは現地紙タイムズ・オブ・イスラエルに、「シリ、アリエル、クフィル。ごめん。君たちが天国にいて、私がここにいるなんて、ごめん」と話した。
+
+イスラエルのキブツのクファル・アザでは、住民や遺族らが墓のそばで死者を追悼した
+
+墓地で墓に顔を寄せる人や、花を手に立っている人たちがいる
+
+住民64人が殺害され、19人が人質とされたキブツのクファル・アザでは、小さな墓地に多くの人が姿を見せた。
+
+地域リーダーのザイオン・レゲブさんはロイター通信に、生き残った住民のほとんどはトラウマのため、自宅に戻っていないと説明。
+
+「このキブツでこうしたことをするのは今回が初めてだ」、「10月7日から3年の今日は、非常に感情的な日であり、私たちのコミュニティーにとって非常につらい日だ」と話した。
+
+イスラエルのベンヤミン・ネタニヤフ首相は、この日午後に首相府から声明を発表。犠牲者全員を追悼するため、ろうそくに火をともしたとした。
+
+そして、「国民は今日、愛する人々を思う気持ちで一つになる」、「私たちは任務を完遂する。全ての殺人犯に仕返しをしてきたし、これからもし続ける」とした。
+
+イスラエル・テルアヴィヴのディゼンゴフ広場では、反政府デモの参加者らが、襲撃から3年に合わせて噴水を血の色に染めた
+
+ネタニヤフ首相に対しては、急襲を受けた日の治安上の失敗について、国による独立調査を求める声が出ている。
+
+首相は個人的な責任を一切否定。最高裁主導の調査は不要だとし、司法機関には自分に対する偏見があると主張している。
+
+ハマスによる襲撃があってから、イスラエルでは国防・治安当局の高官が多数、辞任したり解任されたりした。だが、これまでのところ、同国史上最悪とされる安全保障上の失敗をめぐる独立調査委員会は設置されていない。
+
+エイナヴ・ザンガウカーさんは、息子マタンさんがガザで拘束され、昨年10月に停戦合意の一環として解放された。息子の拘束中にネタニヤフ政権を公然と批判するようになったザンガウカーさんは、同政権について、「10月7日に起きたことを私たちに忘れさせようとしている」、「私たちは忘れない。私たちは真実を要求する」と陸軍ラジオで話した。
+
+ガザ地区では、イスラエルによるこの3年間の軍事行動により7万4200人以上が殺害されたと、ハマス運営のガザ保健当局が発表している。この人数は、国連から信頼できるとみなされている。
+
+アメリカが昨年仲介した停戦合意は、平和も安全もガザにもたらしていない。イスラエルは現在もほぼ毎日、攻撃を続けており、ガザ史上最も死者が多い戦争は、終わりが見えない。
+
+ガザ保健当局によると、停戦が発効してからも1460人以上が殺害されている。イスラエル軍は、同国の兵士少なくとも7人が停戦発効後にガザ地区で殺されたとしている。
+
+ガザ地区の家族は、自分たちの未来への不安をいちだんと募らせている（7日、ガザ市）
+
+ガザの大部分は廃墟と化している。住民約210万人のほぼ全員が避難生活を強いられたままで、人道状況は極めて深刻だ。
+
+国連によると、この戦争で建物の約8割が破壊されたか損傷している。がれき6000万トン以上が積み上がり、約120万人がテントや避難所で生活しているという。
+
+何度も避難を余儀なくされてきた家族の間では、次にどこへ行けばいいのか、ガザから完全に離れることを強いられる可能性もあるのか、といった疑問がいっそう大きく膨らんでいる。
+
+ガザ市の理髪師で、子ども2人の父親のモハメド・エマド・アルディンさん（38）は、これまで5回、避難せざるを得なかった。自宅は全壊し、理髪店も一部損壊したという。
+
+ガザから強制追放される恐怖が夢にまで現れると、アルディンさんはBBCに話した。
+
+「これほどの破壊を、イスラエルが無意味に引き起こしたとは思えない」
+
+「（イスラエルは）ガザを、住むのがほぼ不可能な場所に変えてしまった。最終的に、私たちは生まれた場所から追い出されるのではないかと心配している」
+
+やはり住む家を失ったアッタ・サイード・ハッサン・シュウェイクさんは、息子、娘、女きょうだい、その子どもたちみんなが、戦争中に殺されたとBBCに話した。
+
+現在ガザ市にいるシュウェイクさんは、パレスチナ人は「生きたまま墓の中で暮らしている」状態で、「深刻な苦難」に耐えていると述べた。
+
+医療関係者によると、7日もガザ地区の北部ベイトラヒアと南部ハンユニスでイスラエル軍の攻撃があり、少なくとも3人のパレスチナ人が殺害された。
+
+イスラエル軍は、ガザ北部で前日夜以降にハマス工作員2人を攻撃したと説明した。うち1人については、同軍がなお占領している地域を区分けする「イエローライン」付近に爆発物を仕掛けたとした。
+
+ハマスは、10月7日の襲撃を「進行中の闘争プロジェクト」における「歴史的な節目」だと称賛する声明を発表した。イスラエル、イギリスなどはハマスをテロ組織に指定している。
+
+パレスチナのメディアで拡散されたこの声明は、3年前の襲撃を、イスラエルに押し付けられた「激しい苦しみ」に対する「当然の反応」だとした。
+
+（英語記事 Israelis mourn 7 October attack victims three years after deadly Hamas raid）21:["$","section",null,{"className":"article-actions","children":[["$","$L26",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/7f845cb37f845cb38162c8c3","title":"ハマス襲撃とガザ戦争開始から3年 イスラエルでは追悼、ガザでは攻撃と惨状続く","locale":"ja","take":null}],["$","$L27",null,{"title":"ハマス襲撃とガザ戦争開始から3年 イスラエルでは追悼、ガザでは攻撃と惨状続く","excerpt":"$28","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/7f845cb37f845cb38162c8c3","locale":"ja"}],"$L29"]}]
+22:["$","$L2a",null,{"placement":"article","className":"mt-8"}]
+23:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L11",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+24:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","dw:https://dw.com/en/2026-nobel-prize-winner-anne-carson-where-to-start-reading/a-79598953?maca=en-rss-en-all-1573-rdf",{"children":["$","$L11",null,{"href":"/ja/n/3c40f2643c40f264fe5e565e","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"2026 Nobel Prize winner Anne Carson: Where to start reading"}]]}]}],["$","li","nhk-sports:https://news.web.nhk/newsweb/na/nd-20261008de56508",{"children":["$","$L11",null,{"href":"/ja/n/072ddeef072ddeef665e3adf","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"阪神 佐藤輝明が三冠王 4年ぶり史上9人目 村上宗隆以来"}]]}]}],["$","li","bbc-arts:https://bbc.co.uk/news/articles/cq4g1j54nepyo",{"children":["$","$L11",null,{"href":"/ja/n/02b8405e02b8405e5654af08","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize"}]]}]}]]}]]}]
+29:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E3%83%8F%E3%83%9E%E3%82%B9%E8%A5%B2%E6%92%83%E3%81%A8%E3%82%AC%E3%82%B6%E6%88%A6%E4%BA%89%E9%96%8B%E5%A7%8B%E3%81%8B%E3%82%893%E5%B9%B4+%E3%82%A4%E3%82%B9%E3%83%A9%E3%82%A8%E3%83%AB%E3%81%A7%E3%81%AF%E8%BF%BD%E6%82%BC%E3%80%81%E3%82%AC%E3%82%B6%E3%81%A7%E3%81%AF%E6%94%BB%E6%92%83%E3%81%A8%E6%83%A8%E7%8A%B6%E7%B6%9A%E3%81%8F&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
