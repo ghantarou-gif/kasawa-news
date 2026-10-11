@@ -66,23 +66,45 @@ export function proxiedShareImage(url: string): string {
 export function articleOpenGraphImage(
   image: string | null,
   pathId?: string,
-): { url: string; width: number; height: number } {
+): { url: string; width: number; height: number; type: string } {
   if (pathId) {
     const local = path.join(process.cwd(), "public", "og", `${pathId}.jpg`);
     if (existsSync(local)) {
-      return {
-        url: `${siteUrl()}/og/${pathId}.jpg`,
-        width: OG_WIDTH,
-        height: OG_HEIGHT,
-      };
+      return cardImage(`${siteUrl()}/og/${pathId}.jpg`);
     }
   }
   if (image && !isPlaceholderImage(image)) {
-    return { url: proxiedShareImage(image), width: OG_WIDTH, height: OG_HEIGHT };
+    return cardImage(proxiedShareImage(image));
   }
+  return defaultOpenGraphImage();
+}
+
+export function defaultOpenGraphImage(): {
+  url: string;
+  width: number;
+  height: number;
+  type: string;
+} {
+  return cardImage(`${siteUrl()}/og-default.png`);
+}
+
+function cardImage(url: string): {
+  url: string;
+  width: number;
+  height: number;
+  type: string;
+} {
   return {
-    url: `${siteUrl()}/opengraph-image`,
+    url,
     width: OG_WIDTH,
     height: OG_HEIGHT,
+    type: imageType(url),
   };
+}
+
+function imageType(url: string): string {
+  const lower = url.toLowerCase();
+  if (lower.includes(".png")) return "image/png";
+  if (lower.includes(".webp")) return "image/webp";
+  return "image/jpeg";
 }
