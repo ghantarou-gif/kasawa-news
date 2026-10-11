@@ -98,28 +98,42 @@ function proxied(url) {
 
 function isPlaceholder(url) {
   const lower = url.toLowerCase();
-  return (
-    lower.includes("/default.jpg") ||
-    lower.includes("/default.png") ||
-    lower.includes("/default.") ||
-    lower.includes("noimage") ||
-    lower.includes("placeholder")
-  );
+  if (lower.includes("noimage") || lower.includes("placeholder")) return true;
+  try {
+    const parsed = new URL(url);
+    const path = parsed.pathname.toLowerCase();
+    const yahoo =
+      parsed.hostname.endsWith("yimg.jp") || parsed.hostname.endsWith("yahoo.co.jp");
+    if (
+      yahoo &&
+      (path.endsWith("/default.jpg") ||
+        path.endsWith("/default.png") ||
+        path.includes("/default."))
+    ) {
+      return true;
+    }
+    return path === "/default.jpg" || path === "/default.png" || path === "/images/default.jpg";
+  } catch {
+    return false;
+  }
 }
 
-function looksLikeImage(bytes, type) {
-  if (bytes.length >= 3 && bytes[0] === 0xff && bytes[1] === 0xd8 && bytes[2] === 0xff) {
-    return true;
-  }
-  if (
+function isJpeg(bytes) {
+  return bytes.length >= 3 && bytes[0] === 0xff && bytes[1] === 0xd8 && bytes[2] === 0xff;
+}
+
+function isPng(bytes) {
+  return (
     bytes.length >= 8 &&
     bytes[0] === 0x89 &&
     bytes[1] === 0x50 &&
     bytes[2] === 0x4e &&
     bytes[3] === 0x47
-  ) {
-    return true;
-  }
+  );
+}
+
+function looksLikeImage(bytes, type) {
+  if (isJpeg(bytes) || isPng(bytes)) return true;
   if (
     bytes.length >= 12 &&
     bytes.toString("ascii", 0, 4) === "RIFF" &&
@@ -139,7 +153,7 @@ async function fetchBytes(url) {
       headers: {
         "User-Agent":
           "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-        Accept: "image/avif,image/webp,image/apng,image/*,*/*;q=0.8",
+        Accept: "image/jpeg,image/png,image/*;q=0.8,*/*;q=0.5",
       },
       redirect: "follow",
     });
@@ -161,21 +175,25 @@ function candidates(url) {
   const add = (value) => {
     if (value && !list.includes(value)) list.push(value);
   };
+  add(proxied(url));
+  add(proxied(dropSizeParams(url)));
+  add(proxied(enlargeYahoo(url)));
   add(url);
   add(enlargeYahoo(url));
   add(dropSizeParams(url));
-  add(proxied(url));
-  add(proxied(enlargeYahoo(url)));
-  add(proxied(dropSizeParams(url)));
   return list;
 }
 
 async function download(url) {
+  let best = null;
   for (const next of candidates(url)) {
     const bytes = await fetchBytes(next);
-    if (bytes) return bytes;
+    if (!bytes) continue;
+    const still = isJpeg(bytes) || isPng(bytes);
+    if (still && bytes.length >= 8000) return bytes;
+    if (still && (!best || bytes.length > best.length)) best = bytes;
   }
-  return null;
+  return best;
 }
 
 function storyImages(html) {

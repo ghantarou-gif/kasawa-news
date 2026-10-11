@@ -9,18 +9,22 @@ function isPlaceholderImage(url: string): boolean {
   try {
     const parsed = new URL(url);
     const path = parsed.pathname.toLowerCase();
-    if (
-      path.endsWith("/default.jpg") ||
-      path.endsWith("/default.png") ||
-      path.includes("/default.") ||
-      path.includes("noimage") ||
-      path.includes("placeholder") ||
-      path.includes("spacer")
-    ) {
+    if (path.includes("noimage") || path.includes("placeholder") || path.includes("spacer")) {
       return true;
     }
     const yahoo =
       parsed.hostname.endsWith("yimg.jp") || parsed.hostname.endsWith("yahoo.co.jp");
+    if (
+      yahoo &&
+      (path.endsWith("/default.jpg") ||
+        path.endsWith("/default.png") ||
+        path.includes("/default."))
+    ) {
+      return true;
+    }
+    if (path === "/default.jpg" || path === "/default.png" || path === "/images/default.jpg") {
+      return true;
+    }
     if (yahoo) return false;
     const height = Number(parsed.searchParams.get("h") || parsed.searchParams.get("height") || 0);
     const width = Number(parsed.searchParams.get("w") || parsed.searchParams.get("width") || 0);
