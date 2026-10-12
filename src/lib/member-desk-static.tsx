@@ -1,9 +1,11 @@
 "use client";
 
 import { useState } from "react";
+import { MemberChapters } from "@/components/MemberChapters";
 import { editorGuide } from "@/lib/editor-guide";
 import { t } from "@/lib/i18n";
 import type { Locale } from "@/lib/locale";
+import { memberChapters } from "@/lib/member-chapters";
 
 const CODE_HASH = process.env.NEXT_PUBLIC_MEMBER_CODE_SHA256 ?? "";
 
@@ -48,6 +50,7 @@ export function MemberDesk({ locale }: { locale: Locale }) {
               </li>
             ))}
           </ol>
+          <MemberChapters chapters={memberChapters[locale]} />
           <button className="ghost-btn mt-8 px-5" type="button" onClick={() => setOpen(false)}>
             {copy.memberLeave}
           </button>

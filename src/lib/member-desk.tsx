@@ -1,10 +1,12 @@
 import { cookies } from "next/headers";
 import { connection } from "next/server";
+import { MemberChapters } from "@/components/MemberChapters";
 import { MemberGate } from "@/components/MemberGate";
 import { editorGuide } from "@/lib/editor-guide";
 import { t } from "@/lib/i18n";
 import type { Locale } from "@/lib/locale";
 import { lockMember, unlockMember } from "@/lib/member-actions";
+import { memberChapters } from "@/lib/member-chapters";
 import { MEMBER_COOKIE, MEMBER_ERROR_COOKIE, memberConfigured, tokenMatches } from "@/lib/member";
 
 export async function MemberDesk({ locale }: { locale: Locale }) {
@@ -42,6 +44,7 @@ export async function MemberDesk({ locale }: { locale: Locale }) {
           </li>
         ))}
       </ol>
+      <MemberChapters chapters={memberChapters[locale]} />
       <form action={lockMember} className="mt-8">
         <input type="hidden" name="locale" value={locale} />
         <button className="ghost-btn px-5" type="submit">
