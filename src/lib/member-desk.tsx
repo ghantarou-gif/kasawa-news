@@ -1,15 +1,18 @@
 import { cookies } from "next/headers";
 import { connection } from "next/server";
+import { IslamNewsFeed } from "@/components/IslamNewsFeed";
 import { MemberChapters } from "@/components/MemberChapters";
 import { MemberGate } from "@/components/MemberGate";
+import { SourceWatch } from "@/components/SourceWatch";
 import { editorGuide } from "@/lib/editor-guide";
 import { t } from "@/lib/i18n";
 import type { Locale } from "@/lib/locale";
 import { lockMember, unlockMember } from "@/lib/member-actions";
 import { memberChapters } from "@/lib/member-chapters";
 import { MEMBER_COOKIE, MEMBER_ERROR_COOKIE, memberConfigured, tokenMatches } from "@/lib/member";
+import { getIslamWatchArticles, type IslamWatch } from "@/lib/rss";
 
-export async function MemberDesk({ locale }: { locale: Locale }) {
+export async function MemberDesk({ locale, news }: { locale: Locale; news?: IslamWatch }) {
   await connection();
   const jar = await cookies();
   const open = tokenMatches(jar.get(MEMBER_COOKIE)?.value);
@@ -27,6 +30,7 @@ export async function MemberDesk({ locale }: { locale: Locale }) {
   }
 
   const guide = editorGuide[locale];
+  const watch = news ?? (await getIslamWatchArticles(locale));
 
   return (
     <article className="py-12">
@@ -44,6 +48,8 @@ export async function MemberDesk({ locale }: { locale: Locale }) {
           </li>
         ))}
       </ol>
+      <IslamNewsFeed locale={locale} news={watch} />
+      <SourceWatch locale={locale} />
       <MemberChapters chapters={memberChapters[locale]} />
       <form action={lockMember} className="mt-8">
         <input type="hidden" name="locale" value={locale} />

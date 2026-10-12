@@ -1,8 +1,10 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { MemberDesk } from "@/lib/member-desk";
+import { githubPages } from "@/lib/hosting";
 import { t } from "@/lib/i18n";
 import { isLocale } from "@/lib/locale";
+import { getIslamWatchArticles } from "@/lib/rss";
 
 export async function generateMetadata({
   params,
@@ -26,5 +28,7 @@ export default async function MemberPage({
 }) {
   const { locale } = await params;
   if (!isLocale(locale)) notFound();
-  return <MemberDesk locale={locale} />;
+  // The static desk unlocks in the browser, so its list has to be baked in at build time.
+  const news = githubPages ? await getIslamWatchArticles(locale) : undefined;
+  return <MemberDesk locale={locale} news={news} />;
 }
