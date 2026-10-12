@@ -7,6 +7,10 @@ export type Feed = {
   url: string;
   locales: Locale[];
   categories: Desk[];
+  /** Stored for the members' Islam watch only; kept off the news desks and the footer. */
+  watchOnly?: boolean;
+  /** Outlet based in the Middle East or South Asia, listed in the watch's overseas section. */
+  islamicWorld?: boolean;
 };
 
 function feed(
@@ -15,9 +19,13 @@ function feed(
   url: string,
   locales: Locale[],
   categories: Desk[],
+  extra: Pick<Feed, "watchOnly" | "islamicWorld"> = {},
 ): Feed {
-  return { id, name, url, locales, categories };
+  return { id, name, url, locales, categories, ...extra };
 }
+
+const watchFeed = (id: string, name: string, url: string, locales: Locale[] = ["ja", "en"]): Feed =>
+  feed(id, name, url, locales, [], { watchOnly: true, islamicWorld: true });
 
 const bbc = (
   id: string,
@@ -77,6 +85,7 @@ export const feeds: Feed[] = [
     "https://www.aljazeera.com/xml/rss/all.xml",
     ["en", "ja"],
     ["top", "world"],
+    { islamicWorld: true },
   ),
   feed("dw", "Deutsche Welle", "https://rss.dw.com/rdf/rss-en-all", ["en", "ja"], [
     "world",
@@ -269,12 +278,37 @@ export const feeds: Feed[] = [
   feed("nhk-sports", "NHKニュース", "https://www.nhk.or.jp/rss/news/cat7.xml", ["ja"], [
     "sports",
   ]),
+  watchFeed("arabnews", "Arab News", "https://www.arabnews.com/rss.xml"),
+  watchFeed("mee", "Middle East Eye", "https://www.middleeasteye.net/rss"),
+  watchFeed("aa", "Anadolu Agency", "https://www.aa.com.tr/en/rss/default?cat=guncel"),
+  watchFeed(
+    "thenational",
+    "The National",
+    "https://www.thenationalnews.com/arc/outboundfeeds/rss/?outputType=xml",
+  ),
+  watchFeed("geo", "Geo News", "https://www.geo.tv/rss/1/1"),
+  watchFeed("tribune", "The Express Tribune", "https://tribune.com.pk/feed/home"),
+  feed("jfc", "日本ファクトチェックセンター", "https://www.factcheckcenter.jp/feed/", ["ja"], [], {
+    watchOnly: true,
+  }),
 ];
 
 export function feedsForLocale(locale: Locale): Feed[] {
   return feeds.filter((item) => item.locales.includes(locale));
 }
 
+export const watchOnlyIds = new Set(feeds.filter((item) => item.watchOnly).map((item) => item.id));
+
+export const islamicWorldIds = new Set(
+  feeds.filter((item) => item.islamicWorld).map((item) => item.id),
+);
+
 export function sourceNames(locale: Locale): string[] {
-  return [...new Set(feedsForLocale(locale).map((item) => item.name))];
+  return [
+    ...new Set(
+      feedsForLocale(locale)
+        .filter((item) => !item.watchOnly)
+        .map((item) => item.name),
+    ),
+  ];
 }

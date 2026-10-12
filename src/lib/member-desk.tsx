@@ -8,10 +8,9 @@ import { t } from "@/lib/i18n";
 import type { Locale } from "@/lib/locale";
 import { lockMember, unlockMember } from "@/lib/member-actions";
 import { MEMBER_COOKIE, MEMBER_ERROR_COOKIE, memberConfigured, tokenMatches } from "@/lib/member";
-import { getIslamWatchArticles } from "@/lib/rss";
-import type { Article } from "@/lib/types";
+import { getIslamWatchArticles, type IslamWatch } from "@/lib/rss";
 
-export async function MemberDesk({ locale, news }: { locale: Locale; news?: Article[] }) {
+export async function MemberDesk({ locale, news }: { locale: Locale; news?: IslamWatch }) {
   await connection();
   const jar = await cookies();
   const open = tokenMatches(jar.get(MEMBER_COOKIE)?.value);
@@ -29,7 +28,7 @@ export async function MemberDesk({ locale, news }: { locale: Locale; news?: Arti
   }
 
   const guide = editorGuide[locale];
-  const items = news ?? (await getIslamWatchArticles(locale));
+  const watch = news ?? (await getIslamWatchArticles(locale));
 
   return (
     <article className="py-12">
@@ -47,7 +46,7 @@ export async function MemberDesk({ locale, news }: { locale: Locale; news?: Arti
           </li>
         ))}
       </ol>
-      <IslamNewsFeed locale={locale} items={items} />
+      <IslamNewsFeed locale={locale} news={watch} />
       <SourceWatch locale={locale} />
       <form action={lockMember} className="mt-8">
         <input type="hidden" name="locale" value={locale} />

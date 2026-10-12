@@ -13,8 +13,8 @@ import {
 import { FETCH_TIMEOUT_MS, isPaywalledText, isPaywalledUrl, PER_SOURCE_PER_DAY, REVALIDATE_SECONDS } from "./config";
 import { encodeArticleId } from "./article-id";
 import { isJapaneseElectionArticle } from "./election";
-import { isIslamWatchArticle, mentionsIslam } from "./islam-watch";
-import { feedsForLocale, type Feed } from "./feeds";
+import { aboutJapan, isIslamWatchArticle, mentionsIslam } from "./islam-watch";
+import { feedsForLocale, islamicWorldIds, watchOnlyIds, type Feed } from "./feeds";
 import { genres, type GenreId } from "./genres";
 import { githubPages } from "./hosting";
 import { mergeArticles } from "./store";
@@ -224,11 +224,15 @@ export type DaySummary = {
   counts: Record<GenreId, number>;
 };
 
-const ingest = cache(async (locale: Locale): Promise<Article[]> => {
+const ingestAll = cache(async (locale: Locale): Promise<Article[]> => {
   const groups = await Promise.all(feedsForLocale(locale).map(fetchFeed));
   const stored = await mergeArticles(groups.flat());
   return stored.filter((article) => article.locales.includes(locale));
 });
+
+const ingest = cache(async (locale: Locale): Promise<Article[]> =>
+  (await ingestAll(locale)).filter((article) => !watchOnlyIds.has(article.sourceId)),
+);
 
 function countGenres(articles: Article[]): Record<GenreId, number> {
   const counts = Object.fromEntries(genres.map((genre) => [genre.id, 0])) as Record<
@@ -296,28 +300,25 @@ export async function getElectionArticles(
   return sortNewest(matched).slice(0, limit);
 }
 
-// Fetched only for the members' Islam watch, so it stays out of the stored headlines and desks.
-const factCheckFeed: Feed = {
-  id: "jfc",
-  name: "日本ファクトチェックセンター",
-  url: "https://www.factcheckcenter.jp/feed/",
-  locales: ["ja"],
-  categories: [],
-};
+export type IslamWatch = { japan: Article[]; overseas: Article[] };
 
-export async function getIslamWatchArticles(
-  locale: Locale,
-  limit = 40,
-): Promise<Article[]> {
-  const [items, checks] = await Promise.all([
-    ingest(locale),
-    factCheckFeed.locales.includes(locale) ? fetchFeed(factCheckFeed) : Promise.resolve([]),
-  ]);
-  const byUrl = new Map<string, Article>();
-  for (const article of [...checks.filter(mentionsIslam), ...items.filter(isIslamWatchArticle)]) {
-    if (!byUrl.has(article.url)) byUrl.set(article.url, article);
-  }
-  return sortNewest([...byUrl.values()]).slice(0, limit);
+export async function getIslamWatchArticles(locale: Locale, limit = 40): Promise<IslamWatch> {
+  const items = await ingestAll(locale);
+  const japan = items.filter(
+    (article) =>
+      isIslamWatchArticle(article) || (article.sourceId === "jfc" && mentionsIslam(article)),
+  );
+  const inJapan = new Set(japan.map((article) => article.url));
+  const overseas = items.filter(
+    (article) =>
+      islamicWorldIds.has(article.sourceId) &&
+      !inJapan.has(article.url) &&
+      (mentionsIslam(article) || aboutJapan(article)),
+  );
+  return {
+    japan: sortNewest(japan).slice(0, limit),
+    overseas: sortNewest(overseas).slice(0, limit),
+  };
 }
 
 function longer(next?: string, previous?: string): string {

@@ -126,17 +126,21 @@ function boundary(words: string[]): RegExp {
 const EN_PATTERN = boundary(EN_KEYWORDS);
 const JAPAN_EN_PATTERN = boundary(JAPAN_EN_MARKERS);
 
+// State names that say nothing about religion; without this, Iran coverage fills the list.
+const NOISE_PATTERN =
+  /islamic revolutionary guards?(?: corps)?|islamic republic|イスラム革命防衛隊|イスラム共和国/gi;
+
 function articleText(article: Article): string {
   return `${article.title} ${article.excerpt}`;
 }
 
 export function mentionsIslam(article: Article): boolean {
-  const text = articleText(article);
+  const text = articleText(article).replace(NOISE_PATTERN, " ");
   return JA_KEYWORDS.some((word) => text.includes(word)) || EN_PATTERN.test(text);
 }
 
 // Feed desks are not used: CNA and BBC Asia file other countries under "japan".
-function aboutJapan(article: Article): boolean {
+export function aboutJapan(article: Article): boolean {
   const text = articleText(article);
   return JAPAN_JA_MARKERS.some((word) => text.includes(word)) || JAPAN_EN_PATTERN.test(text);
 }

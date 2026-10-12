@@ -49,7 +49,9 @@ const dictionary = {
     watchFalse: "誤り",
     watchNewsTitle: "イスラム・ムスリム関連ニュース",
     watchNewsLead:
-      "配信元のRSSと日本ファクトチェックセンターから、日本のイスラム・ムスリム関連の記事を自動で集めています。1時間以内の間隔で更新し、14日分を残します。SNSの投稿は含みません。",
+      "配信元のRSS、日本ファクトチェックセンター、中東・南アジアのメディア（Al Jazeera、Arab News、Middle East Eye、Anadolu、The National、Geo News、The Express Tribune）から自動で集めています。1時間以内の間隔で更新し、14日分を残します。SNSの投稿は含みません。",
+    watchNewsJapan: "日本の話",
+    watchNewsOverseas: "中東・南アジアのメディアから（イスラム関連と日本関連）",
     watchNewsEmpty: "いまは該当する記事がありません。",
     travel: "旅ガイド",
     phrasebook: "旅の日本語",
@@ -164,7 +166,9 @@ const dictionary = {
     watchFalse: "False",
     watchNewsTitle: "Islam and Muslims in Japan: news",
     watchNewsLead:
-      "Collected automatically from publisher RSS feeds. Updated at least hourly and kept for 14 days. Social media posts are not included.",
+      "Collected automatically from publisher RSS feeds, the Japan Fact-check Center, and Middle East and South Asian outlets (Al Jazeera, Arab News, Middle East Eye, Anadolu, The National, Geo News, The Express Tribune). Updated at least hourly and kept for 14 days. Social media posts are not included.",
+    watchNewsJapan: "In Japan",
+    watchNewsOverseas: "From Middle East and South Asian outlets (Islam or Japan)",
     watchNewsEmpty: "No matching stories right now.",
     travel: "Travel",
     phrasebook: "Phrasebook",
