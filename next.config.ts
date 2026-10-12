@@ -10,7 +10,7 @@ const nextConfig: NextConfig = {
         images: { unoptimized: true },
         turbopack: {
           resolveAlias: {
-            "@/lib/member-desk": "./src/lib/member-desk-static.tsx",
+            "@/lib/member-access": "./src/lib/member-access-static.tsx",
           },
         },
       }

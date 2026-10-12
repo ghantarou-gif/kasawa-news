@@ -7,11 +7,13 @@ export function MemberGate({
   denied = false,
   configured = false,
   action,
+  next,
 }: {
   locale: Locale;
   denied?: boolean;
   configured?: boolean;
   action?: (formData: FormData) => Promise<void>;
+  next?: string;
 }) {
   const copy = t(locale);
 
@@ -28,6 +30,7 @@ export function MemberGate({
       {action && configured ? (
         <form action={action} className="mt-8 flex max-w-lg flex-col gap-3 sm:flex-row sm:items-center">
           <input type="hidden" name="locale" value={locale} />
+          {next ? <input type="hidden" name="next" value={next} /> : null}
           <label className="sr-only" htmlFor="member-code">
             {copy.memberCode}
           </label>

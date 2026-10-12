@@ -7,7 +7,7 @@ import type { Article } from "@/lib/types";
 function NewsList({ title, items, empty }: { title: string; items: Article[]; empty: string }) {
   return (
     <>
-      <h3 className="mt-8 text-[19px] font-bold leading-8">{title}</h3>
+      <h2 className="mt-8 text-[19px] font-bold leading-8 first:mt-0">{title}</h2>
       {items.length === 0 ? (
         <p className="mt-3 text-[15px] text-muted">{empty}</p>
       ) : (
@@ -40,13 +40,9 @@ export function IslamNewsFeed({ locale, news }: { locale: Locale; news: IslamWat
   const copy = t(locale);
 
   return (
-    <section className="mt-14 max-w-2xl">
-      <h2 className="font-display text-[clamp(1.5rem,3.5vw,2.2rem)] leading-[1.15] tracking-[-0.02em]">
-        <span className="text-accent">BREAKING</span> {copy.watchNewsTitle}
-      </h2>
-      <p className="mt-3 text-[16px] leading-7 text-muted">{copy.watchNewsLead}</p>
+    <div className="max-w-2xl">
       <NewsList title={copy.watchNewsJapan} items={news.japan} empty={copy.watchNewsEmpty} />
       <NewsList title={copy.watchNewsOverseas} items={news.overseas} empty={copy.watchNewsEmpty} />
-    </section>
+    </div>
   );
 }

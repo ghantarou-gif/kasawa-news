@@ -23,9 +23,17 @@ Vercel 本番（https://kasawa-news.vercel.app）が `402 DEPLOYMENT_DISABLED` �
 - X検索ツール連動: `.env` の `NEXT_PUBLIC_NYANCHU_URL` / `integrations/README.md`
 - RSSの配信元: `src/lib/feeds.ts`
 - 画面の文言: `src/lib/i18n.ts`
-- 会員ページの「イスラム・ムスリム関連ニュース」（自動収集）: 拾う語と日本に限る条件は `src/lib/islam-watch.ts`。RSSの配信元（`src/lib/feeds.ts`）から集める。`watchFeed(...)` で足した配信元（Arab News、Geo News、日本ファクトチェックセンターなど）は会員ページだけに出て、ニュース面とフッターには出ない
-- 会員ページの「イスラム・ムスリム情報 元ネタ帳」: `src/lib/source-watch.ts`（配列の先頭に追加。元動画へのリンクが無いものは `confirmed` にしない）
-- 会員限定ページ（`/ja/members/x`）: `.env` の `MEMBER_ACCESS_CODES`（カンマ区切り）と、任意で `MEMBER_SECRET`
+- 会員ページの「イスラム・ムスリム関連ニュース」（自動収集）: `/ja/members/x/news`。拾う語と日本に限る条件は `src/lib/islam-watch.ts`。RSSの配信元（`src/lib/feeds.ts`）から集める。`watchFeed(...)` で足した配信元（Arab News、Geo News、日本ファクトチェックセンターなど）は会員ページだけに出て、ニュース面とフッターには出ない
+- 会員ページの「イスラム・ムスリム情報 元ネタ帳」: `/ja/members/x/sources`。`src/lib/source-watch.ts`（配列の先頭に追加。元動画へのリンクが無いものは `confirmed` にしない）
+- 会員限定ページ（`/ja/members/x` ほか）: `.env` の `MEMBER_ACCESS_CODES`（カンマ区切り）と、任意で `MEMBER_SECRET`
+  - `/ja/members/x` … 会員トップ（目次）
+  - `/ja/members/x/guide` … 編集者思考
+  - `/ja/members/x/news` … 関連ニュース
+  - `/ja/members/x/sources` … 元ネタ帳
+  - `/ja/members/x/templates` … 17構文
+  - `/ja/members/x/checklist` … チェックリスト
+  - `/ja/members/x/frequency` … 投稿本数
+  - `/ja/members/x/tool` … 構文メーカー
 
 ## 会員限定（編集者思考）
 

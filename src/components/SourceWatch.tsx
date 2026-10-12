@@ -30,12 +30,8 @@ export function SourceWatch({ locale }: { locale: Locale }) {
   const copy = t(locale);
 
   return (
-    <section className="mt-14 max-w-2xl">
-      <h2 className="font-display text-[clamp(1.5rem,3.5vw,2.2rem)] leading-[1.15] tracking-[-0.02em]">
-        {copy.watchTitle}
-      </h2>
-      <p className="mt-3 text-[16px] leading-7 text-muted">{copy.watchLead}</p>
-      <ul className="mt-6 divide-y divide-line border-y border-line">
+    <div className="max-w-2xl">
+      <ul className="divide-y divide-line border-y border-line">
         {watchEntries.map((entry) => {
           const text = entry.text[locale];
           return (
@@ -44,7 +40,7 @@ export function SourceWatch({ locale }: { locale: Locale }) {
                 <span className="text-accent">{copy[statusKey[entry.status]]}</span>
                 <span className="text-muted"> · {copy.watchFirstSeen} {entry.firstSeen}</span>
               </p>
-              <h3 className="mt-2 text-[19px] font-bold leading-8">{text.title}</h3>
+              <h2 className="mt-2 text-[19px] font-bold leading-8">{text.title}</h2>
               <dl className="mt-2 space-y-2 text-[16px] leading-7">
                 <div>
                   <dt className="inline font-bold">{copy.watchClaim}: </dt>
@@ -65,6 +61,6 @@ export function SourceWatch({ locale }: { locale: Locale }) {
           );
         })}
       </ul>
-    </section>
+    </div>
   );
 }

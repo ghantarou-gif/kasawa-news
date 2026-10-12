@@ -15,8 +15,13 @@ function localeFrom(formData: FormData): Locale {
   return formData.get("locale") === "en" ? "en" : "ja";
 }
 
-function memberPath(locale: Locale): string {
-  return `/${locale}/members/x`;
+function memberPath(locale: Locale, next?: FormDataEntryValue | null): string {
+  const fallback = `/${locale}/members/x`;
+  if (typeof next !== "string") return fallback;
+  const path = next.trim();
+  if (!path.startsWith(`/${locale}/members/x`)) return fallback;
+  if (path.includes("?") || path.includes("#") || path.includes("//")) return fallback;
+  return path;
 }
 
 const cookieBase = {
@@ -29,22 +34,23 @@ const cookieBase = {
 export async function unlockMember(formData: FormData) {
   const locale = localeFrom(formData);
   const code = String(formData.get("code") ?? "");
+  const next = formData.get("next");
   const jar = await cookies();
 
   if (!memberConfigured() || !memberCodeMatches(code)) {
     jar.set(MEMBER_ERROR_COOKIE, "1", { ...cookieBase, maxAge: 20 });
-    redirect(memberPath(locale));
+    redirect(memberPath(locale, next));
   }
 
   const token = memberToken();
   if (!token) {
     jar.set(MEMBER_ERROR_COOKIE, "1", { ...cookieBase, maxAge: 20 });
-    redirect(memberPath(locale));
+    redirect(memberPath(locale, next));
   }
 
   jar.set(MEMBER_COOKIE, token, { ...cookieBase, maxAge: 60 * 60 * 24 * 30 });
   jar.delete(MEMBER_ERROR_COOKIE);
-  redirect(memberPath(locale));
+  redirect(memberPath(locale, next));
 }
 
 export async function lockMember(formData: FormData) {
