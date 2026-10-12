@@ -23,6 +23,7 @@ Vercel 本番（https://kasawa-news.vercel.app）が `402 DEPLOYMENT_DISABLED` �
 - X検索ツール連動: `.env` の `NEXT_PUBLIC_NYANCHU_URL` / `integrations/README.md`
 - RSSの配信元: `src/lib/feeds.ts`
 - 画面の文言: `src/lib/i18n.ts`
+- 会員ページの「イスラム・ムスリム情報 元ネタ帳」: `src/lib/source-watch.ts`（配列の先頭に追加。元動画へのリンクが無いものは `confirmed` にしない）
 - 会員限定ページ（`/ja/members/x`）: `.env` の `MEMBER_ACCESS_CODES`（カンマ区切り）と、任意で `MEMBER_SECRET`
 
 ## 会員限定（編集者思考）

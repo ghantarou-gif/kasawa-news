@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { SourceWatch } from "@/components/SourceWatch";
 import { editorGuide } from "@/lib/editor-guide";
 import { t } from "@/lib/i18n";
 import type { Locale } from "@/lib/locale";
@@ -48,6 +49,7 @@ export function MemberDesk({ locale }: { locale: Locale }) {
               </li>
             ))}
           </ol>
+          <SourceWatch locale={locale} />
           <button className="ghost-btn mt-8 px-5" type="button" onClick={() => setOpen(false)}>
             {copy.memberLeave}
           </button>
