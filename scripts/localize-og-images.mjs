@@ -5,6 +5,7 @@ const SITE = (process.env.NEXT_PUBLIC_SITE_URL || "").replace(/\/$/, "");
 const OUT = path.join(process.cwd(), "out");
 const OG_DIR = path.join(OUT, "og");
 const CONCURRENCY = 6;
+const FALLBACK = SITE ? `${SITE}/og-default.png` : "/og-default.png";
 
 function extract(html, attr, prop) {
   const re = new RegExp(
@@ -27,7 +28,22 @@ function decodeEntities(value) {
     .replace(/&gt;/g, ">");
 }
 
-function sourceImageUrl(raw) {
+function isOwnCard(url) {
+  try {
+    const parsed = new URL(url, SITE || "https://example.invalid");
+    const pathname = parsed.pathname.toLowerCase();
+    return (
+      pathname.endsWith("/og-default.png") ||
+      pathname.endsWith("/opengraph-image") ||
+      pathname.includes("/opengraph-image") ||
+      /\/og\/[^/]+\.(jpe?g|png|webp)$/i.test(pathname)
+    );
+  } catch {
+    return false;
+  }
+}
+
+function unwrapProxy(raw) {
   const value = decodeEntities(raw);
   if (!value) return null;
   try {
@@ -56,40 +72,140 @@ function enlargeYahoo(url) {
   }
 }
 
+function dropSizeParams(url) {
+  try {
+    const parsed = new URL(url);
+    parsed.searchParams.delete("w");
+    parsed.searchParams.delete("h");
+    parsed.searchParams.delete("width");
+    parsed.searchParams.delete("height");
+    return parsed.toString();
+  } catch {
+    return url;
+  }
+}
+
+function proxied(url) {
+  const params = new URLSearchParams({
+    url,
+    w: "1200",
+    h: "630",
+    fit: "cover",
+    output: "jpg",
+  });
+  return `https://wsrv.nl/?${params.toString()}`;
+}
+
 function isPlaceholder(url) {
   const lower = url.toLowerCase();
+  if (lower.includes("noimage") || lower.includes("placeholder")) return true;
+  try {
+    const parsed = new URL(url);
+    const path = parsed.pathname.toLowerCase();
+    const yahoo =
+      parsed.hostname.endsWith("yimg.jp") || parsed.hostname.endsWith("yahoo.co.jp");
+    if (
+      yahoo &&
+      (path.endsWith("/default.jpg") ||
+        path.endsWith("/default.png") ||
+        path.includes("/default."))
+    ) {
+      return true;
+    }
+    return path === "/default.jpg" || path === "/default.png" || path === "/images/default.jpg";
+  } catch {
+    return false;
+  }
+}
+
+function isJpeg(bytes) {
+  return bytes.length >= 3 && bytes[0] === 0xff && bytes[1] === 0xd8 && bytes[2] === 0xff;
+}
+
+function isPng(bytes) {
   return (
-    lower.includes("/default.jpg") ||
-    lower.includes("/default.png") ||
-    lower.includes("/default.") ||
-    lower.includes("noimage") ||
-    lower.includes("placeholder")
+    bytes.length >= 8 &&
+    bytes[0] === 0x89 &&
+    bytes[1] === 0x50 &&
+    bytes[2] === 0x4e &&
+    bytes[3] === 0x47
   );
 }
 
-async function download(url) {
+function looksLikeImage(bytes, type) {
+  if (isJpeg(bytes) || isPng(bytes)) return true;
+  if (
+    bytes.length >= 12 &&
+    bytes.toString("ascii", 0, 4) === "RIFF" &&
+    bytes.toString("ascii", 8, 12) === "WEBP"
+  ) {
+    return true;
+  }
+  return type.startsWith("image/");
+}
+
+async function fetchBytes(url) {
   const controller = new AbortController();
-  const timer = setTimeout(() => controller.abort(), 8000);
+  const timer = setTimeout(() => controller.abort(), 12000);
   try {
-    const response = await fetch(enlargeYahoo(url), {
+    const response = await fetch(url, {
       signal: controller.signal,
       headers: {
-        "User-Agent": "Mozilla/5.0 (compatible; NyanChuOg/1.0)",
-        Accept: "image/avif,image/webp,image/apng,image/*,*/*;q=0.8",
+        "User-Agent":
+          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+        Accept: "image/jpeg,image/png,image/*;q=0.8,*/*;q=0.5",
       },
       redirect: "follow",
     });
     if (!response.ok) return null;
     const type = response.headers.get("content-type") || "";
-    if (!type.startsWith("image/")) return null;
     const bytes = Buffer.from(await response.arrayBuffer());
-    if (bytes.length < 4000 || bytes.length > 4_000_000) return null;
+    if (bytes.length < 1500 || bytes.length > 4_000_000) return null;
+    if (!looksLikeImage(bytes, type)) return null;
     return bytes;
   } catch {
     return null;
   } finally {
     clearTimeout(timer);
   }
+}
+
+function candidates(url) {
+  const list = [];
+  const add = (value) => {
+    if (value && !list.includes(value)) list.push(value);
+  };
+  add(proxied(url));
+  add(proxied(dropSizeParams(url)));
+  add(proxied(enlargeYahoo(url)));
+  add(url);
+  add(enlargeYahoo(url));
+  add(dropSizeParams(url));
+  return list;
+}
+
+async function download(url) {
+  let best = null;
+  for (const next of candidates(url)) {
+    const bytes = await fetchBytes(next);
+    if (!bytes) continue;
+    const still = isJpeg(bytes) || isPng(bytes);
+    if (still && bytes.length >= 8000) return bytes;
+    if (still && (!best || bytes.length > best.length)) best = bytes;
+  }
+  return best;
+}
+
+function storyImages(html) {
+  const urls = [];
+  const re = /<img[^>]+src=["']([^"']+)["']/gi;
+  let match;
+  while ((match = re.exec(html))) {
+    const url = decodeEntities(match[1]);
+    if (!url.startsWith("http") || isOwnCard(url) || isPlaceholder(url)) continue;
+    if (!urls.includes(url)) urls.push(url);
+  }
+  return urls;
 }
 
 function rewrite(html, nextUrl) {
@@ -128,7 +244,6 @@ async function collectHtmlFiles(dir, acc = []) {
 async function main() {
   const files = await collectHtmlFiles(OUT);
   await mkdir(OG_DIR, { recursive: true });
-  const fallback = SITE ? `${SITE}/opengraph-image` : "/opengraph-image";
   let ok = 0;
   let index = 0;
 
@@ -138,17 +253,28 @@ async function main() {
       index += 1;
       const html = await readFile(file, "utf8");
       const raw = extract(html, "property", "og:image") || extract(html, "name", "twitter:image");
-      const source = sourceImageUrl(raw);
+      const source = unwrapProxy(raw);
       const id = path.basename(path.dirname(file));
       const destRel = `/og/${id}.jpg`;
       const destAbs = SITE ? `${SITE}${destRel}` : destRel;
-      let next = fallback;
-      if (source && !isPlaceholder(source)) {
-        const bytes = await download(source);
-        if (bytes) {
-          await writeFile(path.join(OG_DIR, `${id}.jpg`), bytes);
-          next = destAbs;
-          ok += 1;
+      let next = FALLBACK;
+      if (source && /\/og\/[^/]+\.(jpe?g|png|webp)$/i.test(source) && !source.includes("og-default")) {
+        next = source;
+        ok += 1;
+      } else {
+        const tries = [];
+        if (source && !isOwnCard(source) && !isPlaceholder(source)) tries.push(source);
+        for (const extra of storyImages(html)) {
+          if (!tries.includes(extra)) tries.push(extra);
+        }
+        for (const tryUrl of tries) {
+          const bytes = await download(tryUrl);
+          if (bytes) {
+            await writeFile(path.join(OG_DIR, `${id}.jpg`), bytes);
+            next = destAbs;
+            ok += 1;
+            break;
+          }
         }
       }
       const updated = rewrite(html, next);

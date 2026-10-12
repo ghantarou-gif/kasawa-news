@@ -9,18 +9,22 @@ function isPlaceholderImage(url: string): boolean {
   try {
     const parsed = new URL(url);
     const path = parsed.pathname.toLowerCase();
-    if (
-      path.endsWith("/default.jpg") ||
-      path.endsWith("/default.png") ||
-      path.includes("/default.") ||
-      path.includes("noimage") ||
-      path.includes("placeholder") ||
-      path.includes("spacer")
-    ) {
+    if (path.includes("noimage") || path.includes("placeholder") || path.includes("spacer")) {
       return true;
     }
     const yahoo =
       parsed.hostname.endsWith("yimg.jp") || parsed.hostname.endsWith("yahoo.co.jp");
+    if (
+      yahoo &&
+      (path.endsWith("/default.jpg") ||
+        path.endsWith("/default.png") ||
+        path.includes("/default."))
+    ) {
+      return true;
+    }
+    if (path === "/default.jpg" || path === "/default.png" || path === "/images/default.jpg") {
+      return true;
+    }
     if (yahoo) return false;
     const height = Number(parsed.searchParams.get("h") || parsed.searchParams.get("height") || 0);
     const width = Number(parsed.searchParams.get("w") || parsed.searchParams.get("width") || 0);
@@ -66,23 +70,45 @@ export function proxiedShareImage(url: string): string {
 export function articleOpenGraphImage(
   image: string | null,
   pathId?: string,
-): { url: string; width: number; height: number } {
+): { url: string; width: number; height: number; type: string } {
   if (pathId) {
     const local = path.join(process.cwd(), "public", "og", `${pathId}.jpg`);
     if (existsSync(local)) {
-      return {
-        url: `${siteUrl()}/og/${pathId}.jpg`,
-        width: OG_WIDTH,
-        height: OG_HEIGHT,
-      };
+      return cardImage(`${siteUrl()}/og/${pathId}.jpg`);
     }
   }
   if (image && !isPlaceholderImage(image)) {
-    return { url: proxiedShareImage(image), width: OG_WIDTH, height: OG_HEIGHT };
+    return cardImage(proxiedShareImage(image));
   }
+  return defaultOpenGraphImage();
+}
+
+export function defaultOpenGraphImage(): {
+  url: string;
+  width: number;
+  height: number;
+  type: string;
+} {
+  return cardImage(`${siteUrl()}/og-default.png`);
+}
+
+function cardImage(url: string): {
+  url: string;
+  width: number;
+  height: number;
+  type: string;
+} {
   return {
-    url: `${siteUrl()}/opengraph-image`,
+    url,
     width: OG_WIDTH,
     height: OG_HEIGHT,
+    type: imageType(url),
   };
+}
+
+function imageType(url: string): string {
+  const lower = url.toLowerCase();
+  if (lower.includes(".png")) return "image/png";
+  if (lower.includes(".webp")) return "image/webp";
+  return "image/jpeg";
 }
