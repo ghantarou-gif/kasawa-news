@@ -47,6 +47,10 @@ const dictionary = {
     watchUnverified: "未確認",
     watchMisleading: "切り取り・誤訳",
     watchFalse: "誤り",
+    watchNewsTitle: "イスラム・ムスリム関連ニュース",
+    watchNewsLead:
+      "配信元のRSSと日本ファクトチェックセンターから、日本のイスラム・ムスリム関連の記事を自動で集めています。1時間以内の間隔で更新し、14日分を残します。SNSの投稿は含みません。",
+    watchNewsEmpty: "いまは該当する記事がありません。",
     travel: "旅ガイド",
     phrasebook: "旅の日本語",
     travelKicker: "Travel guide",
@@ -158,6 +162,10 @@ const dictionary = {
     watchUnverified: "Unverified",
     watchMisleading: "Clipped or mistranslated",
     watchFalse: "False",
+    watchNewsTitle: "Islam and Muslims in Japan: news",
+    watchNewsLead:
+      "Collected automatically from publisher RSS feeds. Updated at least hourly and kept for 14 days. Social media posts are not included.",
+    watchNewsEmpty: "No matching stories right now.",
     travel: "Travel",
     phrasebook: "Phrasebook",
     travelKicker: "Travel guide",

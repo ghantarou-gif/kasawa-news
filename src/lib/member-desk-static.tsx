@@ -1,10 +1,12 @@
 "use client";
 
 import { useState } from "react";
+import { IslamNewsFeed } from "@/components/IslamNewsFeed";
 import { SourceWatch } from "@/components/SourceWatch";
 import { editorGuide } from "@/lib/editor-guide";
 import { t } from "@/lib/i18n";
 import type { Locale } from "@/lib/locale";
+import type { Article } from "@/lib/types";
 
 const CODE_HASH = process.env.NEXT_PUBLIC_MEMBER_CODE_SHA256 ?? "";
 
@@ -13,7 +15,7 @@ async function sha256(value: string): Promise<string> {
   return [...new Uint8Array(buf)].map((byte) => byte.toString(16).padStart(2, "0")).join("");
 }
 
-export function MemberDesk({ locale }: { locale: Locale }) {
+export function MemberDesk({ locale, news = [] }: { locale: Locale; news?: Article[] }) {
   const copy = t(locale);
   const guide = editorGuide[locale];
   const [open, setOpen] = useState(false);
@@ -49,6 +51,7 @@ export function MemberDesk({ locale }: { locale: Locale }) {
               </li>
             ))}
           </ol>
+          <IslamNewsFeed locale={locale} items={news} />
           <SourceWatch locale={locale} />
           <button className="ghost-btn mt-8 px-5" type="button" onClick={() => setOpen(false)}>
             {copy.memberLeave}

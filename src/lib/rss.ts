@@ -13,6 +13,7 @@ import {
 import { FETCH_TIMEOUT_MS, isPaywalledText, isPaywalledUrl, PER_SOURCE_PER_DAY, REVALIDATE_SECONDS } from "./config";
 import { encodeArticleId } from "./article-id";
 import { isJapaneseElectionArticle } from "./election";
+import { isIslamWatchArticle, mentionsIslam } from "./islam-watch";
 import { feedsForLocale, type Feed } from "./feeds";
 import { genres, type GenreId } from "./genres";
 import { githubPages } from "./hosting";
@@ -293,6 +294,30 @@ export async function getElectionArticles(
   const items = await ingest(locale);
   const matched = capDay(items.filter(isJapaneseElectionArticle));
   return sortNewest(matched).slice(0, limit);
+}
+
+// Fetched only for the members' Islam watch, so it stays out of the stored headlines and desks.
+const factCheckFeed: Feed = {
+  id: "jfc",
+  name: "日本ファクトチェックセンター",
+  url: "https://www.factcheckcenter.jp/feed/",
+  locales: ["ja"],
+  categories: [],
+};
+
+export async function getIslamWatchArticles(
+  locale: Locale,
+  limit = 40,
+): Promise<Article[]> {
+  const [items, checks] = await Promise.all([
+    ingest(locale),
+    factCheckFeed.locales.includes(locale) ? fetchFeed(factCheckFeed) : Promise.resolve([]),
+  ]);
+  const byUrl = new Map<string, Article>();
+  for (const article of [...checks.filter(mentionsIslam), ...items.filter(isIslamWatchArticle)]) {
+    if (!byUrl.has(article.url)) byUrl.set(article.url, article);
+  }
+  return sortNewest([...byUrl.values()]).slice(0, limit);
 }
 
 function longer(next?: string, previous?: string): string {
