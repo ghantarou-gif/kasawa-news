@@ -1,0 +1,72 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+5:T118e,マチ★アソビ vol.31で、内閣府大臣官房参事官・国立公文書館次長で村上耕司さんが「 国立公文書館はマチ★アソビの夢を見るか？～クリエイターのための活用術～ 」と題したイベントを開催しました。マチ★アソビは、今や国の成長戦略に位置づけられたコンテンツ産業の関係者が集う場であり、約180万冊の資料を収蔵する国立公文書館として、所蔵文書の活用を目指すねらいがあります。
+
+イベントはufotable CINEMAのエントランスで行われました。村上さんが2026年3月まで徳島県の副知事を務めてマチ★アソビにも積極的に参加していたという縁もあり、多くの観客が集まりました。
+
+「国立公文書館」は国の歴史文書を保存している施設で、明治初期から現代までの行政文書約131万冊や、江戸時代の文庫に由来する古書・古文書約48万冊など、合計約180万冊の資料が保存されています。たとえば「大日本帝国憲法」や「日本国憲法」は原本が保管されています。
+
+古文書では、日本史で名前の出てくる「魏志倭人伝」こと、三国志の巻第三十東夷伝倭人条は、明・万暦帝の時代に南京国子監で印刷された「南監本」が収蔵されています。
+
+また、昭和天皇崩御後の新元号発表で、当時の小渕恵三官房長官が掲げた「平成」の書もあります。
+
+コンテンツ産業は2033年に海外売り上げ20兆円を目指す基幹産業となっていて国の成長戦略に位置づけられており、村上さんは何らかの形で国立公文書館の所蔵文書をコンテンツ産業に活用してもらうために動いているところだというわけです。
+
+活用してもらうための事例がいくつか挙げられました。たとえば、「彼岸花」が物語の鍵になる作品があったとします。
+
+古文書の中に「彼岸花」が出てくるのはいつごろなのかを調べると、万葉集に含まれる柿本人麻呂の歌に出てくる「壱師の花」が彼岸花のことだったとみられます。
+
+江戸時代に寺島良安が編纂した「和漢三才図会略」には、俗に死人花や彼岸花と呼ばれる植物「石蒜(せきさん)」という記述があります。
+
+また、必要な資料のレコメンドもしています。刀剣をモチーフとした作品の場合、たとえば「刀剣図考 第二巻」という資料には「鬼丸」が寸法まで含めて記載されています。
+
+村上さんは「時代考証、設定資料、作品のアイデアなど、いろいろな要望に応える」と語りました。
+
+なお、すでにコンテンツ産業で活用してもらうための取り組みとしてクリエイター向け見学会を実施し、参加した全員から「業務への活用の可能性がある」という回答を得たとのこと。特に、回答者の42％はすでに具体的なアイデアがあり活用できると回答しています。
+
+ちなみに、国立公文書館所蔵の資料を通して「阿波おどり」が根付き受け継がれる軌跡をたどる特別イベント「 国立公文書館で楽しむ阿波おどり 」が、2026年11月25日(水)～12月6日(日)に国立公文書館東京本館で開催されることになっていて、「阿波おどり」の起源に迫る「三好記」などの文書原本が展示されます。
+
+また、会期のうち、11月28日(土)には国立公文書館前で村上さんも所属する「天水連」が阿波おどりを行います。
+
+さらに、「歴史資料で読み解く映画『しらぬひ』」(仮称)も2027年夏開催に向けて企画が進行中で、2026年12月・2027年3月にミニ展示が予定されています。
+
+村上さんは、これを機に国立公文書館を知ってもらいたいと語りました。
+
+神社の縁日などで見かけた「小鳥の占い」は今どこへ消えたのか？
+
+リニア四国初上陸・Fate/ゼロカフェ上映などがあった「ぷち★アソビ Vol.4」レポート
+
+泥とわらで作った器でブドウを半年近く常温保存できる伝統的な保存方法「カンギナ」とは？
+
+You can read the machine translated English article An initiative is underway to utilize the… .d:X
+12:X
+12:C
+0:{"buildId":"hLDkNeSsban5txPAuz-c3","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-17","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Gigazine"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"国立公文書館の所蔵文書をコンテンツ産業に活用してもらう試みが進行中"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"5 時間前"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"マチ★アソビ vol.31で、内閣府大臣官房参事官・国立公文書館次長で村上耕司さんが「 国立公文書館はマチ★アソビの夢を見るか？～クリエイターのための活用術～ 」と題したイベントを開催しました。マチ★アソビは、今や国の成長戦略に位置づけられたコンテンツ産業の関係者が集う場であり、約180万冊の資料を収蔵する国立公文書館として、所蔵文書の活用を目指すねらいがあります。"}],["$","p","1",{"children":"イベントはufotable CINEMAのエントランスで行われました。村上さんが2026年3月まで徳島県の副知事を務めてマチ★アソビにも積極的に参加していたという縁もあり、多くの観客が集まりました。"}],["$","p","2",{"children":"「国立公文書館」は国の歴史文書を保存している施設で、明治初期から現代までの行政文書約131万冊や、江戸時代の文庫に由来する古書・古文書約48万冊など、合計約180万冊の資料が保存されています。たとえば「大日本帝国憲法」や「日本国憲法」は原本が保管されています。"}],["$","p","3",{"children":"古文書では、日本史で名前の出てくる「魏志倭人伝」こと、三国志の巻第三十東夷伝倭人条は、明・万暦帝の時代に南京国子監で印刷された「南監本」が収蔵されています。"}],["$","p","4",{"children":"また、昭和天皇崩御後の新元号発表で、当時の小渕恵三官房長官が掲げた「平成」の書もあります。"}],["$","p","5",{"children":"コンテンツ産業は2033年に海外売り上げ20兆円を目指す基幹産業となっていて国の成長戦略に位置づけられており、村上さんは何らかの形で国立公文書館の所蔵文書をコンテンツ産業に活用してもらうために動いているところだというわけです。"}],["$","p","6",{"children":"活用してもらうための事例がいくつか挙げられました。たとえば、「彼岸花」が物語の鍵になる作品があったとします。"}],["$","p","7",{"children":"古文書の中に「彼岸花」が出てくるのはいつごろなのかを調べると、万葉集に含まれる柿本人麻呂の歌に出てくる「壱師の花」が彼岸花のことだったとみられます。"}],["$","p","8",{"children":"江戸時代に寺島良安が編纂した「和漢三才図会略」には、俗に死人花や彼岸花と呼ばれる植物「石蒜(せきさん)」という記述があります。"}],["$","p","9",{"children":"また、必要な資料のレコメンドもしています。刀剣をモチーフとした作品の場合、たとえば「刀剣図考 第二巻」という資料には「鬼丸」が寸法まで含めて記載されています。"}],["$","p","10",{"children":"村上さんは「時代考証、設定資料、作品のアイデアなど、いろいろな要望に応える」と語りました。"}],["$","p","11",{"children":"なお、すでにコンテンツ産業で活用してもらうための取り組みとしてクリエイター向け見学会を実施し、参加した全員から「業務への活用の可能性がある」という回答を得たとのこと。特に、回答者の42％はすでに具体的なアイデアがあり活用できると回答しています。"}],["$","p","12",{"children":"ちなみに、国立公文書館所蔵の資料を通して「阿波おどり」が根付き受け継がれる軌跡をたどる特別イベント「 国立公文書館で楽しむ阿波おどり 」が、2026年11月25日(水)～12月6日(日)に国立公文書館東京本館で開催されることになっていて、「阿波おどり」の起源に迫る「三好記」などの文書原本が展示されます。"}],["$","p","13",{"children":"また、会期のうち、11月28日(土)には国立公文書館前で村上さんも所属する「天水連」が阿波おどりを行います。"}],["$","p","14",{"children":"さらに、「歴史資料で読み解く映画『しらぬひ』」(仮称)も2027年夏開催に向けて企画が進行中で、2026年12月・2027年3月にミニ展示が予定されています。"}],["$","p","15",{"children":"村上さんは、これを機に国立公文書館を知ってもらいたいと語りました。"}],["$","p","16",{"children":"神社の縁日などで見かけた「小鳥の占い」は今どこへ消えたのか？"}],["$","p","17",{"children":"リニア四国初上陸・Fate/ゼロカフェ上映などがあった「ぷち★アソビ Vol.4」レポート"}],["$","p","18",{"children":"泥とわらで作った器でブドウを半年近く常温保存できる伝統的な保存方法「カンギナ」とは？"}],["$","p","19",{"children":"You can read the machine translated English article An initiative is underway to utilize the… ."}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はGigazineにあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://gigazine.net/news/20261017-archives-machiasobi31/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はGigazineで読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/8db6c6218db6c621ef3a8439","title":"国立公文書館の所蔵文書をコンテンツ産業に活用してもらう試みが進行中","locale":"ja","take":null}],["$","$L4",null,{"title":"国立公文書館の所蔵文書をコンテンツ産業に活用してもらう試みが進行中","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/8db6c6218db6c621ef3a8439","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E5%9B%BD%E7%AB%8B%E5%85%AC%E6%96%87%E6%9B%B8%E9%A4%A8%E3%81%AE%E6%89%80%E8%94%B5%E6%96%87%E6%9B%B8%E3%82%92%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E7%94%A3%E6%A5%AD%E3%81%AB%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%A6%E3%82%82%E3%82%89%E3%81%86%E8%A9%A6%E3%81%BF%E3%81%8C%E9%80%B2%E8%A1%8C%E4%B8%AD&mode=phrase&url=gigazine.net&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","yahoo-picks:https://news.yahoo.co.jp/pickup/6599181?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/6b7650846b765084ff9e0ef2","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"祭りで太鼓台の下敷き 副市長死亡"}]]}]}],["$","li","nhk-sports:https://news.web.nhk/newsweb/na/nd-20261017de60907",{"children":["$","$L2",null,{"href":"/ja/n/00be53f900be53f94688c815","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"箱根駅伝予選会 東洋大など10校が出場権獲得【結果】"}]]}]}],["$","li","france24:https://france24.com/en/middle-east/20261017-israeli-settlers-attack-european-delegation-convoy-in-west-bank-beat-french-mayor",{"children":["$","$L2",null,{"href":"/ja/n/838209ef838209ef5f452b4f","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"France 24"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Israeli settlers attack European delegation convoy in West Bank, beat French mayor"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"国立公文書館の所蔵文書をコンテンツ産業に活用してもらう試みが進行中"}],["$","meta","1",{"name":"description","content":"マチ★アソビ vol.31で、内閣府大臣官房参事官・国立公文書館次長で村上耕司さんが「 国立公文書館はマチ★アソビの夢を見るか？～クリエイターのための活用術～ 」と題したイベントを開催しました。マチ★アソビは、今や国の成長戦略に位置づけられたコンテンツ産業の関係者が集う場であり、約180万冊の資料を収蔵する国立公文書館として、所蔵文書の活用を目指すねらいがあります。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"国立公文書館の所蔵文書をコンテンツ産業に活用してもらう試みが進行中"}],["$","meta","4",{"property":"og:description","content":"マチ★アソビ vol.31で、内閣府大臣官房参事官・国立公文書館次長で村上耕司さんが「 国立公文書館はマチ★アソビの夢を見るか？～クリエイターのための活用術～ 」と題したイベントを開催しました。マチ★アソビは、今や国の成長戦略に位置づけられたコンテンツ産業の関係者が集う場であり、約180万冊の資料を収蔵する国立公文書館として、所蔵文書の活用を目指すねらいがあります。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/8db6c6218db6c621ef3a8439/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"国立公文書館の所蔵文書をコンテンツ産業に活用してもらう試みが進行中"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"国立公文書館の所蔵文書をコンテンツ産業に活用してもらう試みが進行中"}],["$","meta","14",{"name":"twitter:description","content":"マチ★アソビ vol.31で、内閣府大臣官房参事官・国立公文書館次長で村上耕司さんが「 国立公文書館はマチ★アソビの夢を見るか？～クリエイターのための活用術～ 」と題したイベントを開催しました。マチ★アソビは、今や国の成長戦略に位置づけられたコンテンツ産業の関係者が集う場であり、約180万冊の資料を収蔵する国立公文書館として、所蔵文書の活用を目指すねらいがあります。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

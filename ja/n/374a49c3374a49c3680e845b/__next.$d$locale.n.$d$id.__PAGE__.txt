@@ -1,0 +1,96 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/01f0/live/59d06e70-c57a-11f1-a64c-550be9e3c66b.jpg","image"]
+f:X
+14:X
+14:C
+0:{"buildId":"hLDkNeSsban5txPAuz-c3","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-12","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"イエメンのフーシ派、サウジアラビア首都の空港を2日連続で攻撃 1人死亡し11人負傷"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"6 日前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/01f0/live/59d06e70-c57a-11f1-a64c-550be9e3c66b.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"攻撃を受けたサウジアラビア・リヤドの国際空港の様子を捉えた動画"}],["$","p","1",{"children":"Smoke outside Riyadh International Airport"}],["$","p","2",{"children":"サウジアラビアの首都リヤドにある国際空港が11日、攻撃を受け、1人が死亡、11人が負傷した。当局が明らかにした。同空港は前日10日にも攻撃を受け、13人が死亡、308人が負傷している。"}],["$","p","3",{"children":"サウジアラビア軍の報道官によると、キング・ハーリド国際空港に11日、飛翔体が着弾し、旅客ターミナルの一つで火災が発生した。同国の民間航空当局はソーシャルメディアへの投稿で、サウジアラビア在住のパキスタン人1人が死亡したと発表した。"}],["$","p","4",{"children":"イエメンの反政府勢力フーシ派は、一連の攻撃を実行したと主張し、航空会社や乗客に対して、サウジアラビアの空港や領空を使用しないよう警告した。"}],["$","p","5",{"children":"フーシ派は、過去24時間にキング・ハーリド国際空港に対し、弾道ミサイルや巡航ミサイル、ドローンを組み合わせた攻撃を仕掛けたとした。"}],["$","p","6",{"children":"フーシ派の軍事報道官、ヤヒヤ・サリー准将は、サウジアラビア東部の石油施設やダンマーム空港も攻撃したと明らかにした。"}],["$","p","7",{"children":"サリー氏は、「サウジアラビア領内の奥深くでの作戦を激化」し続けると表明。イスラム教の聖地メッカとメディナにある空港を除き、サウジアラビア国内のすべての空港が標的になり得ると警告した。"}],["$","p","8",{"children":"フーシ派は、サウジアラビアがイエメン内戦で政府軍を支援していることや、イエメン首都サヌアの空港が空爆されたことへの報復として、サウジアラビアを攻撃していると主張している。"}],["$","p","9",{"children":"サウジアラビアが主導する連合軍の報道官、トゥルキ・アル・マリキ少将は11日、リヤドの空港付近で防空システムがミサイル1発を迎撃したと発表した。一方で当局は、「正体不明の飛翔体」が第4旅客ターミナルに着弾して発生した火災の対応にあたった。"}],["$","p","10",{"children":"アメリカのドナルド・トランプ大統領は、フーシ派を攻撃するかどうかについて、アメリカは「決断を下し、非常に迅速に行動する」と述べた。イギリスのウェス・ストリーティング国防相は、イギリスがサウジアラビアに対して追加支援を提供する「可能性」があると述べた。"}],["$","p","11",{"children":"前日10日の攻撃では、米・イスラエルとイランとの戦争が2月に始まって以降、湾岸のアラブ諸国に対する単一の攻撃としては最も多くの犠牲者が出た。サウジアラビア主導の連合軍は、この攻撃を「戦争犯罪」だと非難し、報復すると誓った。"}],["$","p","12",{"children":"サウジアラビアの民間航空当局によると、死者にはサウジアラビア人4人、バングラデシュ人2人のほか、アメリカ、ヨルダン、パレスチナ、シリア、スーダン、エジプトの出身者がそれぞれ1人含まれていた。"}],["$","p","13",{"children":"在サウジアラビアのインド大使館は11日、インド人男性1人が前日の攻撃で負ったけがが原因で死亡したと発表した。"}],["$","p","14",{"children":"アメリカのマルコ・ルビオ国務長官は攻撃を非難し、アメリカ人1人が死亡したことを認めた。イギリスのエド・ミリバンド外相は「がくぜんとしている」と述べた。"}],["$","p","15",{"children":"英外務省は、イエメンとの国境から10キロ以内の地域を含むサウジアラビアの一部地域について、渡航を控えるよう勧告している。複数の西側諸国の大使館も自国民に対し、同地域への渡航について警告を発している。"}],["$","p","16",{"children":"フーシ派運営のテレビ局「アルマシラ」は、「サウジアラビアの敵」がイエメンの首都サヌアにある国際空港を空爆したと報じた。同局によると、サヌア市内の住宅も攻撃を受け、子ども1人が死亡、6人が負傷したという。"}],["$","p","17",{"children":"サウジアラビアはこうした攻撃について認めていない。BBCも報道内容が事実であるか検証できていない。"}],["$","p","18",{"children":"イエメンの国際的に承認されている政府のアブドラ・アルアリミ・バワジル副大統領は、同地域および国際的なパートナー国に対し、「断固とした行動」を取るよう求めた。"}],["$","p","19",{"children":"リヤドの空港は8日にも攻撃を受け、サウジアラビア人3人が死亡した。フーシ派はこれについても犯行を主張。巡航ミサイルを使って空港を攻撃したとした。"}],["$","p","20",{"children":"これに先立つ2日間にも、南西部アブハとリヤドの空港で2度の攻撃があり、複数の死者が出た。"}],["$","p","21",{"children":"キング・ハーリド国際空港で煙と炎が確認された（8日、リヤド）"}],["$","p","22",{"children":"空港施設かオレンジ色の炎と大きな黒煙が上がっている。手前には白い機体に青と緑のラインが入った航空機が見える"}],["$","p","23",{"children":"最近の攻撃激化は、サウジアラビア主導の連合軍とフーシ派との間で2022年に発効した非公式の停戦が、今年7月に破綻したことを受けてのもの。"}],["$","p","24",{"children":"フーシ派が急速な攻勢を仕掛け、戦略的に重要な紅海沿岸の一部地域を制圧すると、サウジアラビアは空爆を実施し、紛争は激化した。その後、イエメン政府軍は、これらの地域を掌握したと発表した。"}],["$","p","25",{"children":"フーシ派は現在、イエメン領土の約25％を支配している。支配地域にはイエメン人口の最大80％が暮らしている。イランの支援を受けるフーシ派は、最終的にイエメン全土を掌握することを目指している。"}],"$L3","$L4","$L5"],"$L6"]}],"$L7","$L8","$L9",null,"$La","$Lb"]}],["$Lc"],"$Ld"]}],"isPartial":"$@e","staleTime":"$f","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$f","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$f","varyParams":"$14"},{"rsc":"$L15","isPartial":"$@16","staleTime":"$f","varyParams":"$14"}],"isUpgradeableISRFallback":false,"a":"$@17","rootVaryParams":null,"needsRuntimeRequest":"$@18"}
+19:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+1a:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+1c:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+1d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1e:"$Sreact.suspense"
+20:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+21:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+22:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+23:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+24:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","26",{"children":"サウジアラビアは、フーシ派がイエメン全土を掌握すれば、南側国境にイランの衛星国が誕生するのではないかと懸念している。"}]
+4:["$","p","27",{"children":"イランのアッバス・アラグチ外相は11日、サウジアラビアの外相に対し、「サウジアラビアとイエメンの対話を促進する」ための支援を提供する用意があると伝えた。アラグチ氏が言う「イエメン」とは、フーシ派を指している。"}]
+5:["$","p","28",{"children":"（英語記事 One killed, 11 injured in second Houthi strike on Riyadh airport in two days）"}]
+6:["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]
+7:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/crz98nqqnw5no","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}]
+1b:T1939,攻撃を受けたサウジアラビア・リヤドの国際空港の様子を捉えた動画
+
+Smoke outside Riyadh International Airport
+
+サウジアラビアの首都リヤドにある国際空港が11日、攻撃を受け、1人が死亡、11人が負傷した。当局が明らかにした。同空港は前日10日にも攻撃を受け、13人が死亡、308人が負傷している。
+
+サウジアラビア軍の報道官によると、キング・ハーリド国際空港に11日、飛翔体が着弾し、旅客ターミナルの一つで火災が発生した。同国の民間航空当局はソーシャルメディアへの投稿で、サウジアラビア在住のパキスタン人1人が死亡したと発表した。
+
+イエメンの反政府勢力フーシ派は、一連の攻撃を実行したと主張し、航空会社や乗客に対して、サウジアラビアの空港や領空を使用しないよう警告した。
+
+フーシ派は、過去24時間にキング・ハーリド国際空港に対し、弾道ミサイルや巡航ミサイル、ドローンを組み合わせた攻撃を仕掛けたとした。
+
+フーシ派の軍事報道官、ヤヒヤ・サリー准将は、サウジアラビア東部の石油施設やダンマーム空港も攻撃したと明らかにした。
+
+サリー氏は、「サウジアラビア領内の奥深くでの作戦を激化」し続けると表明。イスラム教の聖地メッカとメディナにある空港を除き、サウジアラビア国内のすべての空港が標的になり得ると警告した。
+
+フーシ派は、サウジアラビアがイエメン内戦で政府軍を支援していることや、イエメン首都サヌアの空港が空爆されたことへの報復として、サウジアラビアを攻撃していると主張している。
+
+サウジアラビアが主導する連合軍の報道官、トゥルキ・アル・マリキ少将は11日、リヤドの空港付近で防空システムがミサイル1発を迎撃したと発表した。一方で当局は、「正体不明の飛翔体」が第4旅客ターミナルに着弾して発生した火災の対応にあたった。
+
+アメリカのドナルド・トランプ大統領は、フーシ派を攻撃するかどうかについて、アメリカは「決断を下し、非常に迅速に行動する」と述べた。イギリスのウェス・ストリーティング国防相は、イギリスがサウジアラビアに対して追加支援を提供する「可能性」があると述べた。
+
+前日10日の攻撃では、米・イスラエルとイランとの戦争が2月に始まって以降、湾岸のアラブ諸国に対する単一の攻撃としては最も多くの犠牲者が出た。サウジアラビア主導の連合軍は、この攻撃を「戦争犯罪」だと非難し、報復すると誓った。
+
+サウジアラビアの民間航空当局によると、死者にはサウジアラビア人4人、バングラデシュ人2人のほか、アメリカ、ヨルダン、パレスチナ、シリア、スーダン、エジプトの出身者がそれぞれ1人含まれていた。
+
+在サウジアラビアのインド大使館は11日、インド人男性1人が前日の攻撃で負ったけがが原因で死亡したと発表した。
+
+アメリカのマルコ・ルビオ国務長官は攻撃を非難し、アメリカ人1人が死亡したことを認めた。イギリスのエド・ミリバンド外相は「がくぜんとしている」と述べた。
+
+英外務省は、イエメンとの国境から10キロ以内の地域を含むサウジアラビアの一部地域について、渡航を控えるよう勧告している。複数の西側諸国の大使館も自国民に対し、同地域への渡航について警告を発している。
+
+フーシ派運営のテレビ局「アルマシラ」は、「サウジアラビアの敵」がイエメンの首都サヌアにある国際空港を空爆したと報じた。同局によると、サヌア市内の住宅も攻撃を受け、子ども1人が死亡、6人が負傷したという。
+
+サウジアラビアはこうした攻撃について認めていない。BBCも報道内容が事実であるか検証できていない。
+
+イエメンの国際的に承認されている政府のアブドラ・アルアリミ・バワジル副大統領は、同地域および国際的なパートナー国に対し、「断固とした行動」を取るよう求めた。
+
+リヤドの空港は8日にも攻撃を受け、サウジアラビア人3人が死亡した。フーシ派はこれについても犯行を主張。巡航ミサイルを使って空港を攻撃したとした。
+
+これに先立つ2日間にも、南西部アブハとリヤドの空港で2度の攻撃があり、複数の死者が出た。
+
+キング・ハーリド国際空港で煙と炎が確認された（8日、リヤド）
+
+空港施設かオレンジ色の炎と大きな黒煙が上がっている。手前には白い機体に青と緑のラインが入った航空機が見える
+
+最近の攻撃激化は、サウジアラビア主導の連合軍とフーシ派との間で2022年に発効した非公式の停戦が、今年7月に破綻したことを受けてのもの。
+
+フーシ派が急速な攻勢を仕掛け、戦略的に重要な紅海沿岸の一部地域を制圧すると、サウジアラビアは空爆を実施し、紛争は激化した。その後、イエメン政府軍は、これらの地域を掌握したと発表した。
+
+フーシ派は現在、イエメン領土の約25％を支配している。支配地域にはイエメン人口の最大80％が暮らしている。イランの支援を受けるフーシ派は、最終的にイエメン全土を掌握することを目指している。
+
+サウジアラビアは、フーシ派がイエメン全土を掌握すれば、南側国境にイランの衛星国が誕生するのではないかと懸念している。
+
+イランのアッバス・アラグチ外相は11日、サウジアラビアの外相に対し、「サウジアラビアとイエメンの対話を促進する」ための支援を提供する用意があると伝えた。アラグチ氏が言う「イエメン」とは、フーシ派を指している。
+
+（英語記事 One killed, 11 injured in second Houthi strike on Riyadh airport in two days）8:["$","section",null,{"className":"article-actions","children":[["$","$L19",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/374a49c3374a49c3680e845b","title":"イエメンのフーシ派、サウジアラビア首都の空港を2日連続で攻撃 1人死亡し11人負傷","locale":"ja","take":null}],["$","$L1a",null,{"title":"イエメンのフーシ派、サウジアラビア首都の空港を2日連続で攻撃 1人死亡し11人負傷","excerpt":"$1b","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/374a49c3374a49c3680e845b","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E3%82%A4%E3%82%A8%E3%83%A1%E3%83%B3%E3%81%AE%E3%83%95%E3%83%BC%E3%82%B7%E6%B4%BE%E3%80%81%E3%82%B5%E3%82%A6%E3%82%B8%E3%82%A2%E3%83%A9%E3%83%93%E3%82%A2%E9%A6%96%E9%83%BD%E3%81%AE%E7%A9%BA%E6%B8%AF%E3%82%922%E6%97%A5%E9%80%A3%E7%B6%9A%E3%81%A7%E6%94%BB%E6%92%83+1%E4%BA%BA%E6%AD%BB%E4%BA%A1%E3%81%9711%E4%BA%BA%E8%B2%A0%E5%82%B7&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+9:["$","$L1c",null,{"placement":"article","className":"mt-8"}]
+a:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+b:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","nhk-sports:https://news.web.nhk/newsweb/na/nd-20261012de58196",{"children":["$","$L2",null,{"href":"/ja/n/a311a057a311a057665dfaaf","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"プロ野球 パ・リーグCS 日本ハムがファイナルステージ進出"}]]}]}],["$","li","dw:https://dw.com/en/pope-lung-nodule-could-it-be-cancer/a-79641503?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/15661e0015661e00f60bfe74","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Pope lung nodule: Could it be cancer?"}]]}]}],["$","li","nhk-society:https://news.web.nhk/newsweb/na/nd-20261012de58117",{"children":["$","$L2",null,{"href":"/ja/n/68bf101d68bf101da093ed3d","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"栃木 那珂川町 工場火災 鎮火のめど立たず 夜間も消火活動へ"}]]}]}]]}]]}]
+c:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+d:["$","$L1d",null,{"children":["$","$1e",null,{"name":"Next.MetadataOutlet","children":"$@1f"}]}]
+10:["$","$1","h",{"children":[null,["$","$L20",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L21",null,{"children":["$","$1e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"イエメンのフーシ派、サウジアラビア首都の空港を2日連続で攻撃 1人死亡し11人負傷"}],["$","meta","1",{"name":"description","content":"攻撃を受けたサウジアラビア・リヤドの国際空港の様子を捉えた動画"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"イエメンのフーシ派、サウジアラビア首都の空港を2日連続で攻撃 1人死亡し11人負傷"}],["$","meta","4",{"property":"og:description","content":"攻撃を受けたサウジアラビア・リヤドの国際空港の様子を捉えた動画"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/374a49c3374a49c3680e845b/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F01f0%2Flive%2F59d06e70-c57a-11f1-a64c-550be9e3c66b.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"イエメンのフーシ派、サウジアラビア首都の空港を2日連続で攻撃 1人死亡し11人負傷"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"イエメンのフーシ派、サウジアラビア首都の空港を2日連続で攻撃 1人死亡し11人負傷"}],["$","meta","14",{"name":"twitter:description","content":"攻撃を受けたサウジアラビア・リヤドの国際空港の様子を捉えた動画"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F01f0%2Flive%2F59d06e70-c57a-11f1-a64c-550be9e3c66b.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L22","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+12:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+15:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+18:true
+1f:null
+f:300
+f:C
+17:0
+11:"$undefined"
+13:"$undefined"
+16:"$undefined"
+e:"$undefined"

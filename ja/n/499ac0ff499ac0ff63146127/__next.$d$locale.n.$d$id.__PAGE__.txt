@@ -1,0 +1,76 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+5:Te77,自分の声をずんだもんに変えて、四国めたんとの会話劇を楽しめるイベント『あなたも「ずんだもん」になれる!!四国めたんの中の人 田中小雪とVtuberごっこin マチ★アソビ』が マチ★アソビ vol.31 の一環として実施されています。四国めたんは合成音声ではなく、四国めたんの中の人である田中小雪さんが隣に座って生声をあててくれるという非常に特別な体験を楽しめる素晴らしいイベントです。
+
+あなたも「ずんだもん」になれる!!四国めたんの中の人 田中小雪とVtuberごっこin マチ★アソビ | マチ★アソビ vol.31
+
+イベント会場はJR徳島駅の近くにある商店街「ポッポ街」の空き店舗を利用したスペースに設けられています。
+
+2026年10月17日の体験会は13時～16時。2026年10月18日にも実施される予定です。
+
+会場の奥に体験ブースが設置されています。
+
+ずんだもと四国めたんが映ったディスプレイ。ディスプレイの上にはカメラが設置されていて、人間の動きを読み取ってキャラクターに反映することができます。
+
+ディスプレイの上には台本が貼られています。
+
+ボイスチェンジャーアプリ「 Paravo 」を起動したPCが用意されており、人間の声をリアルタイムでずんだもんの声に変換できます。
+
+今回は会場にいた東北ずん子・ずんだもんプロジェクトのファンに協力してもらい、実際の体験中の様子を撮影させてもらいました。まず、ディスプレイの前にある椅子に座ってヘッドセットを装着。
+
+この状態でしゃべると、同時にずんだもんの声がスピーカーから再生されます。また、顔や体の動きがリアルタイムでディスプレイ上のずんだもんに反映されます。
+
+田中小雪さんが隣に着席。この状態で、台本の緑色のセリフを参加者(ずんだもん)が読み上げ、ピンク色のセリフを田中さん(四国めたん)が読み上げます。田中さんは、もちろんボイスチェンジャーを使わず、生声をあててくれます。
+
+実際にファンの声がリアルタイムでずんだもんの声に変換される様子が以下。
+
+誰でもずんだもんの声が出せる＆動きも付けられる体験会『あなたも「ずんだもん」になれる!!四国めたんの中の人 田中小雪とVtuberごっこin マチ★アソビ』 - YouTube
+
+体験会は2026年10月18日にも実施されるので、気になった人はポッポ街の会場まで行ってみてください。
+
+なお、会場では「えだまめ直売所」として、東北ずん子・ずんだもんプロジェクトのグッズが販売されています。グッズは缶バッジや英会話本など多種多様。
+
+ぬいぐるみもたくさん準備されていました。
+
+「マチ★アソビ vol.31」全記事一覧まとめ - GIGAZINE
+
+「マチ★アソビ vol.31」イベントスケジュール一覧まとめ - GIGAZINE
+
+ずんだもん＆邪神ちゃんのプロデューサーがあれこれ語ってグッズを配りまくるトークバトルが実施されたので見てきた【マチ★アソビ Vol.29】
+
+約100枚の写真で振り返る「マチ★アソビ vol.3」、次回は10月開催予定
+
+声優さんがVR生体験したVRアイドルプロジェクト「Hop Step Sing！」の初ステージイベントレポート
+
+You can read the machine translated English article A real-life event will be held in Tokush… .d:X
+12:X
+12:C
+0:{"buildId":"hLDkNeSsban5txPAuz-c3","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-17","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Gigazine"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"ずんだもんの声になって四国めたんの中の人と会話劇を繰り広げられるリアルイベントが徳島で開催される"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"7 時間前"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"自分の声をずんだもんに変えて、四国めたんとの会話劇を楽しめるイベント『あなたも「ずんだもん」になれる!!四国めたんの中の人 田中小雪とVtuberごっこin マチ★アソビ』が マチ★アソビ vol.31 の一環として実施されています。四国めたんは合成音声ではなく、四国めたんの中の人である田中小雪さんが隣に座って生声をあててくれるという非常に特別な体験を楽しめる素晴らしいイベントです。"}],["$","p","1",{"children":"あなたも「ずんだもん」になれる!!四国めたんの中の人 田中小雪とVtuberごっこin マチ★アソビ | マチ★アソビ vol.31"}],["$","p","2",{"children":"イベント会場はJR徳島駅の近くにある商店街「ポッポ街」の空き店舗を利用したスペースに設けられています。"}],["$","p","3",{"children":"2026年10月17日の体験会は13時～16時。2026年10月18日にも実施される予定です。"}],["$","p","4",{"children":"会場の奥に体験ブースが設置されています。"}],["$","p","5",{"children":"ずんだもと四国めたんが映ったディスプレイ。ディスプレイの上にはカメラが設置されていて、人間の動きを読み取ってキャラクターに反映することができます。"}],["$","p","6",{"children":"ディスプレイの上には台本が貼られています。"}],["$","p","7",{"children":"ボイスチェンジャーアプリ「 Paravo 」を起動したPCが用意されており、人間の声をリアルタイムでずんだもんの声に変換できます。"}],["$","p","8",{"children":"今回は会場にいた東北ずん子・ずんだもんプロジェクトのファンに協力してもらい、実際の体験中の様子を撮影させてもらいました。まず、ディスプレイの前にある椅子に座ってヘッドセットを装着。"}],["$","p","9",{"children":"この状態でしゃべると、同時にずんだもんの声がスピーカーから再生されます。また、顔や体の動きがリアルタイムでディスプレイ上のずんだもんに反映されます。"}],["$","p","10",{"children":"田中小雪さんが隣に着席。この状態で、台本の緑色のセリフを参加者(ずんだもん)が読み上げ、ピンク色のセリフを田中さん(四国めたん)が読み上げます。田中さんは、もちろんボイスチェンジャーを使わず、生声をあててくれます。"}],["$","p","11",{"children":"実際にファンの声がリアルタイムでずんだもんの声に変換される様子が以下。"}],["$","p","12",{"children":"誰でもずんだもんの声が出せる＆動きも付けられる体験会『あなたも「ずんだもん」になれる!!四国めたんの中の人 田中小雪とVtuberごっこin マチ★アソビ』 - YouTube"}],["$","p","13",{"children":"体験会は2026年10月18日にも実施されるので、気になった人はポッポ街の会場まで行ってみてください。"}],["$","p","14",{"children":"なお、会場では「えだまめ直売所」として、東北ずん子・ずんだもんプロジェクトのグッズが販売されています。グッズは缶バッジや英会話本など多種多様。"}],["$","p","15",{"children":"ぬいぐるみもたくさん準備されていました。"}],["$","p","16",{"children":"「マチ★アソビ vol.31」全記事一覧まとめ - GIGAZINE"}],["$","p","17",{"children":"「マチ★アソビ vol.31」イベントスケジュール一覧まとめ - GIGAZINE"}],["$","p","18",{"children":"ずんだもん＆邪神ちゃんのプロデューサーがあれこれ語ってグッズを配りまくるトークバトルが実施されたので見てきた【マチ★アソビ Vol.29】"}],["$","p","19",{"children":"約100枚の写真で振り返る「マチ★アソビ vol.3」、次回は10月開催予定"}],["$","p","20",{"children":"声優さんがVR生体験したVRアイドルプロジェクト「Hop Step Sing！」の初ステージイベントレポート"}],["$","p","21",{"children":"You can read the machine translated English article A real-life event will be held in Tokush… ."}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はGigazineにあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://gigazine.net/news/20261017-zundamon-vtuber-machiasobi31/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はGigazineで読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/499ac0ff499ac0ff63146127","title":"ずんだもんの声になって四国めたんの中の人と会話劇を繰り広げられるリアルイベントが徳島で開催される","locale":"ja","take":null}],["$","$L4",null,{"title":"ずんだもんの声になって四国めたんの中の人と会話劇を繰り広げられるリアルイベントが徳島で開催される","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/499ac0ff499ac0ff63146127","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E3%81%9A%E3%82%93%E3%81%A0%E3%82%82%E3%82%93%E3%81%AE%E5%A3%B0%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E5%9B%9B%E5%9B%BD%E3%82%81%E3%81%9F%E3%82%93%E3%81%AE%E4%B8%AD%E3%81%AE%E4%BA%BA%E3%81%A8%E4%BC%9A%E8%A9%B1%E5%8A%87%E3%82%92%E7%B9%B0%E3%82%8A%E5%BA%83%E3%81%92%E3%82%89%E3%82%8C%E3%82%8B%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%8C%E5%BE%B3%E5%B3%B6%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%82%8B&mode=phrase&url=gigazine.net&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","yahoo-picks:https://news.yahoo.co.jp/pickup/6599181?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/6b7650846b765084ff9e0ef2","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"祭りで太鼓台の下敷き 副市長死亡"}]]}]}],["$","li","nhk-sports:https://news.web.nhk/newsweb/na/nd-20261017de60907",{"children":["$","$L2",null,{"href":"/ja/n/00be53f900be53f94688c815","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"箱根駅伝予選会 東洋大など10校が出場権獲得【結果】"}]]}]}],["$","li","france24:https://france24.com/en/middle-east/20261017-israeli-settlers-attack-european-delegation-convoy-in-west-bank-beat-french-mayor",{"children":["$","$L2",null,{"href":"/ja/n/838209ef838209ef5f452b4f","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"France 24"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Israeli settlers attack European delegation convoy in West Bank, beat French mayor"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ずんだもんの声になって四国めたんの中の人と会話劇を繰り広げられるリアルイベントが徳島で開催される"}],["$","meta","1",{"name":"description","content":"自分の声をずんだもんに変えて、四国めたんとの会話劇を楽しめるイベント『あなたも「ずんだもん」になれる!!四国めたんの中の人 田中小雪とVtuberごっこin マチ★アソビ』が マチ★アソビ vol.31 の一環として実施されています。四国めたんは合成音声ではなく、四国めたんの中の人である田中小雪さんが隣に座って生声をあててくれるという非常に特別な体験を楽しめる素晴らしいイベントです。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"ずんだもんの声になって四国めたんの中の人と会話劇を繰り広げられるリアルイベントが徳島で開催される"}],["$","meta","4",{"property":"og:description","content":"自分の声をずんだもんに変えて、四国めたんとの会話劇を楽しめるイベント『あなたも「ずんだもん」になれる!!四国めたんの中の人 田中小雪とVtuberごっこin マチ★アソビ』が マチ★アソビ vol.31 の一環として実施されています。四国めたんは合成音声ではなく、四国めたんの中の人である田中小雪さんが隣に座って生声をあててくれるという非常に特別な体験を楽しめる素晴らしいイベントです。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/499ac0ff499ac0ff63146127/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"ずんだもんの声になって四国めたんの中の人と会話劇を繰り広げられるリアルイベントが徳島で開催される"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"ずんだもんの声になって四国めたんの中の人と会話劇を繰り広げられるリアルイベントが徳島で開催される"}],["$","meta","14",{"name":"twitter:description","content":"自分の声をずんだもんに変えて、四国めたんとの会話劇を楽しめるイベント『あなたも「ずんだもん」になれる!!四国めたんの中の人 田中小雪とVtuberごっこin マチ★アソビ』が マチ★アソビ vol.31 の一環として実施されています。四国めたんは合成音声ではなく、四国めたんの中の人である田中小雪さんが隣に座って生声をあててくれるという非常に特別な体験を楽しめる素晴らしいイベントです。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

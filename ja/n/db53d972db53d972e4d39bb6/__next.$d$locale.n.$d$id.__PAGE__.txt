@@ -1,0 +1,96 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-00010000-nknatiogeo-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","image"]
+13:X
+18:X
+18:C
+0:{"buildId":"hLDkNeSsban5txPAuz-c3","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-13","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"〈目撃〉驚異のクモ罠、アリがかむと作動して最大140Gで巣へ一直線 どうなっている？(ナショナル ジオグラフィック日本版)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"4 日前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-00010000-nknatiogeo-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"ツムギアリ（Oecophylla smaragdina）を捕まえるのは簡単ではない。この攻撃的なアリは強力な顎でかみつき、傷口に酸を噴射することさえある。そんなアリをあえて狙う捕食者がほとんどいないのもうなずけるが、それをやってのける勇敢なクモが新たに見つかった。"}],["$","p","1",{"children":"「バリスタ・スパイダー」（バリスタは古代の兵器、弩砲のこと）と呼ばれるクモは、精巧なバネ式の罠を仕掛けて、驚異的なスピードでツムギアリをクモの巣へ引き上げる。こうした捕獲システムを用いるクモが見つかったのは初めてだ。まだ学名はないが、新種とみられるこのクモ（Propostira属）のスゴ技は、2026年6月22日付けで学術誌「Current Biology」に発表された。"}],["$","p","2",{"children":"ツムギアリ（Oecophylla smaragdina）を捕まえるのは簡単ではない。この攻撃的なアリは強力な顎でかみつき、傷口に酸を噴射することさえある。そんなアリをあえて狙う捕食者がほとんどいないのもうなずけるが、それをやってのける勇敢なクモが新たに見つかった。"}],["$","p","3",{"children":"「バリスタ・スパイダー」（バリスタは古代の兵器、弩砲のこと）と呼ばれるクモは、精巧なバネ式の罠を仕掛けて、驚異的なスピードでツムギアリをクモの巣へ引き上げる。こうした捕獲システムを用いるクモが見つかったのは初めてだ。まだ学名はないが、新種とみられるこのクモ（Propostira属）のスゴ技は、2026年6月22日付けで学術誌「Current Biology」に発表された。"}],["$","p","4",{"children":"2023年、生物医学研究者でありクモの分類学者でもあるグレッグ・アンダーソン氏は、オーストラリアのヨーク岬半島の熱帯雨林でクモを探していたとき、思わず二度見してしまうような光景に出くわした。なんと、クモが巣とは別に罠のようなものを仕掛けていたのだ。"}],["$","p","5",{"children":"その小さなクモ（大きくても1円玉ほど）は、巣から下の葉へするすると降りていき、そこに1本の糸をくっつけた。この動作を繰り返して何本もの糸をぴんと張り、葉の上に円錐形の罠をつくった。"}],["$","p","6",{"children":"やがてクモは巣に戻り、そこで待機。しばらくすると、ツムギアリがその葉の上にやってきて、触角で罠を調べてから、かみついた。"}],["$","p","7",{"children":"次の瞬間、罠が葉から外れると同時に、アリはまるでカタパルト（投石機）で撃ち出されたかのように、一気にクモの巣へ引き上げられた。アリがもがけばもがくほど糸が絡まり、やがてクモの「おいしいおやつ」となってしまった。"}],["$","p","8",{"children":"一瞬の出来事だったため、アンダーソン氏は何が起きたのかほとんど分からなかった。そこで数年後、さらに詳しく調べるために再び現地を訪れた。今回は、オーストラリア、マッコーリー大学の昆虫学者、アジェイ・ナレンドラ氏らも同行した。"}],["$","p","9",{"children":"クモの居場所を突き止めると、研究チームはクモの巣の周りに複数のハイスピードカメラを設置。クモが狩りを行う夜が訪れるのを待った。"}],["$","p","10",{"children":"はたして、ハイスピードカメラで劇的な光景をとらえることに成功。一瞬の出来事だったが、コマ送りで見ることで、詳しく分析できた。"}],["$","p","11",{"children":"「文字通り、あるコマにいたアリが、次のコマでは消えていました」とナレンドラ氏は話す。「あの（罠の）動きが並外れて速かったことを思い知りましたよ。あんなに速いものは、それまで見たことがありませんでした」"}],["$","p","12",{"children":"工夫を凝らして獲物を捕らえるクモがいることは、以前から知られていた。例えば、小さなクモの巣を獲物に投げかけて絡め取る「ネットキャスティング（投網）・スパイダー」や、円錐形の巣をカタパルトのように使い、自分もくっついたまま粘着性の巣を獲物に向けて発射する「スリングショット（パチンコ）・スパイダー」などだ。しかし、あらかじめ仕掛けた罠を使い、獲物を引き上げて捕らえるクモは観察されたことがなかった。"}],["$","p","13",{"children":"研究チームが映像を分析した結果、同じ重さの糸で比べると、この罠は糸の弾性を利用する他のクモの網よりも、大きな運動エネルギーを生み出し、瞬間的な出力（パワー）も上回ることが分かった。"}],["$","p","14",{"children":"計算によれば、この糸の罠が重さ1キロだった場合、作動時に最大で約12メガワットもの出力を生み出すという。これは、一瞬だが、数千世帯に電力を供給できる量に相当する。"}],["$","p","15",{"children":"何も知らずにこの罠にかかったアリは、最大で重力の約140倍の加速度で引き上げられる。これは、ジェット戦闘機のパイロットが受ける最も過酷なGの約15倍だという。"}],["$","p","16",{"children":"罠のスピードだけでなく、罠が特定の獲物に特化していた点にも、科学者たちは驚いた。すべての映像を確認したところ、罠に反応したのも、クモの犠牲になったのもツムギアリだけだったのだ。"}],["$","p","17",{"children":"「動物界において、捕食者が1種の獲物だけを狙うのは、極めて稀なことです」と、ナレンドラ氏は言う。"}],["$","p","18",{"children":"オーストラリア沿岸部では、ツムギアリが大規模なコロニーを形成している。研究チームは、大量にいるこのアリを食料にするため、バリスタ・スパイダーは独特な捕獲行動を進化させたのではないかと考えている。"}],["$","p","19",{"children":"どうやってアリをおびき寄せ、罠にかけているのかは、いまだに謎だ。とはいえ、研究チームは一つの仮説を立てている。"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9"],"$La"]}],"$Lb","$Lc","$Ld",null,"$Le","$Lf"]}],["$L10"],"$L11"]}],"isPartial":"$@12","staleTime":"$13","varyParams":null},{"rsc":"$L14","isPartial":"$@15","staleTime":"$13","varyParams":null},{"rsc":"$L16","isPartial":"$@17","staleTime":"$13","varyParams":"$18"},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$13","varyParams":"$18"}],"isUpgradeableISRFallback":false,"a":"$@1b","rootVaryParams":null,"needsRuntimeRequest":"$@1c"}
+1d:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+1e:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+20:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+21:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+22:"$Sreact.suspense"
+24:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+25:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+26:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+27:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+28:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","20",{"children":"「クモは罠に、フェロモンか何かの化学物質を付着させていると思われます。ツムギアリだけがそれにおびき寄せられ、他の種は反応しないのでしょう」と、ナレンドラ氏は語る。「これが事実なら、まさに衝撃的です」"}]
+4:["$","p","21",{"children":"こうした行動をとるクモは他にほとんどいない。バリスタ・スパイダーが罠の仕掛けに付着させている物が何であれ、それが作用して、アリは激怒し、罠にかみつき、葉から外してしまうようだ。"}]
+5:["$","p","22",{"children":"研究チームは、この仮説を検証するため、罠に付着した化学物質の分析を計画している。また、この種に正式な学名を付けるとともに、生物の系統樹のどこに位置するのか特定するつもりだという。"}]
+6:["$","p","23",{"children":"その一方で、ナレンドラ氏は、この驚くべきクモの発見がきっかけとなり、多くの人が「外に出て、自然の中で動物を観察してみよう」という気になることを願っている。"}]
+7:["$","p","24",{"children":"野外観察をする人が増えれば、今回のような発見は間違いなく増えるだろうと、米国カリフォルニア科学アカデミーの昆虫学者、サラ・クルーズ氏は話す。なお、氏はこの研究には関与していない。"}]
+8:["$","p","25",{"children":"「誰かが野外に出て、実際にそれを観察して記録したからこそ、発見できたのです」とクルーズ氏は言う。そして、実験室での研究ももちろん重要だとしながらも、もっと野外に出て、あちこち観察するよう科学者に勧めている。"}]
+9:["$","p","26",{"children":"クルーズ氏が言うように、このクモとその驚くべき捕獲能力は、おそらく「長い間、誰もが見過ごしていた」のだから。"}]
+a:["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]
+b:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/829d78f323a82f63b0e5cabf3047f841f78d256e?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}]
+1f:T1ec0,ツムギアリ（Oecophylla smaragdina）を捕まえるのは簡単ではない。この攻撃的なアリは強力な顎でかみつき、傷口に酸を噴射することさえある。そんなアリをあえて狙う捕食者がほとんどいないのもうなずけるが、それをやってのける勇敢なクモが新たに見つかった。
+
+「バリスタ・スパイダー」（バリスタは古代の兵器、弩砲のこと）と呼ばれるクモは、精巧なバネ式の罠を仕掛けて、驚異的なスピードでツムギアリをクモの巣へ引き上げる。こうした捕獲システムを用いるクモが見つかったのは初めてだ。まだ学名はないが、新種とみられるこのクモ（Propostira属）のスゴ技は、2026年6月22日付けで学術誌「Current Biology」に発表された。
+
+ツムギアリ（Oecophylla smaragdina）を捕まえるのは簡単ではない。この攻撃的なアリは強力な顎でかみつき、傷口に酸を噴射することさえある。そんなアリをあえて狙う捕食者がほとんどいないのもうなずけるが、それをやってのける勇敢なクモが新たに見つかった。
+
+「バリスタ・スパイダー」（バリスタは古代の兵器、弩砲のこと）と呼ばれるクモは、精巧なバネ式の罠を仕掛けて、驚異的なスピードでツムギアリをクモの巣へ引き上げる。こうした捕獲システムを用いるクモが見つかったのは初めてだ。まだ学名はないが、新種とみられるこのクモ（Propostira属）のスゴ技は、2026年6月22日付けで学術誌「Current Biology」に発表された。
+
+2023年、生物医学研究者でありクモの分類学者でもあるグレッグ・アンダーソン氏は、オーストラリアのヨーク岬半島の熱帯雨林でクモを探していたとき、思わず二度見してしまうような光景に出くわした。なんと、クモが巣とは別に罠のようなものを仕掛けていたのだ。
+
+その小さなクモ（大きくても1円玉ほど）は、巣から下の葉へするすると降りていき、そこに1本の糸をくっつけた。この動作を繰り返して何本もの糸をぴんと張り、葉の上に円錐形の罠をつくった。
+
+やがてクモは巣に戻り、そこで待機。しばらくすると、ツムギアリがその葉の上にやってきて、触角で罠を調べてから、かみついた。
+
+次の瞬間、罠が葉から外れると同時に、アリはまるでカタパルト（投石機）で撃ち出されたかのように、一気にクモの巣へ引き上げられた。アリがもがけばもがくほど糸が絡まり、やがてクモの「おいしいおやつ」となってしまった。
+
+一瞬の出来事だったため、アンダーソン氏は何が起きたのかほとんど分からなかった。そこで数年後、さらに詳しく調べるために再び現地を訪れた。今回は、オーストラリア、マッコーリー大学の昆虫学者、アジェイ・ナレンドラ氏らも同行した。
+
+クモの居場所を突き止めると、研究チームはクモの巣の周りに複数のハイスピードカメラを設置。クモが狩りを行う夜が訪れるのを待った。
+
+はたして、ハイスピードカメラで劇的な光景をとらえることに成功。一瞬の出来事だったが、コマ送りで見ることで、詳しく分析できた。
+
+「文字通り、あるコマにいたアリが、次のコマでは消えていました」とナレンドラ氏は話す。「あの（罠の）動きが並外れて速かったことを思い知りましたよ。あんなに速いものは、それまで見たことがありませんでした」
+
+工夫を凝らして獲物を捕らえるクモがいることは、以前から知られていた。例えば、小さなクモの巣を獲物に投げかけて絡め取る「ネットキャスティング（投網）・スパイダー」や、円錐形の巣をカタパルトのように使い、自分もくっついたまま粘着性の巣を獲物に向けて発射する「スリングショット（パチンコ）・スパイダー」などだ。しかし、あらかじめ仕掛けた罠を使い、獲物を引き上げて捕らえるクモは観察されたことがなかった。
+
+研究チームが映像を分析した結果、同じ重さの糸で比べると、この罠は糸の弾性を利用する他のクモの網よりも、大きな運動エネルギーを生み出し、瞬間的な出力（パワー）も上回ることが分かった。
+
+計算によれば、この糸の罠が重さ1キロだった場合、作動時に最大で約12メガワットもの出力を生み出すという。これは、一瞬だが、数千世帯に電力を供給できる量に相当する。
+
+何も知らずにこの罠にかかったアリは、最大で重力の約140倍の加速度で引き上げられる。これは、ジェット戦闘機のパイロットが受ける最も過酷なGの約15倍だという。
+
+罠のスピードだけでなく、罠が特定の獲物に特化していた点にも、科学者たちは驚いた。すべての映像を確認したところ、罠に反応したのも、クモの犠牲になったのもツムギアリだけだったのだ。
+
+「動物界において、捕食者が1種の獲物だけを狙うのは、極めて稀なことです」と、ナレンドラ氏は言う。
+
+オーストラリア沿岸部では、ツムギアリが大規模なコロニーを形成している。研究チームは、大量にいるこのアリを食料にするため、バリスタ・スパイダーは独特な捕獲行動を進化させたのではないかと考えている。
+
+どうやってアリをおびき寄せ、罠にかけているのかは、いまだに謎だ。とはいえ、研究チームは一つの仮説を立てている。
+
+「クモは罠に、フェロモンか何かの化学物質を付着させていると思われます。ツムギアリだけがそれにおびき寄せられ、他の種は反応しないのでしょう」と、ナレンドラ氏は語る。「これが事実なら、まさに衝撃的です」
+
+こうした行動をとるクモは他にほとんどいない。バリスタ・スパイダーが罠の仕掛けに付着させている物が何であれ、それが作用して、アリは激怒し、罠にかみつき、葉から外してしまうようだ。
+
+研究チームは、この仮説を検証するため、罠に付着した化学物質の分析を計画している。また、この種に正式な学名を付けるとともに、生物の系統樹のどこに位置するのか特定するつもりだという。
+
+その一方で、ナレンドラ氏は、この驚くべきクモの発見がきっかけとなり、多くの人が「外に出て、自然の中で動物を観察してみよう」という気になることを願っている。
+
+野外観察をする人が増えれば、今回のような発見は間違いなく増えるだろうと、米国カリフォルニア科学アカデミーの昆虫学者、サラ・クルーズ氏は話す。なお、氏はこの研究には関与していない。
+
+「誰かが野外に出て、実際にそれを観察して記録したからこそ、発見できたのです」とクルーズ氏は言う。そして、実験室での研究ももちろん重要だとしながらも、もっと野外に出て、あちこち観察するよう科学者に勧めている。
+
+クルーズ氏が言うように、このクモとその驚くべき捕獲能力は、おそらく「長い間、誰もが見過ごしていた」のだから。c:["$","section",null,{"className":"article-actions","children":[["$","$L1d",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/db53d972db53d972e4d39bb6","title":"〈目撃〉驚異のクモ罠、アリがかむと作動して最大140Gで巣へ一直線 どうなっている？(ナショナル ジオグラフィック日本版)","locale":"ja","take":null}],["$","$L1e",null,{"title":"〈目撃〉驚異のクモ罠、アリがかむと作動して最大140Gで巣へ一直線 どうなっている？(ナショナル ジオグラフィック日本版)","excerpt":"$1f","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/db53d972db53d972e4d39bb6","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E3%80%88%E7%9B%AE%E6%92%83%E3%80%89%E9%A9%9A%E7%95%B0%E3%81%AE%E3%82%AF%E3%83%A2%E7%BD%A0%E3%80%81%E3%82%A2%E3%83%AA%E3%81%8C%E3%81%8B%E3%82%80%E3%81%A8%E4%BD%9C%E5%8B%95%E3%81%97%E3%81%A6%E6%9C%80%E5%A4%A7140G%E3%81%A7%E5%B7%A3%E3%81%B8%E4%B8%80%E7%9B%B4%E7%B7%9A+%E3%81%A9%E3%81%86%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%EF%BC%9F&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+d:["$","$L20",null,{"placement":"article","className":"mt-8"}]
+e:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+f:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","nhk-society:https://news.web.nhk/newsweb/na/nd-20261013de58907",{"children":["$","$L2",null,{"href":"/ja/n/5e5875ed5e5875ed05db8e8d","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"ベトナム語の運転免許試験の問題 画像が漏えいか 千葉県警"}]]}]}],["$","li","nhk-society:https://news.web.nhk/newsweb/na/nd-20261013de58896",{"children":["$","$L2",null,{"href":"/ja/n/39d9153039d91530d08a2686","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"北海道でマフグの漁獲量増加 一方で養殖ホタテに被害か"}]]}]}],["$","li","bbc-us:https://bbc.co.uk/news/articles/cvp8gj20j2ljo",{"children":["$","$L2",null,{"href":"/ja/n/690e72a7690e72a7e19d74df","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"How Breaking Bad's RJ Mitte changed the way we see cerebral palsy"}]]}]}]]}]]}]
+10:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+11:["$","$L21",null,{"children":["$","$22",null,{"name":"Next.MetadataOutlet","children":"$@23"}]}]
+14:["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L25",null,{"children":["$","$22",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"〈目撃〉驚異のクモ罠、アリがかむと作動して最大140Gで巣へ一直線 どうなっている？(ナショナル ジオグラフィック日本版)"}],["$","meta","1",{"name":"description","content":"ツムギアリ（Oecophylla smaragdina）を捕まえるのは簡単ではない。この攻撃的なアリは強力な顎でかみつき、傷口に酸を噴射することさえある。そんなアリをあえて狙う捕食者がほとんどいないのもうなずけるが、それをやってのける勇敢なクモが新たに見つかった。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"〈目撃〉驚異のクモ罠、アリがかむと作動して最大140Gで巣へ一直線 どうなっている？(ナショナル ジオグラフィック日本版)"}],["$","meta","4",{"property":"og:description","content":"ツムギアリ（Oecophylla smaragdina）を捕まえるのは簡単ではない。この攻撃的なアリは強力な顎でかみつき、傷口に酸を噴射することさえある。そんなアリをあえて狙う捕食者がほとんどいないのもうなずけるが、それをやってのける勇敢なクモが新たに見つかった。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/db53d972db53d972e4d39bb6/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261013-00010000-nknatiogeo-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"〈目撃〉驚異のクモ罠、アリがかむと作動して最大140Gで巣へ一直線 どうなっている？(ナショナル ジオグラフィック日本版)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"〈目撃〉驚異のクモ罠、アリがかむと作動して最大140Gで巣へ一直線 どうなっている？(ナショナル ジオグラフィック日本版)"}],["$","meta","14",{"name":"twitter:description","content":"ツムギアリ（Oecophylla smaragdina）を捕まえるのは簡単ではない。この攻撃的なアリは強力な顎でかみつき、傷口に酸を噴射することさえある。そんなアリをあえて狙う捕食者がほとんどいないのもうなずけるが、それをやってのける勇敢なクモが新たに見つかった。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261013-00010000-nknatiogeo-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L26","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+16:["$","$1","c",{"children":[null,["$","$L27",null,{"parallelRouterKey":"children","template":["$","$L28",null,{}]}]]}]
+19:["$","$1","c",{"children":[null,["$","$L27",null,{"parallelRouterKey":"children","template":["$","$L28",null,{}]}]]}]
+1c:true
+23:null
+13:300
+13:C
+1b:0
+15:"$undefined"
+17:"$undefined"
+1a:"$undefined"
+12:"$undefined"

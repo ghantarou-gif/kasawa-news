@@ -1,0 +1,71 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://image.news.livedoor.com/newsimage/stf/3/2/324e6b87e0d665877ebdf01814a91626.png","image"]
+5:T1162,環境問題や食品ロス、消費者トラブルなど、日々のくらしにまつわる話題を楽しく学べるイベント「くらしフェスタ東京2026」が10月1日からスタートしました。
+
+1978年に始まったイベントをルーツに長年親しまれてきた、消費者団体と東京都が協働する消費者月間事業です。
+
+今年は「未来のために今できることを」をテーマに10月から翌年1月にかけて多彩なプログラムが開催。参加費はすべて無料です。
+
+10月23日（金）11時～17時、24日（土）10時～16時には、新宿駅西口広場イベントコーナーで「交流フェスタ2026」を開催。
+
+毎年多くの来場者が訪れる同イベントには、消費者団体や事業者、大学、行政など40を超える団体が出展し、「消費者被害防止」「くらし」「環境・エシカル」「食」「子ども」「安全対策」などをテーマにしたブースが並びます。
+
+セミナーステージではSDGsや消費者トラブル講座から出前寄席まで幅広いプログラムが用意され、マスコットキャラクターとのふれあいやクイズラリー（参加でプレゼントあり）、親子で楽しめる体験コーナーも。
+
+こちらは申込み不要で、誰でも気軽に立ち寄れます。消費生活に関わるさまざまなテーマを「見て、聞いて、話して」楽しく学びながら、一人ひとりが未来のより良いくらしについて考え、行動に移していく。そんな場になりそうです。
+
+メインシンポジウムでは毎年、各界で活躍する人物が消費行動をめぐる独自の視点から提言を行っています。
+
+今年のシンポジウムは10月1日に東京ウィメンズプラザホールで開催。登壇したのは環境政策・ごみ問題（食品ロス）を専門とする大正大学地域創生学部教授の岡山朋子さんです。
+
+「あなたの選択が未来を変える～プラスチック・衣類・食品ロスから考える」と題し、毎日の買い物や選択が未来の環境や社会にどうつながっているかを、身近なテーマからわかりやすく解説しました。
+
+講演では、「リユース（再使用）」「リデュース（減らす）」や廃棄物を出さないサーキュラーエコノミーを目指す重要性を紹介。
+
+青果物の包装などプラスチックごみの現状、まだ着られるのに捨てられる「ファッションロス」を防ぐ衣類の回収・資源化、食品ロスの最大の理由である「期限切れ」と消費期限・賞味期限の違いなど、暮らしに身近な話題が取り上げられました。飲食店の食べ残しを減らすには、行動をそっと後押しする「ナッジ」の活用が有効ではないか、という提案も。
+
+シンポジウムの録画配信も予定されており、11月27日10時から2027年1月29日17時までの期間、申込み不要で視聴することが可能です。
+
+秋から冬にかけても、見逃せないプログラムが続きます。11月24日には、多摩地域で実施する食と暮らしを見つめ直すドキュメンタリー映画「百姓の百の声」（監督：柴田昌平）の上映会と交流会を東京都多摩消費生活センターで開催。
+
+生産者一人ひとりの言葉に耳を傾けながら、ふだん何気なく口にしている食べ物との向き合い方を見つめ直させてくれる一本です。
+
+12月9日には、「ダニ博士」の愛称でテレビでもおなじみの国立環境研究所特命研究員・五箇公一さんによる講演会「都市を生きるための生物学～新たなる自然共生社会を目指して」を三鷹産業プラザで開催します。
+
+ダニ学の第一人者が語る「都市と生物多様性」というテーマで、意外な発見があるかもしれません。いずれも要申込みです。
+
+10月のシンポジウムから翌年1月の講演会の録画配信まで、学びの機会が続く「くらしフェスタ東京2026」。この機会に、家族や友人と一緒に、未来のために今できることを考えてみましょう。
+
+10月23日～24日： 見て、聞いて、話そう！交流フェスタ2026 ＜申し込み不要＞d:X
+12:X
+12:C
+0:{"buildId":"hLDkNeSsban5txPAuz-c3","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-08","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"ライブドアニュース"}],null]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"参加無料 暮らしを学ぶイベ開催"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"10月8日 08:00"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://image.news.livedoor.com/newsimage/stf/3/2/324e6b87e0d665877ebdf01814a91626.png","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"環境問題や食品ロス、消費者トラブルなど、日々のくらしにまつわる話題を楽しく学べるイベント「くらしフェスタ東京2026」が10月1日からスタートしました。"}],["$","p","1",{"children":"1978年に始まったイベントをルーツに長年親しまれてきた、消費者団体と東京都が協働する消費者月間事業です。"}],["$","p","2",{"children":"今年は「未来のために今できることを」をテーマに10月から翌年1月にかけて多彩なプログラムが開催。参加費はすべて無料です。"}],["$","p","3",{"children":"10月23日（金）11時～17時、24日（土）10時～16時には、新宿駅西口広場イベントコーナーで「交流フェスタ2026」を開催。"}],["$","p","4",{"children":"毎年多くの来場者が訪れる同イベントには、消費者団体や事業者、大学、行政など40を超える団体が出展し、「消費者被害防止」「くらし」「環境・エシカル」「食」「子ども」「安全対策」などをテーマにしたブースが並びます。"}],["$","p","5",{"children":"セミナーステージではSDGsや消費者トラブル講座から出前寄席まで幅広いプログラムが用意され、マスコットキャラクターとのふれあいやクイズラリー（参加でプレゼントあり）、親子で楽しめる体験コーナーも。"}],["$","p","6",{"children":"こちらは申込み不要で、誰でも気軽に立ち寄れます。消費生活に関わるさまざまなテーマを「見て、聞いて、話して」楽しく学びながら、一人ひとりが未来のより良いくらしについて考え、行動に移していく。そんな場になりそうです。"}],["$","p","7",{"children":"メインシンポジウムでは毎年、各界で活躍する人物が消費行動をめぐる独自の視点から提言を行っています。"}],["$","p","8",{"children":"今年のシンポジウムは10月1日に東京ウィメンズプラザホールで開催。登壇したのは環境政策・ごみ問題（食品ロス）を専門とする大正大学地域創生学部教授の岡山朋子さんです。"}],["$","p","9",{"children":"「あなたの選択が未来を変える～プラスチック・衣類・食品ロスから考える」と題し、毎日の買い物や選択が未来の環境や社会にどうつながっているかを、身近なテーマからわかりやすく解説しました。"}],["$","p","10",{"children":"講演では、「リユース（再使用）」「リデュース（減らす）」や廃棄物を出さないサーキュラーエコノミーを目指す重要性を紹介。"}],["$","p","11",{"children":"青果物の包装などプラスチックごみの現状、まだ着られるのに捨てられる「ファッションロス」を防ぐ衣類の回収・資源化、食品ロスの最大の理由である「期限切れ」と消費期限・賞味期限の違いなど、暮らしに身近な話題が取り上げられました。飲食店の食べ残しを減らすには、行動をそっと後押しする「ナッジ」の活用が有効ではないか、という提案も。"}],["$","p","12",{"children":"シンポジウムの録画配信も予定されており、11月27日10時から2027年1月29日17時までの期間、申込み不要で視聴することが可能です。"}],["$","p","13",{"children":"秋から冬にかけても、見逃せないプログラムが続きます。11月24日には、多摩地域で実施する食と暮らしを見つめ直すドキュメンタリー映画「百姓の百の声」（監督：柴田昌平）の上映会と交流会を東京都多摩消費生活センターで開催。"}],["$","p","14",{"children":"生産者一人ひとりの言葉に耳を傾けながら、ふだん何気なく口にしている食べ物との向き合い方を見つめ直させてくれる一本です。"}],["$","p","15",{"children":"12月9日には、「ダニ博士」の愛称でテレビでもおなじみの国立環境研究所特命研究員・五箇公一さんによる講演会「都市を生きるための生物学～新たなる自然共生社会を目指して」を三鷹産業プラザで開催します。"}],["$","p","16",{"children":"ダニ学の第一人者が語る「都市と生物多様性」というテーマで、意外な発見があるかもしれません。いずれも要申込みです。"}],["$","p","17",{"children":"10月のシンポジウムから翌年1月の講演会の録画配信まで、学びの機会が続く「くらしフェスタ東京2026」。この機会に、家族や友人と一緒に、未来のために今できることを考えてみましょう。"}],["$","p","18",{"children":"10月23日～24日： 見て、聞いて、話そう！交流フェスタ2026 ＜申し込み不要＞"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はライブドアニュースにあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.livedoor.com/article/detail/32507347/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はライブドアニュースで読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/4cd8706c4cd8706c345be7e8","title":"参加無料 暮らしを学ぶイベ開催","locale":"ja","take":null}],["$","$L4",null,{"title":"参加無料 暮らしを学ぶイベ開催","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/4cd8706c4cd8706c345be7e8","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E5%8F%82%E5%8A%A0%E7%84%A1%E6%96%99+%E6%9A%AE%E3%82%89%E3%81%97%E3%82%92%E5%AD%A6%E3%81%B6%E3%82%A4%E3%83%99%E9%96%8B%E5%82%AC&mode=phrase&url=news.livedoor.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","dw:https://dw.com/en/2026-nobel-prize-winner-anne-carson-where-to-start-reading/a-79598953?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/3c40f2643c40f264fe5e565e","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"2026 Nobel Prize winner Anne Carson: Where to start reading"}]]}]}],["$","li","dw:https://dw.com/en/early-onset-cancer-rising-worldwide-causes-risk-prevention/a-79597097?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/8cb87ab98cb87ab938b718e5","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Early-onset cancer rising worldwide: Causes, risk, prevention"}]]}]}],["$","li","dw:https://dw.com/en/germany-news-uk-s-burnham-visits-berlin-for-talks-with-merz/live-79587637?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/9034938090349380d376cca2","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Germany news: UK's Burnham visits Berlin for talks with Merz"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"参加無料 暮らしを学ぶイベ開催"}],["$","meta","1",{"name":"description","content":"環境問題や食品ロス、消費者トラブルなど、日々のくらしにまつわる話題を楽しく学べるイベント「くらしフェスタ東京2026」が10月1日からスタートしました。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"参加無料 暮らしを学ぶイベ開催"}],["$","meta","4",{"property":"og:description","content":"環境問題や食品ロス、消費者トラブルなど、日々のくらしにまつわる話題を楽しく学べるイベント「くらしフェスタ東京2026」が10月1日からスタートしました。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/4cd8706c4cd8706c345be7e8/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fimage.news.livedoor.com%2Fnewsimage%2Fstf%2F3%2F2%2F324e6b87e0d665877ebdf01814a91626.png&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"参加無料 暮らしを学ぶイベ開催"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"参加無料 暮らしを学ぶイベ開催"}],["$","meta","14",{"name":"twitter:description","content":"環境問題や食品ロス、消費者トラブルなど、日々のくらしにまつわる話題を楽しく学べるイベント「くらしフェスタ東京2026」が10月1日からスタートしました。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fimage.news.livedoor.com%2Fnewsimage%2Fstf%2F3%2F2%2F324e6b87e0d665877ebdf01814a91626.png&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

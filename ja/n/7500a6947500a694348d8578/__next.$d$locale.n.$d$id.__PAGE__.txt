@@ -1,0 +1,79 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261016-00106503-forbes-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","image"]
+e:X
+13:X
+13:C
+0:{"buildId":"hLDkNeSsban5txPAuz-c3","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-16","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"100億年前の宇宙から届いた謎の信号、観測史上最遠の高速電波バーストを検出(Forbes JAPAN)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"一昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261016-00106503-forbes-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"100億年以上にわたり宇宙を旅してきた謎めいた電波の閃光を、天文学者チームが検出した。継続時間がわずか数ミリ秒のこの強力な信号は、これまでに検出された中で最も遠方からやって来た高速電波バースト（FRB）だ。この信号が発せられたのは、宇宙誕生からわずか約30億年しか経っていない時代だという。"}],["$","p","1",{"children":"「FRB 20240304B」と命名された今回の信号により、FRBのこれまでの最遠記録が大幅に更新された。"}],["$","p","2",{"children":"■高速電波バースト（FRB）とは？"}],["$","p","3",{"children":"FRBは深宇宙から飛来する、極めて短時間しか持続しないが非常に強力な電波の閃光だ。典型的な継続時間はわずか数ミリ秒で、その一瞬に膨大なエネルギーが放出される。2007年に初めて発見されて以来、正確な起源が何であるかは依然として天文学における最大の謎の1つとなっている。"}],["$","p","4",{"children":"全天で1日に数千回発生すると考えられているが、どこから飛来するかや、信号がどのくらいの距離を旅してきたかを正確に突き止めるのは困難だ。"}],["$","p","5",{"children":"だが、FRB 20240304Bによってこの状況が一変する。8日付の学術誌『Science』に掲載された論文の筆頭執筆者で、豪シドニー大学のテミヤ・ナナヤッカラとともに今回の研究を主導した同大のマニシャ・ケイレブは「これは遠方宇宙の比類のない観測成果だ」とし、「宇宙の誕生から約30億年しか経っていない時代の高速電波バーストを捉えることに成功した」と話す。"}],["$","p","6",{"children":"■100億年前の宇宙から届いた信号"}],["$","p","7",{"children":"今回のFRB 20240304Bは、南アフリカ・北ケープ州の人里離れたカルー地域に設置されたパラボラアンテナ64基で構成される電波望遠鏡MeerKAT（ミーアキャット）を用いた観測プロジェクトMeerTRAPの一環として検出された。だが、FRB 20240304Bの発生源を見つけるのは、そう容易ではなかった。母銀河（内部にFRBの発生源がある銀河）が非常に遠方にあるため、最大級の地上望遠鏡でも捉えられないからだ。そのため天文学者チームは、NASAのジェイムズ・ウェッブ宇宙望遠鏡（JWST）を用いて観測を行い、赤外線観測によって母銀河の特定と距離の測定に成功した。"}],["$","p","8",{"children":"100億年以上にわたり宇宙を旅してきた謎めいた電波の閃光を、天文学者チームが検出した。継続時間がわずか数ミリ秒のこの強力な信号は、これまでに検出された中で最も遠方からやって来た高速電波バースト（FRB）だ。この信号が発せられたのは、宇宙誕生からわずか約30億年しか経っていない時代だという。"}],["$","p","9",{"children":"「FRB 20240304B」と命名された今回の信号により、FRBのこれまでの最遠記録が大幅に更新された。"}],["$","p","10",{"children":"■高速電波バースト（FRB）とは？"}],["$","p","11",{"children":"FRBは深宇宙から飛来する、極めて短時間しか持続しないが非常に強力な電波の閃光だ。典型的な継続時間はわずか数ミリ秒で、その一瞬に膨大なエネルギーが放出される。2007年に初めて発見されて以来、正確な起源が何であるかは依然として天文学における最大の謎の1つとなっている。"}],["$","p","12",{"children":"全天で1日に数千回発生すると考えられているが、どこから飛来するかや、信号がどのくらいの距離を旅してきたかを正確に突き止めるのは困難だ。"}],["$","p","13",{"children":"だが、FRB 20240304Bによってこの状況が一変する。8日付の学術誌『Science』に掲載された論文の筆頭執筆者で、豪シドニー大学のテミヤ・ナナヤッカラとともに今回の研究を主導した同大のマニシャ・ケイレブは「これは遠方宇宙の比類のない観測成果だ」とし、「宇宙の誕生から約30億年しか経っていない時代の高速電波バーストを捉えることに成功した」と話す。"}],["$","p","14",{"children":"■100億年前の宇宙から届いた信号"}],["$","p","15",{"children":"今回のFRB 20240304Bは、南アフリカ・北ケープ州の人里離れたカルー地域に設置されたパラボラアンテナ64基で構成される電波望遠鏡MeerKAT（ミーアキャット）を用いた観測プロジェクトMeerTRAPの一環として検出された。だが、FRB 20240304Bの発生源を見つけるのは、そう容易ではなかった。母銀河（内部にFRBの発生源がある銀河）が非常に遠方にあるため、最大級の地上望遠鏡でも捉えられないからだ。そのため天文学者チームは、NASAのジェイムズ・ウェッブ宇宙望遠鏡（JWST）を用いて観測を行い、赤外線観測によって母銀河の特定と距離の測定に成功した。"}],["$","p","16",{"children":"そこで判明したのは予想外の事実だった。シドニー大のローラ・ドリーセンは「このFRBの母銀河は驚くほど小型で、金属（重元素）量が少なく、星形成が非常に活発な段階にある」と説明した。これらの特徴は、FRBの発生メカニズムを解明するうえで重要な手がかりとなるかもしれない。"}],["$","p","17",{"children":"■マグネターが関与している可能性"}],["$","p","18",{"children":"高速電波バースト（FRB）の発生原因は、まだ明確に解明されていない。大質量星が超新星爆発を起こすと、高速で自転する高密度の残骸である中性子星が後に残る。少なくとも一部のFRBは、中性子星の一種であるマグネターが発生源ではないかと、天文学者は考えている。マグネターは極端に強い磁場を持つ特殊な中性子星で、超高速で自転することにより宇宙で最も強い磁場を生成する。"}],"$L3","$L4"],"$L5"]}],"$L6","$L7","$L8",null,"$L9","$La"]}],["$Lb"],"$Lc"]}],"isPartial":"$@d","staleTime":"$e","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$e","varyParams":null},{"rsc":"$L11","isPartial":"$@12","staleTime":"$e","varyParams":"$13"},{"rsc":"$L14","isPartial":"$@15","staleTime":"$e","varyParams":"$13"}],"isUpgradeableISRFallback":false,"a":"$@16","rootVaryParams":null,"needsRuntimeRequest":"$@17"}
+18:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+19:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+1b:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1d:"$Sreact.suspense"
+1f:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+20:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+21:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+22:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+23:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","19",{"children":"新たに特定された母銀河では、多数の新しい恒星が生み出されているため、マグネターが形成され得るような環境になっている。FRBの成因としては、はるかに長い時間を要する中性子星同士の合体によって発生するとの説もある。だが母銀河の特徴を踏まえると、今回の発見は中性子星合体説よりもマグネター説との整合性が高くなっている。"}]
+4:["$","p","20",{"children":"今回の発見は、信号の地球到達に約80億年を要したFRB 20220610Aが2023年に打ち立てた最遠記録を更新するものだ。FRB 20220610Aの持続時間は1ミリ秒足らずだったが、その瞬間に放出されたエネルギーは、太陽の全放射エネルギー30年分に匹敵する。"}]
+5:["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]
+6:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/4bef64ec2973ac1a12c2dd388fd0fc9d5d4c556e?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}]
+1a:T1a23,100億年以上にわたり宇宙を旅してきた謎めいた電波の閃光を、天文学者チームが検出した。継続時間がわずか数ミリ秒のこの強力な信号は、これまでに検出された中で最も遠方からやって来た高速電波バースト（FRB）だ。この信号が発せられたのは、宇宙誕生からわずか約30億年しか経っていない時代だという。
+
+「FRB 20240304B」と命名された今回の信号により、FRBのこれまでの最遠記録が大幅に更新された。
+
+■高速電波バースト（FRB）とは？
+
+FRBは深宇宙から飛来する、極めて短時間しか持続しないが非常に強力な電波の閃光だ。典型的な継続時間はわずか数ミリ秒で、その一瞬に膨大なエネルギーが放出される。2007年に初めて発見されて以来、正確な起源が何であるかは依然として天文学における最大の謎の1つとなっている。
+
+全天で1日に数千回発生すると考えられているが、どこから飛来するかや、信号がどのくらいの距離を旅してきたかを正確に突き止めるのは困難だ。
+
+だが、FRB 20240304Bによってこの状況が一変する。8日付の学術誌『Science』に掲載された論文の筆頭執筆者で、豪シドニー大学のテミヤ・ナナヤッカラとともに今回の研究を主導した同大のマニシャ・ケイレブは「これは遠方宇宙の比類のない観測成果だ」とし、「宇宙の誕生から約30億年しか経っていない時代の高速電波バーストを捉えることに成功した」と話す。
+
+■100億年前の宇宙から届いた信号
+
+今回のFRB 20240304Bは、南アフリカ・北ケープ州の人里離れたカルー地域に設置されたパラボラアンテナ64基で構成される電波望遠鏡MeerKAT（ミーアキャット）を用いた観測プロジェクトMeerTRAPの一環として検出された。だが、FRB 20240304Bの発生源を見つけるのは、そう容易ではなかった。母銀河（内部にFRBの発生源がある銀河）が非常に遠方にあるため、最大級の地上望遠鏡でも捉えられないからだ。そのため天文学者チームは、NASAのジェイムズ・ウェッブ宇宙望遠鏡（JWST）を用いて観測を行い、赤外線観測によって母銀河の特定と距離の測定に成功した。
+
+100億年以上にわたり宇宙を旅してきた謎めいた電波の閃光を、天文学者チームが検出した。継続時間がわずか数ミリ秒のこの強力な信号は、これまでに検出された中で最も遠方からやって来た高速電波バースト（FRB）だ。この信号が発せられたのは、宇宙誕生からわずか約30億年しか経っていない時代だという。
+
+「FRB 20240304B」と命名された今回の信号により、FRBのこれまでの最遠記録が大幅に更新された。
+
+■高速電波バースト（FRB）とは？
+
+FRBは深宇宙から飛来する、極めて短時間しか持続しないが非常に強力な電波の閃光だ。典型的な継続時間はわずか数ミリ秒で、その一瞬に膨大なエネルギーが放出される。2007年に初めて発見されて以来、正確な起源が何であるかは依然として天文学における最大の謎の1つとなっている。
+
+全天で1日に数千回発生すると考えられているが、どこから飛来するかや、信号がどのくらいの距離を旅してきたかを正確に突き止めるのは困難だ。
+
+だが、FRB 20240304Bによってこの状況が一変する。8日付の学術誌『Science』に掲載された論文の筆頭執筆者で、豪シドニー大学のテミヤ・ナナヤッカラとともに今回の研究を主導した同大のマニシャ・ケイレブは「これは遠方宇宙の比類のない観測成果だ」とし、「宇宙の誕生から約30億年しか経っていない時代の高速電波バーストを捉えることに成功した」と話す。
+
+■100億年前の宇宙から届いた信号
+
+今回のFRB 20240304Bは、南アフリカ・北ケープ州の人里離れたカルー地域に設置されたパラボラアンテナ64基で構成される電波望遠鏡MeerKAT（ミーアキャット）を用いた観測プロジェクトMeerTRAPの一環として検出された。だが、FRB 20240304Bの発生源を見つけるのは、そう容易ではなかった。母銀河（内部にFRBの発生源がある銀河）が非常に遠方にあるため、最大級の地上望遠鏡でも捉えられないからだ。そのため天文学者チームは、NASAのジェイムズ・ウェッブ宇宙望遠鏡（JWST）を用いて観測を行い、赤外線観測によって母銀河の特定と距離の測定に成功した。
+
+そこで判明したのは予想外の事実だった。シドニー大のローラ・ドリーセンは「このFRBの母銀河は驚くほど小型で、金属（重元素）量が少なく、星形成が非常に活発な段階にある」と説明した。これらの特徴は、FRBの発生メカニズムを解明するうえで重要な手がかりとなるかもしれない。
+
+■マグネターが関与している可能性
+
+高速電波バースト（FRB）の発生原因は、まだ明確に解明されていない。大質量星が超新星爆発を起こすと、高速で自転する高密度の残骸である中性子星が後に残る。少なくとも一部のFRBは、中性子星の一種であるマグネターが発生源ではないかと、天文学者は考えている。マグネターは極端に強い磁場を持つ特殊な中性子星で、超高速で自転することにより宇宙で最も強い磁場を生成する。
+
+新たに特定された母銀河では、多数の新しい恒星が生み出されているため、マグネターが形成され得るような環境になっている。FRBの成因としては、はるかに長い時間を要する中性子星同士の合体によって発生するとの説もある。だが母銀河の特徴を踏まえると、今回の発見は中性子星合体説よりもマグネター説との整合性が高くなっている。
+
+今回の発見は、信号の地球到達に約80億年を要したFRB 20220610Aが2023年に打ち立てた最遠記録を更新するものだ。FRB 20220610Aの持続時間は1ミリ秒足らずだったが、その瞬間に放出されたエネルギーは、太陽の全放射エネルギー30年分に匹敵する。7:["$","section",null,{"className":"article-actions","children":[["$","$L18",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/7500a6947500a694348d8578","title":"100億年前の宇宙から届いた謎の信号、観測史上最遠の高速電波バーストを検出(Forbes JAPAN)","locale":"ja","take":null}],["$","$L19",null,{"title":"100億年前の宇宙から届いた謎の信号、観測史上最遠の高速電波バーストを検出(Forbes JAPAN)","excerpt":"$1a","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/7500a6947500a694348d8578","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=100%E5%84%84%E5%B9%B4%E5%89%8D%E3%81%AE%E5%AE%87%E5%AE%99%E3%81%8B%E3%82%89%E5%B1%8A%E3%81%84%E3%81%9F%E8%AC%8E%E3%81%AE%E4%BF%A1%E5%8F%B7%E3%80%81%E8%A6%B3%E6%B8%AC%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%81%A0%E3%81%AE%E9%AB%98%E9%80%9F%E9%9B%BB%E6%B3%A2%E3%83%90%E3%83%BC%E3%82%B9%E3%83%88%E3%82%92%E6%A4%9C%E5%87%BA&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+8:["$","$L1b",null,{"placement":"article","className":"mt-8"}]
+9:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+a:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-africa:https://bbc.co.uk/news/articles/cmwyvxj49gpwo",{"children":["$","$L2",null,{"href":"/ja/n/cd8bae56cd8bae563f895fe0","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Patients in chains rescued from suspected illegal rehab centre in South Africa"}]]}]}],["$","li","nhk-sports:https://news.web.nhk/newsweb/na/nd-20261016de60755",{"children":["$","$L2",null,{"href":"/ja/n/ea02838dea02838dabce0501","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"ソフトバンクが3年連続で日本シリーズ進出 日本ハムに3連勝"}]]}]}],["$","li","nhk-society:https://news.web.nhk/newsweb/na/nd-20261016de60368",{"children":["$","$L2",null,{"href":"/ja/n/5e85f6d45e85f6d4707320ee","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"緊急地震速報の過大推定 「過去の対策が機能せず」気象庁"}]]}]}]]}]]}]
+b:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+c:["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+f:["$","$1","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L20",null,{"children":["$","$1d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"100億年前の宇宙から届いた謎の信号、観測史上最遠の高速電波バーストを検出(Forbes JAPAN)"}],["$","meta","1",{"name":"description","content":"100億年以上にわたり宇宙を旅してきた謎めいた電波の閃光を、天文学者チームが検出した。継続時間がわずか数ミリ秒のこの強力な信号は、これまでに検出された中で最も遠方からやって来た高速電波バースト（FRB）だ。この信号が発せられたのは、宇宙誕生からわずか約30億年しか経っていない時代だという。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"100億年前の宇宙から届いた謎の信号、観測史上最遠の高速電波バーストを検出(Forbes JAPAN)"}],["$","meta","4",{"property":"og:description","content":"100億年以上にわたり宇宙を旅してきた謎めいた電波の閃光を、天文学者チームが検出した。継続時間がわずか数ミリ秒のこの強力な信号は、これまでに検出された中で最も遠方からやって来た高速電波バースト（FRB）だ。この信号が発せられたのは、宇宙誕生からわずか約30億年しか経っていない時代だという。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/7500a6947500a694348d8578/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261016-00106503-forbes-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"100億年前の宇宙から届いた謎の信号、観測史上最遠の高速電波バーストを検出(Forbes JAPAN)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"100億年前の宇宙から届いた謎の信号、観測史上最遠の高速電波バーストを検出(Forbes JAPAN)"}],["$","meta","14",{"name":"twitter:description","content":"100億年以上にわたり宇宙を旅してきた謎めいた電波の閃光を、天文学者チームが検出した。継続時間がわずか数ミリ秒のこの強力な信号は、これまでに検出された中で最も遠方からやって来た高速電波バースト（FRB）だ。この信号が発せられたのは、宇宙誕生からわずか約30億年しか経っていない時代だという。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261016-00106503-forbes-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L21","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+11:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+14:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+17:true
+1e:null
+e:300
+e:C
+16:0
+10:"$undefined"
+12:"$undefined"
+15:"$undefined"
+d:"$undefined"

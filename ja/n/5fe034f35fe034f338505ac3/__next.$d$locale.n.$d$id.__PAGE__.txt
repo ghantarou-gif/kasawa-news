@@ -1,0 +1,69 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261014-00010000-medical-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","image"]
+5:T11c6,腰やひざ、肩などの痛みが長く続いても、「歳のせいだから仕方がない」「入院や手術をするほどではない」と考え、我慢している人は少なくない。しかし、痛みへの対処法は「手術をするか、我慢するか」の二択ではない。服薬やリハビリテーションに加え、神経ブロックなどの注射治療など、さまざまな選択肢がある。
+
+日本整形外科学会認定の整形外科専門医として痛みの治療に携わる、大阪みま整形外科＆痛みのクリニックの院長、三間 大典（みま だいすけ）先生に、整形外科とペインクリニックそれぞれの視点から、痛みとの向き合い方や、治療の選択肢について伺った。
+
+痛みは目に見えず、その深刻さも本人にしか分かりません。そのため、「これくらいで受診するのは大げさだろうか」とためらい、つい受診を先延ばしにしてしまう方は少なくありません。
+
+しかし、痛みが長く続くと、痛む場所をかばうことで体の動かし方が変わったり、外出や運動を控えるようになったりして、日常生活に影響が出ることがあります。
+
+また、痛みへの対処は手術か我慢の2択しかない――中にはそう思い込み、手術をするほどではないと我慢を選んでいる方もいらっしゃいます。しかし実際には、他にもさまざまな治療法があります。
+
+ただ我慢する以外にもできることがあると、多くの方に知っていただきたいです。
+
+痛みの診療においては、痛みの原因を見極める視点と、今ある痛みをやわらげる視点の両方が重要です。
+
+痛みの原因については、診察や画像検査などによって、骨や関節、筋肉、神経などにどのような問題が生じているのかが確認されます。
+
+そして原因や症状を踏まえたうえで、根本的な治療とともに、今ある痛みを軽減するための治療が検討されます。
+
+その代表的な治療の1つが神経ブロックです。痛みに関わる神経やその周囲に薬剤を注入し、痛みをやわらげます。痛みが軽減することで体を動かしやすくなり、リハビリテーションなど次の治療に取り組みやすくなる場合もあります。
+
+薬物療法やリハビリテーション、注射などを行っても症状が十分に改善しない場合は、手術を検討することもあります。
+
+ただし、手術といっても、必ずしも長期間の入院や大きな皮膚切開を伴うものばかりではありません。症状によっては、その日のうちに帰宅できる日帰り手術が選択肢になることもあります。
+
+たとえば、指を曲げ伸ばししたときに引っかかりや痛みが生じる「ばね指」では、まず安静や薬物療法、腱鞘内への注射などを行います。それでも改善しない場合や、再発を繰り返す場合には、狭くなった腱鞘を開く手術が検討されます。
+
+手術の方法にもいくつかあり、皮膚を切開して行う方法のほか、針やエコー（超音波）を用いて、皮膚を切らずに腱鞘を切開する方法が選択される場合もあります。こうした治療は、医療機関によっては日帰りで行えることもあります。
+
+まずはどのような治療の選択肢があるのかを知り、医師と相談しながら自分に合った方法を選ぶことが大切です。
+
+痛みに対する治療法が複数あるからといって、新しい治療や手術をすればよいというわけではありません。大切なのは、まず痛みの原因や状態を知り、自分に必要な治療を受けることです。
+
+それぞれに適応があり、メリットだけでなく注意点やリスクもありますので、医師と相談しながら選択しましょう。
+
+「手術はしたくないから我慢する」「歳だから仕方がない」と最初から選択肢を狭める必要はありません。どのような治療が考えられるのかを知ることは、痛みと向き合う第一歩です。痛みが続いている、あるいは生活に支障が出ているのなら、一度、整形外科や、痛みを専門的に診るペインクリニックへ相談していただきたいと思います。d:X
+12:X
+12:C
+0:{"buildId":"hLDkNeSsban5txPAuz-c3","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-14","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"「手術か、我慢か」だけではない――神経ブロックから日帰り手術まで、痛み治療の多様な選択肢(Medical Note)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"4 日前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261014-00010000-medical-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"腰やひざ、肩などの痛みが長く続いても、「歳のせいだから仕方がない」「入院や手術をするほどではない」と考え、我慢している人は少なくない。しかし、痛みへの対処法は「手術をするか、我慢するか」の二択ではない。服薬やリハビリテーションに加え、神経ブロックなどの注射治療など、さまざまな選択肢がある。"}],["$","p","1",{"children":"日本整形外科学会認定の整形外科専門医として痛みの治療に携わる、大阪みま整形外科＆痛みのクリニックの院長、三間 大典（みま だいすけ）先生に、整形外科とペインクリニックそれぞれの視点から、痛みとの向き合い方や、治療の選択肢について伺った。"}],["$","p","2",{"children":"痛みは目に見えず、その深刻さも本人にしか分かりません。そのため、「これくらいで受診するのは大げさだろうか」とためらい、つい受診を先延ばしにしてしまう方は少なくありません。"}],["$","p","3",{"children":"しかし、痛みが長く続くと、痛む場所をかばうことで体の動かし方が変わったり、外出や運動を控えるようになったりして、日常生活に影響が出ることがあります。"}],["$","p","4",{"children":"また、痛みへの対処は手術か我慢の2択しかない――中にはそう思い込み、手術をするほどではないと我慢を選んでいる方もいらっしゃいます。しかし実際には、他にもさまざまな治療法があります。"}],["$","p","5",{"children":"ただ我慢する以外にもできることがあると、多くの方に知っていただきたいです。"}],["$","p","6",{"children":"痛みの診療においては、痛みの原因を見極める視点と、今ある痛みをやわらげる視点の両方が重要です。"}],["$","p","7",{"children":"痛みの原因については、診察や画像検査などによって、骨や関節、筋肉、神経などにどのような問題が生じているのかが確認されます。"}],["$","p","8",{"children":"そして原因や症状を踏まえたうえで、根本的な治療とともに、今ある痛みを軽減するための治療が検討されます。"}],["$","p","9",{"children":"その代表的な治療の1つが神経ブロックです。痛みに関わる神経やその周囲に薬剤を注入し、痛みをやわらげます。痛みが軽減することで体を動かしやすくなり、リハビリテーションなど次の治療に取り組みやすくなる場合もあります。"}],["$","p","10",{"children":"薬物療法やリハビリテーション、注射などを行っても症状が十分に改善しない場合は、手術を検討することもあります。"}],["$","p","11",{"children":"ただし、手術といっても、必ずしも長期間の入院や大きな皮膚切開を伴うものばかりではありません。症状によっては、その日のうちに帰宅できる日帰り手術が選択肢になることもあります。"}],["$","p","12",{"children":"たとえば、指を曲げ伸ばししたときに引っかかりや痛みが生じる「ばね指」では、まず安静や薬物療法、腱鞘内への注射などを行います。それでも改善しない場合や、再発を繰り返す場合には、狭くなった腱鞘を開く手術が検討されます。"}],["$","p","13",{"children":"手術の方法にもいくつかあり、皮膚を切開して行う方法のほか、針やエコー（超音波）を用いて、皮膚を切らずに腱鞘を切開する方法が選択される場合もあります。こうした治療は、医療機関によっては日帰りで行えることもあります。"}],["$","p","14",{"children":"まずはどのような治療の選択肢があるのかを知り、医師と相談しながら自分に合った方法を選ぶことが大切です。"}],["$","p","15",{"children":"痛みに対する治療法が複数あるからといって、新しい治療や手術をすればよいというわけではありません。大切なのは、まず痛みの原因や状態を知り、自分に必要な治療を受けることです。"}],["$","p","16",{"children":"それぞれに適応があり、メリットだけでなく注意点やリスクもありますので、医師と相談しながら選択しましょう。"}],["$","p","17",{"children":"「手術はしたくないから我慢する」「歳だから仕方がない」と最初から選択肢を狭める必要はありません。どのような治療が考えられるのかを知ることは、痛みと向き合う第一歩です。痛みが続いている、あるいは生活に支障が出ているのなら、一度、整形外科や、痛みを専門的に診るペインクリニックへ相談していただきたいと思います。"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/6538e94355528a46771ab9d4386531ffa7b4007b?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/5fe034f35fe034f338505ac3","title":"「手術か、我慢か」だけではない――神経ブロックから日帰り手術まで、痛み治療の多様な選択肢(Medical Note)","locale":"ja","take":null}],["$","$L4",null,{"title":"「手術か、我慢か」だけではない――神経ブロックから日帰り手術まで、痛み治療の多様な選択肢(Medical Note)","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/5fe034f35fe034f338505ac3","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E2%80%95%E2%80%95%E7%A5%9E%E7%B5%8C%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%8B%E3%82%89%E6%97%A5%E5%B8%B0%E3%82%8A%E6%89%8B%E8%A1%93%E3%81%BE%E3%81%A7%E3%80%81%E7%97%9B%E3%81%BF%E6%B2%BB%E7%99%82%E3%81%AE%E5%A4%9A%E6%A7%98%E3%81%AA%E9%81%B8%E6%8A%9E%E8%82%A2&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","dw:https://dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/aa9eb87baa9eb87b1f7fe223","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Albania: Fire at Education Ministry as students protest"}]]}]}],["$","li","bbc-africa:https://bbc.co.uk/sport/formula1/articles/c61kdv3k9gm2o",{"children":["$","$L2",null,{"href":"/ja/n/4aa854704aa8547068231872","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Why Rwanda's deal for F1 race remains controversial"}]]}]}],["$","li","guardian-biz:https://theguardian.com/business/2026/oct/14/inflation-numbers-september",{"children":["$","$L2",null,{"href":"/ja/n/fd8251f3fd8251f331ca41a3","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"The Guardian"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"US inflation rose to 3.7% in September in blow to Republicans before midterms"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"「手術か、我慢か」だけではない――神経ブロックから日帰り手術まで、痛み治療の多様な選択肢(Medical Note)"}],["$","meta","1",{"name":"description","content":"腰やひざ、肩などの痛みが長く続いても、「歳のせいだから仕方がない」「入院や手術をするほどではない」と考え、我慢している人は少なくない。しかし、痛みへの対処法は「手術をするか、我慢するか」の二択ではない。服薬やリハビリテーションに加え、神経ブロックなどの注射治療など、さまざまな選択肢がある。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"「手術か、我慢か」だけではない――神経ブロックから日帰り手術まで、痛み治療の多様な選択肢(Medical Note)"}],["$","meta","4",{"property":"og:description","content":"腰やひざ、肩などの痛みが長く続いても、「歳のせいだから仕方がない」「入院や手術をするほどではない」と考え、我慢している人は少なくない。しかし、痛みへの対処法は「手術をするか、我慢するか」の二択ではない。服薬やリハビリテーションに加え、神経ブロックなどの注射治療など、さまざまな選択肢がある。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/5fe034f35fe034f338505ac3/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261014-00010000-medical-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"「手術か、我慢か」だけではない――神経ブロックから日帰り手術まで、痛み治療の多様な選択肢(Medical Note)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"「手術か、我慢か」だけではない――神経ブロックから日帰り手術まで、痛み治療の多様な選択肢(Medical Note)"}],["$","meta","14",{"name":"twitter:description","content":"腰やひざ、肩などの痛みが長く続いても、「歳のせいだから仕方がない」「入院や手術をするほどではない」と考え、我慢している人は少なくない。しかし、痛みへの対処法は「手術をするか、我慢するか」の二択ではない。服薬やリハビリテーションに加え、神経ブロックなどの注射治療など、さまざまな選択肢がある。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261014-00010000-medical-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

@@ -1,0 +1,195 @@
+1:"$Sreact.fragment"
+2:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+4:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"LoadingBoundaryProvider"]
+7:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+f:I[68027,[],"default",1]
+:HL["/kasawa-news/_next/static/chunks/05wjkgi4s2ouj.css","style"]
+:HL["/kasawa-news/_next/static/chunks/13j-0ia4l16p6.css","style"]
+:HL["/kasawa-news/_next/static/media/ad9c66e761fed85a-s.p.0fhiaplbf_4wa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+a:X
+0:{"P":null,"c":["","ja","n","7db4fce57db4fce57a189a75",""],"q":"","i":false,"f":[[["",{"children":[["locale","ja","d",["go"]],{"children":["n",{"children":[["id","7db4fce57db4fce57a189a75","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4612]},"$undefined","$undefined",4632],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/05wjkgi4s2ouj.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/13j-0ia4l16p6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ja","suppressHydrationWarning":true,"className":"noto_sans_jp_ce83c864-module__rNYPaW__variable h-full antialiased","children":[["$","head",null,{"children":["$","script",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9222859203841922","crossOrigin":"anonymous"}]}],["$","body",null,{"className":"site-body min-h-full bg-paper text-ink","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":[["$","$L4",null,{"loading":[["$","div","l",{"className":"py-16","children":[["$","div",null,{"className":"h-3 w-24 bg-ink/10"}],["$","div",null,{"className":"mt-4 h-16 w-4/5 bg-ink/10"}],["$","div",null,{"className":"mt-6 h-4 w-full bg-ink/10"}],["$","div",null,{"className":"mt-2 h-4 w-2/3 bg-ink/10"}],["$","div",null,{"className":"mt-12 space-y-6","children":[["$","div",null,{"className":"h-10 bg-ink/10"}],["$","div",null,{"className":"h-10 bg-ink/10"}],["$","div",null,{"className":"h-10 w-5/6 bg-ink/10"}]]}]]}],[],null],"children":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","async":true,"nonce":"$undefined"}]],"$L5"]}]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$a"]},null,false,"$a"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/05wjkgi4s2ouj.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/13j-0ia4l16p6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"hLDkNeSsban5txPAuz-c3"}
+10:I[50155,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js"],"HtmlLang"]
+11:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+12:I[86168,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js"],"LanguageSwitch"]
+a:C
+5:["$","div",null,{"className":"flex min-h-full flex-col","children":[["$","$L10",null,{"locale":"ja"}],["$","header",null,{"className":"desk-hero","children":["$","div",null,{"className":"site-shell mx-auto flex w-full max-w-6xl flex-col gap-4 px-4 py-6 sm:px-6 sm:py-7","children":[["$","div",null,{"className":"flex min-w-0 items-start gap-3","children":[["$","span",null,{"className":"brand-mark mt-1 shrink-0","aria-hidden":true,"children":"NC"}],["$","div",null,{"className":"min-w-0","children":[["$","p",null,{"className":"text-[10px] font-bold tracking-[0.2em] text-muted uppercase sm:text-[11px] sm:tracking-[0.24em]","children":"NYANCHU NEWS"}],["$","$L11",null,{"href":"/ja","className":"font-display mt-1 block text-[clamp(1.65rem,8vw,3.2rem)] leading-[1.05] tracking-[-0.03em] hover:opacity-90","children":[["$","span",null,{"className":"text-accent","children":"BREAKING"}]," ",["$","span",null,{"className":"text-ink","children":"NyanChu"}]]}],["$","p",null,{"className":"mt-1 font-sans text-[11px] tracking-[0.14em] text-muted sm:text-[12px] sm:tracking-[0.16em]","children":"ニャンチュ"}]]}]]}],["$","nav",null,{"className":"header-nav","aria-label":"サイト","children":[["$","$L12",null,{"locale":"ja"}],["$","a",null,{"href":"/search.html","target":"_blank","rel":"noopener noreferrer","className":"header-nav-link","children":"NyanChu検索する"}],["$","$L11",null,{"href":"/ja/election","className":"header-nav-link","children":"選挙"}],["$","$L11",null,{"href":"/ja/travel","className":"header-nav-link","children":"旅ガイド"}],["$","a",null,{"href":"/kasawa-news/phrasebook.html","className":"header-nav-link","children":"旅の日本語"}],["$","$L11",null,{"href":"/ja/book","className":"header-nav-link","children":"本"}],["$","$L11",null,{"href":"/ja/members/x","className":"header-nav-link","children":"会員"}]]}],["$","p",null,{"className":"max-w-2xl text-[13px] leading-6 text-muted sm:text-[14px]","children":["日付ごとに保存。最新は先頭。ジャンルチップから各日のフィードへ。"," ","2026-10-18 04:39"," ","更新"]}]]}]}],["$","div",null,{"className":"site-shell mx-auto w-full max-w-6xl flex-1 px-4 sm:px-6","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"py-24 text-center","children":[["$","p",null,{"className":"font-display text-5xl tracking-[-0.04em]","children":"404"}],["$","p",null,{"className":"mt-4 text-muted","children":"Page not found. / ページが見つかりません。"}],["$","$L11",null,{"href":"/ja","className":"mt-8 inline-block font-sans text-[12px] tracking-[0.18em] uppercase text-accent","children":"NyanChu"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","div",null,{"className":"site-shell mx-auto w-full max-w-6xl px-4 sm:px-6","children":["$","footer",null,{"className":"mt-16 border-t border-line pt-8 pb-12 text-[13px] leading-6 text-muted","children":[["$","div",null,{"className":"flex flex-wrap items-start justify-between gap-6","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-lg tracking-wide text-ink","children":"NyanChu"}],["$","p",null,{"className":"mt-2 max-w-xl","children":"見出しから、記事の本文へ。"}]]}],["$","nav",null,{"className":"flex flex-wrap gap-x-5 gap-y-2 font-sans text-[12px] tracking-[0.14em] uppercase","children":[["$","$L11",null,{"href":"/ja","className":"hover:text-accent","children":"トップ"}],["$","$L11",null,{"href":"/ja/travel","className":"hover:text-accent","children":"旅ガイド"}],["$","a",null,{"href":"/kasawa-news/phrasebook.html","className":"hover:text-accent","children":"旅の日本語"}],["$","$L11",null,{"href":"/ja/book","className":"hover:text-accent","children":"本"}],["$","$L11",null,{"href":"/ja/members/x","className":"hover:text-accent","children":"会員"}],["$","a",null,{"href":"/search.html","target":"_blank","rel":"noopener noreferrer","className":"hover:text-accent","children":"NyanChu検索する"}]]}]]}],["$","p",null,{"className":"mt-6 max-w-3xl","children":"配信に含まれる本文を記事ページに出しています。見出しだけの配信は、発行元ページの要点を表示します。有料記事は入れていません。著作権は各社にあります。"}],["$","p",null,{"className":"mt-4","children":["配信元",": ","BBC日本語 · BBC · NPR · The Guardian · Al Jazeera · Deutsche Welle · France 24 · ABC Australia · CBC · CNA · Euronews · UN News · ITmedia · Gigazine · CNET Japan · マイナビニュース · Yahoo!ニュース · ライブドアニュース · NHKニュース"]}],["$","p",null,{"className":"mt-1","children":["30分ごとに取り込み",["$","span",null,{"className":"mx-2 text-ink/30","children":"/"}],"表は24時間以内"]}]]}]}]]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]
+36:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+6:["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L11",null,{"href":"/ja/d/2026-10-16","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Gigazine"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"「マチ★アソビ vol.31」イベントスケジュール一覧まとめ"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"徳島市まるごとがアニメ・ゲーム・マンガなどに染まる一大イベント「 マチ★アソビ vol.31 」が2026年10月17日(土)・18日(日)に開催されます。イベント情報はフライヤーにまとめられていますが、観覧計画を立てる参考となるように、日付・場所別のスケジュール表を作成しました。"}],["$","p","1",{"children":"今回の開催も前回以上の規模にてお届けです。"}],["$","p","2",{"children":"17日と18日のイベントタイムテーブルは以下の通り。また、開催前日の16日(金)16時から新町橋東公園ステージで「 マチ★アソビ vol.31 前夜祭 」が開催され、「高橋祐馬×田中翔 執行役員＆執行役 W就任祝いトーク」「企業対抗 業界人早押しクイズ」「おいでよ、ニュータイプアニメアワード」「マチ★アソビ直前！参加企業イチオシ宣伝タイム」といった企画が行われました。"}],["$","p","3",{"children":"マチ★アソビ Vol.31前夜祭は3時間超でトークありクイズありの大祭りに - GIGAZINE"}],["$","p","4",{"children":"なお、終日イベントはスケジュール表の下にまとめています。"}],["$","p","5",{"children":"マチ★アソビ vol.31 POP MUSIC STAGE presented by MOGRA [DAY1] 11:00-12:00"}],["$","p","6",{"children":"少女フラクタルSpecial★Live inマチ★アソビVol.31 11:00-12:00"}],["$","p","7",{"children":"「バンドリ！アワーノーツ」開発 フロムトーキョースタッフトークショー"}],["$","p","8",{"children":"幽閉サテライトSpecial★Live inマチ★アソビVol.31 12:00-13:00"}],["$","p","9",{"children":"和田丈嗣のむっちゃええやん！ 13:00-14:00"}],["$","p","10",{"children":"逢瀬アキラ マチ★アソビSpecial stage!!! 13:00-14:00"}],["$","p","11",{"children":"『鉄鍋のジャン！』オーディオコメンタリー上映 13:00-14:00"}],["$","p","12",{"children":"インディゲームって、実際どうなの？ ～現役インディゲームクリエイターによる&ldquo;ここだけすぎる&rdquo;トークセッション～ 13:00-14:00"}],["$","p","13",{"children":"国立公文書館はマチ★アソビの夢を見るか？～クリエイターのための活用術～"}],["$","p","14",{"children":"ぺろりん先生トークショー feat.『ディスディスディスカッション』"}],["$","p","15",{"children":"「うっちゃり！」３ライブ＆トーク 15:00 15:00-16:00"}],["$","p","16",{"children":"TVアニメ『DARK MACHINE THE ANIMATION』第1話上映&スタッフトーク inマチ★アソビvol.31 15:00-16:00"}],["$","p","17",{"children":"アニメ『呪術廻戦』制作の裏側を制作統括とアニメーションプロデューサーが語る！マチ★アソビ&times;MAPPAトークイベント 17:00-18:00"}],["$","p","18",{"children":"百合で戦っていくには？/生きのこるには？"}],["$","p","19",{"children":"『超かぐや姫！』トークショー 18:00"}],["$","p","20",{"children":"渡辺歩監督&times;BUG FILMS児島PトークショーTVアニメ「とんがり帽子のアトリエ」第1話上映会＆生コメンタリーも！ 19:00-20:00"}],["$","p","21",{"children":"feel.&times;TVアニメ『Summer Pockets』スタッフSPトーク第3回 10:00-11:00"}],["$","p","22",{"children":"印刷会社がアニメを作る？──「ライトアニメ&reg;」の裏側、全部話します 「身代わり令嬢を救ったのは冷酷無慈悲な氷の王子の愛でした」（#身代わり令嬢）はどうやってライトアニメになったのか？ 10:00-11:00"}],["$","p","23",{"children":"マチ★アソビ vol.31 POP MUSIC STAGE presented by MOGRA [DAY 2] 11:00-12:00"}],["$","p","24",{"children":"「ブレイド&バスタード」トークショーfeat.楓月誠 11:00 11:00-12:00"}],["$","p","25",{"children":"アニメの2Dデザインって、どうやってできてるの？ feat.『空色ユーティリティ』"}],["$","p","26",{"children":"映画「BanG Dream! Ave Mujica prima aurora」上映会 11:30-12:30"}],["$","p","27",{"children":"TVアニメ「透明男と人間女〜そのうち夫婦になるふたり〜」キャスト＆スタッフトークショー in マチ★アソビvol.31"}],["$","p","28",{"children":"乃木坂46&times;ビルディバイド -ブライト- TCG Vol.2 ～次はマチアソビ！編！～ 12:00-13:00"}],["$","p","29",{"children":"上月せれなSPライブ「マチ★アソビでもYeah!ってアゲタイガー」 12:00-13:00"}],["$","p","30",{"children":"『鉄鍋のジャン！』と、これからのTROYCA～ YouTube公開生放送～"}],["$","p","31",{"children":"TVアニメ「ロメリア戦記」放送開始記念 キャストトークショー in マチ★アソビvol.31 13:00-14:00"}],["$","p","32",{"children":"アズレン鑑定団～語れ！愛とこだわりの逸品～ 13:00 13:00-14:00"}],["$","p","33",{"children":"業界人ガールミーツガール時事放談 vol.2"}],["$","p","34",{"children":"FGOゲストトーク in マチ★アソビvol.31 14:30 14:30-15:30"}],["$","p","35",{"children":"『アニメ好きの民よ、VTuberを推せ！～入門編～』 15:00-16:00"}],["$","p","36",{"children":"知多娘。ステージ 15:00 15:00-16:00"}],["$","p","37",{"children":"東方樂祭inマチ★アソビVol.31 16:00-17:00"}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f"],"$L30"]}],"$L31","$L32","$L33",null,"$L34","$L35"]}]
+9:null
+e:[["$","title","0",{"children":"「マチ★アソビ vol.31」イベントスケジュール一覧まとめ"}],["$","meta","1",{"name":"description","content":"徳島市まるごとがアニメ・ゲーム・マンガなどに染まる一大イベント「 マチ★アソビ vol.31 」が2026年10月17日(土)・18日(日)に開催されます。イベント情報はフライヤーにまとめられていますが、観覧計画を立てる参考となるように、日付・場所別のスケジュール表を作成しました。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"「マチ★アソビ vol.31」イベントスケジュール一覧まとめ"}],["$","meta","4",{"property":"og:description","content":"徳島市まるごとがアニメ・ゲーム・マンガなどに染まる一大イベント「 マチ★アソビ vol.31 」が2026年10月17日(土)・18日(日)に開催されます。イベント情報はフライヤーにまとめられていますが、観覧計画を立てる参考となるように、日付・場所別のスケジュール表を作成しました。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/7db4fce57db4fce57a189a75/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"「マチ★アソビ vol.31」イベントスケジュール一覧まとめ"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"「マチ★アソビ vol.31」イベントスケジュール一覧まとめ"}],["$","meta","14",{"name":"twitter:description","content":"徳島市まるごとがアニメ・ゲーム・マンガなどに染まる一大イベント「 マチ★アソビ vol.31 」が2026年10月17日(土)・18日(日)に開催されます。イベント情報はフライヤーにまとめられていますが、観覧計画を立てる参考となるように、日付・場所別のスケジュール表を作成しました。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L36","18",{}]]
+37:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+38:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+3b:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+13:["$","p","38",{"children":"TVアニメ「魔都精兵のスレイブ」キャスト＆スタッフトークショー in マチ★アソビvol.31"}]
+14:["$","p","39",{"children":"VTuber事務所「ハコネクト」スペシャルライブinマチ★アソビ vol.31"}]
+15:["$","p","40",{"children":"vtuberたみー×マチアソビSPライブ2026!!"}]
+16:["$","p","41",{"children":"【新町川】国立公文書館はマチ★アソビの夢を見るか？ ～アフタートーク～"}]
+17:["$","p","42",{"children":"あなたも「ずんだもん」になれる!!四国めたんの中の人 田中小雪とVtuberごっこin マチ★アソビ"}]
+18:["$","p","43",{"children":"BanG Dream! STORE出張所＆ギャラリー"}]
+19:["$","p","44",{"children":"最先端！ XRひろば in マチ★アソビ"}]
+1a:["$","p","45",{"children":"マチ★アソビvol.31 アニメ「鬼滅の刃」ロープウェイガイドアナウンス実施！"}]
+1b:["$","p","46",{"children":"マチ★アソビ vol.31 旧みずほ銀行徳島支店 約100年の歴史ある建物でコスプレを楽しもう！×映画『魔法使いの夜』ソニーグループ株式会社のソリューションを使った「魔法陣」が、マチ★アソビに登場！ ufotable presents, Supported by Sony"}]
+1c:["$","p","47",{"children":"また、徳島市内の協力飲食店・各種店舗では「マチ★アソビ グルメハント」が開催されています。一部の店舗で食べられるメニューやポストカードがどんなものなのかは以下の記事でチェックできます"}]
+1d:["$","p","48",{"children":"『鬼滅の刃』と『Fate/Zero＆魔法使いの夜』ポストカードが鳴門金時・すだち・阿波尾鶏など徳島名物を食べてもらえるマチ★アソビ vol.31の「グルメハント」に挑んできた - GIGAZINE"}]
+1e:["$","p","49",{"children":"そして、徳島阿波おどり空港では鬼滅の刃・LONA・プリズマ☆イリヤ・Fate・魔法使いの夜のキャラクターで飾り立てられるアニメジャックが行われており、以下の記事でチェックできます。"}]
+1f:["$","p","50",{"children":"鬼滅の刃・LONA・プリズマ☆イリヤ・Fate・魔法使いの夜がマチ★アソビ vol.31に向けて徳島阿波おどり空港をアニメジャック - GIGAZINE"}]
+20:["$","p","51",{"children":"「マチ★アソビ vol.30」イベントスケジュール一覧まとめ - GIGAZINE"}]
+21:["$","p","52",{"children":"「マチ★アソビ Vol.29」全記事一覧まとめ - GIGAZINE"}]
+22:["$","p","53",{"children":"「マチ★アソビ vol.30」全記事一覧まとめ - GIGAZINE"}]
+23:["$","p","54",{"children":"「マチ★アソビ vol.29」イベントスケジュール一覧まとめ - GIGAZINE"}]
+24:["$","p","55",{"children":"「マチ★アソビ vol.27」イベントスケジュール一覧まとめ - GIGAZINE"}]
+25:["$","p","56",{"children":"「マチ★アソビ vol.26」イベントスケジュール一覧まとめ - GIGAZINE"}]
+26:["$","p","57",{"children":"マチ★アソビ vol.25のイベントスケジュール＆グルメハント情報一覧 - GIGAZINE"}]
+27:["$","p","58",{"children":"「マチ★アソビ vol.30」イベントスケジュール一覧まとめ"}]
+28:["$","p","59",{"children":"「マチ★アソビ vol.29」イベントスケジュール一覧まとめ"}]
+29:["$","p","60",{"children":"「マチ★アソビ vol.26」イベントスケジュール一覧まとめ"}]
+2a:["$","p","61",{"children":"「マチ★アソビ vol.27」イベントスケジュール一覧まとめ"}]
+2b:["$","p","62",{"children":"マチ★アソビ vol.25のイベントスケジュール＆グルメハント情報一覧"}]
+2c:["$","p","63",{"children":"「マチ★アソビ vol.21 前夜祭」で発表された情報まとめ・イベントスケジュール一覧"}]
+2d:["$","p","64",{"children":"「マチ★アソビ vol.19 前夜祭」で発表された情報まとめ・イベントスケジュール一覧"}]
+2e:["$","p","65",{"children":"「マチ★アソビ vol.28」全記事一覧まとめ"}]
+2f:["$","p","66",{"children":"You can read the machine translated English article Summary of the event schedule for 'Machi… ."}]
+30:["$","p",null,{"className":"article-credit","children":"本文の著作権はGigazineにあります。"}]
+31:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://gigazine.net/news/20261016-event-schedule-machiasobi31/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はGigazineで読む"}]}]
+39:T1e2e,徳島市まるごとがアニメ・ゲーム・マンガなどに染まる一大イベント「 マチ★アソビ vol.31 」が2026年10月17日(土)・18日(日)に開催されます。イベント情報はフライヤーにまとめられていますが、観覧計画を立てる参考となるように、日付・場所別のスケジュール表を作成しました。
+
+今回の開催も前回以上の規模にてお届けです。
+
+17日と18日のイベントタイムテーブルは以下の通り。また、開催前日の16日(金)16時から新町橋東公園ステージで「 マチ★アソビ vol.31 前夜祭 」が開催され、「高橋祐馬×田中翔 執行役員＆執行役 W就任祝いトーク」「企業対抗 業界人早押しクイズ」「おいでよ、ニュータイプアニメアワード」「マチ★アソビ直前！参加企業イチオシ宣伝タイム」といった企画が行われました。
+
+マチ★アソビ Vol.31前夜祭は3時間超でトークありクイズありの大祭りに - GIGAZINE
+
+なお、終日イベントはスケジュール表の下にまとめています。
+
+マチ★アソビ vol.31 POP MUSIC STAGE presented by MOGRA [DAY1] 11:00-12:00
+
+少女フラクタルSpecial★Live inマチ★アソビVol.31 11:00-12:00
+
+「バンドリ！アワーノーツ」開発 フロムトーキョースタッフトークショー
+
+幽閉サテライトSpecial★Live inマチ★アソビVol.31 12:00-13:00
+
+和田丈嗣のむっちゃええやん！ 13:00-14:00
+
+逢瀬アキラ マチ★アソビSpecial stage!!! 13:00-14:00
+
+『鉄鍋のジャン！』オーディオコメンタリー上映 13:00-14:00
+
+インディゲームって、実際どうなの？ ～現役インディゲームクリエイターによる&ldquo;ここだけすぎる&rdquo;トークセッション～ 13:00-14:00
+
+国立公文書館はマチ★アソビの夢を見るか？～クリエイターのための活用術～
+
+ぺろりん先生トークショー feat.『ディスディスディスカッション』
+
+「うっちゃり！」３ライブ＆トーク 15:00 15:00-16:00
+
+TVアニメ『DARK MACHINE THE ANIMATION』第1話上映&スタッフトーク inマチ★アソビvol.31 15:00-16:00
+
+アニメ『呪術廻戦』制作の裏側を制作統括とアニメーションプロデューサーが語る！マチ★アソビ&times;MAPPAトークイベント 17:00-18:00
+
+百合で戦っていくには？/生きのこるには？
+
+『超かぐや姫！』トークショー 18:00
+
+渡辺歩監督&times;BUG FILMS児島PトークショーTVアニメ「とんがり帽子のアトリエ」第1話上映会＆生コメンタリーも！ 19:00-20:00
+
+feel.&times;TVアニメ『Summer Pockets』スタッフSPトーク第3回 10:00-11:00
+
+印刷会社がアニメを作る？──「ライトアニメ&reg;」の裏側、全部話します 「身代わり令嬢を救ったのは冷酷無慈悲な氷の王子の愛でした」（#身代わり令嬢）はどうやってライトアニメになったのか？ 10:00-11:00
+
+マチ★アソビ vol.31 POP MUSIC STAGE presented by MOGRA [DAY 2] 11:00-12:00
+
+「ブレイド&バスタード」トークショーfeat.楓月誠 11:00 11:00-12:00
+
+アニメの2Dデザインって、どうやってできてるの？ feat.『空色ユーティリティ』
+
+映画「BanG Dream! Ave Mujica prima aurora」上映会 11:30-12:30
+
+TVアニメ「透明男と人間女〜そのうち夫婦になるふたり〜」キャスト＆スタッフトークショー in マチ★アソビvol.31
+
+乃木坂46&times;ビルディバイド -ブライト- TCG Vol.2 ～次はマチアソビ！編！～ 12:00-13:00
+
+上月せれなSPライブ「マチ★アソビでもYeah!ってアゲタイガー」 12:00-13:00
+
+『鉄鍋のジャン！』と、これからのTROYCA～ YouTube公開生放送～
+
+TVアニメ「ロメリア戦記」放送開始記念 キャストトークショー in マチ★アソビvol.31 13:00-14:00
+
+アズレン鑑定団～語れ！愛とこだわりの逸品～ 13:00 13:00-14:00
+
+業界人ガールミーツガール時事放談 vol.2
+
+FGOゲストトーク in マチ★アソビvol.31 14:30 14:30-15:30
+
+『アニメ好きの民よ、VTuberを推せ！～入門編～』 15:00-16:00
+
+知多娘。ステージ 15:00 15:00-16:00
+
+東方樂祭inマチ★アソビVol.31 16:00-17:00
+
+TVアニメ「魔都精兵のスレイブ」キャスト＆スタッフトークショー in マチ★アソビvol.31
+
+VTuber事務所「ハコネクト」スペシャルライブinマチ★アソビ vol.31
+
+vtuberたみー×マチアソビSPライブ2026!!
+
+【新町川】国立公文書館はマチ★アソビの夢を見るか？ ～アフタートーク～
+
+あなたも「ずんだもん」になれる!!四国めたんの中の人 田中小雪とVtuberごっこin マチ★アソビ
+
+BanG Dream! STORE出張所＆ギャラリー
+
+最先端！ XRひろば in マチ★アソビ
+
+マチ★アソビvol.31 アニメ「鬼滅の刃」ロープウェイガイドアナウンス実施！
+
+マチ★アソビ vol.31 旧みずほ銀行徳島支店 約100年の歴史ある建物でコスプレを楽しもう！×映画『魔法使いの夜』ソニーグループ株式会社のソリューションを使った「魔法陣」が、マチ★アソビに登場！ ufotable presents, Supported by Sony
+
+また、徳島市内の協力飲食店・各種店舗では「マチ★アソビ グルメハント」が開催されています。一部の店舗で食べられるメニューやポストカードがどんなものなのかは以下の記事でチェックできます
+
+『鬼滅の刃』と『Fate/Zero＆魔法使いの夜』ポストカードが鳴門金時・すだち・阿波尾鶏など徳島名物を食べてもらえるマチ★アソビ vol.31の「グルメハント」に挑んできた - GIGAZINE
+
+そして、徳島阿波おどり空港では鬼滅の刃・LONA・プリズマ☆イリヤ・Fate・魔法使いの夜のキャラクターで飾り立てられるアニメジャックが行われており、以下の記事でチェックできます。
+
+鬼滅の刃・LONA・プリズマ☆イリヤ・Fate・魔法使いの夜がマチ★アソビ vol.31に向けて徳島阿波おどり空港をアニメジャック - GIGAZINE
+
+「マチ★アソビ vol.30」イベントスケジュール一覧まとめ - GIGAZINE
+
+「マチ★アソビ Vol.29」全記事一覧まとめ - GIGAZINE
+
+「マチ★アソビ vol.30」全記事一覧まとめ - GIGAZINE
+
+「マチ★アソビ vol.29」イベントスケジュール一覧まとめ - GIGAZINE
+
+「マチ★アソビ vol.27」イベントスケジュール一覧まとめ - GIGAZINE
+
+「マチ★アソビ vol.26」イベントスケジュール一覧まとめ - GIGAZINE
+
+マチ★アソビ vol.25のイベントスケジュール＆グルメハント情報一覧 - GIGAZINE
+
+「マチ★アソビ vol.30」イベントスケジュール一覧まとめ
+
+「マチ★アソビ vol.29」イベントスケジュール一覧まとめ
+
+「マチ★アソビ vol.26」イベントスケジュール一覧まとめ
+
+「マチ★アソビ vol.27」イベントスケジュール一覧まとめ
+
+マチ★アソビ vol.25のイベントスケジュール＆グルメハント情報一覧
+
+「マチ★アソビ vol.21 前夜祭」で発表された情報まとめ・イベントスケジュール一覧
+
+「マチ★アソビ vol.19 前夜祭」で発表された情報まとめ・イベントスケジュール一覧
+
+「マチ★アソビ vol.28」全記事一覧まとめ
+
+You can read the machine translated English article Summary of the event schedule for 'Machi… .32:["$","section",null,{"className":"article-actions","children":[["$","$L37",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/7db4fce57db4fce57a189a75","title":"「マチ★アソビ vol.31」イベントスケジュール一覧まとめ","locale":"ja","take":null}],["$","$L38",null,{"title":"「マチ★アソビ vol.31」イベントスケジュール一覧まとめ","excerpt":"$39","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/7db4fce57db4fce57a189a75","locale":"ja"}],"$L3a"]}]
+33:["$","$L3b",null,{"placement":"article","className":"mt-8"}]
+34:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L11",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+35:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-africa:https://bbc.co.uk/news/articles/cmwyvxj49gpwo",{"children":["$","$L11",null,{"href":"/ja/n/cd8bae56cd8bae563f895fe0","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Patients in chains rescued from suspected illegal rehab centre in South Africa"}]]}]}],["$","li","nhk-sports:https://news.web.nhk/newsweb/na/nd-20261016de60755",{"children":["$","$L11",null,{"href":"/ja/n/ea02838dea02838dabce0501","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"ソフトバンクが3年連続で日本シリーズ進出 日本ハムに3連勝"}]]}]}],["$","li","nhk-society:https://news.web.nhk/newsweb/na/nd-20261016de60368",{"children":["$","$L11",null,{"href":"/ja/n/5e85f6d45e85f6d4707320ee","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"緊急地震速報の過大推定 「過去の対策が機能せず」気象庁"}]]}]}]]}]]}]
+3a:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E4%B8%80%E8%A6%A7%E3%81%BE%E3%81%A8%E3%82%81&mode=phrase&url=gigazine.net&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]

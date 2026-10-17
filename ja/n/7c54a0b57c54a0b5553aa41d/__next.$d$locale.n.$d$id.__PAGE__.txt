@@ -1,0 +1,77 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+f:X
+14:X
+14:C
+0:{"buildId":"hLDkNeSsban5txPAuz-c3","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-17","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Gigazine"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"謙虚さが低い男性ほど「男性は不当に扱われている」と感じて男性の権利擁護活動を支持する傾向があるという研究結果"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"7 時間前"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"現代では過去に比べると女性の大学進学率や就業率が高まっているとはいえ、依然として環境や待遇などさまざまな面で女性に対する不平等が残されています。一方で、一部の男性は「現代社会では男性も不当な扱いを受けている」と主張し、男性の権利を擁護しようとしています。新たな研究では、男性の謙虚さという性格特性と、男性が不当に扱われているという認識や男性の権利擁護活動への支持との関連が調査されました。"}],["$","p","1",{"children":"スウェーデン・ウプサラ大学の心理学研究者である ジョアンナ・リンドストローム 氏らの研究チームは、男性の「謙虚さ」と「集団に基づく相対的剥奪感」が、男性の権利擁護活動への支持に結びつくものなのかどうかを調査しました。"}],["$","p","2",{"children":"ここでの謙虚さとは、人々が他者との関係において自分自身をどのように評価するかを指します。謙虚さが高い人は、一般的に自分を他の誰よりも優れているとは考えませんが、謙虚さが低い人は自分が周囲よりも優れた存在であり、特別な権利を享受するべきだと考えがちです。"}],["$","p","3",{"children":"集団に基づく相対的剥奪感は、自分が属する集団が社会の他の集団と比べて不当な扱いを受けている、あるいは不利な立場に置かれていると感じる状態を指します。研究チームは男性がこうした感覚を抱く背景に、「男性が本来享受すべき権力や地位を失っている」という認識が存在する可能性を指摘しています。"}],["$","p","4",{"children":"過去の 研究 では、謙虚さが低いことは白人のアメリカ人男性において剥奪感と関連していることが示されています。リンドストローム氏は心理学系メディアのPsyPostに対し、「私は歴史や統計がそうではないと示唆しているにもかかわらず、構造的に有利なグループのメンバーの一部が『自分たちのグループが不当に不利な立場にある』と認識する理由を理解することに興味がありました」と語っています。"}],["$","p","5",{"children":"研究は2段階で行われ、第1段階ではオンラインプラットフォームで募集した195人の白人のアメリカ人男性を対象に、性格特性としての謙虚さを測定するためのアンケートを実施。その後、集団に基づく相対的剥奪感を測定する一連の質問も行い、現代社会において男性が不利な立場にあるとされることへの不満度を尋ねました。"}],["$","p","6",{"children":"続いて研究チームは、被験者らが男性の権利擁護活動を支持する度合いや、活動に参加したいと思うかどうかについても測定。男性の権利擁護活動については、法改正の提唱や団体への参加といった「従来型の政治活動」と、暴力に発展しうる活動への参加や身体的攻撃を伴う行動への支持といった「過激で非伝統的な政治活動」の2グループに分類しました。"}],["$","p","7",{"children":"分析の結果、謙虚さが低い男性ほど男性集団が抑圧されていると感じている可能性が高く、この剥奪感が従来型および非伝統型の政治活動への支持を予測することがわかりました。また、謙虚さの低さは非伝統型の政治活動への支持を、剥奪感は従来型の政治活動への意欲をより強く予測する傾向がみられたとのことです。"}],["$","p","8",{"children":"第2段階では、白人と黒人がほぼ同数のアメリカ人男性492人を対象に調査を行いました。この調査では、謙虚さと剥奪感の関連性が人種グループ間で共通しているのかどうかに加え、「男性の不利な状況」を意識させることで結果が変わるのかどうかも検証されました。"}],["$","p","9",{"children":"被験者らはまず、第1段階の研究でも行われた謙虚さに関するアンケートに答えました。そして半数は「男性が女性と比べてどのような点で不利な立場にあるか」を考えて4つの文を書き、残る半数は「朝のルーティーン」について4つの文を書きました。これらの記述課題の後、被験者らは剥奪感および男性の権利擁護活動に対する姿勢について調査したとのこと。"}],["$","p","10",{"children":"その結果、男性の不利な点についての記述課題は、以前の研究でも確認された謙虚さと剥奪感、そして男性の権利擁護活動を支持する傾向に影響を与えませんでした。男性の不利な点を意識させられた男性であっても、一貫して謙虚さが低いほど剥奪感が強く、剥奪感が強いほど男性の権利擁護活動を支持する傾向があることが示されました。"}],["$","p","11",{"children":"リンドストローム氏は、「男性の性格や社会状況に対する認識は、男性の権利擁護活動への支持を形成する上で重要な役割を果たしています」「この研究結果を言い換えると、謙虚さが高い男性は剥奪感から守られ、ひいては男性の権利擁護活動からも遠ざける可能性があることを示唆しています」と述べました。"}],["$","p","12",{"children":"研究チームは、「男性優位主義コミュニティや男性の権利擁護活動が、純粋に性格だけで説明できると言いたいわけではありません。性格は変化するものであることを忘れてはいけません。謙虚さが低い男性は社会的に男性が不当に扱われていると認識しやすく、男性の権利擁護活動を支持・参加する傾向があるからといって、謙虚さに対する認識が変わらないわけではないのです。謙虚さを高めることは、男性優位主義コミュニティの影響から男性を守るための、重要な手段になるかもしれません」と説明しています。"}],["$","p","13",{"children":"なお、今回の研究は白人と黒人のアメリカ人男性を対象にしたものであり、アジア系やラテン系など別のグループでは異なる結果になる可能性があります。また、謙虚さやジェンダーに関する規範は文化や国によって異なるため、別の国や文化圏でも同様の結果になるかどうかを知るにはさらなる研究が必要です。"}],["$","p","14",{"children":"「有害な男らしさ」は測定できるのか？ - GIGAZINE"}],["$","p","15",{"children":"現代の男性が苦労している理由は何なのか、男女の不平等を解消するために何ができるのか？ - GIGAZINE"}],["$","p","16",{"children":"なぜ女性は「慈悲深い性差別主義者」に魅力を感じるのか？ - GIGAZINE"}],"$L3","$L4","$L5"],"$L6"]}],"$L7","$L8","$L9",null,"$La","$Lb"]}],["$Lc"],"$Ld"]}],"isPartial":"$@e","staleTime":"$f","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$f","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$f","varyParams":"$14"},{"rsc":"$L15","isPartial":"$@16","staleTime":"$f","varyParams":"$14"}],"isUpgradeableISRFallback":false,"a":"$@17","rootVaryParams":null,"needsRuntimeRequest":"$@18"}
+19:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+1a:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+1c:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+1d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1e:"$Sreact.suspense"
+20:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+21:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+22:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+23:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+24:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","17",{"children":"ゲームに登場する女性キャラはいかにして性の対象として描かれているか？"}]
+4:["$","p","18",{"children":"ポルノを見ることはセックスに好影響をもたらすのか？"}]
+5:["$","p","19",{"children":"You can read the machine translated English article A study found that men with low levels o… ."}]
+6:["$","p",null,{"className":"article-credit","children":"本文の著作権はGigazineにあります。"}]
+7:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://gigazine.net/news/20261017-men-self-views-victimized-rights-activism/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はGigazineで読む"}]}]
+1b:T1ba5,現代では過去に比べると女性の大学進学率や就業率が高まっているとはいえ、依然として環境や待遇などさまざまな面で女性に対する不平等が残されています。一方で、一部の男性は「現代社会では男性も不当な扱いを受けている」と主張し、男性の権利を擁護しようとしています。新たな研究では、男性の謙虚さという性格特性と、男性が不当に扱われているという認識や男性の権利擁護活動への支持との関連が調査されました。
+
+スウェーデン・ウプサラ大学の心理学研究者である ジョアンナ・リンドストローム 氏らの研究チームは、男性の「謙虚さ」と「集団に基づく相対的剥奪感」が、男性の権利擁護活動への支持に結びつくものなのかどうかを調査しました。
+
+ここでの謙虚さとは、人々が他者との関係において自分自身をどのように評価するかを指します。謙虚さが高い人は、一般的に自分を他の誰よりも優れているとは考えませんが、謙虚さが低い人は自分が周囲よりも優れた存在であり、特別な権利を享受するべきだと考えがちです。
+
+集団に基づく相対的剥奪感は、自分が属する集団が社会の他の集団と比べて不当な扱いを受けている、あるいは不利な立場に置かれていると感じる状態を指します。研究チームは男性がこうした感覚を抱く背景に、「男性が本来享受すべき権力や地位を失っている」という認識が存在する可能性を指摘しています。
+
+過去の 研究 では、謙虚さが低いことは白人のアメリカ人男性において剥奪感と関連していることが示されています。リンドストローム氏は心理学系メディアのPsyPostに対し、「私は歴史や統計がそうではないと示唆しているにもかかわらず、構造的に有利なグループのメンバーの一部が『自分たちのグループが不当に不利な立場にある』と認識する理由を理解することに興味がありました」と語っています。
+
+研究は2段階で行われ、第1段階ではオンラインプラットフォームで募集した195人の白人のアメリカ人男性を対象に、性格特性としての謙虚さを測定するためのアンケートを実施。その後、集団に基づく相対的剥奪感を測定する一連の質問も行い、現代社会において男性が不利な立場にあるとされることへの不満度を尋ねました。
+
+続いて研究チームは、被験者らが男性の権利擁護活動を支持する度合いや、活動に参加したいと思うかどうかについても測定。男性の権利擁護活動については、法改正の提唱や団体への参加といった「従来型の政治活動」と、暴力に発展しうる活動への参加や身体的攻撃を伴う行動への支持といった「過激で非伝統的な政治活動」の2グループに分類しました。
+
+分析の結果、謙虚さが低い男性ほど男性集団が抑圧されていると感じている可能性が高く、この剥奪感が従来型および非伝統型の政治活動への支持を予測することがわかりました。また、謙虚さの低さは非伝統型の政治活動への支持を、剥奪感は従来型の政治活動への意欲をより強く予測する傾向がみられたとのことです。
+
+第2段階では、白人と黒人がほぼ同数のアメリカ人男性492人を対象に調査を行いました。この調査では、謙虚さと剥奪感の関連性が人種グループ間で共通しているのかどうかに加え、「男性の不利な状況」を意識させることで結果が変わるのかどうかも検証されました。
+
+被験者らはまず、第1段階の研究でも行われた謙虚さに関するアンケートに答えました。そして半数は「男性が女性と比べてどのような点で不利な立場にあるか」を考えて4つの文を書き、残る半数は「朝のルーティーン」について4つの文を書きました。これらの記述課題の後、被験者らは剥奪感および男性の権利擁護活動に対する姿勢について調査したとのこと。
+
+その結果、男性の不利な点についての記述課題は、以前の研究でも確認された謙虚さと剥奪感、そして男性の権利擁護活動を支持する傾向に影響を与えませんでした。男性の不利な点を意識させられた男性であっても、一貫して謙虚さが低いほど剥奪感が強く、剥奪感が強いほど男性の権利擁護活動を支持する傾向があることが示されました。
+
+リンドストローム氏は、「男性の性格や社会状況に対する認識は、男性の権利擁護活動への支持を形成する上で重要な役割を果たしています」「この研究結果を言い換えると、謙虚さが高い男性は剥奪感から守られ、ひいては男性の権利擁護活動からも遠ざける可能性があることを示唆しています」と述べました。
+
+研究チームは、「男性優位主義コミュニティや男性の権利擁護活動が、純粋に性格だけで説明できると言いたいわけではありません。性格は変化するものであることを忘れてはいけません。謙虚さが低い男性は社会的に男性が不当に扱われていると認識しやすく、男性の権利擁護活動を支持・参加する傾向があるからといって、謙虚さに対する認識が変わらないわけではないのです。謙虚さを高めることは、男性優位主義コミュニティの影響から男性を守るための、重要な手段になるかもしれません」と説明しています。
+
+なお、今回の研究は白人と黒人のアメリカ人男性を対象にしたものであり、アジア系やラテン系など別のグループでは異なる結果になる可能性があります。また、謙虚さやジェンダーに関する規範は文化や国によって異なるため、別の国や文化圏でも同様の結果になるかどうかを知るにはさらなる研究が必要です。
+
+「有害な男らしさ」は測定できるのか？ - GIGAZINE
+
+現代の男性が苦労している理由は何なのか、男女の不平等を解消するために何ができるのか？ - GIGAZINE
+
+なぜ女性は「慈悲深い性差別主義者」に魅力を感じるのか？ - GIGAZINE
+
+ゲームに登場する女性キャラはいかにして性の対象として描かれているか？
+
+ポルノを見ることはセックスに好影響をもたらすのか？
+
+You can read the machine translated English article A study found that men with low levels o… .8:["$","section",null,{"className":"article-actions","children":[["$","$L19",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/7c54a0b57c54a0b5553aa41d","title":"謙虚さが低い男性ほど「男性は不当に扱われている」と感じて男性の権利擁護活動を支持する傾向があるという研究結果","locale":"ja","take":null}],["$","$L1a",null,{"title":"謙虚さが低い男性ほど「男性は不当に扱われている」と感じて男性の権利擁護活動を支持する傾向があるという研究結果","excerpt":"$1b","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/7c54a0b57c54a0b5553aa41d","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E8%AC%99%E8%99%9A%E3%81%95%E3%81%8C%E4%BD%8E%E3%81%84%E7%94%B7%E6%80%A7%E3%81%BB%E3%81%A9%E3%81%A8%E6%84%9F%E3%81%98%E3%81%A6%E7%94%B7%E6%80%A7%E3%81%AE%E6%A8%A9%E5%88%A9%E6%93%81%E8%AD%B7%E6%B4%BB%E5%8B%95%E3%82%92%E6%94%AF%E6%8C%81%E3%81%99%E3%82%8B%E5%82%BE%E5%90%91%E3%81%8C%E3%81%82%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E7%A0%94%E7%A9%B6%E7%B5%90%E6%9E%9C&mode=phrase&url=gigazine.net&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+9:["$","$L1c",null,{"placement":"article","className":"mt-8"}]
+a:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+b:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","yahoo-picks:https://news.yahoo.co.jp/pickup/6599181?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/6b7650846b765084ff9e0ef2","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"祭りで太鼓台の下敷き 副市長死亡"}]]}]}],["$","li","nhk-sports:https://news.web.nhk/newsweb/na/nd-20261017de60907",{"children":["$","$L2",null,{"href":"/ja/n/00be53f900be53f94688c815","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"箱根駅伝予選会 東洋大など10校が出場権獲得【結果】"}]]}]}],["$","li","france24:https://france24.com/en/middle-east/20261017-israeli-settlers-attack-european-delegation-convoy-in-west-bank-beat-french-mayor",{"children":["$","$L2",null,{"href":"/ja/n/838209ef838209ef5f452b4f","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"France 24"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Israeli settlers attack European delegation convoy in West Bank, beat French mayor"}]]}]}]]}]]}]
+c:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+d:["$","$L1d",null,{"children":["$","$1e",null,{"name":"Next.MetadataOutlet","children":"$@1f"}]}]
+10:["$","$1","h",{"children":[null,["$","$L20",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L21",null,{"children":["$","$1e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"謙虚さが低い男性ほど「男性は不当に扱われている」と感じて男性の権利擁護活動を支持する傾向があるという研究結果"}],["$","meta","1",{"name":"description","content":"現代では過去に比べると女性の大学進学率や就業率が高まっているとはいえ、依然として環境や待遇などさまざまな面で女性に対する不平等が残されています。一方で、一部の男性は「現代社会では男性も不当な扱いを受けている」と主張し、男性の権利を擁護しようとしています。新たな研究では、男性の謙虚さという性格特性と、男性が不当に扱われているという認識や男性の権利擁護活動への支持との関連が調査されました。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"謙虚さが低い男性ほど「男性は不当に扱われている」と感じて男性の権利擁護活動を支持する傾向があるという研究結果"}],["$","meta","4",{"property":"og:description","content":"現代では過去に比べると女性の大学進学率や就業率が高まっているとはいえ、依然として環境や待遇などさまざまな面で女性に対する不平等が残されています。一方で、一部の男性は「現代社会では男性も不当な扱いを受けている」と主張し、男性の権利を擁護しようとしています。新たな研究では、男性の謙虚さという性格特性と、男性が不当に扱われているという認識や男性の権利擁護活動への支持との関連が調査されました。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/7c54a0b57c54a0b5553aa41d/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"謙虚さが低い男性ほど「男性は不当に扱われている」と感じて男性の権利擁護活動を支持する傾向があるという研究結果"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"謙虚さが低い男性ほど「男性は不当に扱われている」と感じて男性の権利擁護活動を支持する傾向があるという研究結果"}],["$","meta","14",{"name":"twitter:description","content":"現代では過去に比べると女性の大学進学率や就業率が高まっているとはいえ、依然として環境や待遇などさまざまな面で女性に対する不平等が残されています。一方で、一部の男性は「現代社会では男性も不当な扱いを受けている」と主張し、男性の権利を擁護しようとしています。新たな研究では、男性の謙虚さという性格特性と、男性が不当に扱われているという認識や男性の権利擁護活動への支持との関連が調査されました。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L22","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+12:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+15:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+18:true
+1f:null
+f:300
+f:C
+17:0
+11:"$undefined"
+13:"$undefined"
+16:"$undefined"
+e:"$undefined"

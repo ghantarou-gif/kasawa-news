@@ -1,0 +1,100 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://i.guim.co.uk/img/media/fb7f9558ce032aba14287c04852433e83741ccb5/80_0_2400_1920/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=cb7f23973fed7aef66da8d019e26f8fd","image"]
+1a:X
+1f:X
+1f:C
+0:{"buildId":"hLDkNeSsban5txPAuz-c3","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-18","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"The Guardian"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"Almost all NSW homes destroyed in black summer bushfires were within 100 metres of flammable vegetation"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"38 分前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://i.guim.co.uk/img/media/fb7f9558ce032aba14287c04852433e83741ccb5/80_0_2400_1920/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=cb7f23973fed7aef66da8d019e26f8fd","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"Almost every home destroyed in New South Wales during the black summer bushfires of 2019 and 2020 was inside the 100 metre buffer zone used to identify properties most at risk, new research has found."}],["$","p","1",{"children":"The findings are an endorsement of the risk maps used by authorities, but the research warns that as global heating generates ever-worsening fire conditions firefighters may have to extend the recommended distances between homes and vegetation to keep homes safe."}],["$","p","2",{"children":"The NSW rural fire service said the findings reinforced how homes in high risk areas should be built to higher fire standards as it prepared for a potentially “challenging” fire season."}],["$","p","3",{"children":"More than 3,000 homes were lost across the country during the unprecedented fires six years ago that took 33 lives and killed or displaced almost 3 billion native animals."}],["$","p","4",{"children":"Of the 2,475 homes lost in NSW, the research, published in the International Journal of Wildland Fire , found 94% were less than 100 metres away from flammable vegetation such as trees."}],["$","p","5",{"children":"The 100 metre buffer is a key part of the widely used maps of bushfire prone land that firefighters use to plan local outreach activities, and planning authorities use to assess how bushfire-resistant new homes and renovations should be."}],["$","p","6",{"children":"Associate professor Owen Price, an expert in bushfire risk at the University of Wollongong who led the research, said the findings showed a key aspect of the method to identify buildings at risk from bushfires was “more or less spot on”."}],["$","p","7",{"children":"“That’s reassuring. Distance to vegetation is really important and that 100 metre rule that they apply is pretty good,” he said."}],["$","p","8",{"children":"But the research also examined fire danger ratings – an index that combines temperature, wind, humidity and the dryness of fuel – on the days when each home was lost."}],["$","p","9",{"children":"When the fire danger ratings – known technically as the Forest Fire Danger Index – reached extreme or catastrophic conditions, “houses further away [than 100 metres] were burning,” said Price."}],["$","p","10",{"children":"“That’s a warning sign, because we know that index is going to get worse [from global heating]. We know the direction of travel.”"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10"],"$L11"]}],"$L12","$L13","$L14",null,"$L15","$L16"]}],["$L17"],"$L18"]}],"isPartial":"$@19","staleTime":"$1a","varyParams":null},{"rsc":"$L1b","isPartial":"$@1c","staleTime":"$1a","varyParams":null},{"rsc":"$L1d","isPartial":"$@1e","staleTime":"$1a","varyParams":"$1f"},{"rsc":"$L20","isPartial":"$@21","staleTime":"$1a","varyParams":"$1f"}],"isUpgradeableISRFallback":false,"a":"$@22","rootVaryParams":null,"needsRuntimeRequest":"$@23"}
+24:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+25:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+28:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+29:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+2a:"$Sreact.suspense"
+2c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+2d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+2e:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+2f:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+30:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","11",{"children":"He said wildfire researchers were alarmed by the increasing number of fires around the world hitting and moving through urban areas, including the 2025 Los Angeles Eaton fire that killed 19 people and destroyed or damaged thousands of homes and businesses."}]
+4:["$","p","12",{"children":"Part of his own research was aimed at understanding if similar events could be replicated in Australia."}]
+5:["$","p","13",{"children":"“Being very close to another house [that is on fire] is another risk factor, which is why it’s important we stop houses from burning,” he said."}]
+6:["$","p","14",{"children":"The research warned that the “current regulation may become less useful over time” as the climate crisis increased the risk of homes being lost."}]
+7:["$","p","15",{"children":"Melissa O’Halloran, responsible for work on bushfire planning at the NSW rural fire service, said the research showed that “houses in that [bushfire prone] area should be built to a higher construction standard”."}]
+8:["$","p","16",{"children":"“The conditions in 2019 were extreme and outside what we would usually prepare for and, even under those conditions, our policy has stood up pretty well."}]
+9:["$","p","17",{"children":"“This reinforces why we want people to have bushfire protection measures in place.”"}]
+a:["$","p","18",{"children":"O’Halloran said investigations carried out after previous fires had shown that not all residents knew they were actually living in a bushfire prone area."}]
+b:["$","p","19",{"children":"Homes within bushfire prone land in the state are allowed to remove trees within 10 metres of a house and clear understory within 50 metres ."}]
+c:["$","p","20",{"children":"She said the service was reviewing its main bushfire protection policy that would consider the increasing climate risk."}]
+d:["$","p","21",{"children":"“We’re seeing the impacts of climate change already. It isn’t just temperatures, it’s also about how quickly the landscape dries out, as well as extreme pyroconvective fires,” she said."}]
+e:["$","p","22",{"children":"Inspector James Morris, of the NSW rural fire service, said there was already heightened risk this year for fires in northern parts of the state, in the central west and the far south coast."}]
+f:["$","p","23",{"children":"“They’ve had high rainfall, and it does not take long for those fuels to dry out. It is important residents do their bit and prepare,” he said."}]
+10:["$","p","24",{"children":"“We could be in for a challenging fire season.”"}]
+11:["$","p",null,{"className":"article-credit","children":"本文の著作権はThe Guardianにあります。"}]
+12:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://theguardian.com/australia-news/2026/oct/18/nsw-homes-destroyed-in-black-summer-bushfires-in-high-risk-buffer-zone","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はThe Guardianで読む"}]}]
+26:T10c1,Almost every home destroyed in New South Wales during the black summer bushfires of 2019 and 2020 was inside the 100 metre buffer zone used to identify properties most at risk, new research has found.
+
+The findings are an endorsement of the risk maps used by authorities, but the research warns that as global heating generates ever-worsening fire conditions firefighters may have to extend the recommended distances between homes and vegetation to keep homes safe.
+
+The NSW rural fire service said the findings reinforced how homes in high risk areas should be built to higher fire standards as it prepared for a potentially “challenging” fire season.
+
+More than 3,000 homes were lost across the country during the unprecedented fires six years ago that took 33 lives and killed or displaced almost 3 billion native animals.
+
+Of the 2,475 homes lost in NSW, the research, published in the International Journal of Wildland Fire , found 94% were less than 100 metres away from flammable vegetation such as trees.
+
+The 100 metre buffer is a key part of the widely used maps of bushfire prone land that firefighters use to plan local outreach activities, and planning authorities use to assess how bushfire-resistant new homes and renovations should be.
+
+Associate professor Owen Price, an expert in bushfire risk at the University of Wollongong who led the research, said the findings showed a key aspect of the method to identify buildings at risk from bushfires was “more or less spot on”.
+
+“That’s reassuring. Distance to vegetation is really important and that 100 metre rule that they apply is pretty good,” he said.
+
+But the research also examined fire danger ratings – an index that combines temperature, wind, humidity and the dryness of fuel – on the days when each home was lost.
+
+When the fire danger ratings – known technically as the Forest Fire Danger Index – reached extreme or catastrophic conditions, “houses further away [than 100 metres] were burning,” said Price.
+
+“That’s a warning sign, because we know that index is going to get worse [from global heating]. We know the direction of travel.”
+
+He said wildfire researchers were alarmed by the increasing number of fires around the world hitting and moving through urban areas, including the 2025 Los Angeles Eaton fire that killed 19 people and destroyed or damaged thousands of homes and businesses.
+
+Part of his own research was aimed at understanding if similar events could be replicated in Australia.
+
+“Being very close to another house [that is on fire] is another risk factor, which is why it’s important we stop houses from burning,” he said.
+
+The research warned that the “current regulation may become less useful over time” as the climate crisis increased the risk of homes being lost.
+
+Melissa O’Halloran, responsible for work on bushfire planning at the NSW rural fire service, said the research showed that “houses in that [bushfire prone] area should be built to a higher construction standard”.
+
+“The conditions in 2019 were extreme and outside what we would usually prepare for and, even under those conditions, our policy has stood up pretty well.
+
+“This reinforces why we want people to have bushfire protection measures in place.”
+
+O’Halloran said investigations carried out after previous fires had shown that not all residents knew they were actually living in a bushfire prone area.
+
+Homes within bushfire prone land in the state are allowed to remove trees within 10 metres of a house and clear understory within 50 metres .
+
+She said the service was reviewing its main bushfire protection policy that would consider the increasing climate risk.
+
+“We’re seeing the impacts of climate change already. It isn’t just temperatures, it’s also about how quickly the landscape dries out, as well as extreme pyroconvective fires,” she said.
+
+Inspector James Morris, of the NSW rural fire service, said there was already heightened risk this year for fires in northern parts of the state, in the central west and the far south coast.
+
+“They’ve had high rainfall, and it does not take long for those fuels to dry out. It is important residents do their bit and prepare,” he said.
+
+“We could be in for a challenging fire season.”13:["$","section",null,{"className":"article-actions","children":[["$","$L24",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/0b3450e10b3450e123e84dad","title":"Almost all NSW homes destroyed in black summer bushfires were within 100 metres of flammable vegetation","locale":"ja","take":null}],["$","$L25",null,{"title":"Almost all NSW homes destroyed in black summer bushfires were within 100 metres of flammable vegetation","excerpt":"$26","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/0b3450e10b3450e123e84dad","locale":"ja"}],"$L27"]}]
+14:["$","$L28",null,{"placement":"article","className":"mt-8"}]
+15:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+16:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","cna:https://channelnewsasia.com/world/zelenskyy-criticises-trumps-waiver-sanctions-russia-wrong-6468946",{"children":["$","$L2",null,{"href":"/ja/n/f63cf22cf63cf22cbf461844","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"CNA"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Zelenskyy criticises Trump's waiver of sanctions on Russia as 'wrong'"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/bb2806687d4d85f04004ddd83c70fcb6f3e7d0a1?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/f819d4d4f819d4d44fc42392","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"「スクーバル争奪戦が始まった」FA左腕の去就、米メディアは「山本由伸の投手史上最高額を更新する可能性も」(THE DIGEST)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/3dd40b20317172c792bd4fc60b09cbfce2f50f90?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/9c54b6019c54b6012fc56f7d","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"日曜深夜に日本ファン驚き「ドンナルンマ相手に」 英代表を吹き飛ばし…衝撃弾が「速すぎる」(FOOTBALL ZONE)"}]]}]}]]}]]}]
+17:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+18:["$","$L29",null,{"children":["$","$2a",null,{"name":"Next.MetadataOutlet","children":"$@2b"}]}]
+1b:["$","$1","h",{"children":[null,["$","$L2c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L2d",null,{"children":["$","$2a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Almost all NSW homes destroyed in black summer bushfires were within 100 metres of flammable vegetation"}],["$","meta","1",{"name":"description","content":"Almost every home destroyed in New South Wales during the black summer bushfires of 2019 and 2020 was inside the 100 metre buffer zone used to identify properties most at risk, new research has found."}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"Almost all NSW homes destroyed in black summer bushfires were within 100 metres of flammable vegetation"}],["$","meta","4",{"property":"og:description","content":"Almost every home destroyed in New South Wales during the black summer bushfires of 2019 and 2020 was inside the 100 metre buffer zone used to identify properties most at risk, new research has found."}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/0b3450e10b3450e123e84dad/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2Ffb7f9558ce032aba14287c04852433e83741ccb5%2F80_0_2400_1920%2Fmaster%2F2400.jpg%3Fwidth%3D140%26quality%3D85%26auto%3Dformat%26fit%3Dmax%26s%3Dcb7f23973fed7aef66da8d019e26f8fd&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Almost all NSW homes destroyed in black summer bushfires were within 100 metres of flammable vegetation"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"Almost all NSW homes destroyed in black summer bushfires were within 100 metres of flammable vegetation"}],["$","meta","14",{"name":"twitter:description","content":"Almost every home destroyed in New South Wales during the black summer bushfires of 2019 and 2020 was inside the 100 metre buffer zone used to identify properties most at risk, new research has found."}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2Ffb7f9558ce032aba14287c04852433e83741ccb5%2F80_0_2400_1920%2Fmaster%2F2400.jpg%3Fwidth%3D140%26quality%3D85%26auto%3Dformat%26fit%3Dmax%26s%3Dcb7f23973fed7aef66da8d019e26f8fd&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L2e","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+1d:["$","$1","c",{"children":[null,["$","$L2f",null,{"parallelRouterKey":"children","template":["$","$L30",null,{}]}]]}]
+20:["$","$1","c",{"children":[null,["$","$L2f",null,{"parallelRouterKey":"children","template":["$","$L30",null,{}]}]]}]
+23:true
+27:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=Almost+all+NSW+homes+destroyed+in+black+summer+b&mode=phrase&url=theguardian.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+2b:null
+1a:300
+1a:C
+22:0
+1c:"$undefined"
+1e:"$undefined"
+21:"$undefined"
+19:"$undefined"

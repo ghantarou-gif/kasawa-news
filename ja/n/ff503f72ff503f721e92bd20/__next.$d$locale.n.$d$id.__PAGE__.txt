@@ -1,0 +1,71 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/10cd/live/79669050-c74d-11f1-a64c-550be9e3c66b.jpg","image"]
+5:T1057,ロシアのミサイル攻撃で集合住宅が被害を受けた（13日、キーウ）
+
+夜空の下、8階建ての集合住宅が破壊されオレンジ色の炎が出ている。地上から消防士たちがホースを持ち、炎に向けて放水している
+
+ウクライナのウォロディミル・ゼレンスキー大統領は13日、首都キーウに暖房と電力を供給する主要なエネルギー施設が、ロシアの弾道ミサイル攻撃を受けたと発表した。
+
+大統領はソーシャルメディアで、ダルニツカCHP-4（CHPP-4）と集合住宅が攻撃されたと明らかにし、「またしても、パートナー諸国からの早期警戒情報は一切なかった」と書いた。
+
+キーウのヴィタリ・クリチコ市長は、13日夜に集合住宅がミサイル攻撃を受け、1人が殺害され、13人が負傷したと発表した。負傷者のうち4人は重体だという。
+
+首都のドニプロフスキー地区とダルニツキー地区の一部に暖房と電力を供給するCHPP-4は、2022年にロシアがウクライナ全面侵攻を開始して以降、繰り返しロシアの攻撃を受けている。今年2月にもロシアのミサイル攻撃のため操業停止を余儀なくされ、集合住宅1000棟以上や多くの学校、医療機関で暖房や温水が使えなくなった。
+
+今回の攻撃の2日前にはドナルド・トランプ米大統領が、ロシアとウクライナの間でエネルギー関連の停戦合意が成立したと発表した。ただし、この発表後にウクライナは、ロシアによる複数回の攻撃があったと報告している。
+
+ゼレンスキー大統領は13日にソーシャルメディアで、「ウクライナはエネルギー停戦を支持した。ロシアはまたしても発電所と国民の命を標的にしている」と書き、「これは全く不当だ。ロシアは我々のエネルギーインフラを破壊しているのに、ウクライナは弾道ミサイル発射に関する早期警戒情報さえ受けていない」と述べた。
+
+「世界はこの件について沈黙してはならない。そして、何が起きているのかアメリカが本当に認識し、この戦争が続いている責任は誰にあるのかを理解することが重要だ」と、ゼレンスキー氏は強調した。
+
+12日夜の攻撃後、迫るミサイル攻撃をウクライナが追跡するために必要な早期警戒情報を、アメリカが遮断したのではないかと臆測が広がった。
+
+トランプ氏は13日、そのような事実はないと否定した。
+
+「我々は彼らを支援しているし、情報も共有している」とトランプ氏は述べた。
+
+「我々は戦争が終わって欲しい。なので、戦争終結に向けて彼らやロシアと協力している」とも、トランプ氏は話した。
+
+ロシアによるウクライナのエネルギー施設への攻撃について尋ねられると、トランプ大統領は「ウクライナは前日に多くの施設を攻撃した」と述べた。
+
+しかし、ロシアが停戦協定を破ったのかと問われると、トランプ氏は明言を避けた。両国とも戦争を「終わらせたい」と思っているが、「どうすればそれができるのか、（双方とも）分からないんだ」と述べた。
+
+これに先立ちトランプ氏は「ウクライナには新しい大統領が必要だ」と発言し、それを受けてゼレンスキー氏は11日に、ロシアが60日間の停戦に合意すればウクライナで大統領選挙を実施できると述べている。
+
+一方、ロシアのセルゲイ・ラヴロフ外相は12日、ウクライナは停戦によって「一息つく間」を得る資格はないと述べた。
+
+ラヴロフ外相は、どのような停戦合意の下でも、欧州は戦争継続のためにウクライナに「新しい兵器を大量に供給」できるはずだと批判した。
+
+（英語記事 Russian strikes hit key power plant in Kyiv, Zelensky says）d:X
+12:X
+12:C
+0:{"buildId":"hLDkNeSsban5txPAuz-c3","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-14","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"ロシアがキーウの主要発電所を攻撃とゼレンスキー氏 同盟国からの警告なかったと"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"4 日前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/10cd/live/79669050-c74d-11f1-a64c-550be9e3c66b.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"ロシアのミサイル攻撃で集合住宅が被害を受けた（13日、キーウ）"}],["$","p","1",{"children":"夜空の下、8階建ての集合住宅が破壊されオレンジ色の炎が出ている。地上から消防士たちがホースを持ち、炎に向けて放水している"}],["$","p","2",{"children":"ウクライナのウォロディミル・ゼレンスキー大統領は13日、首都キーウに暖房と電力を供給する主要なエネルギー施設が、ロシアの弾道ミサイル攻撃を受けたと発表した。"}],["$","p","3",{"children":"大統領はソーシャルメディアで、ダルニツカCHP-4（CHPP-4）と集合住宅が攻撃されたと明らかにし、「またしても、パートナー諸国からの早期警戒情報は一切なかった」と書いた。"}],["$","p","4",{"children":"キーウのヴィタリ・クリチコ市長は、13日夜に集合住宅がミサイル攻撃を受け、1人が殺害され、13人が負傷したと発表した。負傷者のうち4人は重体だという。"}],["$","p","5",{"children":"首都のドニプロフスキー地区とダルニツキー地区の一部に暖房と電力を供給するCHPP-4は、2022年にロシアがウクライナ全面侵攻を開始して以降、繰り返しロシアの攻撃を受けている。今年2月にもロシアのミサイル攻撃のため操業停止を余儀なくされ、集合住宅1000棟以上や多くの学校、医療機関で暖房や温水が使えなくなった。"}],["$","p","6",{"children":"今回の攻撃の2日前にはドナルド・トランプ米大統領が、ロシアとウクライナの間でエネルギー関連の停戦合意が成立したと発表した。ただし、この発表後にウクライナは、ロシアによる複数回の攻撃があったと報告している。"}],["$","p","7",{"children":"ゼレンスキー大統領は13日にソーシャルメディアで、「ウクライナはエネルギー停戦を支持した。ロシアはまたしても発電所と国民の命を標的にしている」と書き、「これは全く不当だ。ロシアは我々のエネルギーインフラを破壊しているのに、ウクライナは弾道ミサイル発射に関する早期警戒情報さえ受けていない」と述べた。"}],["$","p","8",{"children":"「世界はこの件について沈黙してはならない。そして、何が起きているのかアメリカが本当に認識し、この戦争が続いている責任は誰にあるのかを理解することが重要だ」と、ゼレンスキー氏は強調した。"}],["$","p","9",{"children":"12日夜の攻撃後、迫るミサイル攻撃をウクライナが追跡するために必要な早期警戒情報を、アメリカが遮断したのではないかと臆測が広がった。"}],["$","p","10",{"children":"トランプ氏は13日、そのような事実はないと否定した。"}],["$","p","11",{"children":"「我々は彼らを支援しているし、情報も共有している」とトランプ氏は述べた。"}],["$","p","12",{"children":"「我々は戦争が終わって欲しい。なので、戦争終結に向けて彼らやロシアと協力している」とも、トランプ氏は話した。"}],["$","p","13",{"children":"ロシアによるウクライナのエネルギー施設への攻撃について尋ねられると、トランプ大統領は「ウクライナは前日に多くの施設を攻撃した」と述べた。"}],["$","p","14",{"children":"しかし、ロシアが停戦協定を破ったのかと問われると、トランプ氏は明言を避けた。両国とも戦争を「終わらせたい」と思っているが、「どうすればそれができるのか、（双方とも）分からないんだ」と述べた。"}],["$","p","15",{"children":"これに先立ちトランプ氏は「ウクライナには新しい大統領が必要だ」と発言し、それを受けてゼレンスキー氏は11日に、ロシアが60日間の停戦に合意すればウクライナで大統領選挙を実施できると述べている。"}],["$","p","16",{"children":"一方、ロシアのセルゲイ・ラヴロフ外相は12日、ウクライナは停戦によって「一息つく間」を得る資格はないと述べた。"}],["$","p","17",{"children":"ラヴロフ外相は、どのような停戦合意の下でも、欧州は戦争継続のためにウクライナに「新しい兵器を大量に供給」できるはずだと批判した。"}],["$","p","18",{"children":"（英語記事 Russian strikes hit key power plant in Kyiv, Zelensky says）"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/cv4g18yw0222o","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/ff503f72ff503f721e92bd20","title":"ロシアがキーウの主要発電所を攻撃とゼレンスキー氏 同盟国からの警告なかったと","locale":"ja","take":null}],["$","$L4",null,{"title":"ロシアがキーウの主要発電所を攻撃とゼレンスキー氏 同盟国からの警告なかったと","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/ff503f72ff503f721e92bd20","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E3%83%AD%E3%82%B7%E3%82%A2%E3%81%8C%E3%82%AD%E3%83%BC%E3%82%A6%E3%81%AE%E4%B8%BB%E8%A6%81%E7%99%BA%E9%9B%BB%E6%89%80%E3%82%92%E6%94%BB%E6%92%83%E3%81%A8%E3%82%BC%E3%83%AC%E3%83%B3%E3%82%B9%E3%82%AD%E3%83%BC%E6%B0%8F+%E5%90%8C%E7%9B%9F%E5%9B%BD%E3%81%8B%E3%82%89%E3%81%AE%E8%AD%A6%E5%91%8A%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%A8&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","dw:https://dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/aa9eb87baa9eb87b1f7fe223","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Albania: Fire at Education Ministry as students protest"}]]}]}],["$","li","bbc-africa:https://bbc.co.uk/sport/formula1/articles/c61kdv3k9gm2o",{"children":["$","$L2",null,{"href":"/ja/n/4aa854704aa8547068231872","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Why Rwanda's deal for F1 race remains controversial"}]]}]}],["$","li","guardian-biz:https://theguardian.com/business/2026/oct/14/inflation-numbers-september",{"children":["$","$L2",null,{"href":"/ja/n/fd8251f3fd8251f331ca41a3","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"The Guardian"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"US inflation rose to 3.7% in September in blow to Republicans before midterms"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ロシアがキーウの主要発電所を攻撃とゼレンスキー氏 同盟国からの警告なかったと"}],["$","meta","1",{"name":"description","content":"ロシアのミサイル攻撃で集合住宅が被害を受けた（13日、キーウ）"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"ロシアがキーウの主要発電所を攻撃とゼレンスキー氏 同盟国からの警告なかったと"}],["$","meta","4",{"property":"og:description","content":"ロシアのミサイル攻撃で集合住宅が被害を受けた（13日、キーウ）"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/ff503f72ff503f721e92bd20/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F10cd%2Flive%2F79669050-c74d-11f1-a64c-550be9e3c66b.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"ロシアがキーウの主要発電所を攻撃とゼレンスキー氏 同盟国からの警告なかったと"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"ロシアがキーウの主要発電所を攻撃とゼレンスキー氏 同盟国からの警告なかったと"}],["$","meta","14",{"name":"twitter:description","content":"ロシアのミサイル攻撃で集合住宅が被害を受けた（13日、キーウ）"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F10cd%2Flive%2F79669050-c74d-11f1-a64c-550be9e3c66b.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

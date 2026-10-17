@@ -1,0 +1,108 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+e:X
+13:X
+13:C
+0:{"buildId":"hLDkNeSsban5txPAuz-c3","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-17","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Gigazine"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"「すんだもんの阿波おどり」「ゆりねを現地調達する邪神ちゃん」などスーパーなイベント「スーパーきぐるみグリーティング」に参加してきたよレポート"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"10 時間前"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"徳島の街全体を使って行われるアニメやゲームの総合イベント「 マチ★アソビ vol.31 」の一環として、きぐるみたちが可愛さを主張し阿波おどりを披露するイベント「 スーパーきぐるみグリーティング 」が開催されました。「邪神ちゃんインパクト」「パグ太郎」「ほっぺちゃん」「ずんだもん」「キクーン」が登場し、大盛り上がりのイベントとなりました。"}],["$","p","1",{"children":"【10/17,18】マチ★アソビVol.31邪神ちゃん情報 | 邪神ちゃんドロップキックX DROPKICK ON MY DEVIL!!! X"}],["$","p","2",{"children":"司会進行役を務めたのは声優の小坂井祐莉絵さんとプロデューサーの栁瀬一樹さん。小坂井さんは『 邪神ちゃんドロップキック 』のぺこら役を務めているほか、『 ほっぺちゃん ～サン王国と黒ほっぺ団の秘密～ 』の黒ほっぺちゃん役も担当しています。"}],["$","p","3",{"children":"「邪神ちゃんインパクト」「パグ太郎」「ほっぺちゃん」「ずんだもん」「キクーン」が入場してきました。"}],["$","p","4",{"children":"集合写真タイムの前に、邪神ちゃんドロップキックが前方に躍り出て自己アピールを開始。"}],["$","p","5",{"children":"気を取り直して集合写真タイム。このイベントは写真も動画も撮影OKということで、みんなスマートフォンやカメラを構えてパシャパシャと撮影していました。"}],["$","p","6",{"children":"ここからは各キャラクターの紹介タイムと阿波おどりチャレンジが行われます。決めポーズをとるずんだもん。"}],["$","p","7",{"children":"小坂井さんによるずんだもんの紹介。ちなみに、小坂井さんは女子プロレス団体「スターダム」のリングアナとしても活動しています。"}],["$","p","8",{"children":"続いてほっぺちゃん。ほっぺちゃんは サン宝石 のキャラクターで、2026年にはアニメ『 ほっぺちゃん ～サン王国と黒ほっぺ団の秘密～ 』が放送されました。"}],["$","p","9",{"children":"これは2026年5月に スーパーきぐるみファイト に参戦したほっぺちゃんの写真。大きくフォルムチェンジしたようです。"}],["$","p","10",{"children":"フォルムチェンジしても軽快な動きは健在。以前開催された別のイベントでは「相撲に参戦して蹴りを連発」という動きを見せたとのこと。阿波おどりチャレンジでも蹴り蹴りキックキックの連続技を繰り出していました。"}],["$","p","11",{"children":"TVアニメ『 おじさんはカワイイものがお好き。 』に登場するパグ太郎。"}],["$","p","12",{"children":"パグ太郎は足をピョコピョコさせながら阿波おどりを踊ってくれました。"}],["$","p","13",{"children":"キクーンは総務省の行政相談のマスコットキャラクターです。"}],["$","p","14",{"children":"小坂井さんと邪神ちゃんインパクトがキクーンに相談。キクーンは耳を傾けていました。"}],["$","p","15",{"children":"キクーンとパグ太郎のお尻の見せ合い。キクーンの尻尾はアンテナのようにピーンと立っているのが特徴的です。"}],["$","p","16",{"children":"キクーンの阿波おどりはこんな感じ。ピコピコ揺れるお耳がチャーミングです。"}],["$","p","17",{"children":"大トリをつとめるのは邪神ちゃんインパクト。"}],["$","p","18",{"children":"会場内にゆりね(花園ゆりね：邪神ちゃんを神保町に召喚した人物。強い)のコスプレイヤーがいたので、ステージに上がってもらいました。"}],["$","p","19",{"children":"現地調達したゆりねとポーズをキメる邪神ちゃんインパクト。完璧です。"}],["$","p","20",{"children":"邪神ちゃんインパクトの阿波おどりチャレンジ。見かけによらずスムーズに移動し、クルクルと回転しながら踊ってくれました。"}],["$","p","21",{"children":"よく見ると、ずんだもんが仕事猫の「ヨシ！」のポーズをしています。いったいどうしてなのか。"}],["$","p","22",{"children":"キャラクターたちが退場した後、なにやら行政に媚びる様子を見せる邪神ちゃんインパクト。"}],["$","p","23",{"children":"ステージの裏ではずんだもんが枝豆バッグからハンディ扇風機を取り出していました。"}],["$","p","24",{"children":"ほっぺちゃんの眼球に風を当てるずんだもん。優しさなのか攻撃なのか……。"}],["$","p","25",{"children":"2026年10月18日にはキャラクターたちがバトルする「スーパーきぐるみファイト」が開催される予定です。GIGAZINEでは過去のスーパーきぐるみファイトのレポート記事を公開済みなので、明日に備えて予習しておいてください。"}],["$","p","26",{"children":"きぐるみたちが画鋲つき武器でボコボコ戦う「スーパーきぐるみファイト」観戦レポート、仕事猫も参戦でヨシ！【マチ★アソビ vol.30】 - GIGAZINE"}],["$","p","27",{"children":"「マチ★アソビ vol.31」全記事一覧まとめ - GIGAZINE"}],["$","p","28",{"children":"「マチ★アソビ vol.31」イベントスケジュール一覧まとめ - GIGAZINE"}],["$","p","29",{"children":"きぐるみたちが画鋲つき武器でボコボコ戦う「スーパーきぐるみファイト」観戦レポート、仕事猫も参戦でヨシ！【マチ★アソビ vol.30】 - GIGAZINE"}],["$","p","30",{"children":"「仕事猫」VS「ずんだもん」VS「邪神ちゃん」は部位破壊ありの大混戦【スーパーきぐるみファイト】【マチ★アソビ vol.30】 - GIGAZINE"}],["$","p","31",{"children":"きぐるみたちが画鋲つき武器でボコボコ戦う「スーパーきぐるみファイト」観戦レポート、仕事猫も参戦でヨシ！【マチ★アソビ vol.30】"}],["$","p","32",{"children":"「仕事猫」VS「ずんだもん」VS「邪神ちゃん」は部位破壊ありの大混戦【スーパーきぐるみファイト】【マチ★アソビ vol.30】"}],["$","p","33",{"children":"着ぐるみ最強は誰なのかを高速腕振りで競う「着ぐるみ対決リターンズ！」がマチ★アソビ vol.26で開催"}],"$L3","$L4"],"$L5"]}],"$L6","$L7","$L8",null,"$L9","$La"]}],["$Lb"],"$Lc"]}],"isPartial":"$@d","staleTime":"$e","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$e","varyParams":null},{"rsc":"$L11","isPartial":"$@12","staleTime":"$e","varyParams":"$13"},{"rsc":"$L14","isPartial":"$@15","staleTime":"$e","varyParams":"$13"}],"isUpgradeableISRFallback":false,"a":"$@16","rootVaryParams":null,"needsRuntimeRequest":"$@17"}
+18:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+19:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+1b:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1d:"$Sreact.suspense"
+1f:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+20:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+21:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+22:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+23:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","34",{"children":"「釘バットずんだもん」「二刀流の邪神ちゃんインパクト」「行政に媚びるほっぺちゃん」など大白熱の「スーパーきぐるみファイト！inマチアソビ」熱戦レポート"}]
+4:["$","p","35",{"children":"You can read the machine translated English article Here's a report on my experience at … ."}]
+5:["$","p",null,{"className":"article-credit","children":"本文の著作権はGigazineにあります。"}]
+6:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://gigazine.net/news/20261017-super-kigurumi-greeting-machiasobi31/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はGigazineで読む"}]}]
+1a:T1779,徳島の街全体を使って行われるアニメやゲームの総合イベント「 マチ★アソビ vol.31 」の一環として、きぐるみたちが可愛さを主張し阿波おどりを披露するイベント「 スーパーきぐるみグリーティング 」が開催されました。「邪神ちゃんインパクト」「パグ太郎」「ほっぺちゃん」「ずんだもん」「キクーン」が登場し、大盛り上がりのイベントとなりました。
+
+【10/17,18】マチ★アソビVol.31邪神ちゃん情報 | 邪神ちゃんドロップキックX DROPKICK ON MY DEVIL!!! X
+
+司会進行役を務めたのは声優の小坂井祐莉絵さんとプロデューサーの栁瀬一樹さん。小坂井さんは『 邪神ちゃんドロップキック 』のぺこら役を務めているほか、『 ほっぺちゃん ～サン王国と黒ほっぺ団の秘密～ 』の黒ほっぺちゃん役も担当しています。
+
+「邪神ちゃんインパクト」「パグ太郎」「ほっぺちゃん」「ずんだもん」「キクーン」が入場してきました。
+
+集合写真タイムの前に、邪神ちゃんドロップキックが前方に躍り出て自己アピールを開始。
+
+気を取り直して集合写真タイム。このイベントは写真も動画も撮影OKということで、みんなスマートフォンやカメラを構えてパシャパシャと撮影していました。
+
+ここからは各キャラクターの紹介タイムと阿波おどりチャレンジが行われます。決めポーズをとるずんだもん。
+
+小坂井さんによるずんだもんの紹介。ちなみに、小坂井さんは女子プロレス団体「スターダム」のリングアナとしても活動しています。
+
+続いてほっぺちゃん。ほっぺちゃんは サン宝石 のキャラクターで、2026年にはアニメ『 ほっぺちゃん ～サン王国と黒ほっぺ団の秘密～ 』が放送されました。
+
+これは2026年5月に スーパーきぐるみファイト に参戦したほっぺちゃんの写真。大きくフォルムチェンジしたようです。
+
+フォルムチェンジしても軽快な動きは健在。以前開催された別のイベントでは「相撲に参戦して蹴りを連発」という動きを見せたとのこと。阿波おどりチャレンジでも蹴り蹴りキックキックの連続技を繰り出していました。
+
+TVアニメ『 おじさんはカワイイものがお好き。 』に登場するパグ太郎。
+
+パグ太郎は足をピョコピョコさせながら阿波おどりを踊ってくれました。
+
+キクーンは総務省の行政相談のマスコットキャラクターです。
+
+小坂井さんと邪神ちゃんインパクトがキクーンに相談。キクーンは耳を傾けていました。
+
+キクーンとパグ太郎のお尻の見せ合い。キクーンの尻尾はアンテナのようにピーンと立っているのが特徴的です。
+
+キクーンの阿波おどりはこんな感じ。ピコピコ揺れるお耳がチャーミングです。
+
+大トリをつとめるのは邪神ちゃんインパクト。
+
+会場内にゆりね(花園ゆりね：邪神ちゃんを神保町に召喚した人物。強い)のコスプレイヤーがいたので、ステージに上がってもらいました。
+
+現地調達したゆりねとポーズをキメる邪神ちゃんインパクト。完璧です。
+
+邪神ちゃんインパクトの阿波おどりチャレンジ。見かけによらずスムーズに移動し、クルクルと回転しながら踊ってくれました。
+
+よく見ると、ずんだもんが仕事猫の「ヨシ！」のポーズをしています。いったいどうしてなのか。
+
+キャラクターたちが退場した後、なにやら行政に媚びる様子を見せる邪神ちゃんインパクト。
+
+ステージの裏ではずんだもんが枝豆バッグからハンディ扇風機を取り出していました。
+
+ほっぺちゃんの眼球に風を当てるずんだもん。優しさなのか攻撃なのか……。
+
+2026年10月18日にはキャラクターたちがバトルする「スーパーきぐるみファイト」が開催される予定です。GIGAZINEでは過去のスーパーきぐるみファイトのレポート記事を公開済みなので、明日に備えて予習しておいてください。
+
+きぐるみたちが画鋲つき武器でボコボコ戦う「スーパーきぐるみファイト」観戦レポート、仕事猫も参戦でヨシ！【マチ★アソビ vol.30】 - GIGAZINE
+
+「マチ★アソビ vol.31」全記事一覧まとめ - GIGAZINE
+
+「マチ★アソビ vol.31」イベントスケジュール一覧まとめ - GIGAZINE
+
+きぐるみたちが画鋲つき武器でボコボコ戦う「スーパーきぐるみファイト」観戦レポート、仕事猫も参戦でヨシ！【マチ★アソビ vol.30】 - GIGAZINE
+
+「仕事猫」VS「ずんだもん」VS「邪神ちゃん」は部位破壊ありの大混戦【スーパーきぐるみファイト】【マチ★アソビ vol.30】 - GIGAZINE
+
+きぐるみたちが画鋲つき武器でボコボコ戦う「スーパーきぐるみファイト」観戦レポート、仕事猫も参戦でヨシ！【マチ★アソビ vol.30】
+
+「仕事猫」VS「ずんだもん」VS「邪神ちゃん」は部位破壊ありの大混戦【スーパーきぐるみファイト】【マチ★アソビ vol.30】
+
+着ぐるみ最強は誰なのかを高速腕振りで競う「着ぐるみ対決リターンズ！」がマチ★アソビ vol.26で開催
+
+「釘バットずんだもん」「二刀流の邪神ちゃんインパクト」「行政に媚びるほっぺちゃん」など大白熱の「スーパーきぐるみファイト！inマチアソビ」熱戦レポート
+
+You can read the machine translated English article Here's a report on my experience at … .7:["$","section",null,{"className":"article-actions","children":[["$","$L18",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/e1754879e1754879b6c56021","title":"「すんだもんの阿波おどり」「ゆりねを現地調達する邪神ちゃん」などスーパーなイベント「スーパーきぐるみグリーティング」に参加してきたよレポート","locale":"ja","take":null}],["$","$L19",null,{"title":"「すんだもんの阿波おどり」「ゆりねを現地調達する邪神ちゃん」などスーパーなイベント「スーパーきぐるみグリーティング」に参加してきたよレポート","excerpt":"$1a","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/e1754879e1754879b6c56021","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F%E3%82%88%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88&mode=phrase&url=gigazine.net&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+8:["$","$L1b",null,{"placement":"article","className":"mt-8"}]
+9:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+a:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","yahoo-picks:https://news.yahoo.co.jp/pickup/6599181?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/6b7650846b765084ff9e0ef2","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"祭りで太鼓台の下敷き 副市長死亡"}]]}]}],["$","li","nhk-sports:https://news.web.nhk/newsweb/na/nd-20261017de60907",{"children":["$","$L2",null,{"href":"/ja/n/00be53f900be53f94688c815","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"箱根駅伝予選会 東洋大など10校が出場権獲得【結果】"}]]}]}],["$","li","france24:https://france24.com/en/middle-east/20261017-israeli-settlers-attack-european-delegation-convoy-in-west-bank-beat-french-mayor",{"children":["$","$L2",null,{"href":"/ja/n/838209ef838209ef5f452b4f","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"France 24"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Israeli settlers attack European delegation convoy in West Bank, beat French mayor"}]]}]}]]}]]}]
+b:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+c:["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+f:["$","$1","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L20",null,{"children":["$","$1d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"「すんだもんの阿波おどり」「ゆりねを現地調達する邪神ちゃん」などスーパーなイベント「スーパーきぐるみグリーティング」に参加してきたよレポート"}],["$","meta","1",{"name":"description","content":"徳島の街全体を使って行われるアニメやゲームの総合イベント「 マチ★アソビ vol.31 」の一環として、きぐるみたちが可愛さを主張し阿波おどりを披露するイベント「 スーパーきぐるみグリーティング 」が開催されました。「邪神ちゃんインパクト」「パグ太郎」「ほっぺちゃん」「ずんだもん」「キクーン」が登場し、大盛り上がりのイベントとなりました。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"「すんだもんの阿波おどり」「ゆりねを現地調達する邪神ちゃん」などスーパーなイベント「スーパーきぐるみグリーティング」に参加してきたよレポート"}],["$","meta","4",{"property":"og:description","content":"徳島の街全体を使って行われるアニメやゲームの総合イベント「 マチ★アソビ vol.31 」の一環として、きぐるみたちが可愛さを主張し阿波おどりを披露するイベント「 スーパーきぐるみグリーティング 」が開催されました。「邪神ちゃんインパクト」「パグ太郎」「ほっぺちゃん」「ずんだもん」「キクーン」が登場し、大盛り上がりのイベントとなりました。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/e1754879e1754879b6c56021/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"「すんだもんの阿波おどり」「ゆりねを現地調達する邪神ちゃん」などスーパーなイベント「スーパーきぐるみグリーティング」に参加してきたよレポート"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"「すんだもんの阿波おどり」「ゆりねを現地調達する邪神ちゃん」などスーパーなイベント「スーパーきぐるみグリーティング」に参加してきたよレポート"}],["$","meta","14",{"name":"twitter:description","content":"徳島の街全体を使って行われるアニメやゲームの総合イベント「 マチ★アソビ vol.31 」の一環として、きぐるみたちが可愛さを主張し阿波おどりを披露するイベント「 スーパーきぐるみグリーティング 」が開催されました。「邪神ちゃんインパクト」「パグ太郎」「ほっぺちゃん」「ずんだもん」「キクーン」が登場し、大盛り上がりのイベントとなりました。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L21","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+11:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+14:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+17:true
+1e:null
+e:300
+e:C
+16:0
+10:"$undefined"
+12:"$undefined"
+15:"$undefined"
+d:"$undefined"

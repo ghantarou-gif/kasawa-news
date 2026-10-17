@@ -1,0 +1,78 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+5:Tc30,徳島の街を舞台としたアニメやゲームの総合エンタメイベント「 マチ★アソビ vol.31 」では、徳島市にそびえる眉山(びざん)でも各種イベントが開催されており、山頂付近やサウナに入ったりテントを設営してキャンプしたりできます。どんな感じの雰囲気か分かるようにサウナとキャンプエリアの様子を撮影してきました。
+
+サウナは「マチ★アソビサウナ」と銘打って、新町川と眉山山頂の2カ所で開催されています。眉山山頂にはロープウェイで行くのが便利。
+
+ロープウェイ乗り場の近くにサウナの受付スペースが設置されていました。
+
+会場に向かうルート上に、冨岡義勇のパネルが設置されていました。マチ★アソビサウナのTシャツを着ています。
+
+煉獄杏寿郎が水風呂に勢い良く飛び込んでいます。
+
+サウナはテント式で、温度の異なる2種類が用意されています。
+
+そして、椅子に座って整うというわけです。
+
+マチ★アソビサウナは予約式で、記事作成時点ではまだ2026年10月18日分の予約枠が空いています。気になる人は埋まる前に予約してください。
+
+新町川にも同様のサウナテントが設置されています。新町川の雰囲気は以下の2025年の
+
+キャンプ場にも行ってみます。キャンプ場に向かうには、まずロープウェイ降り場から西側に下り、駐車上に着いたら右奥の階段を目指します。
+
+キャンプ場に到着。キャンプ場の使用は予約が必要で、何泊するかによって価格が変化します。
+
+テントや、テントを固定する際に使える水タンクをレンタル可能。トートバックや固形燃料なども販売されています。
+
+2026年10月16日の時点で複数のテントが設置されていました。
+
+少し歩くと広場があります。この広場でラジオ体操を実施するそうです。
+
+また、トイレや自動販売機も近くにありました。
+
+なお、キャンプ場の利用には予約が必要で、マチ★アソビ vol.31の予約受付は終了しています。
+
+「マチ★アソビ vol.31」全記事一覧まとめ - GIGAZINE
+
+「マチ★アソビ vol.31」イベントスケジュール一覧まとめ - GIGAZINE
+
+マチ★アソビ Vol.30会場まとめ、「アミコドームステージ」が初登場で「旧みずほ銀行徳島支店」内覧会も
+
+「鬼滅の刃」煉獄さんと炭治郎・善逸・伊之助が徳島を案内する「チャレンジ！マチ★アソビ vol.3」ロープウェイガイドアナウンス
+
+車内がアーニャまみれの「SPY×FAMILY」＆「鬼滅の刃」ラッピングバスがマチ★アソビ vol.25で運行開始
+
+徳島を舞台にしたアニメ系複合イベント「マチアソビ Vol.3」、5月2日～4日の開催が決定
+
+You can read the machine translated English article At Machi★Asobi vol.31, a sauna and cam… .d:X
+12:X
+12:C
+0:{"buildId":"hLDkNeSsban5txPAuz-c3","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-17","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Gigazine"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"マチ★アソビ vol.31では眉山の上にサウナやキャンプ場が用意されている"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"5 時間前"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"徳島の街を舞台としたアニメやゲームの総合エンタメイベント「 マチ★アソビ vol.31 」では、徳島市にそびえる眉山(びざん)でも各種イベントが開催されており、山頂付近やサウナに入ったりテントを設営してキャンプしたりできます。どんな感じの雰囲気か分かるようにサウナとキャンプエリアの様子を撮影してきました。"}],["$","p","1",{"children":"サウナは「マチ★アソビサウナ」と銘打って、新町川と眉山山頂の2カ所で開催されています。眉山山頂にはロープウェイで行くのが便利。"}],["$","p","2",{"children":"ロープウェイ乗り場の近くにサウナの受付スペースが設置されていました。"}],["$","p","3",{"children":"会場に向かうルート上に、冨岡義勇のパネルが設置されていました。マチ★アソビサウナのTシャツを着ています。"}],["$","p","4",{"children":"煉獄杏寿郎が水風呂に勢い良く飛び込んでいます。"}],["$","p","5",{"children":"サウナはテント式で、温度の異なる2種類が用意されています。"}],["$","p","6",{"children":"そして、椅子に座って整うというわけです。"}],["$","p","7",{"children":"マチ★アソビサウナは予約式で、記事作成時点ではまだ2026年10月18日分の予約枠が空いています。気になる人は埋まる前に予約してください。"}],["$","p","8",{"children":"新町川にも同様のサウナテントが設置されています。新町川の雰囲気は以下の2025年の"}],["$","p","9",{"children":"キャンプ場にも行ってみます。キャンプ場に向かうには、まずロープウェイ降り場から西側に下り、駐車上に着いたら右奥の階段を目指します。"}],["$","p","10",{"children":"キャンプ場に到着。キャンプ場の使用は予約が必要で、何泊するかによって価格が変化します。"}],["$","p","11",{"children":"テントや、テントを固定する際に使える水タンクをレンタル可能。トートバックや固形燃料なども販売されています。"}],["$","p","12",{"children":"2026年10月16日の時点で複数のテントが設置されていました。"}],["$","p","13",{"children":"少し歩くと広場があります。この広場でラジオ体操を実施するそうです。"}],["$","p","14",{"children":"また、トイレや自動販売機も近くにありました。"}],["$","p","15",{"children":"なお、キャンプ場の利用には予約が必要で、マチ★アソビ vol.31の予約受付は終了しています。"}],["$","p","16",{"children":"「マチ★アソビ vol.31」全記事一覧まとめ - GIGAZINE"}],["$","p","17",{"children":"「マチ★アソビ vol.31」イベントスケジュール一覧まとめ - GIGAZINE"}],["$","p","18",{"children":"マチ★アソビ Vol.30会場まとめ、「アミコドームステージ」が初登場で「旧みずほ銀行徳島支店」内覧会も"}],["$","p","19",{"children":"「鬼滅の刃」煉獄さんと炭治郎・善逸・伊之助が徳島を案内する「チャレンジ！マチ★アソビ vol.3」ロープウェイガイドアナウンス"}],["$","p","20",{"children":"車内がアーニャまみれの「SPY×FAMILY」＆「鬼滅の刃」ラッピングバスがマチ★アソビ vol.25で運行開始"}],["$","p","21",{"children":"徳島を舞台にしたアニメ系複合イベント「マチアソビ Vol.3」、5月2日～4日の開催が決定"}],["$","p","22",{"children":"You can read the machine translated English article At Machi★Asobi vol.31, a sauna and cam… ."}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はGigazineにあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://gigazine.net/news/20261017-sauna-camp-machiasobi31/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はGigazineで読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/ad9ce3baad9ce3bad6d0bc44","title":"マチ★アソビ vol.31では眉山の上にサウナやキャンプ場が用意されている","locale":"ja","take":null}],["$","$L4",null,{"title":"マチ★アソビ vol.31では眉山の上にサウナやキャンプ場が用意されている","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/ad9ce3baad9ce3bad6d0bc44","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E3%83%9E%E3%83%81%E2%98%85%E3%82%A2%E3%82%BD%E3%83%93+vol.31%E3%81%A7%E3%81%AF%E7%9C%89%E5%B1%B1%E3%81%AE%E4%B8%8A%E3%81%AB%E3%82%B5%E3%82%A6%E3%83%8A%E3%82%84%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%E5%A0%B4%E3%81%8C%E7%94%A8%E6%84%8F%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B&mode=phrase&url=gigazine.net&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","yahoo-picks:https://news.yahoo.co.jp/pickup/6599181?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/6b7650846b765084ff9e0ef2","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"祭りで太鼓台の下敷き 副市長死亡"}]]}]}],["$","li","nhk-sports:https://news.web.nhk/newsweb/na/nd-20261017de60907",{"children":["$","$L2",null,{"href":"/ja/n/00be53f900be53f94688c815","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"箱根駅伝予選会 東洋大など10校が出場権獲得【結果】"}]]}]}],["$","li","france24:https://france24.com/en/middle-east/20261017-israeli-settlers-attack-european-delegation-convoy-in-west-bank-beat-french-mayor",{"children":["$","$L2",null,{"href":"/ja/n/838209ef838209ef5f452b4f","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"France 24"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Israeli settlers attack European delegation convoy in West Bank, beat French mayor"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"マチ★アソビ vol.31では眉山の上にサウナやキャンプ場が用意されている"}],["$","meta","1",{"name":"description","content":"徳島の街を舞台としたアニメやゲームの総合エンタメイベント「 マチ★アソビ vol.31 」では、徳島市にそびえる眉山(びざん)でも各種イベントが開催されており、山頂付近やサウナに入ったりテントを設営してキャンプしたりできます。どんな感じの雰囲気か分かるようにサウナとキャンプエリアの様子を撮影してきました。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"マチ★アソビ vol.31では眉山の上にサウナやキャンプ場が用意されている"}],["$","meta","4",{"property":"og:description","content":"徳島の街を舞台としたアニメやゲームの総合エンタメイベント「 マチ★アソビ vol.31 」では、徳島市にそびえる眉山(びざん)でも各種イベントが開催されており、山頂付近やサウナに入ったりテントを設営してキャンプしたりできます。どんな感じの雰囲気か分かるようにサウナとキャンプエリアの様子を撮影してきました。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/ad9ce3baad9ce3bad6d0bc44/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"マチ★アソビ vol.31では眉山の上にサウナやキャンプ場が用意されている"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"マチ★アソビ vol.31では眉山の上にサウナやキャンプ場が用意されている"}],["$","meta","14",{"name":"twitter:description","content":"徳島の街を舞台としたアニメやゲームの総合エンタメイベント「 マチ★アソビ vol.31 」では、徳島市にそびえる眉山(びざん)でも各種イベントが開催されており、山頂付近やサウナに入ったりテントを設営してキャンプしたりできます。どんな感じの雰囲気か分かるようにサウナとキャンプエリアの様子を撮影してきました。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

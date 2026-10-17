@@ -1,0 +1,155 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+22:X
+27:X
+27:C
+0:{"buildId":"hLDkNeSsban5txPAuz-c3","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-16","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Gigazine"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"2026年10月16日のヘッドラインニュース"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"日本発のハンバーガーチェーンであるフレッシュネスバーガーが、ブランド海老「 神の海老 」をぜいたくに3尾使用した「神の海老バーガー ゆず白味噌」と「神の海老バーガー 明太クリームチーズ」を、2026年10月21日(水)～11月24日(火)の期間限定で発売します。「ゆず白味噌」と「明太クリームチーズ」という日本ならではの食材を組み合わせ、「大人の和」が楽しめる味わいになっているとのことです。"}],["$","p","1",{"children":"【PressRelease】フレッシュネスバーガー ブランド海老『神の海老』を贅沢に３尾使用！「神の海老バーガー」発売.pdf"}],["$","p","2",{"children":"3尾使用した『神の海老バーガー』2種が登場！"}],["$","p","3",{"children":"神の海老は100％海水で育てられたバナメイエビのブランドであり、一般的なバナメイエビと比べてうま味の指標となる遊離アミノ酸を約1.5倍含んでいます。「神の海老バーガー ゆず白味噌」はそんな神の海老を3尾使用し、京都の老舗である石野味噌の白味噌にゆずを合わせた香り豊かなバーガーです。"}],["$","p","4",{"children":"一方の「神の海老バーガー 明太クリームチーズ」は同じく神の海老を3尾使い、明太子のうま味を北海道産クリームチーズでまろやかに包んでいます。神の海老はだしを加えた特製の衣に一尾ずつくぐらせて店内で揚げ、外はカリッと中はプリッとした食感に仕上げたとのことです。"}],["$","p","5",{"children":"「神の海老バーガー ゆず白味噌」「神の海老バーガー 明太クリームチーズ」の価格は税込890円。10月21日(水)～11月24日(火)の期間限定で、球場店舗や動物園店舗を除いた全国のフレッシュネスバーガーで購入可能となっています。"}],["$","p","6",{"children":"ちなみに、過去の同月同日にはこんな記事を掲載していました。"}],["$","p","7",{"children":"「白い卵より茶色い卵の方が栄養がある」は本当か？ - GIGAZINE"}],["$","p","8",{"children":"イギリスのポテチ、全然旨味がないので味の素を2、3振りしてから食べてるんだけど、人同僚に「それはなんだ？」と尋ねられ「Magic powder栗」と答えたら「試してみたい！」との事だったので試しにかけてあげたら「Amazing…」とだけ言い残しその日はそのまま帰宅してて笑った。味の素返してね"}],["$","p","9",{"children":"芋掘りに行く6歳に｢大きいの取ってきて！｣と頼んだら、｢地面の下までは分からないので……｣と断られた。すみませんでした。"}],["$","p","10",{"children":"これさっき外で見かけたんだけど、この世界そのものがAI生成だったってこと？？ pic.twitter.com/fauyVYzU9T"}],["$","p","11",{"children":"念のため確認したいのですが、自分、マグニチュード9.9の地震で実は即死したけれど、魂だけは変わらずツイッターを見ている... という状況ではないですよね？"}],["$","p","12",{"children":"・社員「ボーナスまだ？」社長「今頑張っとるだわ」のくだりを毎回やる"}],["$","p","13",{"children":"東京にある筑波大学の図書館。「大塚図書館」ってどんなところ？｜筑波大学附属図書館｜University of Tsukuba Library"}],["$","p","14",{"children":"銃殺刑のライブ配信、トランプ大統領が中止を検討 死刑囚の麻痺の症状知らされ - CNN.co.jp"}],["$","p","15",{"children":"「弁護士」アピールする米ホワイトハウスの新任報道官、司法試験は不合格だった - CNN.co.jp"}],["$","p","16",{"children":"JR東海は16日、東海道新幹線の「のぞみ」の指定席料金について来年7月から値上げすると発表した。東京―新大阪間で指定席料金は700円値上がりし、運賃を含めると1万5420円になる。"}],["$","p","17",{"children":"【午後5時半～】気象庁 緊急地震速報取り消しで2回目の会見へ“M9.9と過大推定”“サイバー攻撃はない” | NHKニュース | 気象庁、地震、北海道"}],["$","p","18",{"children":"気象庁は午後2時から記者会見を開き、「震源を千島列島に決定し、マグニチュード9.9と過大に推定したことが要因だ。過大になった原因については現在調査中だ」と述べました。"}],["$","p","19",{"children":"こんないい加減な原産国表記で許されるのか pic.twitter.com/rvStktjIus"}],["$","p","20",{"children":"「堅牢な金庫」だったトクリュウの通信 遠隔解析でどう変わる? | 毎日新聞"}],["$","p","21",{"children":"フォームに送信された内容、外部サービスのAPIキーやトークン、Googleスプレッドシート連携の認証情報、カスタムプロキシ機能のプロキシキー、Google reCAPTCHA v3の設定情報、Webhook通知のURLは、暗号化して保存していたものについても、復号に必要な鍵が同じ不正アクセスで読み出されたため、内容を知られた可能性があります。"}],["$","p","22",{"children":"Studioのパスワードと、パスワード保護ページのパスワードは、いずれもハッシュ化して保存しており、平文では保存しておりません。ハッシュ化されたパスワードから元のパスワードを割り出すことは困難ですが、その可能性を完全には否定できないためパスワードの変更をお願いしております。"}],["$","p","23",{"children":"一部の公式アカウントの企業さまのメールにおいて、送信元のメール認証設定などの影響により、フィッシングメールにもかかわらず、公式アカウントマークが表示されるケースが報告されています。"}],["$","p","24",{"children":"ご不審な点のあるメールについてはメールの閲覧を中止する、または削除いただきますようお願い申し上げます。"}],["$","p","25",{"children":"なお、事象が解消するまでの一定期間、該当の企業さまについてドコモメール公式アカウントの表示を停止いたします。"}],["$","p","26",{"children":"宿泊予定のホテルから「書いてある情報に間違いがなければ承認してください。承認しないと部屋を押さえたことにならない」とのメール…ホテルに確認したら無視するようにと - Togetter"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18"],"$L19"]}],"$L1a","$L1b","$L1c",null,"$L1d","$L1e"]}],["$L1f"],"$L20"]}],"isPartial":"$@21","staleTime":"$22","varyParams":null},{"rsc":"$L23","isPartial":"$@24","staleTime":"$22","varyParams":null},{"rsc":"$L25","isPartial":"$@26","staleTime":"$22","varyParams":"$27"},{"rsc":"$L28","isPartial":"$@29","staleTime":"$22","varyParams":"$27"}],"isUpgradeableISRFallback":false,"a":"$@2a","rootVaryParams":null,"needsRuntimeRequest":"$@2b"}
+2c:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+2d:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+30:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+31:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+32:"$Sreact.suspense"
+34:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+35:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+36:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+37:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+38:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","27",{"children":"ネットだけでなく今の日本の社会では、何か自分が気持ちを害したら、相手に説明責任を求めていいという考え方が強くあるけど、それって昔の不良が通行人に「いま目が会っただろ」と絡むのと構造は全く同じだということを認識して欲しい。ようするに形を変えた「因縁をつける」ことの正当化。"}]
+4:["$","p","28",{"children":"『note組大きくリードしてます。はてな組も頑張ってください』 - orangestar2"}]
+5:["$","p","29",{"children":"「今のアニメ」になった境界線を知りたい…作画や表現など、ターニングポイントになった年や作品ってなんだと思う？「進撃の巨人以降説を推してる」「ハルヒ前後で変わった」 - Togetter"}]
+6:["$","p","30",{"children":"雪さんが個人経営してる買取専門店に強盗に行くずんだもん【草生える】【大草原】【植林:Lv.100】【砂漠の尊厳破壊】【樹海化】【ミトコンドリア大爆殖】【#00FF00】【草版の水平線、草平線が見える】 - ニコニコ動画"}]
+7:["$","p","31",{"children":"「朝の過ごし方」の理想と現実 pic.twitter.com/zyUnrtMDZQ"}]
+8:["$","p","32",{"children":"生“きのこ”るのはどっちだ pic.twitter.com/g3S9p5qYAw"}]
+9:["$","p","33",{"children":"ボクっ娘貧乳彼女 pic.twitter.com/y7xYszOeFE"}]
+a:["$","p","34",{"children":"C109の当落速報メール設定は11月6日12時締切。その後、夕方に当落速報メール送信・コミケWebカタログ公開となります。"}]
+b:["$","p","35",{"children":"また、当落通知の発送は、準備期間の都合上当初発表通り1週遅れの11月13日となります。"}]
+c:["$","p","36",{"children":"コミケWebカタログへのサークル情報の事前入力を御願いします。 pic.twitter.com/T631wHB5Ye"}]
+d:["$","p","37",{"children":"花の君よ pic.twitter.com/Qa30q7h7EQ"}]
+e:["$","p","38",{"children":"TVアニメ「てつりょー！meet with 鉄道むすめ」｜エンディングテーマCM「わたし未来線」／てつりょー会 - YouTube"}]
+f:["$","p","39",{"children":"【てつりょー！】TVアニメ「てつりょー！meet with 鉄道むすめ」ノンクレジットエンディング映像｜わたし未来線 - YouTube"}]
+10:["$","p","40",{"children":"ヨーロッパ最大のゲームショウgamescom2026 セガ ヨーロッパ出展ブースを紹介！ - YouTube"}]
+11:["$","p","41",{"children":"大型ドローンショー『ODAIBA DRONE SHOW 2026』～お台場の夜空にセガ／アトラスのキャラクターが集結！ - YouTube"}]
+12:["$","p","42",{"children":"『THANKS, LIGHT.』 - ゲームプレイトレーラー - YouTube"}]
+13:["$","p","43",{"children":"セルフレジ担当が暇なのか管理カードみたいなのをグルんグルん回してた。"}]
+14:["$","p","44",{"children":"同じ人かわからないけど、昨日は横ステップしてた。"}]
+15:["$","p","45",{"children":"楽しそうな店でよろしいですね。 pic.twitter.com/FYybXMHDak"}]
+16:["$","p","46",{"children":"コミティア実行委員会も「東京COMITIA出張委託コーナー」として出展します！"}]
+17:["$","p","47",{"children":"オイコス プロテインヨーグルトに季節限定フレーバー「アサイーボウル」が登場！10月19日新発売 | ニュース | ダノンジャパン ｜ ダノンのヨーグルトサイト ｜ DANONE JAPAN"}]
+18:["$","p","48",{"children":"You can read the machine translated English article Headline news for October 16, 2026… ."}]
+19:["$","p",null,{"className":"article-credit","children":"本文の著作権はGigazineにあります。"}]
+1a:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://gigazine.net/news/20261016-headline/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はGigazineで読む"}]}]
+2e:T2364,日本発のハンバーガーチェーンであるフレッシュネスバーガーが、ブランド海老「 神の海老 」をぜいたくに3尾使用した「神の海老バーガー ゆず白味噌」と「神の海老バーガー 明太クリームチーズ」を、2026年10月21日(水)～11月24日(火)の期間限定で発売します。「ゆず白味噌」と「明太クリームチーズ」という日本ならではの食材を組み合わせ、「大人の和」が楽しめる味わいになっているとのことです。
+
+【PressRelease】フレッシュネスバーガー ブランド海老『神の海老』を贅沢に３尾使用！「神の海老バーガー」発売.pdf
+
+3尾使用した『神の海老バーガー』2種が登場！
+
+神の海老は100％海水で育てられたバナメイエビのブランドであり、一般的なバナメイエビと比べてうま味の指標となる遊離アミノ酸を約1.5倍含んでいます。「神の海老バーガー ゆず白味噌」はそんな神の海老を3尾使用し、京都の老舗である石野味噌の白味噌にゆずを合わせた香り豊かなバーガーです。
+
+一方の「神の海老バーガー 明太クリームチーズ」は同じく神の海老を3尾使い、明太子のうま味を北海道産クリームチーズでまろやかに包んでいます。神の海老はだしを加えた特製の衣に一尾ずつくぐらせて店内で揚げ、外はカリッと中はプリッとした食感に仕上げたとのことです。
+
+「神の海老バーガー ゆず白味噌」「神の海老バーガー 明太クリームチーズ」の価格は税込890円。10月21日(水)～11月24日(火)の期間限定で、球場店舗や動物園店舗を除いた全国のフレッシュネスバーガーで購入可能となっています。
+
+ちなみに、過去の同月同日にはこんな記事を掲載していました。
+
+「白い卵より茶色い卵の方が栄養がある」は本当か？ - GIGAZINE
+
+イギリスのポテチ、全然旨味がないので味の素を2、3振りしてから食べてるんだけど、人同僚に「それはなんだ？」と尋ねられ「Magic powder栗」と答えたら「試してみたい！」との事だったので試しにかけてあげたら「Amazing…」とだけ言い残しその日はそのまま帰宅してて笑った。味の素返してね
+
+芋掘りに行く6歳に｢大きいの取ってきて！｣と頼んだら、｢地面の下までは分からないので……｣と断られた。すみませんでした。
+
+これさっき外で見かけたんだけど、この世界そのものがAI生成だったってこと？？ pic.twitter.com/fauyVYzU9T
+
+念のため確認したいのですが、自分、マグニチュード9.9の地震で実は即死したけれど、魂だけは変わらずツイッターを見ている... という状況ではないですよね？
+
+・社員「ボーナスまだ？」社長「今頑張っとるだわ」のくだりを毎回やる
+
+東京にある筑波大学の図書館。「大塚図書館」ってどんなところ？｜筑波大学附属図書館｜University of Tsukuba Library
+
+銃殺刑のライブ配信、トランプ大統領が中止を検討 死刑囚の麻痺の症状知らされ - CNN.co.jp
+
+「弁護士」アピールする米ホワイトハウスの新任報道官、司法試験は不合格だった - CNN.co.jp
+
+JR東海は16日、東海道新幹線の「のぞみ」の指定席料金について来年7月から値上げすると発表した。東京―新大阪間で指定席料金は700円値上がりし、運賃を含めると1万5420円になる。
+
+【午後5時半～】気象庁 緊急地震速報取り消しで2回目の会見へ“M9.9と過大推定”“サイバー攻撃はない” | NHKニュース | 気象庁、地震、北海道
+
+気象庁は午後2時から記者会見を開き、「震源を千島列島に決定し、マグニチュード9.9と過大に推定したことが要因だ。過大になった原因については現在調査中だ」と述べました。
+
+こんないい加減な原産国表記で許されるのか pic.twitter.com/rvStktjIus
+
+「堅牢な金庫」だったトクリュウの通信 遠隔解析でどう変わる? | 毎日新聞
+
+フォームに送信された内容、外部サービスのAPIキーやトークン、Googleスプレッドシート連携の認証情報、カスタムプロキシ機能のプロキシキー、Google reCAPTCHA v3の設定情報、Webhook通知のURLは、暗号化して保存していたものについても、復号に必要な鍵が同じ不正アクセスで読み出されたため、内容を知られた可能性があります。
+
+Studioのパスワードと、パスワード保護ページのパスワードは、いずれもハッシュ化して保存しており、平文では保存しておりません。ハッシュ化されたパスワードから元のパスワードを割り出すことは困難ですが、その可能性を完全には否定できないためパスワードの変更をお願いしております。
+
+一部の公式アカウントの企業さまのメールにおいて、送信元のメール認証設定などの影響により、フィッシングメールにもかかわらず、公式アカウントマークが表示されるケースが報告されています。
+
+ご不審な点のあるメールについてはメールの閲覧を中止する、または削除いただきますようお願い申し上げます。
+
+なお、事象が解消するまでの一定期間、該当の企業さまについてドコモメール公式アカウントの表示を停止いたします。
+
+宿泊予定のホテルから「書いてある情報に間違いがなければ承認してください。承認しないと部屋を押さえたことにならない」とのメール…ホテルに確認したら無視するようにと - Togetter
+
+ネットだけでなく今の日本の社会では、何か自分が気持ちを害したら、相手に説明責任を求めていいという考え方が強くあるけど、それって昔の不良が通行人に「いま目が会っただろ」と絡むのと構造は全く同じだということを認識して欲しい。ようするに形を変えた「因縁をつける」ことの正当化。
+
+『note組大きくリードしてます。はてな組も頑張ってください』 - orangestar2
+
+「今のアニメ」になった境界線を知りたい…作画や表現など、ターニングポイントになった年や作品ってなんだと思う？「進撃の巨人以降説を推してる」「ハルヒ前後で変わった」 - Togetter
+
+雪さんが個人経営してる買取専門店に強盗に行くずんだもん【草生える】【大草原】【植林:Lv.100】【砂漠の尊厳破壊】【樹海化】【ミトコンドリア大爆殖】【#00FF00】【草版の水平線、草平線が見える】 - ニコニコ動画
+
+「朝の過ごし方」の理想と現実 pic.twitter.com/zyUnrtMDZQ
+
+生“きのこ”るのはどっちだ pic.twitter.com/g3S9p5qYAw
+
+ボクっ娘貧乳彼女 pic.twitter.com/y7xYszOeFE
+
+C109の当落速報メール設定は11月6日12時締切。その後、夕方に当落速報メール送信・コミケWebカタログ公開となります。
+
+また、当落通知の発送は、準備期間の都合上当初発表通り1週遅れの11月13日となります。
+
+コミケWebカタログへのサークル情報の事前入力を御願いします。 pic.twitter.com/T631wHB5Ye
+
+花の君よ pic.twitter.com/Qa30q7h7EQ
+
+TVアニメ「てつりょー！meet with 鉄道むすめ」｜エンディングテーマCM「わたし未来線」／てつりょー会 - YouTube
+
+【てつりょー！】TVアニメ「てつりょー！meet with 鉄道むすめ」ノンクレジットエンディング映像｜わたし未来線 - YouTube
+
+ヨーロッパ最大のゲームショウgamescom2026 セガ ヨーロッパ出展ブースを紹介！ - YouTube
+
+大型ドローンショー『ODAIBA DRONE SHOW 2026』～お台場の夜空にセガ／アトラスのキャラクターが集結！ - YouTube
+
+『THANKS, LIGHT.』 - ゲームプレイトレーラー - YouTube
+
+セルフレジ担当が暇なのか管理カードみたいなのをグルんグルん回してた。
+
+同じ人かわからないけど、昨日は横ステップしてた。
+
+楽しそうな店でよろしいですね。 pic.twitter.com/FYybXMHDak
+
+コミティア実行委員会も「東京COMITIA出張委託コーナー」として出展します！
+
+オイコス プロテインヨーグルトに季節限定フレーバー「アサイーボウル」が登場！10月19日新発売 | ニュース | ダノンジャパン ｜ ダノンのヨーグルトサイト ｜ DANONE JAPAN
+
+You can read the machine translated English article Headline news for October 16, 2026… .1b:["$","section",null,{"className":"article-actions","children":[["$","$L2c",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/a66bc494a66bc494d603d308","title":"2026年10月16日のヘッドラインニュース","locale":"ja","take":null}],["$","$L2d",null,{"title":"2026年10月16日のヘッドラインニュース","excerpt":"$2e","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/a66bc494a66bc494d603d308","locale":"ja"}],"$L2f"]}]
+1c:["$","$L30",null,{"placement":"article","className":"mt-8"}]
+1d:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+1e:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-africa:https://bbc.co.uk/news/articles/cmwyvxj49gpwo",{"children":["$","$L2",null,{"href":"/ja/n/cd8bae56cd8bae563f895fe0","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Patients in chains rescued from suspected illegal rehab centre in South Africa"}]]}]}],["$","li","nhk-sports:https://news.web.nhk/newsweb/na/nd-20261016de60755",{"children":["$","$L2",null,{"href":"/ja/n/ea02838dea02838dabce0501","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"ソフトバンクが3年連続で日本シリーズ進出 日本ハムに3連勝"}]]}]}],["$","li","nhk-society:https://news.web.nhk/newsweb/na/nd-20261016de60368",{"children":["$","$L2",null,{"href":"/ja/n/5e85f6d45e85f6d4707320ee","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"緊急地震速報の過大推定 「過去の対策が機能せず」気象庁"}]]}]}]]}]]}]
+1f:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+20:["$","$L31",null,{"children":["$","$32",null,{"name":"Next.MetadataOutlet","children":"$@33"}]}]
+23:["$","$1","h",{"children":[null,["$","$L34",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L35",null,{"children":["$","$32",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"2026年10月16日のヘッドラインニュース"}],["$","meta","1",{"name":"description","content":"日本発のハンバーガーチェーンであるフレッシュネスバーガーが、ブランド海老「 神の海老 」をぜいたくに3尾使用した「神の海老バーガー ゆず白味噌」と「神の海老バーガー 明太クリームチーズ」を、2026年10月21日(水)～11月24日(火)の期間限定で発売します。「ゆず白味噌」と「明太クリームチーズ」という日本ならではの食材を組み合わせ、「大人の和」が楽しめる味わいになっているとのことです。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"2026年10月16日のヘッドラインニュース"}],["$","meta","4",{"property":"og:description","content":"日本発のハンバーガーチェーンであるフレッシュネスバーガーが、ブランド海老「 神の海老 」をぜいたくに3尾使用した「神の海老バーガー ゆず白味噌」と「神の海老バーガー 明太クリームチーズ」を、2026年10月21日(水)～11月24日(火)の期間限定で発売します。「ゆず白味噌」と「明太クリームチーズ」という日本ならではの食材を組み合わせ、「大人の和」が楽しめる味わいになっているとのことです。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/a66bc494a66bc494d603d308/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"2026年10月16日のヘッドラインニュース"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"2026年10月16日のヘッドラインニュース"}],["$","meta","14",{"name":"twitter:description","content":"日本発のハンバーガーチェーンであるフレッシュネスバーガーが、ブランド海老「 神の海老 」をぜいたくに3尾使用した「神の海老バーガー ゆず白味噌」と「神の海老バーガー 明太クリームチーズ」を、2026年10月21日(水)～11月24日(火)の期間限定で発売します。「ゆず白味噌」と「明太クリームチーズ」という日本ならではの食材を組み合わせ、「大人の和」が楽しめる味わいになっているとのことです。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L36","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+25:["$","$1","c",{"children":[null,["$","$L37",null,{"parallelRouterKey":"children","template":["$","$L38",null,{}]}]]}]
+28:["$","$1","c",{"children":[null,["$","$L37",null,{"parallelRouterKey":"children","template":["$","$L38",null,{}]}]]}]
+2b:true
+2f:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=2026%E5%B9%B410%E6%9C%8816%E6%97%A5%E3%81%AE%E3%83%98%E3%83%83%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&mode=phrase&url=gigazine.net&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+33:null
+22:300
+22:C
+2a:0
+24:"$undefined"
+26:"$undefined"
+29:"$undefined"
+21:"$undefined"
