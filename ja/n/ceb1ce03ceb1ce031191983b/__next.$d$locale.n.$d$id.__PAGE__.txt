@@ -1,0 +1,99 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261022-00106928-forbes-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","image"]
+15:X
+1a:X
+1a:C
+0:{"buildId":"uBkhHRT_aLtDySfUghNoY","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-22","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"死んだ星の灰からも「惑星が誕生」する可能性、NASAハッブルが27年来の謎を解明(Forbes JAPAN)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"一昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261022-00106928-forbes-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"寿命を迎えた恒星が燃え尽きた「灰」から形成された可能性のある、驚くべき惑星の存在を示す証拠を、天文学者チームが発見した。英ウォーリック大学などの研究チームがNASAのハッブル宇宙望遠鏡（HST）の観測データを用いて成し遂げた今回の発見の中心となるのは、寿命を終えた恒星の高密度の残骸である白色矮星だ。この白色矮星の周りを、極めて珍しい第2世代の惑星が公転している可能性があると、研究チームは考えている。第2世代惑星は、主星が寿命を終える際に放出した物質から形成された惑星だ。"}],["$","p","1",{"children":"今回の研究結果は、主星が寿命を迎えた後に惑星がどうなるかに関する科学者の理解を一変させるかもしれない。研究結果をまとめた論文は5日付の学術誌Nature Astronomyに掲載された。"}],["$","p","2",{"children":"■ハッブルが27年来の謎を解明"}],["$","p","3",{"children":"今回の画期的発見は、1999年のHSTによる観測データの再分析によってもたらされた。当時の測定データには未同定の化学的シグネチャー（特定の化学物質が存在する証拠と考えられる指標となるデータ）が約100個含まれており、20年以上にわたって未解明のままとなっていた。"}],["$","p","4",{"children":"ウォーリック大の博士課程学生ジェイミー・ウィリアムズが率いる研究チームは、化学的シグネチャーを集めた最新のデータベースを利用して、謎だったシグネチャーの多くが重元素ニオブに対応することを明らかにした。白色矮星の大気中でニオブが見つかったのは今回が初めてだ。ウィリアムズは「この白色矮星系でハッブルのデータが示しているのは、これまでに観測されたことのない事実だ。すなわち、元素ニオブの存在度が高いことだ」と説明している。"}],["$","p","5",{"children":"■死んだ星から惑星が形成される仕組みとは？"}],["$","p","6",{"children":"白色矮星は、核融合燃料を使い尽くし、外層の物質を放出した恒星が高密度に収縮した残骸だ。惑星がこの転換期を破壊されずに切り抜ける可能性はあるものの、今回の白色矮星HS 0209+0832の周囲にあるとみられる惑星は、その後に形成された可能性があると、研究チームは考えている。"}],["$","p","7",{"children":"初期の太陽を取り巻く物質から形成された太陽系の地球や他の惑星とは異なり、第2世代惑星は、寿命を迎えた恒星が放出する物質から形成されると考えられている。"}],["$","p","8",{"children":"重要な手がかりは、異常な化学組成によってもたらされる。ニオブのような元素が天文学的に特別な意味を持つ理由は、寿命を迎えた恒星内でしか合成されないからだ。そして外層の放出に伴い、宇宙空間にまき散らされる。こうして放出された物質の一部が、おそらく伴星が助けとなり円盤状に集積した後、最終的に木星サイズの巨大ガス惑星を形成したのではないかと、研究チームは推測している。"}],["$","p","9",{"children":"寿命を迎えた恒星が燃え尽きた「灰」から形成された可能性のある、驚くべき惑星の存在を示す証拠を、天文学者チームが発見した。英ウォーリック大学などの研究チームがNASAのハッブル宇宙望遠鏡（HST）の観測データを用いて成し遂げた今回の発見の中心となるのは、寿命を終えた恒星の高密度の残骸である白色矮星だ。この白色矮星の周りを、極めて珍しい第2世代の惑星が公転している可能性があると、研究チームは考えている。第2世代惑星は、主星が寿命を終える際に放出した物質から形成された惑星だ。"}],["$","p","10",{"children":"今回の研究結果は、主星が寿命を迎えた後に惑星がどうなるかに関する科学者の理解を一変させるかもしれない。研究結果をまとめた論文は5日付の学術誌Nature Astronomyに掲載された。"}],["$","p","11",{"children":"■ハッブルが27年来の謎を解明"}],["$","p","12",{"children":"今回の画期的発見は、1999年のHSTによる観測データの再分析によってもたらされた。当時の測定データには未同定の化学的シグネチャー（特定の化学物質が存在する証拠と考えられる指標となるデータ）が約100個含まれており、20年以上にわたって未解明のままとなっていた。"}],["$","p","13",{"children":"ウォーリック大の博士課程学生ジェイミー・ウィリアムズが率いる研究チームは、化学的シグネチャーを集めた最新のデータベースを利用して、謎だったシグネチャーの多くが重元素ニオブに対応することを明らかにした。白色矮星の大気中でニオブが見つかったのは今回が初めてだ。ウィリアムズは「この白色矮星系でハッブルのデータが示しているのは、これまでに観測されたことのない事実だ。すなわち、元素ニオブの存在度が高いことだ」と説明している。"}],["$","p","14",{"children":"■死んだ星から惑星が形成される仕組みとは？"}],["$","p","15",{"children":"白色矮星は、核融合燃料を使い尽くし、外層の物質を放出した恒星が高密度に収縮した残骸だ。惑星がこの転換期を破壊されずに切り抜ける可能性はあるものの、今回の白色矮星HS 0209+0832の周囲にあるとみられる惑星は、その後に形成された可能性があると、研究チームは考えている。"}],["$","p","16",{"children":"初期の太陽を取り巻く物質から形成された太陽系の地球や他の惑星とは異なり、第2世代惑星は、寿命を迎えた恒星が放出する物質から形成されると考えられている。"}],["$","p","17",{"children":"重要な手がかりは、異常な化学組成によってもたらされる。ニオブのような元素が天文学的に特別な意味を持つ理由は、寿命を迎えた恒星内でしか合成されないからだ。そして外層の放出に伴い、宇宙空間にまき散らされる。こうして放出された物質の一部が、おそらく伴星が助けとなり円盤状に集積した後、最終的に木星サイズの巨大ガス惑星を形成したのではないかと、研究チームは推測している。"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"],"$Lc"]}],"$Ld","$Le","$Lf",null,"$L10","$L11"]}],["$L12"],"$L13"]}],"isPartial":"$@14","staleTime":"$15","varyParams":null},{"rsc":"$L16","isPartial":"$@17","staleTime":"$15","varyParams":null},{"rsc":"$L18","isPartial":"$@19","staleTime":"$15","varyParams":"$1a"},{"rsc":"$L1b","isPartial":"$@1c","staleTime":"$15","varyParams":"$1a"}],"isUpgradeableISRFallback":false,"a":"$@1d","rootVaryParams":null,"needsRuntimeRequest":"$@1e"}
+1f:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+20:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+23:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+24:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+25:"$Sreact.suspense"
+27:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+28:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+29:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+2a:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+2b:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","18",{"children":"ウィリアムズは「第2世代惑星は、恒星の死に伴って放出される物質から形成される惑星だ」とし、「こうした惑星は極めて珍しく、白色矮星の周囲で発見されたのはまったく予想外だった。かつて惑星が公転していた星が燃え尽きた灰の中から再生した惑星を見つけたようなものだ」と続けた。"}]
+4:["$","p","19",{"children":"■NASAのTESS衛星が巨大惑星の兆候を検出"}]
+5:["$","p","20",{"children":"天の川銀河（銀河系）の明るい恒星を公転する惑星を探索する目的で2018年に打ち上げられたNASAのトランジット系外惑星探索衛星（TESS）から、さらなる証拠がもたらされた。TESSはHS 0209+0832を4か月にわたって観測し、明るさの規則的な変動を検出した。"}]
+6:["$","p","21",{"children":"この信号は約4.4日ごとに繰り返されており、HS 0209+0832から約590万km離れた軌道を公転する惑星が存在する可能性があることが示唆された。この惑星の軌道距離は、太陽と水星間の距離よりもはるかに近い。大きさは木星と同程度と、研究チームは考えている。だが、非常に高温の白色矮星の極めて近くにあるため、強烈な放射を受けて大気が剥ぎ取られている可能性がある。"}]
+7:["$","p","22",{"children":"剥ぎ取られたガスは彗星の尾のような形になり、最終的に白色矮星を取り巻く円盤を形成した後、表面に向かって落下しているのかもしれない。白色矮星の大気中で異常に高濃度の重元素がHSTで検出されていた理由は、このプロセスで説明できるだろう。"}]
+8:["$","p","23",{"children":"■第2世代惑星がゆくゆくは生命存在可能になる可能性は？"}]
+9:["$","p","24",{"children":"極めて過酷な環境にもかかわらず、惑星は非常に長期にわたって存続できる可能性があると、研究チームは考えている。白色矮星が徐々に冷えるにつれ、惑星の大気を剥ぎ取っていた強烈な放射が弱まるはずなので、惑星がより安定した環境内にとどまれる可能性があるのだ。"}]
+a:["$","p","25",{"children":"ウィリアムズは「第2世代惑星がこの恒星系に存在するなら、存続する可能性は高いと考えている」とし、「ゆくゆくは白色矮星が冷却して一定の温度を維持するようになる。そうすれば、白色矮星の安定なハビタブルゾーン（生命生存可能領域）内に惑星が数百万年間とどまり続ける」と説明した。"}]
+b:["$","p","26",{"children":"裏づけが得られれば、白色矮星を公転する第2世代惑星としては初の有力な事例となる。これにより、惑星形成に関するまったく新しい研究の道が開くことになる。同様の化学的特徴を持つ白色矮星の探求がさらに進めば、第2世代惑星が希少な存在なのか、それとも単に見つけにくいだけなのかが明らかになるに違いない。"}]
+c:["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]
+d:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/51fd4f98f1734a30f2dc6e85d91bbad7bbf83687?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}]
+21:T2485,寿命を迎えた恒星が燃え尽きた「灰」から形成された可能性のある、驚くべき惑星の存在を示す証拠を、天文学者チームが発見した。英ウォーリック大学などの研究チームがNASAのハッブル宇宙望遠鏡（HST）の観測データを用いて成し遂げた今回の発見の中心となるのは、寿命を終えた恒星の高密度の残骸である白色矮星だ。この白色矮星の周りを、極めて珍しい第2世代の惑星が公転している可能性があると、研究チームは考えている。第2世代惑星は、主星が寿命を終える際に放出した物質から形成された惑星だ。
+
+今回の研究結果は、主星が寿命を迎えた後に惑星がどうなるかに関する科学者の理解を一変させるかもしれない。研究結果をまとめた論文は5日付の学術誌Nature Astronomyに掲載された。
+
+■ハッブルが27年来の謎を解明
+
+今回の画期的発見は、1999年のHSTによる観測データの再分析によってもたらされた。当時の測定データには未同定の化学的シグネチャー（特定の化学物質が存在する証拠と考えられる指標となるデータ）が約100個含まれており、20年以上にわたって未解明のままとなっていた。
+
+ウォーリック大の博士課程学生ジェイミー・ウィリアムズが率いる研究チームは、化学的シグネチャーを集めた最新のデータベースを利用して、謎だったシグネチャーの多くが重元素ニオブに対応することを明らかにした。白色矮星の大気中でニオブが見つかったのは今回が初めてだ。ウィリアムズは「この白色矮星系でハッブルのデータが示しているのは、これまでに観測されたことのない事実だ。すなわち、元素ニオブの存在度が高いことだ」と説明している。
+
+■死んだ星から惑星が形成される仕組みとは？
+
+白色矮星は、核融合燃料を使い尽くし、外層の物質を放出した恒星が高密度に収縮した残骸だ。惑星がこの転換期を破壊されずに切り抜ける可能性はあるものの、今回の白色矮星HS 0209+0832の周囲にあるとみられる惑星は、その後に形成された可能性があると、研究チームは考えている。
+
+初期の太陽を取り巻く物質から形成された太陽系の地球や他の惑星とは異なり、第2世代惑星は、寿命を迎えた恒星が放出する物質から形成されると考えられている。
+
+重要な手がかりは、異常な化学組成によってもたらされる。ニオブのような元素が天文学的に特別な意味を持つ理由は、寿命を迎えた恒星内でしか合成されないからだ。そして外層の放出に伴い、宇宙空間にまき散らされる。こうして放出された物質の一部が、おそらく伴星が助けとなり円盤状に集積した後、最終的に木星サイズの巨大ガス惑星を形成したのではないかと、研究チームは推測している。
+
+寿命を迎えた恒星が燃え尽きた「灰」から形成された可能性のある、驚くべき惑星の存在を示す証拠を、天文学者チームが発見した。英ウォーリック大学などの研究チームがNASAのハッブル宇宙望遠鏡（HST）の観測データを用いて成し遂げた今回の発見の中心となるのは、寿命を終えた恒星の高密度の残骸である白色矮星だ。この白色矮星の周りを、極めて珍しい第2世代の惑星が公転している可能性があると、研究チームは考えている。第2世代惑星は、主星が寿命を終える際に放出した物質から形成された惑星だ。
+
+今回の研究結果は、主星が寿命を迎えた後に惑星がどうなるかに関する科学者の理解を一変させるかもしれない。研究結果をまとめた論文は5日付の学術誌Nature Astronomyに掲載された。
+
+■ハッブルが27年来の謎を解明
+
+今回の画期的発見は、1999年のHSTによる観測データの再分析によってもたらされた。当時の測定データには未同定の化学的シグネチャー（特定の化学物質が存在する証拠と考えられる指標となるデータ）が約100個含まれており、20年以上にわたって未解明のままとなっていた。
+
+ウォーリック大の博士課程学生ジェイミー・ウィリアムズが率いる研究チームは、化学的シグネチャーを集めた最新のデータベースを利用して、謎だったシグネチャーの多くが重元素ニオブに対応することを明らかにした。白色矮星の大気中でニオブが見つかったのは今回が初めてだ。ウィリアムズは「この白色矮星系でハッブルのデータが示しているのは、これまでに観測されたことのない事実だ。すなわち、元素ニオブの存在度が高いことだ」と説明している。
+
+■死んだ星から惑星が形成される仕組みとは？
+
+白色矮星は、核融合燃料を使い尽くし、外層の物質を放出した恒星が高密度に収縮した残骸だ。惑星がこの転換期を破壊されずに切り抜ける可能性はあるものの、今回の白色矮星HS 0209+0832の周囲にあるとみられる惑星は、その後に形成された可能性があると、研究チームは考えている。
+
+初期の太陽を取り巻く物質から形成された太陽系の地球や他の惑星とは異なり、第2世代惑星は、寿命を迎えた恒星が放出する物質から形成されると考えられている。
+
+重要な手がかりは、異常な化学組成によってもたらされる。ニオブのような元素が天文学的に特別な意味を持つ理由は、寿命を迎えた恒星内でしか合成されないからだ。そして外層の放出に伴い、宇宙空間にまき散らされる。こうして放出された物質の一部が、おそらく伴星が助けとなり円盤状に集積した後、最終的に木星サイズの巨大ガス惑星を形成したのではないかと、研究チームは推測している。
+
+ウィリアムズは「第2世代惑星は、恒星の死に伴って放出される物質から形成される惑星だ」とし、「こうした惑星は極めて珍しく、白色矮星の周囲で発見されたのはまったく予想外だった。かつて惑星が公転していた星が燃え尽きた灰の中から再生した惑星を見つけたようなものだ」と続けた。
+
+■NASAのTESS衛星が巨大惑星の兆候を検出
+
+天の川銀河（銀河系）の明るい恒星を公転する惑星を探索する目的で2018年に打ち上げられたNASAのトランジット系外惑星探索衛星（TESS）から、さらなる証拠がもたらされた。TESSはHS 0209+0832を4か月にわたって観測し、明るさの規則的な変動を検出した。
+
+この信号は約4.4日ごとに繰り返されており、HS 0209+0832から約590万km離れた軌道を公転する惑星が存在する可能性があることが示唆された。この惑星の軌道距離は、太陽と水星間の距離よりもはるかに近い。大きさは木星と同程度と、研究チームは考えている。だが、非常に高温の白色矮星の極めて近くにあるため、強烈な放射を受けて大気が剥ぎ取られている可能性がある。
+
+剥ぎ取られたガスは彗星の尾のような形になり、最終的に白色矮星を取り巻く円盤を形成した後、表面に向かって落下しているのかもしれない。白色矮星の大気中で異常に高濃度の重元素がHSTで検出されていた理由は、このプロセスで説明できるだろう。
+
+■第2世代惑星がゆくゆくは生命存在可能になる可能性は？
+
+極めて過酷な環境にもかかわらず、惑星は非常に長期にわたって存続できる可能性があると、研究チームは考えている。白色矮星が徐々に冷えるにつれ、惑星の大気を剥ぎ取っていた強烈な放射が弱まるはずなので、惑星がより安定した環境内にとどまれる可能性があるのだ。
+
+ウィリアムズは「第2世代惑星がこの恒星系に存在するなら、存続する可能性は高いと考えている」とし、「ゆくゆくは白色矮星が冷却して一定の温度を維持するようになる。そうすれば、白色矮星の安定なハビタブルゾーン（生命生存可能領域）内に惑星が数百万年間とどまり続ける」と説明した。
+
+裏づけが得られれば、白色矮星を公転する第2世代惑星としては初の有力な事例となる。これにより、惑星形成に関するまったく新しい研究の道が開くことになる。同様の化学的特徴を持つ白色矮星の探求がさらに進めば、第2世代惑星が希少な存在なのか、それとも単に見つけにくいだけなのかが明らかになるに違いない。e:["$","section",null,{"className":"article-actions","children":[["$","$L1f",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/ceb1ce03ceb1ce031191983b","title":"死んだ星の灰からも「惑星が誕生」する可能性、NASAハッブルが27年来の謎を解明(Forbes JAPAN)","locale":"ja","take":null}],["$","$L20",null,{"title":"死んだ星の灰からも「惑星が誕生」する可能性、NASAハッブルが27年来の謎を解明(Forbes JAPAN)","excerpt":"$21","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/ceb1ce03ceb1ce031191983b","locale":"ja"}],"$L22"]}]
+f:["$","$L23",null,{"placement":"article","className":"mt-8"}]
+10:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+11:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","nhk-world:https://news.web.nhk/newsweb/na/nd-20261022de63386",{"children":["$","$L2",null,{"href":"/ja/n/0d17dbf00d17dbf0b01de0aa","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"サウジアラビア東部で攻撃相次ぎ3人死亡 米国務省は退避命令"}]]}]}],["$","li","nhk-sports:https://news.web.nhk/newsweb/na/nd-20261022de63890",{"children":["$","$L2",null,{"href":"/ja/n/5dba825d5dba825db89f429d","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"ドラフト 巨人“史上最年少14歳”の中学3年生を育成5位で指名"}]]}]}],["$","li","guardian-biz:https://theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",{"children":["$","$L2",null,{"href":"/ja/n/01d73a6f01d73a6f329fd0af","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"The Guardian"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Barclays to cut 5,000 jobs as bank’s bosses hail AI productivity advances"}]]}]}]]}]]}]
+12:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+13:["$","$L24",null,{"children":["$","$25",null,{"name":"Next.MetadataOutlet","children":"$@26"}]}]
+16:["$","$1","h",{"children":[null,["$","$L27",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L28",null,{"children":["$","$25",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"死んだ星の灰からも「惑星が誕生」する可能性、NASAハッブルが27年来の謎を解明(Forbes JAPAN)"}],["$","meta","1",{"name":"description","content":"寿命を迎えた恒星が燃え尽きた「灰」から形成された可能性のある、驚くべき惑星の存在を示す証拠を、天文学者チームが発見した。英ウォーリック大学などの研究チームがNASAのハッブル宇宙望遠鏡（HST）の観測データを用いて成し遂げた今回の発見の中心となるのは、寿命を終えた恒星の高密度の残骸である白色矮星だ。この白色矮星の周りを、極めて珍しい第2世代の惑星が公転している可能性があると、研究チームは考えている。第2世代惑星は、主星が寿命を終える際に放出した物質から形成された惑星だ。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"死んだ星の灰からも「惑星が誕生」する可能性、NASAハッブルが27年来の謎を解明(Forbes JAPAN)"}],["$","meta","4",{"property":"og:description","content":"寿命を迎えた恒星が燃え尽きた「灰」から形成された可能性のある、驚くべき惑星の存在を示す証拠を、天文学者チームが発見した。英ウォーリック大学などの研究チームがNASAのハッブル宇宙望遠鏡（HST）の観測データを用いて成し遂げた今回の発見の中心となるのは、寿命を終えた恒星の高密度の残骸である白色矮星だ。この白色矮星の周りを、極めて珍しい第2世代の惑星が公転している可能性があると、研究チームは考えている。第2世代惑星は、主星が寿命を終える際に放出した物質から形成された惑星だ。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/ceb1ce03ceb1ce031191983b/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261022-00106928-forbes-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"死んだ星の灰からも「惑星が誕生」する可能性、NASAハッブルが27年来の謎を解明(Forbes JAPAN)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"死んだ星の灰からも「惑星が誕生」する可能性、NASAハッブルが27年来の謎を解明(Forbes JAPAN)"}],["$","meta","14",{"name":"twitter:description","content":"寿命を迎えた恒星が燃え尽きた「灰」から形成された可能性のある、驚くべき惑星の存在を示す証拠を、天文学者チームが発見した。英ウォーリック大学などの研究チームがNASAのハッブル宇宙望遠鏡（HST）の観測データを用いて成し遂げた今回の発見の中心となるのは、寿命を終えた恒星の高密度の残骸である白色矮星だ。この白色矮星の周りを、極めて珍しい第2世代の惑星が公転している可能性があると、研究チームは考えている。第2世代惑星は、主星が寿命を終える際に放出した物質から形成された惑星だ。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261022-00106928-forbes-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L29","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+18:["$","$1","c",{"children":[null,["$","$L2a",null,{"parallelRouterKey":"children","template":["$","$L2b",null,{}]}]]}]
+1b:["$","$1","c",{"children":[null,["$","$L2a",null,{"parallelRouterKey":"children","template":["$","$L2b",null,{}]}]]}]
+1e:true
+22:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E6%AD%BB%E3%82%93%E3%81%A0%E6%98%9F%E3%81%AE%E7%81%B0%E3%81%8B%E3%82%89%E3%82%82%E3%81%99%E3%82%8B%E5%8F%AF%E8%83%BD%E6%80%A7%E3%80%81NASA%E3%83%8F%E3%83%83%E3%83%96%E3%83%AB%E3%81%8C27%E5%B9%B4%E6%9D%A5%E3%81%AE%E8%AC%8E%E3%82%92%E8%A7%A3%E6%98%8E&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+26:null
+15:300
+15:C
+1d:0
+17:"$undefined"
+19:"$undefined"
+1c:"$undefined"
+14:"$undefined"

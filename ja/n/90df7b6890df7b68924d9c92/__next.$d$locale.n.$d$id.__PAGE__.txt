@@ -1,0 +1,79 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5632/live/6ac13550-cedc-11f1-8507-45cb00a1c41c.png","image"]
+e:X
+13:X
+13:C
+0:{"buildId":"uBkhHRT_aLtDySfUghNoY","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-24","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"イギリス政府、国民に「3日分の備え」呼びかけ 特定の脅威情報への対策ではなく"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"7 時間前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5632/live/6ac13550-cedc-11f1-8507-45cb00a1c41c.png","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"イギリス政府は22日、異常気象や自然災害、サイバー攻撃などの緊急事態に備えるため、国民に3日分の飲料水や缶詰の食料などを備蓄しておくよう呼びかける「Be Ready（準備万端に）」キャンペーンを開始した。イギリスで暴風雨が相次ぎ、サイバーセキュリティー問題でインターネットの多くのサイトが使用停止になるなどの事態のなか、アンディ・バーナム首相は、「不測の事態がますますしょっちゅう起きている」ようだとして、国民に備えを呼びかけた。"}],["$","p","1",{"children":"バーナム首相は23日、「パニックするということではなく、ただ単にもし万が一、厳しい状況になったとしても、しばらくは乗り切れるように、家には必要なだけの物資があるように、賢く対応しておく」ことが重要だとBBCラジオに対して話した。"}],["$","p","2",{"children":"ウェス・ストリーティング国防相は22日、BBC番組「ニューズナイト」で、この勧告は前政権の指針と同様の内容で、何らかの「特定の情報」によって発動されたものではないと強調。全般的な意味での「国としてのレジリエンス（回復力）」の向上が目的だと述べた。"}],["$","p","3",{"children":"政府発表は、人為的な気候変動によって発生頻度が高まっている異常気象に焦点を当てていた。国防相はこれに加えて、企業に対して「ますます高度化するサイバー攻撃」の脅威や、「敵対的な国家主体またはテロリスト」によって引き起こされるサプライチェーンの混乱にも言及した。"}],["$","p","4",{"children":"9月末の労働党大会では、アンジェラ・レイナー住宅担当相が、自分の非常用持ち出し袋にはワイン1本を入れておくと冗談めかして発言していた。"}],["$","p","5",{"children":"レイナー氏は、「マスカラ、コンシーラー、それからソーヴィニヨン・ブランのボトル、ベイクドビーンズの缶詰」を非常用袋に入れると発言。「ベイクドビーンズは必需品だし、美味しいカスタードの缶詰も好きだから、これでしばらくはしのげると思う」と話した。"}],["$","p","6",{"children":"住宅相の意見に賛成かとBBCラジオの司会者に尋ねられたバーナム首相は、「まあ、ちょっとした危機的状況に陥った時に、まずワインを飲むのが最善策かどうかは分からないものの、大変な仕事を終えた後には、おそらく役に立つ」と答えた。"}],["$","p","7",{"children":"「でも、基本的なものを優先しようと思う。自分はベイクトビーンズが好きなので、戸棚にはたくさんある。スープもそうだ。そういうものを、私はお勧めしたい」"}],["$","p","8",{"children":"イギリス会計検査院（NAO）は9月初め、サイバー攻撃の脅威の高まりと気候危機のため、イギリスの食料サプライチェーンは危険にさらされていると警告。食糧・環境・農村地域省が、サプライチェーンの回復力向上のために十分な対策を講じてこなかったと指摘した。"}],["$","p","9",{"children":"温度管理が必要な食品を輸送する企業を代表するコールドチェーン連盟の最高経営責任者は、BBCに対し、イギリスは「食品供給システムに高リスクの個所があることを知っている」ロシアのサイバーハッカーの標的になっていると話した。"}],["$","p","10",{"children":"23日にイングランド北西部リヴァプールで開かれた山火事対策サミットで講演したバーナム首相は、政府が適切な準備を怠ったという見方を否定し、「私たちは、より良く備えるため、色々な人と話し合っている。なぜなら、不測の事態がますますしょっちゅう起きているように思える、そういう世界に生きているので」と話した。"}],["$","p","11",{"children":"「もちろん、気象現象は影響する。イギリスは今、嵐に見舞われており、コーンウォールで停電している方々には心からお見舞い申し上げる」、「そういう時を乗り切るための物資を家に備えておくことが重要なので、だから私たちは、レジリエンスについて話し合っている」と首相は述べた。"}],["$","p","12",{"children":"政府が作成したチェックリストでは、1人当たり9リットルの水（3日分に相当）と、缶詰の肉や野菜、ドライフルーツなどの保存のきく食料を用意することを推奨している。"}],["$","p","13",{"children":"政府はそのほか、電池式または手回し式のFMラジオを用意しておくことを推奨している。国家的な危機が発生した場合、BBCはニュース放送に加え、健康と安全に関する情報放送を優先する。深刻な停電が発生した場合、FMラジオはこれらの最新情報を受け取る最良の方法になる。"}],["$","p","14",{"children":"政府作成のチェックリストには、手指消毒剤、ウェットティッシュ、洗面用具、ペット用の餌、赤ちゃん用品、懐中電灯、毛布、デバイス用の充電済みモバイルバッテリー、決済システムがダウンした場合に備えての現金、救急箱、重要な書類のコピーなども挙げられている。"}],["$","p","15",{"children":"ジェイムズ・マリー財務担当政務次官はBBC番組「ブレックファスト」で、危機に備えて備蓄するという政府の指針にはまだ従っていないと認めた。"}],["$","p","16",{"children":"アイルランド、フランス、オランダなどの近隣諸国も「かなり前から」同様の指示を出しているとしたうえで、「自分はまだそのアドバイスをすべて実践しているとは言えない」と認め、家に備蓄しているのはコーヒーくらいだと話した。"}],["$","p","17",{"children":"同じ番組に出演した最大野党・保守党のケミ・ベイドノック党首は、「いつでも1週間分の食料は備蓄している」と述べた。"}],["$","p","18",{"children":"党首は、保守党政権も緊急事態への備えについて同様の勧告をしていたと述べた上で、「それより私は、私たちが直面しているリスクや、大きな問題に対してどのような対策を講じているのか、政府が説明していないように見えることが心配だ」と付け加えた。"}],"$L3","$L4"],"$L5"]}],"$L6","$L7","$L8",null,"$L9","$La"]}],["$Lb"],"$Lc"]}],"isPartial":"$@d","staleTime":"$e","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$e","varyParams":null},{"rsc":"$L11","isPartial":"$@12","staleTime":"$e","varyParams":"$13"},{"rsc":"$L14","isPartial":"$@15","staleTime":"$e","varyParams":"$13"}],"isUpgradeableISRFallback":false,"a":"$@16","rootVaryParams":null,"needsRuntimeRequest":"$@17"}
+18:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+19:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+1b:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1d:"$Sreact.suspense"
+1f:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+20:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+21:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+22:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+23:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","19",{"children":"「各世帯が備蓄したとしても、国防、サイバー攻撃、ハイブリッド戦争はどうなっているのか？ 国を守るための資金は出ていない」"}]
+4:["$","p","20",{"children":"（英語記事 Burnham suggests stocking up on tinned food and bottled water / Why should I stockpile and what will I need?）"}]
+5:["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]
+6:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/ck86z5ee632eo","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}]
+1a:T1a23,イギリス政府は22日、異常気象や自然災害、サイバー攻撃などの緊急事態に備えるため、国民に3日分の飲料水や缶詰の食料などを備蓄しておくよう呼びかける「Be Ready（準備万端に）」キャンペーンを開始した。イギリスで暴風雨が相次ぎ、サイバーセキュリティー問題でインターネットの多くのサイトが使用停止になるなどの事態のなか、アンディ・バーナム首相は、「不測の事態がますますしょっちゅう起きている」ようだとして、国民に備えを呼びかけた。
+
+バーナム首相は23日、「パニックするということではなく、ただ単にもし万が一、厳しい状況になったとしても、しばらくは乗り切れるように、家には必要なだけの物資があるように、賢く対応しておく」ことが重要だとBBCラジオに対して話した。
+
+ウェス・ストリーティング国防相は22日、BBC番組「ニューズナイト」で、この勧告は前政権の指針と同様の内容で、何らかの「特定の情報」によって発動されたものではないと強調。全般的な意味での「国としてのレジリエンス（回復力）」の向上が目的だと述べた。
+
+政府発表は、人為的な気候変動によって発生頻度が高まっている異常気象に焦点を当てていた。国防相はこれに加えて、企業に対して「ますます高度化するサイバー攻撃」の脅威や、「敵対的な国家主体またはテロリスト」によって引き起こされるサプライチェーンの混乱にも言及した。
+
+9月末の労働党大会では、アンジェラ・レイナー住宅担当相が、自分の非常用持ち出し袋にはワイン1本を入れておくと冗談めかして発言していた。
+
+レイナー氏は、「マスカラ、コンシーラー、それからソーヴィニヨン・ブランのボトル、ベイクドビーンズの缶詰」を非常用袋に入れると発言。「ベイクドビーンズは必需品だし、美味しいカスタードの缶詰も好きだから、これでしばらくはしのげると思う」と話した。
+
+住宅相の意見に賛成かとBBCラジオの司会者に尋ねられたバーナム首相は、「まあ、ちょっとした危機的状況に陥った時に、まずワインを飲むのが最善策かどうかは分からないものの、大変な仕事を終えた後には、おそらく役に立つ」と答えた。
+
+「でも、基本的なものを優先しようと思う。自分はベイクトビーンズが好きなので、戸棚にはたくさんある。スープもそうだ。そういうものを、私はお勧めしたい」
+
+イギリス会計検査院（NAO）は9月初め、サイバー攻撃の脅威の高まりと気候危機のため、イギリスの食料サプライチェーンは危険にさらされていると警告。食糧・環境・農村地域省が、サプライチェーンの回復力向上のために十分な対策を講じてこなかったと指摘した。
+
+温度管理が必要な食品を輸送する企業を代表するコールドチェーン連盟の最高経営責任者は、BBCに対し、イギリスは「食品供給システムに高リスクの個所があることを知っている」ロシアのサイバーハッカーの標的になっていると話した。
+
+23日にイングランド北西部リヴァプールで開かれた山火事対策サミットで講演したバーナム首相は、政府が適切な準備を怠ったという見方を否定し、「私たちは、より良く備えるため、色々な人と話し合っている。なぜなら、不測の事態がますますしょっちゅう起きているように思える、そういう世界に生きているので」と話した。
+
+「もちろん、気象現象は影響する。イギリスは今、嵐に見舞われており、コーンウォールで停電している方々には心からお見舞い申し上げる」、「そういう時を乗り切るための物資を家に備えておくことが重要なので、だから私たちは、レジリエンスについて話し合っている」と首相は述べた。
+
+政府が作成したチェックリストでは、1人当たり9リットルの水（3日分に相当）と、缶詰の肉や野菜、ドライフルーツなどの保存のきく食料を用意することを推奨している。
+
+政府はそのほか、電池式または手回し式のFMラジオを用意しておくことを推奨している。国家的な危機が発生した場合、BBCはニュース放送に加え、健康と安全に関する情報放送を優先する。深刻な停電が発生した場合、FMラジオはこれらの最新情報を受け取る最良の方法になる。
+
+政府作成のチェックリストには、手指消毒剤、ウェットティッシュ、洗面用具、ペット用の餌、赤ちゃん用品、懐中電灯、毛布、デバイス用の充電済みモバイルバッテリー、決済システムがダウンした場合に備えての現金、救急箱、重要な書類のコピーなども挙げられている。
+
+ジェイムズ・マリー財務担当政務次官はBBC番組「ブレックファスト」で、危機に備えて備蓄するという政府の指針にはまだ従っていないと認めた。
+
+アイルランド、フランス、オランダなどの近隣諸国も「かなり前から」同様の指示を出しているとしたうえで、「自分はまだそのアドバイスをすべて実践しているとは言えない」と認め、家に備蓄しているのはコーヒーくらいだと話した。
+
+同じ番組に出演した最大野党・保守党のケミ・ベイドノック党首は、「いつでも1週間分の食料は備蓄している」と述べた。
+
+党首は、保守党政権も緊急事態への備えについて同様の勧告をしていたと述べた上で、「それより私は、私たちが直面しているリスクや、大きな問題に対してどのような対策を講じているのか、政府が説明していないように見えることが心配だ」と付け加えた。
+
+「各世帯が備蓄したとしても、国防、サイバー攻撃、ハイブリッド戦争はどうなっているのか？ 国を守るための資金は出ていない」
+
+（英語記事 Burnham suggests stocking up on tinned food and bottled water / Why should I stockpile and what will I need?）7:["$","section",null,{"className":"article-actions","children":[["$","$L18",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/90df7b6890df7b68924d9c92","title":"イギリス政府、国民に「3日分の備え」呼びかけ 特定の脅威情報への対策ではなく","locale":"ja","take":null}],["$","$L19",null,{"title":"イギリス政府、国民に「3日分の備え」呼びかけ 特定の脅威情報への対策ではなく","excerpt":"$1a","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/90df7b6890df7b68924d9c92","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9%E6%94%BF%E5%BA%9C%E3%80%81%E5%9B%BD%E6%B0%91%E3%81%AB%E5%91%BC%E3%81%B3%E3%81%8B%E3%81%91+%E7%89%B9%E5%AE%9A%E3%81%AE%E8%84%85%E5%A8%81%E6%83%85%E5%A0%B1%E3%81%B8%E3%81%AE%E5%AF%BE%E7%AD%96%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+8:["$","$L1b",null,{"placement":"article","className":"mt-8"}]
+9:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+a:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","euronews:https://euronews.com/video/2026/10/24/watch-french-police-deploy-armoured-vehicles-in-paris-and-marseille",{"children":["$","$L2",null,{"href":"/ja/n/8374541e8374541e40e5e29c","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Euronews"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Watch: French police deploy armoured vehicles in Paris and Marseille"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/6065908b13cf9f6f53b067800d7d06ebb7eca06f?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/e084f668e084f668a174cab2","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"もどかしいアビスパ福岡 残留争いのライバルに完敗 試合後に選手とサポーターが話し合い 12試合連続失点に守備陣再編へ(西スポWEB OTTO!)"}]]}]}],["$","li","yahoo-it:https://news.yahoo.co.jp/articles/4ac352b938ffc5585049c70723218dd8fa504bac?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/cd43a10bcd43a10b8a1a69db","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"英国政府、AI生物安全保障組織を設立 OpenAIとアンソロピックが最大2億ポンド約束(ビジネス＋IT)"}]]}]}]]}]]}]
+b:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+c:["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+f:["$","$1","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L20",null,{"children":["$","$1d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"イギリス政府、国民に「3日分の備え」呼びかけ 特定の脅威情報への対策ではなく"}],["$","meta","1",{"name":"description","content":"イギリス政府は22日、異常気象や自然災害、サイバー攻撃などの緊急事態に備えるため、国民に3日分の飲料水や缶詰の食料などを備蓄しておくよう呼びかける「Be Ready（準備万端に）」キャンペーンを開始した。イギリスで暴風雨が相次ぎ、サイバーセキュリティー問題でインターネットの多くのサイトが使用停止になるなどの事態のなか、アンディ・バーナム首相は、「不測の事態がますますしょっちゅう起きている」ようだとして、国民に備えを呼びかけた。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"イギリス政府、国民に「3日分の備え」呼びかけ 特定の脅威情報への対策ではなく"}],["$","meta","4",{"property":"og:description","content":"イギリス政府は22日、異常気象や自然災害、サイバー攻撃などの緊急事態に備えるため、国民に3日分の飲料水や缶詰の食料などを備蓄しておくよう呼びかける「Be Ready（準備万端に）」キャンペーンを開始した。イギリスで暴風雨が相次ぎ、サイバーセキュリティー問題でインターネットの多くのサイトが使用停止になるなどの事態のなか、アンディ・バーナム首相は、「不測の事態がますますしょっちゅう起きている」ようだとして、国民に備えを呼びかけた。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/90df7b6890df7b68924d9c92/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F5632%2Flive%2F6ac13550-cedc-11f1-8507-45cb00a1c41c.png&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"イギリス政府、国民に「3日分の備え」呼びかけ 特定の脅威情報への対策ではなく"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"イギリス政府、国民に「3日分の備え」呼びかけ 特定の脅威情報への対策ではなく"}],["$","meta","14",{"name":"twitter:description","content":"イギリス政府は22日、異常気象や自然災害、サイバー攻撃などの緊急事態に備えるため、国民に3日分の飲料水や缶詰の食料などを備蓄しておくよう呼びかける「Be Ready（準備万端に）」キャンペーンを開始した。イギリスで暴風雨が相次ぎ、サイバーセキュリティー問題でインターネットの多くのサイトが使用停止になるなどの事態のなか、アンディ・バーナム首相は、「不測の事態がますますしょっちゅう起きている」ようだとして、国民に備えを呼びかけた。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F5632%2Flive%2F6ac13550-cedc-11f1-8507-45cb00a1c41c.png&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L21","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+11:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+14:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+17:true
+1e:null
+e:300
+e:C
+16:0
+10:"$undefined"
+12:"$undefined"
+15:"$undefined"
+d:"$undefined"

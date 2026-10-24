@@ -1,0 +1,89 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261022-00106950-forbes-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","image"]
+12:X
+17:X
+17:C
+0:{"buildId":"uBkhHRT_aLtDySfUghNoY","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-22","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"夜空を泳ぐ幻想的な「宇宙クラゲ」が人々を魅了、米フロリダ州スペースコースト(Forbes JAPAN)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"一昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261022-00106950-forbes-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"先週、米フロリダ州スペースコーストで空を見上げていた人々は、色鮮やかに光り輝く深海クラゲが頭上を漂っているかのような光景を目撃した。"}],["$","p","1",{"children":"この息をのむ光景は、日の出前や日没直後にロケットが打ち上げられた際に、高高度を飛行するロケットの噴煙が地平線下から届く太陽光に明るく照らされて、うねうねと波打つ形をつくり出す視覚現象だ。巨大なその形状がまるで波間を漂う海洋生物を思わせることから「宇宙クラゲ（space jellyfish）」と呼ばれる。"}],["$","p","2",{"children":"米航空宇宙局（NASA）はインスタグラムへの投稿で、「夜空を漂う海の生き物のように見えるものは、実はロケットの排気煙が薄い上層大気と相互作用し、日の出前や日没時の太陽光を反射したものだ」と説明した。"}],["$","p","3",{"children":"今月13日にフロリダ上空で淡くきらめく尾をたなびかせた「宇宙クラゲ」は、国際宇宙ステーション（ISS）へ向かって飛び立ったスペースXのロケット「ファルコン9」によって生み出され、米東部と南東部全域で観測された。"}],["$","p","4",{"children":"この打ち上げはNASAの委託を受けた35回目の商業補給ミッション（CRS-35）で、ISS向けの科学実験機器、物資、装備など約3トンの貨物を積んだ無人宇宙船「ドラゴン」が、米東部時間午前6時33分にケープカナベラル宇宙軍基地40番発射施設から宇宙へと旅立った。ドラゴンは約52時間の飛行を経て15日にISSにドッキング。約1カ月後に帰還してカリフォルニア沖に着水する予定だ。"}],["$","p","5",{"children":"CRS-35ミッションの打ち上げは、科学の進歩に寄与するだけでなく、壮麗な光景も人々に届けた。NASAは打ち上げから数日後、「宇宙クラゲ」をとらえた写真を公開するにあたり「こうした瞬間は、宇宙飛行というものが単なる探査や科学だけにとどまらず、空を見上げるすべての人に畏敬の念を抱かせるものでもあることを思い出させてくれる」と述べた。"}],["$","p","6",{"children":"SNS上での反響は、その光景がどれほどの人々に畏敬の念を抱かせたかを如実に物語っている。フロリダ州セントオーガスティン在住のテオ・ジョーダンは「今まで見た中でも指折りの壮観な眺めだった。すごい！」とXに投稿した。"}],["$","p","7",{"children":"「宇宙クラゲは、目撃できる中で最も美しい光景のひとつだ」とクリストファー・スタンレーは記した。「さらにすばらしいのは、それを支える科学だ」"}],["$","p","8",{"children":"■ファンの多い「宇宙クラゲ」、出現予測サイトも"}],["$","p","9",{"children":"スペースXは20日、小型衛星打ち上げの相乗りミッション「バンドワゴン5」をファルコン9ロケットで実施し、再びフロリダ上空を「宇宙クラゲ」が泳いだ。"}],["$","p","10",{"children":"いつ、どこに「宇宙クラゲ」が出現する可能性があるかを知りたいならば、写真家のジョン・クラウスが作成したウェブサイト「Space Jellyfish Predictor（宇宙クラゲ予測ツール）」が便利だ。観測者とロケット、太陽の位置関係から、ロケットの噴煙が太陽光を反射するか、出現する高度はどのあたりか、周囲の空の明るさに対してどれくらい鮮明に見えるかをモデル上でシミュレーション予測している。"}],["$","p","11",{"children":"このモデルは「バンドワゴン5」ミッションのファルコン9ロケットについても、異世界の生物が空を泳いでいるような幻想的な光景を再び見せてくれる可能性が「非常に高い」と評価していた。"}],["$","p","12",{"children":"先週、米フロリダ州スペースコーストで空を見上げていた人々は、色鮮やかに光り輝く深海クラゲが頭上を漂っているかのような光景を目撃した。"}],["$","p","13",{"children":"この息をのむ光景は、日の出前や日没直後にロケットが打ち上げられた際に、高高度を飛行するロケットの噴煙が地平線下から届く太陽光に明るく照らされて、うねうねと波打つ形をつくり出す視覚現象だ。巨大なその形状がまるで波間を漂う海洋生物を思わせることから「宇宙クラゲ（space jellyfish）」と呼ばれる。"}],["$","p","14",{"children":"米航空宇宙局（NASA）はインスタグラムへの投稿で、「夜空を漂う海の生き物のように見えるものは、実はロケットの排気煙が薄い上層大気と相互作用し、日の出前や日没時の太陽光を反射したものだ」と説明した。"}],["$","p","15",{"children":"今月13日にフロリダ上空で淡くきらめく尾をたなびかせた「宇宙クラゲ」は、国際宇宙ステーション（ISS）へ向かって飛び立ったスペースXのロケット「ファルコン9」によって生み出され、米東部と南東部全域で観測された。"}],["$","p","16",{"children":"この打ち上げはNASAの委託を受けた35回目の商業補給ミッション（CRS-35）で、ISS向けの科学実験機器、物資、装備など約3トンの貨物を積んだ無人宇宙船「ドラゴン」が、米東部時間午前6時33分にケープカナベラル宇宙軍基地40番発射施設から宇宙へと旅立った。ドラゴンは約52時間の飛行を経て15日にISSにドッキング。約1カ月後に帰還してカリフォルニア沖に着水する予定だ。"}],["$","p","17",{"children":"CRS-35ミッションの打ち上げは、科学の進歩に寄与するだけでなく、壮麗な光景も人々に届けた。NASAは打ち上げから数日後、「宇宙クラゲ」をとらえた写真を公開するにあたり「こうした瞬間は、宇宙飛行というものが単なる探査や科学だけにとどまらず、空を見上げるすべての人に畏敬の念を抱かせるものでもあることを思い出させてくれる」と述べた。"}],"$L3","$L4","$L5","$L6","$L7","$L8"],"$L9"]}],"$La","$Lb","$Lc",null,"$Ld","$Le"]}],["$Lf"],"$L10"]}],"isPartial":"$@11","staleTime":"$12","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$12","varyParams":null},{"rsc":"$L15","isPartial":"$@16","staleTime":"$12","varyParams":"$17"},{"rsc":"$L18","isPartial":"$@19","staleTime":"$12","varyParams":"$17"}],"isUpgradeableISRFallback":false,"a":"$@1a","rootVaryParams":null,"needsRuntimeRequest":"$@1b"}
+1c:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+1d:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+1f:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+20:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+21:"$Sreact.suspense"
+23:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+24:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+25:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+26:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+27:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","18",{"children":"SNS上での反響は、その光景がどれほどの人々に畏敬の念を抱かせたかを如実に物語っている。フロリダ州セントオーガスティン在住のテオ・ジョーダンは「今まで見た中でも指折りの壮観な眺めだった。すごい！」とXに投稿した。"}]
+4:["$","p","19",{"children":"「宇宙クラゲは、目撃できる中で最も美しい光景のひとつだ」とクリストファー・スタンレーは記した。「さらにすばらしいのは、それを支える科学だ」"}]
+5:["$","p","20",{"children":"■ファンの多い「宇宙クラゲ」、出現予測サイトも"}]
+6:["$","p","21",{"children":"スペースXは20日、小型衛星打ち上げの相乗りミッション「バンドワゴン5」をファルコン9ロケットで実施し、再びフロリダ上空を「宇宙クラゲ」が泳いだ。"}]
+7:["$","p","22",{"children":"いつ、どこに「宇宙クラゲ」が出現する可能性があるかを知りたいならば、写真家のジョン・クラウスが作成したウェブサイト「Space Jellyfish Predictor（宇宙クラゲ予測ツール）」が便利だ。観測者とロケット、太陽の位置関係から、ロケットの噴煙が太陽光を反射するか、出現する高度はどのあたりか、周囲の空の明るさに対してどれくらい鮮明に見えるかをモデル上でシミュレーション予測している。"}]
+8:["$","p","23",{"children":"このモデルは「バンドワゴン5」ミッションのファルコン9ロケットについても、異世界の生物が空を泳いでいるような幻想的な光景を再び見せてくれる可能性が「非常に高い」と評価していた。"}]
+9:["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]
+a:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/4d4fdfd3f68105a7c22cf361803e98264ea154cf?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}]
+1e:T1dcc,先週、米フロリダ州スペースコーストで空を見上げていた人々は、色鮮やかに光り輝く深海クラゲが頭上を漂っているかのような光景を目撃した。
+
+この息をのむ光景は、日の出前や日没直後にロケットが打ち上げられた際に、高高度を飛行するロケットの噴煙が地平線下から届く太陽光に明るく照らされて、うねうねと波打つ形をつくり出す視覚現象だ。巨大なその形状がまるで波間を漂う海洋生物を思わせることから「宇宙クラゲ（space jellyfish）」と呼ばれる。
+
+米航空宇宙局（NASA）はインスタグラムへの投稿で、「夜空を漂う海の生き物のように見えるものは、実はロケットの排気煙が薄い上層大気と相互作用し、日の出前や日没時の太陽光を反射したものだ」と説明した。
+
+今月13日にフロリダ上空で淡くきらめく尾をたなびかせた「宇宙クラゲ」は、国際宇宙ステーション（ISS）へ向かって飛び立ったスペースXのロケット「ファルコン9」によって生み出され、米東部と南東部全域で観測された。
+
+この打ち上げはNASAの委託を受けた35回目の商業補給ミッション（CRS-35）で、ISS向けの科学実験機器、物資、装備など約3トンの貨物を積んだ無人宇宙船「ドラゴン」が、米東部時間午前6時33分にケープカナベラル宇宙軍基地40番発射施設から宇宙へと旅立った。ドラゴンは約52時間の飛行を経て15日にISSにドッキング。約1カ月後に帰還してカリフォルニア沖に着水する予定だ。
+
+CRS-35ミッションの打ち上げは、科学の進歩に寄与するだけでなく、壮麗な光景も人々に届けた。NASAは打ち上げから数日後、「宇宙クラゲ」をとらえた写真を公開するにあたり「こうした瞬間は、宇宙飛行というものが単なる探査や科学だけにとどまらず、空を見上げるすべての人に畏敬の念を抱かせるものでもあることを思い出させてくれる」と述べた。
+
+SNS上での反響は、その光景がどれほどの人々に畏敬の念を抱かせたかを如実に物語っている。フロリダ州セントオーガスティン在住のテオ・ジョーダンは「今まで見た中でも指折りの壮観な眺めだった。すごい！」とXに投稿した。
+
+「宇宙クラゲは、目撃できる中で最も美しい光景のひとつだ」とクリストファー・スタンレーは記した。「さらにすばらしいのは、それを支える科学だ」
+
+■ファンの多い「宇宙クラゲ」、出現予測サイトも
+
+スペースXは20日、小型衛星打ち上げの相乗りミッション「バンドワゴン5」をファルコン9ロケットで実施し、再びフロリダ上空を「宇宙クラゲ」が泳いだ。
+
+いつ、どこに「宇宙クラゲ」が出現する可能性があるかを知りたいならば、写真家のジョン・クラウスが作成したウェブサイト「Space Jellyfish Predictor（宇宙クラゲ予測ツール）」が便利だ。観測者とロケット、太陽の位置関係から、ロケットの噴煙が太陽光を反射するか、出現する高度はどのあたりか、周囲の空の明るさに対してどれくらい鮮明に見えるかをモデル上でシミュレーション予測している。
+
+このモデルは「バンドワゴン5」ミッションのファルコン9ロケットについても、異世界の生物が空を泳いでいるような幻想的な光景を再び見せてくれる可能性が「非常に高い」と評価していた。
+
+先週、米フロリダ州スペースコーストで空を見上げていた人々は、色鮮やかに光り輝く深海クラゲが頭上を漂っているかのような光景を目撃した。
+
+この息をのむ光景は、日の出前や日没直後にロケットが打ち上げられた際に、高高度を飛行するロケットの噴煙が地平線下から届く太陽光に明るく照らされて、うねうねと波打つ形をつくり出す視覚現象だ。巨大なその形状がまるで波間を漂う海洋生物を思わせることから「宇宙クラゲ（space jellyfish）」と呼ばれる。
+
+米航空宇宙局（NASA）はインスタグラムへの投稿で、「夜空を漂う海の生き物のように見えるものは、実はロケットの排気煙が薄い上層大気と相互作用し、日の出前や日没時の太陽光を反射したものだ」と説明した。
+
+今月13日にフロリダ上空で淡くきらめく尾をたなびかせた「宇宙クラゲ」は、国際宇宙ステーション（ISS）へ向かって飛び立ったスペースXのロケット「ファルコン9」によって生み出され、米東部と南東部全域で観測された。
+
+この打ち上げはNASAの委託を受けた35回目の商業補給ミッション（CRS-35）で、ISS向けの科学実験機器、物資、装備など約3トンの貨物を積んだ無人宇宙船「ドラゴン」が、米東部時間午前6時33分にケープカナベラル宇宙軍基地40番発射施設から宇宙へと旅立った。ドラゴンは約52時間の飛行を経て15日にISSにドッキング。約1カ月後に帰還してカリフォルニア沖に着水する予定だ。
+
+CRS-35ミッションの打ち上げは、科学の進歩に寄与するだけでなく、壮麗な光景も人々に届けた。NASAは打ち上げから数日後、「宇宙クラゲ」をとらえた写真を公開するにあたり「こうした瞬間は、宇宙飛行というものが単なる探査や科学だけにとどまらず、空を見上げるすべての人に畏敬の念を抱かせるものでもあることを思い出させてくれる」と述べた。
+
+SNS上での反響は、その光景がどれほどの人々に畏敬の念を抱かせたかを如実に物語っている。フロリダ州セントオーガスティン在住のテオ・ジョーダンは「今まで見た中でも指折りの壮観な眺めだった。すごい！」とXに投稿した。
+
+「宇宙クラゲは、目撃できる中で最も美しい光景のひとつだ」とクリストファー・スタンレーは記した。「さらにすばらしいのは、それを支える科学だ」
+
+■ファンの多い「宇宙クラゲ」、出現予測サイトも
+
+スペースXは20日、小型衛星打ち上げの相乗りミッション「バンドワゴン5」をファルコン9ロケットで実施し、再びフロリダ上空を「宇宙クラゲ」が泳いだ。
+
+いつ、どこに「宇宙クラゲ」が出現する可能性があるかを知りたいならば、写真家のジョン・クラウスが作成したウェブサイト「Space Jellyfish Predictor（宇宙クラゲ予測ツール）」が便利だ。観測者とロケット、太陽の位置関係から、ロケットの噴煙が太陽光を反射するか、出現する高度はどのあたりか、周囲の空の明るさに対してどれくらい鮮明に見えるかをモデル上でシミュレーション予測している。
+
+このモデルは「バンドワゴン5」ミッションのファルコン9ロケットについても、異世界の生物が空を泳いでいるような幻想的な光景を再び見せてくれる可能性が「非常に高い」と評価していた。b:["$","section",null,{"className":"article-actions","children":[["$","$L1c",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/3d2e06373d2e0637c8f13a4f","title":"夜空を泳ぐ幻想的な「宇宙クラゲ」が人々を魅了、米フロリダ州スペースコースト(Forbes JAPAN)","locale":"ja","take":null}],["$","$L1d",null,{"title":"夜空を泳ぐ幻想的な「宇宙クラゲ」が人々を魅了、米フロリダ州スペースコースト(Forbes JAPAN)","excerpt":"$1e","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/3d2e06373d2e0637c8f13a4f","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E5%A4%9C%E7%A9%BA%E3%82%92%E6%B3%B3%E3%81%90%E5%B9%BB%E6%83%B3%E7%9A%84%E3%81%AA%E3%81%8C%E4%BA%BA%E3%80%85%E3%82%92%E9%AD%85%E4%BA%86%E3%80%81%E7%B1%B3%E3%83%95%E3%83%AD%E3%83%AA%E3%83%80%E5%B7%9E%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%88&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+c:["$","$L1f",null,{"placement":"article","className":"mt-8"}]
+d:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+e:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","nhk-world:https://news.web.nhk/newsweb/na/nd-20261022de63386",{"children":["$","$L2",null,{"href":"/ja/n/0d17dbf00d17dbf0b01de0aa","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"サウジアラビア東部で攻撃相次ぎ3人死亡 米国務省は退避命令"}]]}]}],["$","li","nhk-sports:https://news.web.nhk/newsweb/na/nd-20261022de63890",{"children":["$","$L2",null,{"href":"/ja/n/5dba825d5dba825db89f429d","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"ドラフト 巨人“史上最年少14歳”の中学3年生を育成5位で指名"}]]}]}],["$","li","guardian-biz:https://theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",{"children":["$","$L2",null,{"href":"/ja/n/01d73a6f01d73a6f329fd0af","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"The Guardian"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Barclays to cut 5,000 jobs as bank’s bosses hail AI productivity advances"}]]}]}]]}]]}]
+f:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+10:["$","$L20",null,{"children":["$","$21",null,{"name":"Next.MetadataOutlet","children":"$@22"}]}]
+13:["$","$1","h",{"children":[null,["$","$L23",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L24",null,{"children":["$","$21",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"夜空を泳ぐ幻想的な「宇宙クラゲ」が人々を魅了、米フロリダ州スペースコースト(Forbes JAPAN)"}],["$","meta","1",{"name":"description","content":"先週、米フロリダ州スペースコーストで空を見上げていた人々は、色鮮やかに光り輝く深海クラゲが頭上を漂っているかのような光景を目撃した。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"夜空を泳ぐ幻想的な「宇宙クラゲ」が人々を魅了、米フロリダ州スペースコースト(Forbes JAPAN)"}],["$","meta","4",{"property":"og:description","content":"先週、米フロリダ州スペースコーストで空を見上げていた人々は、色鮮やかに光り輝く深海クラゲが頭上を漂っているかのような光景を目撃した。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/3d2e06373d2e0637c8f13a4f/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261022-00106950-forbes-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"夜空を泳ぐ幻想的な「宇宙クラゲ」が人々を魅了、米フロリダ州スペースコースト(Forbes JAPAN)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"夜空を泳ぐ幻想的な「宇宙クラゲ」が人々を魅了、米フロリダ州スペースコースト(Forbes JAPAN)"}],["$","meta","14",{"name":"twitter:description","content":"先週、米フロリダ州スペースコーストで空を見上げていた人々は、色鮮やかに光り輝く深海クラゲが頭上を漂っているかのような光景を目撃した。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261022-00106950-forbes-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L25","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:["$","$1","c",{"children":[null,["$","$L26",null,{"parallelRouterKey":"children","template":["$","$L27",null,{}]}]]}]
+18:["$","$1","c",{"children":[null,["$","$L26",null,{"parallelRouterKey":"children","template":["$","$L27",null,{}]}]]}]
+1b:true
+22:null
+12:300
+12:C
+1a:0
+14:"$undefined"
+16:"$undefined"
+19:"$undefined"
+11:"$undefined"

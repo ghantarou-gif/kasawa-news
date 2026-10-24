@@ -1,0 +1,71 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d9bb/live/35523df0-ce6f-11f1-a64c-550be9e3c66b.jpg","image"]
+5:Tb20,People can be seen running out of a yellow building at night.
+
+中国チベットの山岳地帯で22日、マグニチュード（M）7.0の地震が発生し、少なくとも16人が死亡、65人が負傷した。中国国営メディアが報じた。
+
+新華社通信が現地の緊急管理当局の説明として伝えたところでは、地震はこの日の夜、ナクチュ地区のバチェン県で発生した。
+
+同県は、中国が1950年代の併合以降「チベット自治区」と呼んでいる地域の、区都ラサから北東に約400キロメートルの距離にある。
+
+米地質調査所（USGS）は、震源地の近くで7回の揺れを観測した。最大規模の揺れはM5.2で、震源の深さは10キロだった。
+
+中国国営メディアは23日朝、最初の地震発生以来、400回以上の揺れが観測されたと伝えた。
+
+Two people in high-vis and hard hats are silhouetted against their own flashlights as they search through rubble.
+
+現地メディアによると、被災地では民家339軒が倒壊した。停電も発生しているという。
+
+避難などで自宅から移動した人は1万2400人を超えるという。
+
+落石により道路が閉鎖されており、救助隊員らが被災した高原地帯に到達するのが困難になっている。
+
+チベットのチャムドとニンティの両市でも強い揺れが感じられた。
+
+負傷した住民を救助する消防隊員（チベット・バチェン県）
+
+夜間、消防服を着てヘルメットをかぶった人たち数人が立っている。近くに住民らしき人たちもいる
+
+ソーシャルメディアに投稿された動画には、建物が激しく揺れ、住民らが暗闇の中で通りに飛び出す様子が映っている。これらの動画は、実際の状況を撮影したものなのか、独立した検証はされていない。
+
+2023年には、近隣の山岳地帯の甘粛省でM6.2の地震が発生し、120人以上が死亡した。
+
+チベットとネパールは2カ月ほど前、氷河の崩壊で引き起こされた大規模な洪水と土石流によって、少なくとも1400人が死亡する大災害に見舞われたばかり。この災害では依然、多くの人が行方不明となっている。
+
+長年にわたってより大きな自治権を求めているチベットは、中国で最も厳しく統制されている地域の一つ。
+
+外国メディアはこの地域への立ち入りを制限され、当局によって情報が厳しく検閲されている。そのため、こうした災害が発生した際は、中国国営メディアが、最新情報や詳細の主な情報源となる。
+
+（英語記事 Powerful earthquake hits Tibet killing 16 people, reports say／Live Reporting）d:X
+12:X
+12:C
+0:{"buildId":"uBkhHRT_aLtDySfUghNoY","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-23","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"中国チベットでM7.0の地震、少なくとも16人死亡＝現地報道"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d9bb/live/35523df0-ce6f-11f1-a64c-550be9e3c66b.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"People can be seen running out of a yellow building at night."}],["$","p","1",{"children":"中国チベットの山岳地帯で22日、マグニチュード（M）7.0の地震が発生し、少なくとも16人が死亡、65人が負傷した。中国国営メディアが報じた。"}],["$","p","2",{"children":"新華社通信が現地の緊急管理当局の説明として伝えたところでは、地震はこの日の夜、ナクチュ地区のバチェン県で発生した。"}],["$","p","3",{"children":"同県は、中国が1950年代の併合以降「チベット自治区」と呼んでいる地域の、区都ラサから北東に約400キロメートルの距離にある。"}],["$","p","4",{"children":"米地質調査所（USGS）は、震源地の近くで7回の揺れを観測した。最大規模の揺れはM5.2で、震源の深さは10キロだった。"}],["$","p","5",{"children":"中国国営メディアは23日朝、最初の地震発生以来、400回以上の揺れが観測されたと伝えた。"}],["$","p","6",{"children":"Two people in high-vis and hard hats are silhouetted against their own flashlights as they search through rubble."}],["$","p","7",{"children":"現地メディアによると、被災地では民家339軒が倒壊した。停電も発生しているという。"}],["$","p","8",{"children":"避難などで自宅から移動した人は1万2400人を超えるという。"}],["$","p","9",{"children":"落石により道路が閉鎖されており、救助隊員らが被災した高原地帯に到達するのが困難になっている。"}],["$","p","10",{"children":"チベットのチャムドとニンティの両市でも強い揺れが感じられた。"}],["$","p","11",{"children":"負傷した住民を救助する消防隊員（チベット・バチェン県）"}],["$","p","12",{"children":"夜間、消防服を着てヘルメットをかぶった人たち数人が立っている。近くに住民らしき人たちもいる"}],["$","p","13",{"children":"ソーシャルメディアに投稿された動画には、建物が激しく揺れ、住民らが暗闇の中で通りに飛び出す様子が映っている。これらの動画は、実際の状況を撮影したものなのか、独立した検証はされていない。"}],["$","p","14",{"children":"2023年には、近隣の山岳地帯の甘粛省でM6.2の地震が発生し、120人以上が死亡した。"}],["$","p","15",{"children":"チベットとネパールは2カ月ほど前、氷河の崩壊で引き起こされた大規模な洪水と土石流によって、少なくとも1400人が死亡する大災害に見舞われたばかり。この災害では依然、多くの人が行方不明となっている。"}],["$","p","16",{"children":"長年にわたってより大きな自治権を求めているチベットは、中国で最も厳しく統制されている地域の一つ。"}],["$","p","17",{"children":"外国メディアはこの地域への立ち入りを制限され、当局によって情報が厳しく検閲されている。そのため、こうした災害が発生した際は、中国国営メディアが、最新情報や詳細の主な情報源となる。"}],["$","p","18",{"children":"（英語記事 Powerful earthquake hits Tibet killing 16 people, reports say／Live Reporting）"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/c9gkvey4x0mgo","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/fc552fa5fc552fa548cfc615","title":"中国チベットでM7.0の地震、少なくとも16人死亡＝現地報道","locale":"ja","take":null}],["$","$L4",null,{"title":"中国チベットでM7.0の地震、少なくとも16人死亡＝現地報道","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/fc552fa5fc552fa548cfc615","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E4%B8%AD%E5%9B%BD%E3%83%81%E3%83%99%E3%83%83%E3%83%88%E3%81%A7M7.0%E3%81%AE%E5%9C%B0%E9%9C%87%E3%80%81%E5%B0%91%E3%81%AA%E3%81%8F%E3%81%A8%E3%82%8216%E4%BA%BA%E6%AD%BB%E4%BA%A1%EF%BC%9D%E7%8F%BE%E5%9C%B0%E5%A0%B1%E9%81%93&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-us:https://bbc.co.uk/news/articles/c6ly0dg453v8o",{"children":["$","$L2",null,{"href":"/ja/n/e3b248fae3b248fa6eb002cc","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"US justice department investigating Corey Lewandowski over DHS role"}]]}]}],["$","li","bbc-health:https://bbc.co.uk/news/articles/cm5yez87qwvdo",{"children":["$","$L2",null,{"href":"/ja/n/b2700f73b2700f73df0aba83","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"I thought I was dying but it was health anxiety - here's how to recognise the signs"}]]}]}],["$","li","nhk-politics:https://news.web.nhk/newsweb/na/nd-20261023de64536",{"children":["$","$L2",null,{"href":"/ja/n/20a774d420a774d45092ddac","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"福岡県議会 元副議長が就任前に藏内氏に500万円手渡したと証言"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"中国チベットでM7.0の地震、少なくとも16人死亡＝現地報道"}],["$","meta","1",{"name":"description","content":"People can be seen running out of a yellow building at night."}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"中国チベットでM7.0の地震、少なくとも16人死亡＝現地報道"}],["$","meta","4",{"property":"og:description","content":"People can be seen running out of a yellow building at night."}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/fc552fa5fc552fa548cfc615/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fd9bb%2Flive%2F35523df0-ce6f-11f1-a64c-550be9e3c66b.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"中国チベットでM7.0の地震、少なくとも16人死亡＝現地報道"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"中国チベットでM7.0の地震、少なくとも16人死亡＝現地報道"}],["$","meta","14",{"name":"twitter:description","content":"People can be seen running out of a yellow building at night."}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fd9bb%2Flive%2F35523df0-ce6f-11f1-a64c-550be9e3c66b.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

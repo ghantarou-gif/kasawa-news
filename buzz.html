@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>バズポスト生成エージェント</title>
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+:root {
+  --bg: #0f1117; --bg2: #1a1d27; --bg3: #22263a;
+  --border: rgba(255,255,255,0.08); --border2: rgba(255,255,255,0.15);
+  --text: #e8eaf6; --text2: #9ba3c7; --text3: #5a6390;
+  --accent: #7c6ffa; --accent2: #a78bfa;
+  --green: #22d3a0; --red: #f87171; --amber: #fbbf24; --pink: #f472b6;
+}
+body { font-family: -apple-system, "Helvetica Neue", sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; display: flex; flex-direction: column; }
+header { padding: 16px 24px; border-bottom: 1px solid var(--border); display: flex; align-items: center; gap: 12px; background: var(--bg2); }
+.logo { width: 34px; height: 34px; background: linear-gradient(135deg, var(--accent), var(--pink)); border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 17px; flex-shrink: 0; }
+header h1 { font-size: 16px; font-weight: 600; }
+header p { font-size: 11px; color: var(--text3); margin-top: 1px; }
+.back { margin-left: auto; color: var(--text2); font-size: 12px; text-decoration: none; }
+.back:hover { color: var(--accent2); }
+.main { flex: 1; display: grid; grid-template-columns: 300px 1fr; height: calc(100vh - 61px); overflow: hidden; position: relative; }
+.left-panel { border-right: 1px solid var(--border); display: flex; flex-direction: column; overflow-y: auto; background: var(--bg2); }
+.section { padding: 16px; border-bottom: 1px solid var(--border); }
+.section-label { font-size: 10px; font-weight: 600; letter-spacing: 1.2px; color: var(--text3); text-transform: uppercase; margin-bottom: 10px; }
+label.fl { font-size: 11px; color: var(--text2); font-weight: 500; display: block; margin-bottom: 4px; }
+textarea, select { width: 100%; background: var(--bg3); border: 1px solid var(--border2); border-radius: 8px; color: var(--text); font-size: 13px; padding: 8px 10px; outline: none; font-family: inherit; }
+textarea:focus, select:focus { border-color: var(--accent); }
+.count-row { display: flex; gap: 6px; }
+.count-btn { flex: 1; padding: 6px 4px; background: var(--bg3); border: 1px solid var(--border); border-radius: 7px; color: var(--text2); font-size: 12px; cursor: pointer; text-align: center; transition: all 0.15s; }
+.count-btn:hover { border-color: var(--accent); color: var(--accent2); }
+.count-btn.active { background: rgba(124,111,250,0.15); border-color: var(--accent); color: var(--accent2); font-weight: 600; }
+.style-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 5px; }
+.style-chip { padding: 6px 8px; border-radius: 7px; background: var(--bg3); border: 1px solid var(--border); color: var(--text2); font-size: 11px; cursor: pointer; transition: all 0.15s; text-align: center; }
+.style-chip.active { background: rgba(124,111,250,0.12); border-color: var(--accent); color: var(--accent2); font-weight: 500; }
+.btn-primary { width: 100%; padding: 12px; background: linear-gradient(135deg, var(--accent), #9b59f9); border: none; border-radius: 10px; color: #fff; font-size: 13px; font-weight: 600; cursor: pointer; transition: all 0.2s; }
+.btn-primary:hover { transform: translateY(-1px); box-shadow: 0 4px 16px rgba(124,111,250,0.4); }
+.btn-amber { width: 100%; padding: 9px; background: rgba(251,191,36,0.1); border: 1px solid rgba(251,191,36,0.3); border-radius: 8px; color: var(--amber); font-size: 12px; font-weight: 600; cursor: pointer; transition: all 0.15s; margin-top: 6px; }
+.btn-amber:hover { background: rgba(251,191,36,0.18); }
+.right-panel { display: flex; flex-direction: column; overflow: hidden; }
+.right-top { padding: 12px 16px; border-bottom: 1px solid var(--border); display: flex; align-items: center; gap: 10px; background: var(--bg2); flex-shrink: 0; }
+.badge { background: rgba(124,111,250,0.15); color: var(--accent2); font-size: 11px; font-weight: 600; padding: 3px 9px; border-radius: 20px; border: 1px solid rgba(124,111,250,0.2); }
+.right-actions { margin-left: auto; display: flex; gap: 6px; flex-wrap: wrap; justify-content: flex-end; }
+.action-btn { padding: 5px 12px; border-radius: 7px; font-size: 11px; font-weight: 500; cursor: pointer; border: 1px solid var(--border2); background: transparent; color: var(--text2); transition: all 0.15s; }
+.action-btn:hover { background: var(--bg3); color: var(--text); }
+.action-btn.red { border-color: rgba(248,113,113,0.4); color: var(--red); }
+.action-btn.red:hover { background: rgba(248,113,113,0.08); }
+.action-btn.green { border-color: rgba(34,211,160,0.4); color: var(--green); }
+.action-btn.green:hover { background: rgba(34,211,160,0.08); }
+.overlay { position: absolute; inset: 0; background: rgba(0,0,0,0.72); display: none; align-items: center; justify-content: center; z-index: 50; }
+.modal { background: var(--bg2); border: 1px solid var(--border2); border-radius: 16px; width: 600px; max-width: 94vw; max-height: 88vh; overflow-y: auto; padding: 24px; display: flex; flex-direction: column; gap: 14px; }
+.modal h2 { font-size: 15px; font-weight: 600; }
+.modal p { font-size: 13px; color: var(--text2); line-height: 1.6; }
+.step-badge { display: inline-block; background: rgba(124,111,250,0.2); color: var(--accent2); font-size: 10px; font-weight: 700; padding: 2px 8px; border-radius: 4px; letter-spacing: 0.5px; }
+.paste-area { width: 100%; background: var(--bg3); border: 1px solid var(--border2); border-radius: 9px; color: var(--text); font-size: 12px; padding: 12px; outline: none; resize: vertical; min-height: 110px; font-family: monospace; line-height: 1.6; }
+.paste-area:focus { border-color: var(--accent); }
+.modal-row { display: flex; gap: 8px; }
+.btn-modal { flex: 1; padding: 11px; background: linear-gradient(135deg, var(--accent), #9b59f9); border: none; border-radius: 9px; color: #fff; font-size: 13px; font-weight: 600; cursor: pointer; }
+.btn-cancel { padding: 11px 18px; background: transparent; border: 1px solid var(--border2); border-radius: 9px; color: var(--text2); font-size: 13px; cursor: pointer; }
+.copy-btn { padding: 6px 14px; background: var(--bg3); border: 1px solid var(--border2); border-radius: 7px; color: var(--text2); font-size: 12px; cursor: pointer; transition: all 0.15s; }
+.copy-btn:hover { border-color: var(--accent); color: var(--accent2); }
+.copy-btn.done { border-color: var(--green); color: var(--green); }
+.divider { border: none; border-top: 1px solid var(--border); }
+.posts-container { flex: 1; overflow-y: auto; padding: 16px; }
+.posts-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr)); gap: 12px; }
+.post-card { background: var(--bg2); border: 1px solid var(--border); border-radius: 11px; padding: 14px; transition: all 0.15s; cursor: pointer; }
+.post-card:hover { border-color: var(--border2); background: var(--bg3); }
+.post-card.selected { border-color: var(--accent); background: rgba(124,111,250,0.05); }
+.post-header { display: flex; align-items: center; gap: 7px; margin-bottom: 9px; }
+.post-num { font-size: 10px; font-weight: 700; color: var(--text3); }
+.post-tag { font-size: 10px; padding: 2px 6px; border-radius: 4px; font-weight: 600; }
+.tag-breaking { background: rgba(248,113,113,0.12); color: var(--red); }
+.tag-analysis { background: rgba(124,111,250,0.12); color: var(--accent2); }
+.tag-opinion { background: rgba(251,191,36,0.12); color: var(--amber); }
+.tag-hook { background: rgba(244,114,182,0.12); color: var(--pink); }
+.post-body { font-size: 13px; line-height: 1.7; color: var(--text); white-space: pre-wrap; word-break: break-word; }
+.post-footer { margin-top: 10px; display: flex; align-items: center; gap: 8px; }
+.char-count { font-size: 11px; color: var(--text3); }
+.char-count.warn { color: var(--amber); }
+.char-count.over { color: var(--red); }
+.post-actions { margin-left: auto; display: flex; gap: 5px; }
+.icon-btn { height: 26px; border-radius: 6px; border: 1px solid var(--border); background: transparent; color: var(--text3); cursor: pointer; font-size: 11px; display: flex; align-items: center; justify-content: center; transition: all 0.15s; padding: 0 7px; }
+.icon-btn:hover { background: var(--bg3); color: var(--text2); }
+.icon-btn.x { color: var(--text); border-color: rgba(255,255,255,0.25); font-weight: 700; }
+.icon-btn.liked { color: var(--pink); border-color: rgba(244,114,182,0.3); }
+.empty-state { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; color: var(--text3); gap: 10px; padding: 40px; text-align: center; }
+.empty-icon { font-size: 40px; opacity: 0.3; }
+.empty-title { font-size: 15px; font-weight: 500; color: var(--text2); }
+.empty-sub { font-size: 12px; line-height: 1.6; }
+.log-bar { padding: 7px 16px; border-top: 1px solid var(--border); font-size: 11px; color: var(--text3); display: flex; align-items: center; gap: 6px; background: var(--bg); flex-shrink: 0; }
+.toast { position: fixed; bottom: 20px; right: 20px; background: var(--bg3); border: 1px solid var(--border2); border-radius: 9px; padding: 10px 16px; font-size: 12px; color: var(--text); display: none; z-index: 200; }
+::-webkit-scrollbar { width: 4px; } ::-webkit-scrollbar-track { background: transparent; } ::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 2px; }
+@media (max-width: 800px) {
+  .main { grid-template-columns: 1fr; height: auto; overflow: visible; }
+  .left-panel { border-right: 0; border-bottom: 1px solid var(--border); }
+  .right-panel { min-height: 70vh; }
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="logo">⚡</div>
+  <div>
+    <h1>バズポスト生成エージェント</h1>
+    <p>構文ストック × 記事の見出し。投稿は自分のXから。</p>
+  </div>
+  <a class="back" href="/ja">ニュースへ</a>
+</header>
+<div class="main">
+  <div class="left-panel">
+    <div class="section">
+      <div class="section-label">テーマ / リライト元文</div>
+      <label class="fl">キーワードまたはリライト元文</label>
+      <textarea id="inputText" rows="6" placeholder="キーワード例：日銀 円安 物価高騰&#10;&#10;― リライト時 ―&#10;リライトしたい文をそのまま貼り付ける"></textarea>
+      <button class="btn-amber" onclick="openModal('rewrite')">✏️ リライト生成</button>
+    </div>
+    <div class="section">
+      <div class="section-label">生成設定</div>
+      <div style="display:flex;flex-direction:column;gap:10px;">
+        <div>
+          <label class="fl">生成本数</label>
+          <div class="count-row">
+            <div class="count-btn" onclick="setCount(20,this)">20本</div>
+            <div class="count-btn active" onclick="setCount(50,this)">50本</div>
+            <div class="count-btn" onclick="setCount(80,this)">80本</div>
+            <div class="count-btn" onclick="setCount(100,this)">100本</div>
+          </div>
+        </div>
+        <div>
+          <label class="fl">ポストスタイル（18種）</label>
+          <div class="style-grid" id="styleGrid"></div>
+        </div>
+      </div>
+    </div>
+    <div style="padding:12px 16px 16px;">
+      <button class="btn-primary" onclick="openModal('generate')">⚡ バズポスト一括生成</button>
+    </div>
+  </div>
+  <div class="right-panel">
+    <div class="right-top">
+      <span style="font-size:13px;font-weight:600;">生成結果</span>
+      <span class="badge" id="postCountBadge">0 件</span>
+      <div class="right-actions">
+        <button class="action-btn" onclick="selectAll()">全選択</button>
+        <button class="action-btn" onclick="copySelected()">選択コピー</button>
+        <button class="action-btn" onclick="postSelected()">選択をXで開く</button>
+        <button class="action-btn" onclick="openGrokModal()">🤖 Grok出力</button>
+        <button class="action-btn red" onclick="clearAll()">🗑 クリア</button>
+        <button class="action-btn green" onclick="exportAll()">📥 エクスポート</button>
+      </div>
+    </div>
+    <div id="emptyWrap" class="empty-state">
+      <div class="empty-icon">⚡</div>
+      <div class="empty-title">生成待機中</div>
+      <div class="empty-sub">記事の「構文で整える」から開くと見出しが入ります。<br>① プロンプトをコピーしてClaudeで生成<br>② JSONをここにインポート<br>③ カードの「X」で投稿画面を開く</div>
+    </div>
+    <div class="posts-container" id="postsWrap" style="display:none;">
+      <div class="posts-grid" id="postsGrid"></div>
+    </div>
+    <div class="log-bar"><span id="logText">準備完了</span></div>
+  </div>
+  <div class="overlay" id="overlay"><div class="modal" id="modal"></div></div>
+</div>
+<div class="toast" id="toast"></div>
+<script>
+let postCount = 50;
+const STYLE_LIST = ['夏樹(数字砲弾)','夏樹(構造告発)','夏樹(速報矢印)','夏樹(感情崩壊)','夏樹(問いかけ)','夏樹(夢語り)','夏樹(感動泣ける)','夏樹(余白ポエム)','夏樹(絵文字ガン盛り)','梅津(速報告発)','マスオ(庶民怒り)','マスオ(比較ツッコミ)','マスオ(深夜独白)','ゆるふわ怪電波','あーぁ(議論まとめ)','あーぁ(時系列)','あーぁ(問いかけ)','ガレソ(炎上まとめ)'];
+const STYLE_LABEL = {
+  '夏樹(数字砲弾)':'🔥 数字砲弾','夏樹(構造告発)':'👹 構造告発','夏樹(速報矢印)':'↓↓ 速報矢印','夏樹(感情崩壊)':'🤬 感情崩壊','夏樹(問いかけ)':'❓ 問いかけ','夏樹(夢語り)':'💭 夢語り','夏樹(感動泣ける)':'😭 感動泣ける','夏樹(余白ポエム)':'🌙 余白ポエム','夏樹(絵文字ガン盛り)':'🚨 絵文字ガン盛り','梅津(速報告発)':'🔻 速報告発','マスオ(庶民怒り)':'💴 庶民怒り','マスオ(比較ツッコミ)':'⚖️ 比較ツッコミ','マスオ(深夜独白)':'🌃 深夜独白','ゆるふわ怪電波':'💀 怪電波','あーぁ(議論まとめ)':'📌 議論まとめ','あーぁ(時系列)':'📅 時系列','あーぁ(問いかけ)':'🤔 問いかけ','ガレソ(炎上まとめ)':'🔥 炎上まとめ'
+};
+let selectedStyles = STYLE_LIST.slice();
+let generatedPosts = [];
+let selectedPostIds = new Set();
+let articleUrl = '';
+
+STYLE_LIST.forEach(function(name){
+  var el = document.createElement('div');
+  el.className = 'style-chip active';
+  el.textContent = STYLE_LABEL[name] || name;
+  el.onclick = function(){ toggleStyle(el, name); };
+  document.getElementById('styleGrid').appendChild(el);
+});
+
+function setCount(n, el) {
+  postCount = n;
+  document.querySelectorAll('.count-btn').forEach(function(b){ b.classList.remove('active'); });
+  el.classList.add('active');
+}
+function toggleStyle(el, s) {
+  el.classList.toggle('active');
+  selectedStyles = el.classList.contains('active') ? selectedStyles.concat([s]) : selectedStyles.filter(function(x){ return x !== s; });
+}
+function showToast(msg) {
+  var t = document.getElementById('toast');
+  t.textContent = msg; t.style.display = 'block';
+  setTimeout(function(){ t.style.display = 'none'; }, 2500);
+}
+function setLog(msg) { document.getElementById('logText').textContent = msg; }
+
+const STYLE_DEFS = `1. 夏樹(数字砲弾): 数字3つ以上で常識を破壊。「これが日本の現実‼️」で締め。絵文字5個以上🔥😱‼️💢📉
+2. 夏樹(構造告発): 「つまりこう言ってる→」で権力者の発言を皮肉翻訳。‼️👹💢🚨
+3. 夏樹(速報矢印): ↓↓↓で展開。時系列で悪化→皮肉オチ。スクショ前提
+4. 夏樹(感情崩壊): 途中まで冷静→「うがががぎぐぎが😡🤬👹‼️」で感情爆発。絵文字8個以上
+5. 夏樹(問いかけ): 「〜の皆様へ。生活は豊かになりましたか？」短く刺す。絵文字なし
+6. 夏樹(夢語り): 「そんな国にしなきゃダメだし本当はなれるはず」理想→現実の落差
+7. 夏樹(感動泣ける): 「これ見て泣いた。」行間空け余韻。🥺😭✨
+8. 夏樹(余白ポエム): 1行書いて2行空け。10文字以内。体言止め。絵文字ゼロ。最後で刺す
+9. 夏樹(絵文字ガン盛り): 🚨🚨🚨で始まり🔥🔥🔥で終わる。全行に絵文字3個以上
+10. 梅津(速報告発): 🔻+事実+感情絵文字😨😡🤬の繰り返し→怒りの一言💢
+11. マスオ(庶民怒り): 庶民目線告発。具体金額+箇条書き→「これが日本のリアル。」「そりゃ金なくなるよ!!!!」絵文字なし
+12. マスオ(比較ツッコミ): 「〜には○○なのに、〜には△△」矛盾を並べて「おかしくない？」絵文字なし
+13. マスオ(深夜独白): 「夜中にふと思った」本音。結論出さない。「…わかんないけどさ。」絵文字ゼロ
+14. ゆるふわ怪電波: 「想像の100倍でダメ💀」ニュース+脱力一言。自虐オチ
+15. あーぁ(議論まとめ): 【物議】🔥→「〜派」vs「〜派」→←ｲﾏｺｺ📌 答え出さない
+16. あーぁ(時系列): 【経緯まとめ】→時系列で事実→「で、今ここ→」感情入れない
+17. あーぁ(問いかけ): 事実1〜2行→「これってどう思う？🤔」意見言わない
+18. ガレソ(炎上まとめ): 【悲報】①②③④で経緯整理。淡々と。「続報あり次第追記します」`;
+
+const TECHNIQUES = `【伝え方が9割 — 10の武器（1ポストに2〜3個まで。全部入りは逆効果。武器は選んで絞れ）】
+
+ギャップ法: A事実とB事実の落差で殴る。「〇〇に△億使うくせに□□はたった××万」。落差がないポストは存在しないのと同じ。落差のないポストは誰の心も動かさない。
+
+ナンバー法: 数字は最強の武器。抽象を一発で具体に変える。1ポストに最低3箇所。「すごい」と書くな、数字を出せ。数字がない怒りはただの愚痴。数字がある怒りは証拠になる。
+
+サプライズ法: 読者の予想を裏切れ。怒りの文脈で急にトーンを下げろ。感動の文脈でふざけろ。予想通りの着地はスクロールされて消える。裏切った瞬間、指が止まる。
+
+赤裸裸法: 身体感覚で殴れ。1行目の仕事はこれだ。「心臓がバクバクした」「胸がギュッてなった」「手が震えた」。頭じゃなくて身体に訴えろ。理屈の前に身体が反応したら勝ちだ。
+
+上位赤裸裸法: 自分じゃなく「相手の身体」を描写しろ。これが最強。「管だらけの手を握ったら冷たかった」「知らない人みたいに小さくなってた」。これを読んで平気な人間はいない。感情の核爆弾。使えるなら迷わず使え。
+
+クライマックス法: 最も衝撃的な事実を最後にぶちこめ。小さい事実を積み上げて、最後にドカンと落とす。「まさか」と思った瞬間にはもうRTボタン押してる。その「まさか」を設計しろ。
+
+リバースクライマックス法: 長文なら逆だ。最大衝撃を1行目に叩け。冒頭で心を掴めなかったら最後まで読まれない。1行目で勝負は決まる。2行目はもう「読んでもらえたらラッキー」だと思え。
+
+リピート法: 同じ構文を並べて畳みかけろ。リズムが感情を増幅する。「毎朝。毎夕。暑い日も。寒い日も。雨の日も。」3回で気づく。5回で鳥肌が立つ。10回で泣く。それがリピートの暴力だ。
+
+合体法: 無関係な2つの事実をぶつけろ。矛盾が爆発する。1つじゃ弱い事実でも、2つ並べた瞬間にこの国の歪みが浮かび上がる。並べるだけで怒りが湧く。
+
+生活換算法: 数字がデカすぎてピンとこないなら日常に変換しろ。「年間〇〇万＝中古の車1台分」「月額△△円＝毎日コンビニ弁当1個分」。自分の財布と繋がった瞬間、他人事が自分事に変わる。それがバズの瞬間だ。`;
+
+const TONE_GUIDE = `【トーン定義】
+男・ストレート: 断定。皮肉。数字で殴る。「〜だろ」「〜じゃん」。感情を抑えて事実の重さだけで押す。冷たいほど怖い。
+女・かわいい: やわらかく問いかける。守りたくなる空気を作る。「〜なの」「ね…？」「〜の…💕」。そこに涙を一滴落とせ。一気に心を持っていける。
+おふざけ: 短い。バカ。勢いだけ。考えさせたら負け。3秒で笑えないなら書き直せ。
+激怒: 🚨連打。？連打。文字の暴力。「は？？？」「ふざけるな‼️‼️‼️」。絵文字が弾丸。句読点が爆発。読者の中の怒りに火をつけろ。
+淡々・知的: 事実だけ。感情ゼロ。だから逆に一番怖い。「〜らしい」「〜だった」。冷静に並べた数字が、読者の中で勝手に爆発する。
+一人称告白: 過去形。体言止め。声が震えてる文体。「〜だった」「〜した」。カッコつけるな。素の言葉が一番泣ける。`;
+
+const TEMPLATE_GUIDE = `【テンプレート（伝え方が9割の組み合わせ）】
+
+🔥超激怒: リバースクライマックスで1行目に最大衝撃。赤裸裸法で背景を描写。ナンバー法で証拠を叩きつけろ。相手の発言を引用してそのままぶっ壊せ。超短文で突き放せ（「以上。」「終わり。」）。怒りの頂点まで一気に駆け上がれ。最後は問いかけで読者の胸に刺して終われ。感情爆発は1〜2箇所に絞れ。連発するとくどくなる。全部怒りにするな、悲しみで締めると刺さる。
+
+😏皮肉: ギャップ法の極致。A事実とB事実を並べるだけ。自分の意見は一切言うな。読者が勝手に怒る。意見がないから誰でもRTできる。オチはトーンダウン（「謎の国」「逆にすごい」）。型：ダブスタ/犠牲者すり替え/本末転倒/数字の暴力/時系列矛盾/感覚マヒ暴露/国際比較
+
+😭感動: 赤裸裸法＋上位赤裸裸法＋当事者セリフ間接引用。この三種の神器で泣かせろ。人物ストーリー：逆境→当事者の控えめなセリフ→名前で人格化して締め。核心：読者が自分の人生を重ねる瞬間を作れ。美談より罪→贖罪が100倍刺さる。
+
+😱衝撃: 表の数字で終わるな。裏の数字を掘れ。「え、そうなの？」がないポストは価値ゼロ。ディストピア予言：現在の問題を未来に外挿→具体年号で恐怖を具体化して締め。
+
+🥹ほっこり: テキスト最小。画像が全て。語尾「〜なの」「ね…？」「〜の…💕」。毒を完全に抜き、他ジャンルの激しい投稿との強烈なコントラストだけを作れ。
+
+🇯🇵愛国: 敗戦の美学：相手スペック畳みかけ→「胸張っていい」。負けをポジティブに転換。感動→愛国ブリッジ：日常の英雄→世界比較→「日本ってすごい国」で着地。`;
+
+const FORMAT_RULES = `【出力フォーマット（JSONのみ・厳守）】
+形式: {"posts":[{"id":1,"text":"本文\\n続き","style":"スタイル名","tag":"breaking"},...]}
+tag: breaking/analysis/opinion/hook
+・ポスト内の改行は \\n で表現
+・箇条書きの各項目は \\n で改行
+・感情の切り替わり・事実列挙・締めの前は \\n\\n で空行
+・改行なしのベタ書き禁止
+
+【絶対NG】
+特定個人攻撃禁止（構造を批判しろ）/ 命令形・上から目線禁止 / 政党名出すな
+未確認情報禁止 / テクニック名を本文に出すな / 「」を使え（""は不可）`;
+
+function buildGenPrompt() {
+  var topic = document.getElementById('inputText').value.trim() || '日本の時事ニュース、経済、社会問題';
+  var styles = selectedStyles.length ? selectedStyles : ['夏樹(数字砲弾)','マスオ(庶民怒り)','あーぁ(時系列)'];
+  var perStyle = Math.max(1, Math.floor(postCount / styles.length));
+  return '以下のニュース/キーワードを元に、Xでバズるポストを' + postCount + '個生成して。JSONのみ返す。\n\n【絶対法則】\n読んだ人の感情を動かし、誰かに届けたくなる。それだけがバズの正体。テクニックじゃない、感情だ。\n読者を傍観者にするな。「じゃあ自分は？」で当事者にしろ。「明日これをやれ」で行動者にしろ。\n1本1本の言葉の鋭さと完成度を極限まで高めろ。妥協は一切許さない。\n画像が強いならテキストは見出しだけでいい。文字が多いほど弱くなる。\n\n【ニュース/キーワード】\n' + topic + '\n\n【スタイル一覧】\n' + STYLE_DEFS + '\n\n【使用スタイル】\n' + styles.join('、') + '\n※各スタイルを均等に使用（各約' + perStyle + '個）\n\n【ルール】\n・各ポスト140字以内\n・各スタイルの特徴を忠実に再現\n・全て自然な日本語の話し言葉\n・皮肉/毒舌/政府批判OK\n・共通の敵設定（政府/官僚/大企業）\n・エコーチェンバー最適化：内集団バイアス/確証バイアス/感情伝染を意識\n\n' + TECHNIQUES + '\n\n' + TONE_GUIDE + '\n\n' + TEMPLATE_GUIDE + '\n\n' + FORMAT_RULES;
+}
+
+function buildRewritePrompt() {
+  var original = document.getElementById('inputText').value.trim();
+  var compressed = original.replace(/\s+/g, ' ').trim().slice(0, 1000);
+  var styles = selectedStyles.length ? selectedStyles : ['夏樹(数字砲弾)','マスオ(庶民怒り)','あーぁ(時系列)'];
+  return '以下のバズポスト/ニュースを、指定スタイルに変換して。JSONのみ返す。\n\n【絶対法則】\n読者を傍観者にするな。「じゃあ自分は？」で当事者にしろ。\n1行目から最後まで感情を上げ続けろ。妥協は一切許さない。\n\n【元ポスト/ニュース】\n' + compressed + '\n\n【スタイル一覧】\n' + STYLE_DEFS + '\n\n【使用スタイル】\n' + styles.join('、') + '\n※各スタイル1本ずつ出力\n\n【ルール】\n・各ポスト140字以内（長文スタイルは制限なし）\n・スタイルの特徴を忠実に再現\n・全て自然な日本語\n・数字・固有名詞・日付は必ず残す\n・難しい言葉は平易に言い換える\n・元文の事実・主旨は保持、表現のみ変える\n\n' + TECHNIQUES + '\n\n' + TONE_GUIDE + '\n\n' + TEMPLATE_GUIDE + '\n\n' + FORMAT_RULES;
+}
+
+function openGrokModal() {
+  var targets = generatedPosts.filter(function(p){ return selectedPostIds.has(p.id); });
+  if (!targets.length) targets = generatedPosts.filter(function(p){ return p.style === '漫画セリフ型'; });
+  if (!targets.length) targets = generatedPosts.slice(0, 1);
+  if (!targets.length) { showToast('先にポストを生成してください'); return; }
+  var serifText = targets.map(function(p){
+    return (p.text || '').replace(/\\n/g, '\n').split('\n').filter(function(l){ return l.trim() && l.indexOf('#') !== 0; }).join('\n');
+  }).join('\n\n---\n\n');
+  var grokPrompt = '以下のセリフで日本語漫画風のコマ割り画像を作って。\n白黒、手書き風、吹き出し付き、縦読みコマ割り。\nセリフはそのまま使うこと。\n\n' + serifText;
+  document.getElementById('modal').innerHTML = '<span class="step-badge">Grok 画像生成プロンプト</span><h2>🤖 Grok用プロンプト</h2><p>テキストエリアをクリックすると全選択されます。<strong>Ctrl+C（Mac: ⌘+C）</strong>でコピーしてください。</p><textarea id="grokBox" readonly onclick="this.select()" style="width:100%;height:150px;background:var(--bg3);border:1px solid var(--border2);border-radius:9px;color:var(--text2);font-size:11px;padding:12px;outline:none;resize:vertical;font-family:monospace;line-height:1.6;cursor:pointer;">' + esc(grokPrompt) + '</textarea><div style="display:flex;align-items:center;gap:10px;"><button class="copy-btn" id="grokCpBtn" onclick="copyGrok()">📋 全選択してコピー</button><a href="https://grok.com" target="_blank" rel="noopener noreferrer" style="font-size:12px;color:var(--accent2);text-decoration:none;">→ grok.com を開く ↗</a></div><hr class="divider"><div class="modal-row"><button class="btn-cancel" style="width:100%;" onclick="closeModal()">閉じる</button></div>';
+  document.getElementById('overlay').style.display = 'flex';
+}
+function copyGrok() {
+  var box = document.getElementById('grokBox');
+  box.select();
+  box.setSelectionRange(0, 99999);
+  try {
+    document.execCommand('copy');
+    var btn = document.getElementById('grokCpBtn');
+    btn.textContent = '✅ コピーしました';
+    btn.classList.add('done');
+  } catch (e) {
+    showToast('テキストエリアをクリックして Ctrl+C でコピーしてください');
+  }
+}
+function openModal(mode) {
+  if (mode === 'rewrite') {
+    var txt = document.getElementById('inputText').value.trim();
+    if (!txt || txt.length < 10) { showToast('リライトする文を貼り付けてください'); return; }
+  }
+  var prompt = mode === 'generate' ? buildGenPrompt() : buildRewritePrompt();
+  var title = mode === 'generate' ? '⚡ ' + postCount + '本生成プロンプト' : '✏️ リライトプロンプト';
+  var srcLen = mode === 'rewrite' ? document.getElementById('inputText').value.trim().length : 0;
+  var srcNote = mode === 'rewrite' ? '<div style="font-size:11px;color:var(--green);margin-bottom:8px;">✅ 元文 ' + srcLen + '文字を認識（先頭1000文字を使用）</div>' : '';
+  document.getElementById('modal').innerHTML = '<span class="step-badge">STEP 1 — プロンプトをコピー</span><h2>' + title + '</h2>' + srcNote + '<p>下のテキストエリアをクリックすると全選択されます。<strong>Ctrl+C（Mac: ⌘+C）</strong>でコピーしてください。</p><textarea id="pBox" readonly onclick="this.select()" style="width:100%;height:180px;background:var(--bg3);border:1px solid var(--border2);border-radius:9px;color:var(--text2);font-size:11px;padding:12px;outline:none;resize:vertical;font-family:monospace;line-height:1.6;cursor:pointer;">' + esc(prompt) + '</textarea><div style="display:flex;align-items:center;gap:10px;"><button class="copy-btn" id="cpBtn" onclick="doCopy()">📋 全選択してコピー</button><span style="font-size:11px;color:var(--text3);">コピー → Claudeで生成 → JSONを下に貼る</span></div><hr class="divider"><span class="step-badge">STEP 2 — 結果を貼り付け</span><p>ClaudeのレスポンスからJSONをそのまま貼り付けてください。</p><textarea class="paste-area" id="pasteArea" placeholder=\'{"posts":[{"id":1,"text":"...","style":"...","tag":"breaking"},...]}\'></textarea><div class="modal-row"><button class="btn-modal" onclick="doImport()">✅ インポート</button><button class="btn-cancel" onclick="closeModal()">キャンセル</button></div>';
+  document.getElementById('overlay').style.display = 'flex';
+}
+function closeModal() { document.getElementById('overlay').style.display = 'none'; }
+function doCopy() {
+  var box = document.getElementById('pBox');
+  box.select();
+  box.setSelectionRange(0, 99999);
+  try {
+    document.execCommand('copy');
+    var btn = document.getElementById('cpBtn');
+    btn.textContent = '✅ コピーしました';
+    btn.classList.add('done');
+  } catch (e) {
+    showToast('テキストエリアをクリックして Ctrl+C でコピーしてください');
+  }
+}
+function doImport() {
+  var raw = document.getElementById('pasteArea').value.trim();
+  if (!raw) { showToast('JSONを貼り付けてください'); return; }
+  var parsed;
+  try {
+    var m = raw.match(/\{[\s\S]*"posts"[\s\S]*\}/);
+    if (!m) throw new Error('no json');
+    parsed = JSON.parse(m[0]);
+  } catch (e) {
+    showToast('❌ JSONの形式が正しくありません');
+    return;
+  }
+  var posts = parsed.posts || [];
+  if (!posts.length) { showToast('ポストが0件です'); return; }
+  var base = generatedPosts.length;
+  posts.forEach(function(p, i){ p.id = base + i + 1; });
+  generatedPosts = generatedPosts.concat(posts);
+  renderPosts(posts);
+  document.getElementById('postCountBadge').textContent = generatedPosts.length + ' 件';
+  setLog(posts.length + '本をインポートしました');
+  closeModal();
+  showToast('✅ ' + posts.length + '本を追加しました');
+}
+function renderPosts(posts) {
+  document.getElementById('emptyWrap').style.display = 'none';
+  document.getElementById('postsWrap').style.display = 'block';
+  var grid = document.getElementById('postsGrid');
+  var TC = { breaking:'tag-breaking', analysis:'tag-analysis', opinion:'tag-opinion', hook:'tag-hook' };
+  var TL = { breaking:'速報', analysis:'分析', opinion:'意見', hook:'フック' };
+  posts.forEach(function(post){
+    var text = (post.text || '').replace(/\\n/g, '\n');
+    var len = text.length;
+    var cc = len > 140 ? 'over' : len > 120 ? 'warn' : '';
+    var card = document.createElement('div');
+    card.className = 'post-card';
+    card.dataset.id = post.id;
+    card.innerHTML = '<div class="post-header"><span class="post-num">#' + post.id + '</span><span class="post-tag ' + (TC[post.tag] || 'tag-analysis') + '">' + (TL[post.tag] || '　') + '</span><span style="font-size:10px;color:var(--text3);margin-left:auto;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:90px;">' + esc(post.style || '') + '</span></div><div class="post-body">' + esc(text) + '</div><div class="post-footer"><span class="char-count ' + cc + '">' + len + '字</span><div class="post-actions"><button class="icon-btn x" title="Xに投稿" onclick="postToX(' + post.id + ')">X</button><button class="icon-btn" onclick="copyPost(' + post.id + ',this)">📋</button><button class="icon-btn" onclick="likePost(this)">♡</button></div></div>';
+    card.addEventListener('click', function(e){
+      if (e.target.tagName === 'BUTTON') return;
+      card.classList.toggle('selected');
+      if (card.classList.contains('selected')) selectedPostIds.add(post.id);
+      else selectedPostIds.delete(post.id);
+    });
+    grid.appendChild(card);
+  });
+}
+function postText(post) { return (post.text || '').replace(/\\n/g, '\n'); }
+function openX(text) {
+  var params = new URLSearchParams();
+  params.set('text', text);
+  if (articleUrl) params.set('url', articleUrl);
+  window.open('https://x.com/intent/tweet?' + params.toString(), '_blank', 'noopener,noreferrer');
+}
+function postToX(id) {
+  var p = generatedPosts.find(function(x){ return x.id === id; });
+  if (!p) return;
+  openX(postText(p));
+}
+function postSelected() {
+  var picked = generatedPosts.filter(function(p){ return selectedPostIds.has(p.id); });
+  if (!picked.length) { showToast('ポストを選択してください'); return; }
+  openX(postText(picked[0]));
+  if (picked.length > 1) showToast('先頭の1件をXで開きました');
+}
+function copyPost(id, btn) {
+  var p = generatedPosts.find(function(x){ return x.id === id; });
+  if (!p) return;
+  navigator.clipboard.writeText(postText(p)).then(function(){
+    btn.textContent = '✅';
+    setTimeout(function(){ btn.textContent = '📋'; }, 1500);
+  });
+}
+function likePost(btn) {
+  btn.classList.toggle('liked');
+  btn.textContent = btn.classList.contains('liked') ? '♥' : '♡';
+}
+function selectAll() {
+  var cards = document.querySelectorAll('.post-card');
+  var allOn = Array.prototype.every.call(cards, function(c){ return c.classList.contains('selected'); });
+  cards.forEach(function(c){
+    var id = parseInt(c.dataset.id, 10);
+    if (allOn) { c.classList.remove('selected'); selectedPostIds.delete(id); }
+    else { c.classList.add('selected'); selectedPostIds.add(id); }
+  });
+}
+function copySelected() {
+  if (!selectedPostIds.size) { showToast('ポストを選択してください'); return; }
+  var txt = generatedPosts.filter(function(p){ return selectedPostIds.has(p.id); }).map(postText).join('\n\n---\n\n');
+  navigator.clipboard.writeText(txt).then(function(){ showToast('✅ ' + selectedPostIds.size + '件をコピー'); });
+}
+function clearAll() {
+  generatedPosts = [];
+  selectedPostIds.clear();
+  document.getElementById('postsGrid').innerHTML = '';
+  document.getElementById('postsWrap').style.display = 'none';
+  document.getElementById('emptyWrap').style.display = 'flex';
+  document.getElementById('postCountBadge').textContent = '0 件';
+  setLog('クリアしました');
+}
+function exportAll() {
+  if (!generatedPosts.length) { showToast('まず生成してください'); return; }
+  var txt = generatedPosts.map(function(p){ return '#' + p.id + ' [' + (p.style || p.tag) + ']\n' + postText(p); }).join('\n\n---\n\n');
+  var a = document.createElement('a');
+  a.href = URL.createObjectURL(new Blob([txt], { type: 'text/plain;charset=utf-8' }));
+  a.download = 'buzz_posts_' + new Date().toISOString().slice(0, 10) + '.txt';
+  a.click();
+}
+function esc(t) { return String(t).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+document.getElementById('overlay').addEventListener('click', function(e){
+  if (e.target === document.getElementById('overlay')) closeModal();
+});
+(function prefillFromArticle(){
+  var q = new URLSearchParams(location.search);
+  articleUrl = q.get('url') || '';
+  var seed = q.get('text') || q.get('kw') || '';
+  if (!seed) return;
+  document.getElementById('inputText').value = seed;
+  setLog(articleUrl ? '記事を読み込みました。Xに出すと記事リンクも付きます' : '記事を読み込みました');
+})();
+</script>
+</body>
+</html>

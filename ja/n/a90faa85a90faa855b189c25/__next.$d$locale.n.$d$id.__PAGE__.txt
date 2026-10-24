@@ -1,0 +1,77 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1860/live/f6b62750-cf1d-11f1-9796-954775b3a434.jpg","image"]
+c:X
+11:X
+11:C
+0:{"buildId":"uBkhHRT_aLtDySfUghNoY","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-24","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"トランプ米政権、一部のカナダ製品に対する関税撤廃 中間選挙迫る"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"8 時間前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1860/live/f6b62750-cf1d-11f1-9796-954775b3a434.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"2025年10月24日、オンタリオ州ポイントエドワードにあるブルーウォーター橋の国境検問所のそばで、アメリカとカナダの国旗がはためいている"}],["$","p","1",{"children":"11月3日の米中間選挙が迫るなか、トランプ米政権は23日、カナダ製品に対する税率50％の関税について、その一部を撤廃すると発表した。これに先立ち、与党・共和党にとって鍵となる連邦議会上院選で再選を目指している共和党候補が、関税廃止を政府に働きかけたと話していた。中間選挙では、与党・共和党が連邦議会の多数議席を維持するのか、野党・民主党が返り咲くのかが決まり、ドナルド・トランプ大統領の残り2年間の政権運営に大きな影響を与える。"}],["$","p","2",{"children":"ホワイトハウスは、10月30日から「合板、一部の紙製品、特定の機械類、冷凍機器」を含む製品に対する関税を緩和すると発表した。"}],["$","p","3",{"children":"中間選挙で再選を目指して激戦を繰り広げている北東部メイン州のスーザン・コリンズ上院議員（共和党）は、州の農業産業を支援するとして、政府に先駆けてこの免除措置を発表した。メイン州はカナダとの国境沿いにある。"}],["$","p","4",{"children":"メイン州選出のスーザン・コリンズ上院議員は、11月の中間選挙で再選を目指している"}],["$","p","5",{"children":"赤いジャケットを着て眼鏡をかけた女性が、群衆の中で笑顔を浮かべている"}],["$","p","6",{"children":"ホワイトハウスは、一部の梱包用木箱や段ボール箱など一部の品目については関税を撤廃する一方で、じゅうたんや「廃棄物」などの他の品目には関税を導入すると発表。今回の措置は「アメリカの労働者を守り、公正な貿易を確保するため」の、トランプ大統領による「継続的な努力」を反映したものだと述べた。"}],["$","p","7",{"children":"ホワイトハウスのマシュー・ミドルトン報道官は、「トランプ大統領は、カナダがアメリカの商取引を差別している問題について、引き続き取り組んでいる」と述べた。"}],["$","p","8",{"children":"カナダのドミニク・ルブラン内務貿易相（対米貿易担当）はBBCに対し、「（アメリカの）最新の措置を精査しているところだが、カナダはカナダの利益を尊重する、より互恵的な貿易関係の構築に向けて、建設的かつ誠意をもって取り組む用意がある」と述べた。"}],["$","p","9",{"children":"トランプ大統領は23日、カナダはアメリカとの貿易協定に向けて「非常に懸命に取り組んでいる」と述べた。"}],["$","p","10",{"children":"対するカーニー首相は、カナダは相互に利益のある合意には前向きだが、事態の推移を見守る用意があると話した。"}],["$","p","11",{"children":"カナダ放送協会（CBC）によると、首相は23日、「アメリカが参加するなら、今日の午後にも署名できるだ。もし適切な合意が成立するまでに何カ月も、あるいはそれよりかかるなら、もしくは別の政権が必要となるなら、我々はそうするつもりだ」と述べた。"}],["$","p","12",{"children":"トランプ政権は、8月に両国間の貿易交渉が決裂した後、200億ドル（280億カナダドル、約3兆2000億円）相当のカナダ製品に50％の関税を課した。トランプ大統領は、アメリカの自動車、乳製品、アルコール飲料に対する「不平等な扱い」を、高額関税の理由にした。"}],["$","p","13",{"children":"カナダはアメリカの関税に対して一連の対抗措置を実施。マーク・カーニー首相は「労働者を守るために必要だ」と述べ、アメリカとの交渉決裂後、アメリカの関税措置と同額の関税を課した。"}],["$","p","14",{"children":"メイン州選出のコリンズ上院議員はソーシャルメディア「X」で、トランプ政権の高官に対し関税の軽減を繰り返し求めてきたと書き、「今後も政権当局者と直接協力し、いっそうの軽減策を求め、隣国で同盟国で最大の貿易相手国のカナダと、より広範な貿易協定の締結を促進していく」と語った。"}],["$","p","15",{"children":"議員はさらに、関税免除の対象となったのは「ブルーベリー、ジャガイモ、リンゴ、海藻の生産者など、メイン州の農業にとって不可欠な製品」だと書いた。"}],["$","p","16",{"children":"メイン州で連邦上院の議席をコリンズ氏と争う民主党のトロイ・ジャクソン候補は、「トランプ氏の貿易戦争は、メイン州民の生活を困難にし、物価を高くした。スーザン・コリンズはこの混乱を招き、その背後にいる担当者たちの承認に賛成票を投じ、今になって火を消すために水を1杯だけ持ってきたのが、自分の手柄だと主張している」と批判した。"}],["$","p","17",{"children":"メイン州はカナダのニューブランズウィック州とケベック州に隣接している。メイン州の経済は、国境沿いの他の州と同様に、カナダと深く結びついており、数カ月続く貿易戦争の影響を強く受けている。"}],["$","p","18",{"children":"ミシガン州から上院を目指す共和党のマイク・ロジャース元下院議員は、何カ月も対カナダ関税を支持してきた。しかし、カナダとの貿易に大きく依存する同州で今月初めに放映された選挙広告では、「ここミシガンでは、カナダが自分たちの敵ではないと知っている」と主張し、トランプ政権の方針転換を求めた。"}],["$","p","19",{"children":"ルブラン貿易相は22日、カナダ政府のカナダ・アメリカ経済関係諮問委員会が会合を開いたと明らかにした。2026年4月以降9回目の会合だった。委員会メンバーは、アメリカによるカナダへの関税の影響について協議した。"}],["$","p","20",{"children":"（英語記事 White House lifts tariffs on some Canadian goods as midterm elections loom）"}]],"$L3"]}],"$L4","$L5","$L6",null,"$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":"$@b","staleTime":"$c","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$c","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$c","varyParams":"$11"},{"rsc":"$L12","isPartial":"$@13","staleTime":"$c","varyParams":"$11"}],"isUpgradeableISRFallback":false,"a":"$@14","rootVaryParams":null,"needsRuntimeRequest":"$@15"}
+16:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+17:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+19:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+1a:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1e:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1f:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+20:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+21:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]
+4:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/cry834lqq90lo","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}]
+18:T177f,2025年10月24日、オンタリオ州ポイントエドワードにあるブルーウォーター橋の国境検問所のそばで、アメリカとカナダの国旗がはためいている
+
+11月3日の米中間選挙が迫るなか、トランプ米政権は23日、カナダ製品に対する税率50％の関税について、その一部を撤廃すると発表した。これに先立ち、与党・共和党にとって鍵となる連邦議会上院選で再選を目指している共和党候補が、関税廃止を政府に働きかけたと話していた。中間選挙では、与党・共和党が連邦議会の多数議席を維持するのか、野党・民主党が返り咲くのかが決まり、ドナルド・トランプ大統領の残り2年間の政権運営に大きな影響を与える。
+
+ホワイトハウスは、10月30日から「合板、一部の紙製品、特定の機械類、冷凍機器」を含む製品に対する関税を緩和すると発表した。
+
+中間選挙で再選を目指して激戦を繰り広げている北東部メイン州のスーザン・コリンズ上院議員（共和党）は、州の農業産業を支援するとして、政府に先駆けてこの免除措置を発表した。メイン州はカナダとの国境沿いにある。
+
+メイン州選出のスーザン・コリンズ上院議員は、11月の中間選挙で再選を目指している
+
+赤いジャケットを着て眼鏡をかけた女性が、群衆の中で笑顔を浮かべている
+
+ホワイトハウスは、一部の梱包用木箱や段ボール箱など一部の品目については関税を撤廃する一方で、じゅうたんや「廃棄物」などの他の品目には関税を導入すると発表。今回の措置は「アメリカの労働者を守り、公正な貿易を確保するため」の、トランプ大統領による「継続的な努力」を反映したものだと述べた。
+
+ホワイトハウスのマシュー・ミドルトン報道官は、「トランプ大統領は、カナダがアメリカの商取引を差別している問題について、引き続き取り組んでいる」と述べた。
+
+カナダのドミニク・ルブラン内務貿易相（対米貿易担当）はBBCに対し、「（アメリカの）最新の措置を精査しているところだが、カナダはカナダの利益を尊重する、より互恵的な貿易関係の構築に向けて、建設的かつ誠意をもって取り組む用意がある」と述べた。
+
+トランプ大統領は23日、カナダはアメリカとの貿易協定に向けて「非常に懸命に取り組んでいる」と述べた。
+
+対するカーニー首相は、カナダは相互に利益のある合意には前向きだが、事態の推移を見守る用意があると話した。
+
+カナダ放送協会（CBC）によると、首相は23日、「アメリカが参加するなら、今日の午後にも署名できるだ。もし適切な合意が成立するまでに何カ月も、あるいはそれよりかかるなら、もしくは別の政権が必要となるなら、我々はそうするつもりだ」と述べた。
+
+トランプ政権は、8月に両国間の貿易交渉が決裂した後、200億ドル（280億カナダドル、約3兆2000億円）相当のカナダ製品に50％の関税を課した。トランプ大統領は、アメリカの自動車、乳製品、アルコール飲料に対する「不平等な扱い」を、高額関税の理由にした。
+
+カナダはアメリカの関税に対して一連の対抗措置を実施。マーク・カーニー首相は「労働者を守るために必要だ」と述べ、アメリカとの交渉決裂後、アメリカの関税措置と同額の関税を課した。
+
+メイン州選出のコリンズ上院議員はソーシャルメディア「X」で、トランプ政権の高官に対し関税の軽減を繰り返し求めてきたと書き、「今後も政権当局者と直接協力し、いっそうの軽減策を求め、隣国で同盟国で最大の貿易相手国のカナダと、より広範な貿易協定の締結を促進していく」と語った。
+
+議員はさらに、関税免除の対象となったのは「ブルーベリー、ジャガイモ、リンゴ、海藻の生産者など、メイン州の農業にとって不可欠な製品」だと書いた。
+
+メイン州で連邦上院の議席をコリンズ氏と争う民主党のトロイ・ジャクソン候補は、「トランプ氏の貿易戦争は、メイン州民の生活を困難にし、物価を高くした。スーザン・コリンズはこの混乱を招き、その背後にいる担当者たちの承認に賛成票を投じ、今になって火を消すために水を1杯だけ持ってきたのが、自分の手柄だと主張している」と批判した。
+
+メイン州はカナダのニューブランズウィック州とケベック州に隣接している。メイン州の経済は、国境沿いの他の州と同様に、カナダと深く結びついており、数カ月続く貿易戦争の影響を強く受けている。
+
+ミシガン州から上院を目指す共和党のマイク・ロジャース元下院議員は、何カ月も対カナダ関税を支持してきた。しかし、カナダとの貿易に大きく依存する同州で今月初めに放映された選挙広告では、「ここミシガンでは、カナダが自分たちの敵ではないと知っている」と主張し、トランプ政権の方針転換を求めた。
+
+ルブラン貿易相は22日、カナダ政府のカナダ・アメリカ経済関係諮問委員会が会合を開いたと明らかにした。2026年4月以降9回目の会合だった。委員会メンバーは、アメリカによるカナダへの関税の影響について協議した。
+
+（英語記事 White House lifts tariffs on some Canadian goods as midterm elections loom）5:["$","section",null,{"className":"article-actions","children":[["$","$L16",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/a90faa85a90faa855b189c25","title":"トランプ米政権、一部のカナダ製品に対する関税撤廃 中間選挙迫る","locale":"ja","take":null}],["$","$L17",null,{"title":"トランプ米政権、一部のカナダ製品に対する関税撤廃 中間選挙迫る","excerpt":"$18","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/a90faa85a90faa855b189c25","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E7%B1%B3%E6%94%BF%E6%A8%A9%E3%80%81%E4%B8%80%E9%83%A8%E3%81%AE%E3%82%AB%E3%83%8A%E3%83%80%E8%A3%BD%E5%93%81%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E9%96%A2%E7%A8%8E%E6%92%A4%E5%BB%83+%E4%B8%AD%E9%96%93%E9%81%B8%E6%8C%99%E8%BF%AB%E3%82%8B&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+6:["$","$L19",null,{"placement":"article","className":"mt-8"}]
+7:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+8:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","euronews:https://euronews.com/video/2026/10/24/watch-french-police-deploy-armoured-vehicles-in-paris-and-marseille",{"children":["$","$L2",null,{"href":"/ja/n/8374541e8374541e40e5e29c","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Euronews"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Watch: French police deploy armoured vehicles in Paris and Marseille"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/6065908b13cf9f6f53b067800d7d06ebb7eca06f?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/e084f668e084f668a174cab2","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"もどかしいアビスパ福岡 残留争いのライバルに完敗 試合後に選手とサポーターが話し合い 12試合連続失点に守備陣再編へ(西スポWEB OTTO!)"}]]}]}],["$","li","yahoo-it:https://news.yahoo.co.jp/articles/4ac352b938ffc5585049c70723218dd8fa504bac?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/cd43a10bcd43a10b8a1a69db","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"英国政府、AI生物安全保障組織を設立 OpenAIとアンソロピックが最大2億ポンド約束(ビジネス＋IT)"}]]}]}]]}]]}]
+9:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+a:["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]
+d:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1e",null,{"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"トランプ米政権、一部のカナダ製品に対する関税撤廃 中間選挙迫る"}],["$","meta","1",{"name":"description","content":"2025年10月24日、オンタリオ州ポイントエドワードにあるブルーウォーター橋の国境検問所のそばで、アメリカとカナダの国旗がはためいている"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"トランプ米政権、一部のカナダ製品に対する関税撤廃 中間選挙迫る"}],["$","meta","4",{"property":"og:description","content":"2025年10月24日、オンタリオ州ポイントエドワードにあるブルーウォーター橋の国境検問所のそばで、アメリカとカナダの国旗がはためいている"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/a90faa85a90faa855b189c25/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F1860%2Flive%2Ff6b62750-cf1d-11f1-9796-954775b3a434.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"トランプ米政権、一部のカナダ製品に対する関税撤廃 中間選挙迫る"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"トランプ米政権、一部のカナダ製品に対する関税撤廃 中間選挙迫る"}],["$","meta","14",{"name":"twitter:description","content":"2025年10月24日、オンタリオ州ポイントエドワードにあるブルーウォーター橋の国境検問所のそばで、アメリカとカナダの国旗がはためいている"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F1860%2Flive%2Ff6b62750-cf1d-11f1-9796-954775b3a434.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1f","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
+12:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
+15:true
+1c:null
+c:300
+c:C
+14:0
+e:"$undefined"
+10:"$undefined"
+13:"$undefined"
+b:"$undefined"

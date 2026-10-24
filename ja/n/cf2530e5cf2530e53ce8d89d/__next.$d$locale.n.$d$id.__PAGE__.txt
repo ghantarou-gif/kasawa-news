@@ -1,0 +1,75 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e303/live/46a76390-c939-11f1-bcc7-a3638a736ce9.jpg","image"]
+5:T1197,中国は中東紛争の仲介者としての立場を確立しようとしている。写真は、ヨルダン川西岸地区ヘブロン旧市街に建つイスラエル兵（10日）
+
+顔をマスクで覆い、防弾チョッキやヘルメットなどを装着した兵士が、コンクリートの建物の傍らに立っている。手には自動小銃を持っている
+
+中国外務省は16日、王毅外相がイスラエルに対し、パレスチナ・ヨルダン川西岸地区における入植地の「強制的な建設」を中止し、その行動を撤回するよう求めたと発表した。
+
+王氏は15日、アゼルバイジャンで開催された会議の傍らで行われたイスラエルのイサク・ヘルツォグ大統領との会談で、「パレスチナ問題は今世紀最大の歴史的不正義だ」と述べた。
+
+中国は長年にわたってパレスチナの主張を支持しており、イスラエルとパレスチナ国家が共存する「2国家解決」こそが「正しい方向性」だとの立場を示してきた。
+
+中国はまた、中東における紛争の仲介者としての役割も担おうとしている。
+
+中国は2023年には、長年敵対関係にあったイランとサウジアラビアの外交関係を正常化させる合意を仲介した。今年初めには、パキスタンと共に、イランに対する米・イスラエル戦争の停戦を提案する取り組みに参加した。
+
+ガザでの紛争においては、中国は、パレスチナの団結に焦点を当ててきた。
+
+2024年には、対立するパレスチナの各派閥に、イスラエルとの戦争後に占領下のヨルダン川西岸地区とガザ地区に暫定的な「国民和解政府」を樹立することに合意させたが、それは実現しなかった。
+
+王外相は今回、現在の「最優先事項」はガザへのアクセスを完全に開放し、「人道的大惨事」の拡大を食い止めることだと述べている。
+
+また、中国には、関係当事者が対話に戻って「紛争の政治的解決を模索する」よう、国際社会と協力していく用意があるとも述べた。
+
+イスラエルのヘルツォグ大統領はXへの投稿で、王氏と会えたことを「うれしく思う」と述べ、会談では「両国間の関係と中東情勢に焦点を当てた」とした。
+
+一方で、「私は、この地域における平和へのイスラエルの願望と、イランとそのテロ組織をはじめとする、我々の安全保障に対する戦略的な脅威を強調した」と書いた。
+
+中国はイランと緊密な関係を維持しており、イラン産原油の最大の買い手でもある。イラン産原油はかつて、イランの核開発計画を理由に、アメリカの制裁対象となっていた。
+
+中国も、1950年代に併合したチベットや新疆への漢民族の移住を促すことで、少数民族の人口を希薄化しようとしていると非難されている。中国はこうした主張を否定し、自国の政策は経済発展と社会安定を促進するものだと述べている。
+
+イスラエルとガザの武装組織ハマスが停戦に合意してから1年が経過したが、ガザの人々は依然として、イスラエル軍の攻撃、避難、食料安全保障に関して常に脅威にさらされながら生活している。
+
+大規模な爆撃は停止したものの、イスラエルはガザ地区への攻撃をほぼ毎日続けている。
+
+ハマスが運営するガザの保健省によると、2025年10月に停戦が始まってからの1年間で、イスラエルの攻撃により1400人以上のパレスチナ人が殺された。この数字は、国連が信頼できるとみなしている。
+
+米国が仲介した停戦は、2023年10月7日にハマスが主導した集団がイスラエル南部を急襲し、報復としてイスラエルがガザ地区で開始した戦争を終結させる合意の第1段階だった。ハマスによるイスラエル襲撃では、約1200人が殺害され、251人が人質に取られた。
+
+しかし、合意の次の段階への進展は停滞しており、イスラエルとハマスが互いに合意条件に違反していると非難し合っている。
+
+（英語記事 China tells Israel to stop 'forced establishment' of West Bank settlements）d:X
+12:X
+12:C
+0:{"buildId":"uBkhHRT_aLtDySfUghNoY","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-17","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"中国、イスラエルに入植地の「強制的建設」停止を要求 ヨルダン川西岸"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"10月17日 03:23"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e303/live/46a76390-c939-11f1-bcc7-a3638a736ce9.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"中国は中東紛争の仲介者としての立場を確立しようとしている。写真は、ヨルダン川西岸地区ヘブロン旧市街に建つイスラエル兵（10日）"}],["$","p","1",{"children":"顔をマスクで覆い、防弾チョッキやヘルメットなどを装着した兵士が、コンクリートの建物の傍らに立っている。手には自動小銃を持っている"}],["$","p","2",{"children":"中国外務省は16日、王毅外相がイスラエルに対し、パレスチナ・ヨルダン川西岸地区における入植地の「強制的な建設」を中止し、その行動を撤回するよう求めたと発表した。"}],["$","p","3",{"children":"王氏は15日、アゼルバイジャンで開催された会議の傍らで行われたイスラエルのイサク・ヘルツォグ大統領との会談で、「パレスチナ問題は今世紀最大の歴史的不正義だ」と述べた。"}],["$","p","4",{"children":"中国は長年にわたってパレスチナの主張を支持しており、イスラエルとパレスチナ国家が共存する「2国家解決」こそが「正しい方向性」だとの立場を示してきた。"}],["$","p","5",{"children":"中国はまた、中東における紛争の仲介者としての役割も担おうとしている。"}],["$","p","6",{"children":"中国は2023年には、長年敵対関係にあったイランとサウジアラビアの外交関係を正常化させる合意を仲介した。今年初めには、パキスタンと共に、イランに対する米・イスラエル戦争の停戦を提案する取り組みに参加した。"}],["$","p","7",{"children":"ガザでの紛争においては、中国は、パレスチナの団結に焦点を当ててきた。"}],["$","p","8",{"children":"2024年には、対立するパレスチナの各派閥に、イスラエルとの戦争後に占領下のヨルダン川西岸地区とガザ地区に暫定的な「国民和解政府」を樹立することに合意させたが、それは実現しなかった。"}],["$","p","9",{"children":"王外相は今回、現在の「最優先事項」はガザへのアクセスを完全に開放し、「人道的大惨事」の拡大を食い止めることだと述べている。"}],["$","p","10",{"children":"また、中国には、関係当事者が対話に戻って「紛争の政治的解決を模索する」よう、国際社会と協力していく用意があるとも述べた。"}],["$","p","11",{"children":"イスラエルのヘルツォグ大統領はXへの投稿で、王氏と会えたことを「うれしく思う」と述べ、会談では「両国間の関係と中東情勢に焦点を当てた」とした。"}],["$","p","12",{"children":"一方で、「私は、この地域における平和へのイスラエルの願望と、イランとそのテロ組織をはじめとする、我々の安全保障に対する戦略的な脅威を強調した」と書いた。"}],["$","p","13",{"children":"中国はイランと緊密な関係を維持しており、イラン産原油の最大の買い手でもある。イラン産原油はかつて、イランの核開発計画を理由に、アメリカの制裁対象となっていた。"}],["$","p","14",{"children":"中国も、1950年代に併合したチベットや新疆への漢民族の移住を促すことで、少数民族の人口を希薄化しようとしていると非難されている。中国はこうした主張を否定し、自国の政策は経済発展と社会安定を促進するものだと述べている。"}],["$","p","15",{"children":"イスラエルとガザの武装組織ハマスが停戦に合意してから1年が経過したが、ガザの人々は依然として、イスラエル軍の攻撃、避難、食料安全保障に関して常に脅威にさらされながら生活している。"}],["$","p","16",{"children":"大規模な爆撃は停止したものの、イスラエルはガザ地区への攻撃をほぼ毎日続けている。"}],["$","p","17",{"children":"ハマスが運営するガザの保健省によると、2025年10月に停戦が始まってからの1年間で、イスラエルの攻撃により1400人以上のパレスチナ人が殺された。この数字は、国連が信頼できるとみなしている。"}],["$","p","18",{"children":"米国が仲介した停戦は、2023年10月7日にハマスが主導した集団がイスラエル南部を急襲し、報復としてイスラエルがガザ地区で開始した戦争を終結させる合意の第1段階だった。ハマスによるイスラエル襲撃では、約1200人が殺害され、251人が人質に取られた。"}],["$","p","19",{"children":"しかし、合意の次の段階への進展は停滞しており、イスラエルとハマスが互いに合意条件に違反していると非難し合っている。"}],["$","p","20",{"children":"（英語記事 China tells Israel to stop 'forced establishment' of West Bank settlements）"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/cx240v6dzggyo","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/cf2530e5cf2530e53ce8d89d","title":"中国、イスラエルに入植地の「強制的建設」停止を要求 ヨルダン川西岸","locale":"ja","take":null}],["$","$L4",null,{"title":"中国、イスラエルに入植地の「強制的建設」停止を要求 ヨルダン川西岸","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/cf2530e5cf2530e53ce8d89d","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E4%B8%AD%E5%9B%BD%E3%80%81%E3%82%A4%E3%82%B9%E3%83%A9%E3%82%A8%E3%83%AB%E3%81%AB%E5%85%A5%E6%A4%8D%E5%9C%B0%E3%81%AE%E5%81%9C%E6%AD%A2%E3%82%92%E8%A6%81%E6%B1%82+%E3%83%A8%E3%83%AB%E3%83%80%E3%83%B3%E5%B7%9D%E8%A5%BF%E5%B2%B8&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","dw:https://dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/ffac7b5bffac7b5bbf3dc0eb","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"China's influence in the gaming industry is growing"}]]}]}],["$","li","dw:https://dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/fee5978afee5978a4a420428","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Russia wants blackout in Ukraine as winter comes — Zelenskyy"}]]}]}],["$","li","dw:https://dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/4a24e3944a24e394c501fe32","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"France: Protesters clash with police in nationwide protests, amid rising social polarization"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"中国、イスラエルに入植地の「強制的建設」停止を要求 ヨルダン川西岸"}],["$","meta","1",{"name":"description","content":"中国は中東紛争の仲介者としての立場を確立しようとしている。写真は、ヨルダン川西岸地区ヘブロン旧市街に建つイスラエル兵（10日）"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"中国、イスラエルに入植地の「強制的建設」停止を要求 ヨルダン川西岸"}],["$","meta","4",{"property":"og:description","content":"中国は中東紛争の仲介者としての立場を確立しようとしている。写真は、ヨルダン川西岸地区ヘブロン旧市街に建つイスラエル兵（10日）"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/cf2530e5cf2530e53ce8d89d/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fe303%2Flive%2F46a76390-c939-11f1-bcc7-a3638a736ce9.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"中国、イスラエルに入植地の「強制的建設」停止を要求 ヨルダン川西岸"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"中国、イスラエルに入植地の「強制的建設」停止を要求 ヨルダン川西岸"}],["$","meta","14",{"name":"twitter:description","content":"中国は中東紛争の仲介者としての立場を確立しようとしている。写真は、ヨルダン川西岸地区ヘブロン旧市街に建つイスラエル兵（10日）"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fe303%2Flive%2F46a76390-c939-11f1-bcc7-a3638a736ce9.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

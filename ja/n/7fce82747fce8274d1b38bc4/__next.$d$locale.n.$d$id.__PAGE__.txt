@@ -1,0 +1,71 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://image.news.livedoor.com/newsimage/stf/a/f/af8e8_1796_10c2662d_46166b40.jpg","image"]
+5:Tc5c,プログラミング言語「PHP」に重大な欠陥が見つかった問題。きょうも飲食店でアプリが使えないなどの影響が出ています。一方、 不正アクセス によって FX 取引の利用者の一部から突然、財産を失ったという被害の声が相次いでいます。
+
+きょうも、アプリでの弁当予約やクーポンの利用ができない状態が続いています。
+
+「張り紙がなかったらわからない。（アプリが使えないのは）不便ではあります」
+
+▼さらに、回転寿司チェーンの「はま寿司」では来店予約を一時停止。▼ハンバーガーチェーンの「ゼッテリア」では、アプリの全ての機能を停止しています。
+
+PHPの欠陥の影響は、いのちに関わる情報にも影響しています。
+
+先ほど、ソフトバンクは「緊急速報メール」のメンテナンスをしていると発表。現在、「緊急地震速報」や「津波警報」が受信できないということです。
+
+台風30号が接近するなか、「災害・避難情報」も受信できない状態に。メンテナンスは26日に完了するとしています。
+
+「速報が来ない？それは非常に困ります。本当に。一人暮らしなんで」
+
+さらに、専門家が懸念するのは“ゼロデイ攻撃”のリスクです。
+
+PHPの欠陥の修正プログラムが公開されたのは、おとといの夜。その前に攻撃が始まっていたというのです。
+
+それを示すのが、こちら。欠陥を狙った攻撃プログラムがすでに作られ、その手法が公開されていたのです。ページには「全てを盗め。何も残すな」という文言が。
+
+一方、 不正アクセス によって「財産を失った」との声がネットで相次いでいます。
+
+攻撃の対象となったのは、GMOインターネットが展開している FX ＝外国為替証拠金取引の自動売買に使われるサーバーです。
+
+GMOのサーバー2万6739件が 不正アクセス の影響を受け、取引口座のIDやパスワードが不正に使われた可能性があると発表。
+
+GMOのシステムを利用して FX 取引をしていた人の一人は、JNNの取材に対し、「およそ430万円あった口座が突然、6000円程度まで減ってしまった。残高を見たときは頭が真っ白になった」などと証言しています。
+
+GMOはシステムを利用していた人から不正利用の相談は受けているものの、「有無や範囲については、引き続き調査中」としています。
+
+10歳若返る？「ジャパニーズウォーキング」…“1日30分”で1万歩歩くよりも効果的 道具いらずで海外で話題【Nスタ解説】
+
+40代から増加「脳梗塞」の初期症状は？「倒れてからじゃ遅い」早期発見のカギ「BE FAST」とは【ひるおび】
+
+「インフルにかかる人・かからない人の違いは？」「医師はどう予防？」インフルエンザの疑問を専門家に聞く【ひるおび】d:X
+12:X
+12:C
+0:{"buildId":"uBkhHRT_aLtDySfUghNoY","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-23","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"ライブドアニュース"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"不正アクセス「財産失った」の声"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://image.news.livedoor.com/newsimage/stf/a/f/af8e8_1796_10c2662d_46166b40.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"プログラミング言語「PHP」に重大な欠陥が見つかった問題。きょうも飲食店でアプリが使えないなどの影響が出ています。一方、 不正アクセス によって FX 取引の利用者の一部から突然、財産を失ったという被害の声が相次いでいます。"}],["$","p","1",{"children":"きょうも、アプリでの弁当予約やクーポンの利用ができない状態が続いています。"}],["$","p","2",{"children":"「張り紙がなかったらわからない。（アプリが使えないのは）不便ではあります」"}],["$","p","3",{"children":"▼さらに、回転寿司チェーンの「はま寿司」では来店予約を一時停止。▼ハンバーガーチェーンの「ゼッテリア」では、アプリの全ての機能を停止しています。"}],["$","p","4",{"children":"PHPの欠陥の影響は、いのちに関わる情報にも影響しています。"}],["$","p","5",{"children":"先ほど、ソフトバンクは「緊急速報メール」のメンテナンスをしていると発表。現在、「緊急地震速報」や「津波警報」が受信できないということです。"}],["$","p","6",{"children":"台風30号が接近するなか、「災害・避難情報」も受信できない状態に。メンテナンスは26日に完了するとしています。"}],["$","p","7",{"children":"「速報が来ない？それは非常に困ります。本当に。一人暮らしなんで」"}],["$","p","8",{"children":"さらに、専門家が懸念するのは“ゼロデイ攻撃”のリスクです。"}],["$","p","9",{"children":"PHPの欠陥の修正プログラムが公開されたのは、おとといの夜。その前に攻撃が始まっていたというのです。"}],["$","p","10",{"children":"それを示すのが、こちら。欠陥を狙った攻撃プログラムがすでに作られ、その手法が公開されていたのです。ページには「全てを盗め。何も残すな」という文言が。"}],["$","p","11",{"children":"一方、 不正アクセス によって「財産を失った」との声がネットで相次いでいます。"}],["$","p","12",{"children":"攻撃の対象となったのは、GMOインターネットが展開している FX ＝外国為替証拠金取引の自動売買に使われるサーバーです。"}],["$","p","13",{"children":"GMOのサーバー2万6739件が 不正アクセス の影響を受け、取引口座のIDやパスワードが不正に使われた可能性があると発表。"}],["$","p","14",{"children":"GMOのシステムを利用して FX 取引をしていた人の一人は、JNNの取材に対し、「およそ430万円あった口座が突然、6000円程度まで減ってしまった。残高を見たときは頭が真っ白になった」などと証言しています。"}],["$","p","15",{"children":"GMOはシステムを利用していた人から不正利用の相談は受けているものの、「有無や範囲については、引き続き調査中」としています。"}],["$","p","16",{"children":"10歳若返る？「ジャパニーズウォーキング」…“1日30分”で1万歩歩くよりも効果的 道具いらずで海外で話題【Nスタ解説】"}],["$","p","17",{"children":"40代から増加「脳梗塞」の初期症状は？「倒れてからじゃ遅い」早期発見のカギ「BE FAST」とは【ひるおび】"}],["$","p","18",{"children":"「インフルにかかる人・かからない人の違いは？」「医師はどう予防？」インフルエンザの疑問を専門家に聞く【ひるおび】"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はライブドアニュースにあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.livedoor.com/article/detail/32641675/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はライブドアニュースで読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/7fce82747fce8274d1b38bc4","title":"不正アクセス「財産失った」の声","locale":"ja","take":null}],["$","$L4",null,{"title":"不正アクセス「財産失った」の声","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/7fce82747fce8274d1b38bc4","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E4%B8%8D%E6%AD%A3%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%81%AE%E5%A3%B0&mode=phrase&url=news.livedoor.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-us:https://bbc.co.uk/news/articles/c6ly0dg453v8o",{"children":["$","$L2",null,{"href":"/ja/n/e3b248fae3b248fa6eb002cc","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"US justice department investigating Corey Lewandowski over DHS role"}]]}]}],["$","li","bbc-health:https://bbc.co.uk/news/articles/cm5yez87qwvdo",{"children":["$","$L2",null,{"href":"/ja/n/b2700f73b2700f73df0aba83","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"I thought I was dying but it was health anxiety - here's how to recognise the signs"}]]}]}],["$","li","nhk-politics:https://news.web.nhk/newsweb/na/nd-20261023de64536",{"children":["$","$L2",null,{"href":"/ja/n/20a774d420a774d45092ddac","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"福岡県議会 元副議長が就任前に藏内氏に500万円手渡したと証言"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"不正アクセス「財産失った」の声"}],["$","meta","1",{"name":"description","content":"プログラミング言語「PHP」に重大な欠陥が見つかった問題。きょうも飲食店でアプリが使えないなどの影響が出ています。一方、 不正アクセス によって FX 取引の利用者の一部から突然、財産を失ったという被害の声が相次いでいます。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"不正アクセス「財産失った」の声"}],["$","meta","4",{"property":"og:description","content":"プログラミング言語「PHP」に重大な欠陥が見つかった問題。きょうも飲食店でアプリが使えないなどの影響が出ています。一方、 不正アクセス によって FX 取引の利用者の一部から突然、財産を失ったという被害の声が相次いでいます。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/7fce82747fce8274d1b38bc4/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fimage.news.livedoor.com%2Fnewsimage%2Fstf%2Fa%2Ff%2Faf8e8_1796_10c2662d_46166b40.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"不正アクセス「財産失った」の声"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"不正アクセス「財産失った」の声"}],["$","meta","14",{"name":"twitter:description","content":"プログラミング言語「PHP」に重大な欠陥が見つかった問題。きょうも飲食店でアプリが使えないなどの影響が出ています。一方、 不正アクセス によって FX 取引の利用者の一部から突然、財産を失ったという被害の声が相次いでいます。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fimage.news.livedoor.com%2Fnewsimage%2Fstf%2Fa%2Ff%2Faf8e8_1796_10c2662d_46166b40.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

@@ -1,0 +1,128 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+19:X
+1e:X
+1e:C
+0:{"buildId":"uBkhHRT_aLtDySfUghNoY","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-24","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"マイナビニュース"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"鈴木愛理「BiSHを見て世界が変わった」アイナ・ジ・エンドと語るアイドル像"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"2 時間前"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"アイナ・ジ・エンドがパーソナリティを務めるTOKYO FMのラジオ番組「東芝ライフスタイル アイナ・ジ・エンドの『ほな、また』」。（毎週土曜 11：30～）。日々の他愛もない話から、日常で大切にしていることなどを、リスナーからのメッセージも交えながらまったりとトークするプログラムです。時に、自身の音楽や最近の活動、アイナ・ジ・エンドが今この人と話したいと思うゲストなども招いていきます。"}],["$","p","1",{"children":"10月24日（土）の放送では、先週に引き続き、鈴木愛理さんをゲストにお迎えして、同い年（1994年生まれ）の2人の年表を辿りながら、多忙を極めた学業との両立エピソードをはじめ、BiSHとハロプロで互いに抱いていたリスペクトまで、たっぷりとお伺いしました。"}],["$","p","2",{"children":"アイナ・ジ・エンド：今日は先週の続きで、同い年の1994年生まれということで、2013年以降の年表を振り返っていこうと思います。"}],["$","p","3",{"children":"アイナ：私はちょうど高校を卒業して、大阪から東京に上京した時期。専門学校や大学には通わず、渋谷のライブハウスを訪ねて「ライブをさせてもらえませんか？」ってお願いしていたんだよね。愛理は大学に通いながら、℃-uteやBuono!の活動を続けていたの？"}],["$","p","4",{"children":"鈴木：そうだね。大学に行くことが、この世界に入るときの親との約束だったの。「大学までは絶対に行きなさい」って言われていたから、頑張って通った感じかな。両親も大学を卒業していて、自分たちが経験して良かったと思っていたから、私にも経験してほしかったんだと思う。"}],["$","p","5",{"children":"アイナ：慶應義塾大学って、文字面からして頭が良さそうだもん。すごいよね。学校に行って、レッスンに行って、また学校に行って……という生活だったの？"}],["$","p","6",{"children":"鈴木：そうだね。湘南藤沢キャンパスだったから、通学もほぼ旅みたいな感じ。駅から大学までバスで20分くらいかかるし、バスの本数も少なかったの。乗り換えの駅で少し時間ができたら、立ち食いうどんやそばを食べて、ホームにダッシュしてレッスンに行く。それが日常だった。"}],["$","p","7",{"children":"だから本当に早食いになったよ。5分あれば食べられるし、7分あればかき揚げやコロッケも付けられる（笑）。"}],["$","p","8",{"children":"アイナ：2015年にBiSHがインディーズデビューして、2016年にメジャーデビューしました。"}],["$","p","9",{"children":"鈴木：当時はアイドル戦国時代で、BiSHはすごく異色の存在だったと思う。いい意味で尖っていて、「アイドル」という言葉の幅を広げてくれたグループ。もう本当にアーティストだなって感じていました。"}],["$","p","10",{"children":"アイナ：うれしい。私はBiSHにいた頃、自分自身を「アイドルだ」と思ったことはあまりなかったんだよね。もともとアイドルに憧れてはいたんだけど。学校で後ろの席の子が振り返って笑ってくれるだけで「すごくかわいい！」と思っていて、そういう人こそがアイドルになれると思っていたの。愛理も、私にとってはそういう存在だったよ。"}],["$","p","11",{"children":"アイナ：BiSHとしてアイドルフェスに出られるのがうれしかったけど、歌っていたのはかなり振り切った曲だったからね（笑）。"}],["$","p","12",{"children":"鈴木：私はBuono!でロックをやっていたから、BiSHの音楽にもすごくシンパシーを感じていた。歌が最高だし、パフォーマンスの熱量がファンにも伝わっている。超格好良かったもん。"}],["$","p","13",{"children":"アイナ：そんなふうに思ってくれていたんだ。"}],["$","p","14",{"children":"鈴木：私自身、ハロー！プロジェクトにいる時間が長かったから、BiSHを見て「自分が知っていた世界はまだまだ小さかったんだ」と感じたの。感情をあそこまで歌に乗せて表現することも、当時の私にはできなかった。ソロになってから、ようやくそういう表現に少しずつ踏み込めた気がする。"}],["$","p","15",{"children":"アイナ：私も、愛理はずっと雲の上の存在だった。活動する場所も違ったから、同じイベントに出る機会もあまりなかったよね。"}],["$","p","16",{"children":"鈴木：あの頃に出会いたかったよね！ BiSHと℃-uteやBuono!で対バンしていたら、どうなっていたんだろうって思う。"}],["$","p","17",{"children":"アイナ：いや、ハロプロのファンにしばかれてるよ（笑）。"}],["$","p","18",{"children":"鈴木：いや、衝撃でみんな口ポカンだったから、それこそマジで（笑）。"}],["$","p","19",{"children":"アイナ：いつか本当に対バンしたいね。ソロでもいいから。"}],["$","p","20",{"children":"鈴木：やりたい！ スリーマンとかもいいよね。"}],["$","p","21",{"children":"鈴木：来年は自分の周年イヤーだから、音楽の活動を増やそうと思っていて。これまでお芝居やバラエティなど、いろいろな仕事に挑戦してきたけど、やっぱり音楽が一番好きだから。"}],["$","p","22",{"children":"アイナ：よかった。愛理は音楽の仕事がないと、気分が落ち込んだりするくらい歌が好きだもんね。"}],["$","p","23",{"children":"鈴木：そうなの。私が落ち込んでいた時期に、アイナが毎日「おはよう！ 今日も笑ってる？」「今日は元気？」って連絡をくれたことがあって（笑）。「彼氏かな？」って思うくらい、ずっと気にかけてくれたの。あれは忘れられない。"}],["$","p","24",{"children":"アイナ：愛理が思っている以上に、私にとって愛理は憧れの存在だったから。そんな愛理が自分と同じ目線で話してくれて、しんどい気持ちも打ち明けてくれたら、何でもしたいと思うよ（笑）。"}],["$","p","25",{"children":"アイナ：今は一緒にゲームの「オーバークック」をしたり、カラオケに行ったりもするよね。 (長屋)晴子の誕生日には、2人でバックダンサーもしたね。"}],["$","p","26",{"children":"鈴木：SPEEDの「Body & Soul」とかね。即興で踊って、とにかく盛り上げようとしていた（笑）。"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf"],"$L10"]}],"$L11","$L12","$L13",null,"$L14","$L15"]}],["$L16"],"$L17"]}],"isPartial":"$@18","staleTime":"$19","varyParams":null},{"rsc":"$L1a","isPartial":"$@1b","staleTime":"$19","varyParams":null},{"rsc":"$L1c","isPartial":"$@1d","staleTime":"$19","varyParams":"$1e"},{"rsc":"$L1f","isPartial":"$@20","staleTime":"$19","varyParams":"$1e"}],"isUpgradeableISRFallback":false,"a":"$@21","rootVaryParams":null,"needsRuntimeRequest":"$@22"}
+23:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+24:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+27:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+28:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+29:"$Sreact.suspense"
+2b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+2c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+2d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+2e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+2f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","27",{"children":"アイナ：振り付けもぐちゃぐちゃだったけど、面白かった！"}]
+4:["$","p","28",{"children":"鈴木：音楽に突き動かされてきた人生だから、これからも一緒に音楽をやりたいね。"}]
+5:["$","p","29",{"children":"アイナ：もっと話したいことがあるのに、年表は2017年くらいまでしか進んでいない（笑）。"}]
+6:["$","p","30",{"children":"◆鈴木愛理の歌声に注目！「Break It down」"}]
+7:["$","p","31",{"children":"アイナ：ここで、私が好きな愛理の曲を一緒に聴きたいと思います。"}]
+8:["$","p","32",{"children":"鈴木：Official髭男dismさんが書いてくれた楽曲で、アイナがダンスをほめてくれた「Break It down」です。"}]
+9:["$","p","33",{"children":"アイナ：この曲の「Break」の発音が、愛理にしては珍しく少し気怠い感じで、それがたまらないんだよね。"}]
+a:["$","p","34",{"children":"鈴木：ヒゲダンさんご本人からディレクションしていただいた曲だからかもしれない。なんか前にも言ってくれたよね？ 「愛理の中音域が好き」って。高いところも。"}]
+b:["$","p","35",{"children":"鈴木：ありがとう。今、何回か「録音していいですか？」って言いたくなる瞬間がありました（笑）。好きなところを全部つなげて、リミックスさせてもらいます（笑）。"}]
+c:["$","p","36",{"children":"アイナ：愛理が出演する映画も紹介したいと思います。「昨夜は殺れたかも」は、どんな作品ですか？"}]
+d:["$","p","37",{"children":"鈴木：夫婦のサスペンス要素がありながら、私たちは「ポップコーンムービー」と呼んでいる作品です。映画館でポップコーンを食べるタイミングを探すことってあるじゃないですか。あの時間がほとんどないです。どこでも食べられるくらいテンポよく見ることができます。"}]
+e:["$","p","38",{"children":"鈴木：コメディ要素もたっぷり。ゾンビも登場しますし、いろいろな展開があって、最後まで楽しく観られると思います。"}]
+f:["$","p","39",{"children":"アイナ：主題歌もTHE RAMPAGEの吉野北人さんのソロプロジェクト「HOKUTO」と一緒に、「ゾンビ・イン・ラブ」を歌っています。ボカロPのRed-Tさんが作ってくれた楽曲で、キャッチーなメロディーが作品にいい違和感を与えてくれているんです。ぜひ劇場で体験してほしいです。"}]
+10:["$","p",null,{"className":"article-credit","children":"本文の著作権はマイナビニュースにあります。"}]
+11:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.mynavi.jp/article/20261024-5187454/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はマイナビニュースで読む"}]}]
+25:T217e,アイナ・ジ・エンドがパーソナリティを務めるTOKYO FMのラジオ番組「東芝ライフスタイル アイナ・ジ・エンドの『ほな、また』」。（毎週土曜 11：30～）。日々の他愛もない話から、日常で大切にしていることなどを、リスナーからのメッセージも交えながらまったりとトークするプログラムです。時に、自身の音楽や最近の活動、アイナ・ジ・エンドが今この人と話したいと思うゲストなども招いていきます。
+
+10月24日（土）の放送では、先週に引き続き、鈴木愛理さんをゲストにお迎えして、同い年（1994年生まれ）の2人の年表を辿りながら、多忙を極めた学業との両立エピソードをはじめ、BiSHとハロプロで互いに抱いていたリスペクトまで、たっぷりとお伺いしました。
+
+アイナ・ジ・エンド：今日は先週の続きで、同い年の1994年生まれということで、2013年以降の年表を振り返っていこうと思います。
+
+アイナ：私はちょうど高校を卒業して、大阪から東京に上京した時期。専門学校や大学には通わず、渋谷のライブハウスを訪ねて「ライブをさせてもらえませんか？」ってお願いしていたんだよね。愛理は大学に通いながら、℃-uteやBuono!の活動を続けていたの？
+
+鈴木：そうだね。大学に行くことが、この世界に入るときの親との約束だったの。「大学までは絶対に行きなさい」って言われていたから、頑張って通った感じかな。両親も大学を卒業していて、自分たちが経験して良かったと思っていたから、私にも経験してほしかったんだと思う。
+
+アイナ：慶應義塾大学って、文字面からして頭が良さそうだもん。すごいよね。学校に行って、レッスンに行って、また学校に行って……という生活だったの？
+
+鈴木：そうだね。湘南藤沢キャンパスだったから、通学もほぼ旅みたいな感じ。駅から大学までバスで20分くらいかかるし、バスの本数も少なかったの。乗り換えの駅で少し時間ができたら、立ち食いうどんやそばを食べて、ホームにダッシュしてレッスンに行く。それが日常だった。
+
+だから本当に早食いになったよ。5分あれば食べられるし、7分あればかき揚げやコロッケも付けられる（笑）。
+
+アイナ：2015年にBiSHがインディーズデビューして、2016年にメジャーデビューしました。
+
+鈴木：当時はアイドル戦国時代で、BiSHはすごく異色の存在だったと思う。いい意味で尖っていて、「アイドル」という言葉の幅を広げてくれたグループ。もう本当にアーティストだなって感じていました。
+
+アイナ：うれしい。私はBiSHにいた頃、自分自身を「アイドルだ」と思ったことはあまりなかったんだよね。もともとアイドルに憧れてはいたんだけど。学校で後ろの席の子が振り返って笑ってくれるだけで「すごくかわいい！」と思っていて、そういう人こそがアイドルになれると思っていたの。愛理も、私にとってはそういう存在だったよ。
+
+アイナ：BiSHとしてアイドルフェスに出られるのがうれしかったけど、歌っていたのはかなり振り切った曲だったからね（笑）。
+
+鈴木：私はBuono!でロックをやっていたから、BiSHの音楽にもすごくシンパシーを感じていた。歌が最高だし、パフォーマンスの熱量がファンにも伝わっている。超格好良かったもん。
+
+アイナ：そんなふうに思ってくれていたんだ。
+
+鈴木：私自身、ハロー！プロジェクトにいる時間が長かったから、BiSHを見て「自分が知っていた世界はまだまだ小さかったんだ」と感じたの。感情をあそこまで歌に乗せて表現することも、当時の私にはできなかった。ソロになってから、ようやくそういう表現に少しずつ踏み込めた気がする。
+
+アイナ：私も、愛理はずっと雲の上の存在だった。活動する場所も違ったから、同じイベントに出る機会もあまりなかったよね。
+
+鈴木：あの頃に出会いたかったよね！ BiSHと℃-uteやBuono!で対バンしていたら、どうなっていたんだろうって思う。
+
+アイナ：いや、ハロプロのファンにしばかれてるよ（笑）。
+
+鈴木：いや、衝撃でみんな口ポカンだったから、それこそマジで（笑）。
+
+アイナ：いつか本当に対バンしたいね。ソロでもいいから。
+
+鈴木：やりたい！ スリーマンとかもいいよね。
+
+鈴木：来年は自分の周年イヤーだから、音楽の活動を増やそうと思っていて。これまでお芝居やバラエティなど、いろいろな仕事に挑戦してきたけど、やっぱり音楽が一番好きだから。
+
+アイナ：よかった。愛理は音楽の仕事がないと、気分が落ち込んだりするくらい歌が好きだもんね。
+
+鈴木：そうなの。私が落ち込んでいた時期に、アイナが毎日「おはよう！ 今日も笑ってる？」「今日は元気？」って連絡をくれたことがあって（笑）。「彼氏かな？」って思うくらい、ずっと気にかけてくれたの。あれは忘れられない。
+
+アイナ：愛理が思っている以上に、私にとって愛理は憧れの存在だったから。そんな愛理が自分と同じ目線で話してくれて、しんどい気持ちも打ち明けてくれたら、何でもしたいと思うよ（笑）。
+
+アイナ：今は一緒にゲームの「オーバークック」をしたり、カラオケに行ったりもするよね。 (長屋)晴子の誕生日には、2人でバックダンサーもしたね。
+
+鈴木：SPEEDの「Body & Soul」とかね。即興で踊って、とにかく盛り上げようとしていた（笑）。
+
+アイナ：振り付けもぐちゃぐちゃだったけど、面白かった！
+
+鈴木：音楽に突き動かされてきた人生だから、これからも一緒に音楽をやりたいね。
+
+アイナ：もっと話したいことがあるのに、年表は2017年くらいまでしか進んでいない（笑）。
+
+◆鈴木愛理の歌声に注目！「Break It down」
+
+アイナ：ここで、私が好きな愛理の曲を一緒に聴きたいと思います。
+
+鈴木：Official髭男dismさんが書いてくれた楽曲で、アイナがダンスをほめてくれた「Break It down」です。
+
+アイナ：この曲の「Break」の発音が、愛理にしては珍しく少し気怠い感じで、それがたまらないんだよね。
+
+鈴木：ヒゲダンさんご本人からディレクションしていただいた曲だからかもしれない。なんか前にも言ってくれたよね？ 「愛理の中音域が好き」って。高いところも。
+
+鈴木：ありがとう。今、何回か「録音していいですか？」って言いたくなる瞬間がありました（笑）。好きなところを全部つなげて、リミックスさせてもらいます（笑）。
+
+アイナ：愛理が出演する映画も紹介したいと思います。「昨夜は殺れたかも」は、どんな作品ですか？
+
+鈴木：夫婦のサスペンス要素がありながら、私たちは「ポップコーンムービー」と呼んでいる作品です。映画館でポップコーンを食べるタイミングを探すことってあるじゃないですか。あの時間がほとんどないです。どこでも食べられるくらいテンポよく見ることができます。
+
+鈴木：コメディ要素もたっぷり。ゾンビも登場しますし、いろいろな展開があって、最後まで楽しく観られると思います。
+
+アイナ：主題歌もTHE RAMPAGEの吉野北人さんのソロプロジェクト「HOKUTO」と一緒に、「ゾンビ・イン・ラブ」を歌っています。ボカロPのRed-Tさんが作ってくれた楽曲で、キャッチーなメロディーが作品にいい違和感を与えてくれているんです。ぜひ劇場で体験してほしいです。12:["$","section",null,{"className":"article-actions","children":[["$","$L23",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/e97251e4e97251e4611580d0","title":"鈴木愛理「BiSHを見て世界が変わった」アイナ・ジ・エンドと語るアイドル像","locale":"ja","take":null}],["$","$L24",null,{"title":"鈴木愛理「BiSHを見て世界が変わった」アイナ・ジ・エンドと語るアイドル像","excerpt":"$25","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/e97251e4e97251e4611580d0","locale":"ja"}],"$L26"]}]
+13:["$","$L27",null,{"placement":"article","className":"mt-8"}]
+14:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+15:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","euronews:https://euronews.com/video/2026/10/24/watch-french-police-deploy-armoured-vehicles-in-paris-and-marseille",{"children":["$","$L2",null,{"href":"/ja/n/8374541e8374541e40e5e29c","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Euronews"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Watch: French police deploy armoured vehicles in Paris and Marseille"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/6065908b13cf9f6f53b067800d7d06ebb7eca06f?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/e084f668e084f668a174cab2","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"もどかしいアビスパ福岡 残留争いのライバルに完敗 試合後に選手とサポーターが話し合い 12試合連続失点に守備陣再編へ(西スポWEB OTTO!)"}]]}]}],["$","li","yahoo-it:https://news.yahoo.co.jp/articles/4ac352b938ffc5585049c70723218dd8fa504bac?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/cd43a10bcd43a10b8a1a69db","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"英国政府、AI生物安全保障組織を設立 OpenAIとアンソロピックが最大2億ポンド約束(ビジネス＋IT)"}]]}]}]]}]]}]
+16:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+17:["$","$L28",null,{"children":["$","$29",null,{"name":"Next.MetadataOutlet","children":"$@2a"}]}]
+1a:["$","$1","h",{"children":[null,["$","$L2b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L2c",null,{"children":["$","$29",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"鈴木愛理「BiSHを見て世界が変わった」アイナ・ジ・エンドと語るアイドル像"}],["$","meta","1",{"name":"description","content":"アイナ・ジ・エンドがパーソナリティを務めるTOKYO FMのラジオ番組「東芝ライフスタイル アイナ・ジ・エンドの『ほな、また』」。（毎週土曜 11：30～）。日々の他愛もない話から、日常で大切にしていることなどを、リスナーからのメッセージも交えながらまったりとトークするプログラムです。時に、自身の音楽や最近の活動、アイナ・ジ・エンドが今この人と話したいと思うゲストなども招いていきます。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"鈴木愛理「BiSHを見て世界が変わった」アイナ・ジ・エンドと語るアイドル像"}],["$","meta","4",{"property":"og:description","content":"アイナ・ジ・エンドがパーソナリティを務めるTOKYO FMのラジオ番組「東芝ライフスタイル アイナ・ジ・エンドの『ほな、また』」。（毎週土曜 11：30～）。日々の他愛もない話から、日常で大切にしていることなどを、リスナーからのメッセージも交えながらまったりとトークするプログラムです。時に、自身の音楽や最近の活動、アイナ・ジ・エンドが今この人と話したいと思うゲストなども招いていきます。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/e97251e4e97251e4611580d0/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"鈴木愛理「BiSHを見て世界が変わった」アイナ・ジ・エンドと語るアイドル像"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"鈴木愛理「BiSHを見て世界が変わった」アイナ・ジ・エンドと語るアイドル像"}],["$","meta","14",{"name":"twitter:description","content":"アイナ・ジ・エンドがパーソナリティを務めるTOKYO FMのラジオ番組「東芝ライフスタイル アイナ・ジ・エンドの『ほな、また』」。（毎週土曜 11：30～）。日々の他愛もない話から、日常で大切にしていることなどを、リスナーからのメッセージも交えながらまったりとトークするプログラムです。時に、自身の音楽や最近の活動、アイナ・ジ・エンドが今この人と話したいと思うゲストなども招いていきます。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L2d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+1c:["$","$1","c",{"children":[null,["$","$L2e",null,{"parallelRouterKey":"children","template":["$","$L2f",null,{}]}]]}]
+1f:["$","$1","c",{"children":[null,["$","$L2e",null,{"parallelRouterKey":"children","template":["$","$L2f",null,{}]}]]}]
+22:true
+26:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E9%88%B4%E6%9C%A8%E6%84%9B%E7%90%86%E3%82%A2%E3%82%A4%E3%83%8A%E3%83%BB%E3%82%B8%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%89%E3%81%A8%E8%AA%9E%E3%82%8B%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E5%83%8F&mode=phrase&url=news.mynavi.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+2a:null
+19:300
+19:C
+21:0
+1b:"$undefined"
+1d:"$undefined"
+20:"$undefined"
+18:"$undefined"

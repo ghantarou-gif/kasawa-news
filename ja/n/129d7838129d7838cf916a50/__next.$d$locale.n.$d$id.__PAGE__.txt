@@ -1,0 +1,84 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00010000-nknatiogeo-000-2-view.jpg?pri=l&w=450&h=300&exp=10800","image"]
+11:X
+16:X
+16:C
+0:{"buildId":"uBkhHRT_aLtDySfUghNoY","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-21","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"人類最古のペスト流行は5500年前と判明、鍵はシベリアのマーモット 2019と2020年にも犠牲者(ナショナル ジオグラフィック日本版)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"3 日前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00010000-nknatiogeo-000-2-view.jpg?pri=l&w=450&h=300&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"知られている限り、人類で最古のペスト流行は、ロシア、シベリア南東部のバイカル湖の近くで起きていた。英オックスフォード大学のルアイリ・マクラウド氏が率いる研究チームは、約5500年前にこの地域の墓地に埋葬された狩猟採集民に、ペスト菌の存在を示す証拠を発見したという論文を2026年6月17日付けで学術誌「ネイチャー」に発表した。"}],["$","p","1",{"children":"この狩猟採集民たちは地域に生息するシベリアマーモット（Marmota sibirica）からペストに感染した可能性が高いとマクラウド氏は言う。マーモットはネコほどの大きさの、穴を掘って暮らすジリスの一種で、その関与を示す考古学的な裏付けもある。"}],["$","p","2",{"children":"バイカル湖周辺で起きたペスト流行と同じ地域の墓地から、マーモットの門歯（前歯）が数百個見つかっているのだ。その長く湾曲した門歯は装飾品として珍重され、副葬品として埋葬されたとみられる。「マーモットは、ヒトと密接な関わりがあったことを示す明確な考古学的証拠がある、唯一のペスト媒介動物です」とマクラウド氏は言う。"}],["$","p","3",{"children":"知られている限り、人類で最古のペスト流行は、ロシア、シベリア南東部のバイカル湖の近くで起きていた。英オックスフォード大学のルアイリ・マクラウド氏が率いる研究チームは、約5500年前にこの地域の墓地に埋葬された狩猟採集民に、ペスト菌の存在を示す証拠を発見したという論文を2026年6月17日付けで学術誌「ネイチャー」に発表した。"}],["$","p","4",{"children":"この狩猟採集民たちは地域に生息するシベリアマーモット（Marmota sibirica）からペストに感染した可能性が高いとマクラウド氏は言う。マーモットはネコほどの大きさの、穴を掘って暮らすジリスの一種で、その関与を示す考古学的な裏付けもある。"}],["$","p","5",{"children":"バイカル湖周辺で起きたペスト流行と同じ地域の墓地から、マーモットの門歯（前歯）が数百個見つかっているのだ。その長く湾曲した門歯は装飾品として珍重され、副葬品として埋葬されたとみられる。「マーモットは、ヒトと密接な関わりがあったことを示す明確な考古学的証拠がある、唯一のペスト媒介動物です」とマクラウド氏は言う。"}],["$","p","6",{"children":"マーモットからヒトへの感染は、その後も数千年にわたって続いてきた。米ミネソタ大学の歴史学者で獣医師のスーザン・ジョーンズ氏によれば、1870年代にシベリアへ向かった調査隊は、マーモットの間でペストが広がっており、そのマーモットを扱ったヒトへの感染が起こっているという推測を持ち帰ったという。氏はソビエト連邦のペスト防疫体制を10年にわたり研究している。"}],["$","p","7",{"children":"また、1910年から1911年にかけて中国の満州地方で約6万人が死亡したペストの大流行では、地元の猟師たちが調査員に対して、病気はマーモットが原因だという見方を示した。"}],["$","p","8",{"children":"それでも、中央アジアのステップ（草原地帯）に暮らす人々にとって、マーモットの文化的価値は失われていない。熱した石でマーモットを皮ごと焼く「ボードグ」はモンゴルの国民的料理だ。マーモットの内臓は健康によいと信じる人も多く、違法なマーモット猟がいまだに続けられている。"}],["$","p","9",{"children":"マーモットの生肉を食べることは、ペストの感染と関連づけられてきた。2019年には、モンゴル西部である夫婦がマーモットの内臓を生で食べたあとにペストで死亡した。また翌年にモンゴルの近隣地域で、15歳の少年が狩りで捕まえたマーモットを食べたあとに死亡している。"}],["$","p","10",{"children":"ヒトは通常、ペスト菌を長く維持する宿主にはならない。対して、マーモットはペスト菌を長期間維持するのに適した宿主だと、ノルウェー、オスロ大学でペスト菌の生態を研究するニルス・ステンセス氏は語る。"}],["$","p","11",{"children":"実際、シベリアマーモットはペスト菌に感染しても50％から80％が生き延びる。さらにマーモットは、地下で密集した社会性コロニーを作って生活し、十数匹の大家族が同じトンネルを共有している。ノミはマーモットからマーモットへと飛び移る。"}],["$","p","12",{"children":"「病原体にとっては、まさにうってつけの環境です」とマクラウド氏は言う。また巣穴は、マーモットが冬眠する間、ペスト菌にとって居心地のよいすみかにもなる。ロシアの研究チームは、ペスト菌がげっ歯類の巣の敷き材で400日以上生存することを確認している。"}],["$","p","13",{"children":"その地下世界から、人間が築いた帝国を揺るがす災厄が生まれた。"}],["$","p","14",{"children":"ペスト菌は、数千年前に腸内にすむ近縁の細菌から分かれた。そしてバイカル湖周辺で見つかったペスト菌株には、まだ最も重要な道具が備わっていなかった。ymt遺伝子だ。一方、別の研究では、約3800年前の菌からこの遺伝子が確認されている。"}],["$","p","15",{"children":"ymt遺伝子は、ノミの腸でペスト菌が生き延びるのを助ける。結果的に、菌を媒介できる宿主の範囲が大きく広がり、ヒトへの感染が起こりやすくなった。"}],["$","p","16",{"children":"ペスト菌は粘液の栓でノミの腸を塞ぐことが知られている。するとノミは飢餓状態になり、温かいものなら何でも、手当たり次第に何度も咬むようになる。こうして動物の病気がヒトに広がってゆく。また、ステンセス氏の研究チームは、げっ歯類やノミが減った時期には、ノミの腸をよりしっかりふさぐ型のペスト菌が選択されてきた可能性もあるという。"}],"$L3","$L4","$L5","$L6","$L7"],"$L8"]}],"$L9","$La","$Lb",null,"$Lc","$Ld"]}],["$Le"],"$Lf"]}],"isPartial":"$@10","staleTime":"$11","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$11","varyParams":null},{"rsc":"$L14","isPartial":"$@15","staleTime":"$11","varyParams":"$16"},{"rsc":"$L17","isPartial":"$@18","staleTime":"$11","varyParams":"$16"}],"isUpgradeableISRFallback":false,"a":"$@19","rootVaryParams":null,"needsRuntimeRequest":"$@1a"}
+1b:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+1c:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+1e:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+1f:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+20:"$Sreact.suspense"
+22:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+23:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+24:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+25:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+26:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","17",{"children":"天候がこの仕組み全体を左右している。中央アジアのステップでは、暖かいが暑すぎず、湿潤だが湿気が多すぎない年が数年続くと、ペスト菌はげっ歯類の中で静かに増えていくと、ステンセス氏は説明する。"}]
+4:["$","p","18",{"children":"やがて干ばつが起き、げっ歯類が激減すると、ノミの数が宿主に対して過剰になる。「ノミは過密状態になると落ち着きがなくなります」。この状態に陥ったノミは、家畜やネコ、ヒトといった残された吸血源に飛びつく。"}]
+5:["$","p","19",{"children":"この微妙なバランスを捉えていたのが、ソ連の寄生虫学者エフゲニー・パブロフスキーが1939年に提唱した理論だ。病気を土地の性質の一つとしてとらえ、病原体やげっ歯類、ノミ、土壌、水、気候は同じ重みを持ち、人間はその枠組みに後から加わった存在と考える。"}]
+6:["$","p","20",{"children":"ところが、ソ連の計画立案者たちは、土地は人間の思いどおりにできると考えていた。20世紀の大半にわたって続けられたペスト撲滅計画には、彼らの根底にある考え方が表れていたとジョーンズ氏は言う。「十分な知識と資源さえ投入すれば、どんな自然環境も、出来事も、土地もコントロールできるという考えです」"}]
+7:["$","p","21",{"children":"マーモットも、そしてペストもそうした試みを生き延びた。1990年までにはペスト撲滅計画は終了した。その失敗によって、科学者たちの長年の主張の正しさが証明された。すなわち、一部の病気はその土地に根付いたものであり、私たちにできる最善のことは、病気と共存する術を学ぶことなのだ。"}]
+8:["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]
+9:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/4aa929b4d5ae92a93c346059bc2d94c8af84d6ed?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}]
+1d:T1f1a,知られている限り、人類で最古のペスト流行は、ロシア、シベリア南東部のバイカル湖の近くで起きていた。英オックスフォード大学のルアイリ・マクラウド氏が率いる研究チームは、約5500年前にこの地域の墓地に埋葬された狩猟採集民に、ペスト菌の存在を示す証拠を発見したという論文を2026年6月17日付けで学術誌「ネイチャー」に発表した。
+
+この狩猟採集民たちは地域に生息するシベリアマーモット（Marmota sibirica）からペストに感染した可能性が高いとマクラウド氏は言う。マーモットはネコほどの大きさの、穴を掘って暮らすジリスの一種で、その関与を示す考古学的な裏付けもある。
+
+バイカル湖周辺で起きたペスト流行と同じ地域の墓地から、マーモットの門歯（前歯）が数百個見つかっているのだ。その長く湾曲した門歯は装飾品として珍重され、副葬品として埋葬されたとみられる。「マーモットは、ヒトと密接な関わりがあったことを示す明確な考古学的証拠がある、唯一のペスト媒介動物です」とマクラウド氏は言う。
+
+知られている限り、人類で最古のペスト流行は、ロシア、シベリア南東部のバイカル湖の近くで起きていた。英オックスフォード大学のルアイリ・マクラウド氏が率いる研究チームは、約5500年前にこの地域の墓地に埋葬された狩猟採集民に、ペスト菌の存在を示す証拠を発見したという論文を2026年6月17日付けで学術誌「ネイチャー」に発表した。
+
+この狩猟採集民たちは地域に生息するシベリアマーモット（Marmota sibirica）からペストに感染した可能性が高いとマクラウド氏は言う。マーモットはネコほどの大きさの、穴を掘って暮らすジリスの一種で、その関与を示す考古学的な裏付けもある。
+
+バイカル湖周辺で起きたペスト流行と同じ地域の墓地から、マーモットの門歯（前歯）が数百個見つかっているのだ。その長く湾曲した門歯は装飾品として珍重され、副葬品として埋葬されたとみられる。「マーモットは、ヒトと密接な関わりがあったことを示す明確な考古学的証拠がある、唯一のペスト媒介動物です」とマクラウド氏は言う。
+
+マーモットからヒトへの感染は、その後も数千年にわたって続いてきた。米ミネソタ大学の歴史学者で獣医師のスーザン・ジョーンズ氏によれば、1870年代にシベリアへ向かった調査隊は、マーモットの間でペストが広がっており、そのマーモットを扱ったヒトへの感染が起こっているという推測を持ち帰ったという。氏はソビエト連邦のペスト防疫体制を10年にわたり研究している。
+
+また、1910年から1911年にかけて中国の満州地方で約6万人が死亡したペストの大流行では、地元の猟師たちが調査員に対して、病気はマーモットが原因だという見方を示した。
+
+それでも、中央アジアのステップ（草原地帯）に暮らす人々にとって、マーモットの文化的価値は失われていない。熱した石でマーモットを皮ごと焼く「ボードグ」はモンゴルの国民的料理だ。マーモットの内臓は健康によいと信じる人も多く、違法なマーモット猟がいまだに続けられている。
+
+マーモットの生肉を食べることは、ペストの感染と関連づけられてきた。2019年には、モンゴル西部である夫婦がマーモットの内臓を生で食べたあとにペストで死亡した。また翌年にモンゴルの近隣地域で、15歳の少年が狩りで捕まえたマーモットを食べたあとに死亡している。
+
+ヒトは通常、ペスト菌を長く維持する宿主にはならない。対して、マーモットはペスト菌を長期間維持するのに適した宿主だと、ノルウェー、オスロ大学でペスト菌の生態を研究するニルス・ステンセス氏は語る。
+
+実際、シベリアマーモットはペスト菌に感染しても50％から80％が生き延びる。さらにマーモットは、地下で密集した社会性コロニーを作って生活し、十数匹の大家族が同じトンネルを共有している。ノミはマーモットからマーモットへと飛び移る。
+
+「病原体にとっては、まさにうってつけの環境です」とマクラウド氏は言う。また巣穴は、マーモットが冬眠する間、ペスト菌にとって居心地のよいすみかにもなる。ロシアの研究チームは、ペスト菌がげっ歯類の巣の敷き材で400日以上生存することを確認している。
+
+その地下世界から、人間が築いた帝国を揺るがす災厄が生まれた。
+
+ペスト菌は、数千年前に腸内にすむ近縁の細菌から分かれた。そしてバイカル湖周辺で見つかったペスト菌株には、まだ最も重要な道具が備わっていなかった。ymt遺伝子だ。一方、別の研究では、約3800年前の菌からこの遺伝子が確認されている。
+
+ymt遺伝子は、ノミの腸でペスト菌が生き延びるのを助ける。結果的に、菌を媒介できる宿主の範囲が大きく広がり、ヒトへの感染が起こりやすくなった。
+
+ペスト菌は粘液の栓でノミの腸を塞ぐことが知られている。するとノミは飢餓状態になり、温かいものなら何でも、手当たり次第に何度も咬むようになる。こうして動物の病気がヒトに広がってゆく。また、ステンセス氏の研究チームは、げっ歯類やノミが減った時期には、ノミの腸をよりしっかりふさぐ型のペスト菌が選択されてきた可能性もあるという。
+
+天候がこの仕組み全体を左右している。中央アジアのステップでは、暖かいが暑すぎず、湿潤だが湿気が多すぎない年が数年続くと、ペスト菌はげっ歯類の中で静かに増えていくと、ステンセス氏は説明する。
+
+やがて干ばつが起き、げっ歯類が激減すると、ノミの数が宿主に対して過剰になる。「ノミは過密状態になると落ち着きがなくなります」。この状態に陥ったノミは、家畜やネコ、ヒトといった残された吸血源に飛びつく。
+
+この微妙なバランスを捉えていたのが、ソ連の寄生虫学者エフゲニー・パブロフスキーが1939年に提唱した理論だ。病気を土地の性質の一つとしてとらえ、病原体やげっ歯類、ノミ、土壌、水、気候は同じ重みを持ち、人間はその枠組みに後から加わった存在と考える。
+
+ところが、ソ連の計画立案者たちは、土地は人間の思いどおりにできると考えていた。20世紀の大半にわたって続けられたペスト撲滅計画には、彼らの根底にある考え方が表れていたとジョーンズ氏は言う。「十分な知識と資源さえ投入すれば、どんな自然環境も、出来事も、土地もコントロールできるという考えです」
+
+マーモットも、そしてペストもそうした試みを生き延びた。1990年までにはペスト撲滅計画は終了した。その失敗によって、科学者たちの長年の主張の正しさが証明された。すなわち、一部の病気はその土地に根付いたものであり、私たちにできる最善のことは、病気と共存する術を学ぶことなのだ。a:["$","section",null,{"className":"article-actions","children":[["$","$L1b",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/129d7838129d7838cf916a50","title":"人類最古のペスト流行は5500年前と判明、鍵はシベリアのマーモット 2019と2020年にも犠牲者(ナショナル ジオグラフィック日本版)","locale":"ja","take":null}],["$","$L1c",null,{"title":"人類最古のペスト流行は5500年前と判明、鍵はシベリアのマーモット 2019と2020年にも犠牲者(ナショナル ジオグラフィック日本版)","excerpt":"$1d","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/129d7838129d7838cf916a50","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E4%BA%BA%E9%A1%9E%E6%9C%80%E5%8F%A4%E3%81%AE%E3%83%9A%E3%82%B9%E3%83%88%E6%B5%81%E8%A1%8C%E3%81%AF5500%E5%B9%B4%E5%89%8D%E3%81%A8%E5%88%A4%E6%98%8E%E3%80%81%E9%8D%B5%E3%81%AF%E3%82%B7%E3%83%99%E3%83%AA%E3%82%A2%E3%81%AE%E3%83%9E%E3%83%BC%E3%83%A2%E3%83%83%E3%83%88+2019%E3%81%A82020%E5%B9%B4%E3%81%AB%E3%82%82%E7%8A%A0%E7%89%B2&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+b:["$","$L1e",null,{"placement":"article","className":"mt-8"}]
+c:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+d:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","nhk-society:https://news.web.nhk/newsweb/na/nd-20261021de63220",{"children":["$","$L2",null,{"href":"/ja/n/0891297208912972a6293860","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"「ちぃたん☆」訴訟 2審で賠償命じられた須崎市が上告"}]]}]}],["$","li","nhk-world:https://news.web.nhk/newsweb/na/nd-20261021de63216",{"children":["$","$L2",null,{"href":"/ja/n/eb223669eb22366938cfbfbd","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"北朝鮮キム・ヨジョン氏 軍事境界線付近の「要塞化工事」視察"}]]}]}],["$","li","bbc-africa:https://bbc.co.uk/sport/rugby-union/articles/cmx234p2xwpzo",{"children":["$","$L2",null,{"href":"/ja/n/453cf194453cf194d54f1714","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"South Africa's Andrews died of tear in artery around heart - autopsy"}]]}]}]]}]]}]
+e:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+f:["$","$L1f",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@21"}]}]
+12:["$","$1","h",{"children":[null,["$","$L22",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L23",null,{"children":["$","$20",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"人類最古のペスト流行は5500年前と判明、鍵はシベリアのマーモット 2019と2020年にも犠牲者(ナショナル ジオグラフィック日本版)"}],["$","meta","1",{"name":"description","content":"知られている限り、人類で最古のペスト流行は、ロシア、シベリア南東部のバイカル湖の近くで起きていた。英オックスフォード大学のルアイリ・マクラウド氏が率いる研究チームは、約5500年前にこの地域の墓地に埋葬された狩猟採集民に、ペスト菌の存在を示す証拠を発見したという論文を2026年6月17日付けで学術誌「ネイチャー」に発表した。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"人類最古のペスト流行は5500年前と判明、鍵はシベリアのマーモット 2019と2020年にも犠牲者(ナショナル ジオグラフィック日本版)"}],["$","meta","4",{"property":"og:description","content":"知られている限り、人類で最古のペスト流行は、ロシア、シベリア南東部のバイカル湖の近くで起きていた。英オックスフォード大学のルアイリ・マクラウド氏が率いる研究チームは、約5500年前にこの地域の墓地に埋葬された狩猟採集民に、ペスト菌の存在を示す証拠を発見したという論文を2026年6月17日付けで学術誌「ネイチャー」に発表した。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/129d7838129d7838cf916a50/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261021-00010000-nknatiogeo-000-2-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"人類最古のペスト流行は5500年前と判明、鍵はシベリアのマーモット 2019と2020年にも犠牲者(ナショナル ジオグラフィック日本版)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"人類最古のペスト流行は5500年前と判明、鍵はシベリアのマーモット 2019と2020年にも犠牲者(ナショナル ジオグラフィック日本版)"}],["$","meta","14",{"name":"twitter:description","content":"知られている限り、人類で最古のペスト流行は、ロシア、シベリア南東部のバイカル湖の近くで起きていた。英オックスフォード大学のルアイリ・マクラウド氏が率いる研究チームは、約5500年前にこの地域の墓地に埋葬された狩猟採集民に、ペスト菌の存在を示す証拠を発見したという論文を2026年6月17日付けで学術誌「ネイチャー」に発表した。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261021-00010000-nknatiogeo-000-2-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L24","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+14:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+17:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+1a:true
+21:null
+11:300
+11:C
+19:0
+13:"$undefined"
+15:"$undefined"
+18:"$undefined"
+10:"$undefined"

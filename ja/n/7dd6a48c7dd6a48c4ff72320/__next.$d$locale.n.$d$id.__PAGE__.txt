@@ -1,0 +1,194 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+2b:X
+30:X
+30:C
+0:{"buildId":"uBkhHRT_aLtDySfUghNoY","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-23","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Gigazine"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"2026年10月23日のヘッドラインニュース"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"サンライズ50周年記念作品として2026年11月20日(金)に劇場公開される『 装甲騎兵ボトムズ 灰色の魔女(ヘクセ) 』の直前予告映像がYouTubeで公開されました。"}],["$","p","1",{"children":"『装甲騎兵ボトムズ 灰色の魔女』直前予告 2026.11.20劇場公開 - YouTube"}],["$","p","2",{"children":"アストラギウス銀河を二分するギルガメスとバララント。この二つの勢力は、原因すら定かではない戦争を100年近く続けていた。"}],["$","p","3",{"children":"“百年戦争”末期――アスガルズ星系第二惑星ヴァルキュリアⅡの前線基地に、一人の女性士官マキ・シュタウフェンベルクが赴任する。彼女は、寄せ集めの兵士で構成された懲罰部隊にあって、どんな過酷な作戦でもただ一人生還することから“魔女”と呼ばれる兵士、アッシュ・ヴァンプスを調査する任務を密かに受けていた。"}],["$","p","4",{"children":"戦場の真実は、戦場でしか知ることはできない。"}],["$","p","5",{"children":"アッシュの部隊に命じられた敵陣への強行降下作戦に、AT(アーマードトルーパー)のパイロットとしてマキは参加を決意する。"}],["$","p","6",{"children":"生還不可能にも見える作戦の中、戦況は刻一刻と絶望へ向かう。戦火の中でアッシュを追うマキは、やがて彼女に秘められた真実へと近づいていく――。"}],["$","p","7",{"children":"監督は『GHOST IN THE SHELL／攻殻機動隊』『スカイ・クロラ』などで知られる押井守氏、音楽は押井監督と組んで多数の作品を手がける川井憲次氏。『ボトムズ』シリーズ生みの親である髙橋良輔氏が監修として参加しています。"}],["$","p","8",{"children":"ちなみに、過去の同月同日にはこんな記事を掲載していました。"}],["$","p","9",{"children":"地球の周囲を漂うスペースデブリを加速度的に増加させる「ケスラーシンドローム」とは？ - GIGAZINE"}],["$","p","10",{"children":"史上最大の素数「M136279841」が発見される、4102万4320桁で数字を羅列するだけで39.9MB - GIGAZINE"}],["$","p","11",{"children":"湖上に作られたアステカの首都「テノチティトラン」の詳細な3D画像が公開される、人口20万超の壮大な水上都市はどんな姿だったのか？ - GIGAZINE"}],["$","p","12",{"children":"デジタルアート文化「デモシーン」とはなんなのか？ - GIGAZINE"}],["$","p","13",{"children":"（黒番） pic.twitter.com/38JilMBsdE"}],["$","p","14",{"children":"&mdash; 囲碁アートの関です。 (@chitokunn) 2026年10月22日"}],["$","p","15",{"children":"かじったやつは。 pic.twitter.com/U0of7N1P7T"}],["$","p","16",{"children":"切符の〇〇に「うん」か「ちん」を入れて通します。"}],["$","p","17",{"children":"〇〇こ → どっちでも通します pic.twitter.com/Iv1kBMvPdE"}],["$","p","18",{"children":"東京大学と同じ「投票1位が総長に選ばれていない」京都大学、文科省の対応は？｜京都新聞デジタル 京都・滋賀のニュースサイト"}],["$","p","19",{"children":"親子で電車と綱引き、64トンを引っ張った！ 大阪・貝塚の水間鉄道 [大阪府]：朝日新聞"}],["$","p","20",{"children":"京都・大阪の足を支える「京阪最大の車両基地」に潜入 宙を舞う電車、レトロ車両に「ワニ」まで！？｜京都新聞デジタル 京都・滋賀のニュースサイト"}],["$","p","21",{"children":"高市首相G7オンライン会合欠席は「業者が間に合わなかった」は本当か？ オソマツ対応で損なわれる国益｜日刊ゲンダイDIGITAL"}],["$","p","22",{"children":"チベットでM7.0の地震、16人死亡 32人負傷 写真1枚 国際ニュース：AFPBB News"}],["$","p","23",{"children":"ママチャリだったら止めて通すけど、一度これで通過して警察に止められたことある。"}],["$","p","24",{"children":"「今のシチリア。スーパーに食べ物ない」シチリアで燃料価格の高騰と生活費の上昇に対してトラック運転手のストライキが発生し、スーパー店内がすっからかんの様子が話題に - Togetter"}],["$","p","25",{"children":"男性なので謎なんだけど、なんで女性のブラって背面ホックがスタンダードなんだろう？前面ホックの方が絶対に付けやすいし外しやすいと思うんだけど… - Togetter"}],["$","p","26",{"children":"紀伊國屋はかつてこの思想のもとで採用してたから信用できる． pic.twitter.com/qFN3YMkl5q"}],["$","p","27",{"children":"貯金額って本当に幅広いと思うんだけど、同年代のガチの平均はどのくらいなんだろう…みんなの「貯金ない」は本当に0円なの？→皆さんの貯金額が寄せられる - Togetter"}],["$","p","28",{"children":"新しいクレジットカード普通郵便で届いたけどこれって本当に大丈夫なの？配達間違いやアクティベートなしに不安の声→最近は普通郵便が一般的、簡易書留を選択できる場合も - Togetter"}],["$","p","29",{"children":"登校班の班長である小6男子が「50分集合55分出発」を勝手に50分出発にし、娘が50分に間に合わなかった日に通学路ではない近道を通って登校…学校に言うべき？保険の問題も - Togetter"}],["$","p","30",{"children":"PHP 8.5.12の緊急リリースにpixivはどう対応したか - pixiv inside"}],["$","p","31",{"children":"UnNews:【続報】音信不通のはずの大帝、問い合わせから5分で生存確認。PHPは「昨日更新した」。 - アンサイクロペディア"}],["$","p","32",{"children":"今日の進捗。バターが溶けるようになりました。次回はバターの実行処理を見直して、よりスムーズに溶けるようにしたいです。 pic.twitter.com/ysuYicrafA"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21"],"$L22"]}],"$L23","$L24","$L25",null,"$L26","$L27"]}],["$L28"],"$L29"]}],"isPartial":"$@2a","staleTime":"$2b","varyParams":null},{"rsc":"$L2c","isPartial":"$@2d","staleTime":"$2b","varyParams":null},{"rsc":"$L2e","isPartial":"$@2f","staleTime":"$2b","varyParams":"$30"},{"rsc":"$L31","isPartial":"$@32","staleTime":"$2b","varyParams":"$30"}],"isUpgradeableISRFallback":false,"a":"$@33","rootVaryParams":null,"needsRuntimeRequest":"$@34"}
+35:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+36:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+39:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+3a:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+3b:"$Sreact.suspense"
+3d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+3e:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+3f:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+40:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+41:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","33",{"children":"限定300台のアルミ削り出し筐体「HHKB Professional Elite」誕生。"}]
+4:["$","p","34",{"children":"素材、構造、打鍵感、そして所有する歓びまで徹底的に追求しました。30年の思想を1台に込めたHHKBシリーズ最高峰モデルです。"}]
+5:["$","p","35",{"children":"PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃 #AWS - Qiita"}]
+6:["$","p","36",{"children":"【AV Watchアワード】LG OLEDは驚異的な色精度！ΔE=0.35～測定データすべて見せます「G6」編-AV Watch"}]
+7:["$","p","37",{"children":"いやマジで総理大臣がPHP脆弱性対応について発信してくれたおかげで社内への説明がクソ楽だった…「総理自ら発信するレベルですよ？」で反論・苦情をほとんど封じ込めた - Togetter"}]
+8:["$","p","38",{"children":"（緊急）BIND 9.xの脆弱性（DNSサービスの停止・リモートコード実行）について（CVE-2026-94300） - バージョンアップを強く推奨 -"}]
+9:["$","p","39",{"children":"外部メール配信サービスへの不正アクセスに伴う、お客様情報の流出の可能性について（第一報） | お知らせ | 株式会社ヌーラボ(Nulab inc.)"}]
+a:["$","p","40",{"children":"【重要】「お名前.com デスクトップクラウド」への不正アクセスに関するお詫びとお知らせ（第2報） | GMOインターネットグループ株式会社"}]
+b:["$","p","41",{"children":"Claude Opus 5.5でいい感じのアクションゲームを作るための一工夫七つ - ABAの日誌"}]
+c:["$","p","42",{"children":"「お名前.com デスクトップクラウド」への不正アクセスに関するお詫びとお知らせ | GMOインターネット株式会社"}]
+d:["$","p","43",{"children":"PHPの脆弱性への対応に伴うメンテナンス完了と経緯のご報告 - ロリポップ！レンタルサーバー"}]
+e:["$","p","44",{"children":"「危険！」九州の全カーナビに一斉誤配信 「不正アクセスではない」 [福岡県]：朝日新聞"}]
+f:["$","p","45",{"children":"心を満たす「かわいいフィジカルAI」、日本の勝ち筋になり得るか？ 「LOVOT」林社長が説く可能性（1/3 ページ） - ITmedia ビジネスオンライン"}]
+10:["$","p","46",{"children":"DeepSeek V4.1 Flash 1017をUnsloth PRで試す。これはほんとに使える - きしだのHatena"}]
+11:["$","p","47",{"children":"私の破綻させられた口座の番号、被害額一致しました #お名前ドットコム #不正アクセス #不正取引 pic.twitter.com/mG9hBatQG6"}]
+12:["$","p","48",{"children":"&mdash; 茶器。（ﾎﾋﾞﾗﾝ35 K-0４）❄ (@chakichakichaki) 2026年10月22日"}]
+13:["$","p","49",{"children":"#関西コミティア78 の郵送申込ですが、申込処理に用いているPHPの脆弱性対策を実施するため中止します。なお、既に郵送された方の再申込は不要です。既に振り込みを済ませた方は郵送での申込をお願いします。"}]
+14:["$","p","50",{"children":"参加サークルには「サークル参加案内書」を10月27日（火）頃に発送します。… pic.twitter.com/5aFcSY2F9R"}]
+15:["$","p","51",{"children":"2日に1回は見る pic.twitter.com/iz16N0HEJk"}]
+16:["$","p","52",{"children":"&mdash; ぽめ☽Titan ※7.5済 (@pomerosu_FF14) 2026年10月21日"}]
+17:["$","p","53",{"children":"人気少女ローグライト『Cinderia』『魔女の庭』『クライムライト』開発者が対談、なぜみんな『Hades』系を作るのか。理由が違いすぎて白熱、ローグライト談義 - AUTOMATON"}]
+18:["$","p","54",{"children":"『シムシティ』『タイタンフォール』『Dead Space』『ミラーズエッジ』…EAが休眠させたIPが多すぎると批判。BioWare閉鎖を機に | Game*Spark - 国内・海外ゲーム情報サイト"}]
+19:["$","p","55",{"children":"◤アプリ「ライドカメンズストーリーズ」配信終了日時について◢⁰⁰■Android/iOS版：2026年10月31日(土)23:59⁰⁰上記日時以降は各アプリストアより再度ダウンロードは出来なくなるため、ご注意ください。…"}]
+1a:["$","p","56",{"children":"任天堂・宮本茂氏が\"文化勲章\"を受章。ゲーム関係者として初の快挙"}]
+1b:["$","p","57",{"children":"10月25日に行われる #菊花賞 でクラシック3冠を目指す #ロブチェン に、モンテネグロのスパイッチ首相から日本語で応援メッセージが届きました！"}]
+1c:["$","p","58",{"children":"ロブチェンの馬名は、モンテネグロを代表する山に由来しています⛰ pic.twitter.com/zsCUEM7Q34"}]
+1d:["$","p","59",{"children":"『限りなく透明に近いブルー』に始まり… pic.twitter.com/fInLzZmYEK"}]
+1e:["$","p","60",{"children":"YOASOBI幾田りらの路上ライブが暴いた「再生数と集客」の残酷なギャップ。再生100億回でも札幌ドームが埋まらず… | 日刊SPA!"}]
+1f:["$","p","61",{"children":"『相棒25』第1話、階級に興味なさそうな右京さん「僕は警部です。この中で階級が一番上」と盾にして首相官邸に入るレアシーン→でもキャリアであの年で警部ってことは… - Togetter"}]
+20:["$","p","62",{"children":"発売初週、4秒に1個（※）売れた！氷を使わない飲む焼きいもが登場！「焼きいもバターシェイク」10月27日（火）から数量限定発売～なめらかシェイク×ゴロゴロ食感×相性抜群バター～ | 株式会社ファミリーマートのプレスリリース"}]
+21:["$","p","63",{"children":"You can read the machine translated English article Headline news for October 23, 2026… ."}]
+22:["$","p",null,{"className":"article-credit","children":"本文の著作権はGigazineにあります。"}]
+23:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://gigazine.net/news/20261023-headline/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はGigazineで読む"}]}]
+37:T27eb,サンライズ50周年記念作品として2026年11月20日(金)に劇場公開される『 装甲騎兵ボトムズ 灰色の魔女(ヘクセ) 』の直前予告映像がYouTubeで公開されました。
+
+『装甲騎兵ボトムズ 灰色の魔女』直前予告 2026.11.20劇場公開 - YouTube
+
+アストラギウス銀河を二分するギルガメスとバララント。この二つの勢力は、原因すら定かではない戦争を100年近く続けていた。
+
+“百年戦争”末期――アスガルズ星系第二惑星ヴァルキュリアⅡの前線基地に、一人の女性士官マキ・シュタウフェンベルクが赴任する。彼女は、寄せ集めの兵士で構成された懲罰部隊にあって、どんな過酷な作戦でもただ一人生還することから“魔女”と呼ばれる兵士、アッシュ・ヴァンプスを調査する任務を密かに受けていた。
+
+戦場の真実は、戦場でしか知ることはできない。
+
+アッシュの部隊に命じられた敵陣への強行降下作戦に、AT(アーマードトルーパー)のパイロットとしてマキは参加を決意する。
+
+生還不可能にも見える作戦の中、戦況は刻一刻と絶望へ向かう。戦火の中でアッシュを追うマキは、やがて彼女に秘められた真実へと近づいていく――。
+
+監督は『GHOST IN THE SHELL／攻殻機動隊』『スカイ・クロラ』などで知られる押井守氏、音楽は押井監督と組んで多数の作品を手がける川井憲次氏。『ボトムズ』シリーズ生みの親である髙橋良輔氏が監修として参加しています。
+
+ちなみに、過去の同月同日にはこんな記事を掲載していました。
+
+地球の周囲を漂うスペースデブリを加速度的に増加させる「ケスラーシンドローム」とは？ - GIGAZINE
+
+史上最大の素数「M136279841」が発見される、4102万4320桁で数字を羅列するだけで39.9MB - GIGAZINE
+
+湖上に作られたアステカの首都「テノチティトラン」の詳細な3D画像が公開される、人口20万超の壮大な水上都市はどんな姿だったのか？ - GIGAZINE
+
+デジタルアート文化「デモシーン」とはなんなのか？ - GIGAZINE
+
+（黒番） pic.twitter.com/38JilMBsdE
+
+&mdash; 囲碁アートの関です。 (@chitokunn) 2026年10月22日
+
+かじったやつは。 pic.twitter.com/U0of7N1P7T
+
+切符の〇〇に「うん」か「ちん」を入れて通します。
+
+〇〇こ → どっちでも通します pic.twitter.com/Iv1kBMvPdE
+
+東京大学と同じ「投票1位が総長に選ばれていない」京都大学、文科省の対応は？｜京都新聞デジタル 京都・滋賀のニュースサイト
+
+親子で電車と綱引き、64トンを引っ張った！ 大阪・貝塚の水間鉄道 [大阪府]：朝日新聞
+
+京都・大阪の足を支える「京阪最大の車両基地」に潜入 宙を舞う電車、レトロ車両に「ワニ」まで！？｜京都新聞デジタル 京都・滋賀のニュースサイト
+
+高市首相G7オンライン会合欠席は「業者が間に合わなかった」は本当か？ オソマツ対応で損なわれる国益｜日刊ゲンダイDIGITAL
+
+チベットでM7.0の地震、16人死亡 32人負傷 写真1枚 国際ニュース：AFPBB News
+
+ママチャリだったら止めて通すけど、一度これで通過して警察に止められたことある。
+
+「今のシチリア。スーパーに食べ物ない」シチリアで燃料価格の高騰と生活費の上昇に対してトラック運転手のストライキが発生し、スーパー店内がすっからかんの様子が話題に - Togetter
+
+男性なので謎なんだけど、なんで女性のブラって背面ホックがスタンダードなんだろう？前面ホックの方が絶対に付けやすいし外しやすいと思うんだけど… - Togetter
+
+紀伊國屋はかつてこの思想のもとで採用してたから信用できる． pic.twitter.com/qFN3YMkl5q
+
+貯金額って本当に幅広いと思うんだけど、同年代のガチの平均はどのくらいなんだろう…みんなの「貯金ない」は本当に0円なの？→皆さんの貯金額が寄せられる - Togetter
+
+新しいクレジットカード普通郵便で届いたけどこれって本当に大丈夫なの？配達間違いやアクティベートなしに不安の声→最近は普通郵便が一般的、簡易書留を選択できる場合も - Togetter
+
+登校班の班長である小6男子が「50分集合55分出発」を勝手に50分出発にし、娘が50分に間に合わなかった日に通学路ではない近道を通って登校…学校に言うべき？保険の問題も - Togetter
+
+PHP 8.5.12の緊急リリースにpixivはどう対応したか - pixiv inside
+
+UnNews:【続報】音信不通のはずの大帝、問い合わせから5分で生存確認。PHPは「昨日更新した」。 - アンサイクロペディア
+
+今日の進捗。バターが溶けるようになりました。次回はバターの実行処理を見直して、よりスムーズに溶けるようにしたいです。 pic.twitter.com/ysuYicrafA
+
+限定300台のアルミ削り出し筐体「HHKB Professional Elite」誕生。
+
+素材、構造、打鍵感、そして所有する歓びまで徹底的に追求しました。30年の思想を1台に込めたHHKBシリーズ最高峰モデルです。
+
+PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃 #AWS - Qiita
+
+【AV Watchアワード】LG OLEDは驚異的な色精度！ΔE=0.35～測定データすべて見せます「G6」編-AV Watch
+
+いやマジで総理大臣がPHP脆弱性対応について発信してくれたおかげで社内への説明がクソ楽だった…「総理自ら発信するレベルですよ？」で反論・苦情をほとんど封じ込めた - Togetter
+
+（緊急）BIND 9.xの脆弱性（DNSサービスの停止・リモートコード実行）について（CVE-2026-94300） - バージョンアップを強く推奨 -
+
+外部メール配信サービスへの不正アクセスに伴う、お客様情報の流出の可能性について（第一報） | お知らせ | 株式会社ヌーラボ(Nulab inc.)
+
+【重要】「お名前.com デスクトップクラウド」への不正アクセスに関するお詫びとお知らせ（第2報） | GMOインターネットグループ株式会社
+
+Claude Opus 5.5でいい感じのアクションゲームを作るための一工夫七つ - ABAの日誌
+
+「お名前.com デスクトップクラウド」への不正アクセスに関するお詫びとお知らせ | GMOインターネット株式会社
+
+PHPの脆弱性への対応に伴うメンテナンス完了と経緯のご報告 - ロリポップ！レンタルサーバー
+
+「危険！」九州の全カーナビに一斉誤配信 「不正アクセスではない」 [福岡県]：朝日新聞
+
+心を満たす「かわいいフィジカルAI」、日本の勝ち筋になり得るか？ 「LOVOT」林社長が説く可能性（1/3 ページ） - ITmedia ビジネスオンライン
+
+DeepSeek V4.1 Flash 1017をUnsloth PRで試す。これはほんとに使える - きしだのHatena
+
+私の破綻させられた口座の番号、被害額一致しました #お名前ドットコム #不正アクセス #不正取引 pic.twitter.com/mG9hBatQG6
+
+&mdash; 茶器。（ﾎﾋﾞﾗﾝ35 K-0４）❄ (@chakichakichaki) 2026年10月22日
+
+#関西コミティア78 の郵送申込ですが、申込処理に用いているPHPの脆弱性対策を実施するため中止します。なお、既に郵送された方の再申込は不要です。既に振り込みを済ませた方は郵送での申込をお願いします。
+
+参加サークルには「サークル参加案内書」を10月27日（火）頃に発送します。… pic.twitter.com/5aFcSY2F9R
+
+2日に1回は見る pic.twitter.com/iz16N0HEJk
+
+&mdash; ぽめ☽Titan ※7.5済 (@pomerosu_FF14) 2026年10月21日
+
+人気少女ローグライト『Cinderia』『魔女の庭』『クライムライト』開発者が対談、なぜみんな『Hades』系を作るのか。理由が違いすぎて白熱、ローグライト談義 - AUTOMATON
+
+『シムシティ』『タイタンフォール』『Dead Space』『ミラーズエッジ』…EAが休眠させたIPが多すぎると批判。BioWare閉鎖を機に | Game*Spark - 国内・海外ゲーム情報サイト
+
+◤アプリ「ライドカメンズストーリーズ」配信終了日時について◢⁰⁰■Android/iOS版：2026年10月31日(土)23:59⁰⁰上記日時以降は各アプリストアより再度ダウンロードは出来なくなるため、ご注意ください。…
+
+任天堂・宮本茂氏が"文化勲章"を受章。ゲーム関係者として初の快挙
+
+10月25日に行われる #菊花賞 でクラシック3冠を目指す #ロブチェン に、モンテネグロのスパイッチ首相から日本語で応援メッセージが届きました！
+
+ロブチェンの馬名は、モンテネグロを代表する山に由来しています⛰ pic.twitter.com/zsCUEM7Q34
+
+『限りなく透明に近いブルー』に始まり… pic.twitter.com/fInLzZmYEK
+
+YOASOBI幾田りらの路上ライブが暴いた「再生数と集客」の残酷なギャップ。再生100億回でも札幌ドームが埋まらず… | 日刊SPA!
+
+『相棒25』第1話、階級に興味なさそうな右京さん「僕は警部です。この中で階級が一番上」と盾にして首相官邸に入るレアシーン→でもキャリアであの年で警部ってことは… - Togetter
+
+発売初週、4秒に1個（※）売れた！氷を使わない飲む焼きいもが登場！「焼きいもバターシェイク」10月27日（火）から数量限定発売～なめらかシェイク×ゴロゴロ食感×相性抜群バター～ | 株式会社ファミリーマートのプレスリリース
+
+You can read the machine translated English article Headline news for October 23, 2026… .24:["$","section",null,{"className":"article-actions","children":[["$","$L35",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/7dd6a48c7dd6a48c4ff72320","title":"2026年10月23日のヘッドラインニュース","locale":"ja","take":null}],["$","$L36",null,{"title":"2026年10月23日のヘッドラインニュース","excerpt":"$37","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/7dd6a48c7dd6a48c4ff72320","locale":"ja"}],"$L38"]}]
+25:["$","$L39",null,{"placement":"article","className":"mt-8"}]
+26:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+27:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-us:https://bbc.co.uk/news/articles/c6ly0dg453v8o",{"children":["$","$L2",null,{"href":"/ja/n/e3b248fae3b248fa6eb002cc","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"US justice department investigating Corey Lewandowski over DHS role"}]]}]}],["$","li","bbc-health:https://bbc.co.uk/news/articles/cm5yez87qwvdo",{"children":["$","$L2",null,{"href":"/ja/n/b2700f73b2700f73df0aba83","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"I thought I was dying but it was health anxiety - here's how to recognise the signs"}]]}]}],["$","li","nhk-politics:https://news.web.nhk/newsweb/na/nd-20261023de64536",{"children":["$","$L2",null,{"href":"/ja/n/20a774d420a774d45092ddac","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"福岡県議会 元副議長が就任前に藏内氏に500万円手渡したと証言"}]]}]}]]}]]}]
+28:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+29:["$","$L3a",null,{"children":["$","$3b",null,{"name":"Next.MetadataOutlet","children":"$@3c"}]}]
+2c:["$","$1","h",{"children":[null,["$","$L3d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3e",null,{"children":["$","$3b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"2026年10月23日のヘッドラインニュース"}],["$","meta","1",{"name":"description","content":"サンライズ50周年記念作品として2026年11月20日(金)に劇場公開される『 装甲騎兵ボトムズ 灰色の魔女(ヘクセ) 』の直前予告映像がYouTubeで公開されました。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"2026年10月23日のヘッドラインニュース"}],["$","meta","4",{"property":"og:description","content":"サンライズ50周年記念作品として2026年11月20日(金)に劇場公開される『 装甲騎兵ボトムズ 灰色の魔女(ヘクセ) 』の直前予告映像がYouTubeで公開されました。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/7dd6a48c7dd6a48c4ff72320/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"2026年10月23日のヘッドラインニュース"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"2026年10月23日のヘッドラインニュース"}],["$","meta","14",{"name":"twitter:description","content":"サンライズ50周年記念作品として2026年11月20日(金)に劇場公開される『 装甲騎兵ボトムズ 灰色の魔女(ヘクセ) 』の直前予告映像がYouTubeで公開されました。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L3f","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+2e:["$","$1","c",{"children":[null,["$","$L40",null,{"parallelRouterKey":"children","template":["$","$L41",null,{}]}]]}]
+31:["$","$1","c",{"children":[null,["$","$L40",null,{"parallelRouterKey":"children","template":["$","$L41",null,{}]}]]}]
+34:true
+38:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=2026%E5%B9%B410%E6%9C%8823%E6%97%A5%E3%81%AE%E3%83%98%E3%83%83%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&mode=phrase&url=gigazine.net&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+3c:null
+2b:300
+2b:C
+33:0
+2d:"$undefined"
+2f:"$undefined"
+32:"$undefined"
+2a:"$undefined"

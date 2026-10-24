@@ -1,0 +1,67 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f518/live/9a1112f0-ce03-11f1-8991-296181d7e3de.jpg","image"]
+5:Tdf8,シャモンダウイルスは主に家畜に感染し、発熱、下痢、乳量減少などを引き起こす
+
+フランスの牛を写した資料写真。曇り空の下、緑の木々が並ぶ前の乾燥した茶色の牧草地に、茶色と白の牛が5頭立っている。
+
+マイア・デイヴィース記者、ミシェル・ロバーツ・デジタル保健編集長
+
+フランス当局は22日、シャモンダウイルスのヒトへの初の感染例が確認されたと発表した。患者は10月上旬に死亡したという。シャモンダウイルスはこれまで、動物でのみ感染が確認されていた。
+
+同国の保健当局は、これは「重度の免疫不全患者における例外的な症例」であり、現時点で一般市民へのリスクはないと述べた。
+
+シャモンダウイルスは、ヌカカという昆虫を媒介とし、主にウシが感染する。ヒツジやヤギ、アルパカ、ウマでも感染例が報告されているが、これまでヒトへの感染例は知られていなかった。
+
+世界保健機関（WHO）と欧州疾病予防管理センター（ECDC）は、状況を監視していると述べている。フランス当局は、このウイルスがどのように人間に感染したのかを引き続き調査している。
+
+フランスの保健省と農業省は22日、患者はフランス東部でヌカカに刺されたことでシャモンダウイルスに感染したと考えられると発表した。この地域では今年の春に、動物の感染例が初めて確認されていた。
+
+当局によると、患者はリヨンの病院で重篤な病気の治療を受けていた。初期検査の結果では、同ウイルスと「非常に高い確率で関連している」と考えられる神経学的合併症を発症したという。
+
+声明では、患者の免疫力が低下し、病気にかかりやすくなっていたことが強調された。
+
+「これまでシャモンダウイルスはヒトには感染しないと考えられていた」と声明は指摘し、「アフリカやアジアでは、数十年にわたりシャモンダウイルスが蔓延（まんえん）していたにもかかわらず、これまで動物でのみ感染が確認されていた」とした。
+
+シャモンダウイルスに感染した乳牛は、発熱、下痢、乳量減少などの症状を示すことが知られている。
+
+WHOは今回の症例が、ヒトへの感染例としては初だと発表。正式なリスク評価はまだ行っていないものの、現在の情報や類似疾患に関する知見から、今回の症例は単独の事案であり、「現時点では広範囲への感染拡大につながる可能性は低い」と述べている。
+
+また、「ヌカカ媒介ウイルスの感染力は、一般的に気温の低い時期には低下する」と説明した。
+
+ECDCは、この感染症の「公衆衛生上の潜在的な影響」を調査するため、フランスおよびヨーロッパのパートナー機関と協力していると述べた。
+
+同機関によると、ヨーロッパで初めてシャモンダウイルスの感染が確認されたのは今年7月下旬だった。それ以来、アイルランド、ドイツ、イタリア、スペインなどの国々、そして英王室属領のジャージー島でも、家畜からウイルスが検出されている。
+
+（英語記事 First human case of Shamonda virus detected in France, officials say）d:X
+12:X
+12:C
+0:{"buildId":"uBkhHRT_aLtDySfUghNoY","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-23","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"シャモンダウイルス、ヒト感染例を初めて確認 フランス"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f518/live/9a1112f0-ce03-11f1-8991-296181d7e3de.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"シャモンダウイルスは主に家畜に感染し、発熱、下痢、乳量減少などを引き起こす"}],["$","p","1",{"children":"フランスの牛を写した資料写真。曇り空の下、緑の木々が並ぶ前の乾燥した茶色の牧草地に、茶色と白の牛が5頭立っている。"}],["$","p","2",{"children":"マイア・デイヴィース記者、ミシェル・ロバーツ・デジタル保健編集長"}],["$","p","3",{"children":"フランス当局は22日、シャモンダウイルスのヒトへの初の感染例が確認されたと発表した。患者は10月上旬に死亡したという。シャモンダウイルスはこれまで、動物でのみ感染が確認されていた。"}],["$","p","4",{"children":"同国の保健当局は、これは「重度の免疫不全患者における例外的な症例」であり、現時点で一般市民へのリスクはないと述べた。"}],["$","p","5",{"children":"シャモンダウイルスは、ヌカカという昆虫を媒介とし、主にウシが感染する。ヒツジやヤギ、アルパカ、ウマでも感染例が報告されているが、これまでヒトへの感染例は知られていなかった。"}],["$","p","6",{"children":"世界保健機関（WHO）と欧州疾病予防管理センター（ECDC）は、状況を監視していると述べている。フランス当局は、このウイルスがどのように人間に感染したのかを引き続き調査している。"}],["$","p","7",{"children":"フランスの保健省と農業省は22日、患者はフランス東部でヌカカに刺されたことでシャモンダウイルスに感染したと考えられると発表した。この地域では今年の春に、動物の感染例が初めて確認されていた。"}],["$","p","8",{"children":"当局によると、患者はリヨンの病院で重篤な病気の治療を受けていた。初期検査の結果では、同ウイルスと「非常に高い確率で関連している」と考えられる神経学的合併症を発症したという。"}],["$","p","9",{"children":"声明では、患者の免疫力が低下し、病気にかかりやすくなっていたことが強調された。"}],["$","p","10",{"children":"「これまでシャモンダウイルスはヒトには感染しないと考えられていた」と声明は指摘し、「アフリカやアジアでは、数十年にわたりシャモンダウイルスが蔓延（まんえん）していたにもかかわらず、これまで動物でのみ感染が確認されていた」とした。"}],["$","p","11",{"children":"シャモンダウイルスに感染した乳牛は、発熱、下痢、乳量減少などの症状を示すことが知られている。"}],["$","p","12",{"children":"WHOは今回の症例が、ヒトへの感染例としては初だと発表。正式なリスク評価はまだ行っていないものの、現在の情報や類似疾患に関する知見から、今回の症例は単独の事案であり、「現時点では広範囲への感染拡大につながる可能性は低い」と述べている。"}],["$","p","13",{"children":"また、「ヌカカ媒介ウイルスの感染力は、一般的に気温の低い時期には低下する」と説明した。"}],["$","p","14",{"children":"ECDCは、この感染症の「公衆衛生上の潜在的な影響」を調査するため、フランスおよびヨーロッパのパートナー機関と協力していると述べた。"}],["$","p","15",{"children":"同機関によると、ヨーロッパで初めてシャモンダウイルスの感染が確認されたのは今年7月下旬だった。それ以来、アイルランド、ドイツ、イタリア、スペインなどの国々、そして英王室属領のジャージー島でも、家畜からウイルスが検出されている。"}],["$","p","16",{"children":"（英語記事 First human case of Shamonda virus detected in France, officials say）"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/c68xzdlx98geo","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/e43ee041e43ee04123f6744d","title":"シャモンダウイルス、ヒト感染例を初めて確認 フランス","locale":"ja","take":null}],["$","$L4",null,{"title":"シャモンダウイルス、ヒト感染例を初めて確認 フランス","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/e43ee041e43ee04123f6744d","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E3%82%B7%E3%83%A3%E3%83%A2%E3%83%B3%E3%83%80%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%80%81%E3%83%92%E3%83%88%E6%84%9F%E6%9F%93%E4%BE%8B%E3%82%92%E5%88%9D%E3%82%81%E3%81%A6%E7%A2%BA%E8%AA%8D+%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-us:https://bbc.co.uk/news/articles/c6ly0dg453v8o",{"children":["$","$L2",null,{"href":"/ja/n/e3b248fae3b248fa6eb002cc","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"US justice department investigating Corey Lewandowski over DHS role"}]]}]}],["$","li","bbc-health:https://bbc.co.uk/news/articles/cm5yez87qwvdo",{"children":["$","$L2",null,{"href":"/ja/n/b2700f73b2700f73df0aba83","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"I thought I was dying but it was health anxiety - here's how to recognise the signs"}]]}]}],["$","li","nhk-politics:https://news.web.nhk/newsweb/na/nd-20261023de64536",{"children":["$","$L2",null,{"href":"/ja/n/20a774d420a774d45092ddac","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"福岡県議会 元副議長が就任前に藏内氏に500万円手渡したと証言"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"シャモンダウイルス、ヒト感染例を初めて確認 フランス"}],["$","meta","1",{"name":"description","content":"シャモンダウイルスは主に家畜に感染し、発熱、下痢、乳量減少などを引き起こす"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"シャモンダウイルス、ヒト感染例を初めて確認 フランス"}],["$","meta","4",{"property":"og:description","content":"シャモンダウイルスは主に家畜に感染し、発熱、下痢、乳量減少などを引き起こす"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/e43ee041e43ee04123f6744d/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Ff518%2Flive%2F9a1112f0-ce03-11f1-8991-296181d7e3de.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"シャモンダウイルス、ヒト感染例を初めて確認 フランス"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"シャモンダウイルス、ヒト感染例を初めて確認 フランス"}],["$","meta","14",{"name":"twitter:description","content":"シャモンダウイルスは主に家畜に感染し、発熱、下痢、乳量減少などを引き起こす"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Ff518%2Flive%2F9a1112f0-ce03-11f1-8991-296181d7e3de.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

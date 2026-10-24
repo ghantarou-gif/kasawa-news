@@ -1,0 +1,81 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261022-00010001-sorae_jp-000-1-view.jpg?pri=l&w=450&h=253&exp=10800","image"]
+a:X
+f:X
+f:C
+0:{"buildId":"uBkhHRT_aLtDySfUghNoY","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-22","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"アルテミス合意の署名国が77か国に トルコやウズベキスタンなどが新たに参加(sorae 宇宙へのポータルサイト)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"一昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261022-00010001-sorae_jp-000-1-view.jpg?pri=l&w=450&h=253&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"アメリカ国務省は2026年10月19日、ウズベキスタンが「アルテミス合意」に署名したと発表しました。署名式は同国の都市サマルカンドで行われ、外務大臣のBakhtiyor Saidov氏が署名し、アメリカのルビオ国務長官が立ち会いました。これにより、アルテミス合意の署名国は合計77か国に達しました。"}],["$","p","1",{"children":"アルテミス合意とは、アメリカ主導の有人月探査計画「アルテミス」を念頭に、宇宙探査・利用における共通原則を定めた、法的拘束力のない国際的な取り決めです。日本はアメリカなどとともに最初の8か国の1つとして、2020年10月に署名しています。"}],["$","p","2",{"children":"アメリカ国務省は2026年10月19日、ウズベキスタンが「アルテミス合意」に署名したと発表しました。署名式は同国の都市サマルカンドで行われ、外務大臣のBakhtiyor Saidov氏が署名し、アメリカのルビオ国務長官が立ち会いました。これにより、アルテミス合意の署名国は合計77か国に達しました。"}],["$","p","3",{"children":"アルテミス合意とは、アメリカ主導の有人月探査計画「アルテミス」を念頭に、宇宙探査・利用における共通原則を定めた、法的拘束力のない国際的な取り決めです。日本はアメリカなどとともに最初の8か国の1つとして、2020年10月に署名しています。"}],["$","p","4",{"children":"soraeは2026年7月、署名国が70か国に達したことをお伝えしました。その後に署名した7か国と署名日、署名順は以下の通りです。"}],["$","p","5",{"children":"トルコ（2026年8月31日・71か国目）"}],["$","p","6",{"children":"ジブチ（2026年9月14日・72か国目）"}],["$","p","7",{"children":"アルバニア（2026年9月21日・73か国目）"}],["$","p","8",{"children":"クロアチア（2026年9月23日・74か国目）"}],["$","p","9",{"children":"コートジボワール（2026年9月24日・75か国目）"}],["$","p","10",{"children":"サンマリノ（2026年9月25日・76か国目）"}],["$","p","11",{"children":"ウズベキスタン（2026年10月19日・77か国目）"}],["$","p","12",{"children":"※いずれも現地時間"}],["$","p","13",{"children":"8月31日のトルコから10月19日のウズベキスタンまで、約50日で7か国が加わったことになります。9月には、ジブチとコートジボワールの2か国がアフリカから新たに参加しました。"}],["$","p","14",{"children":"署名国は2024年5月に40か国、2025年5月に55か国に達しており、その後も参加国の拡大が続いています。NASA（アメリカ航空宇宙局）のジャレッド・アイザックマン長官は、署名国が75か国を超えたことを受けた発表で、署名国のほぼ3分の1がトランプ大統領の2期目が始まってから参加したと述べています。NASAによると、世界の国のほぼ40％がアルテミス合意に署名したことになります。"}],["$","p","15",{"children":"10月にトルコのアンタルヤで開かれた第77回国際宇宙会議（IAC）では、署名国の代表者会合が開かれました。NASAは会合に先立ち、宇宙開発に新たに取り組む国への支援や、月面でのデブリ低減に関する提言の普及などを議題として挙げていました。"}],["$","p","16",{"children":"また、署名国が意見を交わすワークショップを2027年5月にドイツで開催することも、この会合で発表されました。ワークショップはこれまでポーランド（2023年）、カナダ（2024年）、UAE（2025年）、ペルー（2026年）で開かれており、ドイツは5か国目の開催国となります。"}],["$","p","17",{"children":"NASAは、署名国に対して、月面基地「Moon Base」計画をはじめとする今後のアルテミス計画のミッションへの参加を呼びかけています。NASAによると、主要な機器の提供に加え、科学ペイロードや技術実証、CubeSat（キューブサット）などを通じて貢献する機会を設けているといいます。"}],["$","p","18",{"children":"U.S. Department of State - United States Welcomes Uzbekistan's Signing of the Artemis Accords"}],["$","p","19",{"children":"NASA - NASA Celebrates as Artemis Accords Surpasses 75 Signatories"}],["$","p","20",{"children":"NASA - NASA Welcomes Türkiye as Newest Artemis Accords Signatory"}],["$","p","21",{"children":"NASA - NASA Welcomes Côte d'Ivoire as Newest Artemis Accords Signatory"}],["$","p","22",{"children":"DLR - Artemis Accords signatories come to Germany"}],["$","p","23",{"children":"NASA - Artemis Accords"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/49152982c25cda7744e2cdaddea7fb0d2c136977?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}],"$L3","$L4",null,"$L5","$L6"]}],["$L7"],"$L8"]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":"$Lb","isPartial":"$@c","staleTime":"$a","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$a","varyParams":"$f"},{"rsc":"$L10","isPartial":"$@11","staleTime":"$a","varyParams":"$f"}],"isUpgradeableISRFallback":false,"a":"$@12","rootVaryParams":null,"needsRuntimeRequest":"$@13"}
+14:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+15:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+17:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+16:T109f,アメリカ国務省は2026年10月19日、ウズベキスタンが「アルテミス合意」に署名したと発表しました。署名式は同国の都市サマルカンドで行われ、外務大臣のBakhtiyor Saidov氏が署名し、アメリカのルビオ国務長官が立ち会いました。これにより、アルテミス合意の署名国は合計77か国に達しました。
+
+アルテミス合意とは、アメリカ主導の有人月探査計画「アルテミス」を念頭に、宇宙探査・利用における共通原則を定めた、法的拘束力のない国際的な取り決めです。日本はアメリカなどとともに最初の8か国の1つとして、2020年10月に署名しています。
+
+アメリカ国務省は2026年10月19日、ウズベキスタンが「アルテミス合意」に署名したと発表しました。署名式は同国の都市サマルカンドで行われ、外務大臣のBakhtiyor Saidov氏が署名し、アメリカのルビオ国務長官が立ち会いました。これにより、アルテミス合意の署名国は合計77か国に達しました。
+
+アルテミス合意とは、アメリカ主導の有人月探査計画「アルテミス」を念頭に、宇宙探査・利用における共通原則を定めた、法的拘束力のない国際的な取り決めです。日本はアメリカなどとともに最初の8か国の1つとして、2020年10月に署名しています。
+
+soraeは2026年7月、署名国が70か国に達したことをお伝えしました。その後に署名した7か国と署名日、署名順は以下の通りです。
+
+トルコ（2026年8月31日・71か国目）
+
+ジブチ（2026年9月14日・72か国目）
+
+アルバニア（2026年9月21日・73か国目）
+
+クロアチア（2026年9月23日・74か国目）
+
+コートジボワール（2026年9月24日・75か国目）
+
+サンマリノ（2026年9月25日・76か国目）
+
+ウズベキスタン（2026年10月19日・77か国目）
+
+※いずれも現地時間
+
+8月31日のトルコから10月19日のウズベキスタンまで、約50日で7か国が加わったことになります。9月には、ジブチとコートジボワールの2か国がアフリカから新たに参加しました。
+
+署名国は2024年5月に40か国、2025年5月に55か国に達しており、その後も参加国の拡大が続いています。NASA（アメリカ航空宇宙局）のジャレッド・アイザックマン長官は、署名国が75か国を超えたことを受けた発表で、署名国のほぼ3分の1がトランプ大統領の2期目が始まってから参加したと述べています。NASAによると、世界の国のほぼ40％がアルテミス合意に署名したことになります。
+
+10月にトルコのアンタルヤで開かれた第77回国際宇宙会議（IAC）では、署名国の代表者会合が開かれました。NASAは会合に先立ち、宇宙開発に新たに取り組む国への支援や、月面でのデブリ低減に関する提言の普及などを議題として挙げていました。
+
+また、署名国が意見を交わすワークショップを2027年5月にドイツで開催することも、この会合で発表されました。ワークショップはこれまでポーランド（2023年）、カナダ（2024年）、UAE（2025年）、ペルー（2026年）で開かれており、ドイツは5か国目の開催国となります。
+
+NASAは、署名国に対して、月面基地「Moon Base」計画をはじめとする今後のアルテミス計画のミッションへの参加を呼びかけています。NASAによると、主要な機器の提供に加え、科学ペイロードや技術実証、CubeSat（キューブサット）などを通じて貢献する機会を設けているといいます。
+
+U.S. Department of State - United States Welcomes Uzbekistan's Signing of the Artemis Accords
+
+NASA - NASA Celebrates as Artemis Accords Surpasses 75 Signatories
+
+NASA - NASA Welcomes Türkiye as Newest Artemis Accords Signatory
+
+NASA - NASA Welcomes Côte d'Ivoire as Newest Artemis Accords Signatory
+
+DLR - Artemis Accords signatories come to Germany
+
+NASA - Artemis Accords3:["$","section",null,{"className":"article-actions","children":[["$","$L14",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/3c0570f83c0570f8336bb450","title":"アルテミス合意の署名国が77か国に トルコやウズベキスタンなどが新たに参加(sorae 宇宙へのポータルサイト)","locale":"ja","take":null}],["$","$L15",null,{"title":"アルテミス合意の署名国が77か国に トルコやウズベキスタンなどが新たに参加(sorae 宇宙へのポータルサイト)","excerpt":"$16","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/3c0570f83c0570f8336bb450","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E3%82%A2%E3%83%AB%E3%83%86%E3%83%9F%E3%82%B9%E5%90%88%E6%84%8F%E3%81%AE%E7%BD%B2%E5%90%8D%E5%9B%BD%E3%81%8C77%E3%81%8B%E5%9B%BD%E3%81%AB+%E3%83%88%E3%83%AB%E3%82%B3%E3%82%84%E3%82%A6%E3%82%BA%E3%83%99%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3%E3%81%AA%E3%81%A9%E3%81%8C%E6%96%B0%E3%81%9F%E3%81%AB%E5%8F%82%E5%8A%A0&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+4:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+5:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+6:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","nhk-world:https://news.web.nhk/newsweb/na/nd-20261022de63386",{"children":["$","$L2",null,{"href":"/ja/n/0d17dbf00d17dbf0b01de0aa","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"サウジアラビア東部で攻撃相次ぎ3人死亡 米国務省は退避命令"}]]}]}],["$","li","nhk-sports:https://news.web.nhk/newsweb/na/nd-20261022de63890",{"children":["$","$L2",null,{"href":"/ja/n/5dba825d5dba825db89f429d","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"ドラフト 巨人“史上最年少14歳”の中学3年生を育成5位で指名"}]]}]}],["$","li","guardian-biz:https://theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",{"children":["$","$L2",null,{"href":"/ja/n/01d73a6f01d73a6f329fd0af","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"The Guardian"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Barclays to cut 5,000 jobs as bank’s bosses hail AI productivity advances"}]]}]}]]}]]}]
+7:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+8:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+b:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"アルテミス合意の署名国が77か国に トルコやウズベキスタンなどが新たに参加(sorae 宇宙へのポータルサイト)"}],["$","meta","1",{"name":"description","content":"アメリカ国務省は2026年10月19日、ウズベキスタンが「アルテミス合意」に署名したと発表しました。署名式は同国の都市サマルカンドで行われ、外務大臣のBakhtiyor Saidov氏が署名し、アメリカのルビオ国務長官が立ち会いました。これにより、アルテミス合意の署名国は合計77か国に達しました。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"アルテミス合意の署名国が77か国に トルコやウズベキスタンなどが新たに参加(sorae 宇宙へのポータルサイト)"}],["$","meta","4",{"property":"og:description","content":"アメリカ国務省は2026年10月19日、ウズベキスタンが「アルテミス合意」に署名したと発表しました。署名式は同国の都市サマルカンドで行われ、外務大臣のBakhtiyor Saidov氏が署名し、アメリカのルビオ国務長官が立ち会いました。これにより、アルテミス合意の署名国は合計77か国に達しました。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/3c0570f83c0570f8336bb450/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261022-00010001-sorae_jp-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"アルテミス合意の署名国が77か国に トルコやウズベキスタンなどが新たに参加(sorae 宇宙へのポータルサイト)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"アルテミス合意の署名国が77か国に トルコやウズベキスタンなどが新たに参加(sorae 宇宙へのポータルサイト)"}],["$","meta","14",{"name":"twitter:description","content":"アメリカ国務省は2026年10月19日、ウズベキスタンが「アルテミス合意」に署名したと発表しました。署名式は同国の都市サマルカンドで行われ、外務大臣のBakhtiyor Saidov氏が署名し、アメリカのルビオ国務長官が立ち会いました。これにより、アルテミス合意の署名国は合計77か国に達しました。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261022-00010001-sorae_jp-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:true
+1a:null
+a:300
+a:C
+12:0
+c:"$undefined"
+e:"$undefined"
+11:"$undefined"
+9:"$undefined"

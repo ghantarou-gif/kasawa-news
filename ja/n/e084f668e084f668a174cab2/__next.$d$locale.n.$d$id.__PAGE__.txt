@@ -1,0 +1,69 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261024-00010069-nishispo-000-1-view.jpg?pri=l&w=450&h=312&exp=10800","image"]
+5:Te6e,◆明治安田J1第12節 東京V2―1福岡（24日、東京・味の素スタジアム）
+
+断続的に降り注ぐ冷たい秋雨が、アビスパ福岡イレブンの体と心に染みる。
+
+アウェーで今季最多タイの3失点を喫し、残留を争う東京Vに今季初勝利を献上。前節のG大阪戦に続く敗戦に、塚原真也監督は「順位が近いところでの連敗で、非常に苦しい状況」と表情は険しかった。
+
+前半10分に先制されるも、後半11分に途中出場のウェリックポポの同点ヘッドで振り出しに戻した。効果的なサイド攻撃を展開した時間帯もあったが、同29分に縦パスで崩されて勝ち越し点を許し、終盤にも追加点を挙げられた。
+
+本来堅守を持ち味としてきたが、今季早くも4度目の1試合3失点。カップ戦も合わせると8月29日の京都戦から12試合連続で失点している。塚原監督は「これだけ失点が続いていると、やはりより堅守というところをまず一度」と語り、GKや守備陣の並びなども再考する方針を示した。
+
+選手たちは試合後、同じく秋雨に打たれながらも最後まで声を出し続けたサポーターのそばに向かい、話し合う場面もあった。誰もがもどかしい思いを抱えざるを得ない状況。チームは試合後にミーティングを行い、感情が高ぶる中でも冷静に、アビスパが目指す姿を確認し合ったという。
+
+25日の千葉の結果次第では単独最下位に転落する可能性がある。その千葉と次節、11月1日に敵地で対戦。残留を争う相手にこれ以上負けられない。（山田孝人）
+
+【#OTTOアビスパ情報】
+
+▼アビスパ福岡の今季成績【一覧】▼
+
+◆明治安田J1第12節 東京V2―1福岡（24日、東京・味の素スタジアム）
+
+断続的に降り注ぐ冷たい秋雨が、アビスパ福岡イレブンの体と心に染みる。
+
+アウェーで今季最多タイの3失点を喫し、残留を争う東京Vに今季初勝利を献上。前節のG大阪戦に続く敗戦に、塚原真也監督は「順位が近いところでの連敗で、非常に苦しい状況」と表情は険しかった。
+
+前半10分に先制されるも、後半11分に途中出場のウェリックポポの同点ヘッドで振り出しに戻した。効果的なサイド攻撃を展開した時間帯もあったが、同29分に縦パスで崩されて勝ち越し点を許し、終盤にも追加点を挙げられた。
+
+本来堅守を持ち味としてきたが、今季早くも4度目の1試合3失点。カップ戦も合わせると8月29日の京都戦から12試合連続で失点している。塚原監督は「これだけ失点が続いていると、やはりより堅守というところをまず一度」と語り、GKや守備陣の並びなども再考する方針を示した。
+
+選手たちは試合後、同じく秋雨に打たれながらも最後まで声を出し続けたサポーターのそばに向かい、話し合う場面もあった。誰もがもどかしい思いを抱えざるを得ない状況。チームは試合後にミーティングを行い、感情が高ぶる中でも冷静に、アビスパが目指す姿を確認し合ったという。
+
+25日の千葉の結果次第では単独最下位に転落する可能性がある。その千葉と次節、11月1日に敵地で対戦。残留を争う相手にこれ以上負けられない。（山田孝人）
+
+【#OTTOアビスパ情報】
+
+▼アビスパ福岡の今季成績【一覧】▼d:X
+12:X
+12:C
+0:{"buildId":"uBkhHRT_aLtDySfUghNoY","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-24","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["⚽"," ","スポーツ"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"もどかしいアビスパ福岡 残留争いのライバルに完敗 試合後に選手とサポーターが話し合い 12試合連続失点に守備陣再編へ(西スポWEB OTTO!)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"4 分前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261024-00010069-nishispo-000-1-view.jpg?pri=l&w=450&h=312&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"◆明治安田J1第12節 東京V2―1福岡（24日、東京・味の素スタジアム）"}],["$","p","1",{"children":"断続的に降り注ぐ冷たい秋雨が、アビスパ福岡イレブンの体と心に染みる。"}],["$","p","2",{"children":"アウェーで今季最多タイの3失点を喫し、残留を争う東京Vに今季初勝利を献上。前節のG大阪戦に続く敗戦に、塚原真也監督は「順位が近いところでの連敗で、非常に苦しい状況」と表情は険しかった。"}],["$","p","3",{"children":"前半10分に先制されるも、後半11分に途中出場のウェリックポポの同点ヘッドで振り出しに戻した。効果的なサイド攻撃を展開した時間帯もあったが、同29分に縦パスで崩されて勝ち越し点を許し、終盤にも追加点を挙げられた。"}],["$","p","4",{"children":"本来堅守を持ち味としてきたが、今季早くも4度目の1試合3失点。カップ戦も合わせると8月29日の京都戦から12試合連続で失点している。塚原監督は「これだけ失点が続いていると、やはりより堅守というところをまず一度」と語り、GKや守備陣の並びなども再考する方針を示した。"}],["$","p","5",{"children":"選手たちは試合後、同じく秋雨に打たれながらも最後まで声を出し続けたサポーターのそばに向かい、話し合う場面もあった。誰もがもどかしい思いを抱えざるを得ない状況。チームは試合後にミーティングを行い、感情が高ぶる中でも冷静に、アビスパが目指す姿を確認し合ったという。"}],["$","p","6",{"children":"25日の千葉の結果次第では単独最下位に転落する可能性がある。その千葉と次節、11月1日に敵地で対戦。残留を争う相手にこれ以上負けられない。（山田孝人）"}],["$","p","7",{"children":"【#OTTOアビスパ情報】"}],["$","p","8",{"children":"▼アビスパ福岡の今季成績【一覧】▼"}],["$","p","9",{"children":"◆明治安田J1第12節 東京V2―1福岡（24日、東京・味の素スタジアム）"}],["$","p","10",{"children":"断続的に降り注ぐ冷たい秋雨が、アビスパ福岡イレブンの体と心に染みる。"}],["$","p","11",{"children":"アウェーで今季最多タイの3失点を喫し、残留を争う東京Vに今季初勝利を献上。前節のG大阪戦に続く敗戦に、塚原真也監督は「順位が近いところでの連敗で、非常に苦しい状況」と表情は険しかった。"}],["$","p","12",{"children":"前半10分に先制されるも、後半11分に途中出場のウェリックポポの同点ヘッドで振り出しに戻した。効果的なサイド攻撃を展開した時間帯もあったが、同29分に縦パスで崩されて勝ち越し点を許し、終盤にも追加点を挙げられた。"}],["$","p","13",{"children":"本来堅守を持ち味としてきたが、今季早くも4度目の1試合3失点。カップ戦も合わせると8月29日の京都戦から12試合連続で失点している。塚原監督は「これだけ失点が続いていると、やはりより堅守というところをまず一度」と語り、GKや守備陣の並びなども再考する方針を示した。"}],["$","p","14",{"children":"選手たちは試合後、同じく秋雨に打たれながらも最後まで声を出し続けたサポーターのそばに向かい、話し合う場面もあった。誰もがもどかしい思いを抱えざるを得ない状況。チームは試合後にミーティングを行い、感情が高ぶる中でも冷静に、アビスパが目指す姿を確認し合ったという。"}],["$","p","15",{"children":"25日の千葉の結果次第では単独最下位に転落する可能性がある。その千葉と次節、11月1日に敵地で対戦。残留を争う相手にこれ以上負けられない。（山田孝人）"}],["$","p","16",{"children":"【#OTTOアビスパ情報】"}],["$","p","17",{"children":"▼アビスパ福岡の今季成績【一覧】▼"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/6065908b13cf9f6f53b067800d7d06ebb7eca06f?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/e084f668e084f668a174cab2","title":"もどかしいアビスパ福岡 残留争いのライバルに完敗 試合後に選手とサポーターが話し合い 12試合連続失点に守備陣再編へ(西スポWEB OTTO!)","locale":"ja","take":null}],["$","$L4",null,{"title":"もどかしいアビスパ福岡 残留争いのライバルに完敗 試合後に選手とサポーターが話し合い 12試合連続失点に守備陣再編へ(西スポWEB OTTO!)","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/e084f668e084f668a174cab2","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E3%82%82%E3%81%A9%E3%81%8B%E3%81%97%E3%81%84%E3%82%A2%E3%83%93%E3%82%B9%E3%83%91%E7%A6%8F%E5%B2%A1+%E6%AE%8B%E7%95%99%E4%BA%89%E3%81%84%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%90%E3%83%AB%E3%81%AB%E5%AE%8C%E6%95%97+%E8%A9%A6%E5%90%88%E5%BE%8C%E3%81%AB%E9%81%B8%E6%89%8B%E3%81%A8%E3%82%B5%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%8C%E8%A9%B1%E3%81%97%E5%90%88%E3%81%84+12%E8%A9%A6%E5%90%88%E9%80%A3&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","euronews:https://euronews.com/video/2026/10/24/watch-french-police-deploy-armoured-vehicles-in-paris-and-marseille",{"children":["$","$L2",null,{"href":"/ja/n/8374541e8374541e40e5e29c","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Euronews"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Watch: French police deploy armoured vehicles in Paris and Marseille"}]]}]}],["$","li","yahoo-it:https://news.yahoo.co.jp/articles/4ac352b938ffc5585049c70723218dd8fa504bac?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/cd43a10bcd43a10b8a1a69db","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"英国政府、AI生物安全保障組織を設立 OpenAIとアンソロピックが最大2億ポンド約束(ビジネス＋IT)"}]]}]}],["$","li","nhk-top:https://news.web.nhk/newsweb/na/nd-20261024de64830",{"children":["$","$L2",null,{"href":"/ja/n/8bbfb0748bbfb074bb03323e","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"【速報中】日本シリーズ DeNAが牧のHRで同点に ソフトバンク戦"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"もどかしいアビスパ福岡 残留争いのライバルに完敗 試合後に選手とサポーターが話し合い 12試合連続失点に守備陣再編へ(西スポWEB OTTO!)"}],["$","meta","1",{"name":"description","content":"◆明治安田J1第12節 東京V2―1福岡（24日、東京・味の素スタジアム）"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"もどかしいアビスパ福岡 残留争いのライバルに完敗 試合後に選手とサポーターが話し合い 12試合連続失点に守備陣再編へ(西スポWEB OTTO!)"}],["$","meta","4",{"property":"og:description","content":"◆明治安田J1第12節 東京V2―1福岡（24日、東京・味の素スタジアム）"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/e084f668e084f668a174cab2/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261024-00010069-nishispo-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"もどかしいアビスパ福岡 残留争いのライバルに完敗 試合後に選手とサポーターが話し合い 12試合連続失点に守備陣再編へ(西スポWEB OTTO!)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"もどかしいアビスパ福岡 残留争いのライバルに完敗 試合後に選手とサポーターが話し合い 12試合連続失点に守備陣再編へ(西スポWEB OTTO!)"}],["$","meta","14",{"name":"twitter:description","content":"◆明治安田J1第12節 東京V2―1福岡（24日、東京・味の素スタジアム）"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261024-00010069-nishispo-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

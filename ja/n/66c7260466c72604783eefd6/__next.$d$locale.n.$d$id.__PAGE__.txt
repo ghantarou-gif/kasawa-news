@@ -1,0 +1,94 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+10:X
+15:X
+15:C
+0:{"buildId":"uBkhHRT_aLtDySfUghNoY","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-24","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Gigazine"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"GPT-6 Astraと同等性能の中国製モデル「Kimi K3.1 Pro」が登場、2026年11月4日にモデルを無償公開予定"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"1 時間前"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"中国企業のMoonshot AIがAIモデル「 Kimi K3.1 Pro 」を日本時間の2026年10月24日に発表しました。"}],["$","p","1",{"children":"Kimi K3.1 Pro Tech Blog: Advancing Open Intelligence"}],["$","p","2",{"children":"Introducing Kimi K3.1 Pro: our most capable 3T-class open-weight model."}],["$","p","3",{"children":"🔹 1M-token context, 2.8T total / 104B active params (MoE), Multimodal."}],["$","p","4",{"children":"🔹 Full-project coding: games in Unreal, Unity & Godot."}],["$","p","5",{"children":"🔹 Excels at parametric 3D modeling in Blender & CAD."}],["$","p","6",{"children":"🔹 More reliable at… pic.twitter.com/klydcszv02"}],["$","p","7",{"children":"&mdash; Kimi.ai (@Kimi_Moonshot) October 23, 2026"}],["$","p","8",{"children":"Kimi K3.1 Proは総パラメーター数2.8兆・アクティブパラメーター数1040億のMoEモデルです。コンテキストウィンドウは最長100万トークンで、コーディングエージェントやエージェントタスクのほか、3Dモデリング能力なども高いとされています。"}],["$","p","9",{"children":"「Kimi K3.1 Pro」「GPT-6 Astra」「Claude Fable 5.1」「Claude Opus 5.5」「DeepSeek-V4.1-Flash-1017」「GLM-5.3」の各種ベンチマーク結果が以下。Kimi K3.1 Proは複数のテストでGPT-6 AstraやClaude Fable 5.1を超えるスコアを記録しています。"}],["$","p","10",{"children":"以下のグラフはターミナル上での実務作業の性能を測定するベンチマークテスト「Terminal-Bench」の結果をまとめたもので、横軸がタスク当たりのコスト、縦軸がスコアを示しています。Kimi K3.1 ProはGPT-6 AstraやClaude Fable 5.1より低いコストで高いスコアを獲得しています。"}],["$","p","11",{"children":"BlenderやFreeCADといった3Dモデリングアプリを操作して作品を制作することもできます。"}],["$","p","12",{"children":"第三者機関の Artificial Analysis もKimi K3.1 Proの性能検証を実施しています。複数のテスト結果からAIの総合性能を算出する Artificial Analysis Intelligence Index v4.3.2 では「55」という高い得点を記録しました。Claude Fable 5.1、GPT-6 Astra、Gemini 4 Argonは「53」なので、アメリカの最先端AI企業のフラッグシップモデルより高スコアということになります。"}],["$","p","13",{"children":"Kimi K3.1 Proは「Kimi.ai」「Kimi Work」「Kimi Code」で使用可能なほか、API経由でも実行できます。また、2026年11月4日にモデルが無償公開される予定です。"}],["$","p","14",{"children":"100万トークン当たりのAPI料金は入力2.00ドル(約314円)・出力10.00ドル(約1569円)・キャッシュ書き込み2.00ドル(約314円)・キャッシュヒット0.20ドル(約31円)です。また、価格が2倍になる代わりに速度を3倍高速化できるKimi K3.1 Pro Highspeedも提供されています。各APIの詳細は以下のリンク先で確認できます。"}],["$","p","15",{"children":"Kimi K3.1 Pro - Kimi API Platform"}],["$","p","16",{"children":"中国製高性能AI「Kimi K3」が予定通りオープンモデル化される、2.8兆パラメーターでClaude Fable 5やGPT-5.6 Solに迫る性能 - GIGAZINE"}],["$","p","17",{"children":"コーディングベンチでGPT-6 Astraを超えつつ超安価な中国製AIモデル「DeepSeek-V4.1-Flash-1017」が登場 - GIGAZINE"}],["$","p","18",{"children":"中国のオープンソースAIに対抗するためReflectionがパラメーター数5010億のオープンモデル「Beam」を発表、GLM 5.2に匹敵し使用する計算量は3～4分の1でAIエージェントタスクではQwen3.8-Maxに匹敵すると主張 - GIGAZINE"}],["$","p","19",{"children":"法務タスク特化型AI「GLM-Legal」が登場、GLM-5.3-Flashベースの中国製モデルでGPT-6 Astraに匹敵する性能 - GIGAZINE"}],["$","p","20",{"children":"GPT-5.6 Solに匹敵する中国製AIモデル「Kimi K3」が登場、2.8兆パラメーターの超大型オープンモデル"}],["$","p","21",{"children":"謎の高性能AI「Ox Alpha」の正体は「GLM-5.3-Flash」だったことが判明、Claude Opus 4.8と同等性能のオープンモデル＆中国製チップで運用可能"}],["$","p","22",{"children":"中国製AIモデル「MiniMax M3」が登場、GPT-5.5やClaude Opus 4.7と競う高性能オープンモデル"}],["$","p","23",{"children":"高性能AIモデル「MiMo-V2.6-Pro」と「MiMo-V2.6-Flash」が無償公開される、GPT-5.6 Solに近い性能"}],"$L3","$L4","$L5","$L6"],"$L7"]}],"$L8","$L9","$La",null,"$Lb","$Lc"]}],["$Ld"],"$Le"]}],"isPartial":"$@f","staleTime":"$10","varyParams":null},{"rsc":"$L11","isPartial":"$@12","staleTime":"$10","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$10","varyParams":"$15"},{"rsc":"$L16","isPartial":"$@17","staleTime":"$10","varyParams":"$15"}],"isUpgradeableISRFallback":false,"a":"$@18","rootVaryParams":null,"needsRuntimeRequest":"$@19"}
+1a:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+1b:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+1d:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+1e:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1f:"$Sreact.suspense"
+21:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+22:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+23:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+24:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+25:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","24",{"children":"gpt-oss-20bより高性能な中国製AI「GLM-4.7-Flash」が登場"}]
+4:["$","p","25",{"children":"法務タスク特化型AI「GLM-Legal」が登場、GLM-5.3-Flashベースの中国製モデルでGPT-6 Astraに匹敵する性能"}]
+5:["$","p","26",{"children":"Googleが「Gemini 3.1 Flash Lite」を発表、高速で安価なコスパ重視AIモデル"}]
+6:["$","p","27",{"children":"You can read the machine translated English article A Chinese-made model, the 'Kimi K3.1 Pro… ."}]
+7:["$","p",null,{"className":"article-credit","children":"本文の著作権はGigazineにあります。"}]
+8:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://gigazine.net/news/20261024-kimi-k3-1-pro/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はGigazineで読む"}]}]
+1c:T1124,中国企業のMoonshot AIがAIモデル「 Kimi K3.1 Pro 」を日本時間の2026年10月24日に発表しました。
+
+Kimi K3.1 Pro Tech Blog: Advancing Open Intelligence
+
+Introducing Kimi K3.1 Pro: our most capable 3T-class open-weight model.
+
+🔹 1M-token context, 2.8T total / 104B active params (MoE), Multimodal.
+
+🔹 Full-project coding: games in Unreal, Unity & Godot.
+
+🔹 Excels at parametric 3D modeling in Blender & CAD.
+
+🔹 More reliable at… pic.twitter.com/klydcszv02
+
+&mdash; Kimi.ai (@Kimi_Moonshot) October 23, 2026
+
+Kimi K3.1 Proは総パラメーター数2.8兆・アクティブパラメーター数1040億のMoEモデルです。コンテキストウィンドウは最長100万トークンで、コーディングエージェントやエージェントタスクのほか、3Dモデリング能力なども高いとされています。
+
+「Kimi K3.1 Pro」「GPT-6 Astra」「Claude Fable 5.1」「Claude Opus 5.5」「DeepSeek-V4.1-Flash-1017」「GLM-5.3」の各種ベンチマーク結果が以下。Kimi K3.1 Proは複数のテストでGPT-6 AstraやClaude Fable 5.1を超えるスコアを記録しています。
+
+以下のグラフはターミナル上での実務作業の性能を測定するベンチマークテスト「Terminal-Bench」の結果をまとめたもので、横軸がタスク当たりのコスト、縦軸がスコアを示しています。Kimi K3.1 ProはGPT-6 AstraやClaude Fable 5.1より低いコストで高いスコアを獲得しています。
+
+BlenderやFreeCADといった3Dモデリングアプリを操作して作品を制作することもできます。
+
+第三者機関の Artificial Analysis もKimi K3.1 Proの性能検証を実施しています。複数のテスト結果からAIの総合性能を算出する Artificial Analysis Intelligence Index v4.3.2 では「55」という高い得点を記録しました。Claude Fable 5.1、GPT-6 Astra、Gemini 4 Argonは「53」なので、アメリカの最先端AI企業のフラッグシップモデルより高スコアということになります。
+
+Kimi K3.1 Proは「Kimi.ai」「Kimi Work」「Kimi Code」で使用可能なほか、API経由でも実行できます。また、2026年11月4日にモデルが無償公開される予定です。
+
+100万トークン当たりのAPI料金は入力2.00ドル(約314円)・出力10.00ドル(約1569円)・キャッシュ書き込み2.00ドル(約314円)・キャッシュヒット0.20ドル(約31円)です。また、価格が2倍になる代わりに速度を3倍高速化できるKimi K3.1 Pro Highspeedも提供されています。各APIの詳細は以下のリンク先で確認できます。
+
+Kimi K3.1 Pro - Kimi API Platform
+
+中国製高性能AI「Kimi K3」が予定通りオープンモデル化される、2.8兆パラメーターでClaude Fable 5やGPT-5.6 Solに迫る性能 - GIGAZINE
+
+コーディングベンチでGPT-6 Astraを超えつつ超安価な中国製AIモデル「DeepSeek-V4.1-Flash-1017」が登場 - GIGAZINE
+
+中国のオープンソースAIに対抗するためReflectionがパラメーター数5010億のオープンモデル「Beam」を発表、GLM 5.2に匹敵し使用する計算量は3～4分の1でAIエージェントタスクではQwen3.8-Maxに匹敵すると主張 - GIGAZINE
+
+法務タスク特化型AI「GLM-Legal」が登場、GLM-5.3-Flashベースの中国製モデルでGPT-6 Astraに匹敵する性能 - GIGAZINE
+
+GPT-5.6 Solに匹敵する中国製AIモデル「Kimi K3」が登場、2.8兆パラメーターの超大型オープンモデル
+
+謎の高性能AI「Ox Alpha」の正体は「GLM-5.3-Flash」だったことが判明、Claude Opus 4.8と同等性能のオープンモデル＆中国製チップで運用可能
+
+中国製AIモデル「MiniMax M3」が登場、GPT-5.5やClaude Opus 4.7と競う高性能オープンモデル
+
+高性能AIモデル「MiMo-V2.6-Pro」と「MiMo-V2.6-Flash」が無償公開される、GPT-5.6 Solに近い性能
+
+gpt-oss-20bより高性能な中国製AI「GLM-4.7-Flash」が登場
+
+法務タスク特化型AI「GLM-Legal」が登場、GLM-5.3-Flashベースの中国製モデルでGPT-6 Astraに匹敵する性能
+
+Googleが「Gemini 3.1 Flash Lite」を発表、高速で安価なコスパ重視AIモデル
+
+You can read the machine translated English article A Chinese-made model, the 'Kimi K3.1 Pro… .9:["$","section",null,{"className":"article-actions","children":[["$","$L1a",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/66c7260466c72604783eefd6","title":"GPT-6 Astraと同等性能の中国製モデル「Kimi K3.1 Pro」が登場、2026年11月4日にモデルを無償公開予定","locale":"ja","take":null}],["$","$L1b",null,{"title":"GPT-6 Astraと同等性能の中国製モデル「Kimi K3.1 Pro」が登場、2026年11月4日にモデルを無償公開予定","excerpt":"$1c","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/66c7260466c72604783eefd6","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=GPT-6+Astra%E3%81%A8%E5%90%8C%E7%AD%89%E6%80%A7%E8%83%BD%E3%81%AE%E4%B8%AD%E5%9B%BD%E8%A3%BD%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E7%99%BB%E5%A0%B4%E3%80%812026%E5%B9%B411%E6%9C%884%E6%97%A5%E3%81%AB%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E7%84%A1%E5%84%9F%E5%85%AC%E9%96%8B%E4%BA%88%E5%AE%9A&mode=phrase&url=gigazine.net&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+a:["$","$L1d",null,{"placement":"article","className":"mt-8"}]
+b:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+c:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","euronews:https://euronews.com/video/2026/10/24/watch-french-police-deploy-armoured-vehicles-in-paris-and-marseille",{"children":["$","$L2",null,{"href":"/ja/n/8374541e8374541e40e5e29c","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Euronews"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Watch: French police deploy armoured vehicles in Paris and Marseille"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/6065908b13cf9f6f53b067800d7d06ebb7eca06f?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/e084f668e084f668a174cab2","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"もどかしいアビスパ福岡 残留争いのライバルに完敗 試合後に選手とサポーターが話し合い 12試合連続失点に守備陣再編へ(西スポWEB OTTO!)"}]]}]}],["$","li","yahoo-it:https://news.yahoo.co.jp/articles/4ac352b938ffc5585049c70723218dd8fa504bac?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/cd43a10bcd43a10b8a1a69db","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"英国政府、AI生物安全保障組織を設立 OpenAIとアンソロピックが最大2億ポンド約束(ビジネス＋IT)"}]]}]}]]}]]}]
+d:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+e:["$","$L1e",null,{"children":["$","$1f",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+11:["$","$1","h",{"children":[null,["$","$L21",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L22",null,{"children":["$","$1f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"GPT-6 Astraと同等性能の中国製モデル「Kimi K3.1 Pro」が登場、2026年11月4日にモデルを無償公開予定"}],["$","meta","1",{"name":"description","content":"中国企業のMoonshot AIがAIモデル「 Kimi K3.1 Pro 」を日本時間の2026年10月24日に発表しました。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"GPT-6 Astraと同等性能の中国製モデル「Kimi K3.1 Pro」が登場、2026年11月4日にモデルを無償公開予定"}],["$","meta","4",{"property":"og:description","content":"中国企業のMoonshot AIがAIモデル「 Kimi K3.1 Pro 」を日本時間の2026年10月24日に発表しました。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/66c7260466c72604783eefd6/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"GPT-6 Astraと同等性能の中国製モデル「Kimi K3.1 Pro」が登場、2026年11月4日にモデルを無償公開予定"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"GPT-6 Astraと同等性能の中国製モデル「Kimi K3.1 Pro」が登場、2026年11月4日にモデルを無償公開予定"}],["$","meta","14",{"name":"twitter:description","content":"中国企業のMoonshot AIがAIモデル「 Kimi K3.1 Pro 」を日本時間の2026年10月24日に発表しました。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L23","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+13:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+16:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+19:true
+20:null
+10:300
+10:C
+18:0
+12:"$undefined"
+14:"$undefined"
+17:"$undefined"
+f:"$undefined"

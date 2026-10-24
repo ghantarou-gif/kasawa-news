@@ -1,0 +1,66 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+5:T135f,DNAと人間の言葉を結び付け、科学者が遺伝情報をこれまでとは違う方法で調べられるAIモデルが登場した。米Hugging Faceは10月22日（現地時間）、DNA解析に特化したAIモデル群「Carbon」の最新版で、同シリーズで最も高性能な「Carbon-X」を発表した。
+
+「Carbon-Xを使えば、研究者は初めて『DNAと会話』できるようになる。DNA配列を入力し、その配列について普段の言葉で質問できる」。Hugging Faceの研究者ルイス・タンストール氏は、米CNETの取材にこう説明した。
+
+もっとも、「会話」といっても、自分のゲノムとおしゃべりするわけではない。AIを介してDNA配列を入力し、普通の英語で質問すると、その配列の解釈や予測、説明が返ってくる。いわば、DNA解析用のチャットボットだ。
+
+「ChatGPT」「Gemini」「Claude」といった代表的なAIチャットボットは、一般にクラウド上で動作する。質問に対する処理は手元の端末ではなく、遠隔地のサーバーで行われる仕組みだ。しかし、機密性の高い研究や、まだ公表していない独自の研究に取り組んでいるなら、AI企業にデータを預けたくないこともあるだろう。
+
+「研究者には、機密性の高いDNA配列や未公開の配列を、自分のコンピューター上で扱えるモデルが必要だ。モデルの内部を調べたり、目的に合わせて調整したりできることも重要になる」とタンストール氏は述べた。
+
+Carbon-Xは比較的小型で、DNA解析に特化したモデルだ。クラウドにデータを送ることなく、対応するノートPCなどで動かせる。Hugging Faceによると、ほかのAIエージェントと連携させることも可能だという。
+
+Carbon-Xは、Hugging Faceからダウンロードできる数千ものAIモデルの1つだ。Hugging Faceは、AIモデルや学習用データ、開発ツールなどを公開・共有するためのプラットフォームでもある。2026年には、OpenAIの実験中のAIモデルがHugging Faceのシステムに侵入した事件でも、世界的な注目を集めた。
+
+念のため断っておくと、Carbon-XはDNAそのものを読み取り、塩基配列を決定する装置ではない。すでにデータ化されたDNA配列を解析し、その内容についての質問に答えるAIモデルだ。タンストール氏によると、特に得意なのは、DNAの変異が及ぼす影響の予測と、配列の次に来る塩基の予測だという。
+
+「Carbon-Xは、研究者が遺伝的な変異を調べる際に特に力を発揮する。例えば、DNA配列の変化が有害な影響を及ぼす可能性があるかどうかを予測できる」と同氏は説明した。
+
+また、別のAIモデルがDNAに関する情報を必要とするとき、Carbon-Xを「DNAの専門家」として呼び出す使い方もできるという。
+
+ただし、万能というわけではない。同社のブログによると、塩基の数や位置を取り違えたり、事実とは異なる情報をもっともらしく生成する「ハルシネーション」を起こしたりする可能性がある。質問に十分な情報が含まれていない場合、DNA配列の由来や機能について、根拠のない説明を作り出してしまうこともあるという。
+
+また、特に長いDNA配列を生成させようとすると、出力の精度が低下しやすいことも明らかにしている。
+
+米NVIDIAは9月、Hugging Faceを130億ドル弱で買収することで合意したと発表した。当時、NVIDIAの最高経営責任者（CEO）であるジェンスン・フアン氏は、同社を「オープンモデルの開発者コミュニティーが集う、活気に満ちた拠点」と評していた。オープンモデルとは、モデルの重みなどが公開され、外部の研究者や開発者が利用・検証できるAIモデルを指す。
+
+Carbon-Xの公開に先立つ数週間前には、米OpenAIが、長年未解決だった数学の難問をAIで解いたと発表していた。しかし、研究者との十分な事前協議がなく、AIが解答に至った過程も詳しく示されなかったとして、学術界から批判の声が上がった。
+
+一方、Carbon-Xはオープンモデルだ。AIに詳しい生物学者なら、少なくともその「中身」をのぞき、どのような仕組みで動いているのかを調べられる。
+
+「研究者には、モデルの能力や限界、リスクを自分たちで検証できる、オープンな選択肢も必要だと考えている」とタンストール氏は述べた。
+
+この記事は海外Ziff Davis発の 記事 を4Xが日本向けに編集したものです。d:X
+12:X
+12:C
+0:{"buildId":"uBkhHRT_aLtDySfUghNoY","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-24","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"CNET Japan"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"DNAと「会話」するAI、Hugging Faceが発表 遺伝情報の解析を加速"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"14 時間前"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"DNAと人間の言葉を結び付け、科学者が遺伝情報をこれまでとは違う方法で調べられるAIモデルが登場した。米Hugging Faceは10月22日（現地時間）、DNA解析に特化したAIモデル群「Carbon」の最新版で、同シリーズで最も高性能な「Carbon-X」を発表した。"}],["$","p","1",{"children":"「Carbon-Xを使えば、研究者は初めて『DNAと会話』できるようになる。DNA配列を入力し、その配列について普段の言葉で質問できる」。Hugging Faceの研究者ルイス・タンストール氏は、米CNETの取材にこう説明した。"}],["$","p","2",{"children":"もっとも、「会話」といっても、自分のゲノムとおしゃべりするわけではない。AIを介してDNA配列を入力し、普通の英語で質問すると、その配列の解釈や予測、説明が返ってくる。いわば、DNA解析用のチャットボットだ。"}],["$","p","3",{"children":"「ChatGPT」「Gemini」「Claude」といった代表的なAIチャットボットは、一般にクラウド上で動作する。質問に対する処理は手元の端末ではなく、遠隔地のサーバーで行われる仕組みだ。しかし、機密性の高い研究や、まだ公表していない独自の研究に取り組んでいるなら、AI企業にデータを預けたくないこともあるだろう。"}],["$","p","4",{"children":"「研究者には、機密性の高いDNA配列や未公開の配列を、自分のコンピューター上で扱えるモデルが必要だ。モデルの内部を調べたり、目的に合わせて調整したりできることも重要になる」とタンストール氏は述べた。"}],["$","p","5",{"children":"Carbon-Xは比較的小型で、DNA解析に特化したモデルだ。クラウドにデータを送ることなく、対応するノートPCなどで動かせる。Hugging Faceによると、ほかのAIエージェントと連携させることも可能だという。"}],["$","p","6",{"children":"Carbon-Xは、Hugging Faceからダウンロードできる数千ものAIモデルの1つだ。Hugging Faceは、AIモデルや学習用データ、開発ツールなどを公開・共有するためのプラットフォームでもある。2026年には、OpenAIの実験中のAIモデルがHugging Faceのシステムに侵入した事件でも、世界的な注目を集めた。"}],["$","p","7",{"children":"念のため断っておくと、Carbon-XはDNAそのものを読み取り、塩基配列を決定する装置ではない。すでにデータ化されたDNA配列を解析し、その内容についての質問に答えるAIモデルだ。タンストール氏によると、特に得意なのは、DNAの変異が及ぼす影響の予測と、配列の次に来る塩基の予測だという。"}],["$","p","8",{"children":"「Carbon-Xは、研究者が遺伝的な変異を調べる際に特に力を発揮する。例えば、DNA配列の変化が有害な影響を及ぼす可能性があるかどうかを予測できる」と同氏は説明した。"}],["$","p","9",{"children":"また、別のAIモデルがDNAに関する情報を必要とするとき、Carbon-Xを「DNAの専門家」として呼び出す使い方もできるという。"}],["$","p","10",{"children":"ただし、万能というわけではない。同社のブログによると、塩基の数や位置を取り違えたり、事実とは異なる情報をもっともらしく生成する「ハルシネーション」を起こしたりする可能性がある。質問に十分な情報が含まれていない場合、DNA配列の由来や機能について、根拠のない説明を作り出してしまうこともあるという。"}],["$","p","11",{"children":"また、特に長いDNA配列を生成させようとすると、出力の精度が低下しやすいことも明らかにしている。"}],["$","p","12",{"children":"米NVIDIAは9月、Hugging Faceを130億ドル弱で買収することで合意したと発表した。当時、NVIDIAの最高経営責任者（CEO）であるジェンスン・フアン氏は、同社を「オープンモデルの開発者コミュニティーが集う、活気に満ちた拠点」と評していた。オープンモデルとは、モデルの重みなどが公開され、外部の研究者や開発者が利用・検証できるAIモデルを指す。"}],["$","p","13",{"children":"Carbon-Xの公開に先立つ数週間前には、米OpenAIが、長年未解決だった数学の難問をAIで解いたと発表していた。しかし、研究者との十分な事前協議がなく、AIが解答に至った過程も詳しく示されなかったとして、学術界から批判の声が上がった。"}],["$","p","14",{"children":"一方、Carbon-Xはオープンモデルだ。AIに詳しい生物学者なら、少なくともその「中身」をのぞき、どのような仕組みで動いているのかを調べられる。"}],["$","p","15",{"children":"「研究者には、モデルの能力や限界、リスクを自分たちで検証できる、オープンな選択肢も必要だと考えている」とタンストール氏は述べた。"}],["$","p","16",{"children":"この記事は海外Ziff Davis発の 記事 を4Xが日本向けに編集したものです。"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はCNET Japanにあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://japan.cnet.com/article/35253907/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はCNET Japanで読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/7eb5fc217eb5fc210fc6b015","title":"DNAと「会話」するAI、Hugging Faceが発表 遺伝情報の解析を加速","locale":"ja","take":null}],["$","$L4",null,{"title":"DNAと「会話」するAI、Hugging Faceが発表 遺伝情報の解析を加速","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/7eb5fc217eb5fc210fc6b015","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=DNA%E3%81%A8%E3%81%99%E3%82%8BAI%E3%80%81Hugging+Face%E3%81%8C%E7%99%BA%E8%A1%A8+%E9%81%BA%E4%BC%9D%E6%83%85%E5%A0%B1%E3%81%AE%E8%A7%A3%E6%9E%90%E3%82%92%E5%8A%A0%E9%80%9F&mode=phrase&url=japan.cnet.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","euronews:https://euronews.com/video/2026/10/24/watch-french-police-deploy-armoured-vehicles-in-paris-and-marseille",{"children":["$","$L2",null,{"href":"/ja/n/8374541e8374541e40e5e29c","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Euronews"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Watch: French police deploy armoured vehicles in Paris and Marseille"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/6065908b13cf9f6f53b067800d7d06ebb7eca06f?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/e084f668e084f668a174cab2","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"もどかしいアビスパ福岡 残留争いのライバルに完敗 試合後に選手とサポーターが話し合い 12試合連続失点に守備陣再編へ(西スポWEB OTTO!)"}]]}]}],["$","li","yahoo-it:https://news.yahoo.co.jp/articles/4ac352b938ffc5585049c70723218dd8fa504bac?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/cd43a10bcd43a10b8a1a69db","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"英国政府、AI生物安全保障組織を設立 OpenAIとアンソロピックが最大2億ポンド約束(ビジネス＋IT)"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"DNAと「会話」するAI、Hugging Faceが発表 遺伝情報の解析を加速"}],["$","meta","1",{"name":"description","content":"DNAと人間の言葉を結び付け、科学者が遺伝情報をこれまでとは違う方法で調べられるAIモデルが登場した。米Hugging Faceは10月22日（現地時間）、DNA解析に特化したAIモデル群「Carbon」の最新版で、同シリーズで最も高性能な「Carbon-X」を発表した。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"DNAと「会話」するAI、Hugging Faceが発表 遺伝情報の解析を加速"}],["$","meta","4",{"property":"og:description","content":"DNAと人間の言葉を結び付け、科学者が遺伝情報をこれまでとは違う方法で調べられるAIモデルが登場した。米Hugging Faceは10月22日（現地時間）、DNA解析に特化したAIモデル群「Carbon」の最新版で、同シリーズで最も高性能な「Carbon-X」を発表した。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/7eb5fc217eb5fc210fc6b015/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"DNAと「会話」するAI、Hugging Faceが発表 遺伝情報の解析を加速"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"DNAと「会話」するAI、Hugging Faceが発表 遺伝情報の解析を加速"}],["$","meta","14",{"name":"twitter:description","content":"DNAと人間の言葉を結び付け、科学者が遺伝情報をこれまでとは違う方法で調べられるAIモデルが登場した。米Hugging Faceは10月22日（現地時間）、DNA解析に特化したAIモデル群「Carbon」の最新版で、同シリーズで最も高性能な「Carbon-X」を発表した。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

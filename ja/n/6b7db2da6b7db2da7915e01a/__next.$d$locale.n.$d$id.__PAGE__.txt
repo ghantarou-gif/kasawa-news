@@ -1,0 +1,81 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+c:X
+11:X
+11:C
+0:{"buildId":"uBkhHRT_aLtDySfUghNoY","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-24","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Gigazine"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"無料で予約ページ・カレンダー同期・ビデオ会議室・自動メール送信機能などのダブルブッキングしないようにする機能を駆使してスケジュールの自動調整ができる「Tymeslot」、オープンソースでセルフホスト可能"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"4 時間前"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"予約管理システムではカレンダーとの同期やオンライン会議サービスとの連携・メール通知など必要とする機能に応じて利用条件が変わることがあります。そこで、予約ページの作成・複数カレンダーを使った重複予約の防止・ビデオ会議室の自動生成・確認メールの送信・Webサイトへの埋め込みなどの機能をまとめて搭載し、セルフホスト版なら予約件数の制限もなく無料で使えるオープンソースのスケジュール管理システムが「 Tymeslot 」です。"}],["$","p","1",{"children":"Tymeslot/tymeslot: Open-source meeting scheduling platform built with Elixir/Phoenix LiveView. Self-host or use the managed cloud at tymeslot.app."}],["$","p","2",{"children":"例として「15分の短い相談」「30分の打ち合わせ」などが予約できるページで訪問者がいずれかの予定を選択するとします。今回は「Quick Chat」を選択し「Next」をクリック。"}],["$","p","3",{"children":"日付と時間を選択して「Next Step」をクリック。"}],["$","p","4",{"children":"申込みフォームが表示されるので「Your Name」に名前、「Email Address」にメールアドレスを入力し「Book Meeting」をクリック。"}],["$","p","5",{"children":"受付時間を設定することで予約時に対応できる時間だけ表示可能。"}],["$","p","6",{"children":"さらに Google Calendar ・ Microsoft Outlook ・ iCloud などと連携すると予約ページに表示する空き時間を既存の予定と照合し、ダブルブッキングを防ぎます。"}],["$","p","7",{"children":"14時から15時までの予約時間が非表示になりダブルブッキングを防げます。"}],["$","p","8",{"children":"打ち合わせの場所は対面・ビデオ会議・電話などから指定が可能。"}],["$","p","9",{"children":"複数の選択肢を用意して予約する相手に都合のよい方法を選んでもらうこともできます。"}],["$","p","10",{"children":"Google Meet ・ Microsoft Teams ・ Zoom などのサービスを接続しておけば、ビデオ会議が選ばれた際に専用の会議室URLを自動生成できます。"}],["$","p","11",{"children":"予約ページには「Quill」「Rhythm」の2種類のテーマが用意され、背景や色を変えたり独自のWebサイトへ直接予約フォームを埋め込んだりできます。"}],["$","p","12",{"children":"埋め込み方法はページ内表示・ポップアップ・通常のリンク・フローティングボタンの4種類が用意されています。"}],["$","p","13",{"children":"そのほか、予約時の質問項目・ Slack もしくは Telegram への通知・Webhookによる外部連携・ Stripe 決済にも対応しています。"}],["$","p","14",{"children":"なお、UIに日本語表示は用意されていませんでしたが、予約やデータの登録など利用においては日本語を使用しても問題なく利用できました。"}],["$","p","15",{"children":"今回はWindowsに Docker Desktop と Git for Windows のGit Bashを用意した環境で構築します。作業フォルダーでtymeslotフォルダーを作成し公式のDocker Compose設定ファイルと.envを取得します。"}],["$","p","16",{"children":"続いて署名用の秘密鍵を生成し出力された値をコピー。"}],["$","p","17",{"children":"SMTP_HOST=host.docker.internal"}],["$","p","18",{"children":"登録フォームが表示されるので「EMAIL ADDRESS」にメールアドレス、「PASSWORD」にパスワードを入力して「Sign up」をクリック。"}],["$","p","19",{"children":"承認用のリンクが記載されたメールが送信されます。"}],["$","p","20",{"children":"メールを確認して「Confirm Email & Get Started」をクリックし承認手続きを完了します。"}],["$","p","21",{"children":"初期ウィザードが表示されればTymeslotの構築作業は完了です。"}],["$","p","22",{"children":"無料とは思えない多機能っぷりなWikiインフラ「Wiki.js」レビュー、自前でホスト＆外部サービスと連携可能"}],["$","p","23",{"children":"You can read the machine translated English article Tymeslot is a free, open-source, self-ho… ."}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はGigazineにあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://gigazine.net/news/20261024-tymeslot/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はGigazineで読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/6b7db2da6b7db2da7915e01a","title":"無料で予約ページ・カレンダー同期・ビデオ会議室・自動メール送信機能などのダブルブッキングしないようにする機能を駆使してスケジュールの自動調整ができる「Tymeslot」、オープンソースでセルフホスト可能","locale":"ja","take":null}],"$L4","$L5"]}],"$L6",null,"$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":"$@b","staleTime":"$c","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$c","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$c","varyParams":"$11"},{"rsc":"$L12","isPartial":"$@13","staleTime":"$c","varyParams":"$11"}],"isUpgradeableISRFallback":false,"a":"$@14","rootVaryParams":null,"needsRuntimeRequest":"$@15"}
+16:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+18:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+19:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1a:"$Sreact.suspense"
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1e:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1f:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+20:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+17:Te9f,予約管理システムではカレンダーとの同期やオンライン会議サービスとの連携・メール通知など必要とする機能に応じて利用条件が変わることがあります。そこで、予約ページの作成・複数カレンダーを使った重複予約の防止・ビデオ会議室の自動生成・確認メールの送信・Webサイトへの埋め込みなどの機能をまとめて搭載し、セルフホスト版なら予約件数の制限もなく無料で使えるオープンソースのスケジュール管理システムが「 Tymeslot 」です。
+
+Tymeslot/tymeslot: Open-source meeting scheduling platform built with Elixir/Phoenix LiveView. Self-host or use the managed cloud at tymeslot.app.
+
+例として「15分の短い相談」「30分の打ち合わせ」などが予約できるページで訪問者がいずれかの予定を選択するとします。今回は「Quick Chat」を選択し「Next」をクリック。
+
+日付と時間を選択して「Next Step」をクリック。
+
+申込みフォームが表示されるので「Your Name」に名前、「Email Address」にメールアドレスを入力し「Book Meeting」をクリック。
+
+受付時間を設定することで予約時に対応できる時間だけ表示可能。
+
+さらに Google Calendar ・ Microsoft Outlook ・ iCloud などと連携すると予約ページに表示する空き時間を既存の予定と照合し、ダブルブッキングを防ぎます。
+
+14時から15時までの予約時間が非表示になりダブルブッキングを防げます。
+
+打ち合わせの場所は対面・ビデオ会議・電話などから指定が可能。
+
+複数の選択肢を用意して予約する相手に都合のよい方法を選んでもらうこともできます。
+
+Google Meet ・ Microsoft Teams ・ Zoom などのサービスを接続しておけば、ビデオ会議が選ばれた際に専用の会議室URLを自動生成できます。
+
+予約ページには「Quill」「Rhythm」の2種類のテーマが用意され、背景や色を変えたり独自のWebサイトへ直接予約フォームを埋め込んだりできます。
+
+埋め込み方法はページ内表示・ポップアップ・通常のリンク・フローティングボタンの4種類が用意されています。
+
+そのほか、予約時の質問項目・ Slack もしくは Telegram への通知・Webhookによる外部連携・ Stripe 決済にも対応しています。
+
+なお、UIに日本語表示は用意されていませんでしたが、予約やデータの登録など利用においては日本語を使用しても問題なく利用できました。
+
+今回はWindowsに Docker Desktop と Git for Windows のGit Bashを用意した環境で構築します。作業フォルダーでtymeslotフォルダーを作成し公式のDocker Compose設定ファイルと.envを取得します。
+
+続いて署名用の秘密鍵を生成し出力された値をコピー。
+
+SMTP_HOST=host.docker.internal
+
+登録フォームが表示されるので「EMAIL ADDRESS」にメールアドレス、「PASSWORD」にパスワードを入力して「Sign up」をクリック。
+
+承認用のリンクが記載されたメールが送信されます。
+
+メールを確認して「Confirm Email & Get Started」をクリックし承認手続きを完了します。
+
+初期ウィザードが表示されればTymeslotの構築作業は完了です。
+
+無料とは思えない多機能っぷりなWikiインフラ「Wiki.js」レビュー、自前でホスト＆外部サービスと連携可能
+
+You can read the machine translated English article Tymeslot is a free, open-source, self-ho… .4:["$","$L16",null,{"title":"無料で予約ページ・カレンダー同期・ビデオ会議室・自動メール送信機能などのダブルブッキングしないようにする機能を駆使してスケジュールの自動調整ができる「Tymeslot」、オープンソースでセルフホスト可能","excerpt":"$17","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/6b7db2da6b7db2da7915e01a","locale":"ja"}]
+5:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E7%84%A1%E6%96%99%E3%81%A7%E4%BA%88%E7%B4%84%E3%83%9A%E3%83%BC%E3%82%B8%E3%83%BB%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E5%90%8C%E6%9C%9F%E3%83%BB%E3%83%93%E3%83%87%E3%82%AA%E4%BC%9A%E8%AD%B0%E5%AE%A4%E3%83%BB%E8%87%AA%E5%8B%95%E3%83%A1%E3%83%BC%E3%83%AB%E9%80%81%E4%BF%A1%E6%A9%9F%E8%83%BD%E3%81%AA%E3%81%A9%E3%81%AE%E3%83%80%E3%83%96%E3%83%AB%E3%83%96%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%E3%81%97%E3%81%AA%E3%81%84%E3%82%88&mode=phrase&url=gigazine.net&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+6:["$","$L18",null,{"placement":"article","className":"mt-8"}]
+7:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+8:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","euronews:https://euronews.com/video/2026/10/24/watch-french-police-deploy-armoured-vehicles-in-paris-and-marseille",{"children":["$","$L2",null,{"href":"/ja/n/8374541e8374541e40e5e29c","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Euronews"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Watch: French police deploy armoured vehicles in Paris and Marseille"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/6065908b13cf9f6f53b067800d7d06ebb7eca06f?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/e084f668e084f668a174cab2","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"もどかしいアビスパ福岡 残留争いのライバルに完敗 試合後に選手とサポーターが話し合い 12試合連続失点に守備陣再編へ(西スポWEB OTTO!)"}]]}]}],["$","li","yahoo-it:https://news.yahoo.co.jp/articles/4ac352b938ffc5585049c70723218dd8fa504bac?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/cd43a10bcd43a10b8a1a69db","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"英国政府、AI生物安全保障組織を設立 OpenAIとアンソロピックが最大2億ポンド約束(ビジネス＋IT)"}]]}]}]]}]]}]
+9:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+a:["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
+d:["$","$1","h",{"children":[null,["$","$L1c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1d",null,{"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"無料で予約ページ・カレンダー同期・ビデオ会議室・自動メール送信機能などのダブルブッキングしないようにする機能を駆使してスケジュールの自動調整ができる「Tymeslot」、オープンソースでセルフホスト可能"}],["$","meta","1",{"name":"description","content":"予約管理システムではカレンダーとの同期やオンライン会議サービスとの連携・メール通知など必要とする機能に応じて利用条件が変わることがあります。そこで、予約ページの作成・複数カレンダーを使った重複予約の防止・ビデオ会議室の自動生成・確認メールの送信・Webサイトへの埋め込みなどの機能をまとめて搭載し、セルフホスト版なら予約件数の制限もなく無料で使えるオープンソースのスケジュール管理システムが「 Tymeslot 」です。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"無料で予約ページ・カレンダー同期・ビデオ会議室・自動メール送信機能などのダブルブッキングしないようにする機能を駆使してスケジュールの自動調整ができる「Tymeslot」、オープンソースでセルフホスト可能"}],["$","meta","4",{"property":"og:description","content":"予約管理システムではカレンダーとの同期やオンライン会議サービスとの連携・メール通知など必要とする機能に応じて利用条件が変わることがあります。そこで、予約ページの作成・複数カレンダーを使った重複予約の防止・ビデオ会議室の自動生成・確認メールの送信・Webサイトへの埋め込みなどの機能をまとめて搭載し、セルフホスト版なら予約件数の制限もなく無料で使えるオープンソースのスケジュール管理システムが「 Tymeslot 」です。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/6b7db2da6b7db2da7915e01a/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"無料で予約ページ・カレンダー同期・ビデオ会議室・自動メール送信機能などのダブルブッキングしないようにする機能を駆使してスケジュールの自動調整ができる「Tymeslot」、オープンソースでセルフホスト可能"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"無料で予約ページ・カレンダー同期・ビデオ会議室・自動メール送信機能などのダブルブッキングしないようにする機能を駆使してスケジュールの自動調整ができる「Tymeslot」、オープンソースでセルフホスト可能"}],["$","meta","14",{"name":"twitter:description","content":"予約管理システムではカレンダーとの同期やオンライン会議サービスとの連携・メール通知など必要とする機能に応じて利用条件が変わることがあります。そこで、予約ページの作成・複数カレンダーを使った重複予約の防止・ビデオ会議室の自動生成・確認メールの送信・Webサイトへの埋め込みなどの機能をまとめて搭載し、セルフホスト版なら予約件数の制限もなく無料で使えるオープンソースのスケジュール管理システムが「 Tymeslot 」です。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1e","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+12:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+15:true
+1b:null
+c:300
+c:C
+14:0
+e:"$undefined"
+10:"$undefined"
+13:"$undefined"
+b:"$undefined"

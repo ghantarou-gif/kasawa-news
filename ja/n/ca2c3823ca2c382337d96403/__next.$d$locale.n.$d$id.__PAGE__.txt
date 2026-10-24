@@ -1,0 +1,140 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6136/live/b103d880-cd90-11f1-b1e7-39558e114359.jpg","image"]
+1e:X
+23:X
+23:C
+0:{"buildId":"uBkhHRT_aLtDySfUghNoY","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-22","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"プログラミング言語「PHP」に重大な脆弱性、世界中で多くのウェブサイト休止"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"一昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6136/live/b103d880-cd90-11f1-b1e7-39558e114359.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"ラップトップコンピューターに向かった人が両手でキーボードを操作している"}],["$","p","1",{"children":"トム・ガーケン・テクノロジー記者、ローラ・クレス・テクノロジー記者、ジョー・タイディー・サイバー担当編集委員（BBCワールドサービス）"}],["$","p","2",{"children":"世界中で使われ、インターネットの相当部分を支えるプログラミング言語「PHP」のセキュリティーチームは21日、プログラムに含まれる二つの重大なセキュリティー上の欠陥に対処するよう、ウェブサイト運営者に強く求めた。同日午後に修正プログラムが公開された。"}],["$","p","3",{"children":"各国のサイバーセキュリティー機関は、早急に修正措置を適用できない組織に対し、サイトの休止を検討するよう促した。このため、フィンランド政府、英エディンバラ市議会、BBCなどの組織が、サイト上の複数ページをオフラインにせざるを得なくなった。"}],["$","p","4",{"children":"PHPの脆弱（ぜいじゃく）性は、人工知能（AI）が発見した。サイバーセキュリティー企業Wizは、AIがこれまで発見した脆弱性の中で「最も深刻」なものだと述べた。AIによるこうした調査は、サイバー空間の様相を一変させている。"}],["$","p","5",{"children":"フィンランド政府は公共ウェブサービスを一時的に停止した。オランダのサイバーセキュリティー機関は脆弱性が理由で、自分たちのウェブサイトをオフラインにすると発表した。"}],["$","p","6",{"children":"米国家安全保障局（NSA）はソーシャルメディア「X」で、「PHPを利用しているすべての組織」に対する勧告を掲載し、修正プログラムを適用できない場合はシステムをオフラインにするよう促した。"}],["$","p","7",{"children":"「この脆弱性は多くの場合、サーバーのファイルシステムやデータベースへの直接的な経路を提供するものだ」と、NSAは説明した。"}],["$","p","8",{"children":"米ホワイトハウスは、連邦政府機関が主要なAI研究所と協力して、この問題の解決を加速させていると述べた。"}],["$","p","9",{"children":"日本の高市早苗首相は21日夜にXで、「皆様に、今夜に対応して頂きたい大至急のお願いです」として、「多くのウェブサイトで使用されているPHPに関し、PHPのセキュリティチームが、重大な2件の脆弱性に関する注意喚起を行っています。公開しているウェブサイトでPHPを使用しているか確認し、今夜、10月21日午後11時（日本時間）に公開される修正パッチについて、可及的速やかに適用できるよう準備をお願いします」と呼びかけた。"}],["$","p","10",{"children":"脆弱性に対する修正プログラムは、ソフトウエア開発者の間では通常「パッチ」と呼ばれる。"}],["$","p","11",{"children":"オンライン百科事典のウィキペディアを運営するウィキメディア財団は、自分たちはセキュリティー上の脆弱性に対処しているところだと述べた。"}],["$","p","12",{"children":"「修正パッチを安全に適用できるまで、予防措置として他のいくつかのシステムも停止した」と、財団は声明で述べた。その結果、21日には一部のユーザーがウィキペディアの一部にアクセスできなくなった。"}],["$","p","13",{"children":"英スコットランドのエディンバラ市議会のウェブサイトもアクセスできなくなった。BBCの公式サイトでも、「ドクター・フー」や「ザ・トレイターズ」など、いくつかの番組ページが利用できなくなった。"}],["$","p","14",{"children":"サイト停止についてどちらも、PHPの脆弱性に関連するものだとは公表していない。BBCニュースはコメントを求めている。"}],["$","p","15",{"children":"このほか、芸術家のためのプラットフォーム「DeviantArt（デヴィアント・アート）」など複数のサイトがアクセスできなくなった。理由を明示せず、「メンテナンスのため一時的に停止しています」と掲示しているところもある。"}],["$","p","16",{"children":"PHPの脆弱性は、セキュリティー企業CalifとWizのサイバーセキュリティー研究者が発見した。"}],["$","p","17",{"children":"CalifはPHP財団と共に、米オープンAIが開始した「Patch the Planet（パッチ・ザ・プラネット）」という取り組みに参加していた。"}],["$","p","18",{"children":"「Patch the Planet」の参加者たちは、ウェブ開発言語の欠陥を発見・修正するため、オープンAIの高度なAIツールへのアクセス権を与えられていた。"}],["$","p","19",{"children":"オープンAIはブログ記事で、今回の発見は「近年で最も影響力の大きいセキュリティー問題の一つ」だと説明。同社の社内研究者も他の企業とほぼ同時期にこの問題を発見していたと述べた。"}],["$","p","20",{"children":"問題の脆弱性は10年以上もの間、発見されずにいた。高度なAIツールを数週間使用した結果、今年8月にようやく見つかった。"}],["$","p","21",{"children":"「（オープンAIの）最先端モデルは、このプロセスを実用化する上で不可欠だった。最先端モデルのおかげで、複数のアプリケーションで有効な対策を数時間で開発し、適応させることができた」と、Wizはブログ記事で明らかにした。"}],["$","p","22",{"children":"同社は、インターネットの「約70％」が影響を受けたと推定している。BBCは、この数字を検証できていない。"}],["$","p","23",{"children":"PHP財団は、今月後半にこの問題の完全な修正プログラムと合わせて、発見した脆弱性の内容を公表する予定だった。しかし、20日の時点でソーシャルメディア上で脆弱性の詳細が流出した。"}],["$","p","24",{"children":"このためPHP財団は、 脆弱性とその規模の大きさを急ぎ発表せざるを得なくなった。"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14"],"$L15"]}],"$L16","$L17","$L18",null,"$L19","$L1a"]}],["$L1b"],"$L1c"]}],"isPartial":"$@1d","staleTime":"$1e","varyParams":null},{"rsc":"$L1f","isPartial":"$@20","staleTime":"$1e","varyParams":null},{"rsc":"$L21","isPartial":"$@22","staleTime":"$1e","varyParams":"$23"},{"rsc":"$L24","isPartial":"$@25","staleTime":"$1e","varyParams":"$23"}],"isUpgradeableISRFallback":false,"a":"$@26","rootVaryParams":null,"needsRuntimeRequest":"$@27"}
+28:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+29:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+2c:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+2d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+2e:"$Sreact.suspense"
+30:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+31:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+32:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+33:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+34:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","25",{"children":"オランダ国立公衆衛生環境研究所は、ウェブサイトを閉鎖した。同様に、同国議会下院のウェブサイトもアクセスできなくなった。"}]
+4:["$","p","26",{"children":"イギリスの国家サイバーセキュリティーセンター（NCSC）は、欧州連合（EU）およびオーストラリアの同様の機関とともに、PHPの利用者に対し、修正プログラムを適用するよう促している。"}]
+5:["$","p","27",{"children":"「直ちに修復できない場合、問題が完全に解消するまで、PHPを利用する組織はサイトをオフラインにすることを検討すべきだ」とNCSCは声明で述べた。"}]
+6:["$","p","28",{"children":"日本の国家サイバー統括室（NCO）とEUのサイバーセキュリティー当局も21日、同様の警告を発した。"}]
+7:["$","p","29",{"children":"「PHPはあちこちで使われている。WordPress、Drupal、Joomla、Magentoなどのサイト、共有ホスティングプラットフォーム、コントロールパネル、そしてPHPが内部で動作していることを公表していない膨大な数のソフトウエアを、PHPは静かに支えている」と、サイバーセキュリティー企業Huntressは指摘した。"}]
+8:["$","p","30",{"children":"サイバーセキュリティー企業ソフォスの脅威対策ユニットに所属する、専門家のドン・スミス氏はBBCに対し、ハッカーにとってPHPの脆弱性が「優先的な標的となる可能性が高い」と述べた。"}]
+9:["$","p","31",{"children":"喫緊の課題は、ただパッチをインストールすることではなく、PHPが実行されているすべての場所を見つけて管理することだとも、スミス氏は話した。"}]
+a:["$","p","32",{"children":"「PHPはあらゆるところで使われている。公開ウェブサイト、コンテンツ管理システム、ホスティングプラットフォーム、サードパーティー製品などの裏側で使われている可能性がある。時には、PHPを使っている組織自身、使っていることに気づいていない場合がある」"}]
+b:["$","p","33",{"children":"スミス氏は、攻撃者が「すでに足がかりを築いている可能性がある」ことを意識して、組織側が慎重に注視するのが不可欠だと強調した。"}]
+c:["$","p","34",{"children":"EUのサイバーセキュリティー緊急対応チーム（CERT-EU）は、PHPの脆弱性によるリスク評価は、「非認証のリモートコード実行の可能性を示している」と指摘した。"}]
+d:["$","p","35",{"children":"このようなサイバー攻撃によってハッカーは、マルウエアをインストールしたり、ウェブサイトをダウンさせたりできるようになる可能性がある。"}]
+e:["$","p","36",{"children":"インターネットインフラ企業クラウドフレアのデーン・クネヒト最高技術責任者は、「すでに初期段階の攻撃が発生しているのを確認している。新しい攻撃経路が現れると、その都度、対策を更新している」と述べた。"}]
+f:["$","p","37",{"children":"NCSCは、組織がアップデートをインストールした後は、「PHPをバンドル使用している可能性のあるアプライアンスやサービスを含め、サードパーティーのソフトウエアベンダーからのセキュリティーアップデートを、継続的に監視する必要がある」と述べた。"}]
+10:["$","p","38",{"children":"どのバージョンのプログラミング言語が影響を受けるかはまだ明らかではないが、CERT-EUは、2004年にリリースされたPHP 5以降のすべてのバージョンが影響を受ける可能性があると述べている。"}]
+11:["$","p","39",{"children":"PHP財団は、最新バージョンのみを対象としたアップデートをリリースしており、PHP 8.1以前のバージョンを使用しているユーザーにアップグレードを呼びかけている。"}]
+12:["$","p","40",{"children":"PHPはウェブ開発のために開発された。サーバー上で使用され、利用者がウェブサイトにアクセスした際に表示される画面を実装する。"}]
+13:["$","p","41",{"children":"すべてのウェブサイトがこれを利用しているわけではないが、インターネットの大部分を支えている。"}]
+14:["$","p","42",{"children":"（英語記事 Websites taken down worldwide as critical cyber-security update issued）"}]
+15:["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]
+16:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/c674p01yqwqko","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}]
+2a:T271b,ラップトップコンピューターに向かった人が両手でキーボードを操作している
+
+トム・ガーケン・テクノロジー記者、ローラ・クレス・テクノロジー記者、ジョー・タイディー・サイバー担当編集委員（BBCワールドサービス）
+
+世界中で使われ、インターネットの相当部分を支えるプログラミング言語「PHP」のセキュリティーチームは21日、プログラムに含まれる二つの重大なセキュリティー上の欠陥に対処するよう、ウェブサイト運営者に強く求めた。同日午後に修正プログラムが公開された。
+
+各国のサイバーセキュリティー機関は、早急に修正措置を適用できない組織に対し、サイトの休止を検討するよう促した。このため、フィンランド政府、英エディンバラ市議会、BBCなどの組織が、サイト上の複数ページをオフラインにせざるを得なくなった。
+
+PHPの脆弱（ぜいじゃく）性は、人工知能（AI）が発見した。サイバーセキュリティー企業Wizは、AIがこれまで発見した脆弱性の中で「最も深刻」なものだと述べた。AIによるこうした調査は、サイバー空間の様相を一変させている。
+
+フィンランド政府は公共ウェブサービスを一時的に停止した。オランダのサイバーセキュリティー機関は脆弱性が理由で、自分たちのウェブサイトをオフラインにすると発表した。
+
+米国家安全保障局（NSA）はソーシャルメディア「X」で、「PHPを利用しているすべての組織」に対する勧告を掲載し、修正プログラムを適用できない場合はシステムをオフラインにするよう促した。
+
+「この脆弱性は多くの場合、サーバーのファイルシステムやデータベースへの直接的な経路を提供するものだ」と、NSAは説明した。
+
+米ホワイトハウスは、連邦政府機関が主要なAI研究所と協力して、この問題の解決を加速させていると述べた。
+
+日本の高市早苗首相は21日夜にXで、「皆様に、今夜に対応して頂きたい大至急のお願いです」として、「多くのウェブサイトで使用されているPHPに関し、PHPのセキュリティチームが、重大な2件の脆弱性に関する注意喚起を行っています。公開しているウェブサイトでPHPを使用しているか確認し、今夜、10月21日午後11時（日本時間）に公開される修正パッチについて、可及的速やかに適用できるよう準備をお願いします」と呼びかけた。
+
+脆弱性に対する修正プログラムは、ソフトウエア開発者の間では通常「パッチ」と呼ばれる。
+
+オンライン百科事典のウィキペディアを運営するウィキメディア財団は、自分たちはセキュリティー上の脆弱性に対処しているところだと述べた。
+
+「修正パッチを安全に適用できるまで、予防措置として他のいくつかのシステムも停止した」と、財団は声明で述べた。その結果、21日には一部のユーザーがウィキペディアの一部にアクセスできなくなった。
+
+英スコットランドのエディンバラ市議会のウェブサイトもアクセスできなくなった。BBCの公式サイトでも、「ドクター・フー」や「ザ・トレイターズ」など、いくつかの番組ページが利用できなくなった。
+
+サイト停止についてどちらも、PHPの脆弱性に関連するものだとは公表していない。BBCニュースはコメントを求めている。
+
+このほか、芸術家のためのプラットフォーム「DeviantArt（デヴィアント・アート）」など複数のサイトがアクセスできなくなった。理由を明示せず、「メンテナンスのため一時的に停止しています」と掲示しているところもある。
+
+PHPの脆弱性は、セキュリティー企業CalifとWizのサイバーセキュリティー研究者が発見した。
+
+CalifはPHP財団と共に、米オープンAIが開始した「Patch the Planet（パッチ・ザ・プラネット）」という取り組みに参加していた。
+
+「Patch the Planet」の参加者たちは、ウェブ開発言語の欠陥を発見・修正するため、オープンAIの高度なAIツールへのアクセス権を与えられていた。
+
+オープンAIはブログ記事で、今回の発見は「近年で最も影響力の大きいセキュリティー問題の一つ」だと説明。同社の社内研究者も他の企業とほぼ同時期にこの問題を発見していたと述べた。
+
+問題の脆弱性は10年以上もの間、発見されずにいた。高度なAIツールを数週間使用した結果、今年8月にようやく見つかった。
+
+「（オープンAIの）最先端モデルは、このプロセスを実用化する上で不可欠だった。最先端モデルのおかげで、複数のアプリケーションで有効な対策を数時間で開発し、適応させることができた」と、Wizはブログ記事で明らかにした。
+
+同社は、インターネットの「約70％」が影響を受けたと推定している。BBCは、この数字を検証できていない。
+
+PHP財団は、今月後半にこの問題の完全な修正プログラムと合わせて、発見した脆弱性の内容を公表する予定だった。しかし、20日の時点でソーシャルメディア上で脆弱性の詳細が流出した。
+
+このためPHP財団は、 脆弱性とその規模の大きさを急ぎ発表せざるを得なくなった。
+
+オランダ国立公衆衛生環境研究所は、ウェブサイトを閉鎖した。同様に、同国議会下院のウェブサイトもアクセスできなくなった。
+
+イギリスの国家サイバーセキュリティーセンター（NCSC）は、欧州連合（EU）およびオーストラリアの同様の機関とともに、PHPの利用者に対し、修正プログラムを適用するよう促している。
+
+「直ちに修復できない場合、問題が完全に解消するまで、PHPを利用する組織はサイトをオフラインにすることを検討すべきだ」とNCSCは声明で述べた。
+
+日本の国家サイバー統括室（NCO）とEUのサイバーセキュリティー当局も21日、同様の警告を発した。
+
+「PHPはあちこちで使われている。WordPress、Drupal、Joomla、Magentoなどのサイト、共有ホスティングプラットフォーム、コントロールパネル、そしてPHPが内部で動作していることを公表していない膨大な数のソフトウエアを、PHPは静かに支えている」と、サイバーセキュリティー企業Huntressは指摘した。
+
+サイバーセキュリティー企業ソフォスの脅威対策ユニットに所属する、専門家のドン・スミス氏はBBCに対し、ハッカーにとってPHPの脆弱性が「優先的な標的となる可能性が高い」と述べた。
+
+喫緊の課題は、ただパッチをインストールすることではなく、PHPが実行されているすべての場所を見つけて管理することだとも、スミス氏は話した。
+
+「PHPはあらゆるところで使われている。公開ウェブサイト、コンテンツ管理システム、ホスティングプラットフォーム、サードパーティー製品などの裏側で使われている可能性がある。時には、PHPを使っている組織自身、使っていることに気づいていない場合がある」
+
+スミス氏は、攻撃者が「すでに足がかりを築いている可能性がある」ことを意識して、組織側が慎重に注視するのが不可欠だと強調した。
+
+EUのサイバーセキュリティー緊急対応チーム（CERT-EU）は、PHPの脆弱性によるリスク評価は、「非認証のリモートコード実行の可能性を示している」と指摘した。
+
+このようなサイバー攻撃によってハッカーは、マルウエアをインストールしたり、ウェブサイトをダウンさせたりできるようになる可能性がある。
+
+インターネットインフラ企業クラウドフレアのデーン・クネヒト最高技術責任者は、「すでに初期段階の攻撃が発生しているのを確認している。新しい攻撃経路が現れると、その都度、対策を更新している」と述べた。
+
+NCSCは、組織がアップデートをインストールした後は、「PHPをバンドル使用している可能性のあるアプライアンスやサービスを含め、サードパーティーのソフトウエアベンダーからのセキュリティーアップデートを、継続的に監視する必要がある」と述べた。
+
+どのバージョンのプログラミング言語が影響を受けるかはまだ明らかではないが、CERT-EUは、2004年にリリースされたPHP 5以降のすべてのバージョンが影響を受ける可能性があると述べている。
+
+PHP財団は、最新バージョンのみを対象としたアップデートをリリースしており、PHP 8.1以前のバージョンを使用しているユーザーにアップグレードを呼びかけている。
+
+PHPはウェブ開発のために開発された。サーバー上で使用され、利用者がウェブサイトにアクセスした際に表示される画面を実装する。
+
+すべてのウェブサイトがこれを利用しているわけではないが、インターネットの大部分を支えている。
+
+（英語記事 Websites taken down worldwide as critical cyber-security update issued）17:["$","section",null,{"className":"article-actions","children":[["$","$L28",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/ca2c3823ca2c382337d96403","title":"プログラミング言語「PHP」に重大な脆弱性、世界中で多くのウェブサイト休止","locale":"ja","take":null}],["$","$L29",null,{"title":"プログラミング言語「PHP」に重大な脆弱性、世界中で多くのウェブサイト休止","excerpt":"$2a","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/ca2c3823ca2c382337d96403","locale":"ja"}],"$L2b"]}]
+18:["$","$L2c",null,{"placement":"article","className":"mt-8"}]
+19:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+1a:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","nhk-world:https://news.web.nhk/newsweb/na/nd-20261022de63386",{"children":["$","$L2",null,{"href":"/ja/n/0d17dbf00d17dbf0b01de0aa","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"サウジアラビア東部で攻撃相次ぎ3人死亡 米国務省は退避命令"}]]}]}],["$","li","nhk-sports:https://news.web.nhk/newsweb/na/nd-20261022de63890",{"children":["$","$L2",null,{"href":"/ja/n/5dba825d5dba825db89f429d","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"ドラフト 巨人“史上最年少14歳”の中学3年生を育成5位で指名"}]]}]}],["$","li","guardian-biz:https://theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",{"children":["$","$L2",null,{"href":"/ja/n/01d73a6f01d73a6f329fd0af","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"The Guardian"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Barclays to cut 5,000 jobs as bank’s bosses hail AI productivity advances"}]]}]}]]}]]}]
+1b:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+1c:["$","$L2d",null,{"children":["$","$2e",null,{"name":"Next.MetadataOutlet","children":"$@2f"}]}]
+1f:["$","$1","h",{"children":[null,["$","$L30",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L31",null,{"children":["$","$2e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"プログラミング言語「PHP」に重大な脆弱性、世界中で多くのウェブサイト休止"}],["$","meta","1",{"name":"description","content":"ラップトップコンピューターに向かった人が両手でキーボードを操作している"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"プログラミング言語「PHP」に重大な脆弱性、世界中で多くのウェブサイト休止"}],["$","meta","4",{"property":"og:description","content":"ラップトップコンピューターに向かった人が両手でキーボードを操作している"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/ca2c3823ca2c382337d96403/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F6136%2Flive%2Fb103d880-cd90-11f1-b1e7-39558e114359.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"プログラミング言語「PHP」に重大な脆弱性、世界中で多くのウェブサイト休止"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"プログラミング言語「PHP」に重大な脆弱性、世界中で多くのウェブサイト休止"}],["$","meta","14",{"name":"twitter:description","content":"ラップトップコンピューターに向かった人が両手でキーボードを操作している"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F6136%2Flive%2Fb103d880-cd90-11f1-b1e7-39558e114359.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L32","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+21:["$","$1","c",{"children":[null,["$","$L33",null,{"parallelRouterKey":"children","template":["$","$L34",null,{}]}]]}]
+24:["$","$1","c",{"children":[null,["$","$L33",null,{"parallelRouterKey":"children","template":["$","$L34",null,{}]}]]}]
+27:true
+2b:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E%E3%81%AB%E9%87%8D%E5%A4%A7%E3%81%AA%E8%84%86%E5%BC%B1%E6%80%A7%E3%80%81%E4%B8%96%E7%95%8C%E4%B8%AD%E3%81%A7%E5%A4%9A%E3%81%8F%E3%81%AE%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88%E4%BC%91%E6%AD%A2&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+2f:null
+1e:300
+1e:C
+26:0
+20:"$undefined"
+22:"$undefined"
+25:"$undefined"
+1d:"$undefined"

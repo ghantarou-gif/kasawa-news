@@ -1,0 +1,13 @@
+{
+  "name": "Travel Japanese",
+  "short_name": "Travel JP",
+  "description": "Learn Japanese for travel. Flashcards, lists, and tap-to-hear.",
+  "start_url": "/phrasebook.html",
+  "display": "standalone",
+  "background_color": "#f2f2f7",
+  "theme_color": "#f2f2f7",
+  "lang": "en",
+  "icons": [
+    { "src": "/phrasebook-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

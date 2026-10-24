@@ -1,0 +1,77 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+b:X
+10:X
+10:C
+0:{"buildId":"uBkhHRT_aLtDySfUghNoY","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-24","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Gigazine"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"折りたたみスマホ「Galaxy Z Fold8 Ultra・Fold8・Flip8」で写真撮影するとこんな感じになる"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"16 分前"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"Samsungから歴代最薄となった折りたたみ式スマートフォン「 Galaxy Z Fold8 Ultra 」「 Galaxy Z Fold8 」「 Galaxy Z Flip8 」の3機種が発売されたので、それぞれ、どういった写真が撮影可能なのか、持ち出してみました。"}],["$","p","1",{"children":"端末の外観については以下の記事を参照してください。"}],["$","p","2",{"children":"以下、撮影事例を端末別に並べています。ISOやシャッター速度、露出、ホワイトバランスなどの設定はカメラ起動時から編集していないためすべてオートで、撮影時に操作したのはズームのみです。クリック後は元サイズの画像が表示されるので通信量消費には気をつけて下さい。"}],["$","p","3",{"children":"まずは「Galaxy Z Fold8 Ultra」で撮影した写真群です。この端末は背面側に超広角(約5000万画素・F値1.9)、広角(約2億画素：F値1.7)、望遠(約100万画素：F値2.4)の3つのカメラを備えています。撮影は主に、多くの撮影シーンをカバーするメインカメラの広角と、望遠のテレ端(最もズームインしたところ)で行いました。"}],["$","p","4",{"children":"モノレール2路線の線路が交わっているほか、その下には中国自動車道と中央環状線が走り、右手奥にはららぽーとエキスポシティや大観覧車・Osaka Wheelが見えています。"}],["$","p","5",{"children":"望遠の10倍ズームは縮小した状態で見るとよさげですが、さすがにディテールが潰れています。"}],["$","p","6",{"children":"望遠の最大・30倍ズーム。サムネイルの時点で少しディテールが甘め。"}],["$","p","7",{"children":"広角でも左右が切れてしまう大きさだったので、まずは超広角・0.6倍で撮影。"}],["$","p","8",{"children":"同じく望遠・30倍ズームでゴンドラを撮影。"}],["$","p","9",{"children":"転落防止用に設置されているフェンスのすき間から、中国自動車道を撮影しました。広角・等倍ではうまくすき間に合わせても、フェンスそのものが映り込んでいます。"}],["$","p","10",{"children":"壁面がオレンジ色＆照明が暖色系で、ごはんが目視でも白には見えない環境です。被写体との距離が近いこともあり、すべて広角の等倍撮影です。"}],["$","p","11",{"children":"バスターミナルの全景が見える歩道橋上から駅の方向を撮影しました。"}],["$","p","12",{"children":"続いては「Galaxy Z Fold8」での撮影。背面カメラは超広角(約5000万画素・F値1.9)、広角(約5000万画素・F値1.8)の2つ。望遠はなく、一部を切り出すことによる光学2倍相当ズームがあるほか、デジタルズームで最大10倍のズームインが可能です。"}],["$","p","13",{"children":"最後は続いては「Galaxy Z Fold8」での撮影。Flipシリーズはガラケーと同じように縦に折れることが特徴。背面カメラは超広角(約1200万画素・F値2.2)、広角(約5000万画素・F値1.8)の2つです。"}],["$","p","14",{"children":"いろいろと撮影した感じ、3機種とも端末も目で見えているとおりの色を再現する能力は高くて、「風景をそのまま記録する」カメラはまったく不足なく使える印象でした。ただ、特にGalaxy Z Fold8 Ultraは一歩抜けた性能なので、撮影を重視するならこの3端末の中ならUltraを選ぶのがよさげ。"}],["$","p","15",{"children":"一方で、Flipシリーズは端末を半開きの状態にして、端末自身をスタンドにする形で自撮りが可能という他にはない特徴があるので、セルフィー中心で使いたいということであれば他2端末よりFlip8のほうがよいかもしれません。"}],["$","p","16",{"children":"「Galaxy Z Fold8 Ultra」はSIMフリー版端末がAmazonでは税込32万6780円で販売されています。"}],["$","p","17",{"children":"Amazon | Samsung Galaxy Z Fold8 Ultra 512GB|バイオレット シャドウ|Galaxy AI対応|SIMフリースマホ 本体 端末 | Samsung純正 国内正規品|FeliCa対応|8.0インチ|軽量215g|IP48防水防塵|QXGA+|バッテリー 5,000mAh|Android|SM-F976QZVESJP | 携帯電話本体 通販"}],["$","p","18",{"children":"「Galaxy Z Fold8」は税込26万7800円で販売されています。"}],["$","p","19",{"children":"Amazon | Samsung Galaxy Z Fold8 256GB|クリーム|Galaxy AI対応|SIMフリースマホ 本体 端末 | Samsung純正 国内正規品|FeliCa対応|7.6インチ|軽量201g|IP48防水防塵|QXGA+|バッテリー 4,800mAh|Android|SM-F971QZWASJP | 携帯電話本体 通販"}],["$","p","20",{"children":"Amazon | Samsung Galaxy Z Flip8 256GB|クリーム|Galaxy AI対応|SIMフリースマホ 本体 端末 | Samsung純正 国内正規品|FeliCa対応|6.9インチ|軽量188g|IP48防水防塵|FHD+|バッテリー 4,300mAh|Android|SM-F776QZWASJP | 携帯電話本体 通販"}],["$","p","21",{"children":"You can read the machine translated English article This is what photos taken with the folda… ."}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はGigazineにあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":"$L3"}],"$L4","$L5",null,"$L6","$L7"]}],["$L8"],"$L9"]}],"isPartial":"$@a","staleTime":"$b","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$b","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$b","varyParams":"$10"},{"rsc":"$L11","isPartial":"$@12","staleTime":"$b","varyParams":"$10"}],"isUpgradeableISRFallback":false,"a":"$@13","rootVaryParams":null,"needsRuntimeRequest":"$@14"}
+15:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+16:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+18:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+19:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1a:"$Sreact.suspense"
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1e:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1f:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+20:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","a",null,{"href":"https://gigazine.net/news/20261024-samsung-galaxy-z-fold8-ultra-fold8-flip8-photos/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はGigazineで読む"}]
+17:T1256,Samsungから歴代最薄となった折りたたみ式スマートフォン「 Galaxy Z Fold8 Ultra 」「 Galaxy Z Fold8 」「 Galaxy Z Flip8 」の3機種が発売されたので、それぞれ、どういった写真が撮影可能なのか、持ち出してみました。
+
+端末の外観については以下の記事を参照してください。
+
+以下、撮影事例を端末別に並べています。ISOやシャッター速度、露出、ホワイトバランスなどの設定はカメラ起動時から編集していないためすべてオートで、撮影時に操作したのはズームのみです。クリック後は元サイズの画像が表示されるので通信量消費には気をつけて下さい。
+
+まずは「Galaxy Z Fold8 Ultra」で撮影した写真群です。この端末は背面側に超広角(約5000万画素・F値1.9)、広角(約2億画素：F値1.7)、望遠(約100万画素：F値2.4)の3つのカメラを備えています。撮影は主に、多くの撮影シーンをカバーするメインカメラの広角と、望遠のテレ端(最もズームインしたところ)で行いました。
+
+モノレール2路線の線路が交わっているほか、その下には中国自動車道と中央環状線が走り、右手奥にはららぽーとエキスポシティや大観覧車・Osaka Wheelが見えています。
+
+望遠の10倍ズームは縮小した状態で見るとよさげですが、さすがにディテールが潰れています。
+
+望遠の最大・30倍ズーム。サムネイルの時点で少しディテールが甘め。
+
+広角でも左右が切れてしまう大きさだったので、まずは超広角・0.6倍で撮影。
+
+同じく望遠・30倍ズームでゴンドラを撮影。
+
+転落防止用に設置されているフェンスのすき間から、中国自動車道を撮影しました。広角・等倍ではうまくすき間に合わせても、フェンスそのものが映り込んでいます。
+
+壁面がオレンジ色＆照明が暖色系で、ごはんが目視でも白には見えない環境です。被写体との距離が近いこともあり、すべて広角の等倍撮影です。
+
+バスターミナルの全景が見える歩道橋上から駅の方向を撮影しました。
+
+続いては「Galaxy Z Fold8」での撮影。背面カメラは超広角(約5000万画素・F値1.9)、広角(約5000万画素・F値1.8)の2つ。望遠はなく、一部を切り出すことによる光学2倍相当ズームがあるほか、デジタルズームで最大10倍のズームインが可能です。
+
+最後は続いては「Galaxy Z Fold8」での撮影。Flipシリーズはガラケーと同じように縦に折れることが特徴。背面カメラは超広角(約1200万画素・F値2.2)、広角(約5000万画素・F値1.8)の2つです。
+
+いろいろと撮影した感じ、3機種とも端末も目で見えているとおりの色を再現する能力は高くて、「風景をそのまま記録する」カメラはまったく不足なく使える印象でした。ただ、特にGalaxy Z Fold8 Ultraは一歩抜けた性能なので、撮影を重視するならこの3端末の中ならUltraを選ぶのがよさげ。
+
+一方で、Flipシリーズは端末を半開きの状態にして、端末自身をスタンドにする形で自撮りが可能という他にはない特徴があるので、セルフィー中心で使いたいということであれば他2端末よりFlip8のほうがよいかもしれません。
+
+「Galaxy Z Fold8 Ultra」はSIMフリー版端末がAmazonでは税込32万6780円で販売されています。
+
+Amazon | Samsung Galaxy Z Fold8 Ultra 512GB|バイオレット シャドウ|Galaxy AI対応|SIMフリースマホ 本体 端末 | Samsung純正 国内正規品|FeliCa対応|8.0インチ|軽量215g|IP48防水防塵|QXGA+|バッテリー 5,000mAh|Android|SM-F976QZVESJP | 携帯電話本体 通販
+
+「Galaxy Z Fold8」は税込26万7800円で販売されています。
+
+Amazon | Samsung Galaxy Z Fold8 256GB|クリーム|Galaxy AI対応|SIMフリースマホ 本体 端末 | Samsung純正 国内正規品|FeliCa対応|7.6インチ|軽量201g|IP48防水防塵|QXGA+|バッテリー 4,800mAh|Android|SM-F971QZWASJP | 携帯電話本体 通販
+
+Amazon | Samsung Galaxy Z Flip8 256GB|クリーム|Galaxy AI対応|SIMフリースマホ 本体 端末 | Samsung純正 国内正規品|FeliCa対応|6.9インチ|軽量188g|IP48防水防塵|FHD+|バッテリー 4,300mAh|Android|SM-F776QZWASJP | 携帯電話本体 通販
+
+You can read the machine translated English article This is what photos taken with the folda… .4:["$","section",null,{"className":"article-actions","children":[["$","$L15",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/a997ea74a997ea745eb222a6","title":"折りたたみスマホ「Galaxy Z Fold8 Ultra・Fold8・Flip8」で写真撮影するとこんな感じになる","locale":"ja","take":null}],["$","$L16",null,{"title":"折りたたみスマホ「Galaxy Z Fold8 Ultra・Fold8・Flip8」で写真撮影するとこんな感じになる","excerpt":"$17","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/a997ea74a997ea745eb222a6","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%A7%E5%86%99%E7%9C%9F%E6%92%AE%E5%BD%B1%E3%81%99%E3%82%8B%E3%81%A8%E3%81%93%E3%82%93%E3%81%AA%E6%84%9F%E3%81%98%E3%81%AB%E3%81%AA%E3%82%8B&mode=phrase&url=gigazine.net&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+5:["$","$L18",null,{"placement":"article","className":"mt-8"}]
+6:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+7:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","euronews:https://euronews.com/video/2026/10/24/watch-french-police-deploy-armoured-vehicles-in-paris-and-marseille",{"children":["$","$L2",null,{"href":"/ja/n/8374541e8374541e40e5e29c","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Euronews"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Watch: French police deploy armoured vehicles in Paris and Marseille"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/6065908b13cf9f6f53b067800d7d06ebb7eca06f?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/e084f668e084f668a174cab2","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"もどかしいアビスパ福岡 残留争いのライバルに完敗 試合後に選手とサポーターが話し合い 12試合連続失点に守備陣再編へ(西スポWEB OTTO!)"}]]}]}],["$","li","yahoo-it:https://news.yahoo.co.jp/articles/4ac352b938ffc5585049c70723218dd8fa504bac?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/cd43a10bcd43a10b8a1a69db","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"英国政府、AI生物安全保障組織を設立 OpenAIとアンソロピックが最大2億ポンド約束(ビジネス＋IT)"}]]}]}]]}]]}]
+8:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+9:["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
+c:["$","$1","h",{"children":[null,["$","$L1c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1d",null,{"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"折りたたみスマホ「Galaxy Z Fold8 Ultra・Fold8・Flip8」で写真撮影するとこんな感じになる"}],["$","meta","1",{"name":"description","content":"Samsungから歴代最薄となった折りたたみ式スマートフォン「 Galaxy Z Fold8 Ultra 」「 Galaxy Z Fold8 」「 Galaxy Z Flip8 」の3機種が発売されたので、それぞれ、どういった写真が撮影可能なのか、持ち出してみました。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"折りたたみスマホ「Galaxy Z Fold8 Ultra・Fold8・Flip8」で写真撮影するとこんな感じになる"}],["$","meta","4",{"property":"og:description","content":"Samsungから歴代最薄となった折りたたみ式スマートフォン「 Galaxy Z Fold8 Ultra 」「 Galaxy Z Fold8 」「 Galaxy Z Flip8 」の3機種が発売されたので、それぞれ、どういった写真が撮影可能なのか、持ち出してみました。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/a997ea74a997ea745eb222a6/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"折りたたみスマホ「Galaxy Z Fold8 Ultra・Fold8・Flip8」で写真撮影するとこんな感じになる"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"折りたたみスマホ「Galaxy Z Fold8 Ultra・Fold8・Flip8」で写真撮影するとこんな感じになる"}],["$","meta","14",{"name":"twitter:description","content":"Samsungから歴代最薄となった折りたたみ式スマートフォン「 Galaxy Z Fold8 Ultra 」「 Galaxy Z Fold8 」「 Galaxy Z Flip8 」の3機種が発売されたので、それぞれ、どういった写真が撮影可能なのか、持ち出してみました。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1e","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+e:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+11:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+14:true
+1b:null
+b:300
+b:C
+13:0
+d:"$undefined"
+f:"$undefined"
+12:"$undefined"
+a:"$undefined"

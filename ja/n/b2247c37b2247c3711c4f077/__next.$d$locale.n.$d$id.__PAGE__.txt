@@ -1,0 +1,111 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261022-00010000-nknatiogeo-000-2-view.jpg?pri=l&w=450&h=300&exp=10800","image"]
+19:X
+1e:X
+1e:C
+0:{"buildId":"uBkhHRT_aLtDySfUghNoY","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-22","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"性転換する魚、大きなオスが釣られると若いメスがオスに 漁獲の影響はDNAにまで？(ナショナル ジオグラフィック日本版)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"一昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261022-00010000-nknatiogeo-000-2-view.jpg?pri=l&w=450&h=300&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"大西洋や地中海に生息するパーリー・レイザーフィッシュ（Xyrichtys novacula）というベラ科の魚は、すべての個体がメスとして生まれ、十分長く生き延びるとオスへ性転換し、複数のメスを繁殖相手として縄張りを守るようになる。この仕組みは、メスたちに保護と秩序と安定をもたらし、群れの内紛を減らす。オスが定期的に「誰が優位にあるか」をメスたちに意識させ、早すぎる性転換を防げるからだ。"}],["$","p","1",{"children":"そんなパーリー・レイザーフィッシュは大きな問題に直面している。「漁期が始まると、漁師や釣り人たちが押し寄せます」と、スペイン、マヨルカ島にある地中海高等研究所のマルガリーダ・バルセロ・セラ氏は言う。「家族連れも釣りに来て、誰もがこの魚を食べたがるのです」"}],["$","p","2",{"children":"例えば、地中海西部のスペイン東岸沖のバレアレス諸島周辺では、この魚は漁獲の対象として非常に人気があり、夏の繁殖期の漁は禁止されている。"}],["$","p","3",{"children":"しかし、9月1日以降は漁獲が許される。ロブスター並みの高価格になることもあり、海域によっては、わずか数日でパーリー・レイザーフィッシュの最大60％が漁獲されてしまうこともある。"}],["$","p","4",{"children":"この魚には、たいていの動くものに近寄る習性がある。餌のついた釣り針が現れるや、しばしば優位オス（その周辺で最大の個体）が真っ先に食いつき、メスたちの群れを守るどころか甲板のバケツに収まってしまう。すると残されたメスは、まだ若く比較的小さいうちにオスへと性転換せざるをえなくなることが多い。"}],["$","p","5",{"children":"大西洋や地中海に生息するパーリー・レイザーフィッシュ（Xyrichtys novacula）というベラ科の魚は、すべての個体がメスとして生まれ、十分長く生き延びるとオスへ性転換し、複数のメスを繁殖相手として縄張りを守るようになる。この仕組みは、メスたちに保護と秩序と安定をもたらし、群れの内紛を減らす。オスが定期的に「誰が優位にあるか」をメスたちに意識させ、早すぎる性転換を防げるからだ。"}],["$","p","6",{"children":"そんなパーリー・レイザーフィッシュは大きな問題に直面している。「漁期が始まると、漁師や釣り人たちが押し寄せます」と、スペイン、マヨルカ島にある地中海高等研究所のマルガリーダ・バルセロ・セラ氏は言う。「家族連れも釣りに来て、誰もがこの魚を食べたがるのです」"}],["$","p","7",{"children":"例えば、地中海西部のスペイン東岸沖のバレアレス諸島周辺では、この魚は漁獲の対象として非常に人気があり、夏の繁殖期の漁は禁止されている。"}],["$","p","8",{"children":"しかし、9月1日以降は漁獲が許される。ロブスター並みの高価格になることもあり、海域によっては、わずか数日でパーリー・レイザーフィッシュの最大60％が漁獲されてしまうこともある。"}],["$","p","9",{"children":"この魚には、たいていの動くものに近寄る習性がある。餌のついた釣り針が現れるや、しばしば優位オス（その周辺で最大の個体）が真っ先に食いつき、メスたちの群れを守るどころか甲板のバケツに収まってしまう。すると残されたメスは、まだ若く比較的小さいうちにオスへと性転換せざるをえなくなることが多い。"}],["$","p","10",{"children":"バルセロ・セラ氏が主導し、2026年7月23日付けで学術誌「Philosophical Transactions of the Royal Society B」に掲載された研究により、漁獲が一切行われていない海洋保護区のパーリー・レイザーフィッシュの全長は平均17.4cm、年齢は平均約4歳だが、漁獲が激しい海域では平均約14.9cm、平均約2歳であることが明らかになった。"}],["$","p","11",{"children":"バルセロ・セラ氏によれば、これはパーリー・レイザーフィッシュにとって悪い知らせだという。なぜなら、小さなメスが産む卵の数は、大きなメスよりもはるかに少ないからだ。"}],["$","p","12",{"children":"「1匹のメスが十分に大きく成長して、あと1年メスとして長く生きることは、自分の子孫を大幅に増やすことにつながります。早く性転換してオスになることは好ましくありません」"}],["$","p","13",{"children":"研究チームは120個体のヒレから採取したDNAを分析し、激しい漁獲が他にも影響を及ぼしている可能性を突き止めた。オランダ生態学研究所のキース・ファン・オアース氏のチームは、漁獲が禁止されている3つの海洋保護区の魚と、漁獲が行われている3つの海域の魚のDNAを比較した。"}],["$","p","14",{"children":"その結果、「DNAの化学修飾（メチル化のパターン）には、平均年齢の違いだけでは説明できない違いが300近くも見つかりました」と氏は言う。「そのうちのいくつかは、遺伝子の活性に影響を及ぼす可能性があります」"}],["$","p","15",{"children":"漁獲が行われている海域と保護区のパーリー・レイザーフィッシュでは、他の生物の研究でエネルギーの消費や神経細胞の興奮性、免疫系の調節などに影響を及ぼすことが知られている遺伝子の化学修飾に差異が見られた。これらの差異は、オスが姿を消したストレスによって誘発された可能性がある。"}],["$","p","16",{"children":"「けれども、パーリー・レイザーフィッシュでこれらの遺伝子がどのような働きをしているのかを解明するには、さらなる研究が必要です」とファン・オアース氏は言う。"}],["$","p","17",{"children":"他の種で同様の現象を研究してきた米カリフォルニア大学サンタバーバラ校のスージン・イー氏は、今回の研究には関与していないが、集団の間のDNAの違いは小さく、魚のDNAのごく一部にしか影響していないと指摘する。「彼らの結果は興味深いとは思いますが、確固たる結論を導き出すには、証拠はまだ十分ではないと思います」"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf"],"$L10"]}],"$L11","$L12","$L13",null,"$L14","$L15"]}],["$L16"],"$L17"]}],"isPartial":"$@18","staleTime":"$19","varyParams":null},{"rsc":"$L1a","isPartial":"$@1b","staleTime":"$19","varyParams":null},{"rsc":"$L1c","isPartial":"$@1d","staleTime":"$19","varyParams":"$1e"},{"rsc":"$L1f","isPartial":"$@20","staleTime":"$19","varyParams":"$1e"}],"isUpgradeableISRFallback":false,"a":"$@21","rootVaryParams":null,"needsRuntimeRequest":"$@22"}
+23:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+24:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+27:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+28:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+29:"$Sreact.suspense"
+2b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+2c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+2d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+2e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+2f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","18",{"children":"現時点で最も重要なメッセージは、漁獲が魚の数だけでなく、生き残った個体の生活や体にも重大な影響を及ぼし得る、ということかもしれない。"}]
+4:["$","p","19",{"children":"「これは刺激的な発見です」と評価するのは、魚の集団の遺伝的変化を研究している米カリフォルニア大学サンタクルーズ校のマリン・ピンスキー氏だ。氏は今回の研究には関与していない。"}]
+5:["$","p","20",{"children":"「漁獲などによる環境の大きな変化が、このようにしてDNAに影響を及ぼすことは意外ではありません」と氏は言うが、「この研究は、漁獲がこうした影響を及ぼす理由を解明する新しい重要な研究分野を切り開くものです」とも付け加える。"}]
+6:["$","p","21",{"children":"今回の研究は、年間を通じて漁獲が禁止されているバレアレス諸島の海洋保護区のモデルが機能していることを示唆している。"}]
+7:["$","p","22",{"children":"「海洋保護区の集団はより多様性が高いですが、遺伝的には漁獲が行われている地域の集団と非常によく似ています」とバルセロ・セラ氏は言う。両者が遺伝的によく似ている原因は、パーリー・レイザーフィッシュの繁殖方法にある。"}]
+8:["$","p","23",{"children":"この魚はオスとメスが同時に精子と卵を放出する。卵は海中で受精して漂流し、数週間後、小さな魚がどこかの海域に定着するのだ。つまり、海洋保護区内の健全な集団が、他の海域にも子孫を送り込めるということだ。"}]
+9:["$","p","24",{"children":"漁獲が行われない海域の集団では、メスは大きく成長してから性転換し、大きなオスどうしで優位性を争える。こうした集団の存在は、別の問題を解決する可能性もある。"}]
+a:["$","p","25",{"children":"漁獲が行われている海域ではほとんどのオスが若くして死んでしまう。そのため、オスとして重要な役割を果たすうえで最も重要かもしれない遺伝子が、自然選択によって定期的に「試される」ことがなくなっている。つまり、最も元気なオスが漁獲され続けると、これらの遺伝子が時間の経過とともに有用性を失う可能性がある。"}]
+b:["$","p","26",{"children":"対照的に、海洋保護区ではオスが捕獲されることはほとんどない。あらゆる自然な行動をとることができ、オスどうしが強さを競い合い、最も適応度の高い個体が最も多くの子孫を残すことになる。こうしたオスが受精させた卵は1カ月ほど海流に流され、漁獲が行われている場所にもたくさんの稚魚が定着するだろう。"}]
+c:["$","p","27",{"children":"「私はこの小さな魚が大好きです」と、ナショナル ジオグラフィック協会の「プリスティン・シー（原始の海）プロジェクト」のディレクターで、スペインのジローナで生まれたエンリック・サラ氏は言う。"}]
+d:["$","p","28",{"children":"「この研究は、海洋保護区が単に魚を大きく育て、繁殖数を増やすだけではないことを明らかにするものです。海洋保護区は、魚が環境に適応して生き残るために必要な分子レベルの道具一式を守る、遺伝子の貯蔵庫なのです」"}]
+e:["$","p","29",{"children":"それでも、バレアレス諸島の釣り愛好家たちは、以前ほどパーリー・レイザーフィッシュが釣れなくなっていると感じている、とバルセロ・セラ氏は言う。また、彼らが実際に釣っている魚も数十年前に比べて小型化している。"}]
+f:["$","p","30",{"children":"「人々はこの魚を守りたいと強く思っています」と氏は言う。「彼らは釣りを続けたいのです」。パーリー・レイザーフィッシュとしては、複雑な心境かもしれない。"}]
+10:["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]
+11:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/21221f1393f208c1c7daee845bd608639d87072c?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}]
+25:T27a8,大西洋や地中海に生息するパーリー・レイザーフィッシュ（Xyrichtys novacula）というベラ科の魚は、すべての個体がメスとして生まれ、十分長く生き延びるとオスへ性転換し、複数のメスを繁殖相手として縄張りを守るようになる。この仕組みは、メスたちに保護と秩序と安定をもたらし、群れの内紛を減らす。オスが定期的に「誰が優位にあるか」をメスたちに意識させ、早すぎる性転換を防げるからだ。
+
+そんなパーリー・レイザーフィッシュは大きな問題に直面している。「漁期が始まると、漁師や釣り人たちが押し寄せます」と、スペイン、マヨルカ島にある地中海高等研究所のマルガリーダ・バルセロ・セラ氏は言う。「家族連れも釣りに来て、誰もがこの魚を食べたがるのです」
+
+例えば、地中海西部のスペイン東岸沖のバレアレス諸島周辺では、この魚は漁獲の対象として非常に人気があり、夏の繁殖期の漁は禁止されている。
+
+しかし、9月1日以降は漁獲が許される。ロブスター並みの高価格になることもあり、海域によっては、わずか数日でパーリー・レイザーフィッシュの最大60％が漁獲されてしまうこともある。
+
+この魚には、たいていの動くものに近寄る習性がある。餌のついた釣り針が現れるや、しばしば優位オス（その周辺で最大の個体）が真っ先に食いつき、メスたちの群れを守るどころか甲板のバケツに収まってしまう。すると残されたメスは、まだ若く比較的小さいうちにオスへと性転換せざるをえなくなることが多い。
+
+大西洋や地中海に生息するパーリー・レイザーフィッシュ（Xyrichtys novacula）というベラ科の魚は、すべての個体がメスとして生まれ、十分長く生き延びるとオスへ性転換し、複数のメスを繁殖相手として縄張りを守るようになる。この仕組みは、メスたちに保護と秩序と安定をもたらし、群れの内紛を減らす。オスが定期的に「誰が優位にあるか」をメスたちに意識させ、早すぎる性転換を防げるからだ。
+
+そんなパーリー・レイザーフィッシュは大きな問題に直面している。「漁期が始まると、漁師や釣り人たちが押し寄せます」と、スペイン、マヨルカ島にある地中海高等研究所のマルガリーダ・バルセロ・セラ氏は言う。「家族連れも釣りに来て、誰もがこの魚を食べたがるのです」
+
+例えば、地中海西部のスペイン東岸沖のバレアレス諸島周辺では、この魚は漁獲の対象として非常に人気があり、夏の繁殖期の漁は禁止されている。
+
+しかし、9月1日以降は漁獲が許される。ロブスター並みの高価格になることもあり、海域によっては、わずか数日でパーリー・レイザーフィッシュの最大60％が漁獲されてしまうこともある。
+
+この魚には、たいていの動くものに近寄る習性がある。餌のついた釣り針が現れるや、しばしば優位オス（その周辺で最大の個体）が真っ先に食いつき、メスたちの群れを守るどころか甲板のバケツに収まってしまう。すると残されたメスは、まだ若く比較的小さいうちにオスへと性転換せざるをえなくなることが多い。
+
+バルセロ・セラ氏が主導し、2026年7月23日付けで学術誌「Philosophical Transactions of the Royal Society B」に掲載された研究により、漁獲が一切行われていない海洋保護区のパーリー・レイザーフィッシュの全長は平均17.4cm、年齢は平均約4歳だが、漁獲が激しい海域では平均約14.9cm、平均約2歳であることが明らかになった。
+
+バルセロ・セラ氏によれば、これはパーリー・レイザーフィッシュにとって悪い知らせだという。なぜなら、小さなメスが産む卵の数は、大きなメスよりもはるかに少ないからだ。
+
+「1匹のメスが十分に大きく成長して、あと1年メスとして長く生きることは、自分の子孫を大幅に増やすことにつながります。早く性転換してオスになることは好ましくありません」
+
+研究チームは120個体のヒレから採取したDNAを分析し、激しい漁獲が他にも影響を及ぼしている可能性を突き止めた。オランダ生態学研究所のキース・ファン・オアース氏のチームは、漁獲が禁止されている3つの海洋保護区の魚と、漁獲が行われている3つの海域の魚のDNAを比較した。
+
+その結果、「DNAの化学修飾（メチル化のパターン）には、平均年齢の違いだけでは説明できない違いが300近くも見つかりました」と氏は言う。「そのうちのいくつかは、遺伝子の活性に影響を及ぼす可能性があります」
+
+漁獲が行われている海域と保護区のパーリー・レイザーフィッシュでは、他の生物の研究でエネルギーの消費や神経細胞の興奮性、免疫系の調節などに影響を及ぼすことが知られている遺伝子の化学修飾に差異が見られた。これらの差異は、オスが姿を消したストレスによって誘発された可能性がある。
+
+「けれども、パーリー・レイザーフィッシュでこれらの遺伝子がどのような働きをしているのかを解明するには、さらなる研究が必要です」とファン・オアース氏は言う。
+
+他の種で同様の現象を研究してきた米カリフォルニア大学サンタバーバラ校のスージン・イー氏は、今回の研究には関与していないが、集団の間のDNAの違いは小さく、魚のDNAのごく一部にしか影響していないと指摘する。「彼らの結果は興味深いとは思いますが、確固たる結論を導き出すには、証拠はまだ十分ではないと思います」
+
+現時点で最も重要なメッセージは、漁獲が魚の数だけでなく、生き残った個体の生活や体にも重大な影響を及ぼし得る、ということかもしれない。
+
+「これは刺激的な発見です」と評価するのは、魚の集団の遺伝的変化を研究している米カリフォルニア大学サンタクルーズ校のマリン・ピンスキー氏だ。氏は今回の研究には関与していない。
+
+「漁獲などによる環境の大きな変化が、このようにしてDNAに影響を及ぼすことは意外ではありません」と氏は言うが、「この研究は、漁獲がこうした影響を及ぼす理由を解明する新しい重要な研究分野を切り開くものです」とも付け加える。
+
+今回の研究は、年間を通じて漁獲が禁止されているバレアレス諸島の海洋保護区のモデルが機能していることを示唆している。
+
+「海洋保護区の集団はより多様性が高いですが、遺伝的には漁獲が行われている地域の集団と非常によく似ています」とバルセロ・セラ氏は言う。両者が遺伝的によく似ている原因は、パーリー・レイザーフィッシュの繁殖方法にある。
+
+この魚はオスとメスが同時に精子と卵を放出する。卵は海中で受精して漂流し、数週間後、小さな魚がどこかの海域に定着するのだ。つまり、海洋保護区内の健全な集団が、他の海域にも子孫を送り込めるということだ。
+
+漁獲が行われない海域の集団では、メスは大きく成長してから性転換し、大きなオスどうしで優位性を争える。こうした集団の存在は、別の問題を解決する可能性もある。
+
+漁獲が行われている海域ではほとんどのオスが若くして死んでしまう。そのため、オスとして重要な役割を果たすうえで最も重要かもしれない遺伝子が、自然選択によって定期的に「試される」ことがなくなっている。つまり、最も元気なオスが漁獲され続けると、これらの遺伝子が時間の経過とともに有用性を失う可能性がある。
+
+対照的に、海洋保護区ではオスが捕獲されることはほとんどない。あらゆる自然な行動をとることができ、オスどうしが強さを競い合い、最も適応度の高い個体が最も多くの子孫を残すことになる。こうしたオスが受精させた卵は1カ月ほど海流に流され、漁獲が行われている場所にもたくさんの稚魚が定着するだろう。
+
+「私はこの小さな魚が大好きです」と、ナショナル ジオグラフィック協会の「プリスティン・シー（原始の海）プロジェクト」のディレクターで、スペインのジローナで生まれたエンリック・サラ氏は言う。
+
+「この研究は、海洋保護区が単に魚を大きく育て、繁殖数を増やすだけではないことを明らかにするものです。海洋保護区は、魚が環境に適応して生き残るために必要な分子レベルの道具一式を守る、遺伝子の貯蔵庫なのです」
+
+それでも、バレアレス諸島の釣り愛好家たちは、以前ほどパーリー・レイザーフィッシュが釣れなくなっていると感じている、とバルセロ・セラ氏は言う。また、彼らが実際に釣っている魚も数十年前に比べて小型化している。
+
+「人々はこの魚を守りたいと強く思っています」と氏は言う。「彼らは釣りを続けたいのです」。パーリー・レイザーフィッシュとしては、複雑な心境かもしれない。12:["$","section",null,{"className":"article-actions","children":[["$","$L23",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/b2247c37b2247c3711c4f077","title":"性転換する魚、大きなオスが釣られると若いメスがオスに 漁獲の影響はDNAにまで？(ナショナル ジオグラフィック日本版)","locale":"ja","take":null}],["$","$L24",null,{"title":"性転換する魚、大きなオスが釣られると若いメスがオスに 漁獲の影響はDNAにまで？(ナショナル ジオグラフィック日本版)","excerpt":"$25","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/b2247c37b2247c3711c4f077","locale":"ja"}],"$L26"]}]
+13:["$","$L27",null,{"placement":"article","className":"mt-8"}]
+14:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+15:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","nhk-world:https://news.web.nhk/newsweb/na/nd-20261022de63386",{"children":["$","$L2",null,{"href":"/ja/n/0d17dbf00d17dbf0b01de0aa","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"サウジアラビア東部で攻撃相次ぎ3人死亡 米国務省は退避命令"}]]}]}],["$","li","nhk-sports:https://news.web.nhk/newsweb/na/nd-20261022de63890",{"children":["$","$L2",null,{"href":"/ja/n/5dba825d5dba825db89f429d","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"ドラフト 巨人“史上最年少14歳”の中学3年生を育成5位で指名"}]]}]}],["$","li","guardian-biz:https://theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",{"children":["$","$L2",null,{"href":"/ja/n/01d73a6f01d73a6f329fd0af","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"The Guardian"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Barclays to cut 5,000 jobs as bank’s bosses hail AI productivity advances"}]]}]}]]}]]}]
+16:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+17:["$","$L28",null,{"children":["$","$29",null,{"name":"Next.MetadataOutlet","children":"$@2a"}]}]
+1a:["$","$1","h",{"children":[null,["$","$L2b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L2c",null,{"children":["$","$29",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"性転換する魚、大きなオスが釣られると若いメスがオスに 漁獲の影響はDNAにまで？(ナショナル ジオグラフィック日本版)"}],["$","meta","1",{"name":"description","content":"大西洋や地中海に生息するパーリー・レイザーフィッシュ（Xyrichtys novacula）というベラ科の魚は、すべての個体がメスとして生まれ、十分長く生き延びるとオスへ性転換し、複数のメスを繁殖相手として縄張りを守るようになる。この仕組みは、メスたちに保護と秩序と安定をもたらし、群れの内紛を減らす。オスが定期的に「誰が優位にあるか」をメスたちに意識させ、早すぎる性転換を防げるからだ。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"性転換する魚、大きなオスが釣られると若いメスがオスに 漁獲の影響はDNAにまで？(ナショナル ジオグラフィック日本版)"}],["$","meta","4",{"property":"og:description","content":"大西洋や地中海に生息するパーリー・レイザーフィッシュ（Xyrichtys novacula）というベラ科の魚は、すべての個体がメスとして生まれ、十分長く生き延びるとオスへ性転換し、複数のメスを繁殖相手として縄張りを守るようになる。この仕組みは、メスたちに保護と秩序と安定をもたらし、群れの内紛を減らす。オスが定期的に「誰が優位にあるか」をメスたちに意識させ、早すぎる性転換を防げるからだ。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/b2247c37b2247c3711c4f077/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261022-00010000-nknatiogeo-000-2-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"性転換する魚、大きなオスが釣られると若いメスがオスに 漁獲の影響はDNAにまで？(ナショナル ジオグラフィック日本版)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"性転換する魚、大きなオスが釣られると若いメスがオスに 漁獲の影響はDNAにまで？(ナショナル ジオグラフィック日本版)"}],["$","meta","14",{"name":"twitter:description","content":"大西洋や地中海に生息するパーリー・レイザーフィッシュ（Xyrichtys novacula）というベラ科の魚は、すべての個体がメスとして生まれ、十分長く生き延びるとオスへ性転換し、複数のメスを繁殖相手として縄張りを守るようになる。この仕組みは、メスたちに保護と秩序と安定をもたらし、群れの内紛を減らす。オスが定期的に「誰が優位にあるか」をメスたちに意識させ、早すぎる性転換を防げるからだ。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261022-00010000-nknatiogeo-000-2-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L2d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+1c:["$","$1","c",{"children":[null,["$","$L2e",null,{"parallelRouterKey":"children","template":["$","$L2f",null,{}]}]]}]
+1f:["$","$1","c",{"children":[null,["$","$L2e",null,{"parallelRouterKey":"children","template":["$","$L2f",null,{}]}]]}]
+22:true
+26:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/search.html?kw=%E6%80%A7%E8%BB%A2%E6%8F%9B%E3%81%99%E3%82%8B%E9%AD%9A%E3%80%81%E5%A4%A7%E3%81%8D%E3%81%AA%E3%82%AA%E3%82%B9%E3%81%8C%E9%87%A3%E3%82%89%E3%82%8C%E3%82%8B%E3%81%A8%E8%8B%A5%E3%81%84%E3%83%A1%E3%82%B9%E3%81%8C%E3%82%AA%E3%82%B9%E3%81%AB+%E6%BC%81%E7%8D%B2%E3%81%AE%E5%BD%B1%E9%9F%BF%E3%81%AFDNA%E3%81%AB%E3%81%BE%E3%81%A7%EF%BC%9F&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+2a:null
+19:300
+19:C
+21:0
+1b:"$undefined"
+1d:"$undefined"
+20:"$undefined"
+18:"$undefined"
