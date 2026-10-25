@@ -32,7 +32,7 @@ export function SiteFooter({ locale }: { locale: Locale }) {
           <Link href={`/${locale}/members/x`} className="hover:text-accent">
             {copy.memberNav}
           </Link>
-          <a href={nyanchuBaseUrl()} target="_blank" rel="noopener noreferrer" className="hover:text-accent">
+          <a href={nyanchuBaseUrl()} className="hover:text-accent">
             {copy.nyanchu}
           </a>
         </nav>

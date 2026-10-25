@@ -1,7 +1,9 @@
+import { publicHref } from "@/lib/hosting";
+
 // Search tool ships with this site at /search.html (see public/search.html).
 // Override with NEXT_PUBLIC_NYANCHU_URL only when hosting it elsewhere.
 const DEFAULT = "/search.html";
-// Former Netlify host now serves the news site itself — treat as unset.
+// Former Netlify search host now serves the news site itself — treat as unset.
 const DEAD_HOSTS = ["candid-cassata-bceae7.netlify.app"];
 
 export type NyanchuPrefill = {
@@ -14,18 +16,33 @@ export type NyanchuPrefill = {
   from?: string;
 };
 
-function isDeadHost(url: string): boolean {
+function hostnameOf(url: string): string | null {
   try {
-    return DEAD_HOSTS.includes(new URL(url).hostname);
+    return new URL(url).hostname;
   } catch {
-    return false;
+    return null;
   }
+}
+
+/** Env pointing at the news site (or the old Netlify search host) is not a search tool. */
+function isUnusableSearchHost(url: string): boolean {
+  const host = hostnameOf(url);
+  if (!host) return true;
+  if (DEAD_HOSTS.includes(host)) return true;
+  const site = process.env.NEXT_PUBLIC_SITE_URL?.trim();
+  if (site) {
+    const siteHost = hostnameOf(site);
+    if (siteHost && siteHost === host) return true;
+  }
+  return false;
 }
 
 export function nyanchuBaseUrl(): string {
   const fromEnv = process.env.NEXT_PUBLIC_NYANCHU_URL?.trim();
-  if (fromEnv && !isDeadHost(fromEnv)) return fromEnv;
-  return DEFAULT;
+  if (fromEnv && !isUnusableSearchHost(fromEnv)) {
+    return /^https?:\/\//i.test(fromEnv) ? fromEnv : publicHref(fromEnv);
+  }
+  return publicHref(DEFAULT);
 }
 
 export function nyanchuSearchUrl(prefill: NyanchuPrefill): string {

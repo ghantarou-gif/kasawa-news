@@ -6,6 +6,35 @@
 
 [build.environment]
   NODE_VERSION = "22"
+  # Search tool is shipped as /search.html on this same site.
+  # Pointing NYANCHU_URL at this Netlify host used to make the header link open "/" and 404.
+  NEXT_PUBLIC_NYANCHU_URL = ""
 
 # Persist RSS archive between builds (optional; omit if you prefer fresh ingest each deploy)
 # [[edge_functions]]
+
+# Belt-and-suspenders if the Next proxy is skipped for a static asset miss.
+[[redirects]]
+  from = "/search"
+  to = "/search.html"
+  status = 301
+
+[[redirects]]
+  from = "/ja/search"
+  to = "/search.html"
+  status = 301
+
+[[redirects]]
+  from = "/en/search"
+  to = "/search.html"
+  status = 301
+
+[[redirects]]
+  from = "/ja/search.html"
+  to = "/search.html"
+  status = 301
+
+[[redirects]]
+  from = "/en/search.html"
+  to = "/search.html"
+  status = 301

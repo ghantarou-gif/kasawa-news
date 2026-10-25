@@ -85,12 +85,7 @@ export function DeskHeader({
 
         <nav className="header-nav" aria-label="サイト">
           <LanguageSwitch locale={locale} />
-          <a
-            href={nyanchuBaseUrl()}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="header-nav-link"
-          >
+          <a href={nyanchuBaseUrl()} className="header-nav-link">
             {copy.nyanchu}
           </a>
           <Link href={`/${locale}/election`} className="header-nav-link">

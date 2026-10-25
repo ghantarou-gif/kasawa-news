@@ -23,7 +23,7 @@ NEXT_PUBLIC_NYANCHU_URL=https://（X検索ツールの独自ドメイン）
 NEXT_PUBLIC_SITE_URL=https://（NyanChuニュースサイトのURL）
 ```
 
-以前の Netlify デフォルト（`candid-cassata-bceae7.netlify.app`）はニュースサイト本体に上書きされて死んだため、同梱配信に切り替えました。Vercel に古い `NEXT_PUBLIC_NYANCHU_URL` が残っている場合は削除してください。
+以前の Netlify デフォルト（`candid-cassata-bceae7.netlify.app`）はニュースサイト本体に上書きされて死んだため、同梱配信に切り替えました。Netlify / Vercel に古い `NEXT_PUBLIC_NYANCHU_URL=https://candid-cassata-bceae7.netlify.app` が残っているとヘッダーの「NyanChu検索する」がサイトトップを開いて死にます。環境変数は空にするか削除してください（`netlify.toml` でも空に固定しています）。
 
 ## X検索ツール側（1回だけ）
 
