@@ -1,0 +1,5 @@
+:HL["/kasawa-news/_next/static/chunks/05wjkgi4s2ouj.css","style"]
+:HL["/kasawa-news/_next/static/chunks/13j-0ia4l16p6.css","style"]
+:HL["/kasawa-news/_next/static/media/ad9c66e761fed85a-s.p.0fhiaplbf_4wa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://images.euronews.com/articles/stories/09/97/34/12/696x392_cmsv2_52ec4aec-8294-539e-a57e-1e4d42e3d4bb-9973412.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4184,"slots":{"children":{"name":"locale","param":{"type":"d","key":"en","siblings":["go"]},"prefetchHints":4196,"slots":{"children":{"name":"n","param":null,"prefetchHints":4192,"slots":{"children":{"name":"id","param":{"type":"d","key":"6396b71b6396b71bdca2bc63","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"Ca8Pnit0pzgQeTMdKJlCo"}

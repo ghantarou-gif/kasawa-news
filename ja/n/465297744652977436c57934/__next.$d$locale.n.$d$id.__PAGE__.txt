@@ -1,0 +1,78 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+11:X
+16:X
+16:C
+0:{"buildId":"Ca8Pnit0pzgQeTMdKJlCo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-30","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Gigazine"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"FPSゲーム『DOOM』の世界そのものをAIの頭脳にして手書き数字の認識や文章生成まで実現してしまう「Doomformer」"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"FPSゲームの金字塔である『DOOM』のゲーム内ギミックを利用してニューラルネットワークの計算を実行するプロジェクト「 Doomformer 」が公開されました。大量のプレイヤーの分身や床の高さ、照明の明るさなどを計算に利用することで、手書き数字の認識や文章生成、AIによるゲームの操作まで実現しています。"}],["$","p","1",{"children":"mottopanikeiku/doomformer: Compile an integer neural network into a DOOM map. Voodoo dolls do the arithmetic, light levels and plane heights hold the values, and every value is checked against NumPy with tolerance 0."}],["$","p","2",{"children":"『DOOM』はソースコードが公開されていることから、有志によって トラクター や カーナビ 、 医療用超音波スキャナー 、 妊娠検査キット 、果ては 『DOOM』のゲーム内 など、さまざまなプラットフォームに移植されていることでも知られています。開発者のmottopanikeiku氏が公開した「Doomformer」は『DOOM』を動かすだけでなく、ゲームの仕組みそのものをAIの計算に利用するというプロジェクトです。"}],["$","p","3",{"children":"Doomformerはニューラルネットワークを『DOOM』のステージに変換し、ゲーム内のオブジェクトを動かすことで計算を実行します。実行環境には『DOOM』を拡張したZDoom系の仕組みに対応する「 ViZDoom 」を利用しています。以下はニューラルネットワークからDOOMのマップを作成してViZDoomで計算した結果を、Pythonで大量の数値データを高速に計算するためのライブラリである NumPy と比較するまでの流れを示した図。"}],["$","p","4",{"children":"計算の中心となるのが「ブードゥードール(Voodoo Doll)」と呼ばれる仕組みです。これは『DOOM』のマップにプレイヤーの開始地点を複数設定した場合に現れるプレイヤーの分身で、Doomformerではこの分身を大量に配置して計算に利用します。"}],["$","p","5",{"children":"例えば、分身をベルトコンベヤーのように動く床で移動させ、特定の線を通過した際に数値を加算することで、ニューラルネットワークに必要な計算を再現します。計算結果は照明の明るさや床と天井の高さとして記録され、階段や通路なども計算処理に利用されます。"}],["$","p","6",{"children":"Transformerで使われる Attention と呼ばれる計算も、天井の高さによって分身の通過を制御することで再現しています。つまり、『DOOM』の画面にAIの計算結果を表示しているだけではなく、ゲーム内の分身が実際に動くことで計算を進めているわけです。"}],["$","p","7",{"children":"Doomformerでは、この仕組みを使って手書き数字を認識するデモが公開されています。例えば、プレイヤーがゲーム内の床を歩きながら数字を書くと、その形が28×28ピクセルの画像としてニューラルネットワークに入力されます。数字の認識には1355体の分身が利用され、どの数字に該当する可能性が高いかを計算します。判定結果はゲーム内のディスプレイに表示され、開発者が用意した0から9までの数字をそれぞれ3通りの方法で書くテストでは、30回すべてで正しい数字を認識したと報告されています。"}],["$","p","8",{"children":"さらに、手書き数字のデータセット「MNIST」を使った検証では、1万枚のテスト画像に対して97.16％の認識精度を記録しています。実際に『DOOM』内で計算された結果も、Pythonの数値計算ライブラリ「NumPy」で計算した結果と一致したとされています。"}],["$","p","9",{"children":"Doomformerは文章生成AIなどにも使われている「Transformer」というニューラルネットワークの仕組みにも対応しています。以下は、『DOOM』のゲーム内で動作するAIが実際にDOOMをプレイするデモ。Transformerを利用したAIが敵の位置や進行方向などの情報をもとに行動を判断し、ステージ内を移動しながら敵を倒してゴールを目指します。AIの計算は55個のゲーム環境に分割して実行され、102回の行動判断についてNumPyによる計算結果との一致が確認されています。"}],["$","p","10",{"children":"さらに1つのステージ内で文章生成を繰り返すデモでは5875体の分身を使い、次に出力する文字の選択から次の計算の準備までをゲーム内で実行することで「DAN」という文字列を生成しています。Pythonはゲーム内の時間を進めたり計算結果を読み取ったりする役割を担いますが、文字の選択自体はゲーム内で行われます。"}],["$","p","11",{"children":"ショウジョウバエの神経接続データ「 FlyWire 」から構築した255個のニューロンを持つモデルを利用し、食べ物を食べる、拒否する、身づくろいをする、飛び立つという4種類の行動を再現する実験も行われています。神経回路の動作は簡略化されており、実際のショウジョウバエの脳を完全に再現したものではありませんが、169回の計算ステップすべてで基準となるモデルと結果が一致しています。"}],["$","p","12",{"children":"ほかにもゲーム内の敵の位置に応じてAIが攻撃を判断する実験や、『DOOM』のステージ内でニューラルネットワークの重みを更新して学習させる実験などが公開されています。プレイヤーの行動を決めるニューラルネットワークをゲーム内に組み込み、分身による計算結果を使ってキャラクターを操作することも可能です。"}],["$","p","13",{"children":"ただし、『DOOM』を使った計算は通常のコンピューターによる計算と比べて非常に低速です。開発者の検証では、小規模なニューラルネットワークの計算にNumPyの約6万5000倍の時間がかかったと報告されています。また、『DOOM』内での演算結果がNumPyと一致することは確認されていますが、AIによる認識や回答そのものが常に正しいことを意味するわけではありません。"}],"$L3","$L4","$L5","$L6","$L7"],"$L8"]}],"$L9","$La","$Lb",null,"$Lc","$Ld"]}],["$Le"],"$Lf"]}],"isPartial":"$@10","staleTime":"$11","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$11","varyParams":null},{"rsc":"$L14","isPartial":"$@15","staleTime":"$11","varyParams":"$16"},{"rsc":"$L17","isPartial":"$@18","staleTime":"$11","varyParams":"$16"}],"isUpgradeableISRFallback":false,"a":"$@19","rootVaryParams":null,"needsRuntimeRequest":"$@1a"}
+1b:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+1c:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+1f:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+20:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+21:"$Sreact.suspense"
+23:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+24:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+25:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+26:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+27:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","14",{"children":"DoomformerのソースコードはGitHubで公開されており、MITライセンスで利用できます。LinuxとmacOS向けのインストール手順も案内されています。"}]
+4:["$","p","15",{"children":"GoogleとSamsungが開発した立体音響技術「Eclipsa Audio」とは何か？ - GIGAZINE"}]
+5:["$","p","16",{"children":"人の脳細胞を使ったバイオコンピューターで「DOOM」をプレイできるのか？ - GIGAZINE"}]
+6:["$","p","17",{"children":"人の脳細胞を使ったバイオコンピューターで「DOOM」をプレイできるのか？"}]
+7:["$","p","18",{"children":"You can read the machine translated English article 'Doomformer' uses the world of the FPS g… ."}]
+8:["$","p",null,{"className":"article-credit","children":"本文の著作権はGigazineにあります。"}]
+9:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://gigazine.net/news/20261030-doomformer/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はGigazineで読む"}]}]
+1d:T1acb,FPSゲームの金字塔である『DOOM』のゲーム内ギミックを利用してニューラルネットワークの計算を実行するプロジェクト「 Doomformer 」が公開されました。大量のプレイヤーの分身や床の高さ、照明の明るさなどを計算に利用することで、手書き数字の認識や文章生成、AIによるゲームの操作まで実現しています。
+
+mottopanikeiku/doomformer: Compile an integer neural network into a DOOM map. Voodoo dolls do the arithmetic, light levels and plane heights hold the values, and every value is checked against NumPy with tolerance 0.
+
+『DOOM』はソースコードが公開されていることから、有志によって トラクター や カーナビ 、 医療用超音波スキャナー 、 妊娠検査キット 、果ては 『DOOM』のゲーム内 など、さまざまなプラットフォームに移植されていることでも知られています。開発者のmottopanikeiku氏が公開した「Doomformer」は『DOOM』を動かすだけでなく、ゲームの仕組みそのものをAIの計算に利用するというプロジェクトです。
+
+Doomformerはニューラルネットワークを『DOOM』のステージに変換し、ゲーム内のオブジェクトを動かすことで計算を実行します。実行環境には『DOOM』を拡張したZDoom系の仕組みに対応する「 ViZDoom 」を利用しています。以下はニューラルネットワークからDOOMのマップを作成してViZDoomで計算した結果を、Pythonで大量の数値データを高速に計算するためのライブラリである NumPy と比較するまでの流れを示した図。
+
+計算の中心となるのが「ブードゥードール(Voodoo Doll)」と呼ばれる仕組みです。これは『DOOM』のマップにプレイヤーの開始地点を複数設定した場合に現れるプレイヤーの分身で、Doomformerではこの分身を大量に配置して計算に利用します。
+
+例えば、分身をベルトコンベヤーのように動く床で移動させ、特定の線を通過した際に数値を加算することで、ニューラルネットワークに必要な計算を再現します。計算結果は照明の明るさや床と天井の高さとして記録され、階段や通路なども計算処理に利用されます。
+
+Transformerで使われる Attention と呼ばれる計算も、天井の高さによって分身の通過を制御することで再現しています。つまり、『DOOM』の画面にAIの計算結果を表示しているだけではなく、ゲーム内の分身が実際に動くことで計算を進めているわけです。
+
+Doomformerでは、この仕組みを使って手書き数字を認識するデモが公開されています。例えば、プレイヤーがゲーム内の床を歩きながら数字を書くと、その形が28×28ピクセルの画像としてニューラルネットワークに入力されます。数字の認識には1355体の分身が利用され、どの数字に該当する可能性が高いかを計算します。判定結果はゲーム内のディスプレイに表示され、開発者が用意した0から9までの数字をそれぞれ3通りの方法で書くテストでは、30回すべてで正しい数字を認識したと報告されています。
+
+さらに、手書き数字のデータセット「MNIST」を使った検証では、1万枚のテスト画像に対して97.16％の認識精度を記録しています。実際に『DOOM』内で計算された結果も、Pythonの数値計算ライブラリ「NumPy」で計算した結果と一致したとされています。
+
+Doomformerは文章生成AIなどにも使われている「Transformer」というニューラルネットワークの仕組みにも対応しています。以下は、『DOOM』のゲーム内で動作するAIが実際にDOOMをプレイするデモ。Transformerを利用したAIが敵の位置や進行方向などの情報をもとに行動を判断し、ステージ内を移動しながら敵を倒してゴールを目指します。AIの計算は55個のゲーム環境に分割して実行され、102回の行動判断についてNumPyによる計算結果との一致が確認されています。
+
+さらに1つのステージ内で文章生成を繰り返すデモでは5875体の分身を使い、次に出力する文字の選択から次の計算の準備までをゲーム内で実行することで「DAN」という文字列を生成しています。Pythonはゲーム内の時間を進めたり計算結果を読み取ったりする役割を担いますが、文字の選択自体はゲーム内で行われます。
+
+ショウジョウバエの神経接続データ「 FlyWire 」から構築した255個のニューロンを持つモデルを利用し、食べ物を食べる、拒否する、身づくろいをする、飛び立つという4種類の行動を再現する実験も行われています。神経回路の動作は簡略化されており、実際のショウジョウバエの脳を完全に再現したものではありませんが、169回の計算ステップすべてで基準となるモデルと結果が一致しています。
+
+ほかにもゲーム内の敵の位置に応じてAIが攻撃を判断する実験や、『DOOM』のステージ内でニューラルネットワークの重みを更新して学習させる実験などが公開されています。プレイヤーの行動を決めるニューラルネットワークをゲーム内に組み込み、分身による計算結果を使ってキャラクターを操作することも可能です。
+
+ただし、『DOOM』を使った計算は通常のコンピューターによる計算と比べて非常に低速です。開発者の検証では、小規模なニューラルネットワークの計算にNumPyの約6万5000倍の時間がかかったと報告されています。また、『DOOM』内での演算結果がNumPyと一致することは確認されていますが、AIによる認識や回答そのものが常に正しいことを意味するわけではありません。
+
+DoomformerのソースコードはGitHubで公開されており、MITライセンスで利用できます。LinuxとmacOS向けのインストール手順も案内されています。
+
+GoogleとSamsungが開発した立体音響技術「Eclipsa Audio」とは何か？ - GIGAZINE
+
+人の脳細胞を使ったバイオコンピューターで「DOOM」をプレイできるのか？ - GIGAZINE
+
+人の脳細胞を使ったバイオコンピューターで「DOOM」をプレイできるのか？
+
+You can read the machine translated English article 'Doomformer' uses the world of the FPS g… .a:["$","section",null,{"className":"article-actions","children":[["$","$L1b",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/465297744652977436c57934","title":"FPSゲーム『DOOM』の世界そのものをAIの頭脳にして手書き数字の認識や文章生成まで実現してしまう「Doomformer」","locale":"ja","take":null}],["$","$L1c",null,{"title":"FPSゲーム『DOOM』の世界そのものをAIの頭脳にして手書き数字の認識や文章生成まで実現してしまう「Doomformer」","excerpt":"$1d","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/465297744652977436c57934","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":"$L1e"}]]}]
+b:["$","$L1f",null,{"placement":"article","className":"mt-8"}]
+c:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+d:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-sport:https://bbc.co.uk/sport/rugby-league/articles/cqp9gv3mr8myo",{"children":["$","$L2",null,{"href":"/ja/n/f5a55db8f5a55db8847f0ddc","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Set up to fail? Where England's World Cup campaign went wrong"}]]}]}],["$","li","bbc-world:https://bbc.co.uk/news/articles/ckwyq2509p7xo",{"children":["$","$L2",null,{"href":"/ja/n/32f209a332f209a3689167eb","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Pope Leo XIV becomes first pontiff to vote in a US election"}]]}]}],["$","li","bbc-health:https://bbc.co.uk/news/videos/c6wyd2l9gvy9o",{"children":["$","$L2",null,{"href":"/ja/n/e45cd41fe45cd41f721b845f","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"I gave birth in ambulance on A96 amid staff shortages at local hospital"}]]}]}]]}]]}]
+e:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+f:["$","$L20",null,{"children":["$","$21",null,{"name":"Next.MetadataOutlet","children":"$@22"}]}]
+12:["$","$1","h",{"children":[null,["$","$L23",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L24",null,{"children":["$","$21",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"FPSゲーム『DOOM』の世界そのものをAIの頭脳にして手書き数字の認識や文章生成まで実現してしまう「Doomformer」"}],["$","meta","1",{"name":"description","content":"FPSゲームの金字塔である『DOOM』のゲーム内ギミックを利用してニューラルネットワークの計算を実行するプロジェクト「 Doomformer 」が公開されました。大量のプレイヤーの分身や床の高さ、照明の明るさなどを計算に利用することで、手書き数字の認識や文章生成、AIによるゲームの操作まで実現しています。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"FPSゲーム『DOOM』の世界そのものをAIの頭脳にして手書き数字の認識や文章生成まで実現してしまう「Doomformer」"}],["$","meta","4",{"property":"og:description","content":"FPSゲームの金字塔である『DOOM』のゲーム内ギミックを利用してニューラルネットワークの計算を実行するプロジェクト「 Doomformer 」が公開されました。大量のプレイヤーの分身や床の高さ、照明の明るさなどを計算に利用することで、手書き数字の認識や文章生成、AIによるゲームの操作まで実現しています。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/465297744652977436c57934/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"FPSゲーム『DOOM』の世界そのものをAIの頭脳にして手書き数字の認識や文章生成まで実現してしまう「Doomformer」"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"FPSゲーム『DOOM』の世界そのものをAIの頭脳にして手書き数字の認識や文章生成まで実現してしまう「Doomformer」"}],["$","meta","14",{"name":"twitter:description","content":"FPSゲームの金字塔である『DOOM』のゲーム内ギミックを利用してニューラルネットワークの計算を実行するプロジェクト「 Doomformer 」が公開されました。大量のプレイヤーの分身や床の高さ、照明の明るさなどを計算に利用することで、手書き数字の認識や文章生成、AIによるゲームの操作まで実現しています。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L25","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+14:["$","$1","c",{"children":[null,["$","$L26",null,{"parallelRouterKey":"children","template":["$","$L27",null,{}]}]]}]
+17:["$","$1","c",{"children":[null,["$","$L26",null,{"parallelRouterKey":"children","template":["$","$L27",null,{}]}]]}]
+1a:true
+1e:["$","a",null,{"href":"/kasawa-news/search.html?kw=FPS%E3%82%B2%E3%83%BC%E3%83%A0&mode=phrase&url=gigazine.net&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]
+22:null
+11:300
+11:C
+19:0
+13:"$undefined"
+15:"$undefined"
+18:"$undefined"
+10:"$undefined"

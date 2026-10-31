@@ -1,0 +1,69 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-00142639-keibana-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","image"]
+5:T11e6,10月31日、お笑いコンビ「霜降り明星」の粗品の友人として知られる「生涯収支マイナス6億円君（マイ億君）」が、自身のYouTubeチャンネル「粗品Official Channel」を更新。11月1日に東京競馬場で行われる天皇賞・秋（G1・芝2000m）の予想を公開した。
+
+マイ億君が本命に指名したのは、7番マスカレードボール。「枠が出るまでは3頭でかなり悩んだ」と明かしたが、クロワデュノールが最内枠、ダノンデサイルが大外枠に入ったことで決断したという。
+
+マスカレードボールについては、海外遠征帰りの成績を懸念する声があることにも触れつつ、馬体写真や調教内容から「特に心配いらないと思いました」と評価。「得意の東京2000mで連覇を期待しています」と語った。
+
+対抗にはクロワデュノールを指名。「このコースは特に実力差が出やすいので、何度シミュレーションしても、変なことが起こらない限り、この2頭が最後抜け出すパターンになってしまう」と、人気2頭を中心に据えた。
+
+最内枠で進路が詰まる可能性も考慮したものの、C.デムーロ騎手の手腕を信頼。「正直、馬券内の堅さならマスカレードボールより信頼できる。この馬が飛ぶイメージが全くできない」と高く評価した。
+
+ダノンデサイルについては、大外枠を理由に評価を下げたものの、ドバイシーマクラシックでカランダガンを破った実績を挙げ、その能力を認めた。
+
+また、レガレイラについては「相当強いのは分かる」としながらも、他の有力馬と比較して信頼度が落ちるとして、今回は買い目から外す決断を下した。
+
+馬券はマスカレードボールとクロワデュノールを中心に、馬連と3連単で合計1万円を投入する予定。「今回潔くね。1着2着決めからの3連単。資金配分こそしてますが、シンプルな買い目かと思います」と説明した。
+
+最後は「みんなで勝ちましょう」と呼びかけ、「俺は絶対勝つ」と力強く締めくくった。
+
+10月31日、お笑いコンビ「霜降り明星」の粗品の友人として知られる「生涯収支マイナス6億円君（マイ億君）」が、自身のYouTubeチャンネル「粗品Official Channel」を更新。11月1日に東京競馬場で行われる天皇賞・秋（G1・芝2000m）の予想を公開した。
+
+マイ億君が本命に指名したのは、7番マスカレードボール。「枠が出るまでは3頭でかなり悩んだ」と明かしたが、クロワデュノールが最内枠、ダノンデサイルが大外枠に入ったことで決断したという。
+
+マスカレードボールについては、海外遠征帰りの成績を懸念する声があることにも触れつつ、馬体写真や調教内容から「特に心配いらないと思いました」と評価。「得意の東京2000mで連覇を期待しています」と語った。
+
+対抗にはクロワデュノールを指名。「このコースは特に実力差が出やすいので、何度シミュレーションしても、変なことが起こらない限り、この2頭が最後抜け出すパターンになってしまう」と、人気2頭を中心に据えた。
+
+最内枠で進路が詰まる可能性も考慮したものの、C.デムーロ騎手の手腕を信頼。「正直、馬券内の堅さならマスカレードボールより信頼できる。この馬が飛ぶイメージが全くできない」と高く評価した。
+
+ダノンデサイルについては、大外枠を理由に評価を下げたものの、ドバイシーマクラシックでカランダガンを破った実績を挙げ、その能力を認めた。
+
+また、レガレイラについては「相当強いのは分かる」としながらも、他の有力馬と比較して信頼度が落ちるとして、今回は買い目から外す決断を下した。
+
+馬券はマスカレードボールとクロワデュノールを中心に、馬連と3連単で合計1万円を投入する予定。「今回潔くね。1着2着決めからの3連単。資金配分こそしてますが、シンプルな買い目かと思います」と説明した。
+
+最後は「みんなで勝ちましょう」と呼びかけ、「俺は絶対勝つ」と力強く締めくくった。d:X
+12:X
+12:C
+0:{"buildId":"Ca8Pnit0pzgQeTMdKJlCo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-31","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["⚽"," ","スポーツ"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"マイ億君、天皇賞・秋はマスカレードボール本命！…「馬券内の堅さなら…」クロワデュノールも高評価(競馬のおはなし)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"3 分前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-00142639-keibana-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"10月31日、お笑いコンビ「霜降り明星」の粗品の友人として知られる「生涯収支マイナス6億円君（マイ億君）」が、自身のYouTubeチャンネル「粗品Official Channel」を更新。11月1日に東京競馬場で行われる天皇賞・秋（G1・芝2000m）の予想を公開した。"}],["$","p","1",{"children":"マイ億君が本命に指名したのは、7番マスカレードボール。「枠が出るまでは3頭でかなり悩んだ」と明かしたが、クロワデュノールが最内枠、ダノンデサイルが大外枠に入ったことで決断したという。"}],["$","p","2",{"children":"マスカレードボールについては、海外遠征帰りの成績を懸念する声があることにも触れつつ、馬体写真や調教内容から「特に心配いらないと思いました」と評価。「得意の東京2000mで連覇を期待しています」と語った。"}],["$","p","3",{"children":"対抗にはクロワデュノールを指名。「このコースは特に実力差が出やすいので、何度シミュレーションしても、変なことが起こらない限り、この2頭が最後抜け出すパターンになってしまう」と、人気2頭を中心に据えた。"}],["$","p","4",{"children":"最内枠で進路が詰まる可能性も考慮したものの、C.デムーロ騎手の手腕を信頼。「正直、馬券内の堅さならマスカレードボールより信頼できる。この馬が飛ぶイメージが全くできない」と高く評価した。"}],["$","p","5",{"children":"ダノンデサイルについては、大外枠を理由に評価を下げたものの、ドバイシーマクラシックでカランダガンを破った実績を挙げ、その能力を認めた。"}],["$","p","6",{"children":"また、レガレイラについては「相当強いのは分かる」としながらも、他の有力馬と比較して信頼度が落ちるとして、今回は買い目から外す決断を下した。"}],["$","p","7",{"children":"馬券はマスカレードボールとクロワデュノールを中心に、馬連と3連単で合計1万円を投入する予定。「今回潔くね。1着2着決めからの3連単。資金配分こそしてますが、シンプルな買い目かと思います」と説明した。"}],["$","p","8",{"children":"最後は「みんなで勝ちましょう」と呼びかけ、「俺は絶対勝つ」と力強く締めくくった。"}],["$","p","9",{"children":"10月31日、お笑いコンビ「霜降り明星」の粗品の友人として知られる「生涯収支マイナス6億円君（マイ億君）」が、自身のYouTubeチャンネル「粗品Official Channel」を更新。11月1日に東京競馬場で行われる天皇賞・秋（G1・芝2000m）の予想を公開した。"}],["$","p","10",{"children":"マイ億君が本命に指名したのは、7番マスカレードボール。「枠が出るまでは3頭でかなり悩んだ」と明かしたが、クロワデュノールが最内枠、ダノンデサイルが大外枠に入ったことで決断したという。"}],["$","p","11",{"children":"マスカレードボールについては、海外遠征帰りの成績を懸念する声があることにも触れつつ、馬体写真や調教内容から「特に心配いらないと思いました」と評価。「得意の東京2000mで連覇を期待しています」と語った。"}],["$","p","12",{"children":"対抗にはクロワデュノールを指名。「このコースは特に実力差が出やすいので、何度シミュレーションしても、変なことが起こらない限り、この2頭が最後抜け出すパターンになってしまう」と、人気2頭を中心に据えた。"}],["$","p","13",{"children":"最内枠で進路が詰まる可能性も考慮したものの、C.デムーロ騎手の手腕を信頼。「正直、馬券内の堅さならマスカレードボールより信頼できる。この馬が飛ぶイメージが全くできない」と高く評価した。"}],["$","p","14",{"children":"ダノンデサイルについては、大外枠を理由に評価を下げたものの、ドバイシーマクラシックでカランダガンを破った実績を挙げ、その能力を認めた。"}],["$","p","15",{"children":"また、レガレイラについては「相当強いのは分かる」としながらも、他の有力馬と比較して信頼度が落ちるとして、今回は買い目から外す決断を下した。"}],["$","p","16",{"children":"馬券はマスカレードボールとクロワデュノールを中心に、馬連と3連単で合計1万円を投入する予定。「今回潔くね。1着2着決めからの3連単。資金配分こそしてますが、シンプルな買い目かと思います」と説明した。"}],["$","p","17",{"children":"最後は「みんなで勝ちましょう」と呼びかけ、「俺は絶対勝つ」と力強く締めくくった。"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/9e2223303d9c7ecbf1316fda295f52772429c5fa?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/0fb4c34c0fb4c34c69e084f6","title":"マイ億君、天皇賞・秋はマスカレードボール本命！…「馬券内の堅さなら…」クロワデュノールも高評価(競馬のおはなし)","locale":"ja","take":null}],["$","$L4",null,{"title":"マイ億君、天皇賞・秋はマスカレードボール本命！…「馬券内の堅さなら…」クロワデュノールも高評価(競馬のおはなし)","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/0fb4c34c0fb4c34c69e084f6","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%83%9E%E3%82%A4%E5%84%84%E5%90%9B%E3%80%81%E5%A4%A9%E7%9A%87%E8%B3%9E%E3%83%BB%E7%A7%8B%E3%81%AF%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%AC%E3%83%BC%E3%83%89%E3%83%9C%E3%83%BC%E3%83%AB%E6%9C%AC%E5%91%BD%EF%BC%81&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/edc7bc2b7ab0314881593ab5eae942d000831e22?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/6797a8a06797a8a01f85e022","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"【ROAD FC】11カ月ぶり復帰戦の原口伸「覚悟は決まってる」、せりな「バチバチに殴り合いを」＝11月1日（日）(ゴング格闘技)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/dcca0c7fa11afa2b5dba9ddd8cb8f6cdd77a9874?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/fcdbe103fcdbe1038fe78a9b","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"クリスタル・パレス、トッテナム戦の予想スタメン。鎌田大地は？ リーグ戦連敗の阻止できるのか(フットボールチャンネル)"}]]}]}],["$","li","yahoo-biz:https://news.yahoo.co.jp/articles/0dee22a6575e8941fe10ab4d0caef9052d588536?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/240ba0d7240ba0d703e6d6a7","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"【ゆうちょ銀行】11月9日の改定で通常貯金と1年の定期貯金が同じ年0.500％に。2年未満で払い戻す定額貯金は「年0.475％」まで(LIMO)"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"マイ億君、天皇賞・秋はマスカレードボール本命！…「馬券内の堅さなら…」クロワデュノールも高評価(競馬のおはなし)"}],["$","meta","1",{"name":"description","content":"10月31日、お笑いコンビ「霜降り明星」の粗品の友人として知られる「生涯収支マイナス6億円君（マイ億君）」が、自身のYouTubeチャンネル「粗品Official Channel」を更新。11月1日に東京競馬場で行われる天皇賞・秋（G1・芝2000m）の予想を公開した。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"マイ億君、天皇賞・秋はマスカレードボール本命！…「馬券内の堅さなら…」クロワデュノールも高評価(競馬のおはなし)"}],["$","meta","4",{"property":"og:description","content":"10月31日、お笑いコンビ「霜降り明星」の粗品の友人として知られる「生涯収支マイナス6億円君（マイ億君）」が、自身のYouTubeチャンネル「粗品Official Channel」を更新。11月1日に東京競馬場で行われる天皇賞・秋（G1・芝2000m）の予想を公開した。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/0fb4c34c0fb4c34c69e084f6/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261031-00142639-keibana-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"マイ億君、天皇賞・秋はマスカレードボール本命！…「馬券内の堅さなら…」クロワデュノールも高評価(競馬のおはなし)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"マイ億君、天皇賞・秋はマスカレードボール本命！…「馬券内の堅さなら…」クロワデュノールも高評価(競馬のおはなし)"}],["$","meta","14",{"name":"twitter:description","content":"10月31日、お笑いコンビ「霜降り明星」の粗品の友人として知られる「生涯収支マイナス6億円君（マイ億君）」が、自身のYouTubeチャンネル「粗品Official Channel」を更新。11月1日に東京競馬場で行われる天皇賞・秋（G1・芝2000m）の予想を公開した。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261031-00142639-keibana-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

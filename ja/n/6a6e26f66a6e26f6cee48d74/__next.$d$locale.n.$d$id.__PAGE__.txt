@@ -1,0 +1,129 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2a31/live/8148c250-d311-11f1-a701-fddedf244c16.jpg","image"]
+19:X
+1e:X
+1e:C
+0:{"buildId":"Ca8Pnit0pzgQeTMdKJlCo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-29","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"【解説】 イスラエル総選挙で明確な結果出ず、国内の深刻な分裂示す"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"一昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2a31/live/8148c250-d311-11f1-a701-fddedf244c16.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"ネタニヤフ首相（左）と野党陣営を率いるアイゼンコット元軍参謀総長"}],["$","p","1",{"children":"スーツ姿の両氏の横顔写真を並べてある。互いに反対方向を向いている"}],["$","p","2",{"children":"ジェイムズ・ランデイル外交担当編集委員（エルサレム）"}],["$","p","3",{"children":"「民主主義は、これまで試されてきたほかのあらゆる形態を除いて、最悪の統治形態である」。ウィンストン・チャーチル元英首相は1947年に、イギリス下院でこう述べた。"}],["$","p","4",{"children":"今月27日の夜、イスラエルの選挙結果が次第に明らかになるにつれ、チャーチルのこの格言が頭に浮かんだ。国民は自分たちの希望や恐怖が砕かれるか現実のものとなるかを決するために投票し、開票速報と出口調査の結果がないまぜに発表されていた。"}],["$","p","5",{"children":"今回の選挙は、ある意味で民主主義を祝うものだった。記録的な数のイスラエルの有権者が投票した。ユダヤ系もアラブ系も同様だった。投票するために、数千ドルを使って国外から飛行機で駆けつけた有権者も大勢いた。"}],["$","p","6",{"children":"全国各地の投票所で、選挙運動員たちの情熱を目にした。有権者の考えを変えて最後の1票を獲得しようと、運動員たちは最後の最後まで全力を尽くしていた。"}],["$","p","7",{"children":"イツハク・ヘルツォグ大統領は、今回の選挙はイスラエル社会にとって「名誉の証」だと述べた。「イスラエルにおいて、民主主義への願望がいかに深いかを目にするのは、素晴らしいことだった」と、大統領は強調した。"}],["$","p","8",{"children":"しかし、今回の選挙によって、中東で最も確固たる民主国家のイスラエルは、新しい政府樹立への明確な道筋が見えない状態に陥っている。どちらの陣営も議会で過半数を獲得できないという、あいまいな結果となった。"}],["$","p","9",{"children":"これはいつものことだと、そう言う人もいるかもしれない。"}],["$","p","10",{"children":"イスラエルではこれまで、単独政党による政権は存在したことがない。細かく分断された比例代表制は、連立政権による統治を前提として設計されていると言っても過言ではない。"}],["$","p","11",{"children":"しかし、多くの評論家は、この国をむしばむ根本的で、おそらく拡大しつつある分断が今回の選挙で露呈したと警告した。これは、一つの課題について有権者が団結したという、そういう投票ではなかった。"}],["$","p","12",{"children":"「明確な勝者なし」のイスラエル総選挙、今後はどうなるのか"}],["$","p","13",{"children":"有権者間の亀裂の一部は、長年続いてきたものだった。たとえば司法改革をめぐる意見の対立は、現政権の発足初期に大規模なデモの原因となった。"}],["$","p","14",{"children":"パレスチナの武装勢力ハマスが主導した2023年10月7日のイスラエル攻撃についても、対応で人質救出を優先するか、ハマス壊滅が先かで意見が分かれた。その後のガザでの戦闘でイスラエル予備役兵が犠牲になったことで、超正統派ユダヤ教徒の若者に対する兵役免除をめぐり、国内の緊張は悪化した。"}],["$","p","15",{"children":"しかし、今回の選挙は、イスラエル社会に走る深い亀裂を、今まで以上にくっきりと浮き彫りにしたのだろうか？"}],["$","p","16",{"children":"イスラエルでは、宗教と世俗の間に緊張関係がある。これは信仰だけでなく社会をも分断している。"}],["$","p","17",{"children":"イスラエル政府は宗教研究に補助金を出すべきだろうか？ 一部の親は、他の親がそうしない中で、イスラエルを守るために息子や娘を犠牲にすべきだろうか？ 超正統派ユダヤ教徒は現在、人口の約15％を占める。彼らの世界観は、テルアヴィヴのハイテクで近代的な地域の住民が抱く世界観とは正反対だ。"}],["$","p","18",{"children":"ネタニヤフ氏は「強力な右派の国民政府」の樹立を呼びかけている"}],["$","p","19",{"children":"長い金髪の人がネタニヤフ首相の顔写真が描かれたプラカードを掲げて、叫んでいる"}],["$","p","20",{"children":"ベンヤミン・ネタニヤフ首相率いるリクード党は議席を大きく減らしたものの、クネセト（イスラエル議会）で最大政党となる見込みだ。首相は汚職の疑いをかけられているが、本人はこれを否定している。また、10月7日以前のイスラエル防衛を怠ったとも非難されているが、本人はこの件について調査を拒否している。"}],["$","p","21",{"children":"有権者の約10％は、ユダヤ至上主義の極右を支持した。例えば、ベザレル・スモトリッチ財務相は、開票結果が発表される最中にも、ガザ地区にユダヤ人入植地を建設すると公約していた。"}],["$","p","22",{"children":"イスラエル国民の約20％の声を代表するアラブ系政党は、約15％の票を獲得した。10議席台後半の議席を獲得する可能性があり、大きな躍進を遂げた。"}],["$","p","23",{"children":"そして、ガディ・アイゼンコット元軍参謀総長が率いる中道、左派、右派の混合勢力である野党連合は、この国の未来にとって不可欠だと多くの有権者が信じる変革を掲げていたものの、それを直ちに勝ち取ることはできなかった。"}],["$","p","24",{"children":"野党ヤシャルのアイゼンコット党首は、国民が「変化を支持した」と強調した（28日、テルアヴィヴ）"}],["$","p","25",{"children":"ダークスーツ姿の大柄な男性がイスラエル国旗を両手で振っている。背後に自分の顔を大きく映し出したポスターが掲示され、その手前で党関係者が笑顔で拍手している"}],["$","p","26",{"children":"これほど大きく異なるものの見方をいかにして、何らかの形の政府へと落とし込んでいくのか。イスラエル国政がいま直面するこの課題は、決して容易なことではない。イスラエル政界は今後、さまざまな選択や妥協を余儀なくされるし、それは国の未来に関する根本的な判断を伴うことになるかもしれない。"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf"],"$L10"]}],"$L11","$L12","$L13",null,"$L14","$L15"]}],["$L16"],"$L17"]}],"isPartial":"$@18","staleTime":"$19","varyParams":null},{"rsc":"$L1a","isPartial":"$@1b","staleTime":"$19","varyParams":null},{"rsc":"$L1c","isPartial":"$@1d","staleTime":"$19","varyParams":"$1e"},{"rsc":"$L1f","isPartial":"$@20","staleTime":"$19","varyParams":"$1e"}],"isUpgradeableISRFallback":false,"a":"$@21","rootVaryParams":null,"needsRuntimeRequest":"$@22"}
+23:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+24:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+27:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+28:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+29:"$Sreact.suspense"
+2b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+2c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+2d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+2e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+2f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","27",{"children":"ネタニヤフ首相には、これまで自分の連立政権を支えてきた宗教右派を見捨てて、野党右派と連立する用意があるだろうか？ 野党右派は首相への敵意を捨てて、その政権に参加する用意があるだろうか？"}]
+4:["$","p","28",{"children":"野党連合には、選挙公約の多くを放棄し、アラブ系政党と協力してネタニヤフ首相を失脚させる覚悟があるのだろうか？ 一方、アラブ系政党は、数カ月で崩壊するかもしれない政権に参加するリスクを冒す準備ができているのだろうか？"}]
+5:["$","p","29",{"children":"左派・民主党のヤイル・ゴラン党首は、アラブ系政党と連携するよう野党連合に促した。「ネタニヤフは、ユダヤ人票とアラブ人票を人種差別的に分断する。我々は今後、その差別を受け入れてはならない」とゴラン氏は述べた。"}]
+6:["$","p","30",{"children":"しかし、そのような現実を受け入れる準備が、イスラエル国民はできているのだろうか？"}]
+7:["$","p","31",{"children":"ネタニヤフ首相に同調するイスラエルのコメンテーター、アミット・セガル氏は、アラブ系イスラエル人の高い投票率を前に、「長年対立してきた（右派と左派）双方のユダヤ人は、自分たちが結局はまとまって座るよう学習する必要があるのかもしれないと、改めて示した」のだと述べた。"}]
+8:["$","p","32",{"children":"今回の選挙では、イスラエルを新しい道へと導くどころか、国民を一つに結びつけるのはいったい何なのかという疑問が新たに浮上する羽目になった。この複雑で多様な集団を一つの政治的な形態にまとめあげる、共通の要素とは何なのだろうか。"}]
+9:["$","p","33",{"children":"世界では独裁政権が増え続けている。独裁政権は、民主主義は弱くて長続きしない政権を作り出すし、国民の希望を実現するどころか、連帯の維持に苦労するばかりの連立政権が多いとして、長年にわたり民主主義を批判してきた。"}]
+a:["$","p","34",{"children":"イスラエルは今後数カ月の間、政権樹立に苦労する可能性がある。場合によっては失敗に終わり、再選挙を実施せざるを得なくなるかもしれない。"}]
+b:["$","p","35",{"children":"ヘルツォグ大統領は連立交渉開始の準備を進めるにあたり、このリスクを正面から認め、「昨日の出来事を踏まえれば、次の選挙を避けるためにあらゆる手を尽くす必要がある」と述べた。"}]
+c:["$","p","36",{"children":"イスラエルは長年、外部の敵に対する防衛に重点を置いてきた。しかし、今回の選挙によって顕著になった国内の分裂が手に負えなくなった場合、イスラエルは国内の危険に対しても備えなくてはならないのだろうか？"}]
+d:["$","p","37",{"children":"チャーチル元英首相はかつて上記とは別の演説で、民主主義は「国外からの脅威に対する保険」であるだけでなく、「それと同じくらい深刻で、もっと身近で、絶えず我々を脅かす国内の脅威に対する保険」でもあると述べた。"}]
+e:["$","p","38",{"children":"イスラエルの民主主義は、この課題に応えられるだろうか？"}]
+f:["$","p","39",{"children":"（英語記事 Israel's election deadlock is a sign of the country's deep divisions）"}]
+10:["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]
+11:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/cwe8l4nmrgp6o","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}]
+25:T2514,ネタニヤフ首相（左）と野党陣営を率いるアイゼンコット元軍参謀総長
+
+スーツ姿の両氏の横顔写真を並べてある。互いに反対方向を向いている
+
+ジェイムズ・ランデイル外交担当編集委員（エルサレム）
+
+「民主主義は、これまで試されてきたほかのあらゆる形態を除いて、最悪の統治形態である」。ウィンストン・チャーチル元英首相は1947年に、イギリス下院でこう述べた。
+
+今月27日の夜、イスラエルの選挙結果が次第に明らかになるにつれ、チャーチルのこの格言が頭に浮かんだ。国民は自分たちの希望や恐怖が砕かれるか現実のものとなるかを決するために投票し、開票速報と出口調査の結果がないまぜに発表されていた。
+
+今回の選挙は、ある意味で民主主義を祝うものだった。記録的な数のイスラエルの有権者が投票した。ユダヤ系もアラブ系も同様だった。投票するために、数千ドルを使って国外から飛行機で駆けつけた有権者も大勢いた。
+
+全国各地の投票所で、選挙運動員たちの情熱を目にした。有権者の考えを変えて最後の1票を獲得しようと、運動員たちは最後の最後まで全力を尽くしていた。
+
+イツハク・ヘルツォグ大統領は、今回の選挙はイスラエル社会にとって「名誉の証」だと述べた。「イスラエルにおいて、民主主義への願望がいかに深いかを目にするのは、素晴らしいことだった」と、大統領は強調した。
+
+しかし、今回の選挙によって、中東で最も確固たる民主国家のイスラエルは、新しい政府樹立への明確な道筋が見えない状態に陥っている。どちらの陣営も議会で過半数を獲得できないという、あいまいな結果となった。
+
+これはいつものことだと、そう言う人もいるかもしれない。
+
+イスラエルではこれまで、単独政党による政権は存在したことがない。細かく分断された比例代表制は、連立政権による統治を前提として設計されていると言っても過言ではない。
+
+しかし、多くの評論家は、この国をむしばむ根本的で、おそらく拡大しつつある分断が今回の選挙で露呈したと警告した。これは、一つの課題について有権者が団結したという、そういう投票ではなかった。
+
+「明確な勝者なし」のイスラエル総選挙、今後はどうなるのか
+
+有権者間の亀裂の一部は、長年続いてきたものだった。たとえば司法改革をめぐる意見の対立は、現政権の発足初期に大規模なデモの原因となった。
+
+パレスチナの武装勢力ハマスが主導した2023年10月7日のイスラエル攻撃についても、対応で人質救出を優先するか、ハマス壊滅が先かで意見が分かれた。その後のガザでの戦闘でイスラエル予備役兵が犠牲になったことで、超正統派ユダヤ教徒の若者に対する兵役免除をめぐり、国内の緊張は悪化した。
+
+しかし、今回の選挙は、イスラエル社会に走る深い亀裂を、今まで以上にくっきりと浮き彫りにしたのだろうか？
+
+イスラエルでは、宗教と世俗の間に緊張関係がある。これは信仰だけでなく社会をも分断している。
+
+イスラエル政府は宗教研究に補助金を出すべきだろうか？ 一部の親は、他の親がそうしない中で、イスラエルを守るために息子や娘を犠牲にすべきだろうか？ 超正統派ユダヤ教徒は現在、人口の約15％を占める。彼らの世界観は、テルアヴィヴのハイテクで近代的な地域の住民が抱く世界観とは正反対だ。
+
+ネタニヤフ氏は「強力な右派の国民政府」の樹立を呼びかけている
+
+長い金髪の人がネタニヤフ首相の顔写真が描かれたプラカードを掲げて、叫んでいる
+
+ベンヤミン・ネタニヤフ首相率いるリクード党は議席を大きく減らしたものの、クネセト（イスラエル議会）で最大政党となる見込みだ。首相は汚職の疑いをかけられているが、本人はこれを否定している。また、10月7日以前のイスラエル防衛を怠ったとも非難されているが、本人はこの件について調査を拒否している。
+
+有権者の約10％は、ユダヤ至上主義の極右を支持した。例えば、ベザレル・スモトリッチ財務相は、開票結果が発表される最中にも、ガザ地区にユダヤ人入植地を建設すると公約していた。
+
+イスラエル国民の約20％の声を代表するアラブ系政党は、約15％の票を獲得した。10議席台後半の議席を獲得する可能性があり、大きな躍進を遂げた。
+
+そして、ガディ・アイゼンコット元軍参謀総長が率いる中道、左派、右派の混合勢力である野党連合は、この国の未来にとって不可欠だと多くの有権者が信じる変革を掲げていたものの、それを直ちに勝ち取ることはできなかった。
+
+野党ヤシャルのアイゼンコット党首は、国民が「変化を支持した」と強調した（28日、テルアヴィヴ）
+
+ダークスーツ姿の大柄な男性がイスラエル国旗を両手で振っている。背後に自分の顔を大きく映し出したポスターが掲示され、その手前で党関係者が笑顔で拍手している
+
+これほど大きく異なるものの見方をいかにして、何らかの形の政府へと落とし込んでいくのか。イスラエル国政がいま直面するこの課題は、決して容易なことではない。イスラエル政界は今後、さまざまな選択や妥協を余儀なくされるし、それは国の未来に関する根本的な判断を伴うことになるかもしれない。
+
+ネタニヤフ首相には、これまで自分の連立政権を支えてきた宗教右派を見捨てて、野党右派と連立する用意があるだろうか？ 野党右派は首相への敵意を捨てて、その政権に参加する用意があるだろうか？
+
+野党連合には、選挙公約の多くを放棄し、アラブ系政党と協力してネタニヤフ首相を失脚させる覚悟があるのだろうか？ 一方、アラブ系政党は、数カ月で崩壊するかもしれない政権に参加するリスクを冒す準備ができているのだろうか？
+
+左派・民主党のヤイル・ゴラン党首は、アラブ系政党と連携するよう野党連合に促した。「ネタニヤフは、ユダヤ人票とアラブ人票を人種差別的に分断する。我々は今後、その差別を受け入れてはならない」とゴラン氏は述べた。
+
+しかし、そのような現実を受け入れる準備が、イスラエル国民はできているのだろうか？
+
+ネタニヤフ首相に同調するイスラエルのコメンテーター、アミット・セガル氏は、アラブ系イスラエル人の高い投票率を前に、「長年対立してきた（右派と左派）双方のユダヤ人は、自分たちが結局はまとまって座るよう学習する必要があるのかもしれないと、改めて示した」のだと述べた。
+
+今回の選挙では、イスラエルを新しい道へと導くどころか、国民を一つに結びつけるのはいったい何なのかという疑問が新たに浮上する羽目になった。この複雑で多様な集団を一つの政治的な形態にまとめあげる、共通の要素とは何なのだろうか。
+
+世界では独裁政権が増え続けている。独裁政権は、民主主義は弱くて長続きしない政権を作り出すし、国民の希望を実現するどころか、連帯の維持に苦労するばかりの連立政権が多いとして、長年にわたり民主主義を批判してきた。
+
+イスラエルは今後数カ月の間、政権樹立に苦労する可能性がある。場合によっては失敗に終わり、再選挙を実施せざるを得なくなるかもしれない。
+
+ヘルツォグ大統領は連立交渉開始の準備を進めるにあたり、このリスクを正面から認め、「昨日の出来事を踏まえれば、次の選挙を避けるためにあらゆる手を尽くす必要がある」と述べた。
+
+イスラエルは長年、外部の敵に対する防衛に重点を置いてきた。しかし、今回の選挙によって顕著になった国内の分裂が手に負えなくなった場合、イスラエルは国内の危険に対しても備えなくてはならないのだろうか？
+
+チャーチル元英首相はかつて上記とは別の演説で、民主主義は「国外からの脅威に対する保険」であるだけでなく、「それと同じくらい深刻で、もっと身近で、絶えず我々を脅かす国内の脅威に対する保険」でもあると述べた。
+
+イスラエルの民主主義は、この課題に応えられるだろうか？
+
+（英語記事 Israel's election deadlock is a sign of the country's deep divisions）12:["$","section",null,{"className":"article-actions","children":[["$","$L23",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/6a6e26f66a6e26f6cee48d74","title":"【解説】 イスラエル総選挙で明確な結果出ず、国内の深刻な分裂示す","locale":"ja","take":null}],["$","$L24",null,{"title":"【解説】 イスラエル総選挙で明確な結果出ず、国内の深刻な分裂示す","excerpt":"$25","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/6a6e26f66a6e26f6cee48d74","locale":"ja"}],"$L26"]}]
+13:["$","$L27",null,{"placement":"article","className":"mt-8"}]
+14:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+15:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-latam:https://bbc.co.uk/news/articles/c3x2w4109pj8o",{"children":["$","$L2",null,{"href":"/ja/n/94c8498994c849899f6ad7a9","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Flávio Bolsonaro calls himself 'leader of Brazil' after election loss"}]]}]}],["$","li","npr-world:https://npr.org/2026/10/29/g-s1-150319/agatha-christie-baghdad-home",{"children":["$","$L2",null,{"href":"/ja/n/e625ac8ae625ac8a76661bda","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NPR"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Greetings from Baghdad, where Agatha Christie's old home presents its own mystery"}]]}]}],["$","li","bbc-uk:https://bbc.co.uk/news/videos/ckg5j49v7lp8o",{"children":["$","$L2",null,{"href":"/ja/n/96d7b08c96d7b08c26e05d62","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Watch: Passenger fights off knife attacker with frying pan"}]]}]}]]}]]}]
+16:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+17:["$","$L28",null,{"children":["$","$29",null,{"name":"Next.MetadataOutlet","children":"$@2a"}]}]
+1a:["$","$1","h",{"children":[null,["$","$L2b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L2c",null,{"children":["$","$29",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"【解説】 イスラエル総選挙で明確な結果出ず、国内の深刻な分裂示す"}],["$","meta","1",{"name":"description","content":"ネタニヤフ首相（左）と野党陣営を率いるアイゼンコット元軍参謀総長"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"【解説】 イスラエル総選挙で明確な結果出ず、国内の深刻な分裂示す"}],["$","meta","4",{"property":"og:description","content":"ネタニヤフ首相（左）と野党陣営を率いるアイゼンコット元軍参謀総長"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/6a6e26f66a6e26f6cee48d74/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F2a31%2Flive%2F8148c250-d311-11f1-a701-fddedf244c16.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"【解説】 イスラエル総選挙で明確な結果出ず、国内の深刻な分裂示す"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"【解説】 イスラエル総選挙で明確な結果出ず、国内の深刻な分裂示す"}],["$","meta","14",{"name":"twitter:description","content":"ネタニヤフ首相（左）と野党陣営を率いるアイゼンコット元軍参謀総長"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F2a31%2Flive%2F8148c250-d311-11f1-a701-fddedf244c16.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L2d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+1c:["$","$1","c",{"children":[null,["$","$L2e",null,{"parallelRouterKey":"children","template":["$","$L2f",null,{}]}]]}]
+1f:["$","$1","c",{"children":[null,["$","$L2e",null,{"parallelRouterKey":"children","template":["$","$L2f",null,{}]}]]}]
+22:true
+26:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%80%90%E8%A7%A3%E8%AA%AC%E3%80%91+%E3%82%A4%E3%82%B9%E3%83%A9%E3%82%A8%E3%83%AB%E7%B7%8F%E9%81%B8%E6%8C%99%E3%81%A7%E6%98%8E%E7%A2%BA%E3%81%AA%E7%B5%90%E6%9E%9C%E5%87%BA%E3%81%9A%E3%80%81%E5%9B%BD%E5%86%85%E3%81%AE%E6%B7%B1%E5%88%BB%E3%81%AA%E5%88%86%E8%A3%82%E7%A4%BA%E3%81%99&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+2a:null
+19:300
+19:C
+21:0
+1b:"$undefined"
+1d:"$undefined"
+20:"$undefined"
+18:"$undefined"

@@ -1,0 +1,67 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6a4e/live/248d87d0-d2fd-11f1-8091-57f2713cabe8.jpg","image"]
+5:T109d,ロシアのプーチン大統領は、同国独自の衛星インターネット・プロジェクトを推進している
+
+ダークスーツ姿のプーチン氏が、わずかに口を開け、右の方を見ている。背後には、右手でスマートフォンを掲げるスーツ姿の男性がぼやけて見える
+
+ロシアのウラジーミル・プーチン大統領は28日、アメリカの実業家イーロン・マスク氏について「本物の天才だ」と述べた。また、マスク氏とは衛星技術をめぐり「緊密に」連絡を取り合っているとした。
+
+プーチン氏は、モスクワで開催されたロシア・アフリカ首脳会議で、ロシア独自の衛星インターネット・プロジェクト「ラスヴェット」に言及する中で、マスク氏について語った。ラスヴェットは、衛星を通じてインターネット接続を提供する事業。
+
+BBCの翻訳では、プーチン氏はマスク氏について、「彼は天才だ。本物の天才だ」と評価した。また、「マスク氏を含む、アメリカの複数のパートナーと緊密に連絡を取り合っている」と述べた。
+
+プーチン氏は、ラスヴェットの衛星と、マスク氏が所有する米宇宙開発企業「スペースX」の通信サービス「スターリンク」の衛星が「軌道上で互いに干渉しない」ように、ロシアがマスク氏と連絡を取ることは重要だと説明。
+
+「我々とアメリカのパートナーたちは、この取り組みを重視し合っている。あらゆる政治的な問題はあるものの、我々は懸命に取り組んでいる」とした。
+
+スペースXによると、スターリンクはこれまでに約1万3000基の衛星を打ち上げている。一方、オンライン上の衛星追跡情報によると、現在軌道上にあるラスヴェットの衛星は数十基にとどまる。
+
+南アフリカにあるロシア大使館は28日、ラスヴェットを「ロシア版スターリンク」だとしつつ、「この分野におけるロシアの取り組みは、まだ最初の一歩にすぎない」との認識を示した。
+
+同大使館は、「ロシアは宇宙分野で、マスク氏を含むアメリカ側との緊密な連絡を維持している」とした。
+
+ラスヴェットとスターリンクに関するプーチン氏の発言は、アメリカとロシアが接近しているとみられる中で出た。ロシアによるウクライナへの全面侵攻は、来年2月に5年目に突入する。
+
+ウクライナは、ロシア軍を食い止めるためにスターリンクを用いたインターネットに頼っている。ところが今月中旬、ウクライナ軍は突如、スターリンクへの接続が制限される事態に見舞われた。マスク氏はその後、スペースXが意図的に接続を制限したことを認めた。
+
+アメリカのドナルド・トランプ大統領は、米・イスラエルとイランとの戦争で急騰した燃料価格を引き下げるため、ロシア産ディーゼル燃料を輸入することでロシアと合意したと今月9日に発表した。
+
+21日には、ロシアで拘束されていたアメリカ人のスティーヴン・ハバード氏が釈放された。アメリカのスティーヴ・ウィトコフ特使は、釈放に同意したプーチン氏を「人道主義者」だとたたえた。
+
+マスク氏は南アフリカで生まれ、その後カナダへ移住し、最終的にアメリカに定住した。電気自動車のテスラ、宇宙開発のスペースX、衛星通信サービスのスターリンクなどのマスク氏の事業は、いずれもアメリカを拠点としている。その大半は、カリフォルニア州とテキサス州で展開されている。
+
+マスク氏は、資産が1兆ドルに達したこともある富豪で、トランプ氏や与党・共和党の政治家にとって最も有力な政治的支援者かつ資金提供者の一人となっている。
+
+（英語記事 Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss）d:X
+12:X
+12:C
+0:{"buildId":"Ca8Pnit0pzgQeTMdKJlCo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-29","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"プーチン氏、マスク氏は「本物の天才」 衛星技術めぐり「緊密に」連絡を取っていると"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"一昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6a4e/live/248d87d0-d2fd-11f1-8091-57f2713cabe8.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"ロシアのプーチン大統領は、同国独自の衛星インターネット・プロジェクトを推進している"}],["$","p","1",{"children":"ダークスーツ姿のプーチン氏が、わずかに口を開け、右の方を見ている。背後には、右手でスマートフォンを掲げるスーツ姿の男性がぼやけて見える"}],["$","p","2",{"children":"ロシアのウラジーミル・プーチン大統領は28日、アメリカの実業家イーロン・マスク氏について「本物の天才だ」と述べた。また、マスク氏とは衛星技術をめぐり「緊密に」連絡を取り合っているとした。"}],["$","p","3",{"children":"プーチン氏は、モスクワで開催されたロシア・アフリカ首脳会議で、ロシア独自の衛星インターネット・プロジェクト「ラスヴェット」に言及する中で、マスク氏について語った。ラスヴェットは、衛星を通じてインターネット接続を提供する事業。"}],["$","p","4",{"children":"BBCの翻訳では、プーチン氏はマスク氏について、「彼は天才だ。本物の天才だ」と評価した。また、「マスク氏を含む、アメリカの複数のパートナーと緊密に連絡を取り合っている」と述べた。"}],["$","p","5",{"children":"プーチン氏は、ラスヴェットの衛星と、マスク氏が所有する米宇宙開発企業「スペースX」の通信サービス「スターリンク」の衛星が「軌道上で互いに干渉しない」ように、ロシアがマスク氏と連絡を取ることは重要だと説明。"}],["$","p","6",{"children":"「我々とアメリカのパートナーたちは、この取り組みを重視し合っている。あらゆる政治的な問題はあるものの、我々は懸命に取り組んでいる」とした。"}],["$","p","7",{"children":"スペースXによると、スターリンクはこれまでに約1万3000基の衛星を打ち上げている。一方、オンライン上の衛星追跡情報によると、現在軌道上にあるラスヴェットの衛星は数十基にとどまる。"}],["$","p","8",{"children":"南アフリカにあるロシア大使館は28日、ラスヴェットを「ロシア版スターリンク」だとしつつ、「この分野におけるロシアの取り組みは、まだ最初の一歩にすぎない」との認識を示した。"}],["$","p","9",{"children":"同大使館は、「ロシアは宇宙分野で、マスク氏を含むアメリカ側との緊密な連絡を維持している」とした。"}],["$","p","10",{"children":"ラスヴェットとスターリンクに関するプーチン氏の発言は、アメリカとロシアが接近しているとみられる中で出た。ロシアによるウクライナへの全面侵攻は、来年2月に5年目に突入する。"}],["$","p","11",{"children":"ウクライナは、ロシア軍を食い止めるためにスターリンクを用いたインターネットに頼っている。ところが今月中旬、ウクライナ軍は突如、スターリンクへの接続が制限される事態に見舞われた。マスク氏はその後、スペースXが意図的に接続を制限したことを認めた。"}],["$","p","12",{"children":"アメリカのドナルド・トランプ大統領は、米・イスラエルとイランとの戦争で急騰した燃料価格を引き下げるため、ロシア産ディーゼル燃料を輸入することでロシアと合意したと今月9日に発表した。"}],["$","p","13",{"children":"21日には、ロシアで拘束されていたアメリカ人のスティーヴン・ハバード氏が釈放された。アメリカのスティーヴ・ウィトコフ特使は、釈放に同意したプーチン氏を「人道主義者」だとたたえた。"}],["$","p","14",{"children":"マスク氏は南アフリカで生まれ、その後カナダへ移住し、最終的にアメリカに定住した。電気自動車のテスラ、宇宙開発のスペースX、衛星通信サービスのスターリンクなどのマスク氏の事業は、いずれもアメリカを拠点としている。その大半は、カリフォルニア州とテキサス州で展開されている。"}],["$","p","15",{"children":"マスク氏は、資産が1兆ドルに達したこともある富豪で、トランプ氏や与党・共和党の政治家にとって最も有力な政治的支援者かつ資金提供者の一人となっている。"}],["$","p","16",{"children":"（英語記事 Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss）"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/ck054ddeye00o","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/dd2ed98bdd2ed98becffd2c3","title":"プーチン氏、マスク氏は「本物の天才」 衛星技術めぐり「緊密に」連絡を取っていると","locale":"ja","take":null}],["$","$L4",null,{"title":"プーチン氏、マスク氏は「本物の天才」 衛星技術めぐり「緊密に」連絡を取っていると","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/dd2ed98bdd2ed98becffd2c3","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%83%97%E3%83%BC%E3%83%81%E3%83%B3%E6%B0%8F%E3%80%81%E3%83%9E%E3%82%B9%E3%82%AF%E6%B0%8F%E3%81%AF%E9%80%A3%E7%B5%A1%E3%82%92%E5%8F%96%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%A8&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-latam:https://bbc.co.uk/news/articles/c3x2w4109pj8o",{"children":["$","$L2",null,{"href":"/ja/n/94c8498994c849899f6ad7a9","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Flávio Bolsonaro calls himself 'leader of Brazil' after election loss"}]]}]}],["$","li","npr-world:https://npr.org/2026/10/29/g-s1-150319/agatha-christie-baghdad-home",{"children":["$","$L2",null,{"href":"/ja/n/e625ac8ae625ac8a76661bda","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NPR"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Greetings from Baghdad, where Agatha Christie's old home presents its own mystery"}]]}]}],["$","li","bbc-uk:https://bbc.co.uk/news/videos/ckg5j49v7lp8o",{"children":["$","$L2",null,{"href":"/ja/n/96d7b08c96d7b08c26e05d62","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Watch: Passenger fights off knife attacker with frying pan"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"プーチン氏、マスク氏は「本物の天才」 衛星技術めぐり「緊密に」連絡を取っていると"}],["$","meta","1",{"name":"description","content":"ロシアのプーチン大統領は、同国独自の衛星インターネット・プロジェクトを推進している"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"プーチン氏、マスク氏は「本物の天才」 衛星技術めぐり「緊密に」連絡を取っていると"}],["$","meta","4",{"property":"og:description","content":"ロシアのプーチン大統領は、同国独自の衛星インターネット・プロジェクトを推進している"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/dd2ed98bdd2ed98becffd2c3/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F6a4e%2Flive%2F248d87d0-d2fd-11f1-8091-57f2713cabe8.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"プーチン氏、マスク氏は「本物の天才」 衛星技術めぐり「緊密に」連絡を取っていると"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"プーチン氏、マスク氏は「本物の天才」 衛星技術めぐり「緊密に」連絡を取っていると"}],["$","meta","14",{"name":"twitter:description","content":"ロシアのプーチン大統領は、同国独自の衛星インターネット・プロジェクトを推進している"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F6a4e%2Flive%2F248d87d0-d2fd-11f1-8091-57f2713cabe8.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

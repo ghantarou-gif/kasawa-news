@@ -1,0 +1,83 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg","image"]
+c:X
+11:X
+11:C
+0:{"buildId":"Ca8Pnit0pzgQeTMdKJlCo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-31","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"アメリカ、ウクライナへパトリオットミサイル500発の売却承認"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"10 時間前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"ドイツの非公開の場所にある軍事訓練区域で行われた、ウクライナ兵によるパトリオットミサイルの訓練の様子（2024年6月）"}],["$","p","1",{"children":"迷彩服を着た兵士が横一列に整列している。その後ろに、パトリオットミサイルの発射装置が並んでいる"}],["$","p","2",{"children":"アメリカは30日、ロシアの空爆激化に対して自衛するウクライナにとって不可欠な防空ミサイル「パトリオット」について、ウクライナへ500発の売却を承認した。"}],["$","p","3",{"children":"しかし、ウクライナのウォロディミル・ゼレンスキー大統領は、ミサイルの到着には「数年」かかる可能性があると警告している。"}],["$","p","4",{"children":"米国務省はこの日、最新鋭の迎撃ミサイル「PAC-3」の費用は21億ドル（3300億円）で、その資金はウクライナの同盟国である欧州とカナダによって「全額」拠出されると述べた。"}],["$","p","5",{"children":"ゼレンスキー大統領は同日、パトリオットミサイルの配備を加速するよう、改めてアメリカに要求した。同ミサイルは、甚大な被害をもたらすロシアの弾道ミサイルを迎撃するための、唯一の有効な兵器。"}],["$","p","6",{"children":"アメリカ政府のこの決定に先立ち、今月初めにはゼレンスキー大統領とドナルド・トランプ米大統領が対立を続けていた。両大統領は、アメリカがロシア産ディーゼル燃料の確保を目的とした合意の一環として、ロシアに対する制裁を緩和したことを機に、互いを批判した。"}],["$","p","7",{"children":"トランプ氏は、ウクライナがロシアとの戦争を終結させるための合意をまとめる新たな指導者を得る時が来たと述べた。ロシアは2022年2月、ウクライナへの本格的な侵攻を開始した。"}],["$","p","8",{"children":"その後、ゼレンスキー大統領が20日にオスロでアメリカ特使と会談し、緊張は緩和された。"}],["$","p","9",{"children":"米国務省は30日の声明で、「今回の売却案は、欧州における政治的・経済的安定の原動力となっているパートナー国の安全保障を強化することにより、アメリカの外交政策および国家安全保障上の目標を支援するものとなる」と述べた。"}],["$","p","10",{"children":"声明によると、「ウクライナはこの購入費用を、JUMPSTARTプログラムを通じたカナダ、ドイツ、ノルウェーからの寄付金と、欧州連合（EU）のウクライナ支援融資によって資金提供される国内資金で支払う」 という。JUMPSTARTは、米国防総省が設立した、サービスや訓練、物品の迅速供給を目的としたウクライナ共同多国籍プログラム。"}],["$","p","11",{"children":"また、「主要契約者」は「パトリオット」を製造している米ロッキード・マーティンで、「この売却に、アメリカの資金は一切関与していない」としている。"}],["$","p","12",{"children":"こうしたなか、主要20か国（G20）外相会議ではこの日、欧州の外交官たちがロシアのセルゲイ・ラヴロフ外相の出席に抗議し、公式集合写真の撮影を拒否した。"}],["$","p","13",{"children":"この会合は、マルコ・ルビオ米国務長官が米アトランタで主催している。"}],["$","p","14",{"children":"イギリスのエド・ミリバンド外相は会合の中で、「ロシア外相に直接申し上げたい。この戦争の侵略者が誰なのかは、誰もが知っている」とラヴロフ外相に言い、ウクライナで罪のない民間人を殺害したとしてロシア政府を非難した。"}],["$","p","15",{"children":"「パトリオット」ミサイルシステムの仕組みを示した図。システムはレーダー、管制装置、ミサイル発射機からなり、電磁波信号でやりとりしている。レーダーは上空を観測し、接近する敵の脅威を検知・位置特定する。探知範囲は100キロ。管制装置はミサイルを標的に誘導する。爆発のタイミングも調整できる。ミサイル発射機は最大16発を搭載し、9秒以内に全弾を発射できる。出典はレイセオン・カンパニー"}],["$","p","16",{"children":"ゼレンスキー大統領は今週初め、ウクライナはアメリカが重要なミサイル供給を承認するのを1カ月近く待ち続けており、ミサイルの供給量が極めて不足していると述べた。"}],["$","p","17",{"children":"30日遅くにソーシャルメディア「X」に投稿した記事の中でゼレンスキー氏は、アメリカの今回の発表を歓迎しつつも、ウクライナはパトリオットミサイルを「今すぐに」必要としていると述べた。"}],["$","p","18",{"children":"また、ロシアが冬を前に主要なエネルギーインフラへの攻撃を激化させており、これまで2週間以上の間に、ウクライナ電力網の「重要な部分」に対して「ロシア軍による攻撃が30回以上」あったと述べた。"}],["$","p","19",{"children":"ウクライナは迎撃ミサイルを切実に必要としているが、アメリカがイランとの戦争で迎撃ミサイルを使用しているため、世界的に供給不足が生じている。"}],["$","p","20",{"children":"パトリオット・ミサイルの生産スケジュールは明らかではないが、今回の発注は既存ミサイルではなく新規製造に関するものだと理解されており、ウクライナへの迅速な納入は期待できないだろう。"}],["$","p","21",{"children":"パトリオット・ミサイルは製造期間も長く、米国防総省によると、年間わずか600発しか作られていない。"}],["$","p","22",{"children":"トランプ大統領は7月、ウクライナにパトリオットミサイルの製造を許可することにワシントンは「同意していない」と述べた。これは、トランプ氏がウクライナにそのような権利を与えることを申し出てからわずか3週間後のことだった。"}],["$","p","23",{"children":"（英語記事 US approves sale of 500 Patriot missiles to Ukraine）"}]],"$L3"]}],"$L4","$L5","$L6",null,"$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":"$@b","staleTime":"$c","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$c","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$c","varyParams":"$11"},{"rsc":"$L12","isPartial":"$@13","staleTime":"$c","varyParams":"$11"}],"isUpgradeableISRFallback":false,"a":"$@14","rootVaryParams":null,"needsRuntimeRequest":"$@15"}
+16:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+17:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+19:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+1a:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1e:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1f:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+20:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+21:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]
+4:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/c6y0e21x2xlwo","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}]
+18:T172f,ドイツの非公開の場所にある軍事訓練区域で行われた、ウクライナ兵によるパトリオットミサイルの訓練の様子（2024年6月）
+
+迷彩服を着た兵士が横一列に整列している。その後ろに、パトリオットミサイルの発射装置が並んでいる
+
+アメリカは30日、ロシアの空爆激化に対して自衛するウクライナにとって不可欠な防空ミサイル「パトリオット」について、ウクライナへ500発の売却を承認した。
+
+しかし、ウクライナのウォロディミル・ゼレンスキー大統領は、ミサイルの到着には「数年」かかる可能性があると警告している。
+
+米国務省はこの日、最新鋭の迎撃ミサイル「PAC-3」の費用は21億ドル（3300億円）で、その資金はウクライナの同盟国である欧州とカナダによって「全額」拠出されると述べた。
+
+ゼレンスキー大統領は同日、パトリオットミサイルの配備を加速するよう、改めてアメリカに要求した。同ミサイルは、甚大な被害をもたらすロシアの弾道ミサイルを迎撃するための、唯一の有効な兵器。
+
+アメリカ政府のこの決定に先立ち、今月初めにはゼレンスキー大統領とドナルド・トランプ米大統領が対立を続けていた。両大統領は、アメリカがロシア産ディーゼル燃料の確保を目的とした合意の一環として、ロシアに対する制裁を緩和したことを機に、互いを批判した。
+
+トランプ氏は、ウクライナがロシアとの戦争を終結させるための合意をまとめる新たな指導者を得る時が来たと述べた。ロシアは2022年2月、ウクライナへの本格的な侵攻を開始した。
+
+その後、ゼレンスキー大統領が20日にオスロでアメリカ特使と会談し、緊張は緩和された。
+
+米国務省は30日の声明で、「今回の売却案は、欧州における政治的・経済的安定の原動力となっているパートナー国の安全保障を強化することにより、アメリカの外交政策および国家安全保障上の目標を支援するものとなる」と述べた。
+
+声明によると、「ウクライナはこの購入費用を、JUMPSTARTプログラムを通じたカナダ、ドイツ、ノルウェーからの寄付金と、欧州連合（EU）のウクライナ支援融資によって資金提供される国内資金で支払う」 という。JUMPSTARTは、米国防総省が設立した、サービスや訓練、物品の迅速供給を目的としたウクライナ共同多国籍プログラム。
+
+また、「主要契約者」は「パトリオット」を製造している米ロッキード・マーティンで、「この売却に、アメリカの資金は一切関与していない」としている。
+
+こうしたなか、主要20か国（G20）外相会議ではこの日、欧州の外交官たちがロシアのセルゲイ・ラヴロフ外相の出席に抗議し、公式集合写真の撮影を拒否した。
+
+この会合は、マルコ・ルビオ米国務長官が米アトランタで主催している。
+
+イギリスのエド・ミリバンド外相は会合の中で、「ロシア外相に直接申し上げたい。この戦争の侵略者が誰なのかは、誰もが知っている」とラヴロフ外相に言い、ウクライナで罪のない民間人を殺害したとしてロシア政府を非難した。
+
+「パトリオット」ミサイルシステムの仕組みを示した図。システムはレーダー、管制装置、ミサイル発射機からなり、電磁波信号でやりとりしている。レーダーは上空を観測し、接近する敵の脅威を検知・位置特定する。探知範囲は100キロ。管制装置はミサイルを標的に誘導する。爆発のタイミングも調整できる。ミサイル発射機は最大16発を搭載し、9秒以内に全弾を発射できる。出典はレイセオン・カンパニー
+
+ゼレンスキー大統領は今週初め、ウクライナはアメリカが重要なミサイル供給を承認するのを1カ月近く待ち続けており、ミサイルの供給量が極めて不足していると述べた。
+
+30日遅くにソーシャルメディア「X」に投稿した記事の中でゼレンスキー氏は、アメリカの今回の発表を歓迎しつつも、ウクライナはパトリオットミサイルを「今すぐに」必要としていると述べた。
+
+また、ロシアが冬を前に主要なエネルギーインフラへの攻撃を激化させており、これまで2週間以上の間に、ウクライナ電力網の「重要な部分」に対して「ロシア軍による攻撃が30回以上」あったと述べた。
+
+ウクライナは迎撃ミサイルを切実に必要としているが、アメリカがイランとの戦争で迎撃ミサイルを使用しているため、世界的に供給不足が生じている。
+
+パトリオット・ミサイルの生産スケジュールは明らかではないが、今回の発注は既存ミサイルではなく新規製造に関するものだと理解されており、ウクライナへの迅速な納入は期待できないだろう。
+
+パトリオット・ミサイルは製造期間も長く、米国防総省によると、年間わずか600発しか作られていない。
+
+トランプ大統領は7月、ウクライナにパトリオットミサイルの製造を許可することにワシントンは「同意していない」と述べた。これは、トランプ氏がウクライナにそのような権利を与えることを申し出てからわずか3週間後のことだった。
+
+（英語記事 US approves sale of 500 Patriot missiles to Ukraine）5:["$","section",null,{"className":"article-actions","children":[["$","$L16",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/e1a04ca8e1a04ca8fe270caa","title":"アメリカ、ウクライナへパトリオットミサイル500発の売却承認","locale":"ja","take":null}],["$","$L17",null,{"title":"アメリカ、ウクライナへパトリオットミサイル500発の売却承認","excerpt":"$18","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/e1a04ca8e1a04ca8fe270caa","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%80%81%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E3%81%B8%E3%83%91%E3%83%88%E3%83%AA%E3%82%AA%E3%83%83%E3%83%88%E3%83%9F%E3%82%B5%E3%82%A4%E3%83%AB500%E7%99%BA%E3%81%AE%E5%A3%B2%E5%8D%B4%E6%89%BF%E8%AA%8D&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+6:["$","$L19",null,{"placement":"article","className":"mt-8"}]
+7:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+8:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/edc7bc2b7ab0314881593ab5eae942d000831e22?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/6797a8a06797a8a01f85e022","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"【ROAD FC】11カ月ぶり復帰戦の原口伸「覚悟は決まってる」、せりな「バチバチに殴り合いを」＝11月1日（日）(ゴング格闘技)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/9e2223303d9c7ecbf1316fda295f52772429c5fa?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/0fb4c34c0fb4c34c69e084f6","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"マイ億君、天皇賞・秋はマスカレードボール本命！…「馬券内の堅さなら…」クロワデュノールも高評価(競馬のおはなし)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/dcca0c7fa11afa2b5dba9ddd8cb8f6cdd77a9874?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/fcdbe103fcdbe1038fe78a9b","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"クリスタル・パレス、トッテナム戦の予想スタメン。鎌田大地は？ リーグ戦連敗の阻止できるのか(フットボールチャンネル)"}]]}]}]]}]]}]
+9:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+a:["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]
+d:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1e",null,{"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"アメリカ、ウクライナへパトリオットミサイル500発の売却承認"}],["$","meta","1",{"name":"description","content":"ドイツの非公開の場所にある軍事訓練区域で行われた、ウクライナ兵によるパトリオットミサイルの訓練の様子（2024年6月）"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"アメリカ、ウクライナへパトリオットミサイル500発の売却承認"}],["$","meta","4",{"property":"og:description","content":"ドイツの非公開の場所にある軍事訓練区域で行われた、ウクライナ兵によるパトリオットミサイルの訓練の様子（2024年6月）"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/e1a04ca8e1a04ca8fe270caa/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fea75%2Flive%2Ff93e2820-d4b7-11f1-a701-fddedf244c16.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"アメリカ、ウクライナへパトリオットミサイル500発の売却承認"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"アメリカ、ウクライナへパトリオットミサイル500発の売却承認"}],["$","meta","14",{"name":"twitter:description","content":"ドイツの非公開の場所にある軍事訓練区域で行われた、ウクライナ兵によるパトリオットミサイルの訓練の様子（2024年6月）"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fea75%2Flive%2Ff93e2820-d4b7-11f1-a701-fddedf244c16.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1f","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
+12:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
+15:true
+1c:null
+c:300
+c:C
+14:0
+e:"$undefined"
+10:"$undefined"
+13:"$undefined"
+b:"$undefined"

@@ -1,0 +1,106 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+15:X
+1a:X
+1a:C
+0:{"buildId":"Ca8Pnit0pzgQeTMdKJlCo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-31","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Gigazine"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"アニソンヒット曲を聞いて年代を当てる音楽カードゲーム「HITSTER アニソン」プレイレポート"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"2 時間前"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"1960年代から2020年代までのアニソンをどの曲がかかるかわからない状態で聴き、何年の曲だったかタイムライン順に並べていく対戦型音楽カードゲーム「 HITSTER アニソン 」が登場したので、実際にプレイしてみました。"}],["$","p","1",{"children":"ゲームのざっくりとしたイメージは、「HITSTER アニソン」に先行して2025年末に登場した「HITSTER」日本語版のPR動画を見ると掴めるはずです。実際に遊んだレポートをまず読みたいという場合は「 ゲームプレイ 」の項へ飛んでください。"}],["$","p","2",{"children":"プレイ推奨年齢は16歳以上、プレイ時間想定は30分、プレイ人数は2人～10人となっています。推奨年齢が高いのは楽曲の幅が広く子どもは不利になりやすいためだとみられますが、ルールそのものはシンプルで、個人戦とチーム戦が用意されているので、大人とペアを組んで参加すれば一緒に遊ぶことは問題なさげ。"}],["$","p","3",{"children":"箱の裏側に遊び方が書かれていますが、この通りいたってシンプルで、「カードを引いて曲をかける」「年代を予想してカードを並べ、正解したらカード獲得」「早く10枚集めた人が勝ち」となっています。"}],["$","p","4",{"children":"同梱物は裏側にQRコードの印刷されたミュージックカードが308枚、トークンが37個です。"}],["$","p","5",{"children":"カードの表側には上から「歌手・アーティスト名」「曲がリリースされた年」「楽曲名」「楽曲が用いられた作品名」の4つが書かれています。収録曲は カラオケパセラ の再生数ランキングをベースに、一般公開されているヒットランキングデータや音楽配信サービスでの再生数、各世代からのヒアリング結果などをもととして、1960年代から2026年までの308曲が選定されています。なお、配信サービスを利用して音楽を流す都合上、ヒット曲であっても配信されていない曲などは含まれていないことがあります。"}],["$","p","6",{"children":"このゲームでは、カード読み取りと音楽再生のために、「背面カメラ」「内蔵スピーカー」「ネット接続」が利用可能なiOS 17以降搭載のiPhoneまたはAndroid 10.0以降搭載のAndroid端末が必要です。今回はAndroid版を利用しました。"}],["$","p","7",{"children":"アプリをインストールして起動したら、地域が「日本」、言語が「日本語」になっていることを確認して「続ける」をタップ。"}],["$","p","8",{"children":"「まずはルールを読んでから最初のカードをスキャンしましょう」とのこと。下部の「遊び方」をタップすると公式の 遊び方 のページが開きます。設定を進めるので「続ける」をタップ。"}],["$","p","9",{"children":"音楽を再生するサービスをSpotifyかApple Musicから選んで、下の「続行」をタップ。どちらを選んでも試聴機能を利用して音楽を再生することになるのでアカウント登録などは不要です。なお、再生される内容はサービスによってちょっと異なり、Spotifyはおおむねサビ前後から30秒、Apple Musicは冒頭かサビ前後から約1分30秒となっていたため、Apple MusicよりSpotifyのほうがややプレイ難度が上がります。"}],["$","p","10",{"children":"ゲームモード選択画面で、いずれかのサブスクの有料ユーザーなら「フルコーラス」か「プレビュー」を選べます。今回は「プレビュー」しか選べないので、「プレビュー」→「続行」の順でタップ。"}],["$","p","11",{"children":"アプリがこの画面になれば初期設定は完了。右下の歯車アイコンで設定変更が可能です。"}],["$","p","12",{"children":"デフォルトでは再生時にジャイロセンサーを使用して、QRコード読み込み後に端末を伏せると再生が始まりますが、QRコード読み取り後、カウントダウンしてから再生することもできます。"}],["$","p","13",{"children":"このゲームは個人戦もチーム戦も可能ですが、今回は4人対戦の個人戦を行いました。ミュージックカードをよく切って、プレイヤーに1枚ずつ配り、残りはデッキ(山札)にします。ルールでは「デッキの一番上のカードをランダムなプレイヤーがスキャン」となっていましたが、カードの滑りがよくて高く積み上げると崩れそうだったので4つの山を作りました。"}],["$","p","14",{"children":"ということで、編集部員Aがカードを1枚選んで、アプリを起動したスマホでQRコードを読み取りました。"}],["$","p","15",{"children":"読み取りに成功すると画面に「スマートフォンを伏せてください」とメッセージが表示されるので、スマホを伏せて置くと、音楽が流れます。"}],["$","p","16",{"children":"流れた曲が何年にリリースされた曲なのか、手元のタイムラインでどの位置になるのかを考えて置きます。最初は2択なのでまだまだ簡単。"}],["$","p","17",{"children":"位置を決めたらカードをめくり、年代を確認。正解ならカード獲得となり、そのまま手元のタイムラインの一部となります。外したカードはゲームから除外します。"}],["$","p","18",{"children":"あとは、カードを選んで再生して並べて確認する……という手番をプレイヤーごとに順番に繰り返していき、最初に手元のカードが10枚になった人が勝利です。"}],["$","p","19",{"children":"最終的に、編集部員Aは7枚まで増やしたものの、上に除外した3枚を当てることができませんでした。カードが増えて選べる年代の幅が狭まっていくと、どんどん難度が上がっていきます。なお、「2010」が2枚重なっていますが、リリース月は関係がなく、どちらに並んでもOK。"}],["$","p","20",{"children":"最初に10枚揃えた編集部員Dのタイムラインはこんな感じ。「1979年」からのスタートで、ほどよく曲の年代がばらけてくれていたおかげで、ミスは1枚のみでした。"}],["$","p","21",{"children":"ゲームを盛り上げる要素としてトークンがあります。トークンはゲーム開始時、各プレイヤーに2枚ずつ配布されていて、自分のターンで「曲名」「アーティスト名」を正しく答えられれば1枚獲得可能。このとき、カードの位置がもし間違いでもトークンの取り消しはありません。なお、プレイヤーが持てるトークンは最大5枚です。"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"],"$Lc"]}],"$Ld","$Le","$Lf",null,"$L10","$L11"]}],["$L12"],"$L13"]}],"isPartial":"$@14","staleTime":"$15","varyParams":null},{"rsc":"$L16","isPartial":"$@17","staleTime":"$15","varyParams":null},{"rsc":"$L18","isPartial":"$@19","staleTime":"$15","varyParams":"$1a"},{"rsc":"$L1b","isPartial":"$@1c","staleTime":"$15","varyParams":"$1a"}],"isUpgradeableISRFallback":false,"a":"$@1d","rootVaryParams":null,"needsRuntimeRequest":"$@1e"}
+1f:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+20:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+23:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+24:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+25:"$Sreact.suspense"
+27:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+28:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+29:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+2a:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+2b:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","22",{"children":"トークンの使い方は3種類。1つ目は、手番で曲がかかったものの知らない曲でタイムラインに正しく置くことができないとき、トークンを1枚使ってスキップすることができます。手番のパスではなくカードのみのスキップで、スキップしたカードを捨て札にして、次のカードをスキャンします。"}]
+4:["$","p","23",{"children":"2つ目は、他のプレイヤーの手番以外のとき。カードが間違った場所に置かれたと思ったら「HITSTER！」と宣言して、トークン1枚を自分が正しいと思った位置に置きます。"}]
+5:["$","p","24",{"children":"カードを確認してトークンの位置が正解だった場合、カードを獲得して自分のタイムラインに加えることができます。なお、他プレイヤーが正解していた場合、トークンは没収。また、複数のプレイヤーが「HITSTER！」と宣言した場合は宣言の早い順にトークンを置くことになります。複数のトークンを同じ場所に置くことはできず、宣言2番手以降のプレイヤーは、前のプレイヤーとは別の位置にトークンを置くことになります。"}]
+6:["$","p","25",{"children":"3つ目の使い方はいつでもOKで、トークン3枚を使って山札の1番上にあるカードを獲得しタイムラインに置くことができるというもの。年を当てる必要はなく、タイムラインを9枚揃えたあとに最後のカードをトークンで獲得して勝負を決めることも可能です。"}]
+7:["$","p","26",{"children":"実際にプレイしてみると、ヒット曲中心に選ばれているだけあって、「確実に聞いたことがある」というレベル以上の曲が多く、「これはっ！」となることが多々ありました。一方で、曲を知っているからといってリリース年を当てるのは難しく、タイムラインによっては「どこに入れるのかが絶妙にわからない……」ということもあって、推理力も求められました。「幼稚園で一緒だった友達がこのアニメを大好きだったから、この年代以前のはず……」「受験でアニメを見られなかったので、ここであるはずがない」「骨折して入院していたときに見ていたからピンポイントで年がわかる」など、曲に紐付く形でいろいろなエピソードも飛び出し、ゲームとして熱中できるだけでなく、場の盛りあがりもかなりのものでした。あまりにも楽しすぎて、いろいろな楽曲を聴きたくなってしまい、トークンを使って他人のカードを取れる機会を見逃してしまいました。上位ヒットソングをあえて除外したマイナーアニソン版も遊んでみたいところです。"}]
+8:["$","p","27",{"children":"「HITSTER アニソン」は、Amazon.co.jpでは税込3393円で購入可能です。"}]
+9:["$","p","28",{"children":"Amazon.co.jp: ジーピー HITSTER アニソン 音楽を聴いて遊ぶゲーム、イントロクイズ、いろんな世代で遊べる音楽ゲーム : おもちゃ"}]
+a:["$","p","29",{"children":"「ドス！」の叫びと足し算が肝となる「UNO」に続く新作カードゲーム「DOS」を遊んでみた"}]
+b:["$","p","30",{"children":"You can read the machine translated English article Play report of 'HITSTER Anime Song,' a m… ."}]
+c:["$","p",null,{"className":"article-credit","children":"本文の著作権はGigazineにあります。"}]
+d:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://gigazine.net/news/20261031-hitster-anison/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はGigazineで読む"}]}]
+21:T2682,1960年代から2020年代までのアニソンをどの曲がかかるかわからない状態で聴き、何年の曲だったかタイムライン順に並べていく対戦型音楽カードゲーム「 HITSTER アニソン 」が登場したので、実際にプレイしてみました。
+
+ゲームのざっくりとしたイメージは、「HITSTER アニソン」に先行して2025年末に登場した「HITSTER」日本語版のPR動画を見ると掴めるはずです。実際に遊んだレポートをまず読みたいという場合は「 ゲームプレイ 」の項へ飛んでください。
+
+プレイ推奨年齢は16歳以上、プレイ時間想定は30分、プレイ人数は2人～10人となっています。推奨年齢が高いのは楽曲の幅が広く子どもは不利になりやすいためだとみられますが、ルールそのものはシンプルで、個人戦とチーム戦が用意されているので、大人とペアを組んで参加すれば一緒に遊ぶことは問題なさげ。
+
+箱の裏側に遊び方が書かれていますが、この通りいたってシンプルで、「カードを引いて曲をかける」「年代を予想してカードを並べ、正解したらカード獲得」「早く10枚集めた人が勝ち」となっています。
+
+同梱物は裏側にQRコードの印刷されたミュージックカードが308枚、トークンが37個です。
+
+カードの表側には上から「歌手・アーティスト名」「曲がリリースされた年」「楽曲名」「楽曲が用いられた作品名」の4つが書かれています。収録曲は カラオケパセラ の再生数ランキングをベースに、一般公開されているヒットランキングデータや音楽配信サービスでの再生数、各世代からのヒアリング結果などをもととして、1960年代から2026年までの308曲が選定されています。なお、配信サービスを利用して音楽を流す都合上、ヒット曲であっても配信されていない曲などは含まれていないことがあります。
+
+このゲームでは、カード読み取りと音楽再生のために、「背面カメラ」「内蔵スピーカー」「ネット接続」が利用可能なiOS 17以降搭載のiPhoneまたはAndroid 10.0以降搭載のAndroid端末が必要です。今回はAndroid版を利用しました。
+
+アプリをインストールして起動したら、地域が「日本」、言語が「日本語」になっていることを確認して「続ける」をタップ。
+
+「まずはルールを読んでから最初のカードをスキャンしましょう」とのこと。下部の「遊び方」をタップすると公式の 遊び方 のページが開きます。設定を進めるので「続ける」をタップ。
+
+音楽を再生するサービスをSpotifyかApple Musicから選んで、下の「続行」をタップ。どちらを選んでも試聴機能を利用して音楽を再生することになるのでアカウント登録などは不要です。なお、再生される内容はサービスによってちょっと異なり、Spotifyはおおむねサビ前後から30秒、Apple Musicは冒頭かサビ前後から約1分30秒となっていたため、Apple MusicよりSpotifyのほうがややプレイ難度が上がります。
+
+ゲームモード選択画面で、いずれかのサブスクの有料ユーザーなら「フルコーラス」か「プレビュー」を選べます。今回は「プレビュー」しか選べないので、「プレビュー」→「続行」の順でタップ。
+
+アプリがこの画面になれば初期設定は完了。右下の歯車アイコンで設定変更が可能です。
+
+デフォルトでは再生時にジャイロセンサーを使用して、QRコード読み込み後に端末を伏せると再生が始まりますが、QRコード読み取り後、カウントダウンしてから再生することもできます。
+
+このゲームは個人戦もチーム戦も可能ですが、今回は4人対戦の個人戦を行いました。ミュージックカードをよく切って、プレイヤーに1枚ずつ配り、残りはデッキ(山札)にします。ルールでは「デッキの一番上のカードをランダムなプレイヤーがスキャン」となっていましたが、カードの滑りがよくて高く積み上げると崩れそうだったので4つの山を作りました。
+
+ということで、編集部員Aがカードを1枚選んで、アプリを起動したスマホでQRコードを読み取りました。
+
+読み取りに成功すると画面に「スマートフォンを伏せてください」とメッセージが表示されるので、スマホを伏せて置くと、音楽が流れます。
+
+流れた曲が何年にリリースされた曲なのか、手元のタイムラインでどの位置になるのかを考えて置きます。最初は2択なのでまだまだ簡単。
+
+位置を決めたらカードをめくり、年代を確認。正解ならカード獲得となり、そのまま手元のタイムラインの一部となります。外したカードはゲームから除外します。
+
+あとは、カードを選んで再生して並べて確認する……という手番をプレイヤーごとに順番に繰り返していき、最初に手元のカードが10枚になった人が勝利です。
+
+最終的に、編集部員Aは7枚まで増やしたものの、上に除外した3枚を当てることができませんでした。カードが増えて選べる年代の幅が狭まっていくと、どんどん難度が上がっていきます。なお、「2010」が2枚重なっていますが、リリース月は関係がなく、どちらに並んでもOK。
+
+最初に10枚揃えた編集部員Dのタイムラインはこんな感じ。「1979年」からのスタートで、ほどよく曲の年代がばらけてくれていたおかげで、ミスは1枚のみでした。
+
+ゲームを盛り上げる要素としてトークンがあります。トークンはゲーム開始時、各プレイヤーに2枚ずつ配布されていて、自分のターンで「曲名」「アーティスト名」を正しく答えられれば1枚獲得可能。このとき、カードの位置がもし間違いでもトークンの取り消しはありません。なお、プレイヤーが持てるトークンは最大5枚です。
+
+トークンの使い方は3種類。1つ目は、手番で曲がかかったものの知らない曲でタイムラインに正しく置くことができないとき、トークンを1枚使ってスキップすることができます。手番のパスではなくカードのみのスキップで、スキップしたカードを捨て札にして、次のカードをスキャンします。
+
+2つ目は、他のプレイヤーの手番以外のとき。カードが間違った場所に置かれたと思ったら「HITSTER！」と宣言して、トークン1枚を自分が正しいと思った位置に置きます。
+
+カードを確認してトークンの位置が正解だった場合、カードを獲得して自分のタイムラインに加えることができます。なお、他プレイヤーが正解していた場合、トークンは没収。また、複数のプレイヤーが「HITSTER！」と宣言した場合は宣言の早い順にトークンを置くことになります。複数のトークンを同じ場所に置くことはできず、宣言2番手以降のプレイヤーは、前のプレイヤーとは別の位置にトークンを置くことになります。
+
+3つ目の使い方はいつでもOKで、トークン3枚を使って山札の1番上にあるカードを獲得しタイムラインに置くことができるというもの。年を当てる必要はなく、タイムラインを9枚揃えたあとに最後のカードをトークンで獲得して勝負を決めることも可能です。
+
+実際にプレイしてみると、ヒット曲中心に選ばれているだけあって、「確実に聞いたことがある」というレベル以上の曲が多く、「これはっ！」となることが多々ありました。一方で、曲を知っているからといってリリース年を当てるのは難しく、タイムラインによっては「どこに入れるのかが絶妙にわからない……」ということもあって、推理力も求められました。「幼稚園で一緒だった友達がこのアニメを大好きだったから、この年代以前のはず……」「受験でアニメを見られなかったので、ここであるはずがない」「骨折して入院していたときに見ていたからピンポイントで年がわかる」など、曲に紐付く形でいろいろなエピソードも飛び出し、ゲームとして熱中できるだけでなく、場の盛りあがりもかなりのものでした。あまりにも楽しすぎて、いろいろな楽曲を聴きたくなってしまい、トークンを使って他人のカードを取れる機会を見逃してしまいました。上位ヒットソングをあえて除外したマイナーアニソン版も遊んでみたいところです。
+
+「HITSTER アニソン」は、Amazon.co.jpでは税込3393円で購入可能です。
+
+Amazon.co.jp: ジーピー HITSTER アニソン 音楽を聴いて遊ぶゲーム、イントロクイズ、いろんな世代で遊べる音楽ゲーム : おもちゃ
+
+「ドス！」の叫びと足し算が肝となる「UNO」に続く新作カードゲーム「DOS」を遊んでみた
+
+You can read the machine translated English article Play report of 'HITSTER Anime Song,' a m… .e:["$","section",null,{"className":"article-actions","children":[["$","$L1f",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/d44ed271d44ed271c724e459","title":"アニソンヒット曲を聞いて年代を当てる音楽カードゲーム「HITSTER アニソン」プレイレポート","locale":"ja","take":null}],["$","$L20",null,{"title":"アニソンヒット曲を聞いて年代を当てる音楽カードゲーム「HITSTER アニソン」プレイレポート","excerpt":"$21","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/d44ed271d44ed271c724e459","locale":"ja"}],"$L22"]}]
+f:["$","$L23",null,{"placement":"article","className":"mt-8"}]
+10:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+11:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/edc7bc2b7ab0314881593ab5eae942d000831e22?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/6797a8a06797a8a01f85e022","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"【ROAD FC】11カ月ぶり復帰戦の原口伸「覚悟は決まってる」、せりな「バチバチに殴り合いを」＝11月1日（日）(ゴング格闘技)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/9e2223303d9c7ecbf1316fda295f52772429c5fa?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/0fb4c34c0fb4c34c69e084f6","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"マイ億君、天皇賞・秋はマスカレードボール本命！…「馬券内の堅さなら…」クロワデュノールも高評価(競馬のおはなし)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/dcca0c7fa11afa2b5dba9ddd8cb8f6cdd77a9874?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/fcdbe103fcdbe1038fe78a9b","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"クリスタル・パレス、トッテナム戦の予想スタメン。鎌田大地は？ リーグ戦連敗の阻止できるのか(フットボールチャンネル)"}]]}]}]]}]]}]
+12:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+13:["$","$L24",null,{"children":["$","$25",null,{"name":"Next.MetadataOutlet","children":"$@26"}]}]
+16:["$","$1","h",{"children":[null,["$","$L27",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L28",null,{"children":["$","$25",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"アニソンヒット曲を聞いて年代を当てる音楽カードゲーム「HITSTER アニソン」プレイレポート"}],["$","meta","1",{"name":"description","content":"1960年代から2020年代までのアニソンをどの曲がかかるかわからない状態で聴き、何年の曲だったかタイムライン順に並べていく対戦型音楽カードゲーム「 HITSTER アニソン 」が登場したので、実際にプレイしてみました。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"アニソンヒット曲を聞いて年代を当てる音楽カードゲーム「HITSTER アニソン」プレイレポート"}],["$","meta","4",{"property":"og:description","content":"1960年代から2020年代までのアニソンをどの曲がかかるかわからない状態で聴き、何年の曲だったかタイムライン順に並べていく対戦型音楽カードゲーム「 HITSTER アニソン 」が登場したので、実際にプレイしてみました。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/d44ed271d44ed271c724e459/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"アニソンヒット曲を聞いて年代を当てる音楽カードゲーム「HITSTER アニソン」プレイレポート"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"アニソンヒット曲を聞いて年代を当てる音楽カードゲーム「HITSTER アニソン」プレイレポート"}],["$","meta","14",{"name":"twitter:description","content":"1960年代から2020年代までのアニソンをどの曲がかかるかわからない状態で聴き、何年の曲だったかタイムライン順に並べていく対戦型音楽カードゲーム「 HITSTER アニソン 」が登場したので、実際にプレイしてみました。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L29","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+18:["$","$1","c",{"children":[null,["$","$L2a",null,{"parallelRouterKey":"children","template":["$","$L2b",null,{}]}]]}]
+1b:["$","$1","c",{"children":[null,["$","$L2a",null,{"parallelRouterKey":"children","template":["$","$L2b",null,{}]}]]}]
+1e:true
+22:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%82%A2%E3%83%8B%E3%82%BD%E3%83%B3%E3%83%92%E3%83%83%E3%83%88%E6%9B%B2%E3%82%92%E8%81%9E%E3%81%84%E3%81%A6%E5%B9%B4%E4%BB%A3%E3%82%92%E5%BD%93%E3%81%A6%E3%82%8B%E9%9F%B3%E6%A5%BD%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%97%E3%83%AC%E3%82%A4%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88&mode=phrase&url=gigazine.net&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+26:null
+15:300
+15:C
+1d:0
+17:"$undefined"
+19:"$undefined"
+1c:"$undefined"
+14:"$undefined"

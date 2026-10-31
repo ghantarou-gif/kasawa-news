@@ -1,0 +1,5 @@
+:HL["/kasawa-news/_next/static/chunks/05wjkgi4s2ouj.css","style"]
+:HL["/kasawa-news/_next/static/chunks/13j-0ia4l16p6.css","style"]
+:HL["/kasawa-news/_next/static/media/ad9c66e761fed85a-s.p.0fhiaplbf_4wa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1225x817+0+0/resize/1225x817!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F45%2F0c%2Fd4b63b9247cc9f7c958c00c87f2f%2F260811-gsalgado-kipnuk-06240-2.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4184,"slots":{"children":{"name":"locale","param":{"type":"d","key":"en","siblings":["go"]},"prefetchHints":4196,"slots":{"children":{"name":"n","param":null,"prefetchHints":4192,"slots":{"children":{"name":"id","param":{"type":"d","key":"8d7c94058d7c940535095115","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"Ca8Pnit0pzgQeTMdKJlCo"}

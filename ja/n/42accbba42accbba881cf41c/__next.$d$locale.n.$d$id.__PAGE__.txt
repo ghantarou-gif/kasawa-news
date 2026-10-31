@@ -1,0 +1,77 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d8ca/live/ec4ec760-d37b-11f1-bf63-739fb2907d03.jpg","image"]
+5:T1171,政府高官らと共に謝罪の意を表して頭を下げる李行政長官（中央）
+
+黒いスーツに眼鏡をかけた男性たちが一列に並んで謝罪の意を表して頭を下げているのを、横から撮った写真
+
+香港政府トップの李家超（ジョン・リー）行政長官は29日、昨年11月に高層住宅群で起きた大規模火災について謝罪した。この火災では168人が死亡した。
+
+李氏は記者会見で、このような事件が二度と起こらないよう、政府機関の大幅な改革を約束した。
+
+香港政府が記者会見で発表した独立調査委員会の報告書によると、火災の原因は民間セクターの「不正行為」と、政府機関の「数十年にわたる怠慢」にあると結論づけられた。
+
+香港北部・大埔区の高層住宅群「宏福苑（ワン・フク・コート）」の大火災は、過去数十年間で最悪の死者数を記録した。これまでに数十人が過失致死や詐欺、汚職の容疑で逮捕されている。
+
+記者会見の冒頭で李氏は、火災について「深く悲しんでいる」と述べた。また、政府を代表して「犠牲者の方々、そして市民の皆様に謝罪いたします」と語って立ち上がり、数人の高官と共に頭を下げた。
+
+また、市の住宅当局のトップ何永賢（ウィニー・ホー）氏が、この火災の責任をとって辞任したと発表した。
+
+調査委の報告書では、火災は「おそらくたばこなどの発光源」が、当時大規模な改修工事中だったアパートの「紙製品」に引火したことが原因である可能性が最も高いと結論付けられた。
+
+当局者によると、政府は建設現場で喫煙者を検知・特定するために、AIと赤外線カメラを搭載したドローンを使い始める可能性があるという。
+
+報告書はまた、改修工事を担当した建設会社が基準を満たさない建築資材を使用し、安全対策も不十分であったことを明らかにした。
+
+これには、難燃性ではない足場用ネットの使用や、可燃性の発泡板で窓を長期間覆うことなどが含まれていた。
+
+これらの企業は、規制当局の規則を「順守しているように見せかける」ために、書類に虚偽の情報を記載していたと、報告書は指摘している。
+
+調査委は、改修工事の主要請負業者とコンサルタント、およびプロジェクトに関係する数名の個人が、火災に関して「最も厳しい批判」を受けるに値すると述べた。
+
+しかし、プロジェクトに関与した様々な政府機関が「危機感」を持ち、不正行為の可能性に「十分な注意」を払っていれば、そのような行為や宏福苑での火災の危険性は是正できたはずだと、報告書は付け加えた。
+
+報告書はまた、建設業界において「違法かつ疑わしい」慣行が「広範囲にわたり、組織的に、そして長期間にわたって」行われていたと指摘した。さらに、入札談合やその他の不正行為が様々な関係者によって行われており、中には地元のマフィアとつながりのある者もいたとしている。
+
+李氏は、この事件に関与した様々な政府機関を調査するほか、住宅局の独立した調査を行っていた部署を交代させると述べた。
+
+また、入札談合を取り締まり、違法とするとともに、長期の懲役刑と高額の罰金を導入すると約束した。
+
+宏福苑は1983年に建設された。2021年の政府調査によると、全1984戸で、居住者は約4600人。住民の約40％が65歳以上で、火災の犠牲者の多くは高齢者だった。
+
+火災は2025年11月26日に発生。上方と横方向にも素早く広がり、全8棟のうち7棟が焼けた。消火活動には数千人の消防士が投入されたが、そのうちの一人、37歳の何偉豪さんは、消火活動中に亡くなった。
+
+この火災は、人口密度が高く、多くの住民が同様の老朽化した高層アパートに住んでいる香港に深い衝撃と不安を与え、責任追及を求める声が上がった。
+
+（英語記事 Hong Kong's leader apologises for deadly high-rise fire）d:X
+12:X
+12:C
+0:{"buildId":"Ca8Pnit0pzgQeTMdKJlCo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-30","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"香港政府トップ、高層住宅群での大規模火災について謝罪 調査報告書を発表"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d8ca/live/ec4ec760-d37b-11f1-bf63-739fb2907d03.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"政府高官らと共に謝罪の意を表して頭を下げる李行政長官（中央）"}],["$","p","1",{"children":"黒いスーツに眼鏡をかけた男性たちが一列に並んで謝罪の意を表して頭を下げているのを、横から撮った写真"}],["$","p","2",{"children":"香港政府トップの李家超（ジョン・リー）行政長官は29日、昨年11月に高層住宅群で起きた大規模火災について謝罪した。この火災では168人が死亡した。"}],["$","p","3",{"children":"李氏は記者会見で、このような事件が二度と起こらないよう、政府機関の大幅な改革を約束した。"}],["$","p","4",{"children":"香港政府が記者会見で発表した独立調査委員会の報告書によると、火災の原因は民間セクターの「不正行為」と、政府機関の「数十年にわたる怠慢」にあると結論づけられた。"}],["$","p","5",{"children":"香港北部・大埔区の高層住宅群「宏福苑（ワン・フク・コート）」の大火災は、過去数十年間で最悪の死者数を記録した。これまでに数十人が過失致死や詐欺、汚職の容疑で逮捕されている。"}],["$","p","6",{"children":"記者会見の冒頭で李氏は、火災について「深く悲しんでいる」と述べた。また、政府を代表して「犠牲者の方々、そして市民の皆様に謝罪いたします」と語って立ち上がり、数人の高官と共に頭を下げた。"}],["$","p","7",{"children":"また、市の住宅当局のトップ何永賢（ウィニー・ホー）氏が、この火災の責任をとって辞任したと発表した。"}],["$","p","8",{"children":"調査委の報告書では、火災は「おそらくたばこなどの発光源」が、当時大規模な改修工事中だったアパートの「紙製品」に引火したことが原因である可能性が最も高いと結論付けられた。"}],["$","p","9",{"children":"当局者によると、政府は建設現場で喫煙者を検知・特定するために、AIと赤外線カメラを搭載したドローンを使い始める可能性があるという。"}],["$","p","10",{"children":"報告書はまた、改修工事を担当した建設会社が基準を満たさない建築資材を使用し、安全対策も不十分であったことを明らかにした。"}],["$","p","11",{"children":"これには、難燃性ではない足場用ネットの使用や、可燃性の発泡板で窓を長期間覆うことなどが含まれていた。"}],["$","p","12",{"children":"これらの企業は、規制当局の規則を「順守しているように見せかける」ために、書類に虚偽の情報を記載していたと、報告書は指摘している。"}],["$","p","13",{"children":"調査委は、改修工事の主要請負業者とコンサルタント、およびプロジェクトに関係する数名の個人が、火災に関して「最も厳しい批判」を受けるに値すると述べた。"}],["$","p","14",{"children":"しかし、プロジェクトに関与した様々な政府機関が「危機感」を持ち、不正行為の可能性に「十分な注意」を払っていれば、そのような行為や宏福苑での火災の危険性は是正できたはずだと、報告書は付け加えた。"}],["$","p","15",{"children":"報告書はまた、建設業界において「違法かつ疑わしい」慣行が「広範囲にわたり、組織的に、そして長期間にわたって」行われていたと指摘した。さらに、入札談合やその他の不正行為が様々な関係者によって行われており、中には地元のマフィアとつながりのある者もいたとしている。"}],["$","p","16",{"children":"李氏は、この事件に関与した様々な政府機関を調査するほか、住宅局の独立した調査を行っていた部署を交代させると述べた。"}],["$","p","17",{"children":"また、入札談合を取り締まり、違法とするとともに、長期の懲役刑と高額の罰金を導入すると約束した。"}],["$","p","18",{"children":"宏福苑は1983年に建設された。2021年の政府調査によると、全1984戸で、居住者は約4600人。住民の約40％が65歳以上で、火災の犠牲者の多くは高齢者だった。"}],["$","p","19",{"children":"火災は2025年11月26日に発生。上方と横方向にも素早く広がり、全8棟のうち7棟が焼けた。消火活動には数千人の消防士が投入されたが、そのうちの一人、37歳の何偉豪さんは、消火活動中に亡くなった。"}],["$","p","20",{"children":"この火災は、人口密度が高く、多くの住民が同様の老朽化した高層アパートに住んでいる香港に深い衝撃と不安を与え、責任追及を求める声が上がった。"}],["$","p","21",{"children":"（英語記事 Hong Kong's leader apologises for deadly high-rise fire）"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/cmwyv2dv2881o","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/42accbba42accbba881cf41c","title":"香港政府トップ、高層住宅群での大規模火災について謝罪 調査報告書を発表","locale":"ja","take":null}],["$","$L4",null,{"title":"香港政府トップ、高層住宅群での大規模火災について謝罪 調査報告書を発表","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/42accbba42accbba881cf41c","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E9%A6%99%E6%B8%AF%E6%94%BF%E5%BA%9C%E3%83%88%E3%83%83%E3%83%97%E3%80%81%E9%AB%98%E5%B1%A4%E4%BD%8F%E5%AE%85%E7%BE%A4%E3%81%A7%E3%81%AE%E5%A4%A7%E8%A6%8F%E6%A8%A1%E7%81%AB%E7%81%BD%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AC%9D%E7%BD%AA+%E8%AA%BF%E6%9F%BB%E5%A0%B1%E5%91%8A%E6%9B%B8%E3%82%92%E7%99%BA%E8%A1%A8&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-sport:https://bbc.co.uk/sport/rugby-league/articles/cqp9gv3mr8myo",{"children":["$","$L2",null,{"href":"/ja/n/f5a55db8f5a55db8847f0ddc","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Set up to fail? Where England's World Cup campaign went wrong"}]]}]}],["$","li","bbc-world:https://bbc.co.uk/news/articles/ckwyq2509p7xo",{"children":["$","$L2",null,{"href":"/ja/n/32f209a332f209a3689167eb","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Pope Leo XIV becomes first pontiff to vote in a US election"}]]}]}],["$","li","bbc-health:https://bbc.co.uk/news/videos/c6wyd2l9gvy9o",{"children":["$","$L2",null,{"href":"/ja/n/e45cd41fe45cd41f721b845f","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"I gave birth in ambulance on A96 amid staff shortages at local hospital"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"香港政府トップ、高層住宅群での大規模火災について謝罪 調査報告書を発表"}],["$","meta","1",{"name":"description","content":"政府高官らと共に謝罪の意を表して頭を下げる李行政長官（中央）"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"香港政府トップ、高層住宅群での大規模火災について謝罪 調査報告書を発表"}],["$","meta","4",{"property":"og:description","content":"政府高官らと共に謝罪の意を表して頭を下げる李行政長官（中央）"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/42accbba42accbba881cf41c/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fd8ca%2Flive%2Fec4ec760-d37b-11f1-bf63-739fb2907d03.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"香港政府トップ、高層住宅群での大規模火災について謝罪 調査報告書を発表"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"香港政府トップ、高層住宅群での大規模火災について謝罪 調査報告書を発表"}],["$","meta","14",{"name":"twitter:description","content":"政府高官らと共に謝罪の意を表して頭を下げる李行政長官（中央）"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fd8ca%2Flive%2Fec4ec760-d37b-11f1-bf63-739fb2907d03.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

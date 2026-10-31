@@ -1,0 +1,89 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261028-00010000-nknatiogeo-000-1-view.jpg?pri=l&w=450&h=250&exp=10800","image"]
+11:X
+16:X
+16:C
+0:{"buildId":"Ca8Pnit0pzgQeTMdKJlCo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-28","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"〈目撃〉仰向けで休むクジラ、不可解な光景に研究者も困惑「まさにお手上げ状態でした」(ナショナル ジオグラフィック日本版)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"3 日前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261028-00010000-nknatiogeo-000-1-view.jpg?pri=l&w=450&h=250&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"オーストラリア南部にあるグレート・オーストラリア湾の最奥部に位置するヘッド・オブ・バイトで、ミナミセミクジラの母親が腹部を上に向け、胸びれを空に向かって伸ばすように休んでいる。数分後、彼女はゆっくりと体を回転させ、噴気孔を上に向けると息を吸い、再び仰向けの状態に戻った。その間、生まれたばかりの子どもは母親のそばに寄り添っていた。そしてようやく母親が本来の姿勢に戻ると、歯磨き粉のようにねっとりとした母乳を飲み始めた。"}],["$","p","1",{"children":"この不可解な光景は2026年7月6日付けで学術誌「Mammalian Biology」に発表された研究の一環としてドローンで撮影された。研究者たちは、同じように仰向けになって休むミナミセミクジラの母親を計15頭記録している。"}],["$","p","2",{"children":"「本当に奇妙な行動です」と西オーストラリア大学生物科学部の研究員で、この不可思議な現象を調べたレナエ・ファン・ノールト氏は言う。「この行動は遠くからでも観察できます。お腹の部分はほんの少し見えるだけですが、巨大なひれが海面から突き出しています」"}],["$","p","3",{"children":"ミナミセミクジラの母親はなぜ仰向けに浮かぶのか？ 研究者たちは論文の中で、母親が休憩を必要としているからかもしれないと推測している。"}],["$","p","4",{"children":"オーストラリア南部にあるグレート・オーストラリア湾の最奥部に位置するヘッド・オブ・バイトで、ミナミセミクジラの母親が腹部を上に向け、胸びれを空に向かって伸ばすように休んでいる。数分後、彼女はゆっくりと体を回転させ、噴気孔を上に向けると息を吸い、再び仰向けの状態に戻った。その間、生まれたばかりの子どもは母親のそばに寄り添っていた。そしてようやく母親が本来の姿勢に戻ると、歯磨き粉のようにねっとりとした母乳を飲み始めた。"}],["$","p","5",{"children":"この不可解な光景は2026年7月6日付けで学術誌「Mammalian Biology」に発表された研究の一環としてドローンで撮影された。研究者たちは、同じように仰向けになって休むミナミセミクジラの母親を計15頭記録している。"}],["$","p","6",{"children":"「本当に奇妙な行動です」と西オーストラリア大学生物科学部の研究員で、この不可思議な現象を調べたレナエ・ファン・ノールト氏は言う。「この行動は遠くからでも観察できます。お腹の部分はほんの少し見えるだけですが、巨大なひれが海面から突き出しています」"}],["$","p","7",{"children":"ミナミセミクジラの母親はなぜ仰向けに浮かぶのか？ 研究者たちは論文の中で、母親が休憩を必要としているからかもしれないと推測している。"}],["$","p","8",{"children":"論文によると仰向けで休んでいるクジラ類の記録は他になく、科学者たちは首をかしげるばかりだ。「まさにお手上げ状態でした」とファン・ノールト氏は言う。"}],["$","p","9",{"children":"ミナミセミクジラは回遊性のクジラだ。夏は南極や亜南極の海を餌場とし、冬になるとオーストラリア南部、南アフリカ、アルゼンチン、チリなどの繁殖地へと向かう。"}],["$","p","10",{"children":"繁殖地に到着する頃、ミナミセミクジラは「丸々と太っています」とファン・ノールト氏は言う。彼らは再び南極海の餌場に戻るまで何も食べない。"}],["$","p","11",{"children":"「ミナミセミクジラは膨大なエネルギーを蓄え、そして繁殖のために長距離を移動します」と、今回の研究には参加していないが、セミクジラの専門家であるオーストラリア、グリフィス大学オーストラリア河川研究所の非常勤教授ピーター・コーケロン氏は言う。「母親たちは母乳という形で途方もない量のエネルギーを子どもに注ぎ込むのです」"}],["$","p","12",{"children":"一方、母親たちは授乳期間中、体重を大きく減らす。「繁殖地にいる間はスーパーマーケットへ行って食料を買いだめできません」と、論文の共著者で西オーストラリア大学海洋研究所の講師であるケイト・スプロージス氏は言う。「再び体重を増やすには長距離を移動し、餌場まで戻るしかありません」"}],["$","p","13",{"children":"75時間に及ぶ記録映像を検証したファン・ノールト氏は、仰向けの姿勢で休憩するのは、出産を間近に控えた1頭を除き、全て授乳中の母親であることに気付いた。"}],["$","p","14",{"children":"腹部を上にすることで、子どもが母乳を飲むのを制限しているのではないかと研究者たちは言う。"}],["$","p","15",{"children":"「仰向けになると乳腺スリットは水面から出てしまうか、子どもにとって母乳を飲みにくい状態になります。仰向けになるということは、母親が子どもに対して『少し待っててね』と伝える手段なのかもしれません」とファン・ノールト氏は言う。母親が仰向けでいる時間が長ければ、それだけ子どもの母乳を飲む時間が短くなることが映像から分かった。"}],["$","p","16",{"children":"ミナミセミクジラの子どもの体長は生まれたときに少なくとも4メートルあり、その後、栄養豊富な母乳を飲んで瞬く間に体重を増やしていく。母乳を飲んでいる間、子どもは「最低でも1日3センチは成長します」とスプロージス氏は言う。"}],["$","p","17",{"children":"一方、母親は3カ月間の繁殖期に体重の4分の1を失う。ミナミセミクジラのメスの体重は80トンほどになるので、その場合は約20トンの体重を失うことになる。これはアフリカゾウ3頭分ほどに相当する。"}],["$","p","18",{"children":"体重が減ればそれだけエネルギーも失われる。つまり母親は子どもが母乳を飲むペースを調整して、餌場まで戻る長旅のエネルギーを残していることになる。「いじわるな母親が母乳の出し惜しみをしているわけではありません。これは自分自身の生存を守る行動なのです」とスプロージス氏は言う。"}],"$L3","$L4","$L5","$L6","$L7"],"$L8"]}],"$L9","$La","$Lb",null,"$Lc","$Ld"]}],["$Le"],"$Lf"]}],"isPartial":"$@10","staleTime":"$11","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$11","varyParams":null},{"rsc":"$L14","isPartial":"$@15","staleTime":"$11","varyParams":"$16"},{"rsc":"$L17","isPartial":"$@18","staleTime":"$11","varyParams":"$16"}],"isUpgradeableISRFallback":false,"a":"$@19","rootVaryParams":null,"needsRuntimeRequest":"$@1a"}
+1b:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+1c:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+1f:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+20:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+21:"$Sreact.suspense"
+23:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+24:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+25:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+26:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+27:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","19",{"children":"その一方、ミナミセミクジラが仰向けになるのは体温を下げるためではないかという説もある。ミナミセミクジラには、他の多くのクジラやイルカが体温調節に使っている背びれがない。「ミナミセミクジラは腹部と胸びれを水の外に出すことで、放熱量を増やしているのかもしれません。これは私たちが夏、プールに足を入れるようなものです」とファン・ノールト氏は言う。"}]
+4:["$","p","20",{"children":"しかしコーケロン氏は、ミナミセミクジラにはもっと効率よくクールダウンできる方法あると言い、この説には納得していない。「セミクジラの口蓋には非常に細かい毛細血管が無数に集まっています」と氏は言う。「口を開けたまま泳ぎまわり、口の中を海水で洗い流せば、大量の熱を放出できます」"}]
+5:["$","p","21",{"children":"理由がどうであれ、仰向けで休む行動が、セミクジラ属の別の種でも見られるのか、それともミナミセミクジラに限ったことなのか、研究者たちにもまだ分かっていない。"}]
+6:["$","p","22",{"children":"ミナミセミクジラの出産シーズン中、ヘッド・オブ・バイトでは船舶の航行が禁止されている。今回の発見は、他の場所でも禁止すべき根拠となると専門家たちは言う。おそらく仰向けになったクジラの母親は素早く船を避けることが難しいからだ。"}]
+7:["$","p","23",{"children":"航行禁止区域を設けることが、母親のクジラを保護する上で非常に重要だと人々が理解すれば、別の場所でも同様の区域を設置することを考えてくれるだろうと、コーケロン氏は言う。「世界の別の場所でも、これをばかげた実現不可能なアイデアだと一蹴せずに検討してみるべきでしょう」"}]
+8:["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]
+9:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/35e295ca53b3ad18a2a7dc2eba342762a37017e9?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}]
+1d:T2026,オーストラリア南部にあるグレート・オーストラリア湾の最奥部に位置するヘッド・オブ・バイトで、ミナミセミクジラの母親が腹部を上に向け、胸びれを空に向かって伸ばすように休んでいる。数分後、彼女はゆっくりと体を回転させ、噴気孔を上に向けると息を吸い、再び仰向けの状態に戻った。その間、生まれたばかりの子どもは母親のそばに寄り添っていた。そしてようやく母親が本来の姿勢に戻ると、歯磨き粉のようにねっとりとした母乳を飲み始めた。
+
+この不可解な光景は2026年7月6日付けで学術誌「Mammalian Biology」に発表された研究の一環としてドローンで撮影された。研究者たちは、同じように仰向けになって休むミナミセミクジラの母親を計15頭記録している。
+
+「本当に奇妙な行動です」と西オーストラリア大学生物科学部の研究員で、この不可思議な現象を調べたレナエ・ファン・ノールト氏は言う。「この行動は遠くからでも観察できます。お腹の部分はほんの少し見えるだけですが、巨大なひれが海面から突き出しています」
+
+ミナミセミクジラの母親はなぜ仰向けに浮かぶのか？ 研究者たちは論文の中で、母親が休憩を必要としているからかもしれないと推測している。
+
+オーストラリア南部にあるグレート・オーストラリア湾の最奥部に位置するヘッド・オブ・バイトで、ミナミセミクジラの母親が腹部を上に向け、胸びれを空に向かって伸ばすように休んでいる。数分後、彼女はゆっくりと体を回転させ、噴気孔を上に向けると息を吸い、再び仰向けの状態に戻った。その間、生まれたばかりの子どもは母親のそばに寄り添っていた。そしてようやく母親が本来の姿勢に戻ると、歯磨き粉のようにねっとりとした母乳を飲み始めた。
+
+この不可解な光景は2026年7月6日付けで学術誌「Mammalian Biology」に発表された研究の一環としてドローンで撮影された。研究者たちは、同じように仰向けになって休むミナミセミクジラの母親を計15頭記録している。
+
+「本当に奇妙な行動です」と西オーストラリア大学生物科学部の研究員で、この不可思議な現象を調べたレナエ・ファン・ノールト氏は言う。「この行動は遠くからでも観察できます。お腹の部分はほんの少し見えるだけですが、巨大なひれが海面から突き出しています」
+
+ミナミセミクジラの母親はなぜ仰向けに浮かぶのか？ 研究者たちは論文の中で、母親が休憩を必要としているからかもしれないと推測している。
+
+論文によると仰向けで休んでいるクジラ類の記録は他になく、科学者たちは首をかしげるばかりだ。「まさにお手上げ状態でした」とファン・ノールト氏は言う。
+
+ミナミセミクジラは回遊性のクジラだ。夏は南極や亜南極の海を餌場とし、冬になるとオーストラリア南部、南アフリカ、アルゼンチン、チリなどの繁殖地へと向かう。
+
+繁殖地に到着する頃、ミナミセミクジラは「丸々と太っています」とファン・ノールト氏は言う。彼らは再び南極海の餌場に戻るまで何も食べない。
+
+「ミナミセミクジラは膨大なエネルギーを蓄え、そして繁殖のために長距離を移動します」と、今回の研究には参加していないが、セミクジラの専門家であるオーストラリア、グリフィス大学オーストラリア河川研究所の非常勤教授ピーター・コーケロン氏は言う。「母親たちは母乳という形で途方もない量のエネルギーを子どもに注ぎ込むのです」
+
+一方、母親たちは授乳期間中、体重を大きく減らす。「繁殖地にいる間はスーパーマーケットへ行って食料を買いだめできません」と、論文の共著者で西オーストラリア大学海洋研究所の講師であるケイト・スプロージス氏は言う。「再び体重を増やすには長距離を移動し、餌場まで戻るしかありません」
+
+75時間に及ぶ記録映像を検証したファン・ノールト氏は、仰向けの姿勢で休憩するのは、出産を間近に控えた1頭を除き、全て授乳中の母親であることに気付いた。
+
+腹部を上にすることで、子どもが母乳を飲むのを制限しているのではないかと研究者たちは言う。
+
+「仰向けになると乳腺スリットは水面から出てしまうか、子どもにとって母乳を飲みにくい状態になります。仰向けになるということは、母親が子どもに対して『少し待っててね』と伝える手段なのかもしれません」とファン・ノールト氏は言う。母親が仰向けでいる時間が長ければ、それだけ子どもの母乳を飲む時間が短くなることが映像から分かった。
+
+ミナミセミクジラの子どもの体長は生まれたときに少なくとも4メートルあり、その後、栄養豊富な母乳を飲んで瞬く間に体重を増やしていく。母乳を飲んでいる間、子どもは「最低でも1日3センチは成長します」とスプロージス氏は言う。
+
+一方、母親は3カ月間の繁殖期に体重の4分の1を失う。ミナミセミクジラのメスの体重は80トンほどになるので、その場合は約20トンの体重を失うことになる。これはアフリカゾウ3頭分ほどに相当する。
+
+体重が減ればそれだけエネルギーも失われる。つまり母親は子どもが母乳を飲むペースを調整して、餌場まで戻る長旅のエネルギーを残していることになる。「いじわるな母親が母乳の出し惜しみをしているわけではありません。これは自分自身の生存を守る行動なのです」とスプロージス氏は言う。
+
+その一方、ミナミセミクジラが仰向けになるのは体温を下げるためではないかという説もある。ミナミセミクジラには、他の多くのクジラやイルカが体温調節に使っている背びれがない。「ミナミセミクジラは腹部と胸びれを水の外に出すことで、放熱量を増やしているのかもしれません。これは私たちが夏、プールに足を入れるようなものです」とファン・ノールト氏は言う。
+
+しかしコーケロン氏は、ミナミセミクジラにはもっと効率よくクールダウンできる方法あると言い、この説には納得していない。「セミクジラの口蓋には非常に細かい毛細血管が無数に集まっています」と氏は言う。「口を開けたまま泳ぎまわり、口の中を海水で洗い流せば、大量の熱を放出できます」
+
+理由がどうであれ、仰向けで休む行動が、セミクジラ属の別の種でも見られるのか、それともミナミセミクジラに限ったことなのか、研究者たちにもまだ分かっていない。
+
+ミナミセミクジラの出産シーズン中、ヘッド・オブ・バイトでは船舶の航行が禁止されている。今回の発見は、他の場所でも禁止すべき根拠となると専門家たちは言う。おそらく仰向けになったクジラの母親は素早く船を避けることが難しいからだ。
+
+航行禁止区域を設けることが、母親のクジラを保護する上で非常に重要だと人々が理解すれば、別の場所でも同様の区域を設置することを考えてくれるだろうと、コーケロン氏は言う。「世界の別の場所でも、これをばかげた実現不可能なアイデアだと一蹴せずに検討してみるべきでしょう」a:["$","section",null,{"className":"article-actions","children":[["$","$L1b",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/37ed581337ed5813540eb6d3","title":"〈目撃〉仰向けで休むクジラ、不可解な光景に研究者も困惑「まさにお手上げ状態でした」(ナショナル ジオグラフィック日本版)","locale":"ja","take":null}],["$","$L1c",null,{"title":"〈目撃〉仰向けで休むクジラ、不可解な光景に研究者も困惑「まさにお手上げ状態でした」(ナショナル ジオグラフィック日本版)","excerpt":"$1d","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/37ed581337ed5813540eb6d3","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":"$L1e"}]]}]
+b:["$","$L1f",null,{"placement":"article","className":"mt-8"}]
+c:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+d:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-latam:https://bbc.co.uk/news/videos/ck79pj82jp4qo",{"children":["$","$L2",null,{"href":"/ja/n/981ba2a0981ba2a02e32b20c","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Watch: Moment Flávio Bolsonaro arrives in Florida"}]]}]}],["$","li","nhk-world:https://news.web.nhk/newsweb/na/nd-20261028de67291",{"children":["$","$L2",null,{"href":"/ja/n/aa3c764daa3c764d37d459a5","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"スペイン 列車どうしの衝突事故“これまでに64人死亡”"}]]}]}],["$","li","bbc-africa:https://bbc.co.uk/sport/olympics/articles/c9gkv2pvg1gzo",{"children":["$","$L2",null,{"href":"/ja/n/10d5ce9e10d5ce9eb9738c00","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Judoka determined to prove refugees belong at Dakar 2026"}]]}]}]]}]]}]
+e:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+f:["$","$L20",null,{"children":["$","$21",null,{"name":"Next.MetadataOutlet","children":"$@22"}]}]
+12:["$","$1","h",{"children":[null,["$","$L23",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L24",null,{"children":["$","$21",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"〈目撃〉仰向けで休むクジラ、不可解な光景に研究者も困惑「まさにお手上げ状態でした」(ナショナル ジオグラフィック日本版)"}],["$","meta","1",{"name":"description","content":"オーストラリア南部にあるグレート・オーストラリア湾の最奥部に位置するヘッド・オブ・バイトで、ミナミセミクジラの母親が腹部を上に向け、胸びれを空に向かって伸ばすように休んでいる。数分後、彼女はゆっくりと体を回転させ、噴気孔を上に向けると息を吸い、再び仰向けの状態に戻った。その間、生まれたばかりの子どもは母親のそばに寄り添っていた。そしてようやく母親が本来の姿勢に戻ると、歯磨き粉のようにねっとりとした母乳を飲み始めた。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"〈目撃〉仰向けで休むクジラ、不可解な光景に研究者も困惑「まさにお手上げ状態でした」(ナショナル ジオグラフィック日本版)"}],["$","meta","4",{"property":"og:description","content":"オーストラリア南部にあるグレート・オーストラリア湾の最奥部に位置するヘッド・オブ・バイトで、ミナミセミクジラの母親が腹部を上に向け、胸びれを空に向かって伸ばすように休んでいる。数分後、彼女はゆっくりと体を回転させ、噴気孔を上に向けると息を吸い、再び仰向けの状態に戻った。その間、生まれたばかりの子どもは母親のそばに寄り添っていた。そしてようやく母親が本来の姿勢に戻ると、歯磨き粉のようにねっとりとした母乳を飲み始めた。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/37ed581337ed5813540eb6d3/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261028-00010000-nknatiogeo-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"〈目撃〉仰向けで休むクジラ、不可解な光景に研究者も困惑「まさにお手上げ状態でした」(ナショナル ジオグラフィック日本版)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"〈目撃〉仰向けで休むクジラ、不可解な光景に研究者も困惑「まさにお手上げ状態でした」(ナショナル ジオグラフィック日本版)"}],["$","meta","14",{"name":"twitter:description","content":"オーストラリア南部にあるグレート・オーストラリア湾の最奥部に位置するヘッド・オブ・バイトで、ミナミセミクジラの母親が腹部を上に向け、胸びれを空に向かって伸ばすように休んでいる。数分後、彼女はゆっくりと体を回転させ、噴気孔を上に向けると息を吸い、再び仰向けの状態に戻った。その間、生まれたばかりの子どもは母親のそばに寄り添っていた。そしてようやく母親が本来の姿勢に戻ると、歯磨き粉のようにねっとりとした母乳を飲み始めた。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261028-00010000-nknatiogeo-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L25","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+14:["$","$1","c",{"children":[null,["$","$L26",null,{"parallelRouterKey":"children","template":["$","$L27",null,{}]}]]}]
+17:["$","$1","c",{"children":[null,["$","$L26",null,{"parallelRouterKey":"children","template":["$","$L27",null,{}]}]]}]
+1a:true
+1e:["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%80%88%E7%9B%AE%E6%92%83%E3%80%89%E4%BB%B0%E5%90%91%E3%81%91%E3%81%A7%E4%BC%91%E3%82%80%E3%82%AF%E3%82%B8%E3%83%A9%E3%80%81%E4%B8%8D%E5%8F%AF%E8%A7%A3%E3%81%AA%E5%85%89%E6%99%AF%E3%81%AB%E7%A0%94%E7%A9%B6%E8%80%85%E3%82%82%E5%9B%B0%E6%83%91&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]
+22:null
+11:300
+11:C
+19:0
+13:"$undefined"
+15:"$undefined"
+18:"$undefined"
+10:"$undefined"

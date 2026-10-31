@@ -1,0 +1,78 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-35254150-cnn-000-2-view.jpg?pri=l&w=450&h=253&exp=10800","image"]
+f:X
+14:X
+14:C
+0:{"buildId":"Ca8Pnit0pzgQeTMdKJlCo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-29","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"天文学者たちが驚くべき発見、冥王星の先に新たな準惑星が存在する可能性(CNN.co.jp)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"一昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-35254150-cnn-000-2-view.jpg?pri=l&w=450&h=253&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"（CNN） 天文学者たちが、新たな準惑星の可能性のある天体を太陽系内で発見した。冥王星の軌道の外側を周回するこの天体は、暫定的に「ED138」と命名されている。"}],["$","p","1",{"children":"今後の観測でこの発見が確認されれば、ED138は国際天文学連合（IAU）が認定する5つの準惑星――セレス、冥王星、ハウメア、マケマケ、エリス――からなるグループに加わることになる。"}],["$","p","2",{"children":"今回の発見は、南米チリに新設されたべラ・ルービン天文台の観測結果によるもの。同天文台の望遠鏡は標高2682メートルの山頂に設置され、世界最大のデジタルカメラを備える。2025年に運用を開始しており、3日ごとに全天の画像を撮影することができる。"}],["$","p","3",{"children":"スミソニアン協会の上級天体物理学者であり、ハーバード大学の天文学講師を務めるマシュー・ホルマン氏は、自身が共同開発したコンピュータープログラムを実行し、26年初頭にルービンが収集したデータを精査。数十億件に及ぶ移動天体の検出データをスキャンした。ED138が検出された際、ホルマン氏は当初「興奮気味の半信半疑」といった心持ちで、直ちに誤検出やコンピュータープログラムのエラーがないか確認した。"}],["$","p","4",{"children":"この観測結果を確認するため、ルービン運用チームのメンバーでもあるホルマン氏は、同僚のマリオ・ユリッチ氏と協力して作業に当たった。ユリッチ氏はルービン太陽系プロジェクトの主任科学者で、ワシントン大学天文学部の教授。ユリッチ氏はルービンのカタログからED138に関するさらなる観測データを探し、26年3月まで遡（さかのぼ）る20件の追加データを発見した。最終的に研究者たちは他の情報源を活用し、この天体の軌道を最大10年前まで遡って描き出すことに成功した。"}],["$","p","5",{"children":"しかしホルマン氏はED138について、まだ正式に準惑星と決まったわけではないと注意を促す。「現時点ではあくまでも候補に過ぎない。物理的にどれほどの大きさなのかを正確に把握する必要があるが、それにはおそらく数カ月かかるだろう」"}],["$","p","6",{"children":"（CNN） 天文学者たちが、新たな準惑星の可能性のある天体を太陽系内で発見した。冥王星の軌道の外側を周回するこの天体は、暫定的に「ED138」と命名されている。"}],["$","p","7",{"children":"今後の観測でこの発見が確認されれば、ED138は国際天文学連合（IAU）が認定する5つの準惑星――セレス、冥王星、ハウメア、マケマケ、エリス――からなるグループに加わることになる。"}],["$","p","8",{"children":"今回の発見は、南米チリに新設されたべラ・ルービン天文台の観測結果によるもの。同天文台の望遠鏡は標高2682メートルの山頂に設置され、世界最大のデジタルカメラを備える。2025年に運用を開始しており、3日ごとに全天の画像を撮影することができる。"}],["$","p","9",{"children":"スミソニアン協会の上級天体物理学者であり、ハーバード大学の天文学講師を務めるマシュー・ホルマン氏は、自身が共同開発したコンピュータープログラムを実行し、26年初頭にルービンが収集したデータを精査。数十億件に及ぶ移動天体の検出データをスキャンした。ED138が検出された際、ホルマン氏は当初「興奮気味の半信半疑」といった心持ちで、直ちに誤検出やコンピュータープログラムのエラーがないか確認した。"}],["$","p","10",{"children":"この観測結果を確認するため、ルービン運用チームのメンバーでもあるホルマン氏は、同僚のマリオ・ユリッチ氏と協力して作業に当たった。ユリッチ氏はルービン太陽系プロジェクトの主任科学者で、ワシントン大学天文学部の教授。ユリッチ氏はルービンのカタログからED138に関するさらなる観測データを探し、26年3月まで遡（さかのぼ）る20件の追加データを発見した。最終的に研究者たちは他の情報源を活用し、この天体の軌道を最大10年前まで遡って描き出すことに成功した。"}],["$","p","11",{"children":"しかしホルマン氏はED138について、まだ正式に準惑星と決まったわけではないと注意を促す。「現時点ではあくまでも候補に過ぎない。物理的にどれほどの大きさなのかを正確に把握する必要があるが、それにはおそらく数カ月かかるだろう」"}],["$","p","12",{"children":"ED138の直径は600～1500キロメートルと推定されている。この通りであれば、公認された準惑星の中で最も小さいセレスよりも大きいことになる。現在は太陽から約46天文単位の距離を公転している（1天文単位は地球と太陽の平均距離に相当）。つまりED138は冥王星よりも遠くにあり、太陽系外縁天体（TNO）にも分類される。TNOとは、海王星よりも遠い軌道で太陽を公転する天体の分類。"}],["$","p","13",{"children":"夜空のED138を肉眼で見ることはできないが、ホルマン氏によれば「十分に明るいので、どこを見ればよいかを知っている熟練したアマチュア天文家なら観測できる」という。"}],["$","p","14",{"children":"科学者たちがこれまでED138を発見できなかった理由の一つは、それが南半球に位置しているため、北半球からは観測が非常に困難だったことにあると、ホルマン氏は指摘した。"}],["$","p","15",{"children":"「南半球で空を探索している望遠鏡はそれほど多くない」（ホルマン氏）"}],["$","p","16",{"children":"ルービン望遠鏡はこれまでにも、主に小惑星や、それよりはるかに小さなTNOを検出してきた。ホルマン氏によると、ED138と同じ大きさを持つ「一握りの」天体がまだ存在する可能性があり、ルービン望遠鏡は最終的にはそれらも見つけるはずだという。"}],"$L3","$L4","$L5"],"$L6"]}],"$L7","$L8","$L9",null,"$La","$Lb"]}],["$Lc"],"$Ld"]}],"isPartial":"$@e","staleTime":"$f","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$f","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$f","varyParams":"$14"},{"rsc":"$L15","isPartial":"$@16","staleTime":"$f","varyParams":"$14"}],"isUpgradeableISRFallback":false,"a":"$@17","rootVaryParams":null,"needsRuntimeRequest":"$@18"}
+19:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+1a:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+1c:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+1d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1e:"$Sreact.suspense"
+20:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+21:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+22:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+23:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+24:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","17",{"children":"06年にIAUは惑星の新しい定義を採択。惑星を「太陽の周りを公転し、ほぼ球形であり、かつその軌道上の同サイズの天体を排除できるほど十分な大きさを持つ天体」と規定した。ここで科学者たちは物議を醸す決定を下し、最後の要件を満たしていないことを理由に冥王星を惑星の分類から除外した。これにより太陽系の惑星数は9から8へと減った。"}]
+4:["$","p","18",{"children":"同時に、冥王星やそれに類する天体は「準惑星」と呼ばれるようになった。準惑星とは、太陽の周りを公転するほぼ球形の天体だが、自身の軌道上の天体を一掃するほど大きくはないものを指す。"}]
+5:["$","p","19",{"children":"ED138が新たな準惑星として確認されれば、天文学者たちはまず恒久的な番号を割り当て、その後、正式な名前を付けることになる。ただし、このプロセスには時間がかかる可能性があり、具体的に誰が名前を決めるのかといった詳細も現時点で不明だ。"}]
+6:["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]
+7:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/0389377cbd6b8b49322378c19a61f4fd81fb07e0?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}]
+1b:T1c6c,（CNN） 天文学者たちが、新たな準惑星の可能性のある天体を太陽系内で発見した。冥王星の軌道の外側を周回するこの天体は、暫定的に「ED138」と命名されている。
+
+今後の観測でこの発見が確認されれば、ED138は国際天文学連合（IAU）が認定する5つの準惑星――セレス、冥王星、ハウメア、マケマケ、エリス――からなるグループに加わることになる。
+
+今回の発見は、南米チリに新設されたべラ・ルービン天文台の観測結果によるもの。同天文台の望遠鏡は標高2682メートルの山頂に設置され、世界最大のデジタルカメラを備える。2025年に運用を開始しており、3日ごとに全天の画像を撮影することができる。
+
+スミソニアン協会の上級天体物理学者であり、ハーバード大学の天文学講師を務めるマシュー・ホルマン氏は、自身が共同開発したコンピュータープログラムを実行し、26年初頭にルービンが収集したデータを精査。数十億件に及ぶ移動天体の検出データをスキャンした。ED138が検出された際、ホルマン氏は当初「興奮気味の半信半疑」といった心持ちで、直ちに誤検出やコンピュータープログラムのエラーがないか確認した。
+
+この観測結果を確認するため、ルービン運用チームのメンバーでもあるホルマン氏は、同僚のマリオ・ユリッチ氏と協力して作業に当たった。ユリッチ氏はルービン太陽系プロジェクトの主任科学者で、ワシントン大学天文学部の教授。ユリッチ氏はルービンのカタログからED138に関するさらなる観測データを探し、26年3月まで遡（さかのぼ）る20件の追加データを発見した。最終的に研究者たちは他の情報源を活用し、この天体の軌道を最大10年前まで遡って描き出すことに成功した。
+
+しかしホルマン氏はED138について、まだ正式に準惑星と決まったわけではないと注意を促す。「現時点ではあくまでも候補に過ぎない。物理的にどれほどの大きさなのかを正確に把握する必要があるが、それにはおそらく数カ月かかるだろう」
+
+（CNN） 天文学者たちが、新たな準惑星の可能性のある天体を太陽系内で発見した。冥王星の軌道の外側を周回するこの天体は、暫定的に「ED138」と命名されている。
+
+今後の観測でこの発見が確認されれば、ED138は国際天文学連合（IAU）が認定する5つの準惑星――セレス、冥王星、ハウメア、マケマケ、エリス――からなるグループに加わることになる。
+
+今回の発見は、南米チリに新設されたべラ・ルービン天文台の観測結果によるもの。同天文台の望遠鏡は標高2682メートルの山頂に設置され、世界最大のデジタルカメラを備える。2025年に運用を開始しており、3日ごとに全天の画像を撮影することができる。
+
+スミソニアン協会の上級天体物理学者であり、ハーバード大学の天文学講師を務めるマシュー・ホルマン氏は、自身が共同開発したコンピュータープログラムを実行し、26年初頭にルービンが収集したデータを精査。数十億件に及ぶ移動天体の検出データをスキャンした。ED138が検出された際、ホルマン氏は当初「興奮気味の半信半疑」といった心持ちで、直ちに誤検出やコンピュータープログラムのエラーがないか確認した。
+
+この観測結果を確認するため、ルービン運用チームのメンバーでもあるホルマン氏は、同僚のマリオ・ユリッチ氏と協力して作業に当たった。ユリッチ氏はルービン太陽系プロジェクトの主任科学者で、ワシントン大学天文学部の教授。ユリッチ氏はルービンのカタログからED138に関するさらなる観測データを探し、26年3月まで遡（さかのぼ）る20件の追加データを発見した。最終的に研究者たちは他の情報源を活用し、この天体の軌道を最大10年前まで遡って描き出すことに成功した。
+
+しかしホルマン氏はED138について、まだ正式に準惑星と決まったわけではないと注意を促す。「現時点ではあくまでも候補に過ぎない。物理的にどれほどの大きさなのかを正確に把握する必要があるが、それにはおそらく数カ月かかるだろう」
+
+ED138の直径は600～1500キロメートルと推定されている。この通りであれば、公認された準惑星の中で最も小さいセレスよりも大きいことになる。現在は太陽から約46天文単位の距離を公転している（1天文単位は地球と太陽の平均距離に相当）。つまりED138は冥王星よりも遠くにあり、太陽系外縁天体（TNO）にも分類される。TNOとは、海王星よりも遠い軌道で太陽を公転する天体の分類。
+
+夜空のED138を肉眼で見ることはできないが、ホルマン氏によれば「十分に明るいので、どこを見ればよいかを知っている熟練したアマチュア天文家なら観測できる」という。
+
+科学者たちがこれまでED138を発見できなかった理由の一つは、それが南半球に位置しているため、北半球からは観測が非常に困難だったことにあると、ホルマン氏は指摘した。
+
+「南半球で空を探索している望遠鏡はそれほど多くない」（ホルマン氏）
+
+ルービン望遠鏡はこれまでにも、主に小惑星や、それよりはるかに小さなTNOを検出してきた。ホルマン氏によると、ED138と同じ大きさを持つ「一握りの」天体がまだ存在する可能性があり、ルービン望遠鏡は最終的にはそれらも見つけるはずだという。
+
+06年にIAUは惑星の新しい定義を採択。惑星を「太陽の周りを公転し、ほぼ球形であり、かつその軌道上の同サイズの天体を排除できるほど十分な大きさを持つ天体」と規定した。ここで科学者たちは物議を醸す決定を下し、最後の要件を満たしていないことを理由に冥王星を惑星の分類から除外した。これにより太陽系の惑星数は9から8へと減った。
+
+同時に、冥王星やそれに類する天体は「準惑星」と呼ばれるようになった。準惑星とは、太陽の周りを公転するほぼ球形の天体だが、自身の軌道上の天体を一掃するほど大きくはないものを指す。
+
+ED138が新たな準惑星として確認されれば、天文学者たちはまず恒久的な番号を割り当て、その後、正式な名前を付けることになる。ただし、このプロセスには時間がかかる可能性があり、具体的に誰が名前を決めるのかといった詳細も現時点で不明だ。8:["$","section",null,{"className":"article-actions","children":[["$","$L19",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/e949ba04e949ba042e96d13c","title":"天文学者たちが驚くべき発見、冥王星の先に新たな準惑星が存在する可能性(CNN.co.jp)","locale":"ja","take":null}],["$","$L1a",null,{"title":"天文学者たちが驚くべき発見、冥王星の先に新たな準惑星が存在する可能性(CNN.co.jp)","excerpt":"$1b","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/e949ba04e949ba042e96d13c","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E5%A4%A9%E6%96%87%E5%AD%A6%E8%80%85%E3%81%9F%E3%81%A1%E3%81%8C%E9%A9%9A%E3%81%8F%E3%81%B9%E3%81%8D%E7%99%BA%E8%A6%8B%E3%80%81%E5%86%A5%E7%8E%8B%E6%98%9F%E3%81%AE%E5%85%88%E3%81%AB%E6%96%B0%E3%81%9F%E3%81%AA%E6%BA%96%E6%83%91%E6%98%9F%E3%81%8C%E5%AD%98%E5%9C%A8%E3%81%99%E3%82%8B%E5%8F%AF%E8%83%BD%E6%80%A7&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+9:["$","$L1c",null,{"placement":"article","className":"mt-8"}]
+a:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+b:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-latam:https://bbc.co.uk/news/articles/c3x2w4109pj8o",{"children":["$","$L2",null,{"href":"/ja/n/94c8498994c849899f6ad7a9","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Flávio Bolsonaro calls himself 'leader of Brazil' after election loss"}]]}]}],["$","li","npr-world:https://npr.org/2026/10/29/g-s1-150319/agatha-christie-baghdad-home",{"children":["$","$L2",null,{"href":"/ja/n/e625ac8ae625ac8a76661bda","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NPR"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Greetings from Baghdad, where Agatha Christie's old home presents its own mystery"}]]}]}],["$","li","bbc-uk:https://bbc.co.uk/news/videos/ckg5j49v7lp8o",{"children":["$","$L2",null,{"href":"/ja/n/96d7b08c96d7b08c26e05d62","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Watch: Passenger fights off knife attacker with frying pan"}]]}]}]]}]]}]
+c:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+d:["$","$L1d",null,{"children":["$","$1e",null,{"name":"Next.MetadataOutlet","children":"$@1f"}]}]
+10:["$","$1","h",{"children":[null,["$","$L20",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L21",null,{"children":["$","$1e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"天文学者たちが驚くべき発見、冥王星の先に新たな準惑星が存在する可能性(CNN.co.jp)"}],["$","meta","1",{"name":"description","content":"（CNN） 天文学者たちが、新たな準惑星の可能性のある天体を太陽系内で発見した。冥王星の軌道の外側を周回するこの天体は、暫定的に「ED138」と命名されている。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"天文学者たちが驚くべき発見、冥王星の先に新たな準惑星が存在する可能性(CNN.co.jp)"}],["$","meta","4",{"property":"og:description","content":"（CNN） 天文学者たちが、新たな準惑星の可能性のある天体を太陽系内で発見した。冥王星の軌道の外側を周回するこの天体は、暫定的に「ED138」と命名されている。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/e949ba04e949ba042e96d13c/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261029-35254150-cnn-000-2-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"天文学者たちが驚くべき発見、冥王星の先に新たな準惑星が存在する可能性(CNN.co.jp)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"天文学者たちが驚くべき発見、冥王星の先に新たな準惑星が存在する可能性(CNN.co.jp)"}],["$","meta","14",{"name":"twitter:description","content":"（CNN） 天文学者たちが、新たな準惑星の可能性のある天体を太陽系内で発見した。冥王星の軌道の外側を周回するこの天体は、暫定的に「ED138」と命名されている。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261029-35254150-cnn-000-2-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L22","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+12:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+15:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+18:true
+1f:null
+f:300
+f:C
+17:0
+11:"$undefined"
+13:"$undefined"
+16:"$undefined"
+e:"$undefined"

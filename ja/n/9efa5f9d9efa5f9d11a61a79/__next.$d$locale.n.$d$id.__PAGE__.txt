@@ -1,0 +1,71 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/50d1/live/da5dfe00-d3cf-11f1-9c32-1532a6164171.jpg","image"]
+5:Te35,帰国後初の記者会見に臨んだヴェネズエラの反体制派指導者マリア・コリナ・マチャド氏（29日、カラカス）
+
+白いジャケット姿のマチャド氏が、マイクを前に手を広げて口を開いている
+
+南米ヴェネズエラの反体制派指導者で、昨年ノーベル平和賞を受けたマリア・コリナ・マチャド氏は29日、帰国後初めての記者会見を首都カラカスで開いた。同国の民主化の動きは「不可逆的」だとし、来年にも大統領選挙を実施するよう求めた。
+
+大統領選をめぐっては、デルシー・ロドリゲス暫定大統領が同日、日程を示さず、実施されると述べた。また、「これほど重大な政権移行」は自らの政権が監督すべきだと主張した。ロドリゲス氏は、アメリカが1月に拘束したニコラス・マドゥロ前大統領の政権で副大統領だった。
+
+マチャド氏は、「私たちを自由にしろ」というスローガンが掲げられたこの日の記者会見で、ロドリゲス氏の発言を非論理的だと一蹴。大統領選は2027年に実施されるとしたが、具体的な時期は述べなかった。
+
+また、ヴェネズエラの政権移行は「不可逆的で、系統立っていて、平和的」なものになるとした。
+
+マチャド氏の今後の計画は不明だが、以前、大統領選が実施されれば再び立候補すると述べていた。
+
+マチャド氏はまた、アメリカのドナルド・トランプ政権に対し、マドゥロ氏を拘束することで「自由への扉」を開いたとして、感謝を表明した。
+
+マチャド氏は昨年、ノルウェーでノーベル平和賞を受けるため、夜闇にまぎれて高速ボートでヴェネズエラを離れた。その直後、アメリカがマドゥロ氏を拘束した。
+
+トランプ政権はその後、ロドリゲス氏をヴェネズエラの指導者として支持した。同氏は暫定大統領に就任し、アメリカに有利な石油取引を契約した。
+
+マチャド氏は、ノーベル平和賞の授賞式の翌日にノルウェー・オスロに到着した。その後、ヴェネズエラへの帰国を何度か試みたが、実現していなかった。
+
+帰国できるかどうかは、トランプ政権の承認にかかっていた。今月25日になって、約10カ月ぶりに帰国を果たした。
+
+「自分が最も役立つ場所に身を置く」とノーベル平和賞のマチャド氏 BBC単独インタビュー
+
+29日の記者会見では、帰国の途中、多くの支持者から繰り返し「自由」という言葉を聞いたと、マチャド氏は述べた。
+
+そして、「私は任務を実行し、使命を果たすためにここに来た」とした。
+
+また、ロドリゲス氏からはメッセージも会談の招待も受け取っていないと述べた。さらに、野党の代表らや政府との選挙関連の交渉には、個人として参加しないと表明した。
+
+この記者会見の直前、ロドリゲス氏は演説で融和的な姿勢を示し、「明白な犯罪行為の場合を除き、司法の命令なしに誰も拘束してはならないと治安機関に指示した」と述べた。
+
+ロドリゲス氏はまた、ヴェネズエラでは帰国する亡命者に「門戸が開かれている」とし、対話と合意形成が重要だと語った。
+
+（英語記事 Venezuela opposition leader María Machado calls for elections upon return）d:X
+12:X
+12:C
+0:{"buildId":"Ca8Pnit0pzgQeTMdKJlCo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-30","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"ヴェネズエラの反体制派指導者マチャド氏、大統領選を求める 帰国後初の会見"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/50d1/live/da5dfe00-d3cf-11f1-9c32-1532a6164171.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"帰国後初の記者会見に臨んだヴェネズエラの反体制派指導者マリア・コリナ・マチャド氏（29日、カラカス）"}],["$","p","1",{"children":"白いジャケット姿のマチャド氏が、マイクを前に手を広げて口を開いている"}],["$","p","2",{"children":"南米ヴェネズエラの反体制派指導者で、昨年ノーベル平和賞を受けたマリア・コリナ・マチャド氏は29日、帰国後初めての記者会見を首都カラカスで開いた。同国の民主化の動きは「不可逆的」だとし、来年にも大統領選挙を実施するよう求めた。"}],["$","p","3",{"children":"大統領選をめぐっては、デルシー・ロドリゲス暫定大統領が同日、日程を示さず、実施されると述べた。また、「これほど重大な政権移行」は自らの政権が監督すべきだと主張した。ロドリゲス氏は、アメリカが1月に拘束したニコラス・マドゥロ前大統領の政権で副大統領だった。"}],["$","p","4",{"children":"マチャド氏は、「私たちを自由にしろ」というスローガンが掲げられたこの日の記者会見で、ロドリゲス氏の発言を非論理的だと一蹴。大統領選は2027年に実施されるとしたが、具体的な時期は述べなかった。"}],["$","p","5",{"children":"また、ヴェネズエラの政権移行は「不可逆的で、系統立っていて、平和的」なものになるとした。"}],["$","p","6",{"children":"マチャド氏の今後の計画は不明だが、以前、大統領選が実施されれば再び立候補すると述べていた。"}],["$","p","7",{"children":"マチャド氏はまた、アメリカのドナルド・トランプ政権に対し、マドゥロ氏を拘束することで「自由への扉」を開いたとして、感謝を表明した。"}],["$","p","8",{"children":"マチャド氏は昨年、ノルウェーでノーベル平和賞を受けるため、夜闇にまぎれて高速ボートでヴェネズエラを離れた。その直後、アメリカがマドゥロ氏を拘束した。"}],["$","p","9",{"children":"トランプ政権はその後、ロドリゲス氏をヴェネズエラの指導者として支持した。同氏は暫定大統領に就任し、アメリカに有利な石油取引を契約した。"}],["$","p","10",{"children":"マチャド氏は、ノーベル平和賞の授賞式の翌日にノルウェー・オスロに到着した。その後、ヴェネズエラへの帰国を何度か試みたが、実現していなかった。"}],["$","p","11",{"children":"帰国できるかどうかは、トランプ政権の承認にかかっていた。今月25日になって、約10カ月ぶりに帰国を果たした。"}],["$","p","12",{"children":"「自分が最も役立つ場所に身を置く」とノーベル平和賞のマチャド氏 BBC単独インタビュー"}],["$","p","13",{"children":"29日の記者会見では、帰国の途中、多くの支持者から繰り返し「自由」という言葉を聞いたと、マチャド氏は述べた。"}],["$","p","14",{"children":"そして、「私は任務を実行し、使命を果たすためにここに来た」とした。"}],["$","p","15",{"children":"また、ロドリゲス氏からはメッセージも会談の招待も受け取っていないと述べた。さらに、野党の代表らや政府との選挙関連の交渉には、個人として参加しないと表明した。"}],["$","p","16",{"children":"この記者会見の直前、ロドリゲス氏は演説で融和的な姿勢を示し、「明白な犯罪行為の場合を除き、司法の命令なしに誰も拘束してはならないと治安機関に指示した」と述べた。"}],["$","p","17",{"children":"ロドリゲス氏はまた、ヴェネズエラでは帰国する亡命者に「門戸が開かれている」とし、対話と合意形成が重要だと語った。"}],["$","p","18",{"children":"（英語記事 Venezuela opposition leader María Machado calls for elections upon return）"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/cmx2d1ve7771o","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/9efa5f9d9efa5f9d11a61a79","title":"ヴェネズエラの反体制派指導者マチャド氏、大統領選を求める 帰国後初の会見","locale":"ja","take":null}],["$","$L4",null,{"title":"ヴェネズエラの反体制派指導者マチャド氏、大統領選を求める 帰国後初の会見","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/9efa5f9d9efa5f9d11a61a79","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%83%B4%E3%82%A7%E3%83%8D%E3%82%BA%E3%82%A8%E3%83%A9%E3%81%AE%E5%8F%8D%E4%BD%93%E5%88%B6%E6%B4%BE%E6%8C%87%E5%B0%8E%E8%80%85%E3%83%9E%E3%83%81%E3%83%A3%E3%83%89%E6%B0%8F%E3%80%81%E5%A4%A7%E7%B5%B1%E9%A0%98%E9%81%B8%E3%82%92%E6%B1%82%E3%82%81%E3%82%8B+%E5%B8%B0%E5%9B%BD%E5%BE%8C%E5%88%9D%E3%81%AE%E4%BC%9A%E8%A6%8B&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-sport:https://bbc.co.uk/sport/rugby-league/articles/cqp9gv3mr8myo",{"children":["$","$L2",null,{"href":"/ja/n/f5a55db8f5a55db8847f0ddc","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Set up to fail? Where England's World Cup campaign went wrong"}]]}]}],["$","li","bbc-world:https://bbc.co.uk/news/articles/ckwyq2509p7xo",{"children":["$","$L2",null,{"href":"/ja/n/32f209a332f209a3689167eb","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Pope Leo XIV becomes first pontiff to vote in a US election"}]]}]}],["$","li","bbc-health:https://bbc.co.uk/news/videos/c6wyd2l9gvy9o",{"children":["$","$L2",null,{"href":"/ja/n/e45cd41fe45cd41f721b845f","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"I gave birth in ambulance on A96 amid staff shortages at local hospital"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ヴェネズエラの反体制派指導者マチャド氏、大統領選を求める 帰国後初の会見"}],["$","meta","1",{"name":"description","content":"帰国後初の記者会見に臨んだヴェネズエラの反体制派指導者マリア・コリナ・マチャド氏（29日、カラカス）"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"ヴェネズエラの反体制派指導者マチャド氏、大統領選を求める 帰国後初の会見"}],["$","meta","4",{"property":"og:description","content":"帰国後初の記者会見に臨んだヴェネズエラの反体制派指導者マリア・コリナ・マチャド氏（29日、カラカス）"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/9efa5f9d9efa5f9d11a61a79/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F50d1%2Flive%2Fda5dfe00-d3cf-11f1-9c32-1532a6164171.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"ヴェネズエラの反体制派指導者マチャド氏、大統領選を求める 帰国後初の会見"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"ヴェネズエラの反体制派指導者マチャド氏、大統領選を求める 帰国後初の会見"}],["$","meta","14",{"name":"twitter:description","content":"帰国後初の記者会見に臨んだヴェネズエラの反体制派指導者マリア・コリナ・マチャド氏（29日、カラカス）"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F50d1%2Flive%2Fda5dfe00-d3cf-11f1-9c32-1532a6164171.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

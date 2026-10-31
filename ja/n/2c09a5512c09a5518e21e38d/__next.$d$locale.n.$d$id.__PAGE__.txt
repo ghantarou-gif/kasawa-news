@@ -1,0 +1,75 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c8a0/live/e3a84f00-d470-11f1-9dda-1ba6fcc7d159.jpg","image"]
+5:T1215,キリスト教カトリック教会のローマ教皇レオ14世は、アメリカの中間選挙で、米イリノイ州の有権者として郵便投票を行った。ローマ教皇がアメリカの選挙で投票したのは歴史上、初めてとなる。
+
+ローマ教皇庁（ヴァチカン）広報局は声明で、「教皇は、市民が民主的なプロセスに参加する権利と義務についての確信を表明された」と述べた。
+
+シカゴ生まれのレオ14世は、2025年5月に教皇に選出され、アメリカ人として初めてカトリック教会の最高位に就いた。それ以来、移民政策やイランとの戦争など、さまざまな問題でトランプ米政権と対立してきた。
+
+ヴァチカン広報局は、「教皇レオ14世はこれまで、アメリカ国民として投票資格があった時はいつでも、その権利を行使してきた」、「教皇がペルーに滞在していた間も、機会があればいつでも投票権を行使してきた」と述べた。
+
+中間選挙の投票は11月3日に行われるが、ほとんどの州ではすでに期日前投票が始まっている。NBCニュースによると、教皇は10月3日にイリノイ州ウィル郡の書記官事務所に郵便投票用紙を請求した。
+
+しかしそれから2週間もたたないうちに、ヴァチカンは教皇が肺腺がんと診断され、右肺下葉の切除手術を受けたと発表した。
+
+教皇はすでに退院し、公務に復帰している。11月初旬には予定通り、南米のウルグアイとアルゼンチン、ペルーを訪問する予定だという。
+
+教皇が今年4月、米・イスラエルによるイランへの攻撃を受けて平和を呼びがけたことをきっかけに、教皇とトランプ氏の間の緊張が高まった。
+
+トランプ氏はその後、ローマ教皇について「彼はあまり良い仕事をしていないと思う」と述べた。
+
+「核兵器を持ってもいいなどと言う教皇はいやだ」、「私は教皇レオの大ファンではない」とも、トランプ氏は述べた。
+
+ロイター通信によると、教皇はその後、「福音のメッセージを大声で語ることが、私がここにいる目的で、教会がここにいる目的だと信じている」と発言した。
+
+「もし誰かが、私が福音を説くことを批判したいのなら（中略）私はただ、神の言葉の価値ゆえに耳を傾けてもらいたいと願うだけだ」
+
+米中間選挙は、共和党と民主党どちらが連邦議会を支配するかを決定する。その結果は、ドナルド・トランプ大統領の残る任期に大きな影響を与えるとみられている。
+
+世論調査によると、民主党は連邦下院の過半数を獲得する可能性が高い。2024年の大統領選挙でトランプ氏に圧倒的な票が集まった共和党支持の強い地域でも、民主党が議席を獲得する見込みだ。
+
+民主党は、連邦上院でも議席を増やす可能性があるようだ。
+
+トランプ氏率いる共和党の見通しが低迷していることから、大統領は共和党の勝利がほぼ確実視されている州で何度か集会を開いている。
+
+こうしたなか、アメリカのカトリック教会の司教たちがホワイトハウスでトランプ大統領と祈りをささげる写真が公表され、司教たちが政治的な発言をしたのではないかとの臆測が飛んでいる。この事態を受け、司教のうち2人がこの会合に参加したことを後悔していると表明した。
+
+ホワイトハウスのスタッフがソーシャルメディアで公表した10月22日の会合の写真と動画には、大統領執務室のデスクを囲んで、複数の司教がトランプ大統領を囲んでいる様子が映っている。
+
+写真に写っている一人、ミルウォーキー大司教のジェフリー・グローブ氏は25日、この会合は非公開のもので、「政治的な撮影の機会」ではないと自分は思っていたと述べた。グローブ大司教によると、会議の参加者の誰一人として、この会合の動画や写真の公開や掲載を許可していなかったという。
+
+米ピュー研究所の調査によると、トランプ氏は2024年の大統領選でカトリック教徒の有権者の55％から支持されていた。
+
+（英語記事 Pope Leo XIV becomes first pontiff to vote in a US election）d:X
+12:X
+12:C
+0:{"buildId":"Ca8Pnit0pzgQeTMdKJlCo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-31","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"レオ14世が米中間選挙に郵便投票 米選挙にローマ教皇が投票するのは初めて"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"10 時間前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c8a0/live/e3a84f00-d470-11f1-9dda-1ba6fcc7d159.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"キリスト教カトリック教会のローマ教皇レオ14世は、アメリカの中間選挙で、米イリノイ州の有権者として郵便投票を行った。ローマ教皇がアメリカの選挙で投票したのは歴史上、初めてとなる。"}],["$","p","1",{"children":"ローマ教皇庁（ヴァチカン）広報局は声明で、「教皇は、市民が民主的なプロセスに参加する権利と義務についての確信を表明された」と述べた。"}],["$","p","2",{"children":"シカゴ生まれのレオ14世は、2025年5月に教皇に選出され、アメリカ人として初めてカトリック教会の最高位に就いた。それ以来、移民政策やイランとの戦争など、さまざまな問題でトランプ米政権と対立してきた。"}],["$","p","3",{"children":"ヴァチカン広報局は、「教皇レオ14世はこれまで、アメリカ国民として投票資格があった時はいつでも、その権利を行使してきた」、「教皇がペルーに滞在していた間も、機会があればいつでも投票権を行使してきた」と述べた。"}],["$","p","4",{"children":"中間選挙の投票は11月3日に行われるが、ほとんどの州ではすでに期日前投票が始まっている。NBCニュースによると、教皇は10月3日にイリノイ州ウィル郡の書記官事務所に郵便投票用紙を請求した。"}],["$","p","5",{"children":"しかしそれから2週間もたたないうちに、ヴァチカンは教皇が肺腺がんと診断され、右肺下葉の切除手術を受けたと発表した。"}],["$","p","6",{"children":"教皇はすでに退院し、公務に復帰している。11月初旬には予定通り、南米のウルグアイとアルゼンチン、ペルーを訪問する予定だという。"}],["$","p","7",{"children":"教皇が今年4月、米・イスラエルによるイランへの攻撃を受けて平和を呼びがけたことをきっかけに、教皇とトランプ氏の間の緊張が高まった。"}],["$","p","8",{"children":"トランプ氏はその後、ローマ教皇について「彼はあまり良い仕事をしていないと思う」と述べた。"}],["$","p","9",{"children":"「核兵器を持ってもいいなどと言う教皇はいやだ」、「私は教皇レオの大ファンではない」とも、トランプ氏は述べた。"}],["$","p","10",{"children":"ロイター通信によると、教皇はその後、「福音のメッセージを大声で語ることが、私がここにいる目的で、教会がここにいる目的だと信じている」と発言した。"}],["$","p","11",{"children":"「もし誰かが、私が福音を説くことを批判したいのなら（中略）私はただ、神の言葉の価値ゆえに耳を傾けてもらいたいと願うだけだ」"}],["$","p","12",{"children":"米中間選挙は、共和党と民主党どちらが連邦議会を支配するかを決定する。その結果は、ドナルド・トランプ大統領の残る任期に大きな影響を与えるとみられている。"}],["$","p","13",{"children":"世論調査によると、民主党は連邦下院の過半数を獲得する可能性が高い。2024年の大統領選挙でトランプ氏に圧倒的な票が集まった共和党支持の強い地域でも、民主党が議席を獲得する見込みだ。"}],["$","p","14",{"children":"民主党は、連邦上院でも議席を増やす可能性があるようだ。"}],["$","p","15",{"children":"トランプ氏率いる共和党の見通しが低迷していることから、大統領は共和党の勝利がほぼ確実視されている州で何度か集会を開いている。"}],["$","p","16",{"children":"こうしたなか、アメリカのカトリック教会の司教たちがホワイトハウスでトランプ大統領と祈りをささげる写真が公表され、司教たちが政治的な発言をしたのではないかとの臆測が飛んでいる。この事態を受け、司教のうち2人がこの会合に参加したことを後悔していると表明した。"}],["$","p","17",{"children":"ホワイトハウスのスタッフがソーシャルメディアで公表した10月22日の会合の写真と動画には、大統領執務室のデスクを囲んで、複数の司教がトランプ大統領を囲んでいる様子が映っている。"}],["$","p","18",{"children":"写真に写っている一人、ミルウォーキー大司教のジェフリー・グローブ氏は25日、この会合は非公開のもので、「政治的な撮影の機会」ではないと自分は思っていたと述べた。グローブ大司教によると、会議の参加者の誰一人として、この会合の動画や写真の公開や掲載を許可していなかったという。"}],["$","p","19",{"children":"米ピュー研究所の調査によると、トランプ氏は2024年の大統領選でカトリック教徒の有権者の55％から支持されていた。"}],["$","p","20",{"children":"（英語記事 Pope Leo XIV becomes first pontiff to vote in a US election）"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/ckg5jppzj5e4o","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/2c09a5512c09a5518e21e38d","title":"レオ14世が米中間選挙に郵便投票 米選挙にローマ教皇が投票するのは初めて","locale":"ja","take":null}],["$","$L4",null,{"title":"レオ14世が米中間選挙に郵便投票 米選挙にローマ教皇が投票するのは初めて","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/2c09a5512c09a5518e21e38d","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%83%AC%E3%82%AA14%E4%B8%96%E3%81%8C%E7%B1%B3%E4%B8%AD%E9%96%93%E9%81%B8%E6%8C%99%E3%81%AB%E9%83%B5%E4%BE%BF%E6%8A%95%E7%A5%A8+%E7%B1%B3%E9%81%B8%E6%8C%99%E3%81%AB%E3%83%AD%E3%83%BC%E3%83%9E%E6%95%99%E7%9A%87%E3%81%8C%E6%8A%95%E7%A5%A8%E3%81%99%E3%82%8B%E3%81%AE%E3%81%AF%E5%88%9D%E3%82%81%E3%81%A6&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/edc7bc2b7ab0314881593ab5eae942d000831e22?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/6797a8a06797a8a01f85e022","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"【ROAD FC】11カ月ぶり復帰戦の原口伸「覚悟は決まってる」、せりな「バチバチに殴り合いを」＝11月1日（日）(ゴング格闘技)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/9e2223303d9c7ecbf1316fda295f52772429c5fa?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/0fb4c34c0fb4c34c69e084f6","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"マイ億君、天皇賞・秋はマスカレードボール本命！…「馬券内の堅さなら…」クロワデュノールも高評価(競馬のおはなし)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/dcca0c7fa11afa2b5dba9ddd8cb8f6cdd77a9874?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/fcdbe103fcdbe1038fe78a9b","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"クリスタル・パレス、トッテナム戦の予想スタメン。鎌田大地は？ リーグ戦連敗の阻止できるのか(フットボールチャンネル)"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"レオ14世が米中間選挙に郵便投票 米選挙にローマ教皇が投票するのは初めて"}],["$","meta","1",{"name":"description","content":"キリスト教カトリック教会のローマ教皇レオ14世は、アメリカの中間選挙で、米イリノイ州の有権者として郵便投票を行った。ローマ教皇がアメリカの選挙で投票したのは歴史上、初めてとなる。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"レオ14世が米中間選挙に郵便投票 米選挙にローマ教皇が投票するのは初めて"}],["$","meta","4",{"property":"og:description","content":"キリスト教カトリック教会のローマ教皇レオ14世は、アメリカの中間選挙で、米イリノイ州の有権者として郵便投票を行った。ローマ教皇がアメリカの選挙で投票したのは歴史上、初めてとなる。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/2c09a5512c09a5518e21e38d/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fc8a0%2Flive%2Fe3a84f00-d470-11f1-9dda-1ba6fcc7d159.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"レオ14世が米中間選挙に郵便投票 米選挙にローマ教皇が投票するのは初めて"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"レオ14世が米中間選挙に郵便投票 米選挙にローマ教皇が投票するのは初めて"}],["$","meta","14",{"name":"twitter:description","content":"キリスト教カトリック教会のローマ教皇レオ14世は、アメリカの中間選挙で、米イリノイ州の有権者として郵便投票を行った。ローマ教皇がアメリカの選挙で投票したのは歴史上、初めてとなる。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fc8a0%2Flive%2Fe3a84f00-d470-11f1-9dda-1ba6fcc7d159.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

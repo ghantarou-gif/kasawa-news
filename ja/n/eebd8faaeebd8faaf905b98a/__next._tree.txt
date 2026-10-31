@@ -1,0 +1,5 @@
+:HL["/kasawa-news/_next/static/chunks/05wjkgi4s2ouj.css","style"]
+:HL["/kasawa-news/_next/static/chunks/13j-0ia4l16p6.css","style"]
+:HL["/kasawa-news/_next/static/media/ad9c66e761fed85a-s.p.0fhiaplbf_4wa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://dam.mediacorp.sg/image/upload/s--7A2UHDIf--/c_crop,h_449,w_799,x_1,y_150/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-10-31T081313Z_1_LYNXNPEM9U067_RTROPTP_3_UKRAINE-CRISIS-OLESHKY.JPG?itok=Op8lM3K1","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4184,"slots":{"children":{"name":"locale","param":{"type":"d","key":"ja","siblings":["go"]},"prefetchHints":4132,"slots":{"children":{"name":"n","param":null,"prefetchHints":4160,"slots":{"children":{"name":"id","param":{"type":"d","key":"eebd8faaeebd8faaf905b98a","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"Ca8Pnit0pzgQeTMdKJlCo"}

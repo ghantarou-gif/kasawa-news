@@ -1,0 +1,77 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+f:X
+14:X
+14:C
+0:{"buildId":"Ca8Pnit0pzgQeTMdKJlCo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-30","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"CNET Japan"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"米国土安全保障省で4万1000人超の情報流出"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"米国土安全保障省（DHS）の職員4万1000人超の個人情報が流出したと、米TechCrunchが10月28日（現地時間）に報じた。税関・国境警備局（CBP）の職員や移民・税関捜査局（ICE）の捜査官、政府のサイバーセキュリティー業務を担う職員らの情報が含まれるという。データを公開した団体は、政治的な主張を掲げるハッカー集団がDHSの認証システムに侵入し、情報を盗み出したと説明している。"}],["$","p","1",{"children":"集団はデータベースのコピーをDDoSecretsを通じて配布するとともに、スイスの調査報道ジャーナリストを自称するmaia arson crimew氏にも提供した。サイバーセキュリティにも詳しい同氏は、このデータをオンラインで検索できるツール「Icepick」を作成した。"}],["$","p","2",{"children":"crimew氏は、DHSの内部構造を明らかにする今回の流出を「前例のない」「大規模な」ものと表現した。ICEなど各機関の具体的な役割や指揮命令系統、捜査官の身元が分かるため、「状況を一変させる」データだという。今後何年にもわたり、DHSの内部の実態を外部から調べやすくなるとしている。"}],["$","p","3",{"children":"今回の侵入は、政府の監視活動に対する新たな報復とみられる。背景には、ICEがテクノロジーを駆使した取締りを強め、ナンバープレートの読み取りカメラなどを手がける米Flock Safetyといった民間企業と連携していることへの反発がある。"}],["$","p","4",{"children":"Department of Peaceは、Markwayne Mullin国土安全保障長官の7月の発言を引き合いに出した。移民の取締りや逮捕を強化する方針について「街頭での圧力を強める」と述べた長官に対し、「そんなことをすれば、ICEはこういう目に遭う」と応じた。公開ファイルには、「彼らは私たちの情報を持っているのだから、私たちが彼らの情報を持つのも公平だ」というメモも添えられていた。"}],["$","p","5",{"children":"DHSの広報担当者は米CNETに対し、「侵害の可能性を認識しており、迅速かつ効果的な対応に積極的に取り組んでいる」と述べた。また、「職員や捜査官に対するあらゆる安全上の脅威を深刻に受け止め、全員が適切に保護されるよう取り組む」としている。"}],["$","p","6",{"children":"情報流出後、DHSはIcepickの検索サイトをはじめ、データを掲載するサイトの閉鎖に向けて動いている。米Blueskyは、同名のSNSでDDoSecretsへのリンクをブロックした。同社はTechCrunchに対し、コミュニティーガイドラインが「個人情報の無断共有や、安全上のリスクをもたらし得るその他のコンテンツ」を禁じているためだと説明した。"}],["$","p","7",{"children":"Icepickで注目されているのは、公開されたデータの規模と内容だ。対象となった4万1000人超は、約25万人いるDHS職員の一部にすぎない。しかし、公開された情報は基本的な連絡先にとどまらない。報道によると、事務所の所在地や電話番号のほか、内部の業務システムや組織運営に関する情報も含まれている。"}],["$","p","8",{"children":"ハッカー集団は、Oktaを使ったDHSの認証環境に侵入し、ダッシュボードに接続されたアプリの一覧も閲覧できた。これにより、ICEが利用するアプリも明らかになった。一覧には、「Penlink」のような傍受・監視用の専門ソフトに加え、「ChatGPT」「Gemini」といった広く使われるAIアプリも含まれていた。"}],["$","p","9",{"children":"アプリの一覧だけでは、具体的な使い方までは分からない。それでも、連邦機関が捜査記録や国境に関するデータを商用AIモデルに入力しているのか、入力しているとすればデータをどう扱っているのか、といった疑問が浮かぶ。"}],["$","p","10",{"children":"Icepickのデータをほかの情報と照合すれば、潜入捜査などが明るみに出る可能性がある。一方で、空港の保安職員など、批判の対象となっている取締りには関わっていない職員を巻き込むおそれもある。"}],["$","p","11",{"children":"これに対し、DDoSecretsの共同創設者でジャーナリストのEmma Best氏は、今回の情報公開は無差別なものではなく、対象を絞ったものだと主張している。「IcepickはDHSの全職員を無差別に並べた名簿ではなく、DHSの政策や活動を設計し、推進する多くの人々を特定するものだ」と記した。"}],["$","p","12",{"children":"情報流出に対する一部の反応からは、政府機関への信頼が揺らいでいる様子もうかがえる。DHSの責任が問われてこなかったと考える人々の間には、今回の公開を犯罪ではなく、透明性を強制的に確保する行為と受け止める声がある。"}],["$","p","13",{"children":"この事件を伝えたNPRの報道に対し、「Facebook」ではハッカー集団を支持するコメントが相次いだ。「ヒーローがみんなマントをまとっているわけではない」と書いた人もいれば、「法執行官の身元は公開されなければならない。そうでなければ、ただのギャングだ」とする人もいた。強硬な取締りや広範な監視で知られる組織がハッキングの被害に遭ったことを、一部の人々は因果応報と捉えている。"}],["$","p","14",{"children":"ICEなどDHS傘下の機関と契約するテクノロジー企業も、社内外から圧力を受けている。社外では、ハッカー集団が企業のインフラを狙い、連邦捜査官の身元や監視ツールを明らかにしようとしている。一方、社内では従業員が警鐘を鳴らし、倫理的な理由から契約を打ち切るよう経営陣に求めている。"}],["$","p","15",{"children":"最近の例が、ロボットメーカーの米Boston Dynamicsだ。ICEが同社のロボット「Spot」の購入に最大200万ドルを投じる計画だと報じられると、数百人の従業員が請願書に署名した。従業員らは「市民を虐げる政府機関に仕事の成果が使われているのなら」同社で働くことを誇りに思えないと訴えた。"}],["$","p","16",{"children":"友人や家族から「信じられない、恐ろしい」と言われ、なぜICE向けのロボットに携われるのかと問われているという従業員もいる。反発は、従業員本人だけでなく、その周囲にも広がっている。"}],"$L3","$L4","$L5"],"$L6"]}],"$L7","$L8","$L9",null,"$La","$Lb"]}],["$Lc"],"$Ld"]}],"isPartial":"$@e","staleTime":"$f","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$f","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$f","varyParams":"$14"},{"rsc":"$L15","isPartial":"$@16","staleTime":"$f","varyParams":"$14"}],"isUpgradeableISRFallback":false,"a":"$@17","rootVaryParams":null,"needsRuntimeRequest":"$@18"}
+19:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+1a:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+1c:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+1d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1e:"$Sreact.suspense"
+20:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+21:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+22:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+23:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+24:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","17",{"children":"政府の監視に対する反発は、ハッキング以外の形でも表れている。米電子フロンティア財団（EFF）は2026年初め、「意欲的なハッカーたちが、ICEを逆に監視するプロジェクトを始めている」と紹介した。捜査官の動きを把握するアプリやウェブツール、車のナンバープレートを読み取るFlockの監視カメラに対抗する取り組みなどだ。"}]
+4:["$","p","18",{"children":"EFFの上級技術者Cooper Quintin氏は、「私たちは無力ではない。そのことを忘れないのが大切だ」と記した。「国内の法執行機関が大規模な監視能力や軍隊が使うような技術を備えていても、監視から自分を守る方法は残されている」としている。"}]
+5:["$","p","19",{"children":"この記事は海外Ziff Davis発の 記事 を4Xが日本向けに編集したものです。"}]
+6:["$","p",null,{"className":"article-credit","children":"本文の著作権はCNET Japanにあります。"}]
+7:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://japan.cnet.com/article/35254222/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はCNET Japanで読む"}]}]
+1b:T1d14,米国土安全保障省（DHS）の職員4万1000人超の個人情報が流出したと、米TechCrunchが10月28日（現地時間）に報じた。税関・国境警備局（CBP）の職員や移民・税関捜査局（ICE）の捜査官、政府のサイバーセキュリティー業務を担う職員らの情報が含まれるという。データを公開した団体は、政治的な主張を掲げるハッカー集団がDHSの認証システムに侵入し、情報を盗み出したと説明している。
+
+集団はデータベースのコピーをDDoSecretsを通じて配布するとともに、スイスの調査報道ジャーナリストを自称するmaia arson crimew氏にも提供した。サイバーセキュリティにも詳しい同氏は、このデータをオンラインで検索できるツール「Icepick」を作成した。
+
+crimew氏は、DHSの内部構造を明らかにする今回の流出を「前例のない」「大規模な」ものと表現した。ICEなど各機関の具体的な役割や指揮命令系統、捜査官の身元が分かるため、「状況を一変させる」データだという。今後何年にもわたり、DHSの内部の実態を外部から調べやすくなるとしている。
+
+今回の侵入は、政府の監視活動に対する新たな報復とみられる。背景には、ICEがテクノロジーを駆使した取締りを強め、ナンバープレートの読み取りカメラなどを手がける米Flock Safetyといった民間企業と連携していることへの反発がある。
+
+Department of Peaceは、Markwayne Mullin国土安全保障長官の7月の発言を引き合いに出した。移民の取締りや逮捕を強化する方針について「街頭での圧力を強める」と述べた長官に対し、「そんなことをすれば、ICEはこういう目に遭う」と応じた。公開ファイルには、「彼らは私たちの情報を持っているのだから、私たちが彼らの情報を持つのも公平だ」というメモも添えられていた。
+
+DHSの広報担当者は米CNETに対し、「侵害の可能性を認識しており、迅速かつ効果的な対応に積極的に取り組んでいる」と述べた。また、「職員や捜査官に対するあらゆる安全上の脅威を深刻に受け止め、全員が適切に保護されるよう取り組む」としている。
+
+情報流出後、DHSはIcepickの検索サイトをはじめ、データを掲載するサイトの閉鎖に向けて動いている。米Blueskyは、同名のSNSでDDoSecretsへのリンクをブロックした。同社はTechCrunchに対し、コミュニティーガイドラインが「個人情報の無断共有や、安全上のリスクをもたらし得るその他のコンテンツ」を禁じているためだと説明した。
+
+Icepickで注目されているのは、公開されたデータの規模と内容だ。対象となった4万1000人超は、約25万人いるDHS職員の一部にすぎない。しかし、公開された情報は基本的な連絡先にとどまらない。報道によると、事務所の所在地や電話番号のほか、内部の業務システムや組織運営に関する情報も含まれている。
+
+ハッカー集団は、Oktaを使ったDHSの認証環境に侵入し、ダッシュボードに接続されたアプリの一覧も閲覧できた。これにより、ICEが利用するアプリも明らかになった。一覧には、「Penlink」のような傍受・監視用の専門ソフトに加え、「ChatGPT」「Gemini」といった広く使われるAIアプリも含まれていた。
+
+アプリの一覧だけでは、具体的な使い方までは分からない。それでも、連邦機関が捜査記録や国境に関するデータを商用AIモデルに入力しているのか、入力しているとすればデータをどう扱っているのか、といった疑問が浮かぶ。
+
+Icepickのデータをほかの情報と照合すれば、潜入捜査などが明るみに出る可能性がある。一方で、空港の保安職員など、批判の対象となっている取締りには関わっていない職員を巻き込むおそれもある。
+
+これに対し、DDoSecretsの共同創設者でジャーナリストのEmma Best氏は、今回の情報公開は無差別なものではなく、対象を絞ったものだと主張している。「IcepickはDHSの全職員を無差別に並べた名簿ではなく、DHSの政策や活動を設計し、推進する多くの人々を特定するものだ」と記した。
+
+情報流出に対する一部の反応からは、政府機関への信頼が揺らいでいる様子もうかがえる。DHSの責任が問われてこなかったと考える人々の間には、今回の公開を犯罪ではなく、透明性を強制的に確保する行為と受け止める声がある。
+
+この事件を伝えたNPRの報道に対し、「Facebook」ではハッカー集団を支持するコメントが相次いだ。「ヒーローがみんなマントをまとっているわけではない」と書いた人もいれば、「法執行官の身元は公開されなければならない。そうでなければ、ただのギャングだ」とする人もいた。強硬な取締りや広範な監視で知られる組織がハッキングの被害に遭ったことを、一部の人々は因果応報と捉えている。
+
+ICEなどDHS傘下の機関と契約するテクノロジー企業も、社内外から圧力を受けている。社外では、ハッカー集団が企業のインフラを狙い、連邦捜査官の身元や監視ツールを明らかにしようとしている。一方、社内では従業員が警鐘を鳴らし、倫理的な理由から契約を打ち切るよう経営陣に求めている。
+
+最近の例が、ロボットメーカーの米Boston Dynamicsだ。ICEが同社のロボット「Spot」の購入に最大200万ドルを投じる計画だと報じられると、数百人の従業員が請願書に署名した。従業員らは「市民を虐げる政府機関に仕事の成果が使われているのなら」同社で働くことを誇りに思えないと訴えた。
+
+友人や家族から「信じられない、恐ろしい」と言われ、なぜICE向けのロボットに携われるのかと問われているという従業員もいる。反発は、従業員本人だけでなく、その周囲にも広がっている。
+
+政府の監視に対する反発は、ハッキング以外の形でも表れている。米電子フロンティア財団（EFF）は2026年初め、「意欲的なハッカーたちが、ICEを逆に監視するプロジェクトを始めている」と紹介した。捜査官の動きを把握するアプリやウェブツール、車のナンバープレートを読み取るFlockの監視カメラに対抗する取り組みなどだ。
+
+EFFの上級技術者Cooper Quintin氏は、「私たちは無力ではない。そのことを忘れないのが大切だ」と記した。「国内の法執行機関が大規模な監視能力や軍隊が使うような技術を備えていても、監視から自分を守る方法は残されている」としている。
+
+この記事は海外Ziff Davis発の 記事 を4Xが日本向けに編集したものです。8:["$","section",null,{"className":"article-actions","children":[["$","$L19",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/51bd334c51bd334cbcae158e","title":"米国土安全保障省で4万1000人超の情報流出","locale":"ja","take":null}],["$","$L1a",null,{"title":"米国土安全保障省で4万1000人超の情報流出","excerpt":"$1b","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/51bd334c51bd334cbcae158e","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E7%B1%B3%E5%9B%BD%E5%9C%9F%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E7%9C%81%E3%81%A74%E4%B8%871000%E4%BA%BA%E8%B6%85%E3%81%AE%E6%83%85%E5%A0%B1%E6%B5%81%E5%87%BA&mode=phrase&url=japan.cnet.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+9:["$","$L1c",null,{"placement":"article","className":"mt-8"}]
+a:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+b:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-sport:https://bbc.co.uk/sport/rugby-league/articles/cqp9gv3mr8myo",{"children":["$","$L2",null,{"href":"/ja/n/f5a55db8f5a55db8847f0ddc","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Set up to fail? Where England's World Cup campaign went wrong"}]]}]}],["$","li","bbc-world:https://bbc.co.uk/news/articles/ckwyq2509p7xo",{"children":["$","$L2",null,{"href":"/ja/n/32f209a332f209a3689167eb","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Pope Leo XIV becomes first pontiff to vote in a US election"}]]}]}],["$","li","bbc-health:https://bbc.co.uk/news/videos/c6wyd2l9gvy9o",{"children":["$","$L2",null,{"href":"/ja/n/e45cd41fe45cd41f721b845f","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"I gave birth in ambulance on A96 amid staff shortages at local hospital"}]]}]}]]}]]}]
+c:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+d:["$","$L1d",null,{"children":["$","$1e",null,{"name":"Next.MetadataOutlet","children":"$@1f"}]}]
+10:["$","$1","h",{"children":[null,["$","$L20",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L21",null,{"children":["$","$1e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"米国土安全保障省で4万1000人超の情報流出"}],["$","meta","1",{"name":"description","content":"米国土安全保障省（DHS）の職員4万1000人超の個人情報が流出したと、米TechCrunchが10月28日（現地時間）に報じた。税関・国境警備局（CBP）の職員や移民・税関捜査局（ICE）の捜査官、政府のサイバーセキュリティー業務を担う職員らの情報が含まれるという。データを公開した団体は、政治的な主張を掲げるハッカー集団がDHSの認証システムに侵入し、情報を盗み出したと説明している。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"米国土安全保障省で4万1000人超の情報流出"}],["$","meta","4",{"property":"og:description","content":"米国土安全保障省（DHS）の職員4万1000人超の個人情報が流出したと、米TechCrunchが10月28日（現地時間）に報じた。税関・国境警備局（CBP）の職員や移民・税関捜査局（ICE）の捜査官、政府のサイバーセキュリティー業務を担う職員らの情報が含まれるという。データを公開した団体は、政治的な主張を掲げるハッカー集団がDHSの認証システムに侵入し、情報を盗み出したと説明している。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/51bd334c51bd334cbcae158e/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"米国土安全保障省で4万1000人超の情報流出"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"米国土安全保障省で4万1000人超の情報流出"}],["$","meta","14",{"name":"twitter:description","content":"米国土安全保障省（DHS）の職員4万1000人超の個人情報が流出したと、米TechCrunchが10月28日（現地時間）に報じた。税関・国境警備局（CBP）の職員や移民・税関捜査局（ICE）の捜査官、政府のサイバーセキュリティー業務を担う職員らの情報が含まれるという。データを公開した団体は、政治的な主張を掲げるハッカー集団がDHSの認証システムに侵入し、情報を盗み出したと説明している。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L22","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+12:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+15:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+18:true
+1f:null
+f:300
+f:C
+17:0
+11:"$undefined"
+13:"$undefined"
+16:"$undefined"
+e:"$undefined"

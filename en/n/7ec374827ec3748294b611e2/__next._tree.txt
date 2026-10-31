@@ -1,0 +1,5 @@
+:HL["/kasawa-news/_next/static/chunks/05wjkgi4s2ouj.css","style"]
+:HL["/kasawa-news/_next/static/chunks/13j-0ia4l16p6.css","style"]
+:HL["/kasawa-news/_next/static/media/ad9c66e761fed85a-s.p.0fhiaplbf_4wa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://i.cbc.ca/ais/055b9e2b-278f-449c-a679-7c9fe649b91c,1792173290336/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C154%2C1169%2C657%29%3B","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4184,"slots":{"children":{"name":"locale","param":{"type":"d","key":"en","siblings":["go"]},"prefetchHints":4196,"slots":{"children":{"name":"n","param":null,"prefetchHints":4192,"slots":{"children":{"name":"id","param":{"type":"d","key":"7ec374827ec3748294b611e2","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"Ca8Pnit0pzgQeTMdKJlCo"}

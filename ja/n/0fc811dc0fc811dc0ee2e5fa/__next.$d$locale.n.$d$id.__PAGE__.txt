@@ -1,0 +1,76 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3ae0/live/865a2400-d343-11f1-ad8b-790d6224b426.jpg","image"]
+c:X
+11:X
+11:C
+0:{"buildId":"Ca8Pnit0pzgQeTMdKJlCo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-29","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"サンリオ、「VIVANT」とのコラボを中止 中国でドラマへの批判が強まり"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"一昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3ae0/live/865a2400-d343-11f1-ad8b-790d6224b426.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"中国・上海にあるハローキティの大きな装飾。今回の件でサンリオは、コラボレーション企画の確認体制を今後強化するとしている"}],["$","p","1",{"children":"紫色の店舗の壁に、水色のリボンを両手で持ったハローキティの装飾がついている。近くを女性2人と女の子が歩いている"}],["$","p","2",{"children":"世界的な人気キャラクター、ハローキティを展開する日本のサンリオは29日、同国の人気テレビドラマ「VIVANT」（ヴィヴァン）とのコラボレーションを中止すると発表し、謝罪した。「VIVANT」では、自衛隊直轄の非公認組織「別班」の諜報員に中国人工作員が残忍な拷問を加える描写があり、中国の国営メディアやソーシャルメディア・ユーザーが広くこれを非難している。"}],["$","p","3",{"children":"批判の矛先は、世界的に親しまれているハローキティやマイメロディ、シナモロールなどのキャラクターにも向けられている。「VIVANT」とのコラボでは、ドラマの登場人物の衣装を身に着けたこれらのキャラクターの商品が展開された。"}],["$","p","4",{"children":"サンリオは29日に声明を発表し、「VIVANT」とのコラボに関連したコンテンツに「サンリオの企業理念にそぐわない表現が含まれている」と判断し、コラボを打ち切るとした。"}],["$","p","5",{"children":"また、「サンリオは創業以来、キャラクターを通じて『思いやり』や『つながり』といった価値観を大切にしながら、『みんななかよく』の企業理念の実現に向けて事業を展開してまいりました」と説明。"}],["$","p","6",{"children":"「今回の件を踏まえ、いただいているさまざまなご意見を真摯（しんし）に受け止め、今後のコラボレーション企画については、確認体制を一層強化してまいります」とした。"}],["$","p","7",{"children":"中国と日本の関係は、高市早苗首相が昨年11月に、中国が台湾を攻撃した場合に日本は自衛隊で対応できると述べ、外交問題に発展して以降、ここ数年で最悪の水準にまで悪化している。"}],["$","p","8",{"children":"中国政府はその後、レアアース（希土類）の輸出制限や、自国民に対する日本への渡航自粛要請、日本に貸与していたジャイアントパンダの返還要求など、日本政府への圧力を強めている。"}],["$","p","9",{"children":"高市首相は今月初めに国会で、「VIVANT」を録画しており、年末年始に見たいと述べている。"}],["$","p","10",{"children":"中国国営紙「環球時報」は28日、サンリオを名指しで批判し、世界的に人気なハローキティは「日本の右翼と一緒に踊るべきではない」と論評。"}],["$","p","11",{"children":"サンリオが「反中国的なコンテンツ」と提携すれば、「短期的な売り上げ以上に多くのものを失うことになる」と主張した。そして、「長い時間をかけて築いてきた信頼や感情的な結びつきも損なわれるだろう」とした。"}],["$","p","12",{"children":"ハローキティは「VIVANT」とのコラボをめぐり、中国の国営メディアやソーシャルメディアで批判されている"}],["$","p","13",{"children":"ピンク色の壁に、大きなハローキティの装飾がされた店内で、多くの人が商品を見ている"}],["$","p","14",{"children":"「VIVANT」は、日本企業に勤める、自衛隊直轄の非公認組織「別班」の諜報員が、国際的な犯罪や諜報活動に立ち向かう様子を描くドラマ。"}],["$","p","15",{"children":"2023年に放送された第1シーズンは、中央アジアの架空の国を舞台に話が展開された。2026年7月に放送が開始された第2シーズンでは、中国人工作員が日本の諜報員の指を切り落とし、腹部を刺す拷問場面が登場する。"}],["$","p","16",{"children":"中国中央テレビなどの国営メディアは、こうした拷問の手法について、旧日本軍がかつて中国人に対して用いていた手法と「非常に類似している」とし、このドラマが「真実をゆがめている」と主張した。"}],["$","p","17",{"children":"「VIVANT」を放送するTBSの龍宝正峰社長は28日、作品は完全なフィクションで、「特定の国をおとしめる」意図はないと説明した。"}],["$","p","18",{"children":"中国国内ではここ数日、ハローキティのほかにも、世界的に著名な存在が批判の対象になっている。"}],["$","p","19",{"children":"中国の複数のブランドは今週、サッカーのフランス代表のキリアン・エムバペ選手との契約を打ち切った。同選手が、中国建国の父、毛沢東を揶揄（やゆ）したとされる動画が浮上したためで、本人は後に謝罪した。"}],["$","p","20",{"children":"（英語記事 Hello Kitty maker cuts ties with Japanese spy drama after China backlash）"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/cmzxlr4zglqwo","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/0fc811dc0fc811dc0ee2e5fa","title":"サンリオ、「VIVANT」とのコラボを中止 中国でドラマへの批判が強まり","locale":"ja","take":null}],"$L4","$L5"]}],"$L6",null,"$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":"$@b","staleTime":"$c","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$c","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$c","varyParams":"$11"},{"rsc":"$L12","isPartial":"$@13","staleTime":"$c","varyParams":"$11"}],"isUpgradeableISRFallback":false,"a":"$@14","rootVaryParams":null,"needsRuntimeRequest":"$@15"}
+16:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+18:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+19:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1a:"$Sreact.suspense"
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1e:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1f:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+20:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+17:T12a2,中国・上海にあるハローキティの大きな装飾。今回の件でサンリオは、コラボレーション企画の確認体制を今後強化するとしている
+
+紫色の店舗の壁に、水色のリボンを両手で持ったハローキティの装飾がついている。近くを女性2人と女の子が歩いている
+
+世界的な人気キャラクター、ハローキティを展開する日本のサンリオは29日、同国の人気テレビドラマ「VIVANT」（ヴィヴァン）とのコラボレーションを中止すると発表し、謝罪した。「VIVANT」では、自衛隊直轄の非公認組織「別班」の諜報員に中国人工作員が残忍な拷問を加える描写があり、中国の国営メディアやソーシャルメディア・ユーザーが広くこれを非難している。
+
+批判の矛先は、世界的に親しまれているハローキティやマイメロディ、シナモロールなどのキャラクターにも向けられている。「VIVANT」とのコラボでは、ドラマの登場人物の衣装を身に着けたこれらのキャラクターの商品が展開された。
+
+サンリオは29日に声明を発表し、「VIVANT」とのコラボに関連したコンテンツに「サンリオの企業理念にそぐわない表現が含まれている」と判断し、コラボを打ち切るとした。
+
+また、「サンリオは創業以来、キャラクターを通じて『思いやり』や『つながり』といった価値観を大切にしながら、『みんななかよく』の企業理念の実現に向けて事業を展開してまいりました」と説明。
+
+「今回の件を踏まえ、いただいているさまざまなご意見を真摯（しんし）に受け止め、今後のコラボレーション企画については、確認体制を一層強化してまいります」とした。
+
+中国と日本の関係は、高市早苗首相が昨年11月に、中国が台湾を攻撃した場合に日本は自衛隊で対応できると述べ、外交問題に発展して以降、ここ数年で最悪の水準にまで悪化している。
+
+中国政府はその後、レアアース（希土類）の輸出制限や、自国民に対する日本への渡航自粛要請、日本に貸与していたジャイアントパンダの返還要求など、日本政府への圧力を強めている。
+
+高市首相は今月初めに国会で、「VIVANT」を録画しており、年末年始に見たいと述べている。
+
+中国国営紙「環球時報」は28日、サンリオを名指しで批判し、世界的に人気なハローキティは「日本の右翼と一緒に踊るべきではない」と論評。
+
+サンリオが「反中国的なコンテンツ」と提携すれば、「短期的な売り上げ以上に多くのものを失うことになる」と主張した。そして、「長い時間をかけて築いてきた信頼や感情的な結びつきも損なわれるだろう」とした。
+
+ハローキティは「VIVANT」とのコラボをめぐり、中国の国営メディアやソーシャルメディアで批判されている
+
+ピンク色の壁に、大きなハローキティの装飾がされた店内で、多くの人が商品を見ている
+
+「VIVANT」は、日本企業に勤める、自衛隊直轄の非公認組織「別班」の諜報員が、国際的な犯罪や諜報活動に立ち向かう様子を描くドラマ。
+
+2023年に放送された第1シーズンは、中央アジアの架空の国を舞台に話が展開された。2026年7月に放送が開始された第2シーズンでは、中国人工作員が日本の諜報員の指を切り落とし、腹部を刺す拷問場面が登場する。
+
+中国中央テレビなどの国営メディアは、こうした拷問の手法について、旧日本軍がかつて中国人に対して用いていた手法と「非常に類似している」とし、このドラマが「真実をゆがめている」と主張した。
+
+「VIVANT」を放送するTBSの龍宝正峰社長は28日、作品は完全なフィクションで、「特定の国をおとしめる」意図はないと説明した。
+
+中国国内ではここ数日、ハローキティのほかにも、世界的に著名な存在が批判の対象になっている。
+
+中国の複数のブランドは今週、サッカーのフランス代表のキリアン・エムバペ選手との契約を打ち切った。同選手が、中国建国の父、毛沢東を揶揄（やゆ）したとされる動画が浮上したためで、本人は後に謝罪した。
+
+（英語記事 Hello Kitty maker cuts ties with Japanese spy drama after China backlash）4:["$","$L16",null,{"title":"サンリオ、「VIVANT」とのコラボを中止 中国でドラマへの批判が強まり","excerpt":"$17","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/0fc811dc0fc811dc0ee2e5fa","locale":"ja"}]
+5:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%82%B5%E3%83%B3%E3%83%AA%E3%82%AA%E3%80%81%E3%81%A8%E3%81%AE%E3%82%B3%E3%83%A9%E3%83%9C%E3%82%92%E4%B8%AD%E6%AD%A2+%E4%B8%AD%E5%9B%BD%E3%81%A7%E3%83%89%E3%83%A9%E3%83%9E%E3%81%B8%E3%81%AE%E6%89%B9%E5%88%A4%E3%81%8C%E5%BC%B7%E3%81%BE%E3%82%8A&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+6:["$","$L18",null,{"placement":"article","className":"mt-8"}]
+7:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+8:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-latam:https://bbc.co.uk/news/articles/c3x2w4109pj8o",{"children":["$","$L2",null,{"href":"/ja/n/94c8498994c849899f6ad7a9","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Flávio Bolsonaro calls himself 'leader of Brazil' after election loss"}]]}]}],["$","li","npr-world:https://npr.org/2026/10/29/g-s1-150319/agatha-christie-baghdad-home",{"children":["$","$L2",null,{"href":"/ja/n/e625ac8ae625ac8a76661bda","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NPR"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Greetings from Baghdad, where Agatha Christie's old home presents its own mystery"}]]}]}],["$","li","bbc-uk:https://bbc.co.uk/news/videos/ckg5j49v7lp8o",{"children":["$","$L2",null,{"href":"/ja/n/96d7b08c96d7b08c26e05d62","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Watch: Passenger fights off knife attacker with frying pan"}]]}]}]]}]]}]
+9:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+a:["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
+d:["$","$1","h",{"children":[null,["$","$L1c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1d",null,{"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"サンリオ、「VIVANT」とのコラボを中止 中国でドラマへの批判が強まり"}],["$","meta","1",{"name":"description","content":"中国・上海にあるハローキティの大きな装飾。今回の件でサンリオは、コラボレーション企画の確認体制を今後強化するとしている"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"サンリオ、「VIVANT」とのコラボを中止 中国でドラマへの批判が強まり"}],["$","meta","4",{"property":"og:description","content":"中国・上海にあるハローキティの大きな装飾。今回の件でサンリオは、コラボレーション企画の確認体制を今後強化するとしている"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/0fc811dc0fc811dc0ee2e5fa/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F3ae0%2Flive%2F865a2400-d343-11f1-ad8b-790d6224b426.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"サンリオ、「VIVANT」とのコラボを中止 中国でドラマへの批判が強まり"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"サンリオ、「VIVANT」とのコラボを中止 中国でドラマへの批判が強まり"}],["$","meta","14",{"name":"twitter:description","content":"中国・上海にあるハローキティの大きな装飾。今回の件でサンリオは、コラボレーション企画の確認体制を今後強化するとしている"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F3ae0%2Flive%2F865a2400-d343-11f1-ad8b-790d6224b426.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1e","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+12:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+15:true
+1b:null
+c:300
+c:C
+14:0
+e:"$undefined"
+10:"$undefined"
+13:"$undefined"
+b:"$undefined"

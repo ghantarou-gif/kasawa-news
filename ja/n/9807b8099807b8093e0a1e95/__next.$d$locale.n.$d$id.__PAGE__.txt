@@ -1,0 +1,87 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://image.news.livedoor.com/newsimage/stf/2/0/20e31502fd7a493cf2718bdd5028d7b6.png","image"]
+c:X
+11:X
+11:C
+0:{"buildId":"Ca8Pnit0pzgQeTMdKJlCo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-30","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"ライブドアニュース"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"40代の「痛み我慢」適切なケアを"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://image.news.livedoor.com/newsimage/stf/2/0/20e31502fd7a493cf2718bdd5028d7b6.png","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"「健康のために走っている」--そう話す40代男性ランナーの多くが、足や膝などの痛みを抱えながら走り続けているようです。"}],["$","p","1",{"children":"マグネループやエレキバンでおなじみのピップが、月1回以上ジョギング・ランニングを行う40代男性150名を対象に「ランニングに関する調査」を実施。その結果、75%が痛みや違和感を経験し、そのうち91%が「痛みを我慢したことがある」と回答しました。"}],["$","p","2",{"children":"本人が「大したことない」と思い込むことで見過ごされる“痛み我慢”。調査結果からその実態が浮かび上がりました。"}],["$","p","3",{"children":"もはや常識？40代男性の3人に1人がランニング 目的は「健康のため」"}],["$","p","4",{"children":"仕事や家事・子育てに忙しい40代。その一方で、40代男性の35%が月に1回以上ジョギング・ランニングを行っているようです（n=3,861）。ランニングは、いまや働き盛り世代にとって身近な習慣となっていることが窺えます。"}],["$","p","5",{"children":"調査の中で、走る目的として最も多かったのは「健康のため」。他には、「気分転換・リフレッシュのため」「目的達成のため」が挙げられました。ジムに行くよりも、ランニングは好きな時間にでき、かかるコストもウェアくらい。忙しいビジネスマンにとって、手軽な健康維持の手段になっているようです。"}],["$","p","6",{"children":"また、40代男性ランナー150名のうち92%が「自分は同世代の人に比べて健康（元気）な方だ」と回答しました。いわゆる“市民ランナー”としての自負が窺え、健康維持に対してもかなりの自信があるようです。"}],["$","p","7",{"children":"ところが、その“元気”の裏側で、体は小さな悲鳴を上げていることもわかりました。"}],["$","p","8",{"children":"調査によると、ジョギング・ランニング中に痛みや違和感を感じたことがある40代男性ランナーは、75%。4人中3人にのぼります。"}],["$","p","9",{"children":"さらに驚くべきことに、痛みを感じた人の91%が、その痛みを「我慢したことがある」と答えました。ほとんどの人が、痛みに気づきながらも「我慢」しているようです。一体、なぜでしょうか。"}],["$","p","10",{"children":"理由には、「大したことではないと思った」「我慢できる程度の痛みだと思った」「痛みは仕方のないものだと思っている」といった声が並んでいます。小さな痛みであるがゆえに、見過ごしがちなようです。痛みはランニングに付き物と思っているふしも……。"}],["$","p","11",{"children":"「自分は元気」と思っているランナーほど、痛みを“不調のサイン”ではなく“頑張っている証拠”と捉え、我慢が常態化しやすいのかもしれません。"}],["$","p","12",{"children":"痛みを感じていながらも、「これくらいなら平気」と自分で打ち消してしまう。こうして自覚が薄いまま積み重なっていく“痛み我慢”。"}],["$","p","13",{"children":"言うまでもなく、痛みや違和感の我慢は、ランナーにとって重大な問題です。痛みを感じたときは耐えて走るのではなく、練習を休止し、適切なケアを行うことが大切です。"}],["$","p","14",{"children":"その選択肢のひとつが、筋肉や関節を保護するサポーターやテーピングなどのスポーツケア用品の活用。「ケア用品は故障した人のもの」と思われがちですが、痛みを我慢しながら走っている人こそ、早めに取り入れたいアイテムなんです。"}],["$","p","15",{"children":"ピップのスポーツケア用品ブランド「プロ・フィッツ」は、スポーツケア用品を用いた正しいケア方法を紹介しています。"}],["$","p","16",{"children":"さらに、スポーツ時に痛みの不安を感じやすい“足首”用が、9月14日から「プロ・フィッツ ＜ピップ＞スポーツサポーター 加圧タイプ」のラインアップに加わりました。"}],["$","p","17",{"children":"「プロ・フィッツ スポーツサポーター 加圧タイプ 足首用」は、ダブルベルト・シングルベルトで2段階に強力固定し、独自のテーピング構造により足首の内側へのひねりを抑えてくれます。"}],["$","p","18",{"children":"伸縮フィット生地は激しい動きでもズレにくく、ごわつかないので上から靴下やシューズを履けることもポイントです。"}],["$","p","19",{"children":"さらに、スポーツケアブランド「プロ・フィッツ」には「キネシオロジーテープ」も。"}],["$","p","20",{"children":"通気性が高くムレにくい「プロ・フィッツ キネシオロジーテープ快適通気」は、指用、肩・腕・手首用、足・ひざ・ふくらはぎ用、腰・太もも用の4商品を展開。"}],["$","p","21",{"children":"「プロ・フィッツ キネシオロジーテープ」には他にも、「手で切れる快適通気」「はがれにくい しっかり粘着」「テープどうしがくっつくテーピング」があり、目的や部位の状態に応じて多様な使い方ができます。"}],["$","p","22",{"children":"身体の部位やスポーツから動画を探せるので、どのテープを使えばいいかわからないという方にも見ていただきたい動画になっています。"}],["$","p","23",{"children":"長く健康的に走り続けるために、小さな痛みになる前の違和感を放置せず、早めにこうしたアイテムでケアする習慣を明日から始めてみてはいかがでしょうか。"}],["$","p","24",{"children":"プロ・フィッツは他にも、ランニング中のふくらはぎの筋肉のブレを抑制する「プロ・フィッツ メディカルスポーツゲイター」（一般医療機器）や、貼れば最大磁力※ 200mTの磁気で血行を改善する「プロ・フィッツ リカバリーテープ」（管理医療機器）も展開しており、スポーツ時のコンディショニングをサポートしています。"}],["$","p","25",{"children":"「プロ・フィッツ」のブランドサイトでは、これらのスポーツケア用品を用いた正しいケア方法も紹介しています。"}]],"$L3"]}],"$L4","$L5","$L6",null,"$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":"$@b","staleTime":"$c","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$c","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$c","varyParams":"$11"},{"rsc":"$L12","isPartial":"$@13","staleTime":"$c","varyParams":"$11"}],"isUpgradeableISRFallback":false,"a":"$@14","rootVaryParams":null,"needsRuntimeRequest":"$@15"}
+16:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+17:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+19:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+1a:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1e:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1f:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+20:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+21:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p",null,{"className":"article-credit","children":"本文の著作権はライブドアニュースにあります。"}]
+4:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.livedoor.com/article/detail/32570955/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はライブドアニュースで読む"}]}]
+18:T17d8,「健康のために走っている」--そう話す40代男性ランナーの多くが、足や膝などの痛みを抱えながら走り続けているようです。
+
+マグネループやエレキバンでおなじみのピップが、月1回以上ジョギング・ランニングを行う40代男性150名を対象に「ランニングに関する調査」を実施。その結果、75%が痛みや違和感を経験し、そのうち91%が「痛みを我慢したことがある」と回答しました。
+
+本人が「大したことない」と思い込むことで見過ごされる“痛み我慢”。調査結果からその実態が浮かび上がりました。
+
+もはや常識？40代男性の3人に1人がランニング 目的は「健康のため」
+
+仕事や家事・子育てに忙しい40代。その一方で、40代男性の35%が月に1回以上ジョギング・ランニングを行っているようです（n=3,861）。ランニングは、いまや働き盛り世代にとって身近な習慣となっていることが窺えます。
+
+調査の中で、走る目的として最も多かったのは「健康のため」。他には、「気分転換・リフレッシュのため」「目的達成のため」が挙げられました。ジムに行くよりも、ランニングは好きな時間にでき、かかるコストもウェアくらい。忙しいビジネスマンにとって、手軽な健康維持の手段になっているようです。
+
+また、40代男性ランナー150名のうち92%が「自分は同世代の人に比べて健康（元気）な方だ」と回答しました。いわゆる“市民ランナー”としての自負が窺え、健康維持に対してもかなりの自信があるようです。
+
+ところが、その“元気”の裏側で、体は小さな悲鳴を上げていることもわかりました。
+
+調査によると、ジョギング・ランニング中に痛みや違和感を感じたことがある40代男性ランナーは、75%。4人中3人にのぼります。
+
+さらに驚くべきことに、痛みを感じた人の91%が、その痛みを「我慢したことがある」と答えました。ほとんどの人が、痛みに気づきながらも「我慢」しているようです。一体、なぜでしょうか。
+
+理由には、「大したことではないと思った」「我慢できる程度の痛みだと思った」「痛みは仕方のないものだと思っている」といった声が並んでいます。小さな痛みであるがゆえに、見過ごしがちなようです。痛みはランニングに付き物と思っているふしも……。
+
+「自分は元気」と思っているランナーほど、痛みを“不調のサイン”ではなく“頑張っている証拠”と捉え、我慢が常態化しやすいのかもしれません。
+
+痛みを感じていながらも、「これくらいなら平気」と自分で打ち消してしまう。こうして自覚が薄いまま積み重なっていく“痛み我慢”。
+
+言うまでもなく、痛みや違和感の我慢は、ランナーにとって重大な問題です。痛みを感じたときは耐えて走るのではなく、練習を休止し、適切なケアを行うことが大切です。
+
+その選択肢のひとつが、筋肉や関節を保護するサポーターやテーピングなどのスポーツケア用品の活用。「ケア用品は故障した人のもの」と思われがちですが、痛みを我慢しながら走っている人こそ、早めに取り入れたいアイテムなんです。
+
+ピップのスポーツケア用品ブランド「プロ・フィッツ」は、スポーツケア用品を用いた正しいケア方法を紹介しています。
+
+さらに、スポーツ時に痛みの不安を感じやすい“足首”用が、9月14日から「プロ・フィッツ ＜ピップ＞スポーツサポーター 加圧タイプ」のラインアップに加わりました。
+
+「プロ・フィッツ スポーツサポーター 加圧タイプ 足首用」は、ダブルベルト・シングルベルトで2段階に強力固定し、独自のテーピング構造により足首の内側へのひねりを抑えてくれます。
+
+伸縮フィット生地は激しい動きでもズレにくく、ごわつかないので上から靴下やシューズを履けることもポイントです。
+
+さらに、スポーツケアブランド「プロ・フィッツ」には「キネシオロジーテープ」も。
+
+通気性が高くムレにくい「プロ・フィッツ キネシオロジーテープ快適通気」は、指用、肩・腕・手首用、足・ひざ・ふくらはぎ用、腰・太もも用の4商品を展開。
+
+「プロ・フィッツ キネシオロジーテープ」には他にも、「手で切れる快適通気」「はがれにくい しっかり粘着」「テープどうしがくっつくテーピング」があり、目的や部位の状態に応じて多様な使い方ができます。
+
+身体の部位やスポーツから動画を探せるので、どのテープを使えばいいかわからないという方にも見ていただきたい動画になっています。
+
+長く健康的に走り続けるために、小さな痛みになる前の違和感を放置せず、早めにこうしたアイテムでケアする習慣を明日から始めてみてはいかがでしょうか。
+
+プロ・フィッツは他にも、ランニング中のふくらはぎの筋肉のブレを抑制する「プロ・フィッツ メディカルスポーツゲイター」（一般医療機器）や、貼れば最大磁力※ 200mTの磁気で血行を改善する「プロ・フィッツ リカバリーテープ」（管理医療機器）も展開しており、スポーツ時のコンディショニングをサポートしています。
+
+「プロ・フィッツ」のブランドサイトでは、これらのスポーツケア用品を用いた正しいケア方法も紹介しています。5:["$","section",null,{"className":"article-actions","children":[["$","$L16",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/9807b8099807b8093e0a1e95","title":"40代の「痛み我慢」適切なケアを","locale":"ja","take":null}],["$","$L17",null,{"title":"40代の「痛み我慢」適切なケアを","excerpt":"$18","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/9807b8099807b8093e0a1e95","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=40%E4%BB%A3%E3%81%AE%E9%81%A9%E5%88%87%E3%81%AA%E3%82%B1%E3%82%A2%E3%82%92&mode=phrase&url=news.livedoor.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+6:["$","$L19",null,{"placement":"article","className":"mt-8"}]
+7:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+8:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-sport:https://bbc.co.uk/sport/rugby-league/articles/cqp9gv3mr8myo",{"children":["$","$L2",null,{"href":"/ja/n/f5a55db8f5a55db8847f0ddc","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Set up to fail? Where England's World Cup campaign went wrong"}]]}]}],["$","li","bbc-world:https://bbc.co.uk/news/articles/ckwyq2509p7xo",{"children":["$","$L2",null,{"href":"/ja/n/32f209a332f209a3689167eb","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Pope Leo XIV becomes first pontiff to vote in a US election"}]]}]}],["$","li","bbc-health:https://bbc.co.uk/news/videos/c6wyd2l9gvy9o",{"children":["$","$L2",null,{"href":"/ja/n/e45cd41fe45cd41f721b845f","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"I gave birth in ambulance on A96 amid staff shortages at local hospital"}]]}]}]]}]]}]
+9:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+a:["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]
+d:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1e",null,{"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"40代の「痛み我慢」適切なケアを"}],["$","meta","1",{"name":"description","content":"「健康のために走っている」--そう話す40代男性ランナーの多くが、足や膝などの痛みを抱えながら走り続けているようです。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"40代の「痛み我慢」適切なケアを"}],["$","meta","4",{"property":"og:description","content":"「健康のために走っている」--そう話す40代男性ランナーの多くが、足や膝などの痛みを抱えながら走り続けているようです。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/9807b8099807b8093e0a1e95/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fimage.news.livedoor.com%2Fnewsimage%2Fstf%2F2%2F0%2F20e31502fd7a493cf2718bdd5028d7b6.png&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"40代の「痛み我慢」適切なケアを"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"40代の「痛み我慢」適切なケアを"}],["$","meta","14",{"name":"twitter:description","content":"「健康のために走っている」--そう話す40代男性ランナーの多くが、足や膝などの痛みを抱えながら走り続けているようです。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fimage.news.livedoor.com%2Fnewsimage%2Fstf%2F2%2F0%2F20e31502fd7a493cf2718bdd5028d7b6.png&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1f","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
+12:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
+15:true
+1c:null
+c:300
+c:C
+14:0
+e:"$undefined"
+10:"$undefined"
+13:"$undefined"
+b:"$undefined"

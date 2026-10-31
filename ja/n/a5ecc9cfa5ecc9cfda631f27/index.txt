@@ -1,0 +1,148 @@
+1:"$Sreact.fragment"
+2:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+4:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"LoadingBoundaryProvider"]
+7:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+f:I[68027,[],"default",1]
+:HL["/kasawa-news/_next/static/chunks/05wjkgi4s2ouj.css","style"]
+:HL["/kasawa-news/_next/static/chunks/13j-0ia4l16p6.css","style"]
+:HL["/kasawa-news/_next/static/media/ad9c66e761fed85a-s.p.0fhiaplbf_4wa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+a:X
+0:{"P":null,"c":["","ja","n","a5ecc9cfa5ecc9cfda631f27",""],"q":"","i":false,"f":[[["",{"children":[["locale","ja","d",["go"]],{"children":["n",{"children":[["id","a5ecc9cfa5ecc9cfda631f27","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4612]},"$undefined","$undefined",4632],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/05wjkgi4s2ouj.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/13j-0ia4l16p6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ja","suppressHydrationWarning":true,"className":"noto_sans_jp_ce83c864-module__rNYPaW__variable h-full antialiased","children":[["$","head",null,{"children":["$","script",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9222859203841922","crossOrigin":"anonymous"}]}],["$","body",null,{"className":"site-body min-h-full bg-paper text-ink","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":[["$","$L4",null,{"loading":[["$","div","l",{"className":"py-16","children":[["$","div",null,{"className":"h-3 w-24 bg-ink/10"}],["$","div",null,{"className":"mt-4 h-16 w-4/5 bg-ink/10"}],["$","div",null,{"className":"mt-6 h-4 w-full bg-ink/10"}],["$","div",null,{"className":"mt-2 h-4 w-2/3 bg-ink/10"}],["$","div",null,{"className":"mt-12 space-y-6","children":[["$","div",null,{"className":"h-10 bg-ink/10"}],["$","div",null,{"className":"h-10 bg-ink/10"}],["$","div",null,{"className":"h-10 w-5/6 bg-ink/10"}]]}]]}],[],null],"children":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","async":true,"nonce":"$undefined"}]],"$L5"]}]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$a"]},null,false,"$a"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/05wjkgi4s2ouj.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/13j-0ia4l16p6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ca8Pnit0pzgQeTMdKJlCo"}
+10:I[50155,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js"],"HtmlLang"]
+11:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+12:I[86168,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js"],"LanguageSwitch"]
+a:C
+5:["$","div",null,{"className":"flex min-h-full flex-col","children":[["$","$L10",null,{"locale":"ja"}],["$","header",null,{"className":"desk-hero","children":["$","div",null,{"className":"site-shell mx-auto flex w-full max-w-6xl flex-col gap-4 px-4 py-6 sm:px-6 sm:py-7","children":[["$","div",null,{"className":"flex min-w-0 items-start gap-3","children":[["$","span",null,{"className":"brand-mark mt-1 shrink-0","aria-hidden":true,"children":"NC"}],["$","div",null,{"className":"min-w-0","children":[["$","p",null,{"className":"text-[10px] font-bold tracking-[0.2em] text-muted uppercase sm:text-[11px] sm:tracking-[0.24em]","children":"NYANCHU NEWS"}],["$","$L11",null,{"href":"/ja","className":"font-display mt-1 block text-[clamp(1.65rem,8vw,3.2rem)] leading-[1.05] tracking-[-0.03em] hover:opacity-90","children":[["$","span",null,{"className":"text-accent","children":"BREAKING"}]," ",["$","span",null,{"className":"text-ink","children":"NyanChu"}]]}],["$","p",null,{"className":"mt-1 font-sans text-[11px] tracking-[0.14em] text-muted sm:text-[12px] sm:tracking-[0.16em]","children":"ニャンチュ"}]]}]]}],["$","nav",null,{"className":"header-nav","aria-label":"サイト","children":[["$","$L12",null,{"locale":"ja"}],["$","a",null,{"href":"/kasawa-news/search.html","className":"header-nav-link","children":"NyanChu検索する"}],["$","$L11",null,{"href":"/ja/election","className":"header-nav-link","children":"選挙"}],["$","$L11",null,{"href":"/ja/travel","className":"header-nav-link","children":"旅ガイド"}],["$","a",null,{"href":"/kasawa-news/phrasebook.html","className":"header-nav-link","children":"旅の日本語"}],["$","$L11",null,{"href":"/ja/book","className":"header-nav-link","children":"本"}],["$","$L11",null,{"href":"/ja/members/x","className":"header-nav-link","children":"会員"}]]}],["$","p",null,{"className":"max-w-2xl text-[13px] leading-6 text-muted sm:text-[14px]","children":["日付ごとに保存。最新は先頭。ジャンルチップから各日のフィードへ。"," ","2026-10-31 21:55"," ","更新"]}]]}]}],["$","div",null,{"className":"site-shell mx-auto w-full max-w-6xl flex-1 px-4 sm:px-6","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"py-24 text-center","children":[["$","p",null,{"className":"font-display text-5xl tracking-[-0.04em]","children":"404"}],["$","p",null,{"className":"mt-4 text-muted","children":"Page not found. / ページが見つかりません。"}],["$","$L11",null,{"href":"/ja","className":"mt-8 inline-block font-sans text-[12px] tracking-[0.18em] uppercase text-accent","children":"NyanChu"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","div",null,{"className":"site-shell mx-auto w-full max-w-6xl px-4 sm:px-6","children":["$","footer",null,{"className":"mt-16 border-t border-line pt-8 pb-12 text-[13px] leading-6 text-muted","children":[["$","div",null,{"className":"flex flex-wrap items-start justify-between gap-6","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-lg tracking-wide text-ink","children":"NyanChu"}],["$","p",null,{"className":"mt-2 max-w-xl","children":"見出しから、記事の本文へ。"}]]}],["$","nav",null,{"className":"flex flex-wrap gap-x-5 gap-y-2 font-sans text-[12px] tracking-[0.14em] uppercase","children":[["$","$L11",null,{"href":"/ja","className":"hover:text-accent","children":"トップ"}],["$","$L11",null,{"href":"/ja/travel","className":"hover:text-accent","children":"旅ガイド"}],["$","a",null,{"href":"/kasawa-news/phrasebook.html","className":"hover:text-accent","children":"旅の日本語"}],["$","$L11",null,{"href":"/ja/book","className":"hover:text-accent","children":"本"}],["$","$L11",null,{"href":"/ja/members/x","className":"hover:text-accent","children":"会員"}],["$","a",null,{"href":"/kasawa-news/search.html","className":"hover:text-accent","children":"NyanChu検索する"}]]}]]}],["$","p",null,{"className":"mt-6 max-w-3xl","children":"配信に含まれる本文を記事ページに出しています。見出しだけの配信は、発行元ページの要点を表示します。有料記事は入れていません。著作権は各社にあります。"}],["$","p",null,{"className":"mt-4","children":["配信元",": ","BBC日本語 · BBC · NPR · The Guardian · Al Jazeera · Deutsche Welle · France 24 · ABC Australia · CBC · CNA · Euronews · UN News · ITmedia · Gigazine · CNET Japan · マイナビニュース · Yahoo!ニュース · ライブドアニュース · NHKニュース"]}],["$","p",null,{"className":"mt-1","children":["30分ごとに取り込み",["$","span",null,{"className":"mx-2 text-ink/30","children":"/"}],"表は24時間以内"]}]]}]}]]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]
+2e:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2b20/live/a6c115e0-c6dd-11f1-9a39-31b474234113.jpg","image"]
+6:["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L11",null,{"href":"/ja/d/2026-10-31","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"【米中間選挙2026】11月3日にアメリカで中間選挙 勝敗はどこで決まるのか"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"4 時間前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2b20/live/a6c115e0-c6dd-11f1-9a39-31b474234113.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"紫色の棒グラフと、画像上で互いに逆方向に動く2本の赤いトレンドラインで構成された、様式化されたチャートを示すグラフィック。画面右側にはドナルド・トランプの白黒のクローズアップ写真が配置されている。画像の背景は濃い紫色。"}],["$","p","1",{"children":"アメリカ国民は11月3日に投票所へ向かい、ドナルド・トランプ大統領の残りの任期がどのように展開するかを決定する。"}],["$","p","2",{"children":"全米各地でさまざまな公職ポストについて、何千もの選挙が展開している。しかし、有権者が最も注目しているのは、連邦議会の上下両院の選挙だ。"}],["$","p","3",{"children":"現在は、トランプ氏が率いる共和党が両院で多数を占める。トランプ大統領の任期4年間の後半2年間がどうなるか、その成否はこの選挙結果にかかっていると言える。"}],["$","p","4",{"children":"支持率から主要な選挙戦や争点、そして莫大な資金投入に至るまで、権力闘争の勝敗を左右する要素をグラフなどで解説する。"}],["$","p","5",{"children":"野党・民主党は今回の選挙で、連邦議会を奪還する可能性がある。大統領の支持率低迷が、その理由の一つだ。大統領の支持率は、与党・共和党が今回の選挙でどういう結果を出すかを知るための良い指標となる。"}],["$","p","6",{"children":"世論調査情報サイト「シルヴァー・ブレティン」によると、第2次トランプ政権の発足当初、トランプ氏の支持率は50％強だったが、すぐに40％台にまで下がった。"}],["$","p","7",{"children":"第二次政権発足以来、トランプ氏の平均支持率は下がり続け10月30日現在で37.3％。逆に不支持率は上がり続け、同時期で59.9％"}],["$","p","8",{"children":"トランプ大統領が今年2月末にイスラエルと共にイラン空爆開始を決定した時点では、支持率は42％前後で推移していたが、その後まもなく40％を下回った。現在は約37％となっている。"}],["$","p","9",{"children":"8年前の第1次政権のこの時期には、トランプ氏の支持率は43%と、現在よりもかなり高かった。ジョー・バイデン前大統領の支持率は、中間選挙を目前にしたこの時期で40%だった。どちらの場合も、現職大統領は中間選挙で下院の過半数を失ったものの、上院の過半数は維持した。"}],["$","p","10",{"children":"しかし、民主党は現在、下院だけでなく上院も奪還できるかもしれないと期待している。だからこそ民主党は、共和党が近年一貫して勝ってきた州に選挙戦の照準を合わせているのだ。"}],["$","p","11",{"children":"現在の下院の議席を示す図。定数438、過半数218で、民主党は214議席、共和党は219議席（共和党と会派を組む無所属議員1人を含む）。2議席は空席"}],["$","p","12",{"children":"下院（定数435）で与野党の議席数は現在、これ以上僅差になりようがないというほど僅差だ。"}],["$","p","13",{"children":"共和党の議席はちょうど過半数の218議席で、院内採決で共和党と共に投票する無所属議員が1人いる。"}],["$","p","14",{"children":"下院議員の任期は2年で、今回の中間選挙で全435議席が改選される。"}],["$","p","15",{"children":"しかし、ほとんどの選挙区は、その選挙区を支配している政党の支持基盤が強力のため、当選者はあらかじめほとんど決まっている。"}],["$","p","16",{"children":"選挙運動や選挙結果を分析するクック・ポリティカル・レポートによると、どちらの政党にも勝つ可能性がある「激戦区」はわずか18選挙区だけだという。"}],["$","p","17",{"children":"下院選で、民主党は186議席で勝利確実、共和党は164議席で勝利確実。85議席が情勢不透明で、18議席がおそらく民主勝利、18議席が民主寄り、18議席が接戦、17議席が共和寄り、14議席がおそらく共和勝利（10月30日現在）"}],["$","p","18",{"children":"この18選挙区のうち、共和党現職がいる選挙区は14カ所。民主党が現職の選挙区は4カ所だ。しかし、たとえ民主党がこの18選挙区で全勝しなくても、民主党優勢または民主党寄りとされている36議席を獲得すれば、下院の過半数を奪還することになる。"}],["$","p","19",{"children":"接戦が予想される下院の選挙区と、それぞれの現在の政党の一覧。カリフォルニア22区、コロラド5区、アイオワ2区、ケンタッキー6区、ミシガン4区、ミシガン7区、ミシガン10区、モンタナ1区、ニューヨーク17区、オハイオ7ク、ペンシルヴェニア1区、サウスカロライナ1区、テキサス15区、ヴァージニア1区が共和党。フロリダ14区、フロリダ22区、ノースカロライナ1区、テキサス35区が民主党"}],["$","p","20",{"children":"歴史的に見ると、中間選挙では下院で多くの議席が、両党の間で入れ替わる。これは通常、ホワイトハウスへの抗議が原因だ。データを1934年までさかのぼると、大統領の政党は平均27議席を失う。過去23回の選挙のうち、大統領の政党が議席を増やしたのは3回だけだ。"}],["$","p","21",{"children":"共和党は上院（定数100）でやや優勢を保っている。100議席のうち53議席は共和党だ。民主党は45席を持つほか、2人の無所属議員が民主党と共に投票する。"}],["$","p","22",{"children":"上院（定数100）の現在の議席を示す図。民主党は45議席、共和党は53議席。2人が無所属"}],["$","p","23",{"children":"上院議員の任期は6年で、議席の約3割が2年ごとに改選される。"}],["$","p","24",{"children":"11月の選挙では35議席が争われるが、クック・ポリティカル・レポートによると、どちらに転ぶか分からない接戦はわずか7議席に過ぎない。"}],["$","p","25",{"children":"上院（定数100）選で、民主党は34議席が非改選、9議席議席で勝利確実、共和党は31議席が非改選、11議席で勝利確実。15議席が情勢不透明で、2議席がおそらく民主勝利、2議席が民主寄り、7議席が接戦、2議席が共和寄り、2議席がおそらく共和勝利（10月30日現在）"}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27"],"$L28"]}],"$L29","$L2a","$L2b",null,"$L2c","$L2d"]}]
+9:null
+e:[["$","title","0",{"children":"【米中間選挙2026】11月3日にアメリカで中間選挙 勝敗はどこで決まるのか"}],["$","meta","1",{"name":"description","content":"紫色の棒グラフと、画像上で互いに逆方向に動く2本の赤いトレンドラインで構成された、様式化されたチャートを示すグラフィック。画面右側にはドナルド・トランプの白黒のクローズアップ写真が配置されている。画像の背景は濃い紫色。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"【米中間選挙2026】11月3日にアメリカで中間選挙 勝敗はどこで決まるのか"}],["$","meta","4",{"property":"og:description","content":"紫色の棒グラフと、画像上で互いに逆方向に動く2本の赤いトレンドラインで構成された、様式化されたチャートを示すグラフィック。画面右側にはドナルド・トランプの白黒のクローズアップ写真が配置されている。画像の背景は濃い紫色。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/a5ecc9cfa5ecc9cfda631f27/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F2b20%2Flive%2Fa6c115e0-c6dd-11f1-9a39-31b474234113.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"【米中間選挙2026】11月3日にアメリカで中間選挙 勝敗はどこで決まるのか"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"【米中間選挙2026】11月3日にアメリカで中間選挙 勝敗はどこで決まるのか"}],["$","meta","14",{"name":"twitter:description","content":"紫色の棒グラフと、画像上で互いに逆方向に動く2本の赤いトレンドラインで構成された、様式化されたチャートを示すグラフィック。画面右側にはドナルド・トランプの白黒のクローズアップ写真が配置されている。画像の背景は濃い紫色。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F2b20%2Flive%2Fa6c115e0-c6dd-11f1-9a39-31b474234113.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L2e","18",{}]]
+2f:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+30:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+33:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+13:["$","p","26",{"children":"激戦区のうち、現在6議席は共和党が、1議席は民主党が保持している。民主党が上院で過半数の51議席を獲得するには、これらの議席の4議席に加え、民主党が優勢または民主党寄りとされている4議席を獲得する必要がある。"}]
+14:["$","p","27",{"children":"上院選で接戦が予想される州と、それぞれの現在の政党の一覧。アラスカ州、アイオワ州、カンザス州、メイン州、オハイオ州、テキサス州が共和党。ミシガン州が民主党"}]
+15:["$","p","28",{"children":"しかし、民主党が過半数を確保するのは簡単なことではない。"}]
+16:["$","p","29",{"children":"まず、民主党はミシガン州の議席を維持する必要がある。世論調査によると、民主党左派の新人アブドゥル・エル＝サイード氏と、トランプ氏の盟友で元連邦捜査局（FBI）捜査員のマイク・ロジャース氏との争いは、民主党が望む以上に接戦となっている。"}]
+17:["$","p","30",{"children":"加えて民主党は、アラスカ、アイオワ、オハイオ各州を含め、2024年大統領選でトランプ氏が得票率で2けたの差をつけて勝った州でも、議席を獲得しなくてはならない。"}]
+18:["$","p","31",{"children":"しかし、世論調査によると、民主党にチャンスはある。テキサス州では、元教師のジェイムズ・タラリコ民主党候補が、ケン・パクストン州司法長官に勝つ可能性があるからだ。トランプ氏と親しいパクストン氏をタラリコ氏が敗れば、テキサスで1988年以来初めて民主党が上院の議席を得ることになる。"}]
+19:["$","p","32",{"children":"トランプ氏は2024年の大統領選選挙で、自分は「インフレを終わらせ、アメリカを再び住みやすい国にする」と公約した。それにもかかわらず、今回の選挙では生活費の高騰が有権者にとって重要な争点となっている。"}]
+1a:["$","p","33",{"children":"大統領は2月24日の一般教書演説で、「ほとんどの州でガソリン価格が1ガロンあたり2.30ドルを下回った」と誇らしげに宣言した。しかし、その4日後にイランとの戦争が始まり、中東のエネルギー供給が混乱。アメリカではガソリン価格が1ガロンあたり4ドルまで高騰した。"}]
+1b:["$","p","34",{"children":"今年2月末のイラン攻撃開始を機に、アメリカの燃料価格が急騰した様子を示す線グラフ。トランプ氏就任時、ガソリンとディーゼル燃料の価格は共に3ドル台だったが、イラン攻撃開始後、ガソリンは4ドル台に、ディーゼル燃料は6ドル台に上昇した"}]
+1c:["$","p","35",{"children":"イランとの戦争の影響が世界中に波及し、最終的にはアメリカの消費者の家計にも打撃を与えたため、戦争に対する国民の支持はますます低下した。8月に行われた一つの世論調査では、回答者の63％がトランプ大統領の対応を支持していないことが明らかになった。"}]
+1d:["$","p","36",{"children":"有権者はこのほか、医療制度や移民問題などを重視している。"}]
+1e:["$","p","37",{"children":"トランプ氏は最近、移民政策が大きな成功を収めたと力説し、近年と比べて国境を越えて来る人数が大幅に減少したことを挙げている。"}]
+1f:["$","p","38",{"children":"多くの民主党候補は、アメリカの医療保険料の高騰を強調するほか、国民が医療を受けられるかどうかにトランプ政権の法案がどう影響するかに焦点を当てている。"}]
+20:["$","p","39",{"children":"中間選挙についてほとんどの指標は、民主党の優勢を示している。しかし、トランプ氏と共和党は過去にも、世論調査と裏腹の勝利を収めてきただけに、共和党が予想以上の議席を獲得する可能性もある。"}]
+21:["$","p","40",{"children":"10月半ばの時点で、共和党全国委員会とその関連団体は約3億2000万ドルの手元資金を保有していたのに対し、民主党は2億3000万ドル弱だった。"}]
+22:["$","p","41",{"children":"加えて、トランプ氏のMAGA（アメリカを再び偉大に）運動推進のために資金を集めて使う中心的な団体、特別政治活動委員会「MAGA Inc.」には1億6000万ドルがあるため、共和党はこれも使うことができる。"}]
+23:["$","p","42",{"children":"選挙資金において、共和党が大きく民主党を上回っていることを示すグラフ。共和党全国委員会とその関連団体の手元資金は約3億2100万ドル、トランプ氏のMAGA（アメリカを再び偉大に）運動推進のために資金を集めて使う中心的な団体、特別政治活動委員会「MAGA Inc.」には1億6400万ドルの手元資金を保有していたのに対し、民主党全国委員会とその関連団体は2億2700万ドル"}]
+24:["$","p","43",{"children":"調査会社AdImpactによると、9月には10億ドル以上の政治広告がアメリカの有権者に向けて放映された。共和党は民主党より2億ドル多く使い、上院選で接戦州に分類されるほぼすべての州で、共和党の支出は民主党を上回った。"}]
+25:["$","p","44",{"children":"トランプ氏はこの土壇場でのメッセージ攻勢が、共和党支持者を説得して11月に投票所へ向かわせ、投票率を高め、自分と共和党へのダメージを最小限に抑えてほしいと期待しているだろう。"}]
+26:["$","p","45",{"children":"結果がどうなるにしても、国民の関心はすぐに2028年の次期大統領選挙へと移るはずだ。中間選挙ではトランプ氏の不人気が大きな焦点となったが、トランプ氏は憲法上、3期目に立候補できない。そのため、今後は民主党が何に反対しているかだけでなく、何を支持しているかに焦点が移るだろう。"}]
+27:["$","p","46",{"children":"（英語記事 Who will win the midterms? How the US elections will be won and lost）"}]
+28:["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]
+29:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/cmvgxvgrk9w1o","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}]
+31:T2e2f,紫色の棒グラフと、画像上で互いに逆方向に動く2本の赤いトレンドラインで構成された、様式化されたチャートを示すグラフィック。画面右側にはドナルド・トランプの白黒のクローズアップ写真が配置されている。画像の背景は濃い紫色。
+
+アメリカ国民は11月3日に投票所へ向かい、ドナルド・トランプ大統領の残りの任期がどのように展開するかを決定する。
+
+全米各地でさまざまな公職ポストについて、何千もの選挙が展開している。しかし、有権者が最も注目しているのは、連邦議会の上下両院の選挙だ。
+
+現在は、トランプ氏が率いる共和党が両院で多数を占める。トランプ大統領の任期4年間の後半2年間がどうなるか、その成否はこの選挙結果にかかっていると言える。
+
+支持率から主要な選挙戦や争点、そして莫大な資金投入に至るまで、権力闘争の勝敗を左右する要素をグラフなどで解説する。
+
+野党・民主党は今回の選挙で、連邦議会を奪還する可能性がある。大統領の支持率低迷が、その理由の一つだ。大統領の支持率は、与党・共和党が今回の選挙でどういう結果を出すかを知るための良い指標となる。
+
+世論調査情報サイト「シルヴァー・ブレティン」によると、第2次トランプ政権の発足当初、トランプ氏の支持率は50％強だったが、すぐに40％台にまで下がった。
+
+第二次政権発足以来、トランプ氏の平均支持率は下がり続け10月30日現在で37.3％。逆に不支持率は上がり続け、同時期で59.9％
+
+トランプ大統領が今年2月末にイスラエルと共にイラン空爆開始を決定した時点では、支持率は42％前後で推移していたが、その後まもなく40％を下回った。現在は約37％となっている。
+
+8年前の第1次政権のこの時期には、トランプ氏の支持率は43%と、現在よりもかなり高かった。ジョー・バイデン前大統領の支持率は、中間選挙を目前にしたこの時期で40%だった。どちらの場合も、現職大統領は中間選挙で下院の過半数を失ったものの、上院の過半数は維持した。
+
+しかし、民主党は現在、下院だけでなく上院も奪還できるかもしれないと期待している。だからこそ民主党は、共和党が近年一貫して勝ってきた州に選挙戦の照準を合わせているのだ。
+
+現在の下院の議席を示す図。定数438、過半数218で、民主党は214議席、共和党は219議席（共和党と会派を組む無所属議員1人を含む）。2議席は空席
+
+下院（定数435）で与野党の議席数は現在、これ以上僅差になりようがないというほど僅差だ。
+
+共和党の議席はちょうど過半数の218議席で、院内採決で共和党と共に投票する無所属議員が1人いる。
+
+下院議員の任期は2年で、今回の中間選挙で全435議席が改選される。
+
+しかし、ほとんどの選挙区は、その選挙区を支配している政党の支持基盤が強力のため、当選者はあらかじめほとんど決まっている。
+
+選挙運動や選挙結果を分析するクック・ポリティカル・レポートによると、どちらの政党にも勝つ可能性がある「激戦区」はわずか18選挙区だけだという。
+
+下院選で、民主党は186議席で勝利確実、共和党は164議席で勝利確実。85議席が情勢不透明で、18議席がおそらく民主勝利、18議席が民主寄り、18議席が接戦、17議席が共和寄り、14議席がおそらく共和勝利（10月30日現在）
+
+この18選挙区のうち、共和党現職がいる選挙区は14カ所。民主党が現職の選挙区は4カ所だ。しかし、たとえ民主党がこの18選挙区で全勝しなくても、民主党優勢または民主党寄りとされている36議席を獲得すれば、下院の過半数を奪還することになる。
+
+接戦が予想される下院の選挙区と、それぞれの現在の政党の一覧。カリフォルニア22区、コロラド5区、アイオワ2区、ケンタッキー6区、ミシガン4区、ミシガン7区、ミシガン10区、モンタナ1区、ニューヨーク17区、オハイオ7ク、ペンシルヴェニア1区、サウスカロライナ1区、テキサス15区、ヴァージニア1区が共和党。フロリダ14区、フロリダ22区、ノースカロライナ1区、テキサス35区が民主党
+
+歴史的に見ると、中間選挙では下院で多くの議席が、両党の間で入れ替わる。これは通常、ホワイトハウスへの抗議が原因だ。データを1934年までさかのぼると、大統領の政党は平均27議席を失う。過去23回の選挙のうち、大統領の政党が議席を増やしたのは3回だけだ。
+
+共和党は上院（定数100）でやや優勢を保っている。100議席のうち53議席は共和党だ。民主党は45席を持つほか、2人の無所属議員が民主党と共に投票する。
+
+上院（定数100）の現在の議席を示す図。民主党は45議席、共和党は53議席。2人が無所属
+
+上院議員の任期は6年で、議席の約3割が2年ごとに改選される。
+
+11月の選挙では35議席が争われるが、クック・ポリティカル・レポートによると、どちらに転ぶか分からない接戦はわずか7議席に過ぎない。
+
+上院（定数100）選で、民主党は34議席が非改選、9議席議席で勝利確実、共和党は31議席が非改選、11議席で勝利確実。15議席が情勢不透明で、2議席がおそらく民主勝利、2議席が民主寄り、7議席が接戦、2議席が共和寄り、2議席がおそらく共和勝利（10月30日現在）
+
+激戦区のうち、現在6議席は共和党が、1議席は民主党が保持している。民主党が上院で過半数の51議席を獲得するには、これらの議席の4議席に加え、民主党が優勢または民主党寄りとされている4議席を獲得する必要がある。
+
+上院選で接戦が予想される州と、それぞれの現在の政党の一覧。アラスカ州、アイオワ州、カンザス州、メイン州、オハイオ州、テキサス州が共和党。ミシガン州が民主党
+
+しかし、民主党が過半数を確保するのは簡単なことではない。
+
+まず、民主党はミシガン州の議席を維持する必要がある。世論調査によると、民主党左派の新人アブドゥル・エル＝サイード氏と、トランプ氏の盟友で元連邦捜査局（FBI）捜査員のマイク・ロジャース氏との争いは、民主党が望む以上に接戦となっている。
+
+加えて民主党は、アラスカ、アイオワ、オハイオ各州を含め、2024年大統領選でトランプ氏が得票率で2けたの差をつけて勝った州でも、議席を獲得しなくてはならない。
+
+しかし、世論調査によると、民主党にチャンスはある。テキサス州では、元教師のジェイムズ・タラリコ民主党候補が、ケン・パクストン州司法長官に勝つ可能性があるからだ。トランプ氏と親しいパクストン氏をタラリコ氏が敗れば、テキサスで1988年以来初めて民主党が上院の議席を得ることになる。
+
+トランプ氏は2024年の大統領選選挙で、自分は「インフレを終わらせ、アメリカを再び住みやすい国にする」と公約した。それにもかかわらず、今回の選挙では生活費の高騰が有権者にとって重要な争点となっている。
+
+大統領は2月24日の一般教書演説で、「ほとんどの州でガソリン価格が1ガロンあたり2.30ドルを下回った」と誇らしげに宣言した。しかし、その4日後にイランとの戦争が始まり、中東のエネルギー供給が混乱。アメリカではガソリン価格が1ガロンあたり4ドルまで高騰した。
+
+今年2月末のイラン攻撃開始を機に、アメリカの燃料価格が急騰した様子を示す線グラフ。トランプ氏就任時、ガソリンとディーゼル燃料の価格は共に3ドル台だったが、イラン攻撃開始後、ガソリンは4ドル台に、ディーゼル燃料は6ドル台に上昇した
+
+イランとの戦争の影響が世界中に波及し、最終的にはアメリカの消費者の家計にも打撃を与えたため、戦争に対する国民の支持はますます低下した。8月に行われた一つの世論調査では、回答者の63％がトランプ大統領の対応を支持していないことが明らかになった。
+
+有権者はこのほか、医療制度や移民問題などを重視している。
+
+トランプ氏は最近、移民政策が大きな成功を収めたと力説し、近年と比べて国境を越えて来る人数が大幅に減少したことを挙げている。
+
+多くの民主党候補は、アメリカの医療保険料の高騰を強調するほか、国民が医療を受けられるかどうかにトランプ政権の法案がどう影響するかに焦点を当てている。
+
+中間選挙についてほとんどの指標は、民主党の優勢を示している。しかし、トランプ氏と共和党は過去にも、世論調査と裏腹の勝利を収めてきただけに、共和党が予想以上の議席を獲得する可能性もある。
+
+10月半ばの時点で、共和党全国委員会とその関連団体は約3億2000万ドルの手元資金を保有していたのに対し、民主党は2億3000万ドル弱だった。
+
+加えて、トランプ氏のMAGA（アメリカを再び偉大に）運動推進のために資金を集めて使う中心的な団体、特別政治活動委員会「MAGA Inc.」には1億6000万ドルがあるため、共和党はこれも使うことができる。
+
+選挙資金において、共和党が大きく民主党を上回っていることを示すグラフ。共和党全国委員会とその関連団体の手元資金は約3億2100万ドル、トランプ氏のMAGA（アメリカを再び偉大に）運動推進のために資金を集めて使う中心的な団体、特別政治活動委員会「MAGA Inc.」には1億6400万ドルの手元資金を保有していたのに対し、民主党全国委員会とその関連団体は2億2700万ドル
+
+調査会社AdImpactによると、9月には10億ドル以上の政治広告がアメリカの有権者に向けて放映された。共和党は民主党より2億ドル多く使い、上院選で接戦州に分類されるほぼすべての州で、共和党の支出は民主党を上回った。
+
+トランプ氏はこの土壇場でのメッセージ攻勢が、共和党支持者を説得して11月に投票所へ向かわせ、投票率を高め、自分と共和党へのダメージを最小限に抑えてほしいと期待しているだろう。
+
+結果がどうなるにしても、国民の関心はすぐに2028年の次期大統領選挙へと移るはずだ。中間選挙ではトランプ氏の不人気が大きな焦点となったが、トランプ氏は憲法上、3期目に立候補できない。そのため、今後は民主党が何に反対しているかだけでなく、何を支持しているかに焦点が移るだろう。
+
+（英語記事 Who will win the midterms? How the US elections will be won and lost）2a:["$","section",null,{"className":"article-actions","children":[["$","$L2f",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/a5ecc9cfa5ecc9cfda631f27","title":"【米中間選挙2026】11月3日にアメリカで中間選挙 勝敗はどこで決まるのか","locale":"ja","take":null}],["$","$L30",null,{"title":"【米中間選挙2026】11月3日にアメリカで中間選挙 勝敗はどこで決まるのか","excerpt":"$31","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/a5ecc9cfa5ecc9cfda631f27","locale":"ja"}],"$L32"]}]
+2b:["$","$L33",null,{"placement":"article","className":"mt-8"}]
+2c:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L11",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+2d:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/edc7bc2b7ab0314881593ab5eae942d000831e22?source=rss",{"children":["$","$L11",null,{"href":"/ja/n/6797a8a06797a8a01f85e022","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"【ROAD FC】11カ月ぶり復帰戦の原口伸「覚悟は決まってる」、せりな「バチバチに殴り合いを」＝11月1日（日）(ゴング格闘技)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/9e2223303d9c7ecbf1316fda295f52772429c5fa?source=rss",{"children":["$","$L11",null,{"href":"/ja/n/0fb4c34c0fb4c34c69e084f6","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"マイ億君、天皇賞・秋はマスカレードボール本命！…「馬券内の堅さなら…」クロワデュノールも高評価(競馬のおはなし)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/dcca0c7fa11afa2b5dba9ddd8cb8f6cdd77a9874?source=rss",{"children":["$","$L11",null,{"href":"/ja/n/fcdbe103fcdbe1038fe78a9b","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"クリスタル・パレス、トッテナム戦の予想スタメン。鎌田大地は？ リーグ戦連敗の阻止できるのか(フットボールチャンネル)"}]]}]}]]}]]}]
+32:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%80%90%E7%B1%B3%E4%B8%AD%E9%96%93%E9%81%B8%E6%8C%992026%E3%80%9111%E6%9C%883%E6%97%A5%E3%81%AB%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%A7%E4%B8%AD%E9%96%93%E9%81%B8%E6%8C%99+%E5%8B%9D%E6%95%97%E3%81%AF%E3%81%A9%E3%81%93%E3%81%A7%E6%B1%BA%E3%81%BE%E3%82%8B%E3%81%AE%E3%81%8B&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]

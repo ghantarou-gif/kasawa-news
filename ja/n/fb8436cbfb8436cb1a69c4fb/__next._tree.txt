@@ -1,0 +1,5 @@
+:HL["/kasawa-news/_next/static/chunks/05wjkgi4s2ouj.css","style"]
+:HL["/kasawa-news/_next/static/chunks/13j-0ia4l16p6.css","style"]
+:HL["/kasawa-news/_next/static/media/ad9c66e761fed85a-s.p.0fhiaplbf_4wa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://i.guim.co.uk/img/media/842dd704ad76e46d3aed21d1fb9bbed0aad6a73a/901_443_1942_1553/master/1942.jpg?width=140&quality=85&auto=format&fit=max&s=bfe026fb78ab753252573d1f92d7415d","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4184,"slots":{"children":{"name":"locale","param":{"type":"d","key":"ja","siblings":["go"]},"prefetchHints":4132,"slots":{"children":{"name":"n","param":null,"prefetchHints":4160,"slots":{"children":{"name":"id","param":{"type":"d","key":"fb8436cbfb8436cb1a69c4fb","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"Ca8Pnit0pzgQeTMdKJlCo"}

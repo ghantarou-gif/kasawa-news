@@ -1,0 +1,77 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://image.news.livedoor.com/newsimage/stf/8/d/8d06b_1845_e6bf3611_6dd80bb5.jpg","image"]
+5:Tda7,見た目 が似ている「 三井住友カード （NL）」と「Olive」の根本的な仕組みの違いや、ライフスタイルに合わせた選び方について解説している。
+
+動画は、 三井住友カード （NL）を「決済の道具」、Oliveを「三井住友 銀行 の口座と一体になった金融サービス」と定義する。
+
+基本還元率はどちらも0.5％で、 ゴールド カードでも一定条件を満たせば年会費が永年無料になる点などは共通だ。
+
+しかし、OliveはVisaブランドしか選べない点や、引き落とし口座が三井住友 銀行 の専用口座に限られるという決定的な違いがある。
+
+引き落とし口座の縛りについて、メインバンクを変えたくない人には不便に思えるが、動画ではOliveの「定額自動入金サービス」を活用した裏ワザを紹介した。
+
+この機能を利用して他行から毎月3万円以上を自動入金し、Oliveの「選べる特典」で「給与・年金受取」を選択すれば、給与とみなされて毎月200ポイントを無料で獲得できるという。
+
+また、対象店舗での最大還元率は 三井住友カード （NL）が最大16％、Oliveが最大20％とされている。
+
+しかし、 住宅ローン の契約やプロミスなどの消費者金融の利用、 家族 登録など、達成が難しい条件が多く含まれていると指摘。
+
+「普通の人が現実的に目指せるのは10％程度が限界」と述べ、最大還元率という言葉の落とし穴について言及している。
+
+結論として、口座管理の手間を省きシンプルに使いたい人には 三井住友カード （NL）を、設定の手間を惜しまず ポイント還元 を極限まで高めたい人にはOliveを推奨。
+
+「中身の仕組みが根本的に違う」両者の特性を理解し、自身のライフスタイルに合わせて選ぶことの重要性を伝え、動画を締めくくった。
+
+これまでに40枚以上のクレジットカードを発行し、年会費無料のものを中心に10枚以上の ゴールド カードを発行。
+
+「誰か1人にでも”役に立った”」と思ってもらえる情報発信を目指して活動中。
+
+Youtubeチャンネルの他に、ウェブサイト「 ゴールド カードマニア」も運営中。
+
+「解約推奨」に騙されないで！三菱UFJカードの公共料金ポイント改悪でも使い続けるべき理由
+
+コンビニの物価高に嘆く前に知っておきたい！実質15%オフで買い物ができるクレジットカード活用術
+
+ビジネスカードはこれで選ぶのが正解！還元率1.0%と年会費無料を両立する「JCB BizONE」こそ至高
+
+【完全に盲点】高還元&140万件のお得な優待使い放題！セゾンゴールドプレミアムの評判を徹底解説
+
+クレジットカードは券面で魅せる！マニアが選ぶかっこいいゴールカードランキング・ベスト5！
+
+年会費無料のゴールドカードを複数保有している30代独身男性がさまざまなカードについて紹介します。申込の方法から難易度、年会費を無料にする方法まで解説しています。
+
+カードの申し込みは下記のサイト経由で行うと通常よりお得に発行できる場合もあります！
+
+youtube.com/channel/UCmEgbuagSMHUvSxdMHKNU5gd:X
+12:X
+12:C
+0:{"buildId":"Ca8Pnit0pzgQeTMdKJlCo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-10-31","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"ライブドアニュース"}],["$","span",null,{"children":["💹"," ","経済"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"三井住友Oliveの最大20%還元、現実的な到達ラインと裏ワザを解説"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"2 時間前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://image.news.livedoor.com/newsimage/stf/8/d/8d06b_1845_e6bf3611_6dd80bb5.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"見た目 が似ている「 三井住友カード （NL）」と「Olive」の根本的な仕組みの違いや、ライフスタイルに合わせた選び方について解説している。"}],["$","p","1",{"children":"動画は、 三井住友カード （NL）を「決済の道具」、Oliveを「三井住友 銀行 の口座と一体になった金融サービス」と定義する。"}],["$","p","2",{"children":"基本還元率はどちらも0.5％で、 ゴールド カードでも一定条件を満たせば年会費が永年無料になる点などは共通だ。"}],["$","p","3",{"children":"しかし、OliveはVisaブランドしか選べない点や、引き落とし口座が三井住友 銀行 の専用口座に限られるという決定的な違いがある。"}],["$","p","4",{"children":"引き落とし口座の縛りについて、メインバンクを変えたくない人には不便に思えるが、動画ではOliveの「定額自動入金サービス」を活用した裏ワザを紹介した。"}],["$","p","5",{"children":"この機能を利用して他行から毎月3万円以上を自動入金し、Oliveの「選べる特典」で「給与・年金受取」を選択すれば、給与とみなされて毎月200ポイントを無料で獲得できるという。"}],["$","p","6",{"children":"また、対象店舗での最大還元率は 三井住友カード （NL）が最大16％、Oliveが最大20％とされている。"}],["$","p","7",{"children":"しかし、 住宅ローン の契約やプロミスなどの消費者金融の利用、 家族 登録など、達成が難しい条件が多く含まれていると指摘。"}],["$","p","8",{"children":"「普通の人が現実的に目指せるのは10％程度が限界」と述べ、最大還元率という言葉の落とし穴について言及している。"}],["$","p","9",{"children":"結論として、口座管理の手間を省きシンプルに使いたい人には 三井住友カード （NL）を、設定の手間を惜しまず ポイント還元 を極限まで高めたい人にはOliveを推奨。"}],["$","p","10",{"children":"「中身の仕組みが根本的に違う」両者の特性を理解し、自身のライフスタイルに合わせて選ぶことの重要性を伝え、動画を締めくくった。"}],["$","p","11",{"children":"これまでに40枚以上のクレジットカードを発行し、年会費無料のものを中心に10枚以上の ゴールド カードを発行。"}],["$","p","12",{"children":"「誰か1人にでも”役に立った”」と思ってもらえる情報発信を目指して活動中。"}],["$","p","13",{"children":"Youtubeチャンネルの他に、ウェブサイト「 ゴールド カードマニア」も運営中。"}],["$","p","14",{"children":"「解約推奨」に騙されないで！三菱UFJカードの公共料金ポイント改悪でも使い続けるべき理由"}],["$","p","15",{"children":"コンビニの物価高に嘆く前に知っておきたい！実質15%オフで買い物ができるクレジットカード活用術"}],["$","p","16",{"children":"ビジネスカードはこれで選ぶのが正解！還元率1.0%と年会費無料を両立する「JCB BizONE」こそ至高"}],["$","p","17",{"children":"【完全に盲点】高還元&140万件のお得な優待使い放題！セゾンゴールドプレミアムの評判を徹底解説"}],["$","p","18",{"children":"クレジットカードは券面で魅せる！マニアが選ぶかっこいいゴールカードランキング・ベスト5！"}],["$","p","19",{"children":"年会費無料のゴールドカードを複数保有している30代独身男性がさまざまなカードについて紹介します。申込の方法から難易度、年会費を無料にする方法まで解説しています。"}],["$","p","20",{"children":"カードの申し込みは下記のサイト経由で行うと通常よりお得に発行できる場合もあります！"}],["$","p","21",{"children":"youtube.com/channel/UCmEgbuagSMHUvSxdMHKNU5g"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はライブドアニュースにあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.livedoor.com/article/detail/32701689/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はライブドアニュースで読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/dd9320f1dd9320f15875fe1d","title":"三井住友Oliveの最大20%還元、現実的な到達ラインと裏ワザを解説","locale":"ja","take":null}],["$","$L4",null,{"title":"三井住友Oliveの最大20%還元、現実的な到達ラインと裏ワザを解説","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/dd9320f1dd9320f15875fe1d","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E4%B8%89%E4%BA%95%E4%BD%8F%E5%8F%8BOlive%E3%81%AE%E6%9C%80%E5%A4%A720%25%E9%82%84%E5%85%83%E3%80%81%E7%8F%BE%E5%AE%9F%E7%9A%84%E3%81%AA%E5%88%B0%E9%81%94%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%A8%E8%A3%8F%E3%83%AF%E3%82%B6%E3%82%92%E8%A7%A3%E8%AA%AC&mode=phrase&url=news.livedoor.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/edc7bc2b7ab0314881593ab5eae942d000831e22?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/6797a8a06797a8a01f85e022","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"【ROAD FC】11カ月ぶり復帰戦の原口伸「覚悟は決まってる」、せりな「バチバチに殴り合いを」＝11月1日（日）(ゴング格闘技)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/9e2223303d9c7ecbf1316fda295f52772429c5fa?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/0fb4c34c0fb4c34c69e084f6","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"マイ億君、天皇賞・秋はマスカレードボール本命！…「馬券内の堅さなら…」クロワデュノールも高評価(競馬のおはなし)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/dcca0c7fa11afa2b5dba9ddd8cb8f6cdd77a9874?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/fcdbe103fcdbe1038fe78a9b","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"クリスタル・パレス、トッテナム戦の予想スタメン。鎌田大地は？ リーグ戦連敗の阻止できるのか(フットボールチャンネル)"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"三井住友Oliveの最大20%還元、現実的な到達ラインと裏ワザを解説"}],["$","meta","1",{"name":"description","content":"見た目 が似ている「 三井住友カード （NL）」と「Olive」の根本的な仕組みの違いや、ライフスタイルに合わせた選び方について解説している。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"三井住友Oliveの最大20%還元、現実的な到達ラインと裏ワザを解説"}],["$","meta","4",{"property":"og:description","content":"見た目 が似ている「 三井住友カード （NL）」と「Olive」の根本的な仕組みの違いや、ライフスタイルに合わせた選び方について解説している。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/dd9320f1dd9320f15875fe1d/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fimage.news.livedoor.com%2Fnewsimage%2Fstf%2F8%2Fd%2F8d06b_1845_e6bf3611_6dd80bb5.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"三井住友Oliveの最大20%還元、現実的な到達ラインと裏ワザを解説"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"三井住友Oliveの最大20%還元、現実的な到達ラインと裏ワザを解説"}],["$","meta","14",{"name":"twitter:description","content":"見た目 が似ている「 三井住友カード （NL）」と「Olive」の根本的な仕組みの違いや、ライフスタイルに合わせた選び方について解説している。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fimage.news.livedoor.com%2Fnewsimage%2Fstf%2F8%2Fd%2F8d06b_1845_e6bf3611_6dd80bb5.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"
