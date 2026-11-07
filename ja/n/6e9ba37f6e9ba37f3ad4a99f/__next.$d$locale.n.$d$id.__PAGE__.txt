@@ -1,0 +1,76 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-00010003-newswitch-000-1-view.jpg?pri=l&w=450&h=299&exp=10800","image"]
+d:X
+12:X
+12:C
+0:{"buildId":"v4pnrtun7pn_skbrgOFJo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-03","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"宇宙開発での活躍視野…九州大学が開発進める、「動く電子回路」の世界(ニュースイッチ)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"4 日前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-00010003-newswitch-000-1-view.jpg?pri=l&w=450&h=299&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"薄い電子回路が曲がって動き、壊れた部分を交換したり、機能を変えたりする。そんな「動く電子回路」を目指した研究開発が九州大学で進む。研究開発者らがキネティックエレクトロニクスと呼ぶ技術だ。体に付けるウエアラブルセンサーや人が行きにくい場所などのセンサーが、劣化したり不具合が起きたりした場合の活用を見込む。さらなる目標は生物に近い機械システムであり、宇宙開発での活躍も視野に入れる。（西部・関広樹）"}],["$","p","1",{"children":"研究開発に取り組むのは、九大大学院システム情報科学研究院の佐々文洋准教授の研究室。同研究室では電子デバイスやフィルム状のロボットなども研究している。"}],["$","p","2",{"children":"開発を進める電子回路は、2種類のポリマー素材を貼り合わせた基材が熱による膨張と収縮によって動く。2種類は熱で膨張する程度に違いがあり、より大きく動く方が巻き込むように曲がる。熱による膨張と収縮を生かすのは、サーモスタットなどに使われる歴史ある技術。今回の開発では温度センサーや歪みセンサーを使ったフィードバック制御で動きを把握する。"}],["$","p","3",{"children":"回路が動くことで、電気的な接続だけでなく、回路を曲げて機械的な接続もできる。電源を切っても機械的につながり続け、必要に応じて外せる。"}],["$","p","4",{"children":"回路に不具合が起きた時のために予備の回路を組み込んでおく考えもある。これに対して佐々准教授は「根本的にモジュールを入れ替えたい、モジュラー性が今回のキーワードの一つ」と説明する。回路が大きく破損した場合に回路ごと交換して修復できることをポイントとする。"}],["$","p","5",{"children":"モジュール化した電子回路を手で交換する仕組みもあるが、動く電子回路が誰の手も借りることなく自身で交換する点が異なる。"}],["$","p","6",{"children":"実用化に向けて研究するのが生化学センサーを使って測定するウエアラブルセンサー。また環境モニタリングのセンサーでは、高所や遠隔地でメンテナンスが難しい場所や設置箇所が多くてメンテナンスに手間がかかる場合でニーズがあるとみる。"}],["$","p","7",{"children":"センサーの先端部分の交換が必要になった場合に予備のセンサーと交換していくような機能を想定。医療機器や分析機器でも応用できる可能性があるとみる。また流路を持ち、薬剤を放出するなどの機能を持たせられる可能性もある。"}],["$","p","8",{"children":"動くことを生かし、ロボットとして活用することも目標とする。視野に入れるのが宇宙開発だ。モジュール化した薄型ロボットを印刷技術を応用して大量に作り、現地に送る想定。現地で組み合わさったり、壊れた部分は予備につなぎ変えたりたりしながら働くことを構想する。"}],["$","p","9",{"children":"動く回路の研究開発は「基礎的な原理を実証したに過ぎない」（佐々准教授）と発展途上の段階。同じ素材、同じ設計で作っても動作に違いが生じることがある。工業製品と同様に量産し、どの回路でも計算通りに動くよう作れるようにするのが当面の目標だ。"}],["$","p","10",{"children":"薄い電子回路が曲がって動き、壊れた部分を交換したり、機能を変えたりする。そんな「動く電子回路」を目指した研究開発が九州大学で進む。研究開発者らがキネティックエレクトロニクスと呼ぶ技術だ。体に付けるウエアラブルセンサーや人が行きにくい場所などのセンサーが、劣化したり不具合が起きたりした場合の活用を見込む。さらなる目標は生物に近い機械システムであり、宇宙開発での活躍も視野に入れる。（西部・関広樹）"}],["$","p","11",{"children":"研究開発に取り組むのは、九大大学院システム情報科学研究院の佐々文洋准教授の研究室。同研究室では電子デバイスやフィルム状のロボットなども研究している。"}],["$","p","12",{"children":"開発を進める電子回路は、2種類のポリマー素材を貼り合わせた基材が熱による膨張と収縮によって動く。2種類は熱で膨張する程度に違いがあり、より大きく動く方が巻き込むように曲がる。熱による膨張と収縮を生かすのは、サーモスタットなどに使われる歴史ある技術。今回の開発では温度センサーや歪みセンサーを使ったフィードバック制御で動きを把握する。"}],["$","p","13",{"children":"回路が動くことで、電気的な接続だけでなく、回路を曲げて機械的な接続もできる。電源を切っても機械的につながり続け、必要に応じて外せる。"}],["$","p","14",{"children":"回路に不具合が起きた時のために予備の回路を組み込んでおく考えもある。これに対して佐々准教授は「根本的にモジュールを入れ替えたい、モジュラー性が今回のキーワードの一つ」と説明する。回路が大きく破損した場合に回路ごと交換して修復できることをポイントとする。"}],["$","p","15",{"children":"モジュール化した電子回路を手で交換する仕組みもあるが、動く電子回路が誰の手も借りることなく自身で交換する点が異なる。"}],["$","p","16",{"children":"実用化に向けて研究するのが生化学センサーを使って測定するウエアラブルセンサー。また環境モニタリングのセンサーでは、高所や遠隔地でメンテナンスが難しい場所や設置箇所が多くてメンテナンスに手間がかかる場合でニーズがあるとみる。"}],["$","p","17",{"children":"センサーの先端部分の交換が必要になった場合に予備のセンサーと交換していくような機能を想定。医療機器や分析機器でも応用できる可能性があるとみる。また流路を持ち、薬剤を放出するなどの機能を持たせられる可能性もある。"}],["$","p","18",{"children":"動くことを生かし、ロボットとして活用することも目標とする。視野に入れるのが宇宙開発だ。モジュール化した薄型ロボットを印刷技術を応用して大量に作り、現地に送る想定。現地で組み合わさったり、壊れた部分は予備につなぎ変えたりたりしながら働くことを構想する。"}],"$L3"],"$L4"]}],"$L5","$L6","$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+18:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+1a:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1f:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+20:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+21:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+22:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","19",{"children":"動く回路の研究開発は「基礎的な原理を実証したに過ぎない」（佐々准教授）と発展途上の段階。同じ素材、同じ設計で作っても動作に違いが生じることがある。工業製品と同様に量産し、どの回路でも計算通りに動くよう作れるようにするのが当面の目標だ。"}]
+4:["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]
+5:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/c5efef3523f879661e4d08fff11b05959327768a?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}]
+19:T1afa,薄い電子回路が曲がって動き、壊れた部分を交換したり、機能を変えたりする。そんな「動く電子回路」を目指した研究開発が九州大学で進む。研究開発者らがキネティックエレクトロニクスと呼ぶ技術だ。体に付けるウエアラブルセンサーや人が行きにくい場所などのセンサーが、劣化したり不具合が起きたりした場合の活用を見込む。さらなる目標は生物に近い機械システムであり、宇宙開発での活躍も視野に入れる。（西部・関広樹）
+
+研究開発に取り組むのは、九大大学院システム情報科学研究院の佐々文洋准教授の研究室。同研究室では電子デバイスやフィルム状のロボットなども研究している。
+
+開発を進める電子回路は、2種類のポリマー素材を貼り合わせた基材が熱による膨張と収縮によって動く。2種類は熱で膨張する程度に違いがあり、より大きく動く方が巻き込むように曲がる。熱による膨張と収縮を生かすのは、サーモスタットなどに使われる歴史ある技術。今回の開発では温度センサーや歪みセンサーを使ったフィードバック制御で動きを把握する。
+
+回路が動くことで、電気的な接続だけでなく、回路を曲げて機械的な接続もできる。電源を切っても機械的につながり続け、必要に応じて外せる。
+
+回路に不具合が起きた時のために予備の回路を組み込んでおく考えもある。これに対して佐々准教授は「根本的にモジュールを入れ替えたい、モジュラー性が今回のキーワードの一つ」と説明する。回路が大きく破損した場合に回路ごと交換して修復できることをポイントとする。
+
+モジュール化した電子回路を手で交換する仕組みもあるが、動く電子回路が誰の手も借りることなく自身で交換する点が異なる。
+
+実用化に向けて研究するのが生化学センサーを使って測定するウエアラブルセンサー。また環境モニタリングのセンサーでは、高所や遠隔地でメンテナンスが難しい場所や設置箇所が多くてメンテナンスに手間がかかる場合でニーズがあるとみる。
+
+センサーの先端部分の交換が必要になった場合に予備のセンサーと交換していくような機能を想定。医療機器や分析機器でも応用できる可能性があるとみる。また流路を持ち、薬剤を放出するなどの機能を持たせられる可能性もある。
+
+動くことを生かし、ロボットとして活用することも目標とする。視野に入れるのが宇宙開発だ。モジュール化した薄型ロボットを印刷技術を応用して大量に作り、現地に送る想定。現地で組み合わさったり、壊れた部分は予備につなぎ変えたりたりしながら働くことを構想する。
+
+動く回路の研究開発は「基礎的な原理を実証したに過ぎない」（佐々准教授）と発展途上の段階。同じ素材、同じ設計で作っても動作に違いが生じることがある。工業製品と同様に量産し、どの回路でも計算通りに動くよう作れるようにするのが当面の目標だ。
+
+薄い電子回路が曲がって動き、壊れた部分を交換したり、機能を変えたりする。そんな「動く電子回路」を目指した研究開発が九州大学で進む。研究開発者らがキネティックエレクトロニクスと呼ぶ技術だ。体に付けるウエアラブルセンサーや人が行きにくい場所などのセンサーが、劣化したり不具合が起きたりした場合の活用を見込む。さらなる目標は生物に近い機械システムであり、宇宙開発での活躍も視野に入れる。（西部・関広樹）
+
+研究開発に取り組むのは、九大大学院システム情報科学研究院の佐々文洋准教授の研究室。同研究室では電子デバイスやフィルム状のロボットなども研究している。
+
+開発を進める電子回路は、2種類のポリマー素材を貼り合わせた基材が熱による膨張と収縮によって動く。2種類は熱で膨張する程度に違いがあり、より大きく動く方が巻き込むように曲がる。熱による膨張と収縮を生かすのは、サーモスタットなどに使われる歴史ある技術。今回の開発では温度センサーや歪みセンサーを使ったフィードバック制御で動きを把握する。
+
+回路が動くことで、電気的な接続だけでなく、回路を曲げて機械的な接続もできる。電源を切っても機械的につながり続け、必要に応じて外せる。
+
+回路に不具合が起きた時のために予備の回路を組み込んでおく考えもある。これに対して佐々准教授は「根本的にモジュールを入れ替えたい、モジュラー性が今回のキーワードの一つ」と説明する。回路が大きく破損した場合に回路ごと交換して修復できることをポイントとする。
+
+モジュール化した電子回路を手で交換する仕組みもあるが、動く電子回路が誰の手も借りることなく自身で交換する点が異なる。
+
+実用化に向けて研究するのが生化学センサーを使って測定するウエアラブルセンサー。また環境モニタリングのセンサーでは、高所や遠隔地でメンテナンスが難しい場所や設置箇所が多くてメンテナンスに手間がかかる場合でニーズがあるとみる。
+
+センサーの先端部分の交換が必要になった場合に予備のセンサーと交換していくような機能を想定。医療機器や分析機器でも応用できる可能性があるとみる。また流路を持ち、薬剤を放出するなどの機能を持たせられる可能性もある。
+
+動くことを生かし、ロボットとして活用することも目標とする。視野に入れるのが宇宙開発だ。モジュール化した薄型ロボットを印刷技術を応用して大量に作り、現地に送る想定。現地で組み合わさったり、壊れた部分は予備につなぎ変えたりたりしながら働くことを構想する。
+
+動く回路の研究開発は「基礎的な原理を実証したに過ぎない」（佐々准教授）と発展途上の段階。同じ素材、同じ設計で作っても動作に違いが生じることがある。工業製品と同様に量産し、どの回路でも計算通りに動くよう作れるようにするのが当面の目標だ。6:["$","section",null,{"className":"article-actions","children":[["$","$L17",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/6e9ba37f6e9ba37f3ad4a99f","title":"宇宙開発での活躍視野…九州大学が開発進める、「動く電子回路」の世界(ニュースイッチ)","locale":"ja","take":null}],["$","$L18",null,{"title":"宇宙開発での活躍視野…九州大学が開発進める、「動く電子回路」の世界(ニュースイッチ)","excerpt":"$19","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/6e9ba37f6e9ba37f3ad4a99f","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E5%AE%87%E5%AE%99%E9%96%8B%E7%99%BA%E3%81%A7%E3%81%AE%E6%B4%BB%E8%BA%8D%E8%A6%96%E9%87%8E&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+7:["$","$L1a",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","dw:https://dw.com/en/how-berlin-s-arab-queers-are-building-their-community/a-79833143?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/f82390eaf82390eaddbfe196","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"How Berlin's Arab queers are building their community"}]]}]}],["$","li","bbc-biz:https://bbc.co.uk/sounds/play/w3ct990m",{"children":["$","$L2",null,{"href":"/ja/n/d7a91a33d7a91a331f767413","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"What in the World"}]]}]}],["$","li","dw:https://dw.com/en/cyprus-from-ties-with-russia-to-a-strategic-alignment-with-the-us/a-79841251?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/a337350fa337350f5302bfaf","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Cyprus: From ties with Russia to a strategic alignment with the US"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1e",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1f",null,{"children":["$","$1c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"宇宙開発での活躍視野…九州大学が開発進める、「動く電子回路」の世界(ニュースイッチ)"}],["$","meta","1",{"name":"description","content":"薄い電子回路が曲がって動き、壊れた部分を交換したり、機能を変えたりする。そんな「動く電子回路」を目指した研究開発が九州大学で進む。研究開発者らがキネティックエレクトロニクスと呼ぶ技術だ。体に付けるウエアラブルセンサーや人が行きにくい場所などのセンサーが、劣化したり不具合が起きたりした場合の活用を見込む。さらなる目標は生物に近い機械システムであり、宇宙開発での活躍も視野に入れる。（西部・関広樹）"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"宇宙開発での活躍視野…九州大学が開発進める、「動く電子回路」の世界(ニュースイッチ)"}],["$","meta","4",{"property":"og:description","content":"薄い電子回路が曲がって動き、壊れた部分を交換したり、機能を変えたりする。そんな「動く電子回路」を目指した研究開発が九州大学で進む。研究開発者らがキネティックエレクトロニクスと呼ぶ技術だ。体に付けるウエアラブルセンサーや人が行きにくい場所などのセンサーが、劣化したり不具合が起きたりした場合の活用を見込む。さらなる目標は生物に近い機械システムであり、宇宙開発での活躍も視野に入れる。（西部・関広樹）"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/6e9ba37f6e9ba37f3ad4a99f/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261103-00010003-newswitch-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"宇宙開発での活躍視野…九州大学が開発進める、「動く電子回路」の世界(ニュースイッチ)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"宇宙開発での活躍視野…九州大学が開発進める、「動く電子回路」の世界(ニュースイッチ)"}],["$","meta","14",{"name":"twitter:description","content":"薄い電子回路が曲がって動き、壊れた部分を交換したり、機能を変えたりする。そんな「動く電子回路」を目指した研究開発が九州大学で進む。研究開発者らがキネティックエレクトロニクスと呼ぶ技術だ。体に付けるウエアラブルセンサーや人が行きにくい場所などのセンサーが、劣化したり不具合が起きたりした場合の活用を見込む。さらなる目標は生物に近い機械システムであり、宇宙開発での活躍も視野に入れる。（西部・関広樹）"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261103-00010003-newswitch-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L20","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L21",null,{"parallelRouterKey":"children","template":["$","$L22",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L21",null,{"parallelRouterKey":"children","template":["$","$L22",null,{}]}]]}]
+16:true
+1d:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

@@ -1,0 +1,77 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png","image"]
+5:T1083,ロシア軍の空爆で破壊されたバスや建物。がれきの下にまだ多くの人が閉じ込められているため、死者数はさらに増えるのではないかと懸念されている（2日、ウクライナ南部ザポリッジャ州コミシュヴァハ村）
+
+直方体の枠といくつかの座席だけが焼け残った、バスの残骸が燃え続けている。その後ろでレンガ造りの平屋の建物が破壊されている。昼の空に黒煙が昇っている。
+
+ウクライナ当局によると、南部ザポリッジャ州で2日、ロシア軍が支援物資の配布センターを攻撃し、少なくとも26人を殺害した。
+
+ザポリッジャ州のミハイロ・セミキン州知事によると州南部のコミシュヴァハ村に3000キログ級の航空爆弾が少なくとも9発着弾。当初は、5人が負傷、27人が行方不明と報告されていたという。
+
+ウクライナのウォロディミル・ゼレンスキー大統領は、人道支援のために使われていた地元の学校をロシア軍が最初の標的にした後、大勢が避難していた場所を攻撃したのだと明らかにした。
+
+大統領は、この攻撃でできた巨大な穴と、がれきの中を捜索する救助隊の様子を映した動画を投稿した。
+
+ウクライナ国家非常事態庁の映像には、コミシュヴァハ爆発クレーターから立ち上る煙が映っている（無音映像）
+
+Smoke rises from rubble in an explosion crater
+
+ゼレンスキー大統領は当初、死者数を18人と発表していたが、ウクライナ国家非常事態庁（DSNS）は後に、救助隊員2名と警察官4名を含む24名の死亡が確認されたと発表した。
+
+大統領はその後、2日夜のビデオ演説で、これまでに26人の死亡が確認されていると述べた。
+
+「ロシア側は、コミシュヴァハに残った地元住民が、毎週そこで人道支援を受けていたことを知らなかったはずがない」、「これは、ロシアが事態の沈静化を望んでいないという、またしても明白な証拠だ」と、ゼレンスキー氏は指摘した。
+
+ゼレンスキー氏は、ロシア占領下の南部オレシュキから民間人を避難させるロシアとウクライナの共同作戦が最近成功したことを受け、「これに続くステップによって、平和は可能だと示せる機会があった」と述べた。
+
+「しかし、このような殺害行為によって、ロシアは正反対のメッセージを送っている。ロシアは、ますます殺害を重ねようとしているのだ」とゼレンスキー大統領は避難した。
+
+ロシア軍の攻撃で地面に巨大な穴が開いた。ウクライナ当局によると、そこには住民が大勢避難していたという。
+
+曇天の下、灰色のがれきが覆う地面に大きな穴が開いている。その中心には建物の残骸があり、煙が出ている
+
+一方、ザポリッジャ州のセミキン知事は、ロシア軍の攻撃が村にとって「恐ろしい悲劇」と表現し、「まだ大勢ががれきの下にいる」と明らかにした。
+
+知事は、救助隊が現場で活動しているものの、ロシアのドローン攻撃が相次いだため、何度も活動を中断せざるを得なかったと話した。
+
+ザポリッジャ州は、3日を州全体の服喪の日にすると宣言した。
+
+ロシアのウラジーミル・プーチン大統領は、2022年2月にウクライナ全面侵攻を開始した。
+
+ウクライナ、ロシア、アメリカの代表団は数日中にも、2月に中断された和平交渉を再開する予定。ウクライナが2月以降、ミサイル迎撃のための西側諸国から供与された迎撃ミサイルを事実上使い果たしたため、ロシアはは攻撃を強化している。
+
+しかし、アラブ首長国連邦（UAE）のアブダビで開催予定の会談では、大きな進展は期待されていない。
+
+（英語記事 Russian bombing kills 26 people at Ukraine aid centre, Kyiv says）d:X
+12:X
+12:C
+0:{"buildId":"v4pnrtun7pn_skbrgOFJo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-03","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"ロシア軍が人道支援施設を攻撃し26人殺害、ウクライナ発表"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"4 日前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"ロシア軍の空爆で破壊されたバスや建物。がれきの下にまだ多くの人が閉じ込められているため、死者数はさらに増えるのではないかと懸念されている（2日、ウクライナ南部ザポリッジャ州コミシュヴァハ村）"}],["$","p","1",{"children":"直方体の枠といくつかの座席だけが焼け残った、バスの残骸が燃え続けている。その後ろでレンガ造りの平屋の建物が破壊されている。昼の空に黒煙が昇っている。"}],["$","p","2",{"children":"ウクライナ当局によると、南部ザポリッジャ州で2日、ロシア軍が支援物資の配布センターを攻撃し、少なくとも26人を殺害した。"}],["$","p","3",{"children":"ザポリッジャ州のミハイロ・セミキン州知事によると州南部のコミシュヴァハ村に3000キログ級の航空爆弾が少なくとも9発着弾。当初は、5人が負傷、27人が行方不明と報告されていたという。"}],["$","p","4",{"children":"ウクライナのウォロディミル・ゼレンスキー大統領は、人道支援のために使われていた地元の学校をロシア軍が最初の標的にした後、大勢が避難していた場所を攻撃したのだと明らかにした。"}],["$","p","5",{"children":"大統領は、この攻撃でできた巨大な穴と、がれきの中を捜索する救助隊の様子を映した動画を投稿した。"}],["$","p","6",{"children":"ウクライナ国家非常事態庁の映像には、コミシュヴァハ爆発クレーターから立ち上る煙が映っている（無音映像）"}],["$","p","7",{"children":"Smoke rises from rubble in an explosion crater"}],["$","p","8",{"children":"ゼレンスキー大統領は当初、死者数を18人と発表していたが、ウクライナ国家非常事態庁（DSNS）は後に、救助隊員2名と警察官4名を含む24名の死亡が確認されたと発表した。"}],["$","p","9",{"children":"大統領はその後、2日夜のビデオ演説で、これまでに26人の死亡が確認されていると述べた。"}],["$","p","10",{"children":"「ロシア側は、コミシュヴァハに残った地元住民が、毎週そこで人道支援を受けていたことを知らなかったはずがない」、「これは、ロシアが事態の沈静化を望んでいないという、またしても明白な証拠だ」と、ゼレンスキー氏は指摘した。"}],["$","p","11",{"children":"ゼレンスキー氏は、ロシア占領下の南部オレシュキから民間人を避難させるロシアとウクライナの共同作戦が最近成功したことを受け、「これに続くステップによって、平和は可能だと示せる機会があった」と述べた。"}],["$","p","12",{"children":"「しかし、このような殺害行為によって、ロシアは正反対のメッセージを送っている。ロシアは、ますます殺害を重ねようとしているのだ」とゼレンスキー大統領は避難した。"}],["$","p","13",{"children":"ロシア軍の攻撃で地面に巨大な穴が開いた。ウクライナ当局によると、そこには住民が大勢避難していたという。"}],["$","p","14",{"children":"曇天の下、灰色のがれきが覆う地面に大きな穴が開いている。その中心には建物の残骸があり、煙が出ている"}],["$","p","15",{"children":"一方、ザポリッジャ州のセミキン知事は、ロシア軍の攻撃が村にとって「恐ろしい悲劇」と表現し、「まだ大勢ががれきの下にいる」と明らかにした。"}],["$","p","16",{"children":"知事は、救助隊が現場で活動しているものの、ロシアのドローン攻撃が相次いだため、何度も活動を中断せざるを得なかったと話した。"}],["$","p","17",{"children":"ザポリッジャ州は、3日を州全体の服喪の日にすると宣言した。"}],["$","p","18",{"children":"ロシアのウラジーミル・プーチン大統領は、2022年2月にウクライナ全面侵攻を開始した。"}],["$","p","19",{"children":"ウクライナ、ロシア、アメリカの代表団は数日中にも、2月に中断された和平交渉を再開する予定。ウクライナが2月以降、ミサイル迎撃のための西側諸国から供与された迎撃ミサイルを事実上使い果たしたため、ロシアはは攻撃を強化している。"}],["$","p","20",{"children":"しかし、アラブ首長国連邦（UAE）のアブダビで開催予定の会談では、大きな進展は期待されていない。"}],["$","p","21",{"children":"（英語記事 Russian bombing kills 26 people at Ukraine aid centre, Kyiv says）"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/cw1m41pvzrgyo","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/390cef98390cef98c70cb066","title":"ロシア軍が人道支援施設を攻撃し26人殺害、ウクライナ発表","locale":"ja","take":null}],["$","$L4",null,{"title":"ロシア軍が人道支援施設を攻撃し26人殺害、ウクライナ発表","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/390cef98390cef98c70cb066","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%83%AD%E3%82%B7%E3%82%A2%E8%BB%8D%E3%81%8C%E4%BA%BA%E9%81%93%E6%94%AF%E6%8F%B4%E6%96%BD%E8%A8%AD%E3%82%92%E6%94%BB%E6%92%83%E3%81%9726%E4%BA%BA%E6%AE%BA%E5%AE%B3%E3%80%81%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E7%99%BA%E8%A1%A8&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","dw:https://dw.com/en/how-berlin-s-arab-queers-are-building-their-community/a-79833143?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/f82390eaf82390eaddbfe196","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"How Berlin's Arab queers are building their community"}]]}]}],["$","li","bbc-biz:https://bbc.co.uk/sounds/play/w3ct990m",{"children":["$","$L2",null,{"href":"/ja/n/d7a91a33d7a91a331f767413","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"What in the World"}]]}]}],["$","li","dw:https://dw.com/en/cyprus-from-ties-with-russia-to-a-strategic-alignment-with-the-us/a-79841251?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/a337350fa337350f5302bfaf","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Cyprus: From ties with Russia to a strategic alignment with the US"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ロシア軍が人道支援施設を攻撃し26人殺害、ウクライナ発表"}],["$","meta","1",{"name":"description","content":"ロシア軍の空爆で破壊されたバスや建物。がれきの下にまだ多くの人が閉じ込められているため、死者数はさらに増えるのではないかと懸念されている（2日、ウクライナ南部ザポリッジャ州コミシュヴァハ村）"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"ロシア軍が人道支援施設を攻撃し26人殺害、ウクライナ発表"}],["$","meta","4",{"property":"og:description","content":"ロシア軍の空爆で破壊されたバスや建物。がれきの下にまだ多くの人が閉じ込められているため、死者数はさらに増えるのではないかと懸念されている（2日、ウクライナ南部ザポリッジャ州コミシュヴァハ村）"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/390cef98390cef98c70cb066/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fee1e%2Flive%2F8480acc0-d6eb-11f1-a741-236ee91c2e25.png&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"ロシア軍が人道支援施設を攻撃し26人殺害、ウクライナ発表"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"ロシア軍が人道支援施設を攻撃し26人殺害、ウクライナ発表"}],["$","meta","14",{"name":"twitter:description","content":"ロシア軍の空爆で破壊されたバスや建物。がれきの下にまだ多くの人が閉じ込められているため、死者数はさらに増えるのではないかと懸念されている（2日、ウクライナ南部ザポリッジャ州コミシュヴァハ村）"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fee1e%2Flive%2F8480acc0-d6eb-11f1-a741-236ee91c2e25.png&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

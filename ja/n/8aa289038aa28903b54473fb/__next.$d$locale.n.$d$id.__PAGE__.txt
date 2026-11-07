@@ -1,0 +1,66 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+5:Td6f,OpenAIの元CTOであるミラ・ムラティ氏が設立したアメリカに拠点を置くAI研究企業「Thinking Machines Lab」が、AIモデル「 Inkling 2 Small 」を現地時間の2026年11月5日に発表しました。近日中にオープンモデルとして公開される予定です。
+
+Inkling 2 Smallは総パラメーター数5940億・アクティブパラメーター数170億のMoEモデルで、テキストと画像の入力に対応しています。記事作成時点では安全性評価が実施されている段階で、2026年11月第2週にオープンモデルとして公開することが計画されています。
+
+「Inkling 2 Small」「GLM-5.3 Flash」「DeepSeek-V4.1-Flash-1017」「Muse Spark Open」「Kimi K3」のコーディング性能および自律研究性能のテスト結果が以下。Inkling 2 Smallは中国製最先端モデルと同等のスコアを達成しています。
+
+第三者機関もInkling 2 Smallの性能テストを実施しています。AIモデルのデザイン性能を測定する「 DesignArena 」ではGPT-6.1 Solを上回りました。
+
+複数のテスト結果を元にAIの総合性能を算出する「 Artificial Analysis Intelligence Index v5.0.1 」では「31」というスコアを記録してGemini 3.8 Flashと並びました。前世代モデルの「13」から大きな飛躍です。
+
+クローズドモデルを黒、オープンモデルを青に色分けしたものが以下。Inkling 2 Smallがオープンモデルとして公開されれば「中国以外の企業のオープンモデルとして最高性能」となります。
+
+Inkling 2 Smallは追加学習による性能の伸び代が大きいのも特徴です。以下のグラフは左側が「学習ステップごとの性能向上」、右側が「学習コストごとの性能向上」を示しており、Inkling 2 Small(青)がDeepSeek-V4.1-Flash-1017(灰色)などの競合モデルより安価に性能を向上させられることが分かります。
+
+Inkling 2 Smallの仕様をまとめたモデルカードは以下のリンク先で公開されています。
+
+中国のオープンソースAIに対抗するためReflectionがパラメーター数5010億のオープンモデル「Beam」を発表、GLM 5.2に匹敵し使用する計算量は3～4分の1でAIエージェントタスクではQwen3.8-Maxに匹敵すると主張 - GIGAZINE
+
+「Kimi K3.1 Pro」の重みが無料で公開される - GIGAZINE
+
+GPT-6.1 Terraと同等のコーディング性能を発揮するAIモデル「Mistral Large 4」が無償公開される - GIGAZINE
+
+「DeepSeek-V3.2」が登場、GPT-5やGemini 3と同等性能でモデルを無料公開するオープンモデル
+
+Claude Opus 4.7超えの中華モデル「GLM-5.2」が正式発表される、一部テストではClaude Fable 5を上回りオープンモデルとして誰でもダウンロード可能に
+
+Gemini 3.0 ProやGPT-5.2に匹敵する中国製AI「GLM-5」が登場、Word文書作成などの事務作業も可能でモデルを自由にダウンロード可能
+
+「DeepSeek-V4-Flash-0731」が登場、GPT-5.6 Lunaより安価で同等性能のオープンモデル
+
+「DeepSeek-V4.1-Flash」が登場、複数テストでClaude Opus 5やGPT-5.6 Solを超える性能のオープンモデル
+
+You can read the machine translated English article The AI company founded by the former CTO… .d:X
+12:X
+12:C
+0:{"buildId":"v4pnrtun7pn_skbrgOFJo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-06","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Gigazine"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"OpenAI元CTOのAI企業が高性能AIモデル「Inkling 2 Small」を発表、近日中にオープンモデルとして公開される予定"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"OpenAIの元CTOであるミラ・ムラティ氏が設立したアメリカに拠点を置くAI研究企業「Thinking Machines Lab」が、AIモデル「 Inkling 2 Small 」を現地時間の2026年11月5日に発表しました。近日中にオープンモデルとして公開される予定です。"}],["$","p","1",{"children":"Inkling 2 Smallは総パラメーター数5940億・アクティブパラメーター数170億のMoEモデルで、テキストと画像の入力に対応しています。記事作成時点では安全性評価が実施されている段階で、2026年11月第2週にオープンモデルとして公開することが計画されています。"}],["$","p","2",{"children":"「Inkling 2 Small」「GLM-5.3 Flash」「DeepSeek-V4.1-Flash-1017」「Muse Spark Open」「Kimi K3」のコーディング性能および自律研究性能のテスト結果が以下。Inkling 2 Smallは中国製最先端モデルと同等のスコアを達成しています。"}],["$","p","3",{"children":"第三者機関もInkling 2 Smallの性能テストを実施しています。AIモデルのデザイン性能を測定する「 DesignArena 」ではGPT-6.1 Solを上回りました。"}],["$","p","4",{"children":"複数のテスト結果を元にAIの総合性能を算出する「 Artificial Analysis Intelligence Index v5.0.1 」では「31」というスコアを記録してGemini 3.8 Flashと並びました。前世代モデルの「13」から大きな飛躍です。"}],["$","p","5",{"children":"クローズドモデルを黒、オープンモデルを青に色分けしたものが以下。Inkling 2 Smallがオープンモデルとして公開されれば「中国以外の企業のオープンモデルとして最高性能」となります。"}],["$","p","6",{"children":"Inkling 2 Smallは追加学習による性能の伸び代が大きいのも特徴です。以下のグラフは左側が「学習ステップごとの性能向上」、右側が「学習コストごとの性能向上」を示しており、Inkling 2 Small(青)がDeepSeek-V4.1-Flash-1017(灰色)などの競合モデルより安価に性能を向上させられることが分かります。"}],["$","p","7",{"children":"Inkling 2 Smallの仕様をまとめたモデルカードは以下のリンク先で公開されています。"}],["$","p","8",{"children":"中国のオープンソースAIに対抗するためReflectionがパラメーター数5010億のオープンモデル「Beam」を発表、GLM 5.2に匹敵し使用する計算量は3～4分の1でAIエージェントタスクではQwen3.8-Maxに匹敵すると主張 - GIGAZINE"}],["$","p","9",{"children":"「Kimi K3.1 Pro」の重みが無料で公開される - GIGAZINE"}],["$","p","10",{"children":"GPT-6.1 Terraと同等のコーディング性能を発揮するAIモデル「Mistral Large 4」が無償公開される - GIGAZINE"}],["$","p","11",{"children":"「DeepSeek-V3.2」が登場、GPT-5やGemini 3と同等性能でモデルを無料公開するオープンモデル"}],["$","p","12",{"children":"Claude Opus 4.7超えの中華モデル「GLM-5.2」が正式発表される、一部テストではClaude Fable 5を上回りオープンモデルとして誰でもダウンロード可能に"}],["$","p","13",{"children":"Gemini 3.0 ProやGPT-5.2に匹敵する中国製AI「GLM-5」が登場、Word文書作成などの事務作業も可能でモデルを自由にダウンロード可能"}],["$","p","14",{"children":"「DeepSeek-V4-Flash-0731」が登場、GPT-5.6 Lunaより安価で同等性能のオープンモデル"}],["$","p","15",{"children":"「DeepSeek-V4.1-Flash」が登場、複数テストでClaude Opus 5やGPT-5.6 Solを超える性能のオープンモデル"}],["$","p","16",{"children":"You can read the machine translated English article The AI company founded by the former CTO… ."}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はGigazineにあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://gigazine.net/news/20261106-inkling-2-small/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はGigazineで読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/8aa289038aa28903b54473fb","title":"OpenAI元CTOのAI企業が高性能AIモデル「Inkling 2 Small」を発表、近日中にオープンモデルとして公開される予定","locale":"ja","take":null}],["$","$L4",null,{"title":"OpenAI元CTOのAI企業が高性能AIモデル「Inkling 2 Small」を発表、近日中にオープンモデルとして公開される予定","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/8aa289038aa28903b54473fb","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=OpenAI%E5%85%83CTO%E3%81%AEAI%E4%BC%81%E6%A5%AD%E3%81%8C%E9%AB%98%E6%80%A7%E8%83%BDAI%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E7%99%BA%E8%A1%A8%E3%80%81%E8%BF%91%E6%97%A5%E4%B8%AD%E3%81%AB%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E3%81%97%E3%81%A6%E5%85%AC%E9%96%8B%E3%81%95%E3%82%8C%E3%82%8B%E4%BA%88&mode=phrase&url=gigazine.net&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-world:https://bbc.co.uk/news/articles/ckp8g4pm0y4lo",{"children":["$","$L2",null,{"href":"/ja/n/a0f395c2a0f395c23325ccbe","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason"}]]}]}],["$","li","euronews:https://euronews.com/2026/11/06/group-of-lawyers-suing-french-interior-minister-over-protesters-life-changing-injuries",{"children":["$","$L2",null,{"href":"/ja/n/03dc28e903dc28e9f1c4ffcd","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Euronews"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Group of lawyers suing French interior minister over protesters' life-changing injuries"}]]}]}],["$","li","npr-world:https://npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",{"children":["$","$L2",null,{"href":"/ja/n/28f6510e28f6510e5b0d2254","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NPR"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"The leader of a Kenyan doomsday cult is sentenced to 200 years in prison"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"OpenAI元CTOのAI企業が高性能AIモデル「Inkling 2 Small」を発表、近日中にオープンモデルとして公開される予定"}],["$","meta","1",{"name":"description","content":"OpenAIの元CTOであるミラ・ムラティ氏が設立したアメリカに拠点を置くAI研究企業「Thinking Machines Lab」が、AIモデル「 Inkling 2 Small 」を現地時間の2026年11月5日に発表しました。近日中にオープンモデルとして公開される予定です。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"OpenAI元CTOのAI企業が高性能AIモデル「Inkling 2 Small」を発表、近日中にオープンモデルとして公開される予定"}],["$","meta","4",{"property":"og:description","content":"OpenAIの元CTOであるミラ・ムラティ氏が設立したアメリカに拠点を置くAI研究企業「Thinking Machines Lab」が、AIモデル「 Inkling 2 Small 」を現地時間の2026年11月5日に発表しました。近日中にオープンモデルとして公開される予定です。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/8aa289038aa28903b54473fb/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"OpenAI元CTOのAI企業が高性能AIモデル「Inkling 2 Small」を発表、近日中にオープンモデルとして公開される予定"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"OpenAI元CTOのAI企業が高性能AIモデル「Inkling 2 Small」を発表、近日中にオープンモデルとして公開される予定"}],["$","meta","14",{"name":"twitter:description","content":"OpenAIの元CTOであるミラ・ムラティ氏が設立したアメリカに拠点を置くAI研究企業「Thinking Machines Lab」が、AIモデル「 Inkling 2 Small 」を現地時間の2026年11月5日に発表しました。近日中にオープンモデルとして公開される予定です。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

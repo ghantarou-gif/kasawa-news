@@ -1,0 +1,85 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg","image"]
+e:X
+13:X
+13:C
+0:{"buildId":"v4pnrtun7pn_skbrgOFJo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-02","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"ウクライナで数十万世帯が停電、ロシアがエネルギーインフラ攻撃 へルソン州の人道的停戦が終了"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"5 日前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"ウクライナ南部ヘルソン州の前線地域で発効された異例の人道的停戦が1日、終了した。この局地的停戦では、ロシア占領下にある同州オレシュキから民間人が避難できた。"}],["$","p","1",{"children":"局地的な停戦は、現地時間1日午後10時59分に終了することになっていた。10月27日の発効開始以降、対象地域では停戦は維持されていたものの、ウクライナのほかの地域では戦闘が続いていた。"}],["$","p","2",{"children":"こうした中、ウクライナの空襲警報アプリが1日、首都キーウで放射能の脅威があるとする偽情報を一時表示する出来事があった。アプリがハッキングされたとみられる。偽の警報は、核攻撃の可能性を示唆するものだった。"}],["$","p","3",{"children":"ウクライナ空軍は通信アプリ「テレグラム」で、「空襲警報アプリがおそらく、敵対的な干渉を受けたと思われる。放射能の脅威はない！ 落ち着いて、空軍のチャンネルで最新情報を確認してほしい」と呼びかけた。"}],["$","p","4",{"children":"ウクライナのウォロディミル・ゼレンスキー大統領は、10月31日から11月1日にかけてのロシアの夜間攻撃で、ウクライナの4地域でエネルギーインフラが被害を受け、数十万世帯が停電したと明らかにした。一部の電力供給は1日に復旧した。"}],["$","p","5",{"children":"ウクライナ国家非常事態庁によると、中部ヴィーンヌィツャ州への夜間攻撃では、13歳の少女を含む2人が死亡した。"}],["$","p","6",{"children":"一方でウクライナは、ロシア南部ロストフ州にある主要なミサイル燃料製造施設を攻撃した。ゼレンスキー大統領によると、この攻撃で火災が発生し、四つの製造施設が損傷した。"}],["$","p","7",{"children":"ウクライナ国内では、電力供給を復旧させるための作業が終日続いた。ドニプロペトロウシク州では夕方の早い段階で、大半の利用者への電力供給が復旧したものの、依然として6万人以上が電気を使えない状態だと、州知事が明らかにした。"}],["$","p","8",{"children":"エネルギーインフラが繰り返し攻撃されているため、ウクライナ全土で緊急停電が実施されている。首都キーウでもほぼ丸一日電力が供給されず、断水も起きている。"}],["$","p","9",{"children":"ゼレンスキー氏は、ロシアによる攻撃の強度はこの1週間「非常に高い」状態にあるとして、「（ウクライナ側の）弾道ミサイル迎撃システムが不足している状況を、ロシアが最大限に利用しようとしている」とソーシャルメディアで書いた。"}],["$","p","10",{"children":"大統領はさらに、地対空ミサイルシステム「パトリオット」が必要だと、「アメリカ、欧州、その他、我々を支援できるパートナーに毎日連絡」していると強調した。「パトリオット」は、ロシアの弾道ミサイルを撃墜する手段として、唯一効果的な兵器。"}],["$","p","11",{"children":"ゼレンスキー氏は、各国からのこれまでの支援と長期的な取り組みに感謝しつつ、追加の即時支援を改めて求めた。"}],["$","p","12",{"children":"ウクライナ南部オレシュキから避難し、家族と再会する人々"}],["$","p","13",{"children":"Two people cloaked in Ukrainian flags embrace"}],["$","p","14",{"children":"10月27日に発効した限定的な停戦は、アメリカのメラニア・トランプ大統領夫人とキリスト教カトリック教会のローマ教皇レオ14世の働きかけで実現したとされる。"}],["$","p","15",{"children":"この停戦の対象地域は当初、ウクライナ南部へルソン州オレシュキに限られていたが、その後、同州の広い範囲へ拡大された。オレシュキは、2022年2月にロシアがウクライナへの全面侵攻を開始してから間もなく占領された。"}],["$","p","16",{"children":"ウクライナ南東部の拡大地図。ドニプロ川を挟んで、ウクライナが維持するヘルソンと、ロシア軍が占領するオレシュキが向かい合っている。川沿いは前線となっており、一部占領地域、占領を主張している地域などが混ざっている。出典は米戦争研究所とアメリカン・エンタープライズ研究所の「重大脅威プロジェクト」（日本時間10月27日午前6時時点）"}],["$","p","17",{"children":"オレシュキはドニプロ川と、ロシア軍陣地との間に取り残されている。市外へ通じる道路には地雷が敷設され、ドローン攻撃の危険にもさらされてきた。"}],["$","p","18",{"children":"市内に残された住民は、食料や水、電力の深刻な不足に苦しんできた。生き延びるために、庭に生えている雑草を調理して食べる住民も多かったという。"}],["$","p","19",{"children":"停戦中にロシア占領下のオレシュキの住民に提示された避難ルートを示す、ウクライナ南部とロシア西部の地図。ヘルソン州の占領地域にあるオレシュキは、ロシア軍の支配下にある地域として強調表示されている。3段階のルートが赤い矢印と番号付きのステップで示されている。（1）オレシュキから南東に進み、占領地域とクリミア半島を経由して黒海沿岸のロシアのアナパへバスで移動する。（2）アナパからベラルーシのゴメリへ飛行機で移動する。（3）ゴメリからウクライナのチェルニヒウ州へバスで移動する。"}],["$","p","20",{"children":"へルソン州での局地的停戦により、オレシュキの住民は希望すれば市外へ避難できるようになった。10月31日には、避難した人々が愛する人たちと数年ぶりに再会を果たす場面が見られた。"}],["$","p","21",{"children":"オレシュキから約5キロ離れた場所にはウクライナ軍陣地があるが、避難する住民はそこへ直接向かうことはできなかった。ロシア占領地域を通ってロシア南部へ移動し、空路で隣国ベラルーシへ渡り、最終的に陸路でウクライナ北部の国境を越えてウクライナへ戻った。"}],"$L3","$L4"],"$L5"]}],"$L6","$L7","$L8",null,"$L9","$La"]}],["$Lb"],"$Lc"]}],"isPartial":"$@d","staleTime":"$e","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$e","varyParams":null},{"rsc":"$L11","isPartial":"$@12","staleTime":"$e","varyParams":"$13"},{"rsc":"$L14","isPartial":"$@15","staleTime":"$e","varyParams":"$13"}],"isUpgradeableISRFallback":false,"a":"$@16","rootVaryParams":null,"needsRuntimeRequest":"$@17"}
+18:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+19:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+1b:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1d:"$Sreact.suspense"
+1f:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+20:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+21:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+22:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+23:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","22",{"children":"ウクライナ議会の人権コミッショナー、ドミトロ・ルビネツ氏によると、避難者の最高齢は94歳で、最年少は1歳だった。"}]
+4:["$","p","23",{"children":"（英語記事 Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends）"}]
+5:["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]
+6:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/cjp3g6g6vn96o","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}]
+1a:T18c5,ウクライナ南部ヘルソン州の前線地域で発効された異例の人道的停戦が1日、終了した。この局地的停戦では、ロシア占領下にある同州オレシュキから民間人が避難できた。
+
+局地的な停戦は、現地時間1日午後10時59分に終了することになっていた。10月27日の発効開始以降、対象地域では停戦は維持されていたものの、ウクライナのほかの地域では戦闘が続いていた。
+
+こうした中、ウクライナの空襲警報アプリが1日、首都キーウで放射能の脅威があるとする偽情報を一時表示する出来事があった。アプリがハッキングされたとみられる。偽の警報は、核攻撃の可能性を示唆するものだった。
+
+ウクライナ空軍は通信アプリ「テレグラム」で、「空襲警報アプリがおそらく、敵対的な干渉を受けたと思われる。放射能の脅威はない！ 落ち着いて、空軍のチャンネルで最新情報を確認してほしい」と呼びかけた。
+
+ウクライナのウォロディミル・ゼレンスキー大統領は、10月31日から11月1日にかけてのロシアの夜間攻撃で、ウクライナの4地域でエネルギーインフラが被害を受け、数十万世帯が停電したと明らかにした。一部の電力供給は1日に復旧した。
+
+ウクライナ国家非常事態庁によると、中部ヴィーンヌィツャ州への夜間攻撃では、13歳の少女を含む2人が死亡した。
+
+一方でウクライナは、ロシア南部ロストフ州にある主要なミサイル燃料製造施設を攻撃した。ゼレンスキー大統領によると、この攻撃で火災が発生し、四つの製造施設が損傷した。
+
+ウクライナ国内では、電力供給を復旧させるための作業が終日続いた。ドニプロペトロウシク州では夕方の早い段階で、大半の利用者への電力供給が復旧したものの、依然として6万人以上が電気を使えない状態だと、州知事が明らかにした。
+
+エネルギーインフラが繰り返し攻撃されているため、ウクライナ全土で緊急停電が実施されている。首都キーウでもほぼ丸一日電力が供給されず、断水も起きている。
+
+ゼレンスキー氏は、ロシアによる攻撃の強度はこの1週間「非常に高い」状態にあるとして、「（ウクライナ側の）弾道ミサイル迎撃システムが不足している状況を、ロシアが最大限に利用しようとしている」とソーシャルメディアで書いた。
+
+大統領はさらに、地対空ミサイルシステム「パトリオット」が必要だと、「アメリカ、欧州、その他、我々を支援できるパートナーに毎日連絡」していると強調した。「パトリオット」は、ロシアの弾道ミサイルを撃墜する手段として、唯一効果的な兵器。
+
+ゼレンスキー氏は、各国からのこれまでの支援と長期的な取り組みに感謝しつつ、追加の即時支援を改めて求めた。
+
+ウクライナ南部オレシュキから避難し、家族と再会する人々
+
+Two people cloaked in Ukrainian flags embrace
+
+10月27日に発効した限定的な停戦は、アメリカのメラニア・トランプ大統領夫人とキリスト教カトリック教会のローマ教皇レオ14世の働きかけで実現したとされる。
+
+この停戦の対象地域は当初、ウクライナ南部へルソン州オレシュキに限られていたが、その後、同州の広い範囲へ拡大された。オレシュキは、2022年2月にロシアがウクライナへの全面侵攻を開始してから間もなく占領された。
+
+ウクライナ南東部の拡大地図。ドニプロ川を挟んで、ウクライナが維持するヘルソンと、ロシア軍が占領するオレシュキが向かい合っている。川沿いは前線となっており、一部占領地域、占領を主張している地域などが混ざっている。出典は米戦争研究所とアメリカン・エンタープライズ研究所の「重大脅威プロジェクト」（日本時間10月27日午前6時時点）
+
+オレシュキはドニプロ川と、ロシア軍陣地との間に取り残されている。市外へ通じる道路には地雷が敷設され、ドローン攻撃の危険にもさらされてきた。
+
+市内に残された住民は、食料や水、電力の深刻な不足に苦しんできた。生き延びるために、庭に生えている雑草を調理して食べる住民も多かったという。
+
+停戦中にロシア占領下のオレシュキの住民に提示された避難ルートを示す、ウクライナ南部とロシア西部の地図。ヘルソン州の占領地域にあるオレシュキは、ロシア軍の支配下にある地域として強調表示されている。3段階のルートが赤い矢印と番号付きのステップで示されている。（1）オレシュキから南東に進み、占領地域とクリミア半島を経由して黒海沿岸のロシアのアナパへバスで移動する。（2）アナパからベラルーシのゴメリへ飛行機で移動する。（3）ゴメリからウクライナのチェルニヒウ州へバスで移動する。
+
+へルソン州での局地的停戦により、オレシュキの住民は希望すれば市外へ避難できるようになった。10月31日には、避難した人々が愛する人たちと数年ぶりに再会を果たす場面が見られた。
+
+オレシュキから約5キロ離れた場所にはウクライナ軍陣地があるが、避難する住民はそこへ直接向かうことはできなかった。ロシア占領地域を通ってロシア南部へ移動し、空路で隣国ベラルーシへ渡り、最終的に陸路でウクライナ北部の国境を越えてウクライナへ戻った。
+
+ウクライナ議会の人権コミッショナー、ドミトロ・ルビネツ氏によると、避難者の最高齢は94歳で、最年少は1歳だった。
+
+（英語記事 Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends）7:["$","section",null,{"className":"article-actions","children":[["$","$L18",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/e48d34e2e48d34e2b7e263ac","title":"ウクライナで数十万世帯が停電、ロシアがエネルギーインフラ攻撃 へルソン州の人道的停戦が終了","locale":"ja","take":null}],["$","$L19",null,{"title":"ウクライナで数十万世帯が停電、ロシアがエネルギーインフラ攻撃 へルソン州の人道的停戦が終了","excerpt":"$1a","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/e48d34e2e48d34e2b7e263ac","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E3%81%A7%E6%95%B0%E5%8D%81%E4%B8%87%E4%B8%96%E5%B8%AF%E3%81%8C%E5%81%9C%E9%9B%BB%E3%80%81%E3%83%AD%E3%82%B7%E3%82%A2%E3%81%8C%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E6%94%BB%E6%92%83+%E3%81%B8%E3%83%AB%E3%82%BD%E3%83%B3%E5%B7%9E%E3%81%AE%E4%BA%BA%E9%81%93%E7%9A%84%E5%81%9C%E6%88%A6%E3%81%8C%E7%B5%82%E4%BA%86&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+8:["$","$L1b",null,{"placement":"article","className":"mt-8"}]
+9:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+a:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","dw:https://dw.com/en/la-communities-kick-out-big-oil/a-79830843?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/8b928cda8b928cdae6f4a4a6","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"LA communities kick out Big Oil"}]]}]}],["$","li","nhk-politics:https://news.web.nhk/newsweb/na/nd-20261102de69793",{"children":["$","$L2",null,{"href":"/ja/n/c6954418c695441827065e40","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"アメリカ中間選挙 3日に投票開始 NW9広内キャスターが現地取材"}]]}]}],["$","li","nhk-society:https://news.web.nhk/newsweb/na/nd-20261102de69830",{"children":["$","$L2",null,{"href":"/ja/n/9730b9ef9730b9ef63b0ed87","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"アジア太平洋放送連合 次の会長にNHKの山名副会長を選出"}]]}]}]]}]]}]
+b:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+c:["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+f:["$","$1","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L20",null,{"children":["$","$1d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ウクライナで数十万世帯が停電、ロシアがエネルギーインフラ攻撃 へルソン州の人道的停戦が終了"}],["$","meta","1",{"name":"description","content":"ウクライナ南部ヘルソン州の前線地域で発効された異例の人道的停戦が1日、終了した。この局地的停戦では、ロシア占領下にある同州オレシュキから民間人が避難できた。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"ウクライナで数十万世帯が停電、ロシアがエネルギーインフラ攻撃 へルソン州の人道的停戦が終了"}],["$","meta","4",{"property":"og:description","content":"ウクライナ南部ヘルソン州の前線地域で発効された異例の人道的停戦が1日、終了した。この局地的停戦では、ロシア占領下にある同州オレシュキから民間人が避難できた。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/e48d34e2e48d34e2b7e263ac/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fd8e6%2Flive%2F7871d270-d627-11f1-a947-0507737f09b2.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"ウクライナで数十万世帯が停電、ロシアがエネルギーインフラ攻撃 へルソン州の人道的停戦が終了"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"ウクライナで数十万世帯が停電、ロシアがエネルギーインフラ攻撃 へルソン州の人道的停戦が終了"}],["$","meta","14",{"name":"twitter:description","content":"ウクライナ南部ヘルソン州の前線地域で発効された異例の人道的停戦が1日、終了した。この局地的停戦では、ロシア占領下にある同州オレシュキから民間人が避難できた。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fd8e6%2Flive%2F7871d270-d627-11f1-a947-0507737f09b2.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L21","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+11:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+14:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+17:true
+1e:null
+e:300
+e:C
+16:0
+10:"$undefined"
+12:"$undefined"
+15:"$undefined"
+d:"$undefined"

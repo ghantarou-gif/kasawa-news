@@ -1,0 +1,100 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261106-35254497-cnn-000-5-view.jpg?pri=l&w=450&h=300&exp=10800","image"]
+16:X
+1b:X
+1b:C
+0:{"buildId":"v4pnrtun7pn_skbrgOFJo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-06","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"ローマ時代の石棺に納められた遺骨は誰のもの？、長年の謎を解明か 英ウェストミンスター寺院(CNN.co.jp)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261106-35254497-cnn-000-5-view.jpg?pri=l&w=450&h=300&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"（CNN） 英ロンドンのウェストミンスター寺院で150年以上前に発見された石棺。中に納められている遺骨が誰のものなのかは長年、謎のままだったが、考古学研究チームがこのほど、中世の高貴な人物につながる手がかりが見つかったと発表した。ただしそれは、もともとこの棺（ひつぎ）に納められていたのとは違う人物だった。"}],["$","p","1",{"children":"この石棺が4世紀ごろのローマ時代のものだったことは、これまでの調査で判明している。3行の碑文にはラテン語で「バレリウス・アマンディヌスの記憶に捧ぐ」と刻まれている。棺の質の高さを考えると、恐らくアマンディヌスはロンドンに住んでいた重要人物だった可能性が大きいものの、その生涯や功績については何も分かっていない。"}],["$","p","2",{"children":"しかし、棺の蓋に刻まれた長さ1.8メートルの十字架はアングロサクソン時代後期の様式で、作られたのは少なくとも600年後だったと推定される。ウェストミンスター寺院の考古学専門家ウォリック・ロッドウェル氏によると、この十字架の存在をめぐり、棺の中の遺骨が本当にアマンディヌスだったのかという疑問が浮上した。"}],["$","p","3",{"children":"そこでロッドウェル氏が人骨を改めて分析した結果、中世のウェストミンスター寺院の修道士または修道院長だった可能性が大きいことが分かった。ロッドウェル氏は10月20日、英考古学会誌にこの調査結果を発表した。"}],["$","p","4",{"children":"ウェストミンスター寺院に埋葬されていた石棺は1820年に発見された。発掘調査の際に蓋が割れて6片にくだけ、乱暴に扱ったことから頭蓋骨（ずがいこつ）も損傷した。蓋が開いていた間に盗掘に遭ったらしく、遺骨はよせ集めてバラバラになった状態のまま放置されていた。その後、棺も中の遺骨も記録や調査が行われないまま埋め戻された。"}],["$","p","5",{"children":"石棺が2度目に「発見」されたのは、1869年に行われた改修プロジェクトがきっかけだった。棺は寺院内のノースグリーン区画からイーストクロイスター区画へ移され、後に北西塔の基部へと移動した。棺はかなりの重さがあったことから、この作業には36時間以上を要した。"}],["$","p","6",{"children":"ロッドウェル氏がこの石棺の歴史のことを知ったのは2009年だった。16年に寺院内に新設されるギャラリーの展示を準備する中で、棺の洗浄と保全が予定されていることを知った同氏は、この謎を解くチャンスを逃さなかった。"}],["$","p","7",{"children":"「改めて調べるチャンスだと思った。150年も封印されていた石棺の中に、もしもあるとすれば何があるのか知りたかった」。CNNの電子メール取材に対してロッドウェル氏はそう語った。"}],["$","p","8",{"children":"（CNN） 英ロンドンのウェストミンスター寺院で150年以上前に発見された石棺。中に納められている遺骨が誰のものなのかは長年、謎のままだったが、考古学研究チームがこのほど、中世の高貴な人物につながる手がかりが見つかったと発表した。ただしそれは、もともとこの棺（ひつぎ）に納められていたのとは違う人物だった。"}],["$","p","9",{"children":"この石棺が4世紀ごろのローマ時代のものだったことは、これまでの調査で判明している。3行の碑文にはラテン語で「バレリウス・アマンディヌスの記憶に捧ぐ」と刻まれている。棺の質の高さを考えると、恐らくアマンディヌスはロンドンに住んでいた重要人物だった可能性が大きいものの、その生涯や功績については何も分かっていない。"}],["$","p","10",{"children":"しかし、棺の蓋に刻まれた長さ1.8メートルの十字架はアングロサクソン時代後期の様式で、作られたのは少なくとも600年後だったと推定される。ウェストミンスター寺院の考古学専門家ウォリック・ロッドウェル氏によると、この十字架の存在をめぐり、棺の中の遺骨が本当にアマンディヌスだったのかという疑問が浮上した。"}],["$","p","11",{"children":"そこでロッドウェル氏が人骨を改めて分析した結果、中世のウェストミンスター寺院の修道士または修道院長だった可能性が大きいことが分かった。ロッドウェル氏は10月20日、英考古学会誌にこの調査結果を発表した。"}],["$","p","12",{"children":"ウェストミンスター寺院に埋葬されていた石棺は1820年に発見された。発掘調査の際に蓋が割れて6片にくだけ、乱暴に扱ったことから頭蓋骨（ずがいこつ）も損傷した。蓋が開いていた間に盗掘に遭ったらしく、遺骨はよせ集めてバラバラになった状態のまま放置されていた。その後、棺も中の遺骨も記録や調査が行われないまま埋め戻された。"}],["$","p","13",{"children":"石棺が2度目に「発見」されたのは、1869年に行われた改修プロジェクトがきっかけだった。棺は寺院内のノースグリーン区画からイーストクロイスター区画へ移され、後に北西塔の基部へと移動した。棺はかなりの重さがあったことから、この作業には36時間以上を要した。"}],["$","p","14",{"children":"ロッドウェル氏がこの石棺の歴史のことを知ったのは2009年だった。16年に寺院内に新設されるギャラリーの展示を準備する中で、棺の洗浄と保全が予定されていることを知った同氏は、この謎を解くチャンスを逃さなかった。"}],["$","p","15",{"children":"「改めて調べるチャンスだと思った。150年も封印されていた石棺の中に、もしもあるとすれば何があるのか知りたかった」。CNNの電子メール取材に対してロッドウェル氏はそう語った。"}],["$","p","16",{"children":"石棺は石灰岩の一枚岩からつくられたもので、中には遺骨がバラバラの状態のまま入っていた。棺の長さは約2メートル、仕切りの厚さは平均で約10センチ。骨格は約90％がそろっていて、頭蓋骨は1869年に棺が開けられた時点で修復されていたという。"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc"],"$Ld"]}],"$Le","$Lf","$L10",null,"$L11","$L12"]}],["$L13"],"$L14"]}],"isPartial":"$@15","staleTime":"$16","varyParams":null},{"rsc":"$L17","isPartial":"$@18","staleTime":"$16","varyParams":null},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$16","varyParams":"$1b"},{"rsc":"$L1c","isPartial":"$@1d","staleTime":"$16","varyParams":"$1b"}],"isUpgradeableISRFallback":false,"a":"$@1e","rootVaryParams":null,"needsRuntimeRequest":"$@1f"}
+20:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+21:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+24:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+25:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+26:"$Sreact.suspense"
+28:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+29:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+2a:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+2b:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+2c:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","17",{"children":"骨を分析した結果、この人物は35～49歳で死亡した男性らしいことが判明。放射性炭素年代測定によると、死亡したのは987～1052年の間と推定される。歯の状態は良好で、骨には骨折が治った痕や変形性関節症、痛風の痕跡が見られたものの、重病や死に至るほどの大けがの痕跡は見つからなかった。"}]
+4:["$","p","18",{"children":"研究者らが遺骨を取り出して、棺の中にたまっていた土やがれきを取り除いたところ、驚いたことに、長方形に敷き詰められた石灰が見つかった。石灰は腐敗を早め、当時病気に関係があると思われていたミアズマ（有害な蒸気）を閉じ込めると考えられていた。ロッドウェル氏は石灰の形から判断して、遺体はまず長方形の木棺に納められ、そこに石灰を詰めた後に、石棺に入れたと推測している。「想像もしていなかった。木棺は完全に腐ってなくなっていた」"}]
+5:["$","p","19",{"children":"遺体を石灰で覆う習慣は中世では稀（まれ）で、通常は身分の高い人物を埋葬する際に行われていたという。"}]
+6:["$","p","20",{"children":"研究者らはその手がかりと、棺に刻まれた十字架から判断して、ウェストミンスターの修道院長の遺骨だった可能性が大きいと推測した。この時代に該当する人物は2人いた。993年～1020年ごろまで修道院長を務めたアルフウィグと、1020年に修道院長に就任したウルフノス。アルフウィグは修道院長になる前からウェストミンスターの修道士で、この教会との結びつきがより強かったことから、可能性はやや大きい。"}]
+7:["$","p","21",{"children":"しかし由緒ある教会の修道院長がなぜ、再利用されたローマ時代の石棺に納められたのか。ロッドウェル氏によれば、実際には位の高さに敬意を表した行為だった。"}]
+8:["$","p","22",{"children":"「サクソン時代後期には、石棺を入手するのが困難だった。石棺を製作する産業は死に絶えていた」「そのため、中古の石棺の入手は『褒美』のようなものだった」"}]
+9:["$","p","23",{"children":"ロッドウェル氏によれば、こうした石棺は非常に貴重だったことから、7世紀にはイングランド東部イーリーの修道士たちがケンブリッジにあるローマ時代の墓地まで出かけて石棺を掘り起こし、死去した修道院長のために持ち帰ることもあったという。"}]
+a:["$","p","24",{"children":"石棺が再利用されたもう一つの例としては、現在バチカン美術館に収蔵されている4世紀の精巧な石棺がある。中世考古学に詳しいウィンチェスター大学のサイモン・ロフェイ氏によると、この棺にはコンスタンティヌス大帝の母ヘレナが納められていると噂（うわさ）されているという。棺にはローマ兵が異民族を踏みつける場面が刻まれていることから、もともとは男性のものだった可能性が大きい。"}]
+b:["$","p","25",{"children":"ただ、中世キリスト教時代に異教徒の墓や石棺が再利用された動機や理屈を解き明かすためにはさらなる研究が必要だとロフェイ氏は指摘した。同氏は今回の研究にはかかわっておらず、電子メールでCNNの取材に応じた。"}]
+c:["$","p","26",{"children":"ロッドウェル氏によると、修道院長アルフウィグはそれほどの有名人ではなかった。それでも今回の発見によって1869年以来の謎が解け、「英国で最も重要な教会」とされるウェストミンスター寺院の歴史におけるアングロサクソン時代の大きな空白が埋まったと強調している。"}]
+d:["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]
+e:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/a6db4e75078233bd076bbdfde51648e958290c4e?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}]
+22:T27b9,（CNN） 英ロンドンのウェストミンスター寺院で150年以上前に発見された石棺。中に納められている遺骨が誰のものなのかは長年、謎のままだったが、考古学研究チームがこのほど、中世の高貴な人物につながる手がかりが見つかったと発表した。ただしそれは、もともとこの棺（ひつぎ）に納められていたのとは違う人物だった。
+
+この石棺が4世紀ごろのローマ時代のものだったことは、これまでの調査で判明している。3行の碑文にはラテン語で「バレリウス・アマンディヌスの記憶に捧ぐ」と刻まれている。棺の質の高さを考えると、恐らくアマンディヌスはロンドンに住んでいた重要人物だった可能性が大きいものの、その生涯や功績については何も分かっていない。
+
+しかし、棺の蓋に刻まれた長さ1.8メートルの十字架はアングロサクソン時代後期の様式で、作られたのは少なくとも600年後だったと推定される。ウェストミンスター寺院の考古学専門家ウォリック・ロッドウェル氏によると、この十字架の存在をめぐり、棺の中の遺骨が本当にアマンディヌスだったのかという疑問が浮上した。
+
+そこでロッドウェル氏が人骨を改めて分析した結果、中世のウェストミンスター寺院の修道士または修道院長だった可能性が大きいことが分かった。ロッドウェル氏は10月20日、英考古学会誌にこの調査結果を発表した。
+
+ウェストミンスター寺院に埋葬されていた石棺は1820年に発見された。発掘調査の際に蓋が割れて6片にくだけ、乱暴に扱ったことから頭蓋骨（ずがいこつ）も損傷した。蓋が開いていた間に盗掘に遭ったらしく、遺骨はよせ集めてバラバラになった状態のまま放置されていた。その後、棺も中の遺骨も記録や調査が行われないまま埋め戻された。
+
+石棺が2度目に「発見」されたのは、1869年に行われた改修プロジェクトがきっかけだった。棺は寺院内のノースグリーン区画からイーストクロイスター区画へ移され、後に北西塔の基部へと移動した。棺はかなりの重さがあったことから、この作業には36時間以上を要した。
+
+ロッドウェル氏がこの石棺の歴史のことを知ったのは2009年だった。16年に寺院内に新設されるギャラリーの展示を準備する中で、棺の洗浄と保全が予定されていることを知った同氏は、この謎を解くチャンスを逃さなかった。
+
+「改めて調べるチャンスだと思った。150年も封印されていた石棺の中に、もしもあるとすれば何があるのか知りたかった」。CNNの電子メール取材に対してロッドウェル氏はそう語った。
+
+（CNN） 英ロンドンのウェストミンスター寺院で150年以上前に発見された石棺。中に納められている遺骨が誰のものなのかは長年、謎のままだったが、考古学研究チームがこのほど、中世の高貴な人物につながる手がかりが見つかったと発表した。ただしそれは、もともとこの棺（ひつぎ）に納められていたのとは違う人物だった。
+
+この石棺が4世紀ごろのローマ時代のものだったことは、これまでの調査で判明している。3行の碑文にはラテン語で「バレリウス・アマンディヌスの記憶に捧ぐ」と刻まれている。棺の質の高さを考えると、恐らくアマンディヌスはロンドンに住んでいた重要人物だった可能性が大きいものの、その生涯や功績については何も分かっていない。
+
+しかし、棺の蓋に刻まれた長さ1.8メートルの十字架はアングロサクソン時代後期の様式で、作られたのは少なくとも600年後だったと推定される。ウェストミンスター寺院の考古学専門家ウォリック・ロッドウェル氏によると、この十字架の存在をめぐり、棺の中の遺骨が本当にアマンディヌスだったのかという疑問が浮上した。
+
+そこでロッドウェル氏が人骨を改めて分析した結果、中世のウェストミンスター寺院の修道士または修道院長だった可能性が大きいことが分かった。ロッドウェル氏は10月20日、英考古学会誌にこの調査結果を発表した。
+
+ウェストミンスター寺院に埋葬されていた石棺は1820年に発見された。発掘調査の際に蓋が割れて6片にくだけ、乱暴に扱ったことから頭蓋骨（ずがいこつ）も損傷した。蓋が開いていた間に盗掘に遭ったらしく、遺骨はよせ集めてバラバラになった状態のまま放置されていた。その後、棺も中の遺骨も記録や調査が行われないまま埋め戻された。
+
+石棺が2度目に「発見」されたのは、1869年に行われた改修プロジェクトがきっかけだった。棺は寺院内のノースグリーン区画からイーストクロイスター区画へ移され、後に北西塔の基部へと移動した。棺はかなりの重さがあったことから、この作業には36時間以上を要した。
+
+ロッドウェル氏がこの石棺の歴史のことを知ったのは2009年だった。16年に寺院内に新設されるギャラリーの展示を準備する中で、棺の洗浄と保全が予定されていることを知った同氏は、この謎を解くチャンスを逃さなかった。
+
+「改めて調べるチャンスだと思った。150年も封印されていた石棺の中に、もしもあるとすれば何があるのか知りたかった」。CNNの電子メール取材に対してロッドウェル氏はそう語った。
+
+石棺は石灰岩の一枚岩からつくられたもので、中には遺骨がバラバラの状態のまま入っていた。棺の長さは約2メートル、仕切りの厚さは平均で約10センチ。骨格は約90％がそろっていて、頭蓋骨は1869年に棺が開けられた時点で修復されていたという。
+
+骨を分析した結果、この人物は35～49歳で死亡した男性らしいことが判明。放射性炭素年代測定によると、死亡したのは987～1052年の間と推定される。歯の状態は良好で、骨には骨折が治った痕や変形性関節症、痛風の痕跡が見られたものの、重病や死に至るほどの大けがの痕跡は見つからなかった。
+
+研究者らが遺骨を取り出して、棺の中にたまっていた土やがれきを取り除いたところ、驚いたことに、長方形に敷き詰められた石灰が見つかった。石灰は腐敗を早め、当時病気に関係があると思われていたミアズマ（有害な蒸気）を閉じ込めると考えられていた。ロッドウェル氏は石灰の形から判断して、遺体はまず長方形の木棺に納められ、そこに石灰を詰めた後に、石棺に入れたと推測している。「想像もしていなかった。木棺は完全に腐ってなくなっていた」
+
+遺体を石灰で覆う習慣は中世では稀（まれ）で、通常は身分の高い人物を埋葬する際に行われていたという。
+
+研究者らはその手がかりと、棺に刻まれた十字架から判断して、ウェストミンスターの修道院長の遺骨だった可能性が大きいと推測した。この時代に該当する人物は2人いた。993年～1020年ごろまで修道院長を務めたアルフウィグと、1020年に修道院長に就任したウルフノス。アルフウィグは修道院長になる前からウェストミンスターの修道士で、この教会との結びつきがより強かったことから、可能性はやや大きい。
+
+しかし由緒ある教会の修道院長がなぜ、再利用されたローマ時代の石棺に納められたのか。ロッドウェル氏によれば、実際には位の高さに敬意を表した行為だった。
+
+「サクソン時代後期には、石棺を入手するのが困難だった。石棺を製作する産業は死に絶えていた」「そのため、中古の石棺の入手は『褒美』のようなものだった」
+
+ロッドウェル氏によれば、こうした石棺は非常に貴重だったことから、7世紀にはイングランド東部イーリーの修道士たちがケンブリッジにあるローマ時代の墓地まで出かけて石棺を掘り起こし、死去した修道院長のために持ち帰ることもあったという。
+
+石棺が再利用されたもう一つの例としては、現在バチカン美術館に収蔵されている4世紀の精巧な石棺がある。中世考古学に詳しいウィンチェスター大学のサイモン・ロフェイ氏によると、この棺にはコンスタンティヌス大帝の母ヘレナが納められていると噂（うわさ）されているという。棺にはローマ兵が異民族を踏みつける場面が刻まれていることから、もともとは男性のものだった可能性が大きい。
+
+ただ、中世キリスト教時代に異教徒の墓や石棺が再利用された動機や理屈を解き明かすためにはさらなる研究が必要だとロフェイ氏は指摘した。同氏は今回の研究にはかかわっておらず、電子メールでCNNの取材に応じた。
+
+ロッドウェル氏によると、修道院長アルフウィグはそれほどの有名人ではなかった。それでも今回の発見によって1869年以来の謎が解け、「英国で最も重要な教会」とされるウェストミンスター寺院の歴史におけるアングロサクソン時代の大きな空白が埋まったと強調している。f:["$","section",null,{"className":"article-actions","children":[["$","$L20",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/85dc82ef85dc82efc292fa47","title":"ローマ時代の石棺に納められた遺骨は誰のもの？、長年の謎を解明か 英ウェストミンスター寺院(CNN.co.jp)","locale":"ja","take":null}],["$","$L21",null,{"title":"ローマ時代の石棺に納められた遺骨は誰のもの？、長年の謎を解明か 英ウェストミンスター寺院(CNN.co.jp)","excerpt":"$22","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/85dc82ef85dc82efc292fa47","locale":"ja"}],"$L23"]}]
+10:["$","$L24",null,{"placement":"article","className":"mt-8"}]
+11:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+12:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-world:https://bbc.co.uk/news/articles/ckp8g4pm0y4lo",{"children":["$","$L2",null,{"href":"/ja/n/a0f395c2a0f395c23325ccbe","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason"}]]}]}],["$","li","euronews:https://euronews.com/2026/11/06/group-of-lawyers-suing-french-interior-minister-over-protesters-life-changing-injuries",{"children":["$","$L2",null,{"href":"/ja/n/03dc28e903dc28e9f1c4ffcd","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Euronews"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Group of lawyers suing French interior minister over protesters' life-changing injuries"}]]}]}],["$","li","npr-world:https://npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",{"children":["$","$L2",null,{"href":"/ja/n/28f6510e28f6510e5b0d2254","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NPR"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"The leader of a Kenyan doomsday cult is sentenced to 200 years in prison"}]]}]}]]}]]}]
+13:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+14:["$","$L25",null,{"children":["$","$26",null,{"name":"Next.MetadataOutlet","children":"$@27"}]}]
+17:["$","$1","h",{"children":[null,["$","$L28",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L29",null,{"children":["$","$26",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ローマ時代の石棺に納められた遺骨は誰のもの？、長年の謎を解明か 英ウェストミンスター寺院(CNN.co.jp)"}],["$","meta","1",{"name":"description","content":"（CNN） 英ロンドンのウェストミンスター寺院で150年以上前に発見された石棺。中に納められている遺骨が誰のものなのかは長年、謎のままだったが、考古学研究チームがこのほど、中世の高貴な人物につながる手がかりが見つかったと発表した。ただしそれは、もともとこの棺（ひつぎ）に納められていたのとは違う人物だった。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"ローマ時代の石棺に納められた遺骨は誰のもの？、長年の謎を解明か 英ウェストミンスター寺院(CNN.co.jp)"}],["$","meta","4",{"property":"og:description","content":"（CNN） 英ロンドンのウェストミンスター寺院で150年以上前に発見された石棺。中に納められている遺骨が誰のものなのかは長年、謎のままだったが、考古学研究チームがこのほど、中世の高貴な人物につながる手がかりが見つかったと発表した。ただしそれは、もともとこの棺（ひつぎ）に納められていたのとは違う人物だった。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/85dc82ef85dc82efc292fa47/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261106-35254497-cnn-000-5-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"ローマ時代の石棺に納められた遺骨は誰のもの？、長年の謎を解明か 英ウェストミンスター寺院(CNN.co.jp)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"ローマ時代の石棺に納められた遺骨は誰のもの？、長年の謎を解明か 英ウェストミンスター寺院(CNN.co.jp)"}],["$","meta","14",{"name":"twitter:description","content":"（CNN） 英ロンドンのウェストミンスター寺院で150年以上前に発見された石棺。中に納められている遺骨が誰のものなのかは長年、謎のままだったが、考古学研究チームがこのほど、中世の高貴な人物につながる手がかりが見つかったと発表した。ただしそれは、もともとこの棺（ひつぎ）に納められていたのとは違う人物だった。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261106-35254497-cnn-000-5-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L2a","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+19:["$","$1","c",{"children":[null,["$","$L2b",null,{"parallelRouterKey":"children","template":["$","$L2c",null,{}]}]]}]
+1c:["$","$1","c",{"children":[null,["$","$L2b",null,{"parallelRouterKey":"children","template":["$","$L2c",null,{}]}]]}]
+1f:true
+23:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%83%AD%E3%83%BC%E3%83%9E%E6%99%82%E4%BB%A3%E3%81%AE%E7%9F%B3%E6%A3%BA%E3%81%AB%E7%B4%8D%E3%82%81%E3%82%89%E3%82%8C%E3%81%9F%E9%81%BA%E9%AA%A8%E3%81%AF%E8%AA%B0%E3%81%AE%E3%82%82%E3%81%AE%EF%BC%9F%E3%80%81%E9%95%B7%E5%B9%B4%E3%81%AE%E8%AC%8E%E3%82%92%E8%A7%A3%E6%98%8E%E3%81%8B+%E8%8B%B1%E3%82%A6%E3%82%A7%E3%82%B9%E3%83%88%E3%83%9F%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E5%AF%BA%E9%99%A2&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+27:null
+16:300
+16:C
+1e:0
+18:"$undefined"
+1a:"$undefined"
+1d:"$undefined"
+15:"$undefined"

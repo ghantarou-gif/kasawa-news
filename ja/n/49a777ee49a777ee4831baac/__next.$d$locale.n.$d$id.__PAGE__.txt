@@ -1,0 +1,69 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c2da/live/12dda4f0-d5f7-11f1-a6a8-6dc45e4fc351.jpg","image"]
+5:Teda,逮捕されて歩くことを拒み、警官に抱えられて連行される抗議者
+
+ターコイズブルーの上着を着た白髪の女性が、警官4人に囲まれ、両腕を抱えられて運ばれている
+
+イギリスのロンドン警視庁は1日、前日にロンドンのアメリカ大使館前で行われた、親パレスチナ団体「パレスチナ・アクション」を支持する抗議活動で300人以上を逮捕したと発表した。同団体は、イギリス国内での活動を禁止されている。
+
+ロンドン南西部ナインエルムズ地区には10月31日、数百人が集まった。参加者の多くは、「ジェノサイド（集団虐殺）反対。パレスチナ・アクションを支持する」などと書かれたプラカードを掲げた。
+
+ロンドン警視庁は翌11月1日、この抗議に関連して325人を逮捕したと発表。うち320人について、「テロリズム法に基づいて活動が禁止された団体への支持を表明した」疑いがあると、ソーシャルメディアで説明した。
+
+パレスチナ・アクションはイギリスで昨年7月、活動禁止団体に指定された。同団体に関連する逮捕者は、これまでに少なくとも4000人に上っている。
+
+活動禁止措置をめぐっては、パレスチナ・アクションの共同創設者が上訴し、英最高裁判所が審理する予定。
+
+警察は10月31日夕にかけて、抗議者を移送用の警察車両へ連行した。多くの抗議者は連行される人々に拍手を送った。「フリー、フリー、パレスチナ」（パレスチナを解放しろ）と声を上げる人もいた。
+
+歩くことを拒んだ抗議者を、警官が抱えて移動させる場面もあった。
+
+連行された人の中には、元弁護士のチャールズ・アリソン氏（75）の姿もあった。この日の抗議に参加するため、イングランド北西部カンブリアから駆けつけていた。同氏は、市民の自由が「軽視され、骨抜きにされつつある」ことを懸念していると述べた。
+
+「最高裁判事が必ずしも、これ（抗議活動）に影響されるとは限らない。しかし、この国で起きていることを長期的な視点で捉え、団体に対する禁止措置は違法だと判断してくれることを願っている。これが違法だと、私が信じているように」
+
+抗議者の一人のデイヴィッド・ボルデン氏は、逮捕されるのを前に、活動禁止措置を「ばかげた法律」と呼んだ。
+
+一連の抗議活動を調整してきた団体「Defend Our Juries（陪審員を守れ）」は、この週末の逮捕者を加えると、パレスチナ・アクションが活動禁止団体に指定されて以降の逮捕者が計4000人を超えたと発表。「まさにディストピア的な」状況だとした。
+
+BBCが確認した英内務省の統計によると、2026年6月末までの1年間に3630人が逮捕された。ウェストミンスター治安判事裁判所の前で先に逮捕された134人と、10月31日の逮捕者325人を加えると、累計は4089人となる。
+
+BBCはロンドン警視庁に対し、警察側の統計の確認を求めている。
+
+国際人権団体アムネスティ・インターナショナルのイギリス支部は、一連の逮捕を批判し、パレスチナ・アクションに対する禁止措置を撤回するよう英政府に求めた。
+
+前出の「Defend Our Juries」は、逮捕は「不当」で、表現の自由に対する攻撃だと主張した。
+
+（英語記事 More than 300 arrests at Palestine Action support protest outside US embassy）d:X
+12:X
+12:C
+0:{"buildId":"v4pnrtun7pn_skbrgOFJo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-02","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"「パレスチナ・アクション」支持の抗議、300人超逮捕 在英アメリカ大使館前"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"5 日前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c2da/live/12dda4f0-d5f7-11f1-a6a8-6dc45e4fc351.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"逮捕されて歩くことを拒み、警官に抱えられて連行される抗議者"}],["$","p","1",{"children":"ターコイズブルーの上着を着た白髪の女性が、警官4人に囲まれ、両腕を抱えられて運ばれている"}],["$","p","2",{"children":"イギリスのロンドン警視庁は1日、前日にロンドンのアメリカ大使館前で行われた、親パレスチナ団体「パレスチナ・アクション」を支持する抗議活動で300人以上を逮捕したと発表した。同団体は、イギリス国内での活動を禁止されている。"}],["$","p","3",{"children":"ロンドン南西部ナインエルムズ地区には10月31日、数百人が集まった。参加者の多くは、「ジェノサイド（集団虐殺）反対。パレスチナ・アクションを支持する」などと書かれたプラカードを掲げた。"}],["$","p","4",{"children":"ロンドン警視庁は翌11月1日、この抗議に関連して325人を逮捕したと発表。うち320人について、「テロリズム法に基づいて活動が禁止された団体への支持を表明した」疑いがあると、ソーシャルメディアで説明した。"}],["$","p","5",{"children":"パレスチナ・アクションはイギリスで昨年7月、活動禁止団体に指定された。同団体に関連する逮捕者は、これまでに少なくとも4000人に上っている。"}],["$","p","6",{"children":"活動禁止措置をめぐっては、パレスチナ・アクションの共同創設者が上訴し、英最高裁判所が審理する予定。"}],["$","p","7",{"children":"警察は10月31日夕にかけて、抗議者を移送用の警察車両へ連行した。多くの抗議者は連行される人々に拍手を送った。「フリー、フリー、パレスチナ」（パレスチナを解放しろ）と声を上げる人もいた。"}],["$","p","8",{"children":"歩くことを拒んだ抗議者を、警官が抱えて移動させる場面もあった。"}],["$","p","9",{"children":"連行された人の中には、元弁護士のチャールズ・アリソン氏（75）の姿もあった。この日の抗議に参加するため、イングランド北西部カンブリアから駆けつけていた。同氏は、市民の自由が「軽視され、骨抜きにされつつある」ことを懸念していると述べた。"}],["$","p","10",{"children":"「最高裁判事が必ずしも、これ（抗議活動）に影響されるとは限らない。しかし、この国で起きていることを長期的な視点で捉え、団体に対する禁止措置は違法だと判断してくれることを願っている。これが違法だと、私が信じているように」"}],["$","p","11",{"children":"抗議者の一人のデイヴィッド・ボルデン氏は、逮捕されるのを前に、活動禁止措置を「ばかげた法律」と呼んだ。"}],["$","p","12",{"children":"一連の抗議活動を調整してきた団体「Defend Our Juries（陪審員を守れ）」は、この週末の逮捕者を加えると、パレスチナ・アクションが活動禁止団体に指定されて以降の逮捕者が計4000人を超えたと発表。「まさにディストピア的な」状況だとした。"}],["$","p","13",{"children":"BBCが確認した英内務省の統計によると、2026年6月末までの1年間に3630人が逮捕された。ウェストミンスター治安判事裁判所の前で先に逮捕された134人と、10月31日の逮捕者325人を加えると、累計は4089人となる。"}],["$","p","14",{"children":"BBCはロンドン警視庁に対し、警察側の統計の確認を求めている。"}],["$","p","15",{"children":"国際人権団体アムネスティ・インターナショナルのイギリス支部は、一連の逮捕を批判し、パレスチナ・アクションに対する禁止措置を撤回するよう英政府に求めた。"}],["$","p","16",{"children":"前出の「Defend Our Juries」は、逮捕は「不当」で、表現の自由に対する攻撃だと主張した。"}],["$","p","17",{"children":"（英語記事 More than 300 arrests at Palestine Action support protest outside US embassy）"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/c3zxj5xwley7o","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/49a777ee49a777ee4831baac","title":"「パレスチナ・アクション」支持の抗議、300人超逮捕 在英アメリカ大使館前","locale":"ja","take":null}],["$","$L4",null,{"title":"「パレスチナ・アクション」支持の抗議、300人超逮捕 在英アメリカ大使館前","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/49a777ee49a777ee4831baac","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E6%94%AF%E6%8C%81%E3%81%AE%E6%8A%97%E8%AD%B0%E3%80%81300%E4%BA%BA%E8%B6%85%E9%80%AE%E6%8D%95+%E5%9C%A8%E8%8B%B1%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%A4%A7%E4%BD%BF%E9%A4%A8%E5%89%8D&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","dw:https://dw.com/en/la-communities-kick-out-big-oil/a-79830843?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/8b928cda8b928cdae6f4a4a6","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"LA communities kick out Big Oil"}]]}]}],["$","li","nhk-politics:https://news.web.nhk/newsweb/na/nd-20261102de69793",{"children":["$","$L2",null,{"href":"/ja/n/c6954418c695441827065e40","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"アメリカ中間選挙 3日に投票開始 NW9広内キャスターが現地取材"}]]}]}],["$","li","nhk-society:https://news.web.nhk/newsweb/na/nd-20261102de69830",{"children":["$","$L2",null,{"href":"/ja/n/9730b9ef9730b9ef63b0ed87","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"アジア太平洋放送連合 次の会長にNHKの山名副会長を選出"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"「パレスチナ・アクション」支持の抗議、300人超逮捕 在英アメリカ大使館前"}],["$","meta","1",{"name":"description","content":"逮捕されて歩くことを拒み、警官に抱えられて連行される抗議者"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"「パレスチナ・アクション」支持の抗議、300人超逮捕 在英アメリカ大使館前"}],["$","meta","4",{"property":"og:description","content":"逮捕されて歩くことを拒み、警官に抱えられて連行される抗議者"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/49a777ee49a777ee4831baac/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fc2da%2Flive%2F12dda4f0-d5f7-11f1-a6a8-6dc45e4fc351.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"「パレスチナ・アクション」支持の抗議、300人超逮捕 在英アメリカ大使館前"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"「パレスチナ・アクション」支持の抗議、300人超逮捕 在英アメリカ大使館前"}],["$","meta","14",{"name":"twitter:description","content":"逮捕されて歩くことを拒み、警官に抱えられて連行される抗議者"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fc2da%2Flive%2F12dda4f0-d5f7-11f1-a6a8-6dc45e4fc351.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

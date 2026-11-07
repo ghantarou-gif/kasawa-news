@@ -1,0 +1,137 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00107590-forbes-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","image"]
+1d:X
+22:X
+22:C
+0:{"buildId":"v4pnrtun7pn_skbrgOFJo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-04","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"太陽系に新たな大型の準惑星候補、冥王星軌道の外側で発見 ルービン天文台の成果(Forbes JAPAN)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"3 日前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00107590-forbes-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"太陽から遠く離れた太陽系の外縁領域で、非常に大型の準惑星候補天体を新たに発見したと、米ハーバード・スミソニアン天体物理学センター（CfA）などの科学者チームが発表した。直径約600～1500kmと推定されているこの天体「2026 ED138」は、もし確認されれば、冥王星の公転軌道の外側でこれまでに発見された準惑星としては最大級に位置付けられる。"}],["$","p","1",{"children":"さらに2026 ED138は、外太陽系（小惑星帯より外側の領域）で検出された太陽系外縁天体（TNO）の中でも最大級で、最も明るいものの1つだ。研究チームは南米チリにある最新のルービン天文台を用いて、この天体を発見した。"}],["$","p","2",{"children":"準惑星は、小型の惑星質量天体（自己重力でほぼ球体を保てる質量を持つ天体）で、太陽を直接周回する軌道上にあり、8つの古典的惑星（水金地火木土天海）のどれよりも小さい。ED138は、冥王星（準惑星の原型）、エリス、ハウメア、マケマケといった、海王星の外側に存在する、公式に認められた準惑星グループの仲間入りをするかもしれない。"}],["$","p","3",{"children":"■冥王星の外側で新たに発見された準惑星候補"}],["$","p","4",{"children":"今回の発見を成し遂げたのは、CfAの天文学者マシュー・ホルマンだ。ルービン天文台で今年収集された観測データを分析中に、ED138を特定したのだ。10月13日、ホルマンは同僚のケビン・ネイピアと共同開発した専門のソフトウェアを用いて数十億件にのぼる観測データを調査し、これまで未特定の移動天体を探した。このアルゴリズムにより、ED138の存在が明らかになった。その特異な明るさと太陽からの距離が、即座にホルマンの目に留まった。"}],["$","p","5",{"children":"ホルマンは「自分の当初の反応は、興奮と疑念が入り混じったものだった」として「このような天体は極めて珍しいので、自らの計算ミスか解析プログラムのバグではないかと、直ちに検証作業に入った」と振り返った。さらなる分析により、今回の発見の裏づけが得られた。さかのぼること2016年にダークエネルギーカメラ（DECam）で撮影されたアーカイブ画像から、ED138が見つかったのだ。"}],["$","p","6",{"children":"太陽から遠く離れた太陽系の外縁領域で、非常に大型の準惑星候補天体を新たに発見したと、米ハーバード・スミソニアン天体物理学センター（CfA）などの科学者チームが発表した。直径約600～1500kmと推定されているこの天体「2026 ED138」は、もし確認されれば、冥王星の公転軌道の外側でこれまでに発見された準惑星としては最大級に位置付けられる。"}],["$","p","7",{"children":"さらに2026 ED138は、外太陽系（小惑星帯より外側の領域）で検出された太陽系外縁天体（TNO）の中でも最大級で、最も明るいものの1つだ。研究チームは南米チリにある最新のルービン天文台を用いて、この天体を発見した。"}],["$","p","8",{"children":"準惑星は、小型の惑星質量天体（自己重力でほぼ球体を保てる質量を持つ天体）で、太陽を直接周回する軌道上にあり、8つの古典的惑星（水金地火木土天海）のどれよりも小さい。ED138は、冥王星（準惑星の原型）、エリス、ハウメア、マケマケといった、海王星の外側に存在する、公式に認められた準惑星グループの仲間入りをするかもしれない。"}],["$","p","9",{"children":"■冥王星の外側で新たに発見された準惑星候補"}],["$","p","10",{"children":"今回の発見を成し遂げたのは、CfAの天文学者マシュー・ホルマンだ。ルービン天文台で今年収集された観測データを分析中に、ED138を特定したのだ。10月13日、ホルマンは同僚のケビン・ネイピアと共同開発した専門のソフトウェアを用いて数十億件にのぼる観測データを調査し、これまで未特定の移動天体を探した。このアルゴリズムにより、ED138の存在が明らかになった。その特異な明るさと太陽からの距離が、即座にホルマンの目に留まった。"}],["$","p","11",{"children":"ホルマンは「自分の当初の反応は、興奮と疑念が入り混じったものだった」として「このような天体は極めて珍しいので、自らの計算ミスか解析プログラムのバグではないかと、直ちに検証作業に入った」と振り返った。さらなる分析により、今回の発見の裏づけが得られた。さかのぼること2016年にダークエネルギーカメラ（DECam）で撮影されたアーカイブ画像から、ED138が見つかったのだ。"}],["$","p","12",{"children":"2026 ED138 天体データ一覧"}],["$","p","13",{"children":"天体名：2026 ED138"}],["$","p","14",{"children":"分類：準惑星候補"}],["$","p","15",{"children":"発見発表日：2026年10月27日"}],["$","p","16",{"children":"発見者：マシュー・ホルマン（米ハーバード・スミソニアン天体物理学センター）"}],["$","p","17",{"children":"観測所：全米科学財団（NSF）・米エネルギー省（DOE）"}],["$","p","18",{"children":"ベラ・C・ルービン天文台（チリ）"}],["$","p","19",{"children":"位置：太陽系外縁部（海王星軌道の外側）"}],["$","p","20",{"children":"太陽からの距離：約46AU（約69億km）"}],["$","p","21",{"children":"推定直径：600～1500km"}],["$","p","22",{"children":"軌道傾斜角：約25度"}],["$","p","23",{"children":"■準惑星候補2026 ED138はどのくらい大きいか？"}],["$","p","24",{"children":"冥王星や他の準惑星と比較して、2026 ED138はどのくらいの大きさなのだろうか。明るさと距離と表面反射率の推定値に基づき、ED138の直径は600～1500kmの範囲にあると、研究チームは考えている。これは準惑星としては4番目の大きさで、冥王星、エリス、ハウメアよりは小さいが、マケマケ、ゴンゴン、クワオアー、セドナよりは大きい可能性がある。"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13"],"$L14"]}],"$L15","$L16","$L17",null,"$L18","$L19"]}],["$L1a"],"$L1b"]}],"isPartial":"$@1c","staleTime":"$1d","varyParams":null},{"rsc":"$L1e","isPartial":"$@1f","staleTime":"$1d","varyParams":null},{"rsc":"$L20","isPartial":"$@21","staleTime":"$1d","varyParams":"$22"},{"rsc":"$L23","isPartial":"$@24","staleTime":"$1d","varyParams":"$22"}],"isUpgradeableISRFallback":false,"a":"$@25","rootVaryParams":null,"needsRuntimeRequest":"$@26"}
+27:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+28:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+2b:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+2c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+2d:"$Sreact.suspense"
+2f:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+30:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+31:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+32:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+33:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","25",{"children":"太陽系の準惑星と準惑星候補の天体名、推定直径、太陽からの距離AU、発見年、分類を推定直径の大きい順に並べたリストを下に示す。1AUは太陽地球間の距離（1天文単位＝約1億5000万km）で、2026 ED138は推定直径の上限値で比較している。太陽からの距離はED138以外は平均軌道距離を表し、ED138は現在の距離を示す。ケレスのみ海王星の外側ではなく小惑星帯内を公転している。"}]
+4:["$","p","26",{"children":"冥王星（準惑星）：推定直径2377km／距離39.5AU／1930年発見"}]
+5:["$","p","27",{"children":"エリス（準惑星）：推定直径2326km／距離67.7AU／2005年発見"}]
+6:["$","p","28",{"children":"ハウメア（準惑星）：推定直径1560km／距離43.1AU／2004年発見"}]
+7:["$","p","29",{"children":"2026ED138（準惑星候補）：推定直径600–1500km／距離46AU／2026年発見"}]
+8:["$","p","30",{"children":"マケマケ（準惑星）：推定直径1430km／距離45.8AU／2005年発見"}]
+9:["$","p","31",{"children":"ゴンゴン（準惑星候補）：推定直径1230km／距離67.5AU／2007年発見"}]
+a:["$","p","32",{"children":"クワオアー（準惑星候補）：推定直径1090km／距離43.7AU／2002年発見"}]
+b:["$","p","33",{"children":"セドナ（準惑星候補）：推定直径995km／距離500AU／2003年発見"}]
+c:["$","p","34",{"children":"ケレス（準惑星）：推定直径940km／距離2.77AU／1801年発見"}]
+d:["$","p","35",{"children":"オルクス（準惑星候補）：推定直径910km／距離39.2AU／2004年発見"}]
+e:["$","p","36",{"children":"推定される大きさから判断して、ED138は球形をしている可能性が高い。これは、TNOではなく準惑星として認定されるための重要な要件だ。だが、正確なサイズを測定して、準惑星としての要件を満たしているかどうかを確認するには、追加の赤外線観測を実施する必要がある。ED138は現時点で、太陽から約46AU（天文単位）の距離にあるのに対し、冥王星の平均軌道距離は約40AUだ。1天文単位（AU）は太陽地球間の平均距離に相当する。ED138の公転軌道は、太陽系の公転軌道面（黄道面）に対して約25度傾斜している。"}]
+f:["$","p","37",{"children":"■ルービン天文台がさらに多くの準惑星を発見する可能性"}]
+10:["$","p","38",{"children":"世界最大の32億画素のカメラを搭載するルービン天文台は、7月に科学観測運用を開始した。ここでは天文学史上最も野心的な観測プロジェクトが進められている。膨大な数の銀河や恒星や小惑星の特性に関する30兆回の測定データと200万枚の画像とで構成される、南天の10年間におよぶタイムラプス（時系列記録）映像を作成するプロジェクトだ。ルービン天文台の高度な検出アルゴリズムは、背景にある膨大な数の恒星の中に紛れて移動している暗い天体を特定することができる。"}]
+11:["$","p","39",{"children":"ルービン天文台の研究チームは今年、新たに発見した小惑星1万1000個以上の観測データを提示したが、この中にはTNOが約380個含まれていた。"}]
+12:["$","p","40",{"children":"ホルマンは「ルービン天文台は南天全体を10年にわたり繰り返し撮影し続けるため、過去のサーベイ観測では省かれていた場所に隠れている他の未発見天体も全て捉えられるはずだ」と指摘する。"}]
+13:["$","p","41",{"children":"今後は世界中の天文学者がフォローアップ観測を実施して、2026 ED138の物理的特性を調査し、準惑星として公式に認定される要件を備えているかどうかを判断することになる。"}]
+14:["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]
+15:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/90fcb09e6a3d9604697aee1a33c2f885ebe3fe52?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}]
+29:T24b9,太陽から遠く離れた太陽系の外縁領域で、非常に大型の準惑星候補天体を新たに発見したと、米ハーバード・スミソニアン天体物理学センター（CfA）などの科学者チームが発表した。直径約600～1500kmと推定されているこの天体「2026 ED138」は、もし確認されれば、冥王星の公転軌道の外側でこれまでに発見された準惑星としては最大級に位置付けられる。
+
+さらに2026 ED138は、外太陽系（小惑星帯より外側の領域）で検出された太陽系外縁天体（TNO）の中でも最大級で、最も明るいものの1つだ。研究チームは南米チリにある最新のルービン天文台を用いて、この天体を発見した。
+
+準惑星は、小型の惑星質量天体（自己重力でほぼ球体を保てる質量を持つ天体）で、太陽を直接周回する軌道上にあり、8つの古典的惑星（水金地火木土天海）のどれよりも小さい。ED138は、冥王星（準惑星の原型）、エリス、ハウメア、マケマケといった、海王星の外側に存在する、公式に認められた準惑星グループの仲間入りをするかもしれない。
+
+■冥王星の外側で新たに発見された準惑星候補
+
+今回の発見を成し遂げたのは、CfAの天文学者マシュー・ホルマンだ。ルービン天文台で今年収集された観測データを分析中に、ED138を特定したのだ。10月13日、ホルマンは同僚のケビン・ネイピアと共同開発した専門のソフトウェアを用いて数十億件にのぼる観測データを調査し、これまで未特定の移動天体を探した。このアルゴリズムにより、ED138の存在が明らかになった。その特異な明るさと太陽からの距離が、即座にホルマンの目に留まった。
+
+ホルマンは「自分の当初の反応は、興奮と疑念が入り混じったものだった」として「このような天体は極めて珍しいので、自らの計算ミスか解析プログラムのバグではないかと、直ちに検証作業に入った」と振り返った。さらなる分析により、今回の発見の裏づけが得られた。さかのぼること2016年にダークエネルギーカメラ（DECam）で撮影されたアーカイブ画像から、ED138が見つかったのだ。
+
+太陽から遠く離れた太陽系の外縁領域で、非常に大型の準惑星候補天体を新たに発見したと、米ハーバード・スミソニアン天体物理学センター（CfA）などの科学者チームが発表した。直径約600～1500kmと推定されているこの天体「2026 ED138」は、もし確認されれば、冥王星の公転軌道の外側でこれまでに発見された準惑星としては最大級に位置付けられる。
+
+さらに2026 ED138は、外太陽系（小惑星帯より外側の領域）で検出された太陽系外縁天体（TNO）の中でも最大級で、最も明るいものの1つだ。研究チームは南米チリにある最新のルービン天文台を用いて、この天体を発見した。
+
+準惑星は、小型の惑星質量天体（自己重力でほぼ球体を保てる質量を持つ天体）で、太陽を直接周回する軌道上にあり、8つの古典的惑星（水金地火木土天海）のどれよりも小さい。ED138は、冥王星（準惑星の原型）、エリス、ハウメア、マケマケといった、海王星の外側に存在する、公式に認められた準惑星グループの仲間入りをするかもしれない。
+
+■冥王星の外側で新たに発見された準惑星候補
+
+今回の発見を成し遂げたのは、CfAの天文学者マシュー・ホルマンだ。ルービン天文台で今年収集された観測データを分析中に、ED138を特定したのだ。10月13日、ホルマンは同僚のケビン・ネイピアと共同開発した専門のソフトウェアを用いて数十億件にのぼる観測データを調査し、これまで未特定の移動天体を探した。このアルゴリズムにより、ED138の存在が明らかになった。その特異な明るさと太陽からの距離が、即座にホルマンの目に留まった。
+
+ホルマンは「自分の当初の反応は、興奮と疑念が入り混じったものだった」として「このような天体は極めて珍しいので、自らの計算ミスか解析プログラムのバグではないかと、直ちに検証作業に入った」と振り返った。さらなる分析により、今回の発見の裏づけが得られた。さかのぼること2016年にダークエネルギーカメラ（DECam）で撮影されたアーカイブ画像から、ED138が見つかったのだ。
+
+2026 ED138 天体データ一覧
+
+天体名：2026 ED138
+
+分類：準惑星候補
+
+発見発表日：2026年10月27日
+
+発見者：マシュー・ホルマン（米ハーバード・スミソニアン天体物理学センター）
+
+観測所：全米科学財団（NSF）・米エネルギー省（DOE）
+
+ベラ・C・ルービン天文台（チリ）
+
+位置：太陽系外縁部（海王星軌道の外側）
+
+太陽からの距離：約46AU（約69億km）
+
+推定直径：600～1500km
+
+軌道傾斜角：約25度
+
+■準惑星候補2026 ED138はどのくらい大きいか？
+
+冥王星や他の準惑星と比較して、2026 ED138はどのくらいの大きさなのだろうか。明るさと距離と表面反射率の推定値に基づき、ED138の直径は600～1500kmの範囲にあると、研究チームは考えている。これは準惑星としては4番目の大きさで、冥王星、エリス、ハウメアよりは小さいが、マケマケ、ゴンゴン、クワオアー、セドナよりは大きい可能性がある。
+
+太陽系の準惑星と準惑星候補の天体名、推定直径、太陽からの距離AU、発見年、分類を推定直径の大きい順に並べたリストを下に示す。1AUは太陽地球間の距離（1天文単位＝約1億5000万km）で、2026 ED138は推定直径の上限値で比較している。太陽からの距離はED138以外は平均軌道距離を表し、ED138は現在の距離を示す。ケレスのみ海王星の外側ではなく小惑星帯内を公転している。
+
+冥王星（準惑星）：推定直径2377km／距離39.5AU／1930年発見
+
+エリス（準惑星）：推定直径2326km／距離67.7AU／2005年発見
+
+ハウメア（準惑星）：推定直径1560km／距離43.1AU／2004年発見
+
+2026ED138（準惑星候補）：推定直径600–1500km／距離46AU／2026年発見
+
+マケマケ（準惑星）：推定直径1430km／距離45.8AU／2005年発見
+
+ゴンゴン（準惑星候補）：推定直径1230km／距離67.5AU／2007年発見
+
+クワオアー（準惑星候補）：推定直径1090km／距離43.7AU／2002年発見
+
+セドナ（準惑星候補）：推定直径995km／距離500AU／2003年発見
+
+ケレス（準惑星）：推定直径940km／距離2.77AU／1801年発見
+
+オルクス（準惑星候補）：推定直径910km／距離39.2AU／2004年発見
+
+推定される大きさから判断して、ED138は球形をしている可能性が高い。これは、TNOではなく準惑星として認定されるための重要な要件だ。だが、正確なサイズを測定して、準惑星としての要件を満たしているかどうかを確認するには、追加の赤外線観測を実施する必要がある。ED138は現時点で、太陽から約46AU（天文単位）の距離にあるのに対し、冥王星の平均軌道距離は約40AUだ。1天文単位（AU）は太陽地球間の平均距離に相当する。ED138の公転軌道は、太陽系の公転軌道面（黄道面）に対して約25度傾斜している。
+
+■ルービン天文台がさらに多くの準惑星を発見する可能性
+
+世界最大の32億画素のカメラを搭載するルービン天文台は、7月に科学観測運用を開始した。ここでは天文学史上最も野心的な観測プロジェクトが進められている。膨大な数の銀河や恒星や小惑星の特性に関する30兆回の測定データと200万枚の画像とで構成される、南天の10年間におよぶタイムラプス（時系列記録）映像を作成するプロジェクトだ。ルービン天文台の高度な検出アルゴリズムは、背景にある膨大な数の恒星の中に紛れて移動している暗い天体を特定することができる。
+
+ルービン天文台の研究チームは今年、新たに発見した小惑星1万1000個以上の観測データを提示したが、この中にはTNOが約380個含まれていた。
+
+ホルマンは「ルービン天文台は南天全体を10年にわたり繰り返し撮影し続けるため、過去のサーベイ観測では省かれていた場所に隠れている他の未発見天体も全て捉えられるはずだ」と指摘する。
+
+今後は世界中の天文学者がフォローアップ観測を実施して、2026 ED138の物理的特性を調査し、準惑星として公式に認定される要件を備えているかどうかを判断することになる。16:["$","section",null,{"className":"article-actions","children":[["$","$L27",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/91b46a9b91b46a9bdf996d43","title":"太陽系に新たな大型の準惑星候補、冥王星軌道の外側で発見 ルービン天文台の成果(Forbes JAPAN)","locale":"ja","take":null}],["$","$L28",null,{"title":"太陽系に新たな大型の準惑星候補、冥王星軌道の外側で発見 ルービン天文台の成果(Forbes JAPAN)","excerpt":"$29","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/91b46a9b91b46a9bdf996d43","locale":"ja"}],"$L2a"]}]
+17:["$","$L2b",null,{"placement":"article","className":"mt-8"}]
+18:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+19:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","guardian-world:https://theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",{"children":["$","$L2",null,{"href":"/ja/n/e2dfa7dae2dfa7da673365a0","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"The Guardian"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"ANC faces anger over poor services as South Africans vote in local elections"}]]}]}],["$","li","bbc-health:https://bbc.co.uk/news/articles/cjly0qpv35p3o",{"children":["$","$L2",null,{"href":"/ja/n/84aa756384aa7563ae81d283","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"'Such terrible waste' as health trust buildings could cost an extra £20m"}]]}]}],["$","li","nhk-world:https://news.web.nhk/newsweb/na/nd-20261104de70619",{"children":["$","$L2",null,{"href":"/ja/n/27b7a7e627b7a7e6c84e1ed4","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"“共和党大敗”受け 専門家「日本は民主側とも太いパイプを」"}]]}]}]]}]]}]
+1a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+1b:["$","$L2c",null,{"children":["$","$2d",null,{"name":"Next.MetadataOutlet","children":"$@2e"}]}]
+1e:["$","$1","h",{"children":[null,["$","$L2f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L30",null,{"children":["$","$2d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"太陽系に新たな大型の準惑星候補、冥王星軌道の外側で発見 ルービン天文台の成果(Forbes JAPAN)"}],["$","meta","1",{"name":"description","content":"太陽から遠く離れた太陽系の外縁領域で、非常に大型の準惑星候補天体を新たに発見したと、米ハーバード・スミソニアン天体物理学センター（CfA）などの科学者チームが発表した。直径約600～1500kmと推定されているこの天体「2026 ED138」は、もし確認されれば、冥王星の公転軌道の外側でこれまでに発見された準惑星としては最大級に位置付けられる。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"太陽系に新たな大型の準惑星候補、冥王星軌道の外側で発見 ルービン天文台の成果(Forbes JAPAN)"}],["$","meta","4",{"property":"og:description","content":"太陽から遠く離れた太陽系の外縁領域で、非常に大型の準惑星候補天体を新たに発見したと、米ハーバード・スミソニアン天体物理学センター（CfA）などの科学者チームが発表した。直径約600～1500kmと推定されているこの天体「2026 ED138」は、もし確認されれば、冥王星の公転軌道の外側でこれまでに発見された準惑星としては最大級に位置付けられる。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/91b46a9b91b46a9bdf996d43/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261104-00107590-forbes-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"太陽系に新たな大型の準惑星候補、冥王星軌道の外側で発見 ルービン天文台の成果(Forbes JAPAN)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"太陽系に新たな大型の準惑星候補、冥王星軌道の外側で発見 ルービン天文台の成果(Forbes JAPAN)"}],["$","meta","14",{"name":"twitter:description","content":"太陽から遠く離れた太陽系の外縁領域で、非常に大型の準惑星候補天体を新たに発見したと、米ハーバード・スミソニアン天体物理学センター（CfA）などの科学者チームが発表した。直径約600～1500kmと推定されているこの天体「2026 ED138」は、もし確認されれば、冥王星の公転軌道の外側でこれまでに発見された準惑星としては最大級に位置付けられる。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261104-00107590-forbes-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L31","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+20:["$","$1","c",{"children":[null,["$","$L32",null,{"parallelRouterKey":"children","template":["$","$L33",null,{}]}]]}]
+23:["$","$1","c",{"children":[null,["$","$L32",null,{"parallelRouterKey":"children","template":["$","$L33",null,{}]}]]}]
+26:true
+2a:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E5%A4%AA%E9%99%BD%E7%B3%BB%E3%81%AB%E6%96%B0%E3%81%9F%E3%81%AA%E5%A4%A7%E5%9E%8B%E3%81%AE%E6%BA%96%E6%83%91%E6%98%9F%E5%80%99%E8%A3%9C%E3%80%81%E5%86%A5%E7%8E%8B%E6%98%9F%E8%BB%8C%E9%81%93%E3%81%AE%E5%A4%96%E5%81%B4%E3%81%A7%E7%99%BA%E8%A6%8B+%E3%83%AB%E3%83%BC%E3%83%93%E3%83%B3%E5%A4%A9%E6%96%87%E5%8F%B0%E3%81%AE%E6%88%90%E6%9E%9C&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+2e:null
+1d:300
+1d:C
+25:0
+1f:"$undefined"
+21:"$undefined"
+24:"$undefined"
+1c:"$undefined"

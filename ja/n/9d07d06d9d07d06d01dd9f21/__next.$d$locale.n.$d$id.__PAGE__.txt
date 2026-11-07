@@ -1,0 +1,171 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261107-00131643-phileweb-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","image"]
+2b:X
+30:X
+30:C
+0:{"buildId":"v4pnrtun7pn_skbrgOFJo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-07","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"＜ヘッドフォン祭＞MADOO、IEM「Typ435」と初のヘッドホン「Typ5000」世界初展示／Brise Audioは400万円の「FUGAKU」10周年記念版(PHILE WEB)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"5 分前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261107-00131643-phileweb-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"ポータブルオーディオイベント「秋のヘッドフォン祭2026」が開催された。本稿では、東京音響、Brise Audio／Brise Works、Faith Audio Labsの各ブースから注目製品をレポートする。"}],["$","p","1",{"children":"■MADOO：「Typ435」 「Typ5000」（仮称）を世界初展示"}],["$","p","2",{"children":"東京音響のブースで注目を集めていたのが、MADOOの新型IEM「Typ435」だ。会場で世界初展示・試聴が行われ、発売は11月、価格は10万円前後を予定している。比較的高価格帯のIEMを展開してきた同ブランドのラインナップにおいて、エントリーモデルとして企画されたという。"}],["$","p","3",{"children":"音づくりでは、これまでプラナードライバーで蓄積してきた知見などを踏まえつつ、音の立ち上がりやレスポンスを重視したアプローチを採用。担当者は「立ちの良いものを作りたかった」といい、インパルス応答を意識しながら、音楽の瞬発力を感じられる方向へチューニングしたと説明していた。"}],["$","p","4",{"children":"鳴らしやすさにも配慮しており、高価な据え置き機器や大出力アンプを前提とせず、幅広いポータブル環境で楽しめる点も、エントリーモデルとしてのポイントになる。"}],["$","p","5",{"children":"また、ブランド初となるヘッドホン「Typ5000」（仮称）の試作機も参考展示した。プラナードライバーとパッシブラジエーターを組み合わせた構成を採用し、価格は40万～50万円程度を想定している。"}],["$","p","6",{"children":"スタッフによれば、プラナードライバーを採用したIEMの開発で得た知見を生かし、「あえて原点に立ち返った製品を作ってみたかった」という。"}],["$","p","7",{"children":"今回は試聴や試作機に触れることはできなかったが、ほかの製品の試聴に訪れた来場者からも注目を集めていた。発売日は未定だが、「なるべく早めにお届けしたい」とのことだ。"}],["$","p","8",{"children":"会場での反応が良ければ、新製品で打ち出した方向性を今後の製品にも広げていきたいという。担当者は「もっといろいろな方にMADOOを手に取ってもらいたい」と説明し、今後も幅広い層に訴求する製品開発を進める考えを示した。"}],["$","p","9",{"children":"同ブースのCleerからは、ゲーミング用途を意識した「ARC X Gaming」を展示。2026年11月の発売を予定しており、価格は4万円前後を見込む。"}],["$","p","10",{"children":"同ブランドの「ARC」シリーズをゲーム用途へ発展させたモデル。ゲームプレイ時の音声再生やコミュニケーションを含めた使い方を提案しており、近日中の国内投入を予定している。"}],["$","p","11",{"children":"■Brise Audio：400万円の「FUGAKU」10周年エディションに注目"}],["$","p","12",{"children":"Brise Audioのブースで存在感を放っていたのが、創業10周年を記念した「FUGAKU 10th Anniversary Edition」だ。価格は4,000,000円（税込）。同ブランドのフラグシップイヤホンシステム「FUGAKU」をベースに、専用チューニングを施した特別仕様となる。"}],["$","p","13",{"children":"通常モデルとは音の方向性にも違いを設けており、従来モデルよりややウォームで穏やかなサウンドに仕上げたと説明された。外装だけでなく、音質面にも手を加えた記念モデルだ。"}],["$","p","14",{"children":"ケーブルも専用品を採用。Brise Audioが培ってきたNISHIKI系のケーブル技術をベースに、システム全体としてチューニングを行っているという。4.4mm to 4.4mmケーブルも付属し、幅広い再生環境で活用できるようにした。"}],["$","p","15",{"children":"同ブースには、Brise Audioの各種ヘッドホンケーブルを比較できる試聴環境も用意されていた。再生機器にはAndroidタブレット、または来場者のスマートフォンを使用。同社のUSBケーブルを介してアキュフェーズのD/Aコンバーター「DC-1000」へ接続し、同社のXLRケーブルとヘッドホンアンプを組み合わせる構成となる。電源には、IsoTekのパワーコンディショナー「Sigmas」を使用していた。"}],["$","p","16",{"children":"試聴用ケーブルとして「BSHP」シリーズや「YATONO-HP」「SHIROGANE-HP」などを用意。ヘッドホンはオーディオテクニカ「ATH-ADX7000」、Focal「UTOPIA SG」、Meze Audio「Elite」などを揃え、来場者が持参したヘッドホンでの試聴にも対応していた。"}],["$","p","17",{"children":"■Faith Audio Labsが日本初出展。国内代理店を探し、本格参入を目指す"}],["$","p","18",{"children":"日本のイベントに初めて出展した「Faith Audio Labs」も、国内展開を見据えて製品を披露していた。"}],["$","p","19",{"children":"すでにアメリカやシンガポールなどで製品を展開しており、現在は日本国内の代理店を探している段階。イヤホン／ヘッドホンへの関心が高く、多数の国内外ブランドが競う日本を、重要な市場のひとつと位置付けているという。"}],["$","p","20",{"children":"ブランドとして重視するのは、デザインとクオリティ。自社工場を持ち、製造工程を自ら管理しながら品質を確保できることも強みとして説明していた。"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21"],"$L22"]}],"$L23","$L24","$L25",null,"$L26","$L27"]}],["$L28"],"$L29"]}],"isPartial":"$@2a","staleTime":"$2b","varyParams":null},{"rsc":"$L2c","isPartial":"$@2d","staleTime":"$2b","varyParams":null},{"rsc":"$L2e","isPartial":"$@2f","staleTime":"$2b","varyParams":"$30"},{"rsc":"$L31","isPartial":"$@32","staleTime":"$2b","varyParams":"$30"}],"isUpgradeableISRFallback":false,"a":"$@33","rootVaryParams":null,"needsRuntimeRequest":"$@34"}
+35:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+36:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+39:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+3a:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+3b:"$Sreact.suspense"
+3d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+3e:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+3f:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+40:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+41:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","21",{"children":"展示されたイヤホンでも、外観の仕上げから音響面まで含めた品質をアピール。フラグシップクラスを含むラインナップを揃えており、シングル・ダイナミックドライバー構成のモデルも、ブランドを象徴する製品のひとつとして紹介されていた。"}]
+4:["$","p","22",{"children":"初代フラッグシップに位置付ける「E1000」は、10.2mm径のフルレンジ・ダイナミックドライバーを搭載。80層以上の両面チタン複合振動板と、特許取得のパッシブラジエーターを採用する。磁気回路にはネオジム磁石を2基使用し、磁束密度は約9,000ガウスとしている。"}]
+5:["$","p","23",{"children":"ハウジングはCNC精密加工によるチタン製。長さ1.5mの4芯高純度無酸素銅ケーブルを採用する。インピーダンスは45Ω、感度は115dB／1kHz、周波数特性は20Hz～20kHz（±1dB）と案内されていた。"}]
+6:["$","p","24",{"children":"もうひとつの展示モデル「E800」は、3チャンバー構造とパッシブラジエーターを備える9.2mm径ダイナミックドライバーを搭載。同ブランド独自のパッシブラジエーター技術と、デュアルマグネットによるテスラ級磁気回路を特徴とする。"}]
+7:["$","p","25",{"children":"ハウジングにはチタン合金を採用し、ケーブルには高純度無酸素銅導体と銀メッキ編組シールドを使用。感度は114dB、インピーダンスは45Ω、周波数特性は20Hz～30kHzとなる。展示パネルでは「その場にいるような臨場感」「鮮やかな音」を訴求していた。"}]
+8:["$","p","26",{"children":"ポータブルオーディオイベント「秋のヘッドフォン祭2026」が開催された。本稿では、東京音響、Brise Audio／Brise Works、Faith Audio Labsの各ブースから注目製品をレポートする。"}]
+9:["$","p","27",{"children":"■MADOO：「Typ435」 「Typ5000」（仮称）を世界初展示"}]
+a:["$","p","28",{"children":"東京音響のブースで注目を集めていたのが、MADOOの新型IEM「Typ435」だ。会場で世界初展示・試聴が行われ、発売は11月、価格は10万円前後を予定している。比較的高価格帯のIEMを展開してきた同ブランドのラインナップにおいて、エントリーモデルとして企画されたという。"}]
+b:["$","p","29",{"children":"音づくりでは、これまでプラナードライバーで蓄積してきた知見などを踏まえつつ、音の立ち上がりやレスポンスを重視したアプローチを採用。担当者は「立ちの良いものを作りたかった」といい、インパルス応答を意識しながら、音楽の瞬発力を感じられる方向へチューニングしたと説明していた。"}]
+c:["$","p","30",{"children":"鳴らしやすさにも配慮しており、高価な据え置き機器や大出力アンプを前提とせず、幅広いポータブル環境で楽しめる点も、エントリーモデルとしてのポイントになる。"}]
+d:["$","p","31",{"children":"また、ブランド初となるヘッドホン「Typ5000」（仮称）の試作機も参考展示した。プラナードライバーとパッシブラジエーターを組み合わせた構成を採用し、価格は40万～50万円程度を想定している。"}]
+e:["$","p","32",{"children":"スタッフによれば、プラナードライバーを採用したIEMの開発で得た知見を生かし、「あえて原点に立ち返った製品を作ってみたかった」という。"}]
+f:["$","p","33",{"children":"今回は試聴や試作機に触れることはできなかったが、ほかの製品の試聴に訪れた来場者からも注目を集めていた。発売日は未定だが、「なるべく早めにお届けしたい」とのことだ。"}]
+10:["$","p","34",{"children":"会場での反応が良ければ、新製品で打ち出した方向性を今後の製品にも広げていきたいという。担当者は「もっといろいろな方にMADOOを手に取ってもらいたい」と説明し、今後も幅広い層に訴求する製品開発を進める考えを示した。"}]
+11:["$","p","35",{"children":"同ブースのCleerからは、ゲーミング用途を意識した「ARC X Gaming」を展示。2026年11月の発売を予定しており、価格は4万円前後を見込む。"}]
+12:["$","p","36",{"children":"同ブランドの「ARC」シリーズをゲーム用途へ発展させたモデル。ゲームプレイ時の音声再生やコミュニケーションを含めた使い方を提案しており、近日中の国内投入を予定している。"}]
+13:["$","p","37",{"children":"■Brise Audio：400万円の「FUGAKU」10周年エディションに注目"}]
+14:["$","p","38",{"children":"Brise Audioのブースで存在感を放っていたのが、創業10周年を記念した「FUGAKU 10th Anniversary Edition」だ。価格は4,000,000円（税込）。同ブランドのフラグシップイヤホンシステム「FUGAKU」をベースに、専用チューニングを施した特別仕様となる。"}]
+15:["$","p","39",{"children":"通常モデルとは音の方向性にも違いを設けており、従来モデルよりややウォームで穏やかなサウンドに仕上げたと説明された。外装だけでなく、音質面にも手を加えた記念モデルだ。"}]
+16:["$","p","40",{"children":"ケーブルも専用品を採用。Brise Audioが培ってきたNISHIKI系のケーブル技術をベースに、システム全体としてチューニングを行っているという。4.4mm to 4.4mmケーブルも付属し、幅広い再生環境で活用できるようにした。"}]
+17:["$","p","41",{"children":"同ブースには、Brise Audioの各種ヘッドホンケーブルを比較できる試聴環境も用意されていた。再生機器にはAndroidタブレット、または来場者のスマートフォンを使用。同社のUSBケーブルを介してアキュフェーズのD/Aコンバーター「DC-1000」へ接続し、同社のXLRケーブルとヘッドホンアンプを組み合わせる構成となる。電源には、IsoTekのパワーコンディショナー「Sigmas」を使用していた。"}]
+18:["$","p","42",{"children":"試聴用ケーブルとして「BSHP」シリーズや「YATONO-HP」「SHIROGANE-HP」などを用意。ヘッドホンはオーディオテクニカ「ATH-ADX7000」、Focal「UTOPIA SG」、Meze Audio「Elite」などを揃え、来場者が持参したヘッドホンでの試聴にも対応していた。"}]
+19:["$","p","43",{"children":"■Faith Audio Labsが日本初出展。国内代理店を探し、本格参入を目指す"}]
+1a:["$","p","44",{"children":"日本のイベントに初めて出展した「Faith Audio Labs」も、国内展開を見据えて製品を披露していた。"}]
+1b:["$","p","45",{"children":"すでにアメリカやシンガポールなどで製品を展開しており、現在は日本国内の代理店を探している段階。イヤホン／ヘッドホンへの関心が高く、多数の国内外ブランドが競う日本を、重要な市場のひとつと位置付けているという。"}]
+1c:["$","p","46",{"children":"ブランドとして重視するのは、デザインとクオリティ。自社工場を持ち、製造工程を自ら管理しながら品質を確保できることも強みとして説明していた。"}]
+1d:["$","p","47",{"children":"展示されたイヤホンでも、外観の仕上げから音響面まで含めた品質をアピール。フラグシップクラスを含むラインナップを揃えており、シングル・ダイナミックドライバー構成のモデルも、ブランドを象徴する製品のひとつとして紹介されていた。"}]
+1e:["$","p","48",{"children":"初代フラッグシップに位置付ける「E1000」は、10.2mm径のフルレンジ・ダイナミックドライバーを搭載。80層以上の両面チタン複合振動板と、特許取得のパッシブラジエーターを採用する。磁気回路にはネオジム磁石を2基使用し、磁束密度は約9,000ガウスとしている。"}]
+1f:["$","p","49",{"children":"ハウジングはCNC精密加工によるチタン製。長さ1.5mの4芯高純度無酸素銅ケーブルを採用する。インピーダンスは45Ω、感度は115dB／1kHz、周波数特性は20Hz～20kHz（±1dB）と案内されていた。"}]
+20:["$","p","50",{"children":"もうひとつの展示モデル「E800」は、3チャンバー構造とパッシブラジエーターを備える9.2mm径ダイナミックドライバーを搭載。同ブランド独自のパッシブラジエーター技術と、デュアルマグネットによるテスラ級磁気回路を特徴とする。"}]
+21:["$","p","51",{"children":"ハウジングにはチタン合金を採用し、ケーブルには高純度無酸素銅導体と銀メッキ編組シールドを使用。感度は114dB、インピーダンスは45Ω、周波数特性は20Hz～30kHzとなる。展示パネルでは「その場にいるような臨場感」「鮮やかな音」を訴求していた。"}]
+22:["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]
+23:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/4ab17c4ff179886d728dd43993dc66a13382b603?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}]
+37:T35ae,ポータブルオーディオイベント「秋のヘッドフォン祭2026」が開催された。本稿では、東京音響、Brise Audio／Brise Works、Faith Audio Labsの各ブースから注目製品をレポートする。
+
+■MADOO：「Typ435」 「Typ5000」（仮称）を世界初展示
+
+東京音響のブースで注目を集めていたのが、MADOOの新型IEM「Typ435」だ。会場で世界初展示・試聴が行われ、発売は11月、価格は10万円前後を予定している。比較的高価格帯のIEMを展開してきた同ブランドのラインナップにおいて、エントリーモデルとして企画されたという。
+
+音づくりでは、これまでプラナードライバーで蓄積してきた知見などを踏まえつつ、音の立ち上がりやレスポンスを重視したアプローチを採用。担当者は「立ちの良いものを作りたかった」といい、インパルス応答を意識しながら、音楽の瞬発力を感じられる方向へチューニングしたと説明していた。
+
+鳴らしやすさにも配慮しており、高価な据え置き機器や大出力アンプを前提とせず、幅広いポータブル環境で楽しめる点も、エントリーモデルとしてのポイントになる。
+
+また、ブランド初となるヘッドホン「Typ5000」（仮称）の試作機も参考展示した。プラナードライバーとパッシブラジエーターを組み合わせた構成を採用し、価格は40万～50万円程度を想定している。
+
+スタッフによれば、プラナードライバーを採用したIEMの開発で得た知見を生かし、「あえて原点に立ち返った製品を作ってみたかった」という。
+
+今回は試聴や試作機に触れることはできなかったが、ほかの製品の試聴に訪れた来場者からも注目を集めていた。発売日は未定だが、「なるべく早めにお届けしたい」とのことだ。
+
+会場での反応が良ければ、新製品で打ち出した方向性を今後の製品にも広げていきたいという。担当者は「もっといろいろな方にMADOOを手に取ってもらいたい」と説明し、今後も幅広い層に訴求する製品開発を進める考えを示した。
+
+同ブースのCleerからは、ゲーミング用途を意識した「ARC X Gaming」を展示。2026年11月の発売を予定しており、価格は4万円前後を見込む。
+
+同ブランドの「ARC」シリーズをゲーム用途へ発展させたモデル。ゲームプレイ時の音声再生やコミュニケーションを含めた使い方を提案しており、近日中の国内投入を予定している。
+
+■Brise Audio：400万円の「FUGAKU」10周年エディションに注目
+
+Brise Audioのブースで存在感を放っていたのが、創業10周年を記念した「FUGAKU 10th Anniversary Edition」だ。価格は4,000,000円（税込）。同ブランドのフラグシップイヤホンシステム「FUGAKU」をベースに、専用チューニングを施した特別仕様となる。
+
+通常モデルとは音の方向性にも違いを設けており、従来モデルよりややウォームで穏やかなサウンドに仕上げたと説明された。外装だけでなく、音質面にも手を加えた記念モデルだ。
+
+ケーブルも専用品を採用。Brise Audioが培ってきたNISHIKI系のケーブル技術をベースに、システム全体としてチューニングを行っているという。4.4mm to 4.4mmケーブルも付属し、幅広い再生環境で活用できるようにした。
+
+同ブースには、Brise Audioの各種ヘッドホンケーブルを比較できる試聴環境も用意されていた。再生機器にはAndroidタブレット、または来場者のスマートフォンを使用。同社のUSBケーブルを介してアキュフェーズのD/Aコンバーター「DC-1000」へ接続し、同社のXLRケーブルとヘッドホンアンプを組み合わせる構成となる。電源には、IsoTekのパワーコンディショナー「Sigmas」を使用していた。
+
+試聴用ケーブルとして「BSHP」シリーズや「YATONO-HP」「SHIROGANE-HP」などを用意。ヘッドホンはオーディオテクニカ「ATH-ADX7000」、Focal「UTOPIA SG」、Meze Audio「Elite」などを揃え、来場者が持参したヘッドホンでの試聴にも対応していた。
+
+■Faith Audio Labsが日本初出展。国内代理店を探し、本格参入を目指す
+
+日本のイベントに初めて出展した「Faith Audio Labs」も、国内展開を見据えて製品を披露していた。
+
+すでにアメリカやシンガポールなどで製品を展開しており、現在は日本国内の代理店を探している段階。イヤホン／ヘッドホンへの関心が高く、多数の国内外ブランドが競う日本を、重要な市場のひとつと位置付けているという。
+
+ブランドとして重視するのは、デザインとクオリティ。自社工場を持ち、製造工程を自ら管理しながら品質を確保できることも強みとして説明していた。
+
+展示されたイヤホンでも、外観の仕上げから音響面まで含めた品質をアピール。フラグシップクラスを含むラインナップを揃えており、シングル・ダイナミックドライバー構成のモデルも、ブランドを象徴する製品のひとつとして紹介されていた。
+
+初代フラッグシップに位置付ける「E1000」は、10.2mm径のフルレンジ・ダイナミックドライバーを搭載。80層以上の両面チタン複合振動板と、特許取得のパッシブラジエーターを採用する。磁気回路にはネオジム磁石を2基使用し、磁束密度は約9,000ガウスとしている。
+
+ハウジングはCNC精密加工によるチタン製。長さ1.5mの4芯高純度無酸素銅ケーブルを採用する。インピーダンスは45Ω、感度は115dB／1kHz、周波数特性は20Hz～20kHz（±1dB）と案内されていた。
+
+もうひとつの展示モデル「E800」は、3チャンバー構造とパッシブラジエーターを備える9.2mm径ダイナミックドライバーを搭載。同ブランド独自のパッシブラジエーター技術と、デュアルマグネットによるテスラ級磁気回路を特徴とする。
+
+ハウジングにはチタン合金を採用し、ケーブルには高純度無酸素銅導体と銀メッキ編組シールドを使用。感度は114dB、インピーダンスは45Ω、周波数特性は20Hz～30kHzとなる。展示パネルでは「その場にいるような臨場感」「鮮やかな音」を訴求していた。
+
+ポータブルオーディオイベント「秋のヘッドフォン祭2026」が開催された。本稿では、東京音響、Brise Audio／Brise Works、Faith Audio Labsの各ブースから注目製品をレポートする。
+
+■MADOO：「Typ435」 「Typ5000」（仮称）を世界初展示
+
+東京音響のブースで注目を集めていたのが、MADOOの新型IEM「Typ435」だ。会場で世界初展示・試聴が行われ、発売は11月、価格は10万円前後を予定している。比較的高価格帯のIEMを展開してきた同ブランドのラインナップにおいて、エントリーモデルとして企画されたという。
+
+音づくりでは、これまでプラナードライバーで蓄積してきた知見などを踏まえつつ、音の立ち上がりやレスポンスを重視したアプローチを採用。担当者は「立ちの良いものを作りたかった」といい、インパルス応答を意識しながら、音楽の瞬発力を感じられる方向へチューニングしたと説明していた。
+
+鳴らしやすさにも配慮しており、高価な据え置き機器や大出力アンプを前提とせず、幅広いポータブル環境で楽しめる点も、エントリーモデルとしてのポイントになる。
+
+また、ブランド初となるヘッドホン「Typ5000」（仮称）の試作機も参考展示した。プラナードライバーとパッシブラジエーターを組み合わせた構成を採用し、価格は40万～50万円程度を想定している。
+
+スタッフによれば、プラナードライバーを採用したIEMの開発で得た知見を生かし、「あえて原点に立ち返った製品を作ってみたかった」という。
+
+今回は試聴や試作機に触れることはできなかったが、ほかの製品の試聴に訪れた来場者からも注目を集めていた。発売日は未定だが、「なるべく早めにお届けしたい」とのことだ。
+
+会場での反応が良ければ、新製品で打ち出した方向性を今後の製品にも広げていきたいという。担当者は「もっといろいろな方にMADOOを手に取ってもらいたい」と説明し、今後も幅広い層に訴求する製品開発を進める考えを示した。
+
+同ブースのCleerからは、ゲーミング用途を意識した「ARC X Gaming」を展示。2026年11月の発売を予定しており、価格は4万円前後を見込む。
+
+同ブランドの「ARC」シリーズをゲーム用途へ発展させたモデル。ゲームプレイ時の音声再生やコミュニケーションを含めた使い方を提案しており、近日中の国内投入を予定している。
+
+■Brise Audio：400万円の「FUGAKU」10周年エディションに注目
+
+Brise Audioのブースで存在感を放っていたのが、創業10周年を記念した「FUGAKU 10th Anniversary Edition」だ。価格は4,000,000円（税込）。同ブランドのフラグシップイヤホンシステム「FUGAKU」をベースに、専用チューニングを施した特別仕様となる。
+
+通常モデルとは音の方向性にも違いを設けており、従来モデルよりややウォームで穏やかなサウンドに仕上げたと説明された。外装だけでなく、音質面にも手を加えた記念モデルだ。
+
+ケーブルも専用品を採用。Brise Audioが培ってきたNISHIKI系のケーブル技術をベースに、システム全体としてチューニングを行っているという。4.4mm to 4.4mmケーブルも付属し、幅広い再生環境で活用できるようにした。
+
+同ブースには、Brise Audioの各種ヘッドホンケーブルを比較できる試聴環境も用意されていた。再生機器にはAndroidタブレット、または来場者のスマートフォンを使用。同社のUSBケーブルを介してアキュフェーズのD/Aコンバーター「DC-1000」へ接続し、同社のXLRケーブルとヘッドホンアンプを組み合わせる構成となる。電源には、IsoTekのパワーコンディショナー「Sigmas」を使用していた。
+
+試聴用ケーブルとして「BSHP」シリーズや「YATONO-HP」「SHIROGANE-HP」などを用意。ヘッドホンはオーディオテクニカ「ATH-ADX7000」、Focal「UTOPIA SG」、Meze Audio「Elite」などを揃え、来場者が持参したヘッドホンでの試聴にも対応していた。
+
+■Faith Audio Labsが日本初出展。国内代理店を探し、本格参入を目指す
+
+日本のイベントに初めて出展した「Faith Audio Labs」も、国内展開を見据えて製品を披露していた。
+
+すでにアメリカやシンガポールなどで製品を展開しており、現在は日本国内の代理店を探している段階。イヤホン／ヘッドホンへの関心が高く、多数の国内外ブランドが競う日本を、重要な市場のひとつと位置付けているという。
+
+ブランドとして重視するのは、デザインとクオリティ。自社工場を持ち、製造工程を自ら管理しながら品質を確保できることも強みとして説明していた。
+
+展示されたイヤホンでも、外観の仕上げから音響面まで含めた品質をアピール。フラグシップクラスを含むラインナップを揃えており、シングル・ダイナミックドライバー構成のモデルも、ブランドを象徴する製品のひとつとして紹介されていた。
+
+初代フラッグシップに位置付ける「E1000」は、10.2mm径のフルレンジ・ダイナミックドライバーを搭載。80層以上の両面チタン複合振動板と、特許取得のパッシブラジエーターを採用する。磁気回路にはネオジム磁石を2基使用し、磁束密度は約9,000ガウスとしている。
+
+ハウジングはCNC精密加工によるチタン製。長さ1.5mの4芯高純度無酸素銅ケーブルを採用する。インピーダンスは45Ω、感度は115dB／1kHz、周波数特性は20Hz～20kHz（±1dB）と案内されていた。
+
+もうひとつの展示モデル「E800」は、3チャンバー構造とパッシブラジエーターを備える9.2mm径ダイナミックドライバーを搭載。同ブランド独自のパッシブラジエーター技術と、デュアルマグネットによるテスラ級磁気回路を特徴とする。
+
+ハウジングにはチタン合金を採用し、ケーブルには高純度無酸素銅導体と銀メッキ編組シールドを使用。感度は114dB、インピーダンスは45Ω、周波数特性は20Hz～30kHzとなる。展示パネルでは「その場にいるような臨場感」「鮮やかな音」を訴求していた。24:["$","section",null,{"className":"article-actions","children":[["$","$L35",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/9d07d06d9d07d06d01dd9f21","title":"＜ヘッドフォン祭＞MADOO、IEM「Typ435」と初のヘッドホン「Typ5000」世界初展示／Brise Audioは400万円の「FUGAKU」10周年記念版(PHILE WEB)","locale":"ja","take":null}],["$","$L36",null,{"title":"＜ヘッドフォン祭＞MADOO、IEM「Typ435」と初のヘッドホン「Typ5000」世界初展示／Brise Audioは400万円の「FUGAKU」10周年記念版(PHILE WEB)","excerpt":"$37","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/9d07d06d9d07d06d01dd9f21","locale":"ja"}],"$L38"]}]
+25:["$","$L39",null,{"placement":"article","className":"mt-8"}]
+26:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+27:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","yahoo-domestic:https://news.yahoo.co.jp/articles/cded0a44b41166345d7da861010d88d08d1dcd6b?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/64393dd564393dd55ebd857d","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"「宇都宮餃子祭り」8日まで開催(ABEMA TIMES)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/901eb592e8e6586c11708c364e87ed983c2b87f2?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/0d2aecae0d2aecae77647af4","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"【選手権予選】昨年度全国準Vの鹿島学園、東山、大津など新たに10校が全国切符を獲得(高校サッカードットコム)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/df932d89dba86d61be4f1bcc89b6b4a0ad961760?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/7cecc7a27cecc7a291989574","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"【競輪】庄子琢心がライバルの特昇阻止に気合「決勝までピン、ピンで行きたい」／奈良ミッド(日刊スポーツ)"}]]}]}]]}]]}]
+28:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+29:["$","$L3a",null,{"children":["$","$3b",null,{"name":"Next.MetadataOutlet","children":"$@3c"}]}]
+2c:["$","$1","h",{"children":[null,["$","$L3d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3e",null,{"children":["$","$3b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"＜ヘッドフォン祭＞MADOO、IEM「Typ435」と初のヘッドホン「Typ5000」世界初展示／Brise Audioは400万円の「FUGAKU」10周年記念版(PHILE WEB)"}],["$","meta","1",{"name":"description","content":"ポータブルオーディオイベント「秋のヘッドフォン祭2026」が開催された。本稿では、東京音響、Brise Audio／Brise Works、Faith Audio Labsの各ブースから注目製品をレポートする。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"＜ヘッドフォン祭＞MADOO、IEM「Typ435」と初のヘッドホン「Typ5000」世界初展示／Brise Audioは400万円の「FUGAKU」10周年記念版(PHILE WEB)"}],["$","meta","4",{"property":"og:description","content":"ポータブルオーディオイベント「秋のヘッドフォン祭2026」が開催された。本稿では、東京音響、Brise Audio／Brise Works、Faith Audio Labsの各ブースから注目製品をレポートする。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/9d07d06d9d07d06d01dd9f21/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261107-00131643-phileweb-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"＜ヘッドフォン祭＞MADOO、IEM「Typ435」と初のヘッドホン「Typ5000」世界初展示／Brise Audioは400万円の「FUGAKU」10周年記念版(PHILE WEB)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"＜ヘッドフォン祭＞MADOO、IEM「Typ435」と初のヘッドホン「Typ5000」世界初展示／Brise Audioは400万円の「FUGAKU」10周年記念版(PHILE WEB)"}],["$","meta","14",{"name":"twitter:description","content":"ポータブルオーディオイベント「秋のヘッドフォン祭2026」が開催された。本稿では、東京音響、Brise Audio／Brise Works、Faith Audio Labsの各ブースから注目製品をレポートする。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261107-00131643-phileweb-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L3f","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+2e:["$","$1","c",{"children":[null,["$","$L40",null,{"parallelRouterKey":"children","template":["$","$L41",null,{}]}]]}]
+31:["$","$1","c",{"children":[null,["$","$L40",null,{"parallelRouterKey":"children","template":["$","$L41",null,{}]}]]}]
+34:true
+38:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%EF%BC%9C%E3%83%98%E3%83%83%E3%83%89%E3%83%95%E3%82%A9%E3%83%B3%E7%A5%AD%EF%BC%9EMADOO%E3%80%81IEM10%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E7%89%88&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+3c:null
+2b:300
+2b:C
+33:0
+2d:"$undefined"
+2f:"$undefined"
+32:"$undefined"
+2a:"$undefined"

@@ -1,0 +1,65 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c922/live/4fe4c8d0-d5fa-11f1-a701-fddedf244c16.jpg","image"]
+5:Tcc1,イスラエル軍の攻撃で死亡したパレスチナ人の葬儀に参列する弔問客たち（1日、ガザ地区南部ハンユニス）
+
+頭にスカーフを巻いた女性3人が抱き合っている。後ろには複数の男性がいる
+
+パレスチナ・ガザ地区でイスラエル軍による攻撃があり、子どもを含む少なくとも計8人が殺害された。現地の病院などが1日、明らかした。イスラエル軍とパレスチナのイスラム組織ハマスは1年以上前に停戦で合意している。
+
+病院関係者によると、北部ガザ市アル・リマル地区のカイロ学校付近でミサイル攻撃があった。複数の民間人の近くに着弾し、4歳の男の子を含む3人が死亡した。
+
+南部ハンユニスでは、アル・マワシ地区でドローン攻撃があり、職務中の警察官5人が死亡した。ハマスが運営する内務省が発表した。
+
+イスラエル軍は、武装勢力を標的とした攻撃を2回実施したと発表したが、証拠や詳細な情報はまだ示していない。
+
+ガザ市のシファ病院の外で撮影された映像には、白いタオルに包まれた小さな子供の遺体と二つの遺体袋のそばで、大勢の男性が集まって祈る様子が映っていた。
+
+「私の息子と孫は殉教した。2人はテントの中で誰にも迷惑をかけずに座っていた。あの地域では何も起こっていなかったのに、突然ミサイルが命中し、2人は殉教した」とアリ・オウェイス氏はAFP通信に話した。「停戦などない。戦争は続いているのが、分からないか？」。
+
+ハンユニスのナセル病院で撮影された映像には、複数の遺体袋が床に並び、周りで女性たちが嘆き悲しむ様子が映っていた。内務省は、殺害された警察官5人の年齢（23歳から53歳）を公表し、今回の襲撃を「恐ろしい虐殺」と呼んだ。
+
+ガザ地区では昨年10月に停戦が発効したが、イスラエル軍による空爆はその後もほぼ毎日続いている。
+
+ハマスが運営するガザの保健省によると、停戦以降に1580人が殺害された。国連は、この保健省の統計が信用できるとしている。イスラエルは、自分たちの標的はハマスだと主張するが、民間人が犠牲になることが少なくない。
+
+一方、ドナルド・トランプ米政権が仲介したガザ地区の和平案は行き詰まっている。
+
+昨年の停戦合意により、イスラエルに拘束されていた数千人のパレスチナ人が解放され、その見返りとしてガザ地区に残っていた48人の人質全員が解放され、戦争終結に向けた合意が成立した。
+
+この紛争は、2023年10月7日にハマス主導で行われたイスラエル攻撃を機に始まった。ハマスなどの攻撃でイスラエルでは約1200人が殺害され、251人が人質となった。
+
+この後に続いた戦争で、ガザの保健省によるとガザ地区では7万4594人が殺害された。
+
+（英語記事 Israeli strikes in Gaza kill eight including child, hospitals say）d:X
+12:X
+12:C
+0:{"buildId":"v4pnrtun7pn_skbrgOFJo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-02","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"イスラエル軍がガザ空爆、子ども含む8人殺害 病院発表"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"5 日前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c922/live/4fe4c8d0-d5fa-11f1-a701-fddedf244c16.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"イスラエル軍の攻撃で死亡したパレスチナ人の葬儀に参列する弔問客たち（1日、ガザ地区南部ハンユニス）"}],["$","p","1",{"children":"頭にスカーフを巻いた女性3人が抱き合っている。後ろには複数の男性がいる"}],["$","p","2",{"children":"パレスチナ・ガザ地区でイスラエル軍による攻撃があり、子どもを含む少なくとも計8人が殺害された。現地の病院などが1日、明らかした。イスラエル軍とパレスチナのイスラム組織ハマスは1年以上前に停戦で合意している。"}],["$","p","3",{"children":"病院関係者によると、北部ガザ市アル・リマル地区のカイロ学校付近でミサイル攻撃があった。複数の民間人の近くに着弾し、4歳の男の子を含む3人が死亡した。"}],["$","p","4",{"children":"南部ハンユニスでは、アル・マワシ地区でドローン攻撃があり、職務中の警察官5人が死亡した。ハマスが運営する内務省が発表した。"}],["$","p","5",{"children":"イスラエル軍は、武装勢力を標的とした攻撃を2回実施したと発表したが、証拠や詳細な情報はまだ示していない。"}],["$","p","6",{"children":"ガザ市のシファ病院の外で撮影された映像には、白いタオルに包まれた小さな子供の遺体と二つの遺体袋のそばで、大勢の男性が集まって祈る様子が映っていた。"}],["$","p","7",{"children":"「私の息子と孫は殉教した。2人はテントの中で誰にも迷惑をかけずに座っていた。あの地域では何も起こっていなかったのに、突然ミサイルが命中し、2人は殉教した」とアリ・オウェイス氏はAFP通信に話した。「停戦などない。戦争は続いているのが、分からないか？」。"}],["$","p","8",{"children":"ハンユニスのナセル病院で撮影された映像には、複数の遺体袋が床に並び、周りで女性たちが嘆き悲しむ様子が映っていた。内務省は、殺害された警察官5人の年齢（23歳から53歳）を公表し、今回の襲撃を「恐ろしい虐殺」と呼んだ。"}],["$","p","9",{"children":"ガザ地区では昨年10月に停戦が発効したが、イスラエル軍による空爆はその後もほぼ毎日続いている。"}],["$","p","10",{"children":"ハマスが運営するガザの保健省によると、停戦以降に1580人が殺害された。国連は、この保健省の統計が信用できるとしている。イスラエルは、自分たちの標的はハマスだと主張するが、民間人が犠牲になることが少なくない。"}],["$","p","11",{"children":"一方、ドナルド・トランプ米政権が仲介したガザ地区の和平案は行き詰まっている。"}],["$","p","12",{"children":"昨年の停戦合意により、イスラエルに拘束されていた数千人のパレスチナ人が解放され、その見返りとしてガザ地区に残っていた48人の人質全員が解放され、戦争終結に向けた合意が成立した。"}],["$","p","13",{"children":"この紛争は、2023年10月7日にハマス主導で行われたイスラエル攻撃を機に始まった。ハマスなどの攻撃でイスラエルでは約1200人が殺害され、251人が人質となった。"}],["$","p","14",{"children":"この後に続いた戦争で、ガザの保健省によるとガザ地区では7万4594人が殺害された。"}],["$","p","15",{"children":"（英語記事 Israeli strikes in Gaza kill eight including child, hospitals say）"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/c32l4y80l2q5o","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/d098ee8ad098ee8a84132ca4","title":"イスラエル軍がガザ空爆、子ども含む8人殺害 病院発表","locale":"ja","take":null}],["$","$L4",null,{"title":"イスラエル軍がガザ空爆、子ども含む8人殺害 病院発表","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/d098ee8ad098ee8a84132ca4","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%82%A4%E3%82%B9%E3%83%A9%E3%82%A8%E3%83%AB%E8%BB%8D%E3%81%8C%E3%82%AC%E3%82%B6%E7%A9%BA%E7%88%86%E3%80%81%E5%AD%90%E3%81%A9%E3%82%82%E5%90%AB%E3%82%808%E4%BA%BA%E6%AE%BA%E5%AE%B3+%E7%97%85%E9%99%A2%E7%99%BA%E8%A1%A8&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","dw:https://dw.com/en/la-communities-kick-out-big-oil/a-79830843?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/8b928cda8b928cdae6f4a4a6","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"LA communities kick out Big Oil"}]]}]}],["$","li","nhk-politics:https://news.web.nhk/newsweb/na/nd-20261102de69793",{"children":["$","$L2",null,{"href":"/ja/n/c6954418c695441827065e40","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"アメリカ中間選挙 3日に投票開始 NW9広内キャスターが現地取材"}]]}]}],["$","li","nhk-society:https://news.web.nhk/newsweb/na/nd-20261102de69830",{"children":["$","$L2",null,{"href":"/ja/n/9730b9ef9730b9ef63b0ed87","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"アジア太平洋放送連合 次の会長にNHKの山名副会長を選出"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"イスラエル軍がガザ空爆、子ども含む8人殺害 病院発表"}],["$","meta","1",{"name":"description","content":"イスラエル軍の攻撃で死亡したパレスチナ人の葬儀に参列する弔問客たち（1日、ガザ地区南部ハンユニス）"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"イスラエル軍がガザ空爆、子ども含む8人殺害 病院発表"}],["$","meta","4",{"property":"og:description","content":"イスラエル軍の攻撃で死亡したパレスチナ人の葬儀に参列する弔問客たち（1日、ガザ地区南部ハンユニス）"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/d098ee8ad098ee8a84132ca4/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fc922%2Flive%2F4fe4c8d0-d5fa-11f1-a701-fddedf244c16.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"イスラエル軍がガザ空爆、子ども含む8人殺害 病院発表"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"イスラエル軍がガザ空爆、子ども含む8人殺害 病院発表"}],["$","meta","14",{"name":"twitter:description","content":"イスラエル軍の攻撃で死亡したパレスチナ人の葬儀に参列する弔問客たち（1日、ガザ地区南部ハンユニス）"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fc922%2Flive%2F4fe4c8d0-d5fa-11f1-a701-fddedf244c16.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

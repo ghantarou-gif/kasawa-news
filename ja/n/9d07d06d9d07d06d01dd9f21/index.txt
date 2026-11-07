@@ -1,0 +1,167 @@
+1:"$Sreact.fragment"
+2:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+4:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"LoadingBoundaryProvider"]
+7:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+f:I[68027,[],"default",1]
+:HL["/kasawa-news/_next/static/chunks/05wjkgi4s2ouj.css","style"]
+:HL["/kasawa-news/_next/static/chunks/13j-0ia4l16p6.css","style"]
+:HL["/kasawa-news/_next/static/media/ad9c66e761fed85a-s.p.0fhiaplbf_4wa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+a:X
+0:{"P":null,"c":["","ja","n","9d07d06d9d07d06d01dd9f21",""],"q":"","i":false,"f":[[["",{"children":[["locale","ja","d",["go"]],{"children":["n",{"children":[["id","9d07d06d9d07d06d01dd9f21","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4612]},"$undefined","$undefined",4632],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/05wjkgi4s2ouj.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/13j-0ia4l16p6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ja","suppressHydrationWarning":true,"className":"noto_sans_jp_ce83c864-module__rNYPaW__variable h-full antialiased","children":[["$","head",null,{"children":["$","script",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9222859203841922","crossOrigin":"anonymous"}]}],["$","body",null,{"className":"site-body min-h-full bg-paper text-ink","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":[["$","$L4",null,{"loading":[["$","div","l",{"className":"py-16","children":[["$","div",null,{"className":"h-3 w-24 bg-ink/10"}],["$","div",null,{"className":"mt-4 h-16 w-4/5 bg-ink/10"}],["$","div",null,{"className":"mt-6 h-4 w-full bg-ink/10"}],["$","div",null,{"className":"mt-2 h-4 w-2/3 bg-ink/10"}],["$","div",null,{"className":"mt-12 space-y-6","children":[["$","div",null,{"className":"h-10 bg-ink/10"}],["$","div",null,{"className":"h-10 bg-ink/10"}],["$","div",null,{"className":"h-10 w-5/6 bg-ink/10"}]]}]]}],[],null],"children":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","async":true,"nonce":"$undefined"}]],"$L5"]}]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$a"]},null,false,"$a"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/05wjkgi4s2ouj.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/13j-0ia4l16p6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"v4pnrtun7pn_skbrgOFJo"}
+10:I[50155,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js"],"HtmlLang"]
+11:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+12:I[86168,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js"],"LanguageSwitch"]
+a:C
+5:["$","div",null,{"className":"flex min-h-full flex-col","children":[["$","$L10",null,{"locale":"ja"}],["$","header",null,{"className":"desk-hero","children":["$","div",null,{"className":"site-shell mx-auto flex w-full max-w-6xl flex-col gap-4 px-4 py-6 sm:px-6 sm:py-7","children":[["$","div",null,{"className":"flex min-w-0 items-start gap-3","children":[["$","span",null,{"className":"brand-mark mt-1 shrink-0","aria-hidden":true,"children":"NC"}],["$","div",null,{"className":"min-w-0","children":[["$","p",null,{"className":"text-[10px] font-bold tracking-[0.2em] text-muted uppercase sm:text-[11px] sm:tracking-[0.24em]","children":"NYANCHU NEWS"}],["$","$L11",null,{"href":"/ja","className":"font-display mt-1 block text-[clamp(1.65rem,8vw,3.2rem)] leading-[1.05] tracking-[-0.03em] hover:opacity-90","children":[["$","span",null,{"className":"text-accent","children":"BREAKING"}]," ",["$","span",null,{"className":"text-ink","children":"NyanChu"}]]}],["$","p",null,{"className":"mt-1 font-sans text-[11px] tracking-[0.14em] text-muted sm:text-[12px] sm:tracking-[0.16em]","children":"ニャンチュ"}]]}]]}],["$","nav",null,{"className":"header-nav","aria-label":"サイト","children":[["$","$L12",null,{"locale":"ja"}],["$","a",null,{"href":"/kasawa-news/search.html","className":"header-nav-link","children":"NyanChu検索する"}],["$","$L11",null,{"href":"/ja/election","className":"header-nav-link","children":"選挙"}],["$","$L11",null,{"href":"/ja/travel","className":"header-nav-link","children":"旅ガイド"}],["$","a",null,{"href":"/kasawa-news/phrasebook.html","className":"header-nav-link","children":"旅の日本語"}],["$","$L11",null,{"href":"/ja/book","className":"header-nav-link","children":"本"}],["$","$L11",null,{"href":"/ja/members/x","className":"header-nav-link","children":"会員"}]]}],["$","p",null,{"className":"max-w-2xl text-[13px] leading-6 text-muted sm:text-[14px]","children":["日付ごとに保存。最新は先頭。ジャンルチップから各日のフィードへ。"," ","2026-11-07 19:34"," ","更新"]}]]}]}],["$","div",null,{"className":"site-shell mx-auto w-full max-w-6xl flex-1 px-4 sm:px-6","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"py-24 text-center","children":[["$","p",null,{"className":"font-display text-5xl tracking-[-0.04em]","children":"404"}],["$","p",null,{"className":"mt-4 text-muted","children":"Page not found. / ページが見つかりません。"}],["$","$L11",null,{"href":"/ja","className":"mt-8 inline-block font-sans text-[12px] tracking-[0.18em] uppercase text-accent","children":"NyanChu"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","div",null,{"className":"site-shell mx-auto w-full max-w-6xl px-4 sm:px-6","children":["$","footer",null,{"className":"mt-16 border-t border-line pt-8 pb-12 text-[13px] leading-6 text-muted","children":[["$","div",null,{"className":"flex flex-wrap items-start justify-between gap-6","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-lg tracking-wide text-ink","children":"NyanChu"}],["$","p",null,{"className":"mt-2 max-w-xl","children":"見出しから、記事の本文へ。"}]]}],["$","nav",null,{"className":"flex flex-wrap gap-x-5 gap-y-2 font-sans text-[12px] tracking-[0.14em] uppercase","children":[["$","$L11",null,{"href":"/ja","className":"hover:text-accent","children":"トップ"}],["$","$L11",null,{"href":"/ja/travel","className":"hover:text-accent","children":"旅ガイド"}],["$","a",null,{"href":"/kasawa-news/phrasebook.html","className":"hover:text-accent","children":"旅の日本語"}],["$","$L11",null,{"href":"/ja/book","className":"hover:text-accent","children":"本"}],["$","$L11",null,{"href":"/ja/members/x","className":"hover:text-accent","children":"会員"}],["$","a",null,{"href":"/kasawa-news/search.html","className":"hover:text-accent","children":"NyanChu検索する"}]]}]]}],["$","p",null,{"className":"mt-6 max-w-3xl","children":"配信に含まれる本文を記事ページに出しています。見出しだけの配信は、発行元ページの要点を表示します。有料記事は入れていません。著作権は各社にあります。"}],["$","p",null,{"className":"mt-4","children":["配信元",": ","BBC日本語 · BBC · NPR · The Guardian · Al Jazeera · Deutsche Welle · France 24 · ABC Australia · CBC · CNA · Euronews · UN News · ITmedia · Gigazine · CNET Japan · マイナビニュース · Yahoo!ニュース · ライブドアニュース · NHKニュース"]}],["$","p",null,{"className":"mt-1","children":["30分ごとに取り込み",["$","span",null,{"className":"mx-2 text-ink/30","children":"/"}],"表は24時間以内"]}]]}]}]]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]
+37:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261107-00131643-phileweb-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","image"]
+6:["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L11",null,{"href":"/ja/d/2026-11-07","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"＜ヘッドフォン祭＞MADOO、IEM「Typ435」と初のヘッドホン「Typ5000」世界初展示／Brise Audioは400万円の「FUGAKU」10周年記念版(PHILE WEB)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"5 分前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261107-00131643-phileweb-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"ポータブルオーディオイベント「秋のヘッドフォン祭2026」が開催された。本稿では、東京音響、Brise Audio／Brise Works、Faith Audio Labsの各ブースから注目製品をレポートする。"}],["$","p","1",{"children":"■MADOO：「Typ435」 「Typ5000」（仮称）を世界初展示"}],["$","p","2",{"children":"東京音響のブースで注目を集めていたのが、MADOOの新型IEM「Typ435」だ。会場で世界初展示・試聴が行われ、発売は11月、価格は10万円前後を予定している。比較的高価格帯のIEMを展開してきた同ブランドのラインナップにおいて、エントリーモデルとして企画されたという。"}],["$","p","3",{"children":"音づくりでは、これまでプラナードライバーで蓄積してきた知見などを踏まえつつ、音の立ち上がりやレスポンスを重視したアプローチを採用。担当者は「立ちの良いものを作りたかった」といい、インパルス応答を意識しながら、音楽の瞬発力を感じられる方向へチューニングしたと説明していた。"}],["$","p","4",{"children":"鳴らしやすさにも配慮しており、高価な据え置き機器や大出力アンプを前提とせず、幅広いポータブル環境で楽しめる点も、エントリーモデルとしてのポイントになる。"}],["$","p","5",{"children":"また、ブランド初となるヘッドホン「Typ5000」（仮称）の試作機も参考展示した。プラナードライバーとパッシブラジエーターを組み合わせた構成を採用し、価格は40万～50万円程度を想定している。"}],["$","p","6",{"children":"スタッフによれば、プラナードライバーを採用したIEMの開発で得た知見を生かし、「あえて原点に立ち返った製品を作ってみたかった」という。"}],["$","p","7",{"children":"今回は試聴や試作機に触れることはできなかったが、ほかの製品の試聴に訪れた来場者からも注目を集めていた。発売日は未定だが、「なるべく早めにお届けしたい」とのことだ。"}],["$","p","8",{"children":"会場での反応が良ければ、新製品で打ち出した方向性を今後の製品にも広げていきたいという。担当者は「もっといろいろな方にMADOOを手に取ってもらいたい」と説明し、今後も幅広い層に訴求する製品開発を進める考えを示した。"}],["$","p","9",{"children":"同ブースのCleerからは、ゲーミング用途を意識した「ARC X Gaming」を展示。2026年11月の発売を予定しており、価格は4万円前後を見込む。"}],["$","p","10",{"children":"同ブランドの「ARC」シリーズをゲーム用途へ発展させたモデル。ゲームプレイ時の音声再生やコミュニケーションを含めた使い方を提案しており、近日中の国内投入を予定している。"}],["$","p","11",{"children":"■Brise Audio：400万円の「FUGAKU」10周年エディションに注目"}],["$","p","12",{"children":"Brise Audioのブースで存在感を放っていたのが、創業10周年を記念した「FUGAKU 10th Anniversary Edition」だ。価格は4,000,000円（税込）。同ブランドのフラグシップイヤホンシステム「FUGAKU」をベースに、専用チューニングを施した特別仕様となる。"}],["$","p","13",{"children":"通常モデルとは音の方向性にも違いを設けており、従来モデルよりややウォームで穏やかなサウンドに仕上げたと説明された。外装だけでなく、音質面にも手を加えた記念モデルだ。"}],["$","p","14",{"children":"ケーブルも専用品を採用。Brise Audioが培ってきたNISHIKI系のケーブル技術をベースに、システム全体としてチューニングを行っているという。4.4mm to 4.4mmケーブルも付属し、幅広い再生環境で活用できるようにした。"}],["$","p","15",{"children":"同ブースには、Brise Audioの各種ヘッドホンケーブルを比較できる試聴環境も用意されていた。再生機器にはAndroidタブレット、または来場者のスマートフォンを使用。同社のUSBケーブルを介してアキュフェーズのD/Aコンバーター「DC-1000」へ接続し、同社のXLRケーブルとヘッドホンアンプを組み合わせる構成となる。電源には、IsoTekのパワーコンディショナー「Sigmas」を使用していた。"}],["$","p","16",{"children":"試聴用ケーブルとして「BSHP」シリーズや「YATONO-HP」「SHIROGANE-HP」などを用意。ヘッドホンはオーディオテクニカ「ATH-ADX7000」、Focal「UTOPIA SG」、Meze Audio「Elite」などを揃え、来場者が持参したヘッドホンでの試聴にも対応していた。"}],["$","p","17",{"children":"■Faith Audio Labsが日本初出展。国内代理店を探し、本格参入を目指す"}],["$","p","18",{"children":"日本のイベントに初めて出展した「Faith Audio Labs」も、国内展開を見据えて製品を披露していた。"}],["$","p","19",{"children":"すでにアメリカやシンガポールなどで製品を展開しており、現在は日本国内の代理店を探している段階。イヤホン／ヘッドホンへの関心が高く、多数の国内外ブランドが競う日本を、重要な市場のひとつと位置付けているという。"}],["$","p","20",{"children":"ブランドとして重視するのは、デザインとクオリティ。自社工場を持ち、製造工程を自ら管理しながら品質を確保できることも強みとして説明していた。"}],["$","p","21",{"children":"展示されたイヤホンでも、外観の仕上げから音響面まで含めた品質をアピール。フラグシップクラスを含むラインナップを揃えており、シングル・ダイナミックドライバー構成のモデルも、ブランドを象徴する製品のひとつとして紹介されていた。"}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30"],"$L31"]}],"$L32","$L33","$L34",null,"$L35","$L36"]}]
+9:null
+e:[["$","title","0",{"children":"＜ヘッドフォン祭＞MADOO、IEM「Typ435」と初のヘッドホン「Typ5000」世界初展示／Brise Audioは400万円の「FUGAKU」10周年記念版(PHILE WEB)"}],["$","meta","1",{"name":"description","content":"ポータブルオーディオイベント「秋のヘッドフォン祭2026」が開催された。本稿では、東京音響、Brise Audio／Brise Works、Faith Audio Labsの各ブースから注目製品をレポートする。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"＜ヘッドフォン祭＞MADOO、IEM「Typ435」と初のヘッドホン「Typ5000」世界初展示／Brise Audioは400万円の「FUGAKU」10周年記念版(PHILE WEB)"}],["$","meta","4",{"property":"og:description","content":"ポータブルオーディオイベント「秋のヘッドフォン祭2026」が開催された。本稿では、東京音響、Brise Audio／Brise Works、Faith Audio Labsの各ブースから注目製品をレポートする。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/9d07d06d9d07d06d01dd9f21/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261107-00131643-phileweb-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"＜ヘッドフォン祭＞MADOO、IEM「Typ435」と初のヘッドホン「Typ5000」世界初展示／Brise Audioは400万円の「FUGAKU」10周年記念版(PHILE WEB)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"＜ヘッドフォン祭＞MADOO、IEM「Typ435」と初のヘッドホン「Typ5000」世界初展示／Brise Audioは400万円の「FUGAKU」10周年記念版(PHILE WEB)"}],["$","meta","14",{"name":"twitter:description","content":"ポータブルオーディオイベント「秋のヘッドフォン祭2026」が開催された。本稿では、東京音響、Brise Audio／Brise Works、Faith Audio Labsの各ブースから注目製品をレポートする。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261107-00131643-phileweb-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L37","18",{}]]
+38:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+39:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+3c:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+13:["$","p","22",{"children":"初代フラッグシップに位置付ける「E1000」は、10.2mm径のフルレンジ・ダイナミックドライバーを搭載。80層以上の両面チタン複合振動板と、特許取得のパッシブラジエーターを採用する。磁気回路にはネオジム磁石を2基使用し、磁束密度は約9,000ガウスとしている。"}]
+14:["$","p","23",{"children":"ハウジングはCNC精密加工によるチタン製。長さ1.5mの4芯高純度無酸素銅ケーブルを採用する。インピーダンスは45Ω、感度は115dB／1kHz、周波数特性は20Hz～20kHz（±1dB）と案内されていた。"}]
+15:["$","p","24",{"children":"もうひとつの展示モデル「E800」は、3チャンバー構造とパッシブラジエーターを備える9.2mm径ダイナミックドライバーを搭載。同ブランド独自のパッシブラジエーター技術と、デュアルマグネットによるテスラ級磁気回路を特徴とする。"}]
+16:["$","p","25",{"children":"ハウジングにはチタン合金を採用し、ケーブルには高純度無酸素銅導体と銀メッキ編組シールドを使用。感度は114dB、インピーダンスは45Ω、周波数特性は20Hz～30kHzとなる。展示パネルでは「その場にいるような臨場感」「鮮やかな音」を訴求していた。"}]
+17:["$","p","26",{"children":"ポータブルオーディオイベント「秋のヘッドフォン祭2026」が開催された。本稿では、東京音響、Brise Audio／Brise Works、Faith Audio Labsの各ブースから注目製品をレポートする。"}]
+18:["$","p","27",{"children":"■MADOO：「Typ435」 「Typ5000」（仮称）を世界初展示"}]
+19:["$","p","28",{"children":"東京音響のブースで注目を集めていたのが、MADOOの新型IEM「Typ435」だ。会場で世界初展示・試聴が行われ、発売は11月、価格は10万円前後を予定している。比較的高価格帯のIEMを展開してきた同ブランドのラインナップにおいて、エントリーモデルとして企画されたという。"}]
+1a:["$","p","29",{"children":"音づくりでは、これまでプラナードライバーで蓄積してきた知見などを踏まえつつ、音の立ち上がりやレスポンスを重視したアプローチを採用。担当者は「立ちの良いものを作りたかった」といい、インパルス応答を意識しながら、音楽の瞬発力を感じられる方向へチューニングしたと説明していた。"}]
+1b:["$","p","30",{"children":"鳴らしやすさにも配慮しており、高価な据え置き機器や大出力アンプを前提とせず、幅広いポータブル環境で楽しめる点も、エントリーモデルとしてのポイントになる。"}]
+1c:["$","p","31",{"children":"また、ブランド初となるヘッドホン「Typ5000」（仮称）の試作機も参考展示した。プラナードライバーとパッシブラジエーターを組み合わせた構成を採用し、価格は40万～50万円程度を想定している。"}]
+1d:["$","p","32",{"children":"スタッフによれば、プラナードライバーを採用したIEMの開発で得た知見を生かし、「あえて原点に立ち返った製品を作ってみたかった」という。"}]
+1e:["$","p","33",{"children":"今回は試聴や試作機に触れることはできなかったが、ほかの製品の試聴に訪れた来場者からも注目を集めていた。発売日は未定だが、「なるべく早めにお届けしたい」とのことだ。"}]
+1f:["$","p","34",{"children":"会場での反応が良ければ、新製品で打ち出した方向性を今後の製品にも広げていきたいという。担当者は「もっといろいろな方にMADOOを手に取ってもらいたい」と説明し、今後も幅広い層に訴求する製品開発を進める考えを示した。"}]
+20:["$","p","35",{"children":"同ブースのCleerからは、ゲーミング用途を意識した「ARC X Gaming」を展示。2026年11月の発売を予定しており、価格は4万円前後を見込む。"}]
+21:["$","p","36",{"children":"同ブランドの「ARC」シリーズをゲーム用途へ発展させたモデル。ゲームプレイ時の音声再生やコミュニケーションを含めた使い方を提案しており、近日中の国内投入を予定している。"}]
+22:["$","p","37",{"children":"■Brise Audio：400万円の「FUGAKU」10周年エディションに注目"}]
+23:["$","p","38",{"children":"Brise Audioのブースで存在感を放っていたのが、創業10周年を記念した「FUGAKU 10th Anniversary Edition」だ。価格は4,000,000円（税込）。同ブランドのフラグシップイヤホンシステム「FUGAKU」をベースに、専用チューニングを施した特別仕様となる。"}]
+24:["$","p","39",{"children":"通常モデルとは音の方向性にも違いを設けており、従来モデルよりややウォームで穏やかなサウンドに仕上げたと説明された。外装だけでなく、音質面にも手を加えた記念モデルだ。"}]
+25:["$","p","40",{"children":"ケーブルも専用品を採用。Brise Audioが培ってきたNISHIKI系のケーブル技術をベースに、システム全体としてチューニングを行っているという。4.4mm to 4.4mmケーブルも付属し、幅広い再生環境で活用できるようにした。"}]
+26:["$","p","41",{"children":"同ブースには、Brise Audioの各種ヘッドホンケーブルを比較できる試聴環境も用意されていた。再生機器にはAndroidタブレット、または来場者のスマートフォンを使用。同社のUSBケーブルを介してアキュフェーズのD/Aコンバーター「DC-1000」へ接続し、同社のXLRケーブルとヘッドホンアンプを組み合わせる構成となる。電源には、IsoTekのパワーコンディショナー「Sigmas」を使用していた。"}]
+27:["$","p","42",{"children":"試聴用ケーブルとして「BSHP」シリーズや「YATONO-HP」「SHIROGANE-HP」などを用意。ヘッドホンはオーディオテクニカ「ATH-ADX7000」、Focal「UTOPIA SG」、Meze Audio「Elite」などを揃え、来場者が持参したヘッドホンでの試聴にも対応していた。"}]
+28:["$","p","43",{"children":"■Faith Audio Labsが日本初出展。国内代理店を探し、本格参入を目指す"}]
+29:["$","p","44",{"children":"日本のイベントに初めて出展した「Faith Audio Labs」も、国内展開を見据えて製品を披露していた。"}]
+2a:["$","p","45",{"children":"すでにアメリカやシンガポールなどで製品を展開しており、現在は日本国内の代理店を探している段階。イヤホン／ヘッドホンへの関心が高く、多数の国内外ブランドが競う日本を、重要な市場のひとつと位置付けているという。"}]
+2b:["$","p","46",{"children":"ブランドとして重視するのは、デザインとクオリティ。自社工場を持ち、製造工程を自ら管理しながら品質を確保できることも強みとして説明していた。"}]
+2c:["$","p","47",{"children":"展示されたイヤホンでも、外観の仕上げから音響面まで含めた品質をアピール。フラグシップクラスを含むラインナップを揃えており、シングル・ダイナミックドライバー構成のモデルも、ブランドを象徴する製品のひとつとして紹介されていた。"}]
+2d:["$","p","48",{"children":"初代フラッグシップに位置付ける「E1000」は、10.2mm径のフルレンジ・ダイナミックドライバーを搭載。80層以上の両面チタン複合振動板と、特許取得のパッシブラジエーターを採用する。磁気回路にはネオジム磁石を2基使用し、磁束密度は約9,000ガウスとしている。"}]
+2e:["$","p","49",{"children":"ハウジングはCNC精密加工によるチタン製。長さ1.5mの4芯高純度無酸素銅ケーブルを採用する。インピーダンスは45Ω、感度は115dB／1kHz、周波数特性は20Hz～20kHz（±1dB）と案内されていた。"}]
+2f:["$","p","50",{"children":"もうひとつの展示モデル「E800」は、3チャンバー構造とパッシブラジエーターを備える9.2mm径ダイナミックドライバーを搭載。同ブランド独自のパッシブラジエーター技術と、デュアルマグネットによるテスラ級磁気回路を特徴とする。"}]
+30:["$","p","51",{"children":"ハウジングにはチタン合金を採用し、ケーブルには高純度無酸素銅導体と銀メッキ編組シールドを使用。感度は114dB、インピーダンスは45Ω、周波数特性は20Hz～30kHzとなる。展示パネルでは「その場にいるような臨場感」「鮮やかな音」を訴求していた。"}]
+31:["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]
+32:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/4ab17c4ff179886d728dd43993dc66a13382b603?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}]
+3a:T35ae,ポータブルオーディオイベント「秋のヘッドフォン祭2026」が開催された。本稿では、東京音響、Brise Audio／Brise Works、Faith Audio Labsの各ブースから注目製品をレポートする。
+
+■MADOO：「Typ435」 「Typ5000」（仮称）を世界初展示
+
+東京音響のブースで注目を集めていたのが、MADOOの新型IEM「Typ435」だ。会場で世界初展示・試聴が行われ、発売は11月、価格は10万円前後を予定している。比較的高価格帯のIEMを展開してきた同ブランドのラインナップにおいて、エントリーモデルとして企画されたという。
+
+音づくりでは、これまでプラナードライバーで蓄積してきた知見などを踏まえつつ、音の立ち上がりやレスポンスを重視したアプローチを採用。担当者は「立ちの良いものを作りたかった」といい、インパルス応答を意識しながら、音楽の瞬発力を感じられる方向へチューニングしたと説明していた。
+
+鳴らしやすさにも配慮しており、高価な据え置き機器や大出力アンプを前提とせず、幅広いポータブル環境で楽しめる点も、エントリーモデルとしてのポイントになる。
+
+また、ブランド初となるヘッドホン「Typ5000」（仮称）の試作機も参考展示した。プラナードライバーとパッシブラジエーターを組み合わせた構成を採用し、価格は40万～50万円程度を想定している。
+
+スタッフによれば、プラナードライバーを採用したIEMの開発で得た知見を生かし、「あえて原点に立ち返った製品を作ってみたかった」という。
+
+今回は試聴や試作機に触れることはできなかったが、ほかの製品の試聴に訪れた来場者からも注目を集めていた。発売日は未定だが、「なるべく早めにお届けしたい」とのことだ。
+
+会場での反応が良ければ、新製品で打ち出した方向性を今後の製品にも広げていきたいという。担当者は「もっといろいろな方にMADOOを手に取ってもらいたい」と説明し、今後も幅広い層に訴求する製品開発を進める考えを示した。
+
+同ブースのCleerからは、ゲーミング用途を意識した「ARC X Gaming」を展示。2026年11月の発売を予定しており、価格は4万円前後を見込む。
+
+同ブランドの「ARC」シリーズをゲーム用途へ発展させたモデル。ゲームプレイ時の音声再生やコミュニケーションを含めた使い方を提案しており、近日中の国内投入を予定している。
+
+■Brise Audio：400万円の「FUGAKU」10周年エディションに注目
+
+Brise Audioのブースで存在感を放っていたのが、創業10周年を記念した「FUGAKU 10th Anniversary Edition」だ。価格は4,000,000円（税込）。同ブランドのフラグシップイヤホンシステム「FUGAKU」をベースに、専用チューニングを施した特別仕様となる。
+
+通常モデルとは音の方向性にも違いを設けており、従来モデルよりややウォームで穏やかなサウンドに仕上げたと説明された。外装だけでなく、音質面にも手を加えた記念モデルだ。
+
+ケーブルも専用品を採用。Brise Audioが培ってきたNISHIKI系のケーブル技術をベースに、システム全体としてチューニングを行っているという。4.4mm to 4.4mmケーブルも付属し、幅広い再生環境で活用できるようにした。
+
+同ブースには、Brise Audioの各種ヘッドホンケーブルを比較できる試聴環境も用意されていた。再生機器にはAndroidタブレット、または来場者のスマートフォンを使用。同社のUSBケーブルを介してアキュフェーズのD/Aコンバーター「DC-1000」へ接続し、同社のXLRケーブルとヘッドホンアンプを組み合わせる構成となる。電源には、IsoTekのパワーコンディショナー「Sigmas」を使用していた。
+
+試聴用ケーブルとして「BSHP」シリーズや「YATONO-HP」「SHIROGANE-HP」などを用意。ヘッドホンはオーディオテクニカ「ATH-ADX7000」、Focal「UTOPIA SG」、Meze Audio「Elite」などを揃え、来場者が持参したヘッドホンでの試聴にも対応していた。
+
+■Faith Audio Labsが日本初出展。国内代理店を探し、本格参入を目指す
+
+日本のイベントに初めて出展した「Faith Audio Labs」も、国内展開を見据えて製品を披露していた。
+
+すでにアメリカやシンガポールなどで製品を展開しており、現在は日本国内の代理店を探している段階。イヤホン／ヘッドホンへの関心が高く、多数の国内外ブランドが競う日本を、重要な市場のひとつと位置付けているという。
+
+ブランドとして重視するのは、デザインとクオリティ。自社工場を持ち、製造工程を自ら管理しながら品質を確保できることも強みとして説明していた。
+
+展示されたイヤホンでも、外観の仕上げから音響面まで含めた品質をアピール。フラグシップクラスを含むラインナップを揃えており、シングル・ダイナミックドライバー構成のモデルも、ブランドを象徴する製品のひとつとして紹介されていた。
+
+初代フラッグシップに位置付ける「E1000」は、10.2mm径のフルレンジ・ダイナミックドライバーを搭載。80層以上の両面チタン複合振動板と、特許取得のパッシブラジエーターを採用する。磁気回路にはネオジム磁石を2基使用し、磁束密度は約9,000ガウスとしている。
+
+ハウジングはCNC精密加工によるチタン製。長さ1.5mの4芯高純度無酸素銅ケーブルを採用する。インピーダンスは45Ω、感度は115dB／1kHz、周波数特性は20Hz～20kHz（±1dB）と案内されていた。
+
+もうひとつの展示モデル「E800」は、3チャンバー構造とパッシブラジエーターを備える9.2mm径ダイナミックドライバーを搭載。同ブランド独自のパッシブラジエーター技術と、デュアルマグネットによるテスラ級磁気回路を特徴とする。
+
+ハウジングにはチタン合金を採用し、ケーブルには高純度無酸素銅導体と銀メッキ編組シールドを使用。感度は114dB、インピーダンスは45Ω、周波数特性は20Hz～30kHzとなる。展示パネルでは「その場にいるような臨場感」「鮮やかな音」を訴求していた。
+
+ポータブルオーディオイベント「秋のヘッドフォン祭2026」が開催された。本稿では、東京音響、Brise Audio／Brise Works、Faith Audio Labsの各ブースから注目製品をレポートする。
+
+■MADOO：「Typ435」 「Typ5000」（仮称）を世界初展示
+
+東京音響のブースで注目を集めていたのが、MADOOの新型IEM「Typ435」だ。会場で世界初展示・試聴が行われ、発売は11月、価格は10万円前後を予定している。比較的高価格帯のIEMを展開してきた同ブランドのラインナップにおいて、エントリーモデルとして企画されたという。
+
+音づくりでは、これまでプラナードライバーで蓄積してきた知見などを踏まえつつ、音の立ち上がりやレスポンスを重視したアプローチを採用。担当者は「立ちの良いものを作りたかった」といい、インパルス応答を意識しながら、音楽の瞬発力を感じられる方向へチューニングしたと説明していた。
+
+鳴らしやすさにも配慮しており、高価な据え置き機器や大出力アンプを前提とせず、幅広いポータブル環境で楽しめる点も、エントリーモデルとしてのポイントになる。
+
+また、ブランド初となるヘッドホン「Typ5000」（仮称）の試作機も参考展示した。プラナードライバーとパッシブラジエーターを組み合わせた構成を採用し、価格は40万～50万円程度を想定している。
+
+スタッフによれば、プラナードライバーを採用したIEMの開発で得た知見を生かし、「あえて原点に立ち返った製品を作ってみたかった」という。
+
+今回は試聴や試作機に触れることはできなかったが、ほかの製品の試聴に訪れた来場者からも注目を集めていた。発売日は未定だが、「なるべく早めにお届けしたい」とのことだ。
+
+会場での反応が良ければ、新製品で打ち出した方向性を今後の製品にも広げていきたいという。担当者は「もっといろいろな方にMADOOを手に取ってもらいたい」と説明し、今後も幅広い層に訴求する製品開発を進める考えを示した。
+
+同ブースのCleerからは、ゲーミング用途を意識した「ARC X Gaming」を展示。2026年11月の発売を予定しており、価格は4万円前後を見込む。
+
+同ブランドの「ARC」シリーズをゲーム用途へ発展させたモデル。ゲームプレイ時の音声再生やコミュニケーションを含めた使い方を提案しており、近日中の国内投入を予定している。
+
+■Brise Audio：400万円の「FUGAKU」10周年エディションに注目
+
+Brise Audioのブースで存在感を放っていたのが、創業10周年を記念した「FUGAKU 10th Anniversary Edition」だ。価格は4,000,000円（税込）。同ブランドのフラグシップイヤホンシステム「FUGAKU」をベースに、専用チューニングを施した特別仕様となる。
+
+通常モデルとは音の方向性にも違いを設けており、従来モデルよりややウォームで穏やかなサウンドに仕上げたと説明された。外装だけでなく、音質面にも手を加えた記念モデルだ。
+
+ケーブルも専用品を採用。Brise Audioが培ってきたNISHIKI系のケーブル技術をベースに、システム全体としてチューニングを行っているという。4.4mm to 4.4mmケーブルも付属し、幅広い再生環境で活用できるようにした。
+
+同ブースには、Brise Audioの各種ヘッドホンケーブルを比較できる試聴環境も用意されていた。再生機器にはAndroidタブレット、または来場者のスマートフォンを使用。同社のUSBケーブルを介してアキュフェーズのD/Aコンバーター「DC-1000」へ接続し、同社のXLRケーブルとヘッドホンアンプを組み合わせる構成となる。電源には、IsoTekのパワーコンディショナー「Sigmas」を使用していた。
+
+試聴用ケーブルとして「BSHP」シリーズや「YATONO-HP」「SHIROGANE-HP」などを用意。ヘッドホンはオーディオテクニカ「ATH-ADX7000」、Focal「UTOPIA SG」、Meze Audio「Elite」などを揃え、来場者が持参したヘッドホンでの試聴にも対応していた。
+
+■Faith Audio Labsが日本初出展。国内代理店を探し、本格参入を目指す
+
+日本のイベントに初めて出展した「Faith Audio Labs」も、国内展開を見据えて製品を披露していた。
+
+すでにアメリカやシンガポールなどで製品を展開しており、現在は日本国内の代理店を探している段階。イヤホン／ヘッドホンへの関心が高く、多数の国内外ブランドが競う日本を、重要な市場のひとつと位置付けているという。
+
+ブランドとして重視するのは、デザインとクオリティ。自社工場を持ち、製造工程を自ら管理しながら品質を確保できることも強みとして説明していた。
+
+展示されたイヤホンでも、外観の仕上げから音響面まで含めた品質をアピール。フラグシップクラスを含むラインナップを揃えており、シングル・ダイナミックドライバー構成のモデルも、ブランドを象徴する製品のひとつとして紹介されていた。
+
+初代フラッグシップに位置付ける「E1000」は、10.2mm径のフルレンジ・ダイナミックドライバーを搭載。80層以上の両面チタン複合振動板と、特許取得のパッシブラジエーターを採用する。磁気回路にはネオジム磁石を2基使用し、磁束密度は約9,000ガウスとしている。
+
+ハウジングはCNC精密加工によるチタン製。長さ1.5mの4芯高純度無酸素銅ケーブルを採用する。インピーダンスは45Ω、感度は115dB／1kHz、周波数特性は20Hz～20kHz（±1dB）と案内されていた。
+
+もうひとつの展示モデル「E800」は、3チャンバー構造とパッシブラジエーターを備える9.2mm径ダイナミックドライバーを搭載。同ブランド独自のパッシブラジエーター技術と、デュアルマグネットによるテスラ級磁気回路を特徴とする。
+
+ハウジングにはチタン合金を採用し、ケーブルには高純度無酸素銅導体と銀メッキ編組シールドを使用。感度は114dB、インピーダンスは45Ω、周波数特性は20Hz～30kHzとなる。展示パネルでは「その場にいるような臨場感」「鮮やかな音」を訴求していた。33:["$","section",null,{"className":"article-actions","children":[["$","$L38",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/9d07d06d9d07d06d01dd9f21","title":"＜ヘッドフォン祭＞MADOO、IEM「Typ435」と初のヘッドホン「Typ5000」世界初展示／Brise Audioは400万円の「FUGAKU」10周年記念版(PHILE WEB)","locale":"ja","take":null}],["$","$L39",null,{"title":"＜ヘッドフォン祭＞MADOO、IEM「Typ435」と初のヘッドホン「Typ5000」世界初展示／Brise Audioは400万円の「FUGAKU」10周年記念版(PHILE WEB)","excerpt":"$3a","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/9d07d06d9d07d06d01dd9f21","locale":"ja"}],"$L3b"]}]
+34:["$","$L3c",null,{"placement":"article","className":"mt-8"}]
+35:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L11",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+36:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","yahoo-domestic:https://news.yahoo.co.jp/articles/cded0a44b41166345d7da861010d88d08d1dcd6b?source=rss",{"children":["$","$L11",null,{"href":"/ja/n/64393dd564393dd55ebd857d","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"「宇都宮餃子祭り」8日まで開催(ABEMA TIMES)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/901eb592e8e6586c11708c364e87ed983c2b87f2?source=rss",{"children":["$","$L11",null,{"href":"/ja/n/0d2aecae0d2aecae77647af4","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"【選手権予選】昨年度全国準Vの鹿島学園、東山、大津など新たに10校が全国切符を獲得(高校サッカードットコム)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/df932d89dba86d61be4f1bcc89b6b4a0ad961760?source=rss",{"children":["$","$L11",null,{"href":"/ja/n/7cecc7a27cecc7a291989574","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"【競輪】庄子琢心がライバルの特昇阻止に気合「決勝までピン、ピンで行きたい」／奈良ミッド(日刊スポーツ)"}]]}]}]]}]]}]
+3b:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%EF%BC%9C%E3%83%98%E3%83%83%E3%83%89%E3%83%95%E3%82%A9%E3%83%B3%E7%A5%AD%EF%BC%9EMADOO%E3%80%81IEM10%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E7%89%88&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]

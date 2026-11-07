@@ -1,0 +1,103 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2478/live/e8f58d90-d94a-11f1-a701-fddedf244c16.jpg","image"]
+12:X
+17:X
+17:C
+0:{"buildId":"v4pnrtun7pn_skbrgOFJo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-06","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"英人気コメディアン、レイプと性的暴行で有罪評決"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2478/live/e8f58d90-d94a-11f1-a701-fddedf244c16.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"5日にロンドンの裁判所に出廷したラッセル・ブランド被告"}],["$","p","1",{"children":"肩までの巻き毛を真ん中でわけ、ひげをたくわえた男性が、サングラスをかけて前を見ている"}],["$","p","2",{"children":"ロンドンの裁判所で5日、イギリスの人気コメディアンだったラッセル・ブランド被告（51）に対し、レイプと性的暴行の罪で陪審団が有罪評決を下した。9日に量刑言い渡しが予定されている。"}],["$","p","3",{"children":"ロンドン南東部にあるサザーク刑事法院で行われた4週間にわたる裁判の結果、陪審は8時間半の評議の末、レイプ1件と性的暴行3件について有罪と評決した。このほかのレイプ2件とわいせつ暴行未遂1件については、無罪とした。"}],["$","p","4",{"children":"ブランド被告は保釈を認められず、拘束された。9日に同じ裁判所で量刑を告げられる予定。"}],["$","p","5",{"children":"被告は、1999年から2009年にかけてイギリスの人気芸能人として名声を獲得した時期に、6人の女性を暴行したとして、起訴された。女性たちは、被告が絶大な名声を利用して自分たちに性的行為を強要したと主張し、法廷で証言した。"}],["$","p","6",{"children":"5日の評決言い渡しのため妻ローラさんと共に裁判所に入った被告は、妻に「愛しているよ」と伝えて被告人席に座った。陪審員が評決を言い渡す間、何の感情も示さなかった。"}],["$","p","7",{"children":"被告人席を離れる際には、弁護人に向かって「大丈夫、大丈夫」と口パクで伝えた。落ち着いた足取りで、この際もほとんど感情を表に出さなかった。"}],["$","p","8",{"children":"ベナサン判事は評決の言い渡し後、ブランド被告に対し「相当な期間の実刑判決」を覚悟するよう告げた。"}],["$","p","9",{"children":"ブランド被告は、今回の刑事裁判で起訴された事件とは別に、さらに2人の女性からレイプの疑いで告訴され、すでに警察の取り調べを受けている。ロンドン警視庁は、捜査は「継続中」だとしている。"}],["$","p","10",{"children":"ブランド被告は有罪評決後、保釈請求を却下され拘束された"}],["$","p","11",{"children":"黒い上着と白いシャツ姿の被告と、赤い法服に白いかつらをつけた裁判官を描いた法廷画家スケッチ。傍聴席に大勢が座っている様子も描かれている。"}],["$","p","12",{"children":"陪審は、ブランド被告が2009年にロンドンの劇場で行ったコメディーショーの後に出会ったファンを、レイプしたと認定し、有罪とした。"}],["$","p","13",{"children":"被告はさらに、2004年にロンドンの繁華街ソーホーのバーで開かれたパーティーで、エンターテインメントチャンネル「MTV」の従業員の体を性的に触った罪でも、有罪となった。この女性をその後トイレでレイプしたとされる罪については、無罪となった。"}],["$","p","14",{"children":"さらに被告は、2004年か2005年にラジオ局「キャピタル・ラジオ」のビル内の廊下で出会ったFMラジオ局の従業員にキスをして体を触った罪と、2009年にイギリス公共放送チャンネル4の従業員にマッサージを強要した際に性的暴行を加えた罪でも、有罪となった。"}],["$","p","15",{"children":"ブランド被告は裁判で、自分のことを性犯罪の常習者として仕立てたマスコミの陰謀によって、自分は被害者となったのだと主張。「同意は性行為そのものよりも重要だ」と力説していた。"}],["$","p","16",{"children":"被告は審理中、自分の名声を利用して「性的な関係が簡単に得られるようにした」ことや、過去に性行為に「執着」し「極めて乱れた性生活を送っていた」ことは認めたが、性行為は常に合意に基づくものだったと主張し、すべての罪状を否認した。"}],["$","p","17",{"children":"ブランド被告の弁護士は陪審員に対し、ブランド被告は大勢と性的関係をもったが、「そのどれも違法ではなかった」と主張していた。"}],["$","p","18",{"children":"これに対して6人の女性が、10年以上の期間におよぶ被告の複数の罪状について、説得力のある証言を重ねた。"}],["$","p","19",{"children":"加えて審理では検察が、被告自身が2007年の自著でセックスは「生まれながらの権利」だと主張していたと陳述。さらに複数の友人が、被告は女性5000人とセックスをすることを目指していたと証言した。"}],["$","p","20",{"children":"有罪評決を受けて、捜査を指揮したアンディ・ファーフィー警視は、「名乗り出て自分たちの身に起きたことを報告した女性たちの並外れた勇気、回復力、そして決意」を称賛した。"}],["$","p","21",{"children":"「メディアや世間の厳しい目にさらされながらも、女性たちは非常にプライベートでつらい経験を再び語り、私たちを信頼してくれた。この人たちの勇気がなければ、このような結果は得られなかった」と、警視は述べた。"}],["$","p","22",{"children":"「ブランドは自分の影響力、地位、名声を利用して女性を搾取し、性的虐待を行った。知名度が上がるにつれ、特権意識も肥大していった」とも警視は言い、「どれほど有名だろうと権力があろうと、誰も法の上に立つことはできないという明確なメッセージを、今回の評決が伝えることを願っている」と述べた。"}],["$","p","23",{"children":"英南東部エセックス生まれのブランド被告は、2000年にエディンバラ・フリンジ・フェスティバルなどに出演し、スタンダップ・コメディアンとして有名になった。"}],["$","p","24",{"children":"その後は放送の世界に進出し、テレビやラジオ番組の司会を務めた。 2000年代半ばに大人気リアリティ番組「ビッグ・ブラザー」の関連番組「ビッグ・ブラザーズ・ビッグマウス」の司会を務め、一気に知名度を獲得。イギリスで最も人気のある司会者の一人となった。"}],"$L3","$L4","$L5","$L6","$L7","$L8"],"$L9"]}],"$La","$Lb","$Lc",null,"$Ld","$Le"]}],["$Lf"],"$L10"]}],"isPartial":"$@11","staleTime":"$12","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$12","varyParams":null},{"rsc":"$L15","isPartial":"$@16","staleTime":"$12","varyParams":"$17"},{"rsc":"$L18","isPartial":"$@19","staleTime":"$12","varyParams":"$17"}],"isUpgradeableISRFallback":false,"a":"$@1a","rootVaryParams":null,"needsRuntimeRequest":"$@1b"}
+1c:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+1d:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+1f:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+20:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+21:"$Sreact.suspense"
+23:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+24:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+25:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+26:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+27:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","25",{"children":"その一方で、常に物議を醸す存在で、特に授賞式の生中継では、何が起きてもおかしくないような混乱がつきものだった。"}]
+4:["$","p","26",{"children":"BBCでもさまざまな番組の司会を務め、特に2006年から2008年にかけては「6 Music」とラジオ2で番組を持っていた。"}]
+5:["$","p","27",{"children":"しかし、2008年にはBBCラジオ2の番組で、出演予定だった俳優が欠席したことを理由に、その俳優の孫娘と性的関係にあったなどの性的な内容を、その俳優の留守番電話に、別の共演者と一緒に番組中に録音。この放送に4万人以上が抗議し、BBCは放送通信庁（Ofcom）に罰金を科せられ、ラジオ2の編成責任者は辞任。ブランド被告はBBC番組から降板した。"}]
+6:["$","p","28",{"children":"その後、 米ハリウッドに移ると、映画「寝取られ男のラブバカンス」などに出演した。"}]
+7:["$","p","29",{"children":"近年では、ユーチューブで新型コロナウイルスのパンデミックについて懐疑的な主張を展開するなどして、フォロワーを増やした。さまざまなテーマについて主要メディアの報道に異議を唱え、政治や社会に関する自身の見解を展開し、しばしば陰謀論を広めることで、熱狂的な支持者を獲得してきた。また、健康アドバイスも熱心に発信していた。"}]
+8:["$","p","30",{"children":"（英語記事 Russell Brand found guilty of rape and sexual assault）"}]
+9:["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]
+a:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/crgqww9zkn4lo","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}]
+1e:T1d30,5日にロンドンの裁判所に出廷したラッセル・ブランド被告
+
+肩までの巻き毛を真ん中でわけ、ひげをたくわえた男性が、サングラスをかけて前を見ている
+
+ロンドンの裁判所で5日、イギリスの人気コメディアンだったラッセル・ブランド被告（51）に対し、レイプと性的暴行の罪で陪審団が有罪評決を下した。9日に量刑言い渡しが予定されている。
+
+ロンドン南東部にあるサザーク刑事法院で行われた4週間にわたる裁判の結果、陪審は8時間半の評議の末、レイプ1件と性的暴行3件について有罪と評決した。このほかのレイプ2件とわいせつ暴行未遂1件については、無罪とした。
+
+ブランド被告は保釈を認められず、拘束された。9日に同じ裁判所で量刑を告げられる予定。
+
+被告は、1999年から2009年にかけてイギリスの人気芸能人として名声を獲得した時期に、6人の女性を暴行したとして、起訴された。女性たちは、被告が絶大な名声を利用して自分たちに性的行為を強要したと主張し、法廷で証言した。
+
+5日の評決言い渡しのため妻ローラさんと共に裁判所に入った被告は、妻に「愛しているよ」と伝えて被告人席に座った。陪審員が評決を言い渡す間、何の感情も示さなかった。
+
+被告人席を離れる際には、弁護人に向かって「大丈夫、大丈夫」と口パクで伝えた。落ち着いた足取りで、この際もほとんど感情を表に出さなかった。
+
+ベナサン判事は評決の言い渡し後、ブランド被告に対し「相当な期間の実刑判決」を覚悟するよう告げた。
+
+ブランド被告は、今回の刑事裁判で起訴された事件とは別に、さらに2人の女性からレイプの疑いで告訴され、すでに警察の取り調べを受けている。ロンドン警視庁は、捜査は「継続中」だとしている。
+
+ブランド被告は有罪評決後、保釈請求を却下され拘束された
+
+黒い上着と白いシャツ姿の被告と、赤い法服に白いかつらをつけた裁判官を描いた法廷画家スケッチ。傍聴席に大勢が座っている様子も描かれている。
+
+陪審は、ブランド被告が2009年にロンドンの劇場で行ったコメディーショーの後に出会ったファンを、レイプしたと認定し、有罪とした。
+
+被告はさらに、2004年にロンドンの繁華街ソーホーのバーで開かれたパーティーで、エンターテインメントチャンネル「MTV」の従業員の体を性的に触った罪でも、有罪となった。この女性をその後トイレでレイプしたとされる罪については、無罪となった。
+
+さらに被告は、2004年か2005年にラジオ局「キャピタル・ラジオ」のビル内の廊下で出会ったFMラジオ局の従業員にキスをして体を触った罪と、2009年にイギリス公共放送チャンネル4の従業員にマッサージを強要した際に性的暴行を加えた罪でも、有罪となった。
+
+ブランド被告は裁判で、自分のことを性犯罪の常習者として仕立てたマスコミの陰謀によって、自分は被害者となったのだと主張。「同意は性行為そのものよりも重要だ」と力説していた。
+
+被告は審理中、自分の名声を利用して「性的な関係が簡単に得られるようにした」ことや、過去に性行為に「執着」し「極めて乱れた性生活を送っていた」ことは認めたが、性行為は常に合意に基づくものだったと主張し、すべての罪状を否認した。
+
+ブランド被告の弁護士は陪審員に対し、ブランド被告は大勢と性的関係をもったが、「そのどれも違法ではなかった」と主張していた。
+
+これに対して6人の女性が、10年以上の期間におよぶ被告の複数の罪状について、説得力のある証言を重ねた。
+
+加えて審理では検察が、被告自身が2007年の自著でセックスは「生まれながらの権利」だと主張していたと陳述。さらに複数の友人が、被告は女性5000人とセックスをすることを目指していたと証言した。
+
+有罪評決を受けて、捜査を指揮したアンディ・ファーフィー警視は、「名乗り出て自分たちの身に起きたことを報告した女性たちの並外れた勇気、回復力、そして決意」を称賛した。
+
+「メディアや世間の厳しい目にさらされながらも、女性たちは非常にプライベートでつらい経験を再び語り、私たちを信頼してくれた。この人たちの勇気がなければ、このような結果は得られなかった」と、警視は述べた。
+
+「ブランドは自分の影響力、地位、名声を利用して女性を搾取し、性的虐待を行った。知名度が上がるにつれ、特権意識も肥大していった」とも警視は言い、「どれほど有名だろうと権力があろうと、誰も法の上に立つことはできないという明確なメッセージを、今回の評決が伝えることを願っている」と述べた。
+
+英南東部エセックス生まれのブランド被告は、2000年にエディンバラ・フリンジ・フェスティバルなどに出演し、スタンダップ・コメディアンとして有名になった。
+
+その後は放送の世界に進出し、テレビやラジオ番組の司会を務めた。 2000年代半ばに大人気リアリティ番組「ビッグ・ブラザー」の関連番組「ビッグ・ブラザーズ・ビッグマウス」の司会を務め、一気に知名度を獲得。イギリスで最も人気のある司会者の一人となった。
+
+その一方で、常に物議を醸す存在で、特に授賞式の生中継では、何が起きてもおかしくないような混乱がつきものだった。
+
+BBCでもさまざまな番組の司会を務め、特に2006年から2008年にかけては「6 Music」とラジオ2で番組を持っていた。
+
+しかし、2008年にはBBCラジオ2の番組で、出演予定だった俳優が欠席したことを理由に、その俳優の孫娘と性的関係にあったなどの性的な内容を、その俳優の留守番電話に、別の共演者と一緒に番組中に録音。この放送に4万人以上が抗議し、BBCは放送通信庁（Ofcom）に罰金を科せられ、ラジオ2の編成責任者は辞任。ブランド被告はBBC番組から降板した。
+
+その後、 米ハリウッドに移ると、映画「寝取られ男のラブバカンス」などに出演した。
+
+近年では、ユーチューブで新型コロナウイルスのパンデミックについて懐疑的な主張を展開するなどして、フォロワーを増やした。さまざまなテーマについて主要メディアの報道に異議を唱え、政治や社会に関する自身の見解を展開し、しばしば陰謀論を広めることで、熱狂的な支持者を獲得してきた。また、健康アドバイスも熱心に発信していた。
+
+（英語記事 Russell Brand found guilty of rape and sexual assault）b:["$","section",null,{"className":"article-actions","children":[["$","$L1c",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/e7ef01f0e7ef01f0a49fc192","title":"英人気コメディアン、レイプと性的暴行で有罪評決","locale":"ja","take":null}],["$","$L1d",null,{"title":"英人気コメディアン、レイプと性的暴行で有罪評決","excerpt":"$1e","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/e7ef01f0e7ef01f0a49fc192","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E8%8B%B1%E4%BA%BA%E6%B0%97%E3%82%B3%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%80%81%E3%83%AC%E3%82%A4%E3%83%97%E3%81%A8%E6%80%A7%E7%9A%84%E6%9A%B4%E8%A1%8C%E3%81%A7%E6%9C%89%E7%BD%AA%E8%A9%95%E6%B1%BA&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+c:["$","$L1f",null,{"placement":"article","className":"mt-8"}]
+d:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+e:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-world:https://bbc.co.uk/news/articles/ckp8g4pm0y4lo",{"children":["$","$L2",null,{"href":"/ja/n/a0f395c2a0f395c23325ccbe","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason"}]]}]}],["$","li","euronews:https://euronews.com/2026/11/06/group-of-lawyers-suing-french-interior-minister-over-protesters-life-changing-injuries",{"children":["$","$L2",null,{"href":"/ja/n/03dc28e903dc28e9f1c4ffcd","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Euronews"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Group of lawyers suing French interior minister over protesters' life-changing injuries"}]]}]}],["$","li","npr-world:https://npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",{"children":["$","$L2",null,{"href":"/ja/n/28f6510e28f6510e5b0d2254","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NPR"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"The leader of a Kenyan doomsday cult is sentenced to 200 years in prison"}]]}]}]]}]]}]
+f:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+10:["$","$L20",null,{"children":["$","$21",null,{"name":"Next.MetadataOutlet","children":"$@22"}]}]
+13:["$","$1","h",{"children":[null,["$","$L23",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L24",null,{"children":["$","$21",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"英人気コメディアン、レイプと性的暴行で有罪評決"}],["$","meta","1",{"name":"description","content":"5日にロンドンの裁判所に出廷したラッセル・ブランド被告"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"英人気コメディアン、レイプと性的暴行で有罪評決"}],["$","meta","4",{"property":"og:description","content":"5日にロンドンの裁判所に出廷したラッセル・ブランド被告"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/e7ef01f0e7ef01f0a49fc192/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F2478%2Flive%2Fe8f58d90-d94a-11f1-a701-fddedf244c16.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"英人気コメディアン、レイプと性的暴行で有罪評決"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"英人気コメディアン、レイプと性的暴行で有罪評決"}],["$","meta","14",{"name":"twitter:description","content":"5日にロンドンの裁判所に出廷したラッセル・ブランド被告"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F2478%2Flive%2Fe8f58d90-d94a-11f1-a701-fddedf244c16.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L25","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:["$","$1","c",{"children":[null,["$","$L26",null,{"parallelRouterKey":"children","template":["$","$L27",null,{}]}]]}]
+18:["$","$1","c",{"children":[null,["$","$L26",null,{"parallelRouterKey":"children","template":["$","$L27",null,{}]}]]}]
+1b:true
+22:null
+12:300
+12:C
+1a:0
+14:"$undefined"
+16:"$undefined"
+19:"$undefined"
+11:"$undefined"

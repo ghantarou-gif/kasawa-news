@@ -1,0 +1,224 @@
+1:"$Sreact.fragment"
+2:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+4:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"LoadingBoundaryProvider"]
+7:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+f:I[68027,[],"default",1]
+:HL["/kasawa-news/_next/static/chunks/05wjkgi4s2ouj.css","style"]
+:HL["/kasawa-news/_next/static/chunks/13j-0ia4l16p6.css","style"]
+:HL["/kasawa-news/_next/static/media/ad9c66e761fed85a-s.p.0fhiaplbf_4wa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+a:X
+0:{"P":null,"c":["","ja","n","bef69993bef699938108a2f3",""],"q":"","i":false,"f":[[["",{"children":[["locale","ja","d",["go"]],{"children":["n",{"children":[["id","bef69993bef699938108a2f3","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4612]},"$undefined","$undefined",4632],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/05wjkgi4s2ouj.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/13j-0ia4l16p6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ja","suppressHydrationWarning":true,"className":"noto_sans_jp_ce83c864-module__rNYPaW__variable h-full antialiased","children":[["$","head",null,{"children":["$","script",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9222859203841922","crossOrigin":"anonymous"}]}],["$","body",null,{"className":"site-body min-h-full bg-paper text-ink","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":[["$","$L4",null,{"loading":[["$","div","l",{"className":"py-16","children":[["$","div",null,{"className":"h-3 w-24 bg-ink/10"}],["$","div",null,{"className":"mt-4 h-16 w-4/5 bg-ink/10"}],["$","div",null,{"className":"mt-6 h-4 w-full bg-ink/10"}],["$","div",null,{"className":"mt-2 h-4 w-2/3 bg-ink/10"}],["$","div",null,{"className":"mt-12 space-y-6","children":[["$","div",null,{"className":"h-10 bg-ink/10"}],["$","div",null,{"className":"h-10 bg-ink/10"}],["$","div",null,{"className":"h-10 w-5/6 bg-ink/10"}]]}]]}],[],null],"children":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","async":true,"nonce":"$undefined"}]],"$L5"]}]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$a"]},null,false,"$a"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/05wjkgi4s2ouj.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/13j-0ia4l16p6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"v4pnrtun7pn_skbrgOFJo"}
+10:I[50155,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js"],"HtmlLang"]
+11:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+12:I[86168,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js"],"LanguageSwitch"]
+a:C
+5:["$","div",null,{"className":"flex min-h-full flex-col","children":[["$","$L10",null,{"locale":"ja"}],["$","header",null,{"className":"desk-hero","children":["$","div",null,{"className":"site-shell mx-auto flex w-full max-w-6xl flex-col gap-4 px-4 py-6 sm:px-6 sm:py-7","children":[["$","div",null,{"className":"flex min-w-0 items-start gap-3","children":[["$","span",null,{"className":"brand-mark mt-1 shrink-0","aria-hidden":true,"children":"NC"}],["$","div",null,{"className":"min-w-0","children":[["$","p",null,{"className":"text-[10px] font-bold tracking-[0.2em] text-muted uppercase sm:text-[11px] sm:tracking-[0.24em]","children":"NYANCHU NEWS"}],["$","$L11",null,{"href":"/ja","className":"font-display mt-1 block text-[clamp(1.65rem,8vw,3.2rem)] leading-[1.05] tracking-[-0.03em] hover:opacity-90","children":[["$","span",null,{"className":"text-accent","children":"BREAKING"}]," ",["$","span",null,{"className":"text-ink","children":"NyanChu"}]]}],["$","p",null,{"className":"mt-1 font-sans text-[11px] tracking-[0.14em] text-muted sm:text-[12px] sm:tracking-[0.16em]","children":"ニャンチュ"}]]}]]}],["$","nav",null,{"className":"header-nav","aria-label":"サイト","children":[["$","$L12",null,{"locale":"ja"}],["$","a",null,{"href":"/kasawa-news/search.html","className":"header-nav-link","children":"NyanChu検索する"}],["$","$L11",null,{"href":"/ja/election","className":"header-nav-link","children":"選挙"}],["$","$L11",null,{"href":"/ja/travel","className":"header-nav-link","children":"旅ガイド"}],["$","a",null,{"href":"/kasawa-news/phrasebook.html","className":"header-nav-link","children":"旅の日本語"}],["$","$L11",null,{"href":"/ja/book","className":"header-nav-link","children":"本"}],["$","$L11",null,{"href":"/ja/members/x","className":"header-nav-link","children":"会員"}]]}],["$","p",null,{"className":"max-w-2xl text-[13px] leading-6 text-muted sm:text-[14px]","children":["日付ごとに保存。最新は先頭。ジャンルチップから各日のフィードへ。"," ","2026-11-07 19:34"," ","更新"]}]]}]}],["$","div",null,{"className":"site-shell mx-auto w-full max-w-6xl flex-1 px-4 sm:px-6","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"py-24 text-center","children":[["$","p",null,{"className":"font-display text-5xl tracking-[-0.04em]","children":"404"}],["$","p",null,{"className":"mt-4 text-muted","children":"Page not found. / ページが見つかりません。"}],["$","$L11",null,{"href":"/ja","className":"mt-8 inline-block font-sans text-[12px] tracking-[0.18em] uppercase text-accent","children":"NyanChu"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","div",null,{"className":"site-shell mx-auto w-full max-w-6xl px-4 sm:px-6","children":["$","footer",null,{"className":"mt-16 border-t border-line pt-8 pb-12 text-[13px] leading-6 text-muted","children":[["$","div",null,{"className":"flex flex-wrap items-start justify-between gap-6","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-lg tracking-wide text-ink","children":"NyanChu"}],["$","p",null,{"className":"mt-2 max-w-xl","children":"見出しから、記事の本文へ。"}]]}],["$","nav",null,{"className":"flex flex-wrap gap-x-5 gap-y-2 font-sans text-[12px] tracking-[0.14em] uppercase","children":[["$","$L11",null,{"href":"/ja","className":"hover:text-accent","children":"トップ"}],["$","$L11",null,{"href":"/ja/travel","className":"hover:text-accent","children":"旅ガイド"}],["$","a",null,{"href":"/kasawa-news/phrasebook.html","className":"hover:text-accent","children":"旅の日本語"}],["$","$L11",null,{"href":"/ja/book","className":"hover:text-accent","children":"本"}],["$","$L11",null,{"href":"/ja/members/x","className":"hover:text-accent","children":"会員"}],["$","a",null,{"href":"/kasawa-news/search.html","className":"hover:text-accent","children":"NyanChu検索する"}]]}]]}],["$","p",null,{"className":"mt-6 max-w-3xl","children":"配信に含まれる本文を記事ページに出しています。見出しだけの配信は、発行元ページの要点を表示します。有料記事は入れていません。著作権は各社にあります。"}],["$","p",null,{"className":"mt-4","children":["配信元",": ","BBC日本語 · BBC · NPR · The Guardian · Al Jazeera · Deutsche Welle · France 24 · ABC Australia · CBC · CNA · Euronews · UN News · ITmedia · Gigazine · CNET Japan · マイナビニュース · Yahoo!ニュース · ライブドアニュース · NHKニュース"]}],["$","p",null,{"className":"mt-1","children":["30分ごとに取り込み",["$","span",null,{"className":"mx-2 text-ink/30","children":"/"}],"表は24時間以内"]}]]}]}]]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]
+48:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261106-00010000-medicald-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","image"]
+6:["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L11",null,{"href":"/ja/d/2026-11-06","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"「大人と子どもで違う？」「手術にもAI？」外科医2人が本音で語る、外科手術の今と未来【後編】(メディカルドック)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261106-00010000-medicald-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"日本外科学会は2026年10月12日、小学生から医学部生、大人までを対象に、外科医の仕事を見て、聞いて、体験できる外科医療の総合体験型イベント「オペスル2026」を京都市のみやこめっせで開催しました。"}],["$","p","1",{"children":"多様なプログラムが用意されるなか、特別講義「オペトーク！！」では、現役の外科医2人が自身の仕事について子どもたちにやさしく解説しました。"}],["$","p","2",{"children":"講演後は、「手術で一番難しいのは？」「ロボットが壊れたら？」など、まっすぐな質問が次々と寄せられました。"}],["$","p","3",{"children":"本稿では、講師を務めた神戸大学 小児外科 診療科長・教授の尾藤祐子先生と、大分大学医学部 消化器・小児外科学講座 教授の猪股雅史先生の講演ダイジェストを、会場参加者とのやり取りとあわせてお伝えします。"}],["$","p","4",{"children":"日本外科学会は2026年10月12日、小学生から医学部生、大人までを対象に、外科医の仕事を見て、聞いて、体験できる外科医療の総合体験型イベント「オペスル2026」を京都市のみやこめっせで開催しました。"}],["$","p","5",{"children":"多様なプログラムが用意されるなか、特別講義「オペトーク！！」では、現役の外科医2人が自身の仕事について子どもたちにやさしく解説しました。"}],["$","p","6",{"children":"講演後は、「手術で一番難しいのは？」「ロボットが壊れたら？」など、まっすぐな質問が次々と寄せられました。"}],["$","p","7",{"children":"本稿では、講師を務めた神戸大学 小児外科 診療科長・教授の尾藤祐子先生と、大分大学医学部 消化器・小児外科学講座 教授の猪股雅史先生の講演ダイジェストを、会場参加者とのやり取りとあわせてお伝えします。"}],["$","p","8",{"children":"尾藤 祐子（神戸大学 小児外科 診療科長・教授）"}],["$","p","9",{"children":"主な専門分野は小児呼吸器外科（喉頭・気管・肺）、新生児外科・直腸肛門奇形、在宅医療・排便管理（便秘）、長期フォローアップ。日本外科学会指導医・専門医、日本小児外科学会指導医・専門医、日本周産期新生児医学会認定外科医、TNT (Total nutritional therapy) Certificate。患者さんの健やかな成長とご家族の幸せのために、また貢献できる力のある小児外科医の育成のために、日々力を尽くしている。"}],["$","p","10",{"children":"猪股 雅史（大分大学医学部 消化器・小児外科学講座 教授）"}],["$","p","11",{"children":"大分大学医学部 消化器・小児外科学講座 教授、診療科長、医学部長、地域医療学センター長、臨床医工学センター長、低侵襲手術センター長、大学医学部医師会長。専門領域は外科全般、内視鏡外科、ロボット支援手術。「すべては目の前の患者と未来の医療のために」を信念として消化管外科・肝胆膵外科・肥満外科・小児外科を中心に診療・研究・後進の育成を務めている。"}],["$","p","12",{"children":"大人と何が違う？ 「80年先」を見据える小児外科医が重視すること"}],["$","p","13",{"children":"1本目は「小児外科医の優しさ ～こどもに手術をするということ～」と題して、尾藤先生が登壇しました。小児外科は、子どものあらゆる病気を手術で治す診療科です。"}],["$","p","14",{"children":"尾藤先生はまず、手術を受ける子どもの立場から説明しました。"}],["$","p","15",{"children":"「手術は痛くて怖いもの、とイメージする人は多いと思います。それは大人も同じですが、子どもは成長途中で体も未熟、保護者の方々に頼りながら生きているので、大人に比べ、手術は心身の負担がより大きい出来事なのです」"}],["$","p","16",{"children":"小児外科が担当するのは、新生児から中学生までの子ども、そして重症心身障がい児と幅広く、患者さんの年齢も体格も個人差があります。"}],["$","p","17",{"children":"また、上の食道と下の食道がつながっていない先天性食道閉鎖症や、生まれつき肛門が正常につくられない鎖肛（さこう）など、小児外科が扱う病気は成人外科とは異なります。"}],["$","p","18",{"children":"尾藤先生は、そうした特殊性から、神戸大学小児外科では脳と心臓を除くすべての臓器の手術を担当していると説明しました。"}],["$","p","19",{"children":"講演では、成人外科手術と小児外科手術の違いについても触れられました。最大の違いは、子どもの場合「術後の人生が長いこと」だといいます。"}],["$","p","20",{"children":"「たとえば新生児のうちに手術を受けた子は、その後80年以上生きられるかもしれません。治療した臓器は何十年も働き続ける必要があります。だからこそ私たちは、臓器の働きや成長発達などを妨げないよう、手術の影響をできる限り少なくして、元気に長生きしてもらうことを大事にしています」と、尾藤先生は説明しました。"}],["$","p","21",{"children":"小児外科医のやりがいは？ 「つくった肛門を毎日一生使ってくれる」"}],["$","p","22",{"children":"続いて尾藤先生は、自身の歩みを語りました。小児外科医を志したのは、大学の病院実習がきっかけだったそうです。"}],["$","p","23",{"children":"「病気の部分を『直接』見て治せること、チームで治療に臨む雰囲気に惹かれた」と振り返ります。そんな尾藤先生の背中を最後に一押ししたのは、先輩の一言でした。"}],["$","p","24",{"children":"「『僕たちがつくった肛門を毎日一生使ってくれるんだよ』という先輩の言葉を聞いて、子どもの未来に関わることができる仕事なのだと感じ、小児外科医になることを決めました。さらに、子どもを相手にするため、小児外科の仕事場には常に笑顔があります。子どもたちの笑顔は、日々のやりがいにもつながっています」"}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f","$L40","$L41"],"$L42"]}],"$L43","$L44","$L45",null,"$L46","$L47"]}]
+9:null
+e:[["$","title","0",{"children":"「大人と子どもで違う？」「手術にもAI？」外科医2人が本音で語る、外科手術の今と未来【後編】(メディカルドック)"}],["$","meta","1",{"name":"description","content":"日本外科学会は2026年10月12日、小学生から医学部生、大人までを対象に、外科医の仕事を見て、聞いて、体験できる外科医療の総合体験型イベント「オペスル2026」を京都市のみやこめっせで開催しました。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"「大人と子どもで違う？」「手術にもAI？」外科医2人が本音で語る、外科手術の今と未来【後編】(メディカルドック)"}],["$","meta","4",{"property":"og:description","content":"日本外科学会は2026年10月12日、小学生から医学部生、大人までを対象に、外科医の仕事を見て、聞いて、体験できる外科医療の総合体験型イベント「オペスル2026」を京都市のみやこめっせで開催しました。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/bef69993bef699938108a2f3/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261106-00010000-medicald-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"「大人と子どもで違う？」「手術にもAI？」外科医2人が本音で語る、外科手術の今と未来【後編】(メディカルドック)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"「大人と子どもで違う？」「手術にもAI？」外科医2人が本音で語る、外科手術の今と未来【後編】(メディカルドック)"}],["$","meta","14",{"name":"twitter:description","content":"日本外科学会は2026年10月12日、小学生から医学部生、大人までを対象に、外科医の仕事を見て、聞いて、体験できる外科医療の総合体験型イベント「オペスル2026」を京都市のみやこめっせで開催しました。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261106-00010000-medicald-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L48","18",{}]]
+49:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4a:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+4d:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+13:["$","p","25",{"children":"患者さんは、退院後も定期的に小児外科外来へ通います。その際、かけっこで1番になった、スイミングで優勝したといった報告を受けると、保護者のような気持ちになるそうです。"}]
+14:["$","p","26",{"children":"「私たちが治療した子どもが元気に成長していく。その姿を見るだけで心からうれしい気持ちになります」と尾藤先生は穏やかに述べました。"}]
+15:["$","p","27",{"children":"厚生労働省「令和6年 医師・歯科医師・薬剤師統計の概況」によると、外科医の数は減少傾向にある一方、小児外科医は、849人（2022年）から923人（2024年）へと増加しています。"}]
+16:["$","p","28",{"children":"この傾向を踏まえて尾藤先生は「少子化のなかでも子どもは生まれてきます。そして、小児外科医の手術でしか治せない病気も存在します。小児外科の世界に興味を持ってくれる人がさらに増えていけばうれしく思います」と、小児外科医療の発展に期待を寄せました。"}]
+17:["$","p","29",{"children":"【質疑応答】子どもの手術で一番難しいのは？ 特定の臓器ではなく…"}]
+18:["$","p","30",{"children":"講演後の質疑応答では、会場の参加者からさまざまな質問が寄せられました。"}]
+19:["$","p","31",{"children":"「子どもの手術で一番難しいところはどこですか？」という質問に対して、尾藤先生は「子どもの気持ち」と答えました。"}]
+1a:["$","p","32",{"children":"先生によると、ある程度の年齢になれば病気のことやなぜ手術が必要なのかが分かり、頑張ろうと思えるといいます。ところが小学校低学年くらいまではまだ手術の必要性が分からず、恐怖心で頭がいっぱいになってしまうそうです。"}]
+1b:["$","p","33",{"children":"「そういう子に、前向きな気持ちを持ってもらうのは容易ではありません」と、尾藤先生は子どもを相手にすることの難しさを述べました。どうすれば手術を頑張ろうという気持ちになってもらえるか、常に試行錯誤している様子がうかがえます。"}]
+1c:["$","p","34",{"children":"「忘れられない患者さんはいますか？」という質問には、ある幼稚園児のエピソードが紹介されました。"}]
+1d:["$","p","35",{"children":"「恥ずかしさから、医師に対してなかなかお礼を言えない子は珍しくありません。その子も恥ずかしがり屋で、積極的にお礼を言うようなタイプの子ではありませんでした。そのような子が『ありがとう』と言ってくれたときは感動しましたね」"}]
+1e:["$","p","36",{"children":"さらに、「女性医師として働くなかで感じた変化は何ですか」という質問もあがりました。これに対する回答は、女性外科医の数が圧倒的に少ない頃から現場に立ち続けた尾藤先生ならではのリアルなものでした。"}]
+1f:["$","p","37",{"children":"「今は医学生も男女平等で、女性医師の割合も増えており、性別による扱いの差はありません。しかし私が若手の頃に勤めていた病院では、外科には女性用の更衣室も当直室もなく、着替えなどの際は看護師用のお風呂場を借りていました。私はそういうものだと思って気にしなかったのですが、つらいと感じていた女性医師もいたと思います」"}]
+20:["$","p","38",{"children":"「外科を選んだ理由は何ですか」という質問もありました。尾藤先生が学生だった頃は、女性が外科医を選択することはほとんどなかったそうです。"}]
+21:["$","p","39",{"children":"先生自身、他科も選択肢にあったものの、「やはり手術をする側に立ちたい。直接患者さんを治療する仕事がしたい」という思いから外科の道を選んだといいます。今の道を選んだことをまったく後悔していないと述べました。"}]
+22:["$","p","40",{"children":"体を守る「ヒーロー」として―消化器外科医の戦い"}]
+23:["$","p","41",{"children":"2本目の講演は「おなかの中の大冒険 ～外科医はからだを守るヒーローだ～」と題し、猪股先生が登壇しました。司会は京都大学医学部附属病院 消化管外科の山本健人先生です。"}]
+24:["$","p","42",{"children":"まず参加者の目を釘付けにしたのは、ゲーム画面のようなドット調の講演スライド。「多数の診療科の中から、病気と戦うヒーローを選ぶ」という演出に、会場の子どもたちは引き込まれていました。"}]
+25:["$","p","43",{"children":"「この世界では、病気と戦うヒーローが足りません。特に私たち外科医は、地方では本当に足りていない状況です。そこでみなさんにもヒーローになってほしいと思っています」――。"}]
+26:["$","p","44",{"children":"猪股先生の呼びかけに、子どもたちは緊張感を抱きつつも聞き入ります。今回は猪股先生の専門である消化器外科が選択され、消化器のしくみや注意したい病気について説明が行われました。"}]
+27:["$","p","45",{"children":"消化器外科が向き合う病気のなかで、特に増えているのががんです。"}]
+28:["$","p","46",{"children":"日本ではがん患者数が増え続けており、猪股先生は自身の見解として、将来的にはがんにかかる人の割合が3人に2人、がんで亡くなる人の割合が2人に1人となる時代が来るのではないかと述べました。"}]
+29:["$","p","47",{"children":"「だからこそ、たくさんのヒーローが力を合わせてがんとの戦いに挑まなければなりません」――猪股先生は会場全体に力強く呼びかけます。"}]
+2a:["$","p","48",{"children":"がんと戦う「武器」には薬、放射線、手術といった技術があります。そのなかでも外科が得意とするのが手術です。"}]
+2b:["$","p","49",{"children":"その技法はおなかを大きく開く「開腹手術」、小さな穴からカメラを入れる「腹腔鏡手術」、そしてロボット手術へと進化し、より精密で安全性に配慮した治療ができるようになってきました。"}]
+2c:["$","p","50",{"children":"ロボット手術では、外科医が手術台から離れた位置にある操作席（コンソール）に座り、ロボットの腕（アーム）を動かします。"}]
+2d:["$","p","51",{"children":"猪股先生は「ロボットが一人で動くのではなく、外科医がロボットを操作します。つまり、外科医はパイロットということです」と表現しました。"}]
+2e:["$","p","52",{"children":"人間の手よりも自由に曲がる関節や手ぶれを抑える機能により、腹腔鏡では難しかったブドウの薄皮をきれいに剥くこともできるといいます。"}]
+2f:["$","p","53",{"children":"なぜこれほどまでに精密性を追求するのか。この理由について「がんと戦う手術では、たった1mmのズレが結果に大きく左右します。だからこそ、1mmにこだわることが非常に重要です」と猪股先生は語りました。"}]
+30:["$","p","54",{"children":"10年後はどうなる？ 光学機器やAIが支える手術の可能性"}]
+31:["$","p","55",{"children":"続いて、10年後に予想される「未来の手術」が紹介されました。外科医の「眼」を高画質3Dが、「手」を多関節機能のロボットアームが、そして「知」を人工知能（AI）が支えるという考え方です。"}]
+32:["$","p","56",{"children":"4K・8Kレベルのカメラで術野を映せば、肉眼では見えないような細い血管まで見えてきます。ロボットアームが人の手の代わりになれば、1mmのぶれもなく精密な手術を目指すことができます。"}]
+33:["$","p","57",{"children":"そして、著しい進歩を遂げているのが「知」におけるAIの支援です。ここで猪股先生は、自身が研究開発しているAI技術を実際の映像とともに紹介しました。"}]
+34:["$","p","58",{"children":"映像では、直腸がんの手術中に、傷つけてはいけない神経が緑色で、正しい切開ラインが黄色で示されている様子が映し出されました。"}]
+35:["$","p","59",{"children":"「AIは人間の思考をサポートしてくれます。ただし、AIから受けた情報をもとに最終的に判断するのは外科医の役割です」と、あくまで決定権は人間にあることも強調されました。"}]
+36:["$","p","60",{"children":"最後に猪股先生は、「外科のヒーローの世界に興味を持ってくれましたか。夢が現実になるように、外科の未来を一緒につくっていきましょう」と会場に向かって呼びかけました。"}]
+37:["$","p","61",{"children":"【質疑応答】不器用でも外科医になれる？ 「今の器用さは関係ない」"}]
+38:["$","p","62",{"children":"講演後の質疑応答タイムには、次々と子どもたちの手が挙がりました。"}]
+39:["$","p","63",{"children":"「僕は自分のことを不器用だと思っています。器用になるためのコツはありますか」という質問に対しては、「トレーニングをしていけば、必ず上達していきます。ただし、やみくもに手を動かすのではなく、この病気を取り除くためにはどうすればいいのかをイメージしながら取り組むことが大切です。今不器用か器用かは、あまり関係ないと思います」と回答がありました。"}]
+3a:["$","p","64",{"children":"また、「ロボットが壊れたらどうするの？」という質問には、「武器として使っている機械は、壊れることがあります」と前置きしたうえで、「地震などによってロボットが停止したような場合も想定しながらトレーニングをしています」と回答がありました。"}]
+3b:["$","p","65",{"children":"そのような場合は緊急停止ボタンでロボットを止め、開腹や腹腔鏡手術に切り替える訓練をしているそうです。"}]
+3c:["$","p","66",{"children":"「外科医を志したきっかけは？」という質問には、自分の手で病気を治せることに加えて、自身の父親をがんで亡くした経験を挙げ、「いつかこういう病気を自分の手で治したいと思ったのです」と、猪股先生自身も初心を振り返りながら語りました。"}]
+3d:["$","p","67",{"children":"子どもの80年先の人生を見据えて小児外科手術に臨む尾藤先生と、さまざまな武器を駆使して精密で安全な手術を追求する猪股先生。お二人の話からは、外科医が手術そのものだけでなく、患者さんのその後の人生まで大切にしていることが伝わってきました。"}]
+3e:["$","p","68",{"children":"外科医の数が減りつつあるなかで、会場では子どもたちが臆せず手を挙げ、外科医に本音の疑問をぶつけていました。今回の参加者のなかから未来の「ヒーロー」が生まれることに期待したいと思います。"}]
+3f:["$","p","69",{"children":"【この記事の監修医師】"}]
+40:["$","p","70",{"children":"山本 健人 先生"}]
+41:["$","p","71",{"children":"日本消化器外科学会消化器外科専門医。専門は大腸がん。京都大学卒業後、市中病院勤務を経て同大学院にて博士号を取得。消化器外科医として勤務する傍ら、医療情報の発信や執筆活動を精力的におこなう。現在は京都大学医学部附属病院消化管外科に勤務。日本外科学会外科専門医、日本消化器外科学会消化器外科専門医、日本消化器病学会消化器病専門医、内視鏡外科技術認定医、ロボット支援手術認定プロクターなど。"}]
+42:["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]
+43:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/e4ba842de6ab0cd7be2bbf7ae92735eae92b6ce7?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}]
+4b:T427e,日本外科学会は2026年10月12日、小学生から医学部生、大人までを対象に、外科医の仕事を見て、聞いて、体験できる外科医療の総合体験型イベント「オペスル2026」を京都市のみやこめっせで開催しました。
+
+多様なプログラムが用意されるなか、特別講義「オペトーク！！」では、現役の外科医2人が自身の仕事について子どもたちにやさしく解説しました。
+
+講演後は、「手術で一番難しいのは？」「ロボットが壊れたら？」など、まっすぐな質問が次々と寄せられました。
+
+本稿では、講師を務めた神戸大学 小児外科 診療科長・教授の尾藤祐子先生と、大分大学医学部 消化器・小児外科学講座 教授の猪股雅史先生の講演ダイジェストを、会場参加者とのやり取りとあわせてお伝えします。
+
+日本外科学会は2026年10月12日、小学生から医学部生、大人までを対象に、外科医の仕事を見て、聞いて、体験できる外科医療の総合体験型イベント「オペスル2026」を京都市のみやこめっせで開催しました。
+
+多様なプログラムが用意されるなか、特別講義「オペトーク！！」では、現役の外科医2人が自身の仕事について子どもたちにやさしく解説しました。
+
+講演後は、「手術で一番難しいのは？」「ロボットが壊れたら？」など、まっすぐな質問が次々と寄せられました。
+
+本稿では、講師を務めた神戸大学 小児外科 診療科長・教授の尾藤祐子先生と、大分大学医学部 消化器・小児外科学講座 教授の猪股雅史先生の講演ダイジェストを、会場参加者とのやり取りとあわせてお伝えします。
+
+尾藤 祐子（神戸大学 小児外科 診療科長・教授）
+
+主な専門分野は小児呼吸器外科（喉頭・気管・肺）、新生児外科・直腸肛門奇形、在宅医療・排便管理（便秘）、長期フォローアップ。日本外科学会指導医・専門医、日本小児外科学会指導医・専門医、日本周産期新生児医学会認定外科医、TNT (Total nutritional therapy) Certificate。患者さんの健やかな成長とご家族の幸せのために、また貢献できる力のある小児外科医の育成のために、日々力を尽くしている。
+
+猪股 雅史（大分大学医学部 消化器・小児外科学講座 教授）
+
+大分大学医学部 消化器・小児外科学講座 教授、診療科長、医学部長、地域医療学センター長、臨床医工学センター長、低侵襲手術センター長、大学医学部医師会長。専門領域は外科全般、内視鏡外科、ロボット支援手術。「すべては目の前の患者と未来の医療のために」を信念として消化管外科・肝胆膵外科・肥満外科・小児外科を中心に診療・研究・後進の育成を務めている。
+
+大人と何が違う？ 「80年先」を見据える小児外科医が重視すること
+
+1本目は「小児外科医の優しさ ～こどもに手術をするということ～」と題して、尾藤先生が登壇しました。小児外科は、子どものあらゆる病気を手術で治す診療科です。
+
+尾藤先生はまず、手術を受ける子どもの立場から説明しました。
+
+「手術は痛くて怖いもの、とイメージする人は多いと思います。それは大人も同じですが、子どもは成長途中で体も未熟、保護者の方々に頼りながら生きているので、大人に比べ、手術は心身の負担がより大きい出来事なのです」
+
+小児外科が担当するのは、新生児から中学生までの子ども、そして重症心身障がい児と幅広く、患者さんの年齢も体格も個人差があります。
+
+また、上の食道と下の食道がつながっていない先天性食道閉鎖症や、生まれつき肛門が正常につくられない鎖肛（さこう）など、小児外科が扱う病気は成人外科とは異なります。
+
+尾藤先生は、そうした特殊性から、神戸大学小児外科では脳と心臓を除くすべての臓器の手術を担当していると説明しました。
+
+講演では、成人外科手術と小児外科手術の違いについても触れられました。最大の違いは、子どもの場合「術後の人生が長いこと」だといいます。
+
+「たとえば新生児のうちに手術を受けた子は、その後80年以上生きられるかもしれません。治療した臓器は何十年も働き続ける必要があります。だからこそ私たちは、臓器の働きや成長発達などを妨げないよう、手術の影響をできる限り少なくして、元気に長生きしてもらうことを大事にしています」と、尾藤先生は説明しました。
+
+小児外科医のやりがいは？ 「つくった肛門を毎日一生使ってくれる」
+
+続いて尾藤先生は、自身の歩みを語りました。小児外科医を志したのは、大学の病院実習がきっかけだったそうです。
+
+「病気の部分を『直接』見て治せること、チームで治療に臨む雰囲気に惹かれた」と振り返ります。そんな尾藤先生の背中を最後に一押ししたのは、先輩の一言でした。
+
+「『僕たちがつくった肛門を毎日一生使ってくれるんだよ』という先輩の言葉を聞いて、子どもの未来に関わることができる仕事なのだと感じ、小児外科医になることを決めました。さらに、子どもを相手にするため、小児外科の仕事場には常に笑顔があります。子どもたちの笑顔は、日々のやりがいにもつながっています」
+
+患者さんは、退院後も定期的に小児外科外来へ通います。その際、かけっこで1番になった、スイミングで優勝したといった報告を受けると、保護者のような気持ちになるそうです。
+
+「私たちが治療した子どもが元気に成長していく。その姿を見るだけで心からうれしい気持ちになります」と尾藤先生は穏やかに述べました。
+
+厚生労働省「令和6年 医師・歯科医師・薬剤師統計の概況」によると、外科医の数は減少傾向にある一方、小児外科医は、849人（2022年）から923人（2024年）へと増加しています。
+
+この傾向を踏まえて尾藤先生は「少子化のなかでも子どもは生まれてきます。そして、小児外科医の手術でしか治せない病気も存在します。小児外科の世界に興味を持ってくれる人がさらに増えていけばうれしく思います」と、小児外科医療の発展に期待を寄せました。
+
+【質疑応答】子どもの手術で一番難しいのは？ 特定の臓器ではなく…
+
+講演後の質疑応答では、会場の参加者からさまざまな質問が寄せられました。
+
+「子どもの手術で一番難しいところはどこですか？」という質問に対して、尾藤先生は「子どもの気持ち」と答えました。
+
+先生によると、ある程度の年齢になれば病気のことやなぜ手術が必要なのかが分かり、頑張ろうと思えるといいます。ところが小学校低学年くらいまではまだ手術の必要性が分からず、恐怖心で頭がいっぱいになってしまうそうです。
+
+「そういう子に、前向きな気持ちを持ってもらうのは容易ではありません」と、尾藤先生は子どもを相手にすることの難しさを述べました。どうすれば手術を頑張ろうという気持ちになってもらえるか、常に試行錯誤している様子がうかがえます。
+
+「忘れられない患者さんはいますか？」という質問には、ある幼稚園児のエピソードが紹介されました。
+
+「恥ずかしさから、医師に対してなかなかお礼を言えない子は珍しくありません。その子も恥ずかしがり屋で、積極的にお礼を言うようなタイプの子ではありませんでした。そのような子が『ありがとう』と言ってくれたときは感動しましたね」
+
+さらに、「女性医師として働くなかで感じた変化は何ですか」という質問もあがりました。これに対する回答は、女性外科医の数が圧倒的に少ない頃から現場に立ち続けた尾藤先生ならではのリアルなものでした。
+
+「今は医学生も男女平等で、女性医師の割合も増えており、性別による扱いの差はありません。しかし私が若手の頃に勤めていた病院では、外科には女性用の更衣室も当直室もなく、着替えなどの際は看護師用のお風呂場を借りていました。私はそういうものだと思って気にしなかったのですが、つらいと感じていた女性医師もいたと思います」
+
+「外科を選んだ理由は何ですか」という質問もありました。尾藤先生が学生だった頃は、女性が外科医を選択することはほとんどなかったそうです。
+
+先生自身、他科も選択肢にあったものの、「やはり手術をする側に立ちたい。直接患者さんを治療する仕事がしたい」という思いから外科の道を選んだといいます。今の道を選んだことをまったく後悔していないと述べました。
+
+体を守る「ヒーロー」として―消化器外科医の戦い
+
+2本目の講演は「おなかの中の大冒険 ～外科医はからだを守るヒーローだ～」と題し、猪股先生が登壇しました。司会は京都大学医学部附属病院 消化管外科の山本健人先生です。
+
+まず参加者の目を釘付けにしたのは、ゲーム画面のようなドット調の講演スライド。「多数の診療科の中から、病気と戦うヒーローを選ぶ」という演出に、会場の子どもたちは引き込まれていました。
+
+「この世界では、病気と戦うヒーローが足りません。特に私たち外科医は、地方では本当に足りていない状況です。そこでみなさんにもヒーローになってほしいと思っています」――。
+
+猪股先生の呼びかけに、子どもたちは緊張感を抱きつつも聞き入ります。今回は猪股先生の専門である消化器外科が選択され、消化器のしくみや注意したい病気について説明が行われました。
+
+消化器外科が向き合う病気のなかで、特に増えているのががんです。
+
+日本ではがん患者数が増え続けており、猪股先生は自身の見解として、将来的にはがんにかかる人の割合が3人に2人、がんで亡くなる人の割合が2人に1人となる時代が来るのではないかと述べました。
+
+「だからこそ、たくさんのヒーローが力を合わせてがんとの戦いに挑まなければなりません」――猪股先生は会場全体に力強く呼びかけます。
+
+がんと戦う「武器」には薬、放射線、手術といった技術があります。そのなかでも外科が得意とするのが手術です。
+
+その技法はおなかを大きく開く「開腹手術」、小さな穴からカメラを入れる「腹腔鏡手術」、そしてロボット手術へと進化し、より精密で安全性に配慮した治療ができるようになってきました。
+
+ロボット手術では、外科医が手術台から離れた位置にある操作席（コンソール）に座り、ロボットの腕（アーム）を動かします。
+
+猪股先生は「ロボットが一人で動くのではなく、外科医がロボットを操作します。つまり、外科医はパイロットということです」と表現しました。
+
+人間の手よりも自由に曲がる関節や手ぶれを抑える機能により、腹腔鏡では難しかったブドウの薄皮をきれいに剥くこともできるといいます。
+
+なぜこれほどまでに精密性を追求するのか。この理由について「がんと戦う手術では、たった1mmのズレが結果に大きく左右します。だからこそ、1mmにこだわることが非常に重要です」と猪股先生は語りました。
+
+10年後はどうなる？ 光学機器やAIが支える手術の可能性
+
+続いて、10年後に予想される「未来の手術」が紹介されました。外科医の「眼」を高画質3Dが、「手」を多関節機能のロボットアームが、そして「知」を人工知能（AI）が支えるという考え方です。
+
+4K・8Kレベルのカメラで術野を映せば、肉眼では見えないような細い血管まで見えてきます。ロボットアームが人の手の代わりになれば、1mmのぶれもなく精密な手術を目指すことができます。
+
+そして、著しい進歩を遂げているのが「知」におけるAIの支援です。ここで猪股先生は、自身が研究開発しているAI技術を実際の映像とともに紹介しました。
+
+映像では、直腸がんの手術中に、傷つけてはいけない神経が緑色で、正しい切開ラインが黄色で示されている様子が映し出されました。
+
+「AIは人間の思考をサポートしてくれます。ただし、AIから受けた情報をもとに最終的に判断するのは外科医の役割です」と、あくまで決定権は人間にあることも強調されました。
+
+最後に猪股先生は、「外科のヒーローの世界に興味を持ってくれましたか。夢が現実になるように、外科の未来を一緒につくっていきましょう」と会場に向かって呼びかけました。
+
+【質疑応答】不器用でも外科医になれる？ 「今の器用さは関係ない」
+
+講演後の質疑応答タイムには、次々と子どもたちの手が挙がりました。
+
+「僕は自分のことを不器用だと思っています。器用になるためのコツはありますか」という質問に対しては、「トレーニングをしていけば、必ず上達していきます。ただし、やみくもに手を動かすのではなく、この病気を取り除くためにはどうすればいいのかをイメージしながら取り組むことが大切です。今不器用か器用かは、あまり関係ないと思います」と回答がありました。
+
+また、「ロボットが壊れたらどうするの？」という質問には、「武器として使っている機械は、壊れることがあります」と前置きしたうえで、「地震などによってロボットが停止したような場合も想定しながらトレーニングをしています」と回答がありました。
+
+そのような場合は緊急停止ボタンでロボットを止め、開腹や腹腔鏡手術に切り替える訓練をしているそうです。
+
+「外科医を志したきっかけは？」という質問には、自分の手で病気を治せることに加えて、自身の父親をがんで亡くした経験を挙げ、「いつかこういう病気を自分の手で治したいと思ったのです」と、猪股先生自身も初心を振り返りながら語りました。
+
+子どもの80年先の人生を見据えて小児外科手術に臨む尾藤先生と、さまざまな武器を駆使して精密で安全な手術を追求する猪股先生。お二人の話からは、外科医が手術そのものだけでなく、患者さんのその後の人生まで大切にしていることが伝わってきました。
+
+外科医の数が減りつつあるなかで、会場では子どもたちが臆せず手を挙げ、外科医に本音の疑問をぶつけていました。今回の参加者のなかから未来の「ヒーロー」が生まれることに期待したいと思います。
+
+【この記事の監修医師】
+
+山本 健人 先生
+
+日本消化器外科学会消化器外科専門医。専門は大腸がん。京都大学卒業後、市中病院勤務を経て同大学院にて博士号を取得。消化器外科医として勤務する傍ら、医療情報の発信や執筆活動を精力的におこなう。現在は京都大学医学部附属病院消化管外科に勤務。日本外科学会外科専門医、日本消化器外科学会消化器外科専門医、日本消化器病学会消化器病専門医、内視鏡外科技術認定医、ロボット支援手術認定プロクターなど。44:["$","section",null,{"className":"article-actions","children":[["$","$L49",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/bef69993bef699938108a2f3","title":"「大人と子どもで違う？」「手術にもAI？」外科医2人が本音で語る、外科手術の今と未来【後編】(メディカルドック)","locale":"ja","take":null}],["$","$L4a",null,{"title":"「大人と子どもで違う？」「手術にもAI？」外科医2人が本音で語る、外科手術の今と未来【後編】(メディカルドック)","excerpt":"$4b","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/bef69993bef699938108a2f3","locale":"ja"}],"$L4c"]}]
+45:["$","$L4d",null,{"placement":"article","className":"mt-8"}]
+46:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L11",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+47:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-world:https://bbc.co.uk/news/articles/ckp8g4pm0y4lo",{"children":["$","$L11",null,{"href":"/ja/n/a0f395c2a0f395c23325ccbe","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason"}]]}]}],["$","li","euronews:https://euronews.com/2026/11/06/group-of-lawyers-suing-french-interior-minister-over-protesters-life-changing-injuries",{"children":["$","$L11",null,{"href":"/ja/n/03dc28e903dc28e9f1c4ffcd","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Euronews"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Group of lawyers suing French interior minister over protesters' life-changing injuries"}]]}]}],["$","li","npr-world:https://npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",{"children":["$","$L11",null,{"href":"/ja/n/28f6510e28f6510e5b0d2254","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NPR"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"The leader of a Kenyan doomsday cult is sentenced to 200 years in prison"}]]}]}]]}]]}]
+4c:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E5%A4%96%E7%A7%91%E5%8C%BB2%E4%BA%BA%E3%81%8C%E6%9C%AC%E9%9F%B3%E3%81%A7%E8%AA%9E%E3%82%8B%E3%80%81%E5%A4%96%E7%A7%91%E6%89%8B%E8%A1%93%E3%81%AE%E4%BB%8A%E3%81%A8%E6%9C%AA%E6%9D%A5%E3%80%90%E5%BE%8C%E7%B7%A8%E3%80%91&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]

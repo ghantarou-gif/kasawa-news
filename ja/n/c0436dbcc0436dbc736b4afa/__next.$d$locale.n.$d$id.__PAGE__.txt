@@ -1,0 +1,73 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8d5c/live/f2b754f0-d99d-11f1-93e1-3b657b665bcf.jpg","image"]
+5:T1181,オーストラリア東部クイーンズランド州ブリスベンのレストランで、ピザにパイナップルをのせるのを拒んだイタリア人シェフが解雇された。不当解雇だとして、シェフがオーストラリアの公正労働委員会に申し立てたことで、詳細が明らかになった。
+
+同委員会の資料などによると、イタリア人のダヴィデ・タンブレッラ氏は、ピザにパイナップルをのせることを、イタリアの「文化に対する侮辱」だとして拒み、5月に解雇された。
+
+レストラン「ラ・コスタ」に勤務していたタンブレッラ氏をめぐっては当時、勤務態度に関する苦情が複数寄せられ、経営陣との面談が行われた。その2週間後にタンブレッラ氏は解雇された。このレストランは現在は閉店している。
+
+苦情には、店内で開かれた催しの参加者に、ハムとパイナップルを使ったピザを提供するのを拒んだことも含まれていた。タンブレッラ氏は当時、経営陣からの指示であっても、「自身の文化に反するものである場合は従う必要はない」と主張していた。
+
+公正労働委員会は今月3日、不当解雇だとするタンブレッラ氏の訴えを退けた。申し立てが期限を過ぎて提出されたためだとしている。
+
+同委員会の裁定によると、同氏がピザにパイナップルを使うことを拒んだのは、「イタリア人として、ピザにパイナップルをのせることは自身の文化に対する侮辱だと考えている」ためだった。
+
+また、タンブレッラ氏がピザにパイナップルを使うことを拒んだのは、過去4年間で計3回だった。
+
+同氏は以前、上司に対し、「イタリア人にとって、ピザにパイナップルをのせないことがどれほど重要か調べてほしい」と求めていたという。
+
+レストランがあったクイーンズランド州は、オーストラリアのパイナップルの主要生産地。国内の商業栽培はすべて同州で行われている。
+
+同州サンシャイン・コーストでは、高さ16メートルのファイバーグラス製のパイナップルの模型「ビッグ・パイナップル」が地元のランドマークになっている。同州の遺産にも登録され、観光客が立ち寄って記念撮影する姿がみられる。
+
+クイーンズランド州はオーストラリアのパイナップルの主要生産地で、パイナップルの模型「ビッグ・パイナップル」が設置されている
+
+タンブレッラ氏をめぐっては、汚い言葉遣いやコミュニケーションの取り方、「職場で不満を募らせる」様子について、懸念の声が上がっていたという。
+
+公正労働委員会の裁定では、タンブレッラ氏が今年4月、職場で金属製の手すりに手をぶつけて、右手を骨折したことも詳述された。
+
+タンブレッラ氏は、熟練労働者としてオーストラリアに永住できる査証（ビザ）を取得するため、レストラン側がスポンサーになってくれることを望んでいたとされる。
+
+しかし、裁定によると、レストランは同氏を解雇した後、査証取得のプロセスを打ち切ったという。
+
+レストランのマネージング・ディレクター、エリオット・イングラム氏は、英紙デイリー・メールに対し、「この件には、ピザのトッピングだけではない事情がある」と語った。
+
+ビジネス向け交流サイト「リンクトイン」のタンブレッラ氏のプロフィール欄には、自身のキャリアを通じて「卓越した料理を提供すること」と「業績の向上」に力を注いできたと書かれている。
+
+同氏は3カ月前、「食材を尊重すること」をテーマにした「シェフたちへの手紙」を投稿していた。
+
+リンクトインのプロフィール欄によると、タンブレッラ氏は現在、ブリスベンの別のレストランで働いているとされる。BBCがこの店のメニューを確認したところ、パイナップルを使った料理は掲載されていなかった。
+
+（英語記事 Italian chef fired after refusing to put pineapple on pizza）d:X
+12:X
+12:C
+0:{"buildId":"v4pnrtun7pn_skbrgOFJo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-06","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"ピザにパイナップルのせることを拒否、イタリア人シェフ解雇 豪レストラン"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8d5c/live/f2b754f0-d99d-11f1-93e1-3b657b665bcf.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"オーストラリア東部クイーンズランド州ブリスベンのレストランで、ピザにパイナップルをのせるのを拒んだイタリア人シェフが解雇された。不当解雇だとして、シェフがオーストラリアの公正労働委員会に申し立てたことで、詳細が明らかになった。"}],["$","p","1",{"children":"同委員会の資料などによると、イタリア人のダヴィデ・タンブレッラ氏は、ピザにパイナップルをのせることを、イタリアの「文化に対する侮辱」だとして拒み、5月に解雇された。"}],["$","p","2",{"children":"レストラン「ラ・コスタ」に勤務していたタンブレッラ氏をめぐっては当時、勤務態度に関する苦情が複数寄せられ、経営陣との面談が行われた。その2週間後にタンブレッラ氏は解雇された。このレストランは現在は閉店している。"}],["$","p","3",{"children":"苦情には、店内で開かれた催しの参加者に、ハムとパイナップルを使ったピザを提供するのを拒んだことも含まれていた。タンブレッラ氏は当時、経営陣からの指示であっても、「自身の文化に反するものである場合は従う必要はない」と主張していた。"}],["$","p","4",{"children":"公正労働委員会は今月3日、不当解雇だとするタンブレッラ氏の訴えを退けた。申し立てが期限を過ぎて提出されたためだとしている。"}],["$","p","5",{"children":"同委員会の裁定によると、同氏がピザにパイナップルを使うことを拒んだのは、「イタリア人として、ピザにパイナップルをのせることは自身の文化に対する侮辱だと考えている」ためだった。"}],["$","p","6",{"children":"また、タンブレッラ氏がピザにパイナップルを使うことを拒んだのは、過去4年間で計3回だった。"}],["$","p","7",{"children":"同氏は以前、上司に対し、「イタリア人にとって、ピザにパイナップルをのせないことがどれほど重要か調べてほしい」と求めていたという。"}],["$","p","8",{"children":"レストランがあったクイーンズランド州は、オーストラリアのパイナップルの主要生産地。国内の商業栽培はすべて同州で行われている。"}],["$","p","9",{"children":"同州サンシャイン・コーストでは、高さ16メートルのファイバーグラス製のパイナップルの模型「ビッグ・パイナップル」が地元のランドマークになっている。同州の遺産にも登録され、観光客が立ち寄って記念撮影する姿がみられる。"}],["$","p","10",{"children":"クイーンズランド州はオーストラリアのパイナップルの主要生産地で、パイナップルの模型「ビッグ・パイナップル」が設置されている"}],["$","p","11",{"children":"タンブレッラ氏をめぐっては、汚い言葉遣いやコミュニケーションの取り方、「職場で不満を募らせる」様子について、懸念の声が上がっていたという。"}],["$","p","12",{"children":"公正労働委員会の裁定では、タンブレッラ氏が今年4月、職場で金属製の手すりに手をぶつけて、右手を骨折したことも詳述された。"}],["$","p","13",{"children":"タンブレッラ氏は、熟練労働者としてオーストラリアに永住できる査証（ビザ）を取得するため、レストラン側がスポンサーになってくれることを望んでいたとされる。"}],["$","p","14",{"children":"しかし、裁定によると、レストランは同氏を解雇した後、査証取得のプロセスを打ち切ったという。"}],["$","p","15",{"children":"レストランのマネージング・ディレクター、エリオット・イングラム氏は、英紙デイリー・メールに対し、「この件には、ピザのトッピングだけではない事情がある」と語った。"}],["$","p","16",{"children":"ビジネス向け交流サイト「リンクトイン」のタンブレッラ氏のプロフィール欄には、自身のキャリアを通じて「卓越した料理を提供すること」と「業績の向上」に力を注いできたと書かれている。"}],["$","p","17",{"children":"同氏は3カ月前、「食材を尊重すること」をテーマにした「シェフたちへの手紙」を投稿していた。"}],["$","p","18",{"children":"リンクトインのプロフィール欄によると、タンブレッラ氏は現在、ブリスベンの別のレストランで働いているとされる。BBCがこの店のメニューを確認したところ、パイナップルを使った料理は掲載されていなかった。"}],["$","p","19",{"children":"（英語記事 Italian chef fired after refusing to put pineapple on pizza）"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/c63ellvpdq58o","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/c0436dbcc0436dbc736b4afa","title":"ピザにパイナップルのせることを拒否、イタリア人シェフ解雇 豪レストラン","locale":"ja","take":null}],["$","$L4",null,{"title":"ピザにパイナップルのせることを拒否、イタリア人シェフ解雇 豪レストラン","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/c0436dbcc0436dbc736b4afa","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%83%94%E3%82%B6%E3%81%AB%E3%83%91%E3%82%A4%E3%83%8A%E3%83%83%E3%83%97%E3%83%AB%E3%81%AE%E3%81%9B%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E6%8B%92%E5%90%A6%E3%80%81%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E4%BA%BA%E3%82%B7%E3%82%A7%E3%83%95%E8%A7%A3%E9%9B%87+%E8%B1%AA%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-world:https://bbc.co.uk/news/articles/ckp8g4pm0y4lo",{"children":["$","$L2",null,{"href":"/ja/n/a0f395c2a0f395c23325ccbe","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason"}]]}]}],["$","li","euronews:https://euronews.com/2026/11/06/group-of-lawyers-suing-french-interior-minister-over-protesters-life-changing-injuries",{"children":["$","$L2",null,{"href":"/ja/n/03dc28e903dc28e9f1c4ffcd","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Euronews"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Group of lawyers suing French interior minister over protesters' life-changing injuries"}]]}]}],["$","li","npr-world:https://npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",{"children":["$","$L2",null,{"href":"/ja/n/28f6510e28f6510e5b0d2254","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NPR"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"The leader of a Kenyan doomsday cult is sentenced to 200 years in prison"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ピザにパイナップルのせることを拒否、イタリア人シェフ解雇 豪レストラン"}],["$","meta","1",{"name":"description","content":"オーストラリア東部クイーンズランド州ブリスベンのレストランで、ピザにパイナップルをのせるのを拒んだイタリア人シェフが解雇された。不当解雇だとして、シェフがオーストラリアの公正労働委員会に申し立てたことで、詳細が明らかになった。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"ピザにパイナップルのせることを拒否、イタリア人シェフ解雇 豪レストラン"}],["$","meta","4",{"property":"og:description","content":"オーストラリア東部クイーンズランド州ブリスベンのレストランで、ピザにパイナップルをのせるのを拒んだイタリア人シェフが解雇された。不当解雇だとして、シェフがオーストラリアの公正労働委員会に申し立てたことで、詳細が明らかになった。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/c0436dbcc0436dbc736b4afa/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F8d5c%2Flive%2Ff2b754f0-d99d-11f1-93e1-3b657b665bcf.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"ピザにパイナップルのせることを拒否、イタリア人シェフ解雇 豪レストラン"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"ピザにパイナップルのせることを拒否、イタリア人シェフ解雇 豪レストラン"}],["$","meta","14",{"name":"twitter:description","content":"オーストラリア東部クイーンズランド州ブリスベンのレストランで、ピザにパイナップルをのせるのを拒んだイタリア人シェフが解雇された。不当解雇だとして、シェフがオーストラリアの公正労働委員会に申し立てたことで、詳細が明らかになった。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F8d5c%2Flive%2Ff2b754f0-d99d-11f1-93e1-3b657b665bcf.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

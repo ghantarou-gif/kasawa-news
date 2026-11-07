@@ -1,0 +1,92 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+15:X
+1a:X
+1a:C
+0:{"buildId":"v4pnrtun7pn_skbrgOFJo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-06","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Gigazine"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"AIのオープンモデル利用率が大きく拡大中、オープンウェイトモデルとクローズドウェイトモデルの違いは何か？"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"24 時間前"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"AIモデルの提供プラットフォームである OpenRouter の調査によると、2026年9月末時点で、OpenRouter上の上位50モデルのトークンのうちオープンウェイトモデルが処理した割合は72％と、前年の27％から大幅に増加したとのこと。AIのオープンウェイトモデルとクローズドウェイトモデルの違いについて、OpenRouterが解説しています。"}],["$","p","1",{"children":"Open-Weight vs Closed-Weight Models: What's the Difference? | OpenRouter"}],["$","p","2",{"children":"AIモデルの「ウェイト」とは、AIモデルの学習済みパラメータ、つまり「経験値」に相当する数値のことです。通常、Hugging Faceなどでウェイトが公開されている場合、誰でもモデルが実行可能です。ただし、公開されているからといってウェイトを自由に利用できるわけではなく、ライセンスは多岐にわたっており、帰属表示が義務付けられたり、大規模な商用製品の場合は事前に書面による許可を得る必要があったりします。"}],["$","p","3",{"children":"AIモデルは、学習済みのパラメーターを公開しているかどうかによって、大きく「オープンウェイトモデル」と「クローズドウェイトモデル」に分けられます。オープンウェイトモデルとは、学習済みのウェイトが公開されているモデルのことで、誰でもダウンロードして自分のハードウェアで実行したり、微調整したり、他の人に提供したりできます。一方でクローズドウェイトモデルはウェイトが非公開になっていて、モデルを開発した企業やライセンス供与先のクラウドサービスを通じてのみ利用可能です。"}],["$","p","4",{"children":"なお、オープンウェイトは「オープンソース」と同じ意味ではない点に注意が必要です。オープンソースを促進することを目的とする組織「 Open Source Initiative 」の 定義 によると、オープンソースとは研究や再構築に必要なものがすべて入手できることを意味します。AIモデルの場合には「トレーニングデータ(法的に共有できない場合はデータに関する詳細情報)」「コード」「ウェイト」が必要です。しかし、ウェイトがオープンであっても、ほとんどのモデルはトレーニングデータを公開していないため、「オープンソース」よりも「オープンウェイト」という用語の方が正確だというわけです。"}],["$","p","5",{"children":"以下はOpenRouterの週間トークン取引量上位50位にランクインしたすべてのモデルを、カタログエントリが公開されたウェイトにリンクしているかどうかに基づいて、オープンウェイトまたはクローズドウェイトに分類した表。2025年10月6日の計測ではオープンウェイトのトークンが1兆3000億、クローズドウェイトのトークンが3兆4000億と、オープンウェイトシェアは26.8％にとどまっています。しかし、オープンウェイトシェアは次第に伸びていき、ピークを迎えた2026年7月20日の計測では、オープンウェイトのトークンが41兆1000億、クローズドウェイトのトークンが11兆9000億と、オープンウェイトシェアが77.5％まで高まったそうです。"}],["$","p","6",{"children":"2025年10月6日 26.8% 1.3T 3.4T"}],["$","p","7",{"children":"2026年1月26日 35.1% 2.6T 4.9T"}],["$","p","8",{"children":"2026年4月20日 47.7% 8.9T 9.8T"}],["$","p","9",{"children":"2026年7月20日 77.5% 41.1T 11.9T"}],["$","p","10",{"children":"2026年9月28日 71.7% 83.5T 33.0T"}],["$","p","11",{"children":"オープンウェイトモデルの利用が増えている背景には、価格の安さがあります。OpenRouterが2026年10月ごろの4週間の利用量をもとに算出したトークン単価では、オープンウェイトモデルは入力100万トークン当たり0.28ドル(約44円)、出力100万トークン当たり1.62ドル(約255円)でした。一方、クローズドウェイトモデルは入力が1.27ドル(約200円)、出力が6.36ドル(約1000円)で、入出力ともに約4倍の価格差があることが示されました。価格差の大きな理由は、オープンウェイトモデルは事業者間の価格競争が激しいことが挙げられています。"}],["$","p","12",{"children":"ただし、価格が安価な代わりに性能面ではクローズドウェイトモデルが優位に立っています。特に、Artificial Analysisが2026年10月末に公開したAIベンチマーク「Intelligence Index v5」では、クローズドモデル首位とオープンモデル首位のスコア差が3ポイントから13ポイントに拡大し、性能差が広がりつつあることが示されました。"}],["$","p","13",{"children":"ただし、この差はあくまで「オープンウェイトの最高モデルとクローズドウェイトの最高モデルのポイント差」であり、あらゆる作業においてクローズドモデルの方が適切であることを示しているわけではありません。OpenRouterは、オープンウェイトとクローズドウェイトには性能差があることを認めつつ、価格差が約4倍もあることから、「まずオープンウェイトモデルを利用し、各ユーザー自身のタスクでテストした上で、品質向上によって結果が変わることが確認できたステップのみ、クローズドウェイトモデルに移行してください」と助言しています。また、オープンウェイトモデルは自社のサーバーで実行できるため、機密情報を外部のAIサービスに送信せずに利用できるという利点もあります。"}],["$","p","14",{"children":"なお、今回のデータはOpenRouter上で利用された上位50モデルを対象にしたもので、使用状況、価格、ベンチマークの数値はすべて、OpenRouterが独自のAPIから取得したものです。そのため、AI市場全体の利用割合を示すものではないことには注意が必要です。"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"],"$Lc"]}],"$Ld","$Le","$Lf",null,"$L10","$L11"]}],["$L12"],"$L13"]}],"isPartial":"$@14","staleTime":"$15","varyParams":null},{"rsc":"$L16","isPartial":"$@17","staleTime":"$15","varyParams":null},{"rsc":"$L18","isPartial":"$@19","staleTime":"$15","varyParams":"$1a"},{"rsc":"$L1b","isPartial":"$@1c","staleTime":"$15","varyParams":"$1a"}],"isUpgradeableISRFallback":false,"a":"$@1d","rootVaryParams":null,"needsRuntimeRequest":"$@1e"}
+1f:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+20:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+23:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+24:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+25:"$Sreact.suspense"
+27:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+28:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+29:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+2a:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+2b:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","15",{"children":"OpenAIとAnthropicが2026年夏から秋にかけてLLM料金を相次いで値下げした理由とは？ - GIGAZINE"}]
+4:["$","p","16",{"children":"日本語特化で高速かつ高精度な文字起こしAI「Haas-ja-v1.0」が登場、オープンモデルの中で最高性能を記録 - GIGAZINE"}]
+5:["$","p","17",{"children":"中国のオープンソースAIに対抗するためReflectionがパラメーター数5010億のオープンモデル「Beam」を発表、GLM 5.2に匹敵し使用する計算量は3～4分の1でAIエージェントタスクではQwen3.8-Maxに匹敵すると主張 - GIGAZINE"}]
+6:["$","p","18",{"children":"AIコーディングエージェントにとってハーネスはどれほど重要なのか？ - GIGAZINE"}]
+7:["$","p","19",{"children":"GPT-6.1 Terraと同等のコーディング性能を発揮するAIモデル「Mistral Large 4」が無償公開される"}]
+8:["$","p","20",{"children":"「DeepSeek-V3.1」登場、推論モードと非推論モードを両立させてDeepSeek-R1より高速化したハイブリッドモデル"}]
+9:["$","p","21",{"children":"Abacus AIがリリースしたオープンソースLLM「Smaug-72B」がHugging FaceのOpen LLM LeaderboardでトップとなりいくつかのベンチマークでGPT-3.5を上回ったことが明らかに"}]
+a:["$","p","22",{"children":"「Kimi K3.1 Pro」の重みが無料で公開される"}]
+b:["$","p","23",{"children":"You can read the machine translated English article With the use of open AI models expanding… ."}]
+c:["$","p",null,{"className":"article-credit","children":"本文の著作権はGigazineにあります。"}]
+d:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://gigazine.net/news/20261106-open-closed-weight/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はGigazineで読む"}]}]
+21:T1caa,AIモデルの提供プラットフォームである OpenRouter の調査によると、2026年9月末時点で、OpenRouter上の上位50モデルのトークンのうちオープンウェイトモデルが処理した割合は72％と、前年の27％から大幅に増加したとのこと。AIのオープンウェイトモデルとクローズドウェイトモデルの違いについて、OpenRouterが解説しています。
+
+Open-Weight vs Closed-Weight Models: What's the Difference? | OpenRouter
+
+AIモデルの「ウェイト」とは、AIモデルの学習済みパラメータ、つまり「経験値」に相当する数値のことです。通常、Hugging Faceなどでウェイトが公開されている場合、誰でもモデルが実行可能です。ただし、公開されているからといってウェイトを自由に利用できるわけではなく、ライセンスは多岐にわたっており、帰属表示が義務付けられたり、大規模な商用製品の場合は事前に書面による許可を得る必要があったりします。
+
+AIモデルは、学習済みのパラメーターを公開しているかどうかによって、大きく「オープンウェイトモデル」と「クローズドウェイトモデル」に分けられます。オープンウェイトモデルとは、学習済みのウェイトが公開されているモデルのことで、誰でもダウンロードして自分のハードウェアで実行したり、微調整したり、他の人に提供したりできます。一方でクローズドウェイトモデルはウェイトが非公開になっていて、モデルを開発した企業やライセンス供与先のクラウドサービスを通じてのみ利用可能です。
+
+なお、オープンウェイトは「オープンソース」と同じ意味ではない点に注意が必要です。オープンソースを促進することを目的とする組織「 Open Source Initiative 」の 定義 によると、オープンソースとは研究や再構築に必要なものがすべて入手できることを意味します。AIモデルの場合には「トレーニングデータ(法的に共有できない場合はデータに関する詳細情報)」「コード」「ウェイト」が必要です。しかし、ウェイトがオープンであっても、ほとんどのモデルはトレーニングデータを公開していないため、「オープンソース」よりも「オープンウェイト」という用語の方が正確だというわけです。
+
+以下はOpenRouterの週間トークン取引量上位50位にランクインしたすべてのモデルを、カタログエントリが公開されたウェイトにリンクしているかどうかに基づいて、オープンウェイトまたはクローズドウェイトに分類した表。2025年10月6日の計測ではオープンウェイトのトークンが1兆3000億、クローズドウェイトのトークンが3兆4000億と、オープンウェイトシェアは26.8％にとどまっています。しかし、オープンウェイトシェアは次第に伸びていき、ピークを迎えた2026年7月20日の計測では、オープンウェイトのトークンが41兆1000億、クローズドウェイトのトークンが11兆9000億と、オープンウェイトシェアが77.5％まで高まったそうです。
+
+2025年10月6日 26.8% 1.3T 3.4T
+
+2026年1月26日 35.1% 2.6T 4.9T
+
+2026年4月20日 47.7% 8.9T 9.8T
+
+2026年7月20日 77.5% 41.1T 11.9T
+
+2026年9月28日 71.7% 83.5T 33.0T
+
+オープンウェイトモデルの利用が増えている背景には、価格の安さがあります。OpenRouterが2026年10月ごろの4週間の利用量をもとに算出したトークン単価では、オープンウェイトモデルは入力100万トークン当たり0.28ドル(約44円)、出力100万トークン当たり1.62ドル(約255円)でした。一方、クローズドウェイトモデルは入力が1.27ドル(約200円)、出力が6.36ドル(約1000円)で、入出力ともに約4倍の価格差があることが示されました。価格差の大きな理由は、オープンウェイトモデルは事業者間の価格競争が激しいことが挙げられています。
+
+ただし、価格が安価な代わりに性能面ではクローズドウェイトモデルが優位に立っています。特に、Artificial Analysisが2026年10月末に公開したAIベンチマーク「Intelligence Index v5」では、クローズドモデル首位とオープンモデル首位のスコア差が3ポイントから13ポイントに拡大し、性能差が広がりつつあることが示されました。
+
+ただし、この差はあくまで「オープンウェイトの最高モデルとクローズドウェイトの最高モデルのポイント差」であり、あらゆる作業においてクローズドモデルの方が適切であることを示しているわけではありません。OpenRouterは、オープンウェイトとクローズドウェイトには性能差があることを認めつつ、価格差が約4倍もあることから、「まずオープンウェイトモデルを利用し、各ユーザー自身のタスクでテストした上で、品質向上によって結果が変わることが確認できたステップのみ、クローズドウェイトモデルに移行してください」と助言しています。また、オープンウェイトモデルは自社のサーバーで実行できるため、機密情報を外部のAIサービスに送信せずに利用できるという利点もあります。
+
+なお、今回のデータはOpenRouter上で利用された上位50モデルを対象にしたもので、使用状況、価格、ベンチマークの数値はすべて、OpenRouterが独自のAPIから取得したものです。そのため、AI市場全体の利用割合を示すものではないことには注意が必要です。
+
+OpenAIとAnthropicが2026年夏から秋にかけてLLM料金を相次いで値下げした理由とは？ - GIGAZINE
+
+日本語特化で高速かつ高精度な文字起こしAI「Haas-ja-v1.0」が登場、オープンモデルの中で最高性能を記録 - GIGAZINE
+
+中国のオープンソースAIに対抗するためReflectionがパラメーター数5010億のオープンモデル「Beam」を発表、GLM 5.2に匹敵し使用する計算量は3～4分の1でAIエージェントタスクではQwen3.8-Maxに匹敵すると主張 - GIGAZINE
+
+AIコーディングエージェントにとってハーネスはどれほど重要なのか？ - GIGAZINE
+
+GPT-6.1 Terraと同等のコーディング性能を発揮するAIモデル「Mistral Large 4」が無償公開される
+
+「DeepSeek-V3.1」登場、推論モードと非推論モードを両立させてDeepSeek-R1より高速化したハイブリッドモデル
+
+Abacus AIがリリースしたオープンソースLLM「Smaug-72B」がHugging FaceのOpen LLM LeaderboardでトップとなりいくつかのベンチマークでGPT-3.5を上回ったことが明らかに
+
+「Kimi K3.1 Pro」の重みが無料で公開される
+
+You can read the machine translated English article With the use of open AI models expanding… .e:["$","section",null,{"className":"article-actions","children":[["$","$L1f",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/aaef113caaef113cb8ba66b0","title":"AIのオープンモデル利用率が大きく拡大中、オープンウェイトモデルとクローズドウェイトモデルの違いは何か？","locale":"ja","take":null}],["$","$L20",null,{"title":"AIのオープンモデル利用率が大きく拡大中、オープンウェイトモデルとクローズドウェイトモデルの違いは何か？","excerpt":"$21","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/aaef113caaef113cb8ba66b0","locale":"ja"}],"$L22"]}]
+f:["$","$L23",null,{"placement":"article","className":"mt-8"}]
+10:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+11:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-world:https://bbc.co.uk/news/articles/ckp8g4pm0y4lo",{"children":["$","$L2",null,{"href":"/ja/n/a0f395c2a0f395c23325ccbe","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason"}]]}]}],["$","li","euronews:https://euronews.com/2026/11/06/group-of-lawyers-suing-french-interior-minister-over-protesters-life-changing-injuries",{"children":["$","$L2",null,{"href":"/ja/n/03dc28e903dc28e9f1c4ffcd","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Euronews"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Group of lawyers suing French interior minister over protesters' life-changing injuries"}]]}]}],["$","li","npr-world:https://npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",{"children":["$","$L2",null,{"href":"/ja/n/28f6510e28f6510e5b0d2254","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NPR"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"The leader of a Kenyan doomsday cult is sentenced to 200 years in prison"}]]}]}]]}]]}]
+12:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+13:["$","$L24",null,{"children":["$","$25",null,{"name":"Next.MetadataOutlet","children":"$@26"}]}]
+16:["$","$1","h",{"children":[null,["$","$L27",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L28",null,{"children":["$","$25",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"AIのオープンモデル利用率が大きく拡大中、オープンウェイトモデルとクローズドウェイトモデルの違いは何か？"}],["$","meta","1",{"name":"description","content":"AIモデルの提供プラットフォームである OpenRouter の調査によると、2026年9月末時点で、OpenRouter上の上位50モデルのトークンのうちオープンウェイトモデルが処理した割合は72％と、前年の27％から大幅に増加したとのこと。AIのオープンウェイトモデルとクローズドウェイトモデルの違いについて、OpenRouterが解説しています。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"AIのオープンモデル利用率が大きく拡大中、オープンウェイトモデルとクローズドウェイトモデルの違いは何か？"}],["$","meta","4",{"property":"og:description","content":"AIモデルの提供プラットフォームである OpenRouter の調査によると、2026年9月末時点で、OpenRouter上の上位50モデルのトークンのうちオープンウェイトモデルが処理した割合は72％と、前年の27％から大幅に増加したとのこと。AIのオープンウェイトモデルとクローズドウェイトモデルの違いについて、OpenRouterが解説しています。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/aaef113caaef113cb8ba66b0/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"AIのオープンモデル利用率が大きく拡大中、オープンウェイトモデルとクローズドウェイトモデルの違いは何か？"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"AIのオープンモデル利用率が大きく拡大中、オープンウェイトモデルとクローズドウェイトモデルの違いは何か？"}],["$","meta","14",{"name":"twitter:description","content":"AIモデルの提供プラットフォームである OpenRouter の調査によると、2026年9月末時点で、OpenRouter上の上位50モデルのトークンのうちオープンウェイトモデルが処理した割合は72％と、前年の27％から大幅に増加したとのこと。AIのオープンウェイトモデルとクローズドウェイトモデルの違いについて、OpenRouterが解説しています。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L29","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+18:["$","$1","c",{"children":[null,["$","$L2a",null,{"parallelRouterKey":"children","template":["$","$L2b",null,{}]}]]}]
+1b:["$","$1","c",{"children":[null,["$","$L2a",null,{"parallelRouterKey":"children","template":["$","$L2b",null,{}]}]]}]
+1e:true
+22:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=AI%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%A2%E3%83%87%E3%83%AB%E5%88%A9%E7%94%A8%E7%8E%87%E3%81%8C%E5%A4%A7%E3%81%8D%E3%81%8F%E6%8B%A1%E5%A4%A7%E4%B8%AD%E3%80%81%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%88%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%BA%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%88%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%81%95%E3%81%84&mode=phrase&url=gigazine.net&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+26:null
+15:300
+15:C
+1d:0
+17:"$undefined"
+19:"$undefined"
+1c:"$undefined"
+14:"$undefined"

@@ -1,0 +1,132 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+16:X
+1b:X
+1b:C
+0:{"buildId":"v4pnrtun7pn_skbrgOFJo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-07","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Gigazine"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"2 時間前"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"友人同士でチャットや音声通話を楽しんだり趣味の仲間と情報を共有したりする際には、Discordのようなコミュニティ向けサービスが便利です。こうした環境を自分たちで運営しながら既存のDiscordサーバーとも交流を続けられるようにしたのが、チャット・音声・動画・画面共有・ボットなどの機能を備えた無料のオープンソースソフトウェア「 Harmony 」です。"}],["$","p","1",{"children":"Harmonyは Discord に似た画面でコミュニティを運営できる無料のオープンソースソフトウェアで、左側にチャンネル一覧、中央に会話、右側に参加者が並びます。"}],["$","p","2",{"children":"コミュニティを作成するとテキスト用の「general」と音声用の「voice chat」が用意され、目的に応じてチャンネルを追加できます。"}],["$","p","3",{"children":"テキストチャンネルではメッセージへの返信や絵文字のリアクションに対応。"}],["$","p","4",{"children":"投稿を起点とするスレッドで話題を分けることもできます。"}],["$","p","5",{"children":"さらにアンケートを作成すると選択肢ごとの投票数や割合が表示され、メンバー間で場所や日程などを決める際にも利用できます。"}],["$","p","6",{"children":"Harmonyの特徴が既存のDiscordサーバーと接続する「Discord Bridge」で、両サービスのテキストチャンネルを1対1で対応付けられます。"}],["$","p","7",{"children":"設定画面で「Discord ブリッジ」を開くとインスタンス側のBotを使う方法や独自Botを使う方法から運用方式を選択できます。"}],["$","p","8",{"children":"Discordサーバーと接続した後に両サービスのチャンネルを選び、同期方向を「双方向」にするとメッセージを双方向に中継できます。"}],["$","p","9",{"children":"Discordから送信したメッセージは投稿者の名前やアイコンとともにHarmonyへ表示され、Discordから来たことを示すバッジも付きます。"}],["$","p","10",{"children":"Harmonyで送信したメッセージもDiscordへ届くため、メンバーが異なるサービスから同じ会話に参加できます。"}],["$","p","11",{"children":"メッセージの編集・削除やリアクション、スレッドにも対応し、それぞれの同期は設定画面で切り替えられます。"}],["$","p","12",{"children":"なお音声・動画の通話はブリッジの対象外で、停止していた間の投稿も後から自動取得できません。"}],["$","p","13",{"children":"音声チャンネルをクリックすると通話に参加でき、マイクのほかカメラや画面共有も利用できます。"}],["$","p","14",{"children":"通話画面の「空間オーディオ」を有効にすると参加者が平面上に配置され、相手のアイコンを近づけるほど声が大きく、遠ざけるほど小さく聞こえます。"}],["$","p","15",{"children":"ほかにも通話中に効果音を再生する「Soundboard」やリアクション機能を備えています。"}],["$","p","16",{"children":"Harmonyは「 ActivityPub 」という分散型SNSの通信規格にも対応し、異なる運営者のHarmonyインスタンス同士で交流できます。"}],["$","p","17",{"children":"このほかロールによる権限管理・迷惑投稿を制限する「AutoMod」・Bot用API・Webhook・独自絵文字・二要素認証なども備えています。"}],["$","p","18",{"children":"アカウント登録フォームの「Email」にメールアドレス、「Password」にパスワードを入力して「Create account」をクリック。"}],["$","p","19",{"children":"登録したメールアドレスに送信されたメール内の承認用リンクをクリック。"}],["$","p","20",{"children":"プロフィール設定フォームの「表示名」に任意の表示名を、「ユーザー名」にユーザー名を記入して「続ける」をクリック。"}],["$","p","21",{"children":"チャットの初期画面が表示されれば利用可能な状態です。"}],["$","p","22",{"children":"アプリ作成フォームの「名前」に名前を入力し、「規約と開発者ポリシー」にチェックをして「作成」をクリック。"}],["$","p","23",{"children":"アプリの管理画面になったらサイドメニューの「Bot」をクリック。"}],["$","p","24",{"children":"「Message Content Intent」と「Server Members Intent」を有効化し「変更を保存」をクリック。"}],["$","p","25",{"children":"トークンを取得するため「トークンをリセット」をクリック。"}],["$","p","26",{"children":"リセットするか質問されるので「実行します！」をクリック。"}],["$","p","27",{"children":"トークンが作成されるのでメモしておきます。"}],["$","p","28",{"children":"次にHarmony側のBotを作成するためHarmony側で自分が作成したサーバーのメニューから「サーバー設定」をクリック。"}],["$","p","29",{"children":"サーバー設定のサイドメニューから「Discordブリッジ」をクリックし「ブリッジをどこで動かしますか？」の選択画面で「自分で動かす」をクリック。"}],["$","p","30",{"children":"「Discordボットを作成」手順の説明画面が表示されるので「トークンを用意しました」をクリック。"}],["$","p","31",{"children":"「ブリッジを起動」手順の説明画面が表示されるので「Docker Compose」をクリックして内容をコピーします。"}],["$","p","32",{"children":"作業フォルダーで「docker-compose.yml」ファイルを作成しコピーした内容をペーストして保存後、コンテナを起動。"}],["$","p","33",{"children":"vi docker-compose.yml"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc"],"$Ld"]}],"$Le","$Lf","$L10",null,"$L11","$L12"]}],["$L13"],"$L14"]}],"isPartial":"$@15","staleTime":"$16","varyParams":null},{"rsc":"$L17","isPartial":"$@18","staleTime":"$16","varyParams":null},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$16","varyParams":"$1b"},{"rsc":"$L1c","isPartial":"$@1d","staleTime":"$16","varyParams":"$1b"}],"isUpgradeableISRFallback":false,"a":"$@1e","rootVaryParams":null,"needsRuntimeRequest":"$@1f"}
+20:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+21:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+23:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+24:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+25:"$Sreact.suspense"
+27:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+28:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+29:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+2a:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+2b:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","34",{"children":"コンテナが起動したらHarmony側の画面に戻り「ボットをDiscordサーバーに招待」をクリック。"}]
+4:["$","p","35",{"children":"Discordが起動し「サーバーに追加」から同期したいサーバーを選択して「続行」をクリック。"}]
+5:["$","p","36",{"children":"権限の認証画面になるので「認証」をクリック。"}]
+6:["$","p","37",{"children":"Harmony側の画面に戻り「チャンネルをペアにする」で「Harmonyのチャンネル」と「Discord」のチャンネルを選択し「ペアを追加」をクリックして同期したいチャンネルを追加してから「次へ」をクリック。"}]
+7:["$","p","38",{"children":"同期する内容を選択して「設定を完了」をクリック。"}]
+8:["$","p","39",{"children":"Harmony側のチャット画面に戻り同期したチャンネルで文章を送信。"}]
+9:["$","p","40",{"children":"Discord側のチャンネルにもメッセージが届いていることが確認できればDiscordブリッジの構築は完了です。"}]
+a:["$","p","41",{"children":"Android向けには APK が公開されているほか、iPhoneやiPadではSafariからWebアプリとしてホーム画面に 追加 して利用できます。"}]
+b:["$","p","42",{"children":"ソーシャル系ニュースサイトの Hacker News ではHarmonyについて 議論 が行われており、2600人規模のDiscordサーバーを管理するユーザーからDiscordブリッジについて「とてもよく考えられた機能」という 評価 がある一方、「バグや信頼性の低下が予想される」という 懐疑的な意見 も投稿されています。"}]
+c:["$","p","43",{"children":"You can read the machine translated English article Harmony is a free platform that allows y… ."}]
+d:["$","p",null,{"className":"article-credit","children":"本文の著作権はGigazineにあります。"}]
+e:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://gigazine.net/news/20261107-harmony/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はGigazineで読む"}]}]
+22:T1a08,友人同士でチャットや音声通話を楽しんだり趣味の仲間と情報を共有したりする際には、Discordのようなコミュニティ向けサービスが便利です。こうした環境を自分たちで運営しながら既存のDiscordサーバーとも交流を続けられるようにしたのが、チャット・音声・動画・画面共有・ボットなどの機能を備えた無料のオープンソースソフトウェア「 Harmony 」です。
+
+Harmonyは Discord に似た画面でコミュニティを運営できる無料のオープンソースソフトウェアで、左側にチャンネル一覧、中央に会話、右側に参加者が並びます。
+
+コミュニティを作成するとテキスト用の「general」と音声用の「voice chat」が用意され、目的に応じてチャンネルを追加できます。
+
+テキストチャンネルではメッセージへの返信や絵文字のリアクションに対応。
+
+投稿を起点とするスレッドで話題を分けることもできます。
+
+さらにアンケートを作成すると選択肢ごとの投票数や割合が表示され、メンバー間で場所や日程などを決める際にも利用できます。
+
+Harmonyの特徴が既存のDiscordサーバーと接続する「Discord Bridge」で、両サービスのテキストチャンネルを1対1で対応付けられます。
+
+設定画面で「Discord ブリッジ」を開くとインスタンス側のBotを使う方法や独自Botを使う方法から運用方式を選択できます。
+
+Discordサーバーと接続した後に両サービスのチャンネルを選び、同期方向を「双方向」にするとメッセージを双方向に中継できます。
+
+Discordから送信したメッセージは投稿者の名前やアイコンとともにHarmonyへ表示され、Discordから来たことを示すバッジも付きます。
+
+Harmonyで送信したメッセージもDiscordへ届くため、メンバーが異なるサービスから同じ会話に参加できます。
+
+メッセージの編集・削除やリアクション、スレッドにも対応し、それぞれの同期は設定画面で切り替えられます。
+
+なお音声・動画の通話はブリッジの対象外で、停止していた間の投稿も後から自動取得できません。
+
+音声チャンネルをクリックすると通話に参加でき、マイクのほかカメラや画面共有も利用できます。
+
+通話画面の「空間オーディオ」を有効にすると参加者が平面上に配置され、相手のアイコンを近づけるほど声が大きく、遠ざけるほど小さく聞こえます。
+
+ほかにも通話中に効果音を再生する「Soundboard」やリアクション機能を備えています。
+
+Harmonyは「 ActivityPub 」という分散型SNSの通信規格にも対応し、異なる運営者のHarmonyインスタンス同士で交流できます。
+
+このほかロールによる権限管理・迷惑投稿を制限する「AutoMod」・Bot用API・Webhook・独自絵文字・二要素認証なども備えています。
+
+アカウント登録フォームの「Email」にメールアドレス、「Password」にパスワードを入力して「Create account」をクリック。
+
+登録したメールアドレスに送信されたメール内の承認用リンクをクリック。
+
+プロフィール設定フォームの「表示名」に任意の表示名を、「ユーザー名」にユーザー名を記入して「続ける」をクリック。
+
+チャットの初期画面が表示されれば利用可能な状態です。
+
+アプリ作成フォームの「名前」に名前を入力し、「規約と開発者ポリシー」にチェックをして「作成」をクリック。
+
+アプリの管理画面になったらサイドメニューの「Bot」をクリック。
+
+「Message Content Intent」と「Server Members Intent」を有効化し「変更を保存」をクリック。
+
+トークンを取得するため「トークンをリセット」をクリック。
+
+リセットするか質問されるので「実行します！」をクリック。
+
+トークンが作成されるのでメモしておきます。
+
+次にHarmony側のBotを作成するためHarmony側で自分が作成したサーバーのメニューから「サーバー設定」をクリック。
+
+サーバー設定のサイドメニューから「Discordブリッジ」をクリックし「ブリッジをどこで動かしますか？」の選択画面で「自分で動かす」をクリック。
+
+「Discordボットを作成」手順の説明画面が表示されるので「トークンを用意しました」をクリック。
+
+「ブリッジを起動」手順の説明画面が表示されるので「Docker Compose」をクリックして内容をコピーします。
+
+作業フォルダーで「docker-compose.yml」ファイルを作成しコピーした内容をペーストして保存後、コンテナを起動。
+
+vi docker-compose.yml
+
+コンテナが起動したらHarmony側の画面に戻り「ボットをDiscordサーバーに招待」をクリック。
+
+Discordが起動し「サーバーに追加」から同期したいサーバーを選択して「続行」をクリック。
+
+権限の認証画面になるので「認証」をクリック。
+
+Harmony側の画面に戻り「チャンネルをペアにする」で「Harmonyのチャンネル」と「Discord」のチャンネルを選択し「ペアを追加」をクリックして同期したいチャンネルを追加してから「次へ」をクリック。
+
+同期する内容を選択して「設定を完了」をクリック。
+
+Harmony側のチャット画面に戻り同期したチャンネルで文章を送信。
+
+Discord側のチャンネルにもメッセージが届いていることが確認できればDiscordブリッジの構築は完了です。
+
+Android向けには APK が公開されているほか、iPhoneやiPadではSafariからWebアプリとしてホーム画面に 追加 して利用できます。
+
+ソーシャル系ニュースサイトの Hacker News ではHarmonyについて 議論 が行われており、2600人規模のDiscordサーバーを管理するユーザーからDiscordブリッジについて「とてもよく考えられた機能」という 評価 がある一方、「バグや信頼性の低下が予想される」という 懐疑的な意見 も投稿されています。
+
+You can read the machine translated English article Harmony is a free platform that allows y… .f:["$","section",null,{"className":"article-actions","children":[["$","$L20",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/1daf98df1daf98dfe98ed26f","title":"無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能","locale":"ja","take":null}],["$","$L21",null,{"title":"無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能","excerpt":"$22","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/1daf98df1daf98dfe98ed26f","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E7%84%A1%E6%96%99%E3%81%A7Discord%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%83%BB%E9%9F%B3%E5%A3%B0%E3%83%BB%E5%8B%95%E7%94%BB%E3%83%BB%E3%83%9C%E3%83%83%E3%83%88%E3%81%AA%E3%81%A9%E3%82%92%E9%A7%86%E4%BD%BF%E3%81%97%E3%81%9F%E5%B0%8F%E3%81%95%E3%81%AA%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%82%92%E8%87%AA%E5%88%86%E3%81%9F&mode=phrase&url=gigazine.net&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+10:["$","$L23",null,{"placement":"article","className":"mt-8"}]
+11:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+12:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","yahoo-domestic:https://news.yahoo.co.jp/articles/cded0a44b41166345d7da861010d88d08d1dcd6b?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/64393dd564393dd55ebd857d","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"「宇都宮餃子祭り」8日まで開催(ABEMA TIMES)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/901eb592e8e6586c11708c364e87ed983c2b87f2?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/0d2aecae0d2aecae77647af4","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"【選手権予選】昨年度全国準Vの鹿島学園、東山、大津など新たに10校が全国切符を獲得(高校サッカードットコム)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/df932d89dba86d61be4f1bcc89b6b4a0ad961760?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/7cecc7a27cecc7a291989574","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"【競輪】庄子琢心がライバルの特昇阻止に気合「決勝までピン、ピンで行きたい」／奈良ミッド(日刊スポーツ)"}]]}]}]]}]]}]
+13:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+14:["$","$L24",null,{"children":["$","$25",null,{"name":"Next.MetadataOutlet","children":"$@26"}]}]
+17:["$","$1","h",{"children":[null,["$","$L27",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L28",null,{"children":["$","$25",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能"}],["$","meta","1",{"name":"description","content":"友人同士でチャットや音声通話を楽しんだり趣味の仲間と情報を共有したりする際には、Discordのようなコミュニティ向けサービスが便利です。こうした環境を自分たちで運営しながら既存のDiscordサーバーとも交流を続けられるようにしたのが、チャット・音声・動画・画面共有・ボットなどの機能を備えた無料のオープンソースソフトウェア「 Harmony 」です。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能"}],["$","meta","4",{"property":"og:description","content":"友人同士でチャットや音声通話を楽しんだり趣味の仲間と情報を共有したりする際には、Discordのようなコミュニティ向けサービスが便利です。こうした環境を自分たちで運営しながら既存のDiscordサーバーとも交流を続けられるようにしたのが、チャット・音声・動画・画面共有・ボットなどの機能を備えた無料のオープンソースソフトウェア「 Harmony 」です。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/1daf98df1daf98dfe98ed26f/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能"}],["$","meta","14",{"name":"twitter:description","content":"友人同士でチャットや音声通話を楽しんだり趣味の仲間と情報を共有したりする際には、Discordのようなコミュニティ向けサービスが便利です。こうした環境を自分たちで運営しながら既存のDiscordサーバーとも交流を続けられるようにしたのが、チャット・音声・動画・画面共有・ボットなどの機能を備えた無料のオープンソースソフトウェア「 Harmony 」です。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L29","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+19:["$","$1","c",{"children":[null,["$","$L2a",null,{"parallelRouterKey":"children","template":["$","$L2b",null,{}]}]]}]
+1c:["$","$1","c",{"children":[null,["$","$L2a",null,{"parallelRouterKey":"children","template":["$","$L2b",null,{}]}]]}]
+1f:true
+26:null
+16:300
+16:C
+1e:0
+18:"$undefined"
+1a:"$undefined"
+1d:"$undefined"
+15:"$undefined"

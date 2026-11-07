@@ -1,0 +1,154 @@
+1:"$Sreact.fragment"
+2:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+4:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"LoadingBoundaryProvider"]
+7:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+f:I[68027,[],"default",1]
+:HL["/kasawa-news/_next/static/chunks/05wjkgi4s2ouj.css","style"]
+:HL["/kasawa-news/_next/static/chunks/13j-0ia4l16p6.css","style"]
+:HL["/kasawa-news/_next/static/media/ad9c66e761fed85a-s.p.0fhiaplbf_4wa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+a:X
+0:{"P":null,"c":["","ja","n","975d67d7975d67d73cacbde7",""],"q":"","i":false,"f":[[["",{"children":[["locale","ja","d",["go"]],{"children":["n",{"children":[["id","975d67d7975d67d73cacbde7","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4612]},"$undefined","$undefined",4632],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/05wjkgi4s2ouj.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/13j-0ia4l16p6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ja","suppressHydrationWarning":true,"className":"noto_sans_jp_ce83c864-module__rNYPaW__variable h-full antialiased","children":[["$","head",null,{"children":["$","script",null,{"async":true,"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9222859203841922","crossOrigin":"anonymous"}]}],["$","body",null,{"className":"site-body min-h-full bg-paper text-ink","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":[["$","$L4",null,{"loading":[["$","div","l",{"className":"py-16","children":[["$","div",null,{"className":"h-3 w-24 bg-ink/10"}],["$","div",null,{"className":"mt-4 h-16 w-4/5 bg-ink/10"}],["$","div",null,{"className":"mt-6 h-4 w-full bg-ink/10"}],["$","div",null,{"className":"mt-2 h-4 w-2/3 bg-ink/10"}],["$","div",null,{"className":"mt-12 space-y-6","children":[["$","div",null,{"className":"h-10 bg-ink/10"}],["$","div",null,{"className":"h-10 bg-ink/10"}],["$","div",null,{"className":"h-10 w-5/6 bg-ink/10"}]]}]]}],[],null],"children":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","async":true,"nonce":"$undefined"}]],"$L5"]}]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$a"]},null,false,"$a"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/05wjkgi4s2ouj.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/13j-0ia4l16p6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"v4pnrtun7pn_skbrgOFJo"}
+10:I[50155,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js"],"HtmlLang"]
+11:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+12:I[86168,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js"],"LanguageSwitch"]
+a:C
+5:["$","div",null,{"className":"flex min-h-full flex-col","children":[["$","$L10",null,{"locale":"ja"}],["$","header",null,{"className":"desk-hero","children":["$","div",null,{"className":"site-shell mx-auto flex w-full max-w-6xl flex-col gap-4 px-4 py-6 sm:px-6 sm:py-7","children":[["$","div",null,{"className":"flex min-w-0 items-start gap-3","children":[["$","span",null,{"className":"brand-mark mt-1 shrink-0","aria-hidden":true,"children":"NC"}],["$","div",null,{"className":"min-w-0","children":[["$","p",null,{"className":"text-[10px] font-bold tracking-[0.2em] text-muted uppercase sm:text-[11px] sm:tracking-[0.24em]","children":"NYANCHU NEWS"}],["$","$L11",null,{"href":"/ja","className":"font-display mt-1 block text-[clamp(1.65rem,8vw,3.2rem)] leading-[1.05] tracking-[-0.03em] hover:opacity-90","children":[["$","span",null,{"className":"text-accent","children":"BREAKING"}]," ",["$","span",null,{"className":"text-ink","children":"NyanChu"}]]}],["$","p",null,{"className":"mt-1 font-sans text-[11px] tracking-[0.14em] text-muted sm:text-[12px] sm:tracking-[0.16em]","children":"ニャンチュ"}]]}]]}],["$","nav",null,{"className":"header-nav","aria-label":"サイト","children":[["$","$L12",null,{"locale":"ja"}],["$","a",null,{"href":"/kasawa-news/search.html","className":"header-nav-link","children":"NyanChu検索する"}],["$","$L11",null,{"href":"/ja/election","className":"header-nav-link","children":"選挙"}],["$","$L11",null,{"href":"/ja/travel","className":"header-nav-link","children":"旅ガイド"}],["$","a",null,{"href":"/kasawa-news/phrasebook.html","className":"header-nav-link","children":"旅の日本語"}],["$","$L11",null,{"href":"/ja/book","className":"header-nav-link","children":"本"}],["$","$L11",null,{"href":"/ja/members/x","className":"header-nav-link","children":"会員"}]]}],["$","p",null,{"className":"max-w-2xl text-[13px] leading-6 text-muted sm:text-[14px]","children":["日付ごとに保存。最新は先頭。ジャンルチップから各日のフィードへ。"," ","2026-11-07 19:34"," ","更新"]}]]}]}],["$","div",null,{"className":"site-shell mx-auto w-full max-w-6xl flex-1 px-4 sm:px-6","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"py-24 text-center","children":[["$","p",null,{"className":"font-display text-5xl tracking-[-0.04em]","children":"404"}],["$","p",null,{"className":"mt-4 text-muted","children":"Page not found. / ページが見つかりません。"}],["$","$L11",null,{"href":"/ja","className":"mt-8 inline-block font-sans text-[12px] tracking-[0.18em] uppercase text-accent","children":"NyanChu"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","div",null,{"className":"site-shell mx-auto w-full max-w-6xl px-4 sm:px-6","children":["$","footer",null,{"className":"mt-16 border-t border-line pt-8 pb-12 text-[13px] leading-6 text-muted","children":[["$","div",null,{"className":"flex flex-wrap items-start justify-between gap-6","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-lg tracking-wide text-ink","children":"NyanChu"}],["$","p",null,{"className":"mt-2 max-w-xl","children":"見出しから、記事の本文へ。"}]]}],["$","nav",null,{"className":"flex flex-wrap gap-x-5 gap-y-2 font-sans text-[12px] tracking-[0.14em] uppercase","children":[["$","$L11",null,{"href":"/ja","className":"hover:text-accent","children":"トップ"}],["$","$L11",null,{"href":"/ja/travel","className":"hover:text-accent","children":"旅ガイド"}],["$","a",null,{"href":"/kasawa-news/phrasebook.html","className":"hover:text-accent","children":"旅の日本語"}],["$","$L11",null,{"href":"/ja/book","className":"hover:text-accent","children":"本"}],["$","$L11",null,{"href":"/ja/members/x","className":"hover:text-accent","children":"会員"}],["$","a",null,{"href":"/kasawa-news/search.html","className":"hover:text-accent","children":"NyanChu検索する"}]]}]]}],["$","p",null,{"className":"mt-6 max-w-3xl","children":"配信に含まれる本文を記事ページに出しています。見出しだけの配信は、発行元ページの要点を表示します。有料記事は入れていません。著作権は各社にあります。"}],["$","p",null,{"className":"mt-4","children":["配信元",": ","BBC日本語 · BBC · NPR · The Guardian · Al Jazeera · Deutsche Welle · France 24 · ABC Australia · CBC · CNA · Euronews · UN News · ITmedia · Gigazine · CNET Japan · マイナビニュース · Yahoo!ニュース · ライブドアニュース · NHKニュース"]}],["$","p",null,{"className":"mt-1","children":["30分ごとに取り込み",["$","span",null,{"className":"mx-2 text-ink/30","children":"/"}],"表は24時間以内"]}]]}]}]]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]
+32:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00010000-nknatiogeo-000-1-view.jpg?pri=l&w=450&h=253&exp=10800","image"]
+6:["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L11",null,{"href":"/ja/d/2026-11-04","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"冥王星を外した「惑星の定義」、実は太陽系の外で通用しない 月か惑星か天文学者が迷う天体も(ナショナル ジオグラフィック日本版)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"3 日前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00010000-nknatiogeo-000-1-view.jpg?pri=l&w=450&h=253&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"ある星を思い浮かべてほしい。質量は太陽の半分ほどで、ぼんやりと赤い光を放っている恒星だ。その周囲を5000年周期でゆっくりと回っている巨大な天体は褐色矮星と呼ばれており、惑星よりもはるかに重いが、恒星と呼べるほどの質量はない。その褐色矮星の周囲を木星に匹敵する質量の、ガスでできた天体が171日周期で公転している。"}],["$","p","1",{"children":"問題は、この天体を何と呼ぶかだ。衛星か、惑星か。それともまったく別の何かだろうか？"}],["$","p","2",{"children":"その答えは、天文学者たちにもはっきりとはわからなかった。種明かしをすると、この天体たちは「CD-35 2722」と名付けられた恒星を中心とする実際にある星系で、詳しい報告は7月22日付で学術誌「ネイチャー」に発表された。"}],["$","p","3",{"children":"実は今から20年前、「惑星」という言葉を初めて定義する投票を行った国際天文学連合（IAU）の研究者らも、同様の問題に直面した。"}],["$","p","4",{"children":"その前年、太陽系の外縁部で、冥王星よりも質量の大きな氷の天体が発見されていた。天文学者らは、子どもたちが学校で覚える天体を増やすのではなく、冥王星を準惑星に格下げすることを選択した。"}],["$","p","5",{"children":"その後の年月の間に、この問題はますます厄介になっている。「CD-35 2722」の周囲の三層構造のような、風変わりな例が次々と見つかっているからだ。"}],["$","p","6",{"children":"「あらゆる分野において、科学者たちは自身の研究に必要な用語を定義してきました」と、米カリフォルニア大学ロサンゼルス校の天文学者、ジャン・リュック・マーゴット氏は言う。"}],["$","p","7",{"children":"「三角形とは何か、ウイルスとは何かを、われわれは知っています。天文学者が『惑星』という言葉の厳密な定義に至っていないという事実には、いつも新鮮な驚きを覚えます」"}],["$","p","8",{"children":"ある星を思い浮かべてほしい。質量は太陽の半分ほどで、ぼんやりと赤い光を放っている恒星だ。その周囲を5000年周期でゆっくりと回っている巨大な天体は褐色矮星と呼ばれており、惑星よりもはるかに重いが、恒星と呼べるほどの質量はない。その褐色矮星の周囲を木星に匹敵する質量の、ガスでできた天体が171日周期で公転している。"}],["$","p","9",{"children":"問題は、この天体を何と呼ぶかだ。衛星か、惑星か。それともまったく別の何かだろうか？"}],["$","p","10",{"children":"その答えは、天文学者たちにもはっきりとはわからなかった。種明かしをすると、この天体たちは「CD-35 2722」と名付けられた恒星を中心とする実際にある星系で、詳しい報告は7月22日付で学術誌「ネイチャー」に発表された。"}],["$","p","11",{"children":"実は今から20年前、「惑星」という言葉を初めて定義する投票を行った国際天文学連合（IAU）の研究者らも、同様の問題に直面した。"}],["$","p","12",{"children":"その前年、太陽系の外縁部で、冥王星よりも質量の大きな氷の天体が発見されていた。天文学者らは、子どもたちが学校で覚える天体を増やすのではなく、冥王星を準惑星に格下げすることを選択した。"}],["$","p","13",{"children":"その後の年月の間に、この問題はますます厄介になっている。「CD-35 2722」の周囲の三層構造のような、風変わりな例が次々と見つかっているからだ。"}],["$","p","14",{"children":"「あらゆる分野において、科学者たちは自身の研究に必要な用語を定義してきました」と、米カリフォルニア大学ロサンゼルス校の天文学者、ジャン・リュック・マーゴット氏は言う。"}],["$","p","15",{"children":"「三角形とは何か、ウイルスとは何かを、われわれは知っています。天文学者が『惑星』という言葉の厳密な定義に至っていないという事実には、いつも新鮮な驚きを覚えます」"}],["$","p","16",{"children":"現代の「プラネット（planet、惑星）」という言葉は、古代ギリシャ語で「さまようものたち」を意味する「プラネテス（planētēs）」に由来する。"}],["$","p","17",{"children":"1600年代初頭に望遠鏡が発明されると、この「さまようものたち」が、実のところ地球と同じように太陽の周りを公転する天体であることを支持する観測結果が得られるようになった。望遠鏡は新しい惑星の発見にもつながり、1781年には天王星、1846年には海王星が発見された。"}],["$","p","18",{"children":"1930年には、米国の天文学者クライド・トンボーによって冥王星が発見された。その後70年あまりにわたり、教科書には「太陽系には9つの惑星がある」と書かれていた。"}],["$","p","19",{"children":"しかし2000年前後になると、天文学者らは冥王星にはたくさんの仲間がいることを認識するようになった。カイパーベルトと呼ばれる冥王星の周辺領域には、太陽を公転する何千もの凍った天体が存在していたのだ。"}],["$","p","20",{"children":"2005年、ある天文学者のチームが、冥王星のはるか遠方に観測機器を向け、直径は冥王星よりわずかに小さいが、質量は約25％大きい氷の天体を発見した。冥王星が準惑星に格下げされた翌月に、この天体は争いと不和の女神にちなんで「エリス」と名づけられた。"}],["$","p","21",{"children":"天文学界はジレンマに直面した。エリスを惑星に分類すべきなのだろうか。もしそうした場合、カイパーベルトにあるほかの極寒の天体はどうなるのか。どの天体を惑星と呼び、どの天体を惑星と呼ばないかの基準はどこにあるのだろうか。"}],["$","p","22",{"children":"この問題に一定の基準を設けるべく、IAUはチェコ、プラハで開かれた第26回総会において、次のような基準によって惑星を定義するという決議案を提示した。"}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b"],"$L2c"]}],"$L2d","$L2e","$L2f",null,"$L30","$L31"]}]
+9:null
+e:[["$","title","0",{"children":"冥王星を外した「惑星の定義」、実は太陽系の外で通用しない 月か惑星か天文学者が迷う天体も(ナショナル ジオグラフィック日本版)"}],["$","meta","1",{"name":"description","content":"ある星を思い浮かべてほしい。質量は太陽の半分ほどで、ぼんやりと赤い光を放っている恒星だ。その周囲を5000年周期でゆっくりと回っている巨大な天体は褐色矮星と呼ばれており、惑星よりもはるかに重いが、恒星と呼べるほどの質量はない。その褐色矮星の周囲を木星に匹敵する質量の、ガスでできた天体が171日周期で公転している。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"冥王星を外した「惑星の定義」、実は太陽系の外で通用しない 月か惑星か天文学者が迷う天体も(ナショナル ジオグラフィック日本版)"}],["$","meta","4",{"property":"og:description","content":"ある星を思い浮かべてほしい。質量は太陽の半分ほどで、ぼんやりと赤い光を放っている恒星だ。その周囲を5000年周期でゆっくりと回っている巨大な天体は褐色矮星と呼ばれており、惑星よりもはるかに重いが、恒星と呼べるほどの質量はない。その褐色矮星の周囲を木星に匹敵する質量の、ガスでできた天体が171日周期で公転している。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/975d67d7975d67d73cacbde7/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261104-00010000-nknatiogeo-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"冥王星を外した「惑星の定義」、実は太陽系の外で通用しない 月か惑星か天文学者が迷う天体も(ナショナル ジオグラフィック日本版)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"冥王星を外した「惑星の定義」、実は太陽系の外で通用しない 月か惑星か天文学者が迷う天体も(ナショナル ジオグラフィック日本版)"}],["$","meta","14",{"name":"twitter:description","content":"ある星を思い浮かべてほしい。質量は太陽の半分ほどで、ぼんやりと赤い光を放っている恒星だ。その周囲を5000年周期でゆっくりと回っている巨大な天体は褐色矮星と呼ばれており、惑星よりもはるかに重いが、恒星と呼べるほどの質量はない。その褐色矮星の周囲を木星に匹敵する質量の、ガスでできた天体が171日周期で公転している。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261104-00010000-nknatiogeo-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L32","18",{}]]
+33:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+34:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+37:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+13:["$","p","23",{"children":"すなわち、太陽の周りを公転していること、ほぼ球形であること、そして、ある程度の大きさがあり、それ自体の重力によって小惑星や類似の岩石片など、公転軌道付近にあるほかの天体を排除していることだ。"}]
+14:["$","p","24",{"children":"この決議案は可決され、あわせて冥王星やそれに類する天体は「準惑星」に分類された。"}]
+15:["$","p","25",{"children":"この決定は、世間からの激しい反発を招いた。プラネタリウムには子どもたちから怒りの手紙が届いた。そして一部の研究者も、かつて太陽の第9の惑星だったこの天体に、今日に至るまで特別な思いを抱き続けている。"}]
+16:["$","p","26",{"children":"「学校では、惑星は9つあり、9つ目が冥王星だと習います」と、投票当時、大学生だったチリ、ディエゴ・ポルタレス大学の天体物理学者アリス・ズルロ氏は述べている。結果は受け入れているものの、「いまだに残念です。わたしにとって、冥王星はいつまでも惑星なのです」"}]
+17:["$","p","27",{"children":"この定義には、さらに深刻な問題もあった。そのひとつが、太陽を基準としたため、これまでにほかの恒星の周囲で見つかった約6000個の天体が除外されてしまうことだ。"}]
+18:["$","p","28",{"children":"2018年、IAUは、太陽系外惑星について別の暫定的な定義を採択した。この定義によると、系外惑星は恒星、褐色矮星、あるいは白色矮星のような恒星の残骸の周りを公転していなければならない。また、質量は木星の13倍未満、かつ、公転する中心天体の25分の1以下でなければならない。そして最後に、惑星と同じく、付近にある天体を排除するのに十分な重力の影響力を持っていなければならない。"}]
+19:["$","p","29",{"children":"惑星と系外惑星の定義をめぐっては、今も天文学者による議論が続いている。木星13個分の質量という上限は硬直的すぎるという者もいれば、最後の条件は曖昧だという者もいる。"}]
+1a:["$","p","30",{"children":"「地球や木星でさえ、その軌道からほかの天体を排除してはいません」と、NASAゴダード宇宙飛行センターの惑星科学者ラビ・クマール・コッパラプ氏は言う。実際、両惑星の軌道上や付近では小惑星群が見つかっている。"}]
+1b:["$","p","31",{"children":"また天文台では、こうした定義に当てはまらない奇妙な現象も検出されている。"}]
+1c:["$","p","32",{"children":"たとえば「自由浮遊惑星」は、恒星の周囲を公転せず、宇宙をさまよっている天体だ。一方、「木星質量連星天体（JuMBO）」は、互いの周りを公転する一対の巨大天体であり、最小の褐色矮星に当たる可能性がある。これらの天体は、果たして惑星と言えるだろうか。"}]
+1d:["$","p","33",{"children":"天文学界全体としての明確な答えは、まだ定まっていない。ディエゴ・ポルタレス大学の博士課程学生ケビン・マイケル・オイ氏は言う。「さらなる惑星が発見されるほど、境界はますます曖昧になっていきます」"}]
+1e:["$","p","34",{"children":"この混乱のさなかに登場したのが、赤い恒星「CD-35 2722」だ。はと座の方向、73光年先に位置するこの恒星は、その周囲をめぐる褐色矮星をともなっていることが2011年に判明した。軌道周期が非常に長いことから、褐色矮星と恒星との距離は、ときに地球と太陽の距離の数百倍になることもある。"}]
+1f:["$","p","35",{"children":"2023年以降、ズルロ氏やオイ氏をはじめとする共同研究チームは、チリにある超大型望遠鏡（VLT）をこの褐色矮星に向け、数年にわたって観測を続けた。"}]
+20:["$","p","36",{"children":"やがて観測結果から、この天体が一定の周期で規則的にふらついていることがわかってきた。これは、褐色矮星がより小さな天体の重力に引っ張られている証拠だ。「最初は信じられませんでした」とズルロ氏は言う。"}]
+21:["$","p","37",{"children":"しかし、より多くのデータが集まるにつれて兆候は明確になり、それは木星ほどの天体が実際に褐色矮星の周囲を巡っていることを示唆していた。"}]
+22:["$","p","38",{"children":"ここで研究チームは、この新たな天体を何と呼ぶべきか決めなくてはならなくなった。まず候補に上がったのは、「exoplanet（系外惑星）」によく似た「エクソムーン（exomoon、moonは月）」という呼び方だ。しかし、チーム内での話し合いや、木星ほどの質量の天体を月と呼ぶことに難色を示す同僚たちからの反発を受けて、結局は「エクソサテライト（exosatellite、satelliteは衛星）」という呼称に落ち着いた。"}]
+23:["$","p","39",{"children":"「これを月と呼んだら怒る人たちとトラブルにならないよう、曖昧な言葉にしたんです」と、同チームによる論文の筆頭著者であるオイ氏は言う。「それに、これを惑星と呼んだら怒る人たちの反感も買わずに済みます」"}]
+24:["$","p","40",{"children":"とはいえ、この名称はオイ氏自身も、恒星の周りを回る褐色矮星のさらに周りを回る巨大な天体を何と呼ぶべきかについて、天文学界の見解が定まるまでの暫定的なものになるのではないかと考えている。"}]
+25:["$","p","41",{"children":"何を惑星、あるいは系外惑星とみなすのかという問題は、いまも未解決のままだ。マーゴット氏は、ある天体が十分な重力を持ち、その軌道上からほかの天体を排除するというのは具体的にどういう意味なのかを明確にすることによって、この問題の答えを見つけようとしている。"}]
+26:["$","p","42",{"children":"2024年7月、マーゴット氏は2人の共著者とともに、天体の質量と中心天体の質量、中心からの距離を用いて、この要素を定量化する従来の方法を褐色矮星の周りを回る天体にも当てはまるように拡張する論文を学術誌「The Planetary Science Journal」に発表した。最後の塵一粒までを天体の軌道から完全に排除することを条件とするのではなく、十分な時間があれば、競合する天体を排除できるほどの重力を持つ天体かどうかを判別するのだ。"}]
+27:["$","p","43",{"children":"この計算方法を太陽系の天体に適用した場合、水星や木星などの天体と、冥王星やエリスなどの天体との間に明確な違いが示され、惑星と、惑星とは言い難い天体とを定量的に分類できる。"}]
+28:["$","p","44",{"children":"論文の時点で確認されていた系外惑星（質量が木星の13倍以下）は、すべてこの基準を満たした（マーゴット氏によれば、CD-35 2722のエクソサテライトも同様だ）。一方、自由浮遊惑星や木星質量連星天体（JuMBO）は、恒星、褐色矮星、恒星の残骸のいずれの周りも公転していないため、惑星には該当しない。"}]
+29:["$","p","45",{"children":"マーゴット氏らは、2024年に南アフリカのケープタウンで開催された直近のIAU総会において、自分たちの定義を採択することを提案したが、IAU側はこれを取り上げなかった。その理由は、冥王星をめぐって「パンドラの箱」を開けてしまった記憶のせいなのかもしれない。"}]
+2a:["$","p","46",{"children":"科学は、「これはこれ」「あれはあれ」という分類に基づいて成り立っている。おそらくはそれこそが、この問題が激しい議論を呼び起こし、いまだに決着がついていない理由なのだろう。"}]
+2b:["$","p","47",{"children":"天文学者が何か新しいものを見つけるたび、天文学者自身も、一般の人々も、最初に尋ねることの一つは「それは惑星なのか」ということだと、マーゴット氏は言う。「満足のいく定義がなければ、その問いに答えることはできません」"}]
+2c:["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]
+2d:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/bd56289b60c54271bd214f9980495c2fa779a4c9?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}]
+35:T36d6,ある星を思い浮かべてほしい。質量は太陽の半分ほどで、ぼんやりと赤い光を放っている恒星だ。その周囲を5000年周期でゆっくりと回っている巨大な天体は褐色矮星と呼ばれており、惑星よりもはるかに重いが、恒星と呼べるほどの質量はない。その褐色矮星の周囲を木星に匹敵する質量の、ガスでできた天体が171日周期で公転している。
+
+問題は、この天体を何と呼ぶかだ。衛星か、惑星か。それともまったく別の何かだろうか？
+
+その答えは、天文学者たちにもはっきりとはわからなかった。種明かしをすると、この天体たちは「CD-35 2722」と名付けられた恒星を中心とする実際にある星系で、詳しい報告は7月22日付で学術誌「ネイチャー」に発表された。
+
+実は今から20年前、「惑星」という言葉を初めて定義する投票を行った国際天文学連合（IAU）の研究者らも、同様の問題に直面した。
+
+その前年、太陽系の外縁部で、冥王星よりも質量の大きな氷の天体が発見されていた。天文学者らは、子どもたちが学校で覚える天体を増やすのではなく、冥王星を準惑星に格下げすることを選択した。
+
+その後の年月の間に、この問題はますます厄介になっている。「CD-35 2722」の周囲の三層構造のような、風変わりな例が次々と見つかっているからだ。
+
+「あらゆる分野において、科学者たちは自身の研究に必要な用語を定義してきました」と、米カリフォルニア大学ロサンゼルス校の天文学者、ジャン・リュック・マーゴット氏は言う。
+
+「三角形とは何か、ウイルスとは何かを、われわれは知っています。天文学者が『惑星』という言葉の厳密な定義に至っていないという事実には、いつも新鮮な驚きを覚えます」
+
+ある星を思い浮かべてほしい。質量は太陽の半分ほどで、ぼんやりと赤い光を放っている恒星だ。その周囲を5000年周期でゆっくりと回っている巨大な天体は褐色矮星と呼ばれており、惑星よりもはるかに重いが、恒星と呼べるほどの質量はない。その褐色矮星の周囲を木星に匹敵する質量の、ガスでできた天体が171日周期で公転している。
+
+問題は、この天体を何と呼ぶかだ。衛星か、惑星か。それともまったく別の何かだろうか？
+
+その答えは、天文学者たちにもはっきりとはわからなかった。種明かしをすると、この天体たちは「CD-35 2722」と名付けられた恒星を中心とする実際にある星系で、詳しい報告は7月22日付で学術誌「ネイチャー」に発表された。
+
+実は今から20年前、「惑星」という言葉を初めて定義する投票を行った国際天文学連合（IAU）の研究者らも、同様の問題に直面した。
+
+その前年、太陽系の外縁部で、冥王星よりも質量の大きな氷の天体が発見されていた。天文学者らは、子どもたちが学校で覚える天体を増やすのではなく、冥王星を準惑星に格下げすることを選択した。
+
+その後の年月の間に、この問題はますます厄介になっている。「CD-35 2722」の周囲の三層構造のような、風変わりな例が次々と見つかっているからだ。
+
+「あらゆる分野において、科学者たちは自身の研究に必要な用語を定義してきました」と、米カリフォルニア大学ロサンゼルス校の天文学者、ジャン・リュック・マーゴット氏は言う。
+
+「三角形とは何か、ウイルスとは何かを、われわれは知っています。天文学者が『惑星』という言葉の厳密な定義に至っていないという事実には、いつも新鮮な驚きを覚えます」
+
+現代の「プラネット（planet、惑星）」という言葉は、古代ギリシャ語で「さまようものたち」を意味する「プラネテス（planētēs）」に由来する。
+
+1600年代初頭に望遠鏡が発明されると、この「さまようものたち」が、実のところ地球と同じように太陽の周りを公転する天体であることを支持する観測結果が得られるようになった。望遠鏡は新しい惑星の発見にもつながり、1781年には天王星、1846年には海王星が発見された。
+
+1930年には、米国の天文学者クライド・トンボーによって冥王星が発見された。その後70年あまりにわたり、教科書には「太陽系には9つの惑星がある」と書かれていた。
+
+しかし2000年前後になると、天文学者らは冥王星にはたくさんの仲間がいることを認識するようになった。カイパーベルトと呼ばれる冥王星の周辺領域には、太陽を公転する何千もの凍った天体が存在していたのだ。
+
+2005年、ある天文学者のチームが、冥王星のはるか遠方に観測機器を向け、直径は冥王星よりわずかに小さいが、質量は約25％大きい氷の天体を発見した。冥王星が準惑星に格下げされた翌月に、この天体は争いと不和の女神にちなんで「エリス」と名づけられた。
+
+天文学界はジレンマに直面した。エリスを惑星に分類すべきなのだろうか。もしそうした場合、カイパーベルトにあるほかの極寒の天体はどうなるのか。どの天体を惑星と呼び、どの天体を惑星と呼ばないかの基準はどこにあるのだろうか。
+
+この問題に一定の基準を設けるべく、IAUはチェコ、プラハで開かれた第26回総会において、次のような基準によって惑星を定義するという決議案を提示した。
+
+すなわち、太陽の周りを公転していること、ほぼ球形であること、そして、ある程度の大きさがあり、それ自体の重力によって小惑星や類似の岩石片など、公転軌道付近にあるほかの天体を排除していることだ。
+
+この決議案は可決され、あわせて冥王星やそれに類する天体は「準惑星」に分類された。
+
+この決定は、世間からの激しい反発を招いた。プラネタリウムには子どもたちから怒りの手紙が届いた。そして一部の研究者も、かつて太陽の第9の惑星だったこの天体に、今日に至るまで特別な思いを抱き続けている。
+
+「学校では、惑星は9つあり、9つ目が冥王星だと習います」と、投票当時、大学生だったチリ、ディエゴ・ポルタレス大学の天体物理学者アリス・ズルロ氏は述べている。結果は受け入れているものの、「いまだに残念です。わたしにとって、冥王星はいつまでも惑星なのです」
+
+この定義には、さらに深刻な問題もあった。そのひとつが、太陽を基準としたため、これまでにほかの恒星の周囲で見つかった約6000個の天体が除外されてしまうことだ。
+
+2018年、IAUは、太陽系外惑星について別の暫定的な定義を採択した。この定義によると、系外惑星は恒星、褐色矮星、あるいは白色矮星のような恒星の残骸の周りを公転していなければならない。また、質量は木星の13倍未満、かつ、公転する中心天体の25分の1以下でなければならない。そして最後に、惑星と同じく、付近にある天体を排除するのに十分な重力の影響力を持っていなければならない。
+
+惑星と系外惑星の定義をめぐっては、今も天文学者による議論が続いている。木星13個分の質量という上限は硬直的すぎるという者もいれば、最後の条件は曖昧だという者もいる。
+
+「地球や木星でさえ、その軌道からほかの天体を排除してはいません」と、NASAゴダード宇宙飛行センターの惑星科学者ラビ・クマール・コッパラプ氏は言う。実際、両惑星の軌道上や付近では小惑星群が見つかっている。
+
+また天文台では、こうした定義に当てはまらない奇妙な現象も検出されている。
+
+たとえば「自由浮遊惑星」は、恒星の周囲を公転せず、宇宙をさまよっている天体だ。一方、「木星質量連星天体（JuMBO）」は、互いの周りを公転する一対の巨大天体であり、最小の褐色矮星に当たる可能性がある。これらの天体は、果たして惑星と言えるだろうか。
+
+天文学界全体としての明確な答えは、まだ定まっていない。ディエゴ・ポルタレス大学の博士課程学生ケビン・マイケル・オイ氏は言う。「さらなる惑星が発見されるほど、境界はますます曖昧になっていきます」
+
+この混乱のさなかに登場したのが、赤い恒星「CD-35 2722」だ。はと座の方向、73光年先に位置するこの恒星は、その周囲をめぐる褐色矮星をともなっていることが2011年に判明した。軌道周期が非常に長いことから、褐色矮星と恒星との距離は、ときに地球と太陽の距離の数百倍になることもある。
+
+2023年以降、ズルロ氏やオイ氏をはじめとする共同研究チームは、チリにある超大型望遠鏡（VLT）をこの褐色矮星に向け、数年にわたって観測を続けた。
+
+やがて観測結果から、この天体が一定の周期で規則的にふらついていることがわかってきた。これは、褐色矮星がより小さな天体の重力に引っ張られている証拠だ。「最初は信じられませんでした」とズルロ氏は言う。
+
+しかし、より多くのデータが集まるにつれて兆候は明確になり、それは木星ほどの天体が実際に褐色矮星の周囲を巡っていることを示唆していた。
+
+ここで研究チームは、この新たな天体を何と呼ぶべきか決めなくてはならなくなった。まず候補に上がったのは、「exoplanet（系外惑星）」によく似た「エクソムーン（exomoon、moonは月）」という呼び方だ。しかし、チーム内での話し合いや、木星ほどの質量の天体を月と呼ぶことに難色を示す同僚たちからの反発を受けて、結局は「エクソサテライト（exosatellite、satelliteは衛星）」という呼称に落ち着いた。
+
+「これを月と呼んだら怒る人たちとトラブルにならないよう、曖昧な言葉にしたんです」と、同チームによる論文の筆頭著者であるオイ氏は言う。「それに、これを惑星と呼んだら怒る人たちの反感も買わずに済みます」
+
+とはいえ、この名称はオイ氏自身も、恒星の周りを回る褐色矮星のさらに周りを回る巨大な天体を何と呼ぶべきかについて、天文学界の見解が定まるまでの暫定的なものになるのではないかと考えている。
+
+何を惑星、あるいは系外惑星とみなすのかという問題は、いまも未解決のままだ。マーゴット氏は、ある天体が十分な重力を持ち、その軌道上からほかの天体を排除するというのは具体的にどういう意味なのかを明確にすることによって、この問題の答えを見つけようとしている。
+
+2024年7月、マーゴット氏は2人の共著者とともに、天体の質量と中心天体の質量、中心からの距離を用いて、この要素を定量化する従来の方法を褐色矮星の周りを回る天体にも当てはまるように拡張する論文を学術誌「The Planetary Science Journal」に発表した。最後の塵一粒までを天体の軌道から完全に排除することを条件とするのではなく、十分な時間があれば、競合する天体を排除できるほどの重力を持つ天体かどうかを判別するのだ。
+
+この計算方法を太陽系の天体に適用した場合、水星や木星などの天体と、冥王星やエリスなどの天体との間に明確な違いが示され、惑星と、惑星とは言い難い天体とを定量的に分類できる。
+
+論文の時点で確認されていた系外惑星（質量が木星の13倍以下）は、すべてこの基準を満たした（マーゴット氏によれば、CD-35 2722のエクソサテライトも同様だ）。一方、自由浮遊惑星や木星質量連星天体（JuMBO）は、恒星、褐色矮星、恒星の残骸のいずれの周りも公転していないため、惑星には該当しない。
+
+マーゴット氏らは、2024年に南アフリカのケープタウンで開催された直近のIAU総会において、自分たちの定義を採択することを提案したが、IAU側はこれを取り上げなかった。その理由は、冥王星をめぐって「パンドラの箱」を開けてしまった記憶のせいなのかもしれない。
+
+科学は、「これはこれ」「あれはあれ」という分類に基づいて成り立っている。おそらくはそれこそが、この問題が激しい議論を呼び起こし、いまだに決着がついていない理由なのだろう。
+
+天文学者が何か新しいものを見つけるたび、天文学者自身も、一般の人々も、最初に尋ねることの一つは「それは惑星なのか」ということだと、マーゴット氏は言う。「満足のいく定義がなければ、その問いに答えることはできません」2e:["$","section",null,{"className":"article-actions","children":[["$","$L33",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/975d67d7975d67d73cacbde7","title":"冥王星を外した「惑星の定義」、実は太陽系の外で通用しない 月か惑星か天文学者が迷う天体も(ナショナル ジオグラフィック日本版)","locale":"ja","take":null}],["$","$L34",null,{"title":"冥王星を外した「惑星の定義」、実は太陽系の外で通用しない 月か惑星か天文学者が迷う天体も(ナショナル ジオグラフィック日本版)","excerpt":"$35","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/975d67d7975d67d73cacbde7","locale":"ja"}],"$L36"]}]
+2f:["$","$L37",null,{"placement":"article","className":"mt-8"}]
+30:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L11",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+31:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","guardian-world:https://theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",{"children":["$","$L11",null,{"href":"/ja/n/e2dfa7dae2dfa7da673365a0","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"The Guardian"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"ANC faces anger over poor services as South Africans vote in local elections"}]]}]}],["$","li","bbc-health:https://bbc.co.uk/news/articles/cjly0qpv35p3o",{"children":["$","$L11",null,{"href":"/ja/n/84aa756384aa7563ae81d283","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"'Such terrible waste' as health trust buildings could cost an extra £20m"}]]}]}],["$","li","nhk-world:https://news.web.nhk/newsweb/na/nd-20261104de70619",{"children":["$","$L11",null,{"href":"/ja/n/27b7a7e627b7a7e6c84e1ed4","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"“共和党大敗”受け 専門家「日本は民主側とも太いパイプを」"}]]}]}]]}]]}]
+36:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E5%86%A5%E7%8E%8B%E6%98%9F%E3%82%92%E5%A4%96%E3%81%97%E3%81%9F%E3%80%81%E5%AE%9F%E3%81%AF%E5%A4%AA%E9%99%BD%E7%B3%BB%E3%81%AE%E5%A4%96%E3%81%A7%E9%80%9A%E7%94%A8%E3%81%97%E3%81%AA%E3%81%84+%E6%9C%88%E3%81%8B%E6%83%91%E6%98%9F%E3%81%8B%E5%A4%A9%E6%96%87%E5%AD%A6%E8%80%85%E3%81%8C%E8%BF%B7%E3%81%86%E5%A4%A9%E4%BD%93%E3%82%82&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]

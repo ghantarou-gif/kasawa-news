@@ -1,0 +1,70 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+5:Tbeb,2026年11月3日(火・祝)に公開された映画『 ゴジラ-0.0 (マイナスゼロ)』の国内観客動員数が、11月6日(金)までの4日間で100万人を突破したことがわかりました。アメリカでも、アニメではない実写の外国語映画として最高の初動を記録しています。
+
+映画『ゴジラ-0.0』公式サイト｜大ヒット上映中
+
+国内観客動員数が100万人を突破しました！
+
+来週11月13日(金)からはDolby CINEMA、4DX、MX4Dでの上映も開始されます。
+
+何度でも映画館でお会いしましょう！ #ゴジラマイナスゼロ pic.twitter.com/yUgUXnfX3v
+
+&mdash; 『ゴジラ-0.0』【公式】 (@g_minus_zero) November 7, 2026
+
+『ゴジラ-0.0』は、2023年に公開された『ゴジラ-1.0(マイナスワン)』の直接の続編。『ゴジラ-1.0』は国内興行収入が76億5000万円、全世界興行は1億ドル(約158億円)超の大ヒット作となり、邦画はもちろんアジア映画として初めてアカデミー賞視覚効果賞受賞の快挙を達成しています。
+
+日本映画として初・アカデミー賞視覚効果賞を山崎貴監督の「ゴジラ-1.0」が受賞 - GIGAZINE
+
+そこから3年を経て公開された『ゴジラ-0.0』は、前作の2年後・1949年を舞台に、長野県松本市に巨大生物ギドラが出現したところから始まる物語。本作鑑賞に向けた2分40秒の予習映像が公開されています。
+
+【予習映像】-0.0までの2分40秒 ｜『ゴジラ-0.0』11月3日(火・祝)公開 - YouTube
+
+最終予告編はこんな感じ。前作に引き続き登場する特攻の生き残り・敷島(演：神木隆之介)らのほか、新たに、村上教授(演：田中泯)や気象技官の青山(演：長澤まさみ)らが加わり、日本人はふたたび巨大生物と対峙することになります。
+
+『ゴジラ-0.0』ファイナル予告 - YouTube
+
+なお、国外でも日本と同じ11月3日以降順次公開されています。アメリカでは3254館で公開され、プレビュー上映分も含めた初日興行記録が1350万ドル(約21億4000万円)、オープニング興行収入が3000万ドル(約47億5000万円)規模となる見込みです。この数字は2002年に公開された中国映画『HERO』の1780万ドルを大幅に上回り、実写の外国語映画No.1のものとなります。
+
+Box Office: Godzilla Minus Zero Has $6.7 Million in Previews
+
+「君の名は。」が興行収入100億円突破、アニメ映画としては宮崎駿監督作品以外で初 - GIGAZINE
+
+映画『ゴジラ』新作は山崎貴監督による『ゴジラ-0.0(マイナスゼロ)』
+
+「君の名は。」に続き新海誠監督作品「天気の子」の興行収入が100億円突破
+
+日本映画として初・アカデミー賞視覚効果賞を山崎貴監督の「ゴジラ-1.0」が受賞
+
+You can read the machine translated English article The movie 'Godzilla-0.0' has surpassed 1… .d:X
+12:X
+12:C
+0:{"buildId":"v4pnrtun7pn_skbrgOFJo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-07","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Gigazine"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"映画『ゴジラ-0.0』が公開から4日間で国内観客動員100万人を突破"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"4 時間前"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"2026年11月3日(火・祝)に公開された映画『 ゴジラ-0.0 (マイナスゼロ)』の国内観客動員数が、11月6日(金)までの4日間で100万人を突破したことがわかりました。アメリカでも、アニメではない実写の外国語映画として最高の初動を記録しています。"}],["$","p","1",{"children":"映画『ゴジラ-0.0』公式サイト｜大ヒット上映中"}],["$","p","2",{"children":"国内観客動員数が100万人を突破しました！"}],["$","p","3",{"children":"来週11月13日(金)からはDolby CINEMA、4DX、MX4Dでの上映も開始されます。"}],["$","p","4",{"children":"何度でも映画館でお会いしましょう！ #ゴジラマイナスゼロ pic.twitter.com/yUgUXnfX3v"}],["$","p","5",{"children":"&mdash; 『ゴジラ-0.0』【公式】 (@g_minus_zero) November 7, 2026"}],["$","p","6",{"children":"『ゴジラ-0.0』は、2023年に公開された『ゴジラ-1.0(マイナスワン)』の直接の続編。『ゴジラ-1.0』は国内興行収入が76億5000万円、全世界興行は1億ドル(約158億円)超の大ヒット作となり、邦画はもちろんアジア映画として初めてアカデミー賞視覚効果賞受賞の快挙を達成しています。"}],["$","p","7",{"children":"日本映画として初・アカデミー賞視覚効果賞を山崎貴監督の「ゴジラ-1.0」が受賞 - GIGAZINE"}],["$","p","8",{"children":"そこから3年を経て公開された『ゴジラ-0.0』は、前作の2年後・1949年を舞台に、長野県松本市に巨大生物ギドラが出現したところから始まる物語。本作鑑賞に向けた2分40秒の予習映像が公開されています。"}],["$","p","9",{"children":"【予習映像】-0.0までの2分40秒 ｜『ゴジラ-0.0』11月3日(火・祝)公開 - YouTube"}],["$","p","10",{"children":"最終予告編はこんな感じ。前作に引き続き登場する特攻の生き残り・敷島(演：神木隆之介)らのほか、新たに、村上教授(演：田中泯)や気象技官の青山(演：長澤まさみ)らが加わり、日本人はふたたび巨大生物と対峙することになります。"}],["$","p","11",{"children":"『ゴジラ-0.0』ファイナル予告 - YouTube"}],["$","p","12",{"children":"なお、国外でも日本と同じ11月3日以降順次公開されています。アメリカでは3254館で公開され、プレビュー上映分も含めた初日興行記録が1350万ドル(約21億4000万円)、オープニング興行収入が3000万ドル(約47億5000万円)規模となる見込みです。この数字は2002年に公開された中国映画『HERO』の1780万ドルを大幅に上回り、実写の外国語映画No.1のものとなります。"}],["$","p","13",{"children":"Box Office: Godzilla Minus Zero Has $6.7 Million in Previews"}],["$","p","14",{"children":"「君の名は。」が興行収入100億円突破、アニメ映画としては宮崎駿監督作品以外で初 - GIGAZINE"}],["$","p","15",{"children":"映画『ゴジラ』新作は山崎貴監督による『ゴジラ-0.0(マイナスゼロ)』"}],["$","p","16",{"children":"「君の名は。」に続き新海誠監督作品「天気の子」の興行収入が100億円突破"}],["$","p","17",{"children":"日本映画として初・アカデミー賞視覚効果賞を山崎貴監督の「ゴジラ-1.0」が受賞"}],["$","p","18",{"children":"You can read the machine translated English article The movie 'Godzilla-0.0' has surpassed 1… ."}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はGigazineにあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://gigazine.net/news/20261107-godzilla-1million-domestic-audience/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はGigazineで読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/88d671e188d671e19f95ec65","title":"映画『ゴジラ-0.0』が公開から4日間で国内観客動員100万人を突破","locale":"ja","take":null}],["$","$L4",null,{"title":"映画『ゴジラ-0.0』が公開から4日間で国内観客動員100万人を突破","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/88d671e188d671e19f95ec65","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E6%98%A0%E7%94%BB%E3%81%8C%E5%85%AC%E9%96%8B%E3%81%8B%E3%82%894%E6%97%A5%E9%96%93%E3%81%A7%E5%9B%BD%E5%86%85%E8%A6%B3%E5%AE%A2%E5%8B%95%E5%93%A1100%E4%B8%87%E4%BA%BA%E3%82%92%E7%AA%81%E7%A0%B4&mode=phrase&url=gigazine.net&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","yahoo-domestic:https://news.yahoo.co.jp/articles/cded0a44b41166345d7da861010d88d08d1dcd6b?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/64393dd564393dd55ebd857d","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"「宇都宮餃子祭り」8日まで開催(ABEMA TIMES)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/901eb592e8e6586c11708c364e87ed983c2b87f2?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/0d2aecae0d2aecae77647af4","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"【選手権予選】昨年度全国準Vの鹿島学園、東山、大津など新たに10校が全国切符を獲得(高校サッカードットコム)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/df932d89dba86d61be4f1bcc89b6b4a0ad961760?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/7cecc7a27cecc7a291989574","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"【競輪】庄子琢心がライバルの特昇阻止に気合「決勝までピン、ピンで行きたい」／奈良ミッド(日刊スポーツ)"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"映画『ゴジラ-0.0』が公開から4日間で国内観客動員100万人を突破"}],["$","meta","1",{"name":"description","content":"2026年11月3日(火・祝)に公開された映画『 ゴジラ-0.0 (マイナスゼロ)』の国内観客動員数が、11月6日(金)までの4日間で100万人を突破したことがわかりました。アメリカでも、アニメではない実写の外国語映画として最高の初動を記録しています。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"映画『ゴジラ-0.0』が公開から4日間で国内観客動員100万人を突破"}],["$","meta","4",{"property":"og:description","content":"2026年11月3日(火・祝)に公開された映画『 ゴジラ-0.0 (マイナスゼロ)』の国内観客動員数が、11月6日(金)までの4日間で100万人を突破したことがわかりました。アメリカでも、アニメではない実写の外国語映画として最高の初動を記録しています。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/88d671e188d671e19f95ec65/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"映画『ゴジラ-0.0』が公開から4日間で国内観客動員100万人を突破"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"映画『ゴジラ-0.0』が公開から4日間で国内観客動員100万人を突破"}],["$","meta","14",{"name":"twitter:description","content":"2026年11月3日(火・祝)に公開された映画『 ゴジラ-0.0 (マイナスゼロ)』の国内観客動員数が、11月6日(金)までの4日間で100万人を突破したことがわかりました。アメリカでも、アニメではない実写の外国語映画として最高の初動を記録しています。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

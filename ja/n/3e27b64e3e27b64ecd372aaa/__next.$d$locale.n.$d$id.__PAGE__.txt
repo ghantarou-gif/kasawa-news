@@ -1,0 +1,285 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+48:X
+4d:X
+4d:C
+0:{"buildId":"v4pnrtun7pn_skbrgOFJo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-06","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Gigazine"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"2026年11月6日のヘッドラインニュース"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"「ガリガリ君」で知られる赤城乳業が、2006年に誕生した「ガリ子ちゃん」の生誕20周年を記念して、9年ぶりとなる新作「 ガリ子ちゃんセレブレーション ダブルモンブラン 」を発売します。"}],["$","p","1",{"children":"「ガリ子ちゃんセレブレーション ダブルモンブラン」は、濃厚なミルクアイスにマロンダイスあんとマロンソースを組み合わせた「ダブルモンブラン仕立て」のアイスです。マロンソースにはラム酒の香りが加えられており、華やかで本格的なモンブランの味わいに仕上げているそうです。"}],["$","p","2",{"children":"「ガリ子ちゃんセレブレーション ダブルモンブラン」は2026年11月10日から全国発売。価格は税込216円です。"}],["$","p","3",{"children":"ちなみに、過去の同月同日にはこんな記事を掲載していました。"}],["$","p","4",{"children":"スーパーの特売品をAmazonで販売し大金を得て成功した30歳が語る成功のコツとは？ - GIGAZINE"}],["$","p","5",{"children":"「クリストファー・ノーラン監督、次は何を撮られるんですか？」"}],["$","p","6",{"children":"もし私がFate/stay night[Heaven's Feel](12)だけ買ったら、先輩は叱ってくれますか？"}],["$","p","7",{"children":"【分析】FOXニュースに責任転嫁するトランプ氏、MAGA派のメディア関係者は本人の責任には触れず - CNN.co.jp"}],["$","p","8",{"children":"捜査関係者によると、男性は容疑を認め「視聴者からの要望に応えたかった」と話しているという。塚には「たたり」にまつわる伝承があり、SNS上では動画が拡散され、話題となっていた。"}],["$","p","9",{"children":"ゼレンスキー氏、米国からの追加支援に期待感 米中間選挙での民主党大勝を受け - CNN.co.jp"}],["$","p","10",{"children":"「まさに青天の霹靂」 イスラエル大統領、トランプ氏の支援打ち切り表明に衝撃 - CNN.co.jp"}],["$","p","11",{"children":"スシロー店舗で販売目指す！全国初“幻の高級魚”シロアマダイ養殖へ「1人でも多く届けられるように」官民５者が共同事業体を設立 | TBS NEWS DIG"}],["$","p","12",{"children":"&mdash; なかのかな？ (@theseaandpoison) 2026年11月5日"}],["$","p","13",{"children":"以前にもアップした近所のアパート。そろそろ10年くらい経つのかな？相変わらず2階への階段前にガードパイプは設置されたまま。そりゃすぐ空室になるよね…。"}],["$","p","14",{"children":"企画した業者もおかしいけど、オーナーにも問題あるのかも…関係ないけどイラッとします（笑） pic.twitter.com/PAUzIdTE2D"}],["$","p","15",{"children":"職場の若い女の子、年上に対する態度かな？と思う言動が多く、上司に指摘されて「なんで私がそんな事言われなきゃいけないの？」と泣きながら相談された…どうすればいい？ - Togetter"}],["$","p","16",{"children":"会社の食事会で、おそらく私が取り分け役をやる立場だったが「好き嫌いやアレルギーありますし、自分の食べたいものを自分で取る感じで大丈夫です？」と初手ぶっこんだ - Togetter"}],["$","p","17",{"children":"「あかり、信じてるからな」が流行語大賞候補も…「リュウジじゃなくて？」ミームへの素朴な疑問にリュウジ本人が丁寧に説明「元は長谷川あかりさんのレシピを信じる投稿」 - Togetter"}],["$","p","18",{"children":"メタバース、ワーケーションなど「ここ数年で恐ろしいほど聞かなくなった言葉一覧」に共感「Clubhouse懐かしい！」「半分がWeb3でわろた」 - Togetter"}],["$","p","19",{"children":"全自動個人情報ダダ漏れシステム » p2ptk[.]org"}],["$","p","20",{"children":"ソニー、初代ウォークマン付属ヘッドフォンを再現。USB-C化した「MDR-3R」 - AV Watch"}],["$","p","21",{"children":"第40回：解約するだけじゃダメ！？ マイナンバーカード付きスマホの持ち主が亡くなった時の、正しい処分法【天国へのプロトコル】 - INTERNET Watch"}],["$","p","22",{"children":"近所のイオンで「鉄道忘れ物掘り出し市」なるものをやっていた。傘はまぁわかるけど、ワイヤレスイヤフォン(中身なし)の量がすごかった… pic.twitter.com/e6vObxvpiN"}],["$","p","23",{"children":"&mdash; 和田 誠 a.k.a. Karu_gamo (@Karu_gamo) 2026年11月5日"}],["$","p","24",{"children":"TVアニメ『スピリットサークル』第1弾PV｜ 2026年12月より放送・配信開始！ - YouTube"}],["$","p","25",{"children":"イースト 役：中村悠一 pic.twitter.com/DR8A3PtiJi"}],["$","p","26",{"children":"深く感謝申し上げますとともに、… pic.twitter.com/6bAQIFdkRj"}],["$","p","27",{"children":"佐藤竜雄監督ご逝去の時にはコンテは最後まで出来ていました。"}],["$","p","28",{"children":"水野助監督が引継ぎ、多くの皆さまのご尽力で実現致しましたことを、感謝します。"}],["$","p","29",{"children":"助監督：水野健太郎… pic.twitter.com/F6FZVIf0Gz"}],["$","p","30",{"children":"ジョニィちゃんはおしまい！死ぬか生きるかメルトダウン - ニコニコ動画"}],["$","p","31",{"children":"大変お待たせしてしまい、申し訳ございません。"}],["$","p","32",{"children":"※制作上の都合により、本作はキャラクターボイスが未搭載となっております。何卒ご了承ください。…"}],["$","p","33",{"children":"Q：なんでヒーローは美形ばかりなんですか？"}],["$","p","34",{"children":"A：プロットで落とされるか、美形に変更されるか、そうでなければ打ち切りになるから。"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e"],"$L3f"]}],"$L40","$L41","$L42",null,"$L43","$L44"]}],["$L45"],"$L46"]}],"isPartial":"$@47","staleTime":"$48","varyParams":null},{"rsc":"$L49","isPartial":"$@4a","staleTime":"$48","varyParams":null},{"rsc":"$L4b","isPartial":"$@4c","staleTime":"$48","varyParams":"$4d"},{"rsc":"$L4e","isPartial":"$@4f","staleTime":"$48","varyParams":"$4d"}],"isUpgradeableISRFallback":false,"a":"$@50","rootVaryParams":null,"needsRuntimeRequest":"$@51"}
+52:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+53:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+56:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+57:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+58:"$Sreact.suspense"
+5a:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+5b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+5c:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+5d:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+5e:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","35",{"children":"ｽﾋﾟｷ + ﾎﾊﾞｷﾞ = ﾎﾋﾟｷ！ - ニコニコ動画"}]
+4:["$","p","36",{"children":"【PCE 幽遊白書(前編)】てんで極悪クソゲーム【春日部つむぎゲーム実況 激闘編vol.40】 - ニコニコ動画"}]
+5:["$","p","37",{"children":"ちびきゃらつめあわせ pic.twitter.com/1C6S0qBIVv"}]
+6:["$","p","38",{"children":"✨勺冀✨ pic.twitter.com/0pJxPAPkHJ"}]
+7:["$","p","39",{"children":"𝟐𝟎𝟐𝟔.𝟏𝟏.𝟎𝟓『超かぐや姫！』"}]
+8:["$","p","40",{"children":"&mdash; 『超かぐや姫！』公式＠映画 復活上映中！ (@Cho_KaguyaHime) 2026年11月5日"}]
+9:["$","p","41",{"children":"2026年11月26日(木)Netflix世界独占配信 #foolnight #SUNRISExSHAFT pic.twitter.com/2csAhQwWM7"}]
+a:["$","p","42",{"children":"TYPE-MOON×ufotableからもう一作ご紹介。"}]
+b:["$","p","43",{"children":"ufotableは本作にて、3つのオープニング映像を制作致しました。… pic.twitter.com/CKAFtU1aaw"}]
+c:["$","p","44",{"children":"11.6 ғʀɪ ʀᴏᴀᴅꜱʜᴏᴡ #錦織敦史 #GTQ123 pic.twitter.com/j9i2RGJ8jv"}]
+d:["$","p","45",{"children":"GOODSMILE RACING「SUPER GT Round3 Round8 MOTEGI」6日予選 7日と8日本戦！最終戦！応援するっきゃない！ #レーシングミク #SUPERGT #fightgsr pic.twitter.com/TaORa826Kb"}]
+e:["$","p","46",{"children":"Night City High School pic.twitter.com/Ul5gBaOKMJ"}]
+f:["$","p","47",{"children":"空間の感覚が揺らぐ錯視風作品を制作しています pic.twitter.com/P0buD3Ywj0"}]
+10:["$","p","48",{"children":"デスクトップにカプリを住まわせてみたら暴れ回ってて最高。電撃エフェクトもセリフも動きも作り込みがエグい……！ #CyberpunkEdgerunners2 #capri pic.twitter.com/Y4W4HlwCMp"}]
+11:["$","p","49",{"children":"lalalalala pipipipipi pic.twitter.com/KzHizcBOY1"}]
+12:["$","p","50",{"children":"Proud to share the work of the Chaos Zero Nightmare VFX team."}]
+13:["$","p","51",{"children":"Over the past few years, we've hand-drawn and animated cut-scene effects in Spine, from early development through live service."}]
+14:["$","p","52",{"children":"Please check out each artist's ArtStation below:) #ChaosZeroNightmare #VFX #2DFX pic.twitter.com/wWnGDksNO8"}]
+15:["$","p","53",{"children":"最高の脱出ゲーム作ってる pic.twitter.com/GlM7mIFUl6"}]
+16:["$","p","54",{"children":"しかし、初めての感情に翻弄される市川の葛藤は続く……。"}]
+17:["$","p","55",{"children":"&mdash; TVアニメ「僕の心のヤバイやつ」【公式】第3期2027年4月放送開始！ (@bokuyaba_anime) 2026年11月5日"}]
+18:["$","p","56",{"children":"アニメ化決定イラストをいただきました！ #アニメはぐアイ pic.twitter.com/TEK6w4T04J"}]
+19:["$","p","57",{"children":"&mdash; TVアニメ『はぐれアイドル地獄変』2027年1月放送！ (@hagure_anime) 2026年11月6日"}]
+1a:["$","p","58",{"children":"カニクリームコロッケ pic.twitter.com/d48E2z4hXU"}]
+1b:["$","p","59",{"children":"Weak Kingsley #CyberpunkEdgerunners2 #Cyberpunk2077 #fanart #BLEACHTYBW pic.twitter.com/5ykmyMedNi"}]
+1c:["$","p","60",{"children":"pic.twitter.com/ORr53jIt6c"}]
+1d:["$","p","61",{"children":"TVアニメ『ガールズバンドクライ』OP主題歌｜トゲナシトゲアリ「雑踏、僕らの街」楽曲提供MV（楽園追放 ver.） - YouTube"}]
+1e:["$","p","62",{"children":"映画『GROTESQQQUE-グロテスク-』幕間映像｜11月6日(金)公開！ - YouTube"}]
+1f:["$","p","63",{"children":"It Happens on PS5® ありえないことも、PS5®なら。｜2026 - YouTube"}]
+20:["$","p","64",{"children":"『SONIC PICO PARK』新キャラクター 「エスピオ」、「チャーミー」、「ベクター」が登場！！ - YouTube"}]
+21:["$","p","65",{"children":"ように⭐︎ pic.twitter.com/65qXo9eMyE"}]
+22:["$","p","66",{"children":"ブルースカイバージョン。 #エレメントガールズ pic.twitter.com/SDSNlX5tVs"}]
+23:["$","p","67",{"children":"&mdash; 榎木ともひで（えのき）WF 5-12-02ワンフェス2026夏に参加します。 (@eyewater_e) 2026年11月5日"}]
+24:["$","p","68",{"children":"「楽園追放 心のレゾナンス」公開に合わせて2024年に発行した同人誌「楽園天使」を再販いたします。"}]
+25:["$","p","69",{"children":"※「楽園追放 心のレゾナンス」のイラストは含めれておりません。"}]
+26:["$","p","70",{"children":"GitHubで管理する仕組みで、台本と音声をpushすると毎日、自動で番組になります。"}]
+27:["$","p","71",{"children":"番組は動画ではなく、HTMLで動いています。"}]
+28:["$","p","72",{"children":"リポジトリをコピーすれば、誰でも開局できます↓ pic.twitter.com/GbqHC7MoGE"}]
+29:["$","p","73",{"children":"敵に囲まれた根暗強女 pic.twitter.com/RHqKXTxnHh"}]
+2a:["$","p","74",{"children":"&mdash; スペース！マオリス辺境伯 (@WorldMissManGM) 2026年11月5日"}]
+2b:["$","p","75",{"children":"だれかこういう水分補給できる水着作って pic.twitter.com/gwKlP5rdOn"}]
+2c:["$","p","76",{"children":"みみみみみ見mッ pic.twitter.com/GnriH6MN9W"}]
+2d:["$","p","77",{"children":"&mdash; ø.müller (@ooomuller) 2026年11月5日"}]
+2e:["$","p","78",{"children":"女の子みたいな顔した美少年って、作品によって扱いが異なって萌えるんだよなぁ〜……という絵 pic.twitter.com/6CbKERvlTZ"}]
+2f:["$","p","79",{"children":"pic.twitter.com/FqZ0ERQopu"}]
+30:["$","p","80",{"children":"Kyoko and Capri, I think #CyberpunkEdgerunners2 pic.twitter.com/IktahvMeZo"}]
+31:["$","p","81",{"children":"11月18日（水）発売の『コミック百合姫1月号』をお楽しみに！ pic.twitter.com/4KlMFBlbVg"}]
+32:["$","p","82",{"children":"たまに息抜きで適当なモーションを描きたくなるのですがこんなことをしてる暇は無いはずなので作業に戻ります pic.twitter.com/3WEN0qGZHM"}]
+33:["$","p","83",{"children":"シャキーン pic.twitter.com/VmzADE34CN"}]
+34:["$","p","84",{"children":"pic.twitter.com/E9tlRDDAKV"}]
+35:["$","p","85",{"children":"&2027年1月より先行試写会 開催決定！"}]
+36:["$","p","86",{"children":"₊✧────────.˚⊹─⋆⁺₊✧ #星追いのアスパル #G_Aspal #コードギアス"}]
+37:["$","p","87",{"children":"✩₊Main Visual pic.twitter.com/chKiArMhHd"}]
+38:["$","p","88",{"children":"elfen lied pic.twitter.com/pho4KiE5Be"}]
+39:["$","p","89",{"children":"うむ、いい感じにまとまりのあるバンドとかしてそうなビジュアルになったぞ pic.twitter.com/0TBZSXTCmi"}]
+3a:["$","p","90",{"children":"pic.twitter.com/MeRIIK83Dz"}]
+3b:["$","p","91",{"children":"-0.0の興奮冷め止まないのでゴジラ描いた pic.twitter.com/qVDsMYbSyC"}]
+3c:["$","p","92",{"children":"実写ドラマ化します！ #あたしゃ川尻こだまだよ pic.twitter.com/kxguhs4QUH"}]
+3d:["$","p","93",{"children":"ようこそサプライズじま/最強王図鑑 The Ultimate Tournament ハッピーセット® スペシャルマッチ | マクドナルドブロック | 名探偵プリキュア！"}]
+3e:["$","p","94",{"children":"You can read the machine translated English article Headline news for November 6, 2026… ."}]
+3f:["$","p",null,{"className":"article-credit","children":"本文の著作権はGigazineにあります。"}]
+40:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://gigazine.net/news/20261106-headline/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はGigazineで読む"}]}]
+54:T2970,「ガリガリ君」で知られる赤城乳業が、2006年に誕生した「ガリ子ちゃん」の生誕20周年を記念して、9年ぶりとなる新作「 ガリ子ちゃんセレブレーション ダブルモンブラン 」を発売します。
+
+「ガリ子ちゃんセレブレーション ダブルモンブラン」は、濃厚なミルクアイスにマロンダイスあんとマロンソースを組み合わせた「ダブルモンブラン仕立て」のアイスです。マロンソースにはラム酒の香りが加えられており、華やかで本格的なモンブランの味わいに仕上げているそうです。
+
+「ガリ子ちゃんセレブレーション ダブルモンブラン」は2026年11月10日から全国発売。価格は税込216円です。
+
+ちなみに、過去の同月同日にはこんな記事を掲載していました。
+
+スーパーの特売品をAmazonで販売し大金を得て成功した30歳が語る成功のコツとは？ - GIGAZINE
+
+「クリストファー・ノーラン監督、次は何を撮られるんですか？」
+
+もし私がFate/stay night[Heaven's Feel](12)だけ買ったら、先輩は叱ってくれますか？
+
+【分析】FOXニュースに責任転嫁するトランプ氏、MAGA派のメディア関係者は本人の責任には触れず - CNN.co.jp
+
+捜査関係者によると、男性は容疑を認め「視聴者からの要望に応えたかった」と話しているという。塚には「たたり」にまつわる伝承があり、SNS上では動画が拡散され、話題となっていた。
+
+ゼレンスキー氏、米国からの追加支援に期待感 米中間選挙での民主党大勝を受け - CNN.co.jp
+
+「まさに青天の霹靂」 イスラエル大統領、トランプ氏の支援打ち切り表明に衝撃 - CNN.co.jp
+
+スシロー店舗で販売目指す！全国初“幻の高級魚”シロアマダイ養殖へ「1人でも多く届けられるように」官民５者が共同事業体を設立 | TBS NEWS DIG
+
+&mdash; なかのかな？ (@theseaandpoison) 2026年11月5日
+
+以前にもアップした近所のアパート。そろそろ10年くらい経つのかな？相変わらず2階への階段前にガードパイプは設置されたまま。そりゃすぐ空室になるよね…。
+
+企画した業者もおかしいけど、オーナーにも問題あるのかも…関係ないけどイラッとします（笑） pic.twitter.com/PAUzIdTE2D
+
+職場の若い女の子、年上に対する態度かな？と思う言動が多く、上司に指摘されて「なんで私がそんな事言われなきゃいけないの？」と泣きながら相談された…どうすればいい？ - Togetter
+
+会社の食事会で、おそらく私が取り分け役をやる立場だったが「好き嫌いやアレルギーありますし、自分の食べたいものを自分で取る感じで大丈夫です？」と初手ぶっこんだ - Togetter
+
+「あかり、信じてるからな」が流行語大賞候補も…「リュウジじゃなくて？」ミームへの素朴な疑問にリュウジ本人が丁寧に説明「元は長谷川あかりさんのレシピを信じる投稿」 - Togetter
+
+メタバース、ワーケーションなど「ここ数年で恐ろしいほど聞かなくなった言葉一覧」に共感「Clubhouse懐かしい！」「半分がWeb3でわろた」 - Togetter
+
+全自動個人情報ダダ漏れシステム » p2ptk[.]org
+
+ソニー、初代ウォークマン付属ヘッドフォンを再現。USB-C化した「MDR-3R」 - AV Watch
+
+第40回：解約するだけじゃダメ！？ マイナンバーカード付きスマホの持ち主が亡くなった時の、正しい処分法【天国へのプロトコル】 - INTERNET Watch
+
+近所のイオンで「鉄道忘れ物掘り出し市」なるものをやっていた。傘はまぁわかるけど、ワイヤレスイヤフォン(中身なし)の量がすごかった… pic.twitter.com/e6vObxvpiN
+
+&mdash; 和田 誠 a.k.a. Karu_gamo (@Karu_gamo) 2026年11月5日
+
+TVアニメ『スピリットサークル』第1弾PV｜ 2026年12月より放送・配信開始！ - YouTube
+
+イースト 役：中村悠一 pic.twitter.com/DR8A3PtiJi
+
+深く感謝申し上げますとともに、… pic.twitter.com/6bAQIFdkRj
+
+佐藤竜雄監督ご逝去の時にはコンテは最後まで出来ていました。
+
+水野助監督が引継ぎ、多くの皆さまのご尽力で実現致しましたことを、感謝します。
+
+助監督：水野健太郎… pic.twitter.com/F6FZVIf0Gz
+
+ジョニィちゃんはおしまい！死ぬか生きるかメルトダウン - ニコニコ動画
+
+大変お待たせしてしまい、申し訳ございません。
+
+※制作上の都合により、本作はキャラクターボイスが未搭載となっております。何卒ご了承ください。…
+
+Q：なんでヒーローは美形ばかりなんですか？
+
+A：プロットで落とされるか、美形に変更されるか、そうでなければ打ち切りになるから。
+
+ｽﾋﾟｷ + ﾎﾊﾞｷﾞ = ﾎﾋﾟｷ！ - ニコニコ動画
+
+【PCE 幽遊白書(前編)】てんで極悪クソゲーム【春日部つむぎゲーム実況 激闘編vol.40】 - ニコニコ動画
+
+ちびきゃらつめあわせ pic.twitter.com/1C6S0qBIVv
+
+✨勺冀✨ pic.twitter.com/0pJxPAPkHJ
+
+𝟐𝟎𝟐𝟔.𝟏𝟏.𝟎𝟓『超かぐや姫！』
+
+&mdash; 『超かぐや姫！』公式＠映画 復活上映中！ (@Cho_KaguyaHime) 2026年11月5日
+
+2026年11月26日(木)Netflix世界独占配信 #foolnight #SUNRISExSHAFT pic.twitter.com/2csAhQwWM7
+
+TYPE-MOON×ufotableからもう一作ご紹介。
+
+ufotableは本作にて、3つのオープニング映像を制作致しました。… pic.twitter.com/CKAFtU1aaw
+
+11.6 ғʀɪ ʀᴏᴀᴅꜱʜᴏᴡ #錦織敦史 #GTQ123 pic.twitter.com/j9i2RGJ8jv
+
+GOODSMILE RACING「SUPER GT Round3 Round8 MOTEGI」6日予選 7日と8日本戦！最終戦！応援するっきゃない！ #レーシングミク #SUPERGT #fightgsr pic.twitter.com/TaORa826Kb
+
+Night City High School pic.twitter.com/Ul5gBaOKMJ
+
+空間の感覚が揺らぐ錯視風作品を制作しています pic.twitter.com/P0buD3Ywj0
+
+デスクトップにカプリを住まわせてみたら暴れ回ってて最高。電撃エフェクトもセリフも動きも作り込みがエグい……！ #CyberpunkEdgerunners2 #capri pic.twitter.com/Y4W4HlwCMp
+
+lalalalala pipipipipi pic.twitter.com/KzHizcBOY1
+
+Proud to share the work of the Chaos Zero Nightmare VFX team.
+
+Over the past few years, we've hand-drawn and animated cut-scene effects in Spine, from early development through live service.
+
+Please check out each artist's ArtStation below:) #ChaosZeroNightmare #VFX #2DFX pic.twitter.com/wWnGDksNO8
+
+最高の脱出ゲーム作ってる pic.twitter.com/GlM7mIFUl6
+
+しかし、初めての感情に翻弄される市川の葛藤は続く……。
+
+&mdash; TVアニメ「僕の心のヤバイやつ」【公式】第3期2027年4月放送開始！ (@bokuyaba_anime) 2026年11月5日
+
+アニメ化決定イラストをいただきました！ #アニメはぐアイ pic.twitter.com/TEK6w4T04J
+
+&mdash; TVアニメ『はぐれアイドル地獄変』2027年1月放送！ (@hagure_anime) 2026年11月6日
+
+カニクリームコロッケ pic.twitter.com/d48E2z4hXU
+
+Weak Kingsley #CyberpunkEdgerunners2 #Cyberpunk2077 #fanart #BLEACHTYBW pic.twitter.com/5ykmyMedNi
+
+pic.twitter.com/ORr53jIt6c
+
+TVアニメ『ガールズバンドクライ』OP主題歌｜トゲナシトゲアリ「雑踏、僕らの街」楽曲提供MV（楽園追放 ver.） - YouTube
+
+映画『GROTESQQQUE-グロテスク-』幕間映像｜11月6日(金)公開！ - YouTube
+
+It Happens on PS5® ありえないことも、PS5®なら。｜2026 - YouTube
+
+『SONIC PICO PARK』新キャラクター 「エスピオ」、「チャーミー」、「ベクター」が登場！！ - YouTube
+
+ように⭐︎ pic.twitter.com/65qXo9eMyE
+
+ブルースカイバージョン。 #エレメントガールズ pic.twitter.com/SDSNlX5tVs
+
+&mdash; 榎木ともひで（えのき）WF 5-12-02ワンフェス2026夏に参加します。 (@eyewater_e) 2026年11月5日
+
+「楽園追放 心のレゾナンス」公開に合わせて2024年に発行した同人誌「楽園天使」を再販いたします。
+
+※「楽園追放 心のレゾナンス」のイラストは含めれておりません。
+
+GitHubで管理する仕組みで、台本と音声をpushすると毎日、自動で番組になります。
+
+番組は動画ではなく、HTMLで動いています。
+
+リポジトリをコピーすれば、誰でも開局できます↓ pic.twitter.com/GbqHC7MoGE
+
+敵に囲まれた根暗強女 pic.twitter.com/RHqKXTxnHh
+
+&mdash; スペース！マオリス辺境伯 (@WorldMissManGM) 2026年11月5日
+
+だれかこういう水分補給できる水着作って pic.twitter.com/gwKlP5rdOn
+
+みみみみみ見mッ pic.twitter.com/GnriH6MN9W
+
+&mdash; ø.müller (@ooomuller) 2026年11月5日
+
+女の子みたいな顔した美少年って、作品によって扱いが異なって萌えるんだよなぁ〜……という絵 pic.twitter.com/6CbKERvlTZ
+
+pic.twitter.com/FqZ0ERQopu
+
+Kyoko and Capri, I think #CyberpunkEdgerunners2 pic.twitter.com/IktahvMeZo
+
+11月18日（水）発売の『コミック百合姫1月号』をお楽しみに！ pic.twitter.com/4KlMFBlbVg
+
+たまに息抜きで適当なモーションを描きたくなるのですがこんなことをしてる暇は無いはずなので作業に戻ります pic.twitter.com/3WEN0qGZHM
+
+シャキーン pic.twitter.com/VmzADE34CN
+
+pic.twitter.com/E9tlRDDAKV
+
+&2027年1月より先行試写会 開催決定！
+
+₊✧────────.˚⊹─⋆⁺₊✧ #星追いのアスパル #G_Aspal #コードギアス
+
+✩₊Main Visual pic.twitter.com/chKiArMhHd
+
+elfen lied pic.twitter.com/pho4KiE5Be
+
+うむ、いい感じにまとまりのあるバンドとかしてそうなビジュアルになったぞ pic.twitter.com/0TBZSXTCmi
+
+pic.twitter.com/MeRIIK83Dz
+
+-0.0の興奮冷め止まないのでゴジラ描いた pic.twitter.com/qVDsMYbSyC
+
+実写ドラマ化します！ #あたしゃ川尻こだまだよ pic.twitter.com/kxguhs4QUH
+
+ようこそサプライズじま/最強王図鑑 The Ultimate Tournament ハッピーセット® スペシャルマッチ | マクドナルドブロック | 名探偵プリキュア！
+
+You can read the machine translated English article Headline news for November 6, 2026… .41:["$","section",null,{"className":"article-actions","children":[["$","$L52",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/3e27b64e3e27b64ecd372aaa","title":"2026年11月6日のヘッドラインニュース","locale":"ja","take":null}],["$","$L53",null,{"title":"2026年11月6日のヘッドラインニュース","excerpt":"$54","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/3e27b64e3e27b64ecd372aaa","locale":"ja"}],"$L55"]}]
+42:["$","$L56",null,{"placement":"article","className":"mt-8"}]
+43:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+44:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-world:https://bbc.co.uk/news/articles/ckp8g4pm0y4lo",{"children":["$","$L2",null,{"href":"/ja/n/a0f395c2a0f395c23325ccbe","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason"}]]}]}],["$","li","euronews:https://euronews.com/2026/11/06/group-of-lawyers-suing-french-interior-minister-over-protesters-life-changing-injuries",{"children":["$","$L2",null,{"href":"/ja/n/03dc28e903dc28e9f1c4ffcd","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Euronews"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Group of lawyers suing French interior minister over protesters' life-changing injuries"}]]}]}],["$","li","npr-world:https://npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",{"children":["$","$L2",null,{"href":"/ja/n/28f6510e28f6510e5b0d2254","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NPR"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"The leader of a Kenyan doomsday cult is sentenced to 200 years in prison"}]]}]}]]}]]}]
+45:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+46:["$","$L57",null,{"children":["$","$58",null,{"name":"Next.MetadataOutlet","children":"$@59"}]}]
+49:["$","$1","h",{"children":[null,["$","$L5a",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L5b",null,{"children":["$","$58",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"2026年11月6日のヘッドラインニュース"}],["$","meta","1",{"name":"description","content":"「ガリガリ君」で知られる赤城乳業が、2006年に誕生した「ガリ子ちゃん」の生誕20周年を記念して、9年ぶりとなる新作「 ガリ子ちゃんセレブレーション ダブルモンブラン 」を発売します。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"2026年11月6日のヘッドラインニュース"}],["$","meta","4",{"property":"og:description","content":"「ガリガリ君」で知られる赤城乳業が、2006年に誕生した「ガリ子ちゃん」の生誕20周年を記念して、9年ぶりとなる新作「 ガリ子ちゃんセレブレーション ダブルモンブラン 」を発売します。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/3e27b64e3e27b64ecd372aaa/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"2026年11月6日のヘッドラインニュース"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"2026年11月6日のヘッドラインニュース"}],["$","meta","14",{"name":"twitter:description","content":"「ガリガリ君」で知られる赤城乳業が、2006年に誕生した「ガリ子ちゃん」の生誕20周年を記念して、9年ぶりとなる新作「 ガリ子ちゃんセレブレーション ダブルモンブラン 」を発売します。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L5c","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+4b:["$","$1","c",{"children":[null,["$","$L5d",null,{"parallelRouterKey":"children","template":["$","$L5e",null,{}]}]]}]
+4e:["$","$1","c",{"children":[null,["$","$L5d",null,{"parallelRouterKey":"children","template":["$","$L5e",null,{}]}]]}]
+51:true
+55:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=2026%E5%B9%B411%E6%9C%886%E6%97%A5%E3%81%AE%E3%83%98%E3%83%83%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&mode=phrase&url=gigazine.net&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+59:null
+48:300
+48:C
+50:0
+4a:"$undefined"
+4c:"$undefined"
+4f:"$undefined"
+47:"$undefined"

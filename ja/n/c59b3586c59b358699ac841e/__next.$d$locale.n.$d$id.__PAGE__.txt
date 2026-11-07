@@ -1,0 +1,84 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261106-35254511-cnn-000-4-view.jpg?pri=l&w=450&h=300&exp=10800","image"]
+b:X
+10:X
+10:C
+0:{"buildId":"v4pnrtun7pn_skbrgOFJo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-06","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"大麻使用の最古の証拠、シベリアの3000年近く前の墓から発見 向精神作用を得る目的(CNN.co.jp)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261106-35254511-cnn-000-4-view.jpg?pri=l&w=450&h=300&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"（CNN） 考古学者のチームが3000年近く前の墓から、向精神作用を得る目的で大麻が使用されていたことを示す最古の証拠を発見した――。そんな新たな研究が発表された。"}],["$","p","1",{"children":"論文の筆頭著者を務めたスイス・ベルン大学の研究者、ジノ・カスパリ氏がCNNに明らかにしたところによると、シベリア南部にある巨大な有力者の墓から、保存状態の良い大麻の種子と人間の毛髪が見つかった。"}],["$","p","2",{"children":"カスパリ氏は「先史時代に植物由来の薬物が使用されていたと推測する説は多々あるが、今回の発見を通じ、そうした説に実際に裏付けがあることを示せた」と語る。"}],["$","p","3",{"children":"墓はシベリアのウユク渓谷にあり、社会的地位の高かった様々な人の遺骨が収められている。カスパリ氏らは2017年からこの場所で作業を続け、スキタイ時代の初期に当たる2800年前の墓だという証拠を突き止めた。"}],["$","p","4",{"children":"「彼らは騎馬遊牧民で、馬に乗りながら弓を射る高い技術と、精巧な金の装飾品で知られていた」（カスパリ氏）"}],["$","p","5",{"children":"カスパリ氏と同僚は発掘現場で小さな黒い粒を発見し、大麻の種子であることを突き止めた。最終的に1400粒以上を回収し、放射性炭素年代測定を行った結果、およそ2800年前に埋納されたことが確認された。"}],["$","p","6",{"children":"（CNN） 考古学者のチームが3000年近く前の墓から、向精神作用を得る目的で大麻が使用されていたことを示す最古の証拠を発見した――。そんな新たな研究が発表された。"}],["$","p","7",{"children":"論文の筆頭著者を務めたスイス・ベルン大学の研究者、ジノ・カスパリ氏がCNNに明らかにしたところによると、シベリア南部にある巨大な有力者の墓から、保存状態の良い大麻の種子と人間の毛髪が見つかった。"}],["$","p","8",{"children":"カスパリ氏は「先史時代に植物由来の薬物が使用されていたと推測する説は多々あるが、今回の発見を通じ、そうした説に実際に裏付けがあることを示せた」と語る。"}],["$","p","9",{"children":"墓はシベリアのウユク渓谷にあり、社会的地位の高かった様々な人の遺骨が収められている。カスパリ氏らは2017年からこの場所で作業を続け、スキタイ時代の初期に当たる2800年前の墓だという証拠を突き止めた。"}],["$","p","10",{"children":"「彼らは騎馬遊牧民で、馬に乗りながら弓を射る高い技術と、精巧な金の装飾品で知られていた」（カスパリ氏）"}],["$","p","11",{"children":"カスパリ氏と同僚は発掘現場で小さな黒い粒を発見し、大麻の種子であることを突き止めた。最終的に1400粒以上を回収し、放射性炭素年代測定を行った結果、およそ2800年前に埋納されたことが確認された。"}],["$","p","12",{"children":"研究チームは墓に保存されていた人間の毛髪も発見し、質量分析計を使って調査した。"}],["$","p","13",{"children":"カスパリ氏はCNNに対し、「3000年近く前の植物が残っていること自体、極めて珍しい」と説明する。植物は一般に保存状態が悪いためだ。"}],["$","p","14",{"children":"「さらに珍しいのは、植物が毛髪のような人間の軟組織と一緒に見つかったことだ。いわばこれにより、3000年前に亡くなった人物の薬物検査ができようになった」（カスパリ氏）"}],["$","p","15",{"children":"分析の結果、この毛髪は大麻の主要な精神活性成分であるTHC（デルタ9-テトラヒドロカンナビノール）と、THCが空気に触れることで生成される化合物カンナビノールの陽性反応を示した。"}],["$","p","16",{"children":"「驚きの瞬間だった」とカスパリ氏は振り返り、人類の大麻使用の歴史への理解がさらに深まりそうだとの見方を示した。"}],["$","p","17",{"children":"研究チームの声明によると、従来の調査では、東アジアで少なくとも6000年前から大麻が栽培されていた証拠が見つかっていた。これはおそらく、油分を豊富に含む種子が目当てだったとみられる。"}],["$","p","18",{"children":"精神作用を目的とした大麻の使用については従来、2500年前にさかのぼる証拠が見つかっていた。この中には中央アジアの儀式で使用されていたものも含まれる。"}],["$","p","19",{"children":"「この墓における大麻の使用は、儀式との関わりの中で捉える必要がある。シャーマニズム信仰と結びついていた可能性もある」。カスパリ氏はCNNにそう語った。"}],["$","p","20",{"children":"「何十頭もの生贄（いけにえ）の馬や、人身御供（ひとみごくう）とみられる形跡も発見されていることから、犠牲者に何か危害が加えられる前、大麻を使って沈静化させていたのかもしれない。ただ、それを証明することはできない」（カスパリ氏）"}],["$","p","21",{"children":"「この重要な作物が文化の中でたどってきた悠久の歴史については、驚くほど少ししか分かっていない。例えば、純粋な野生の大麻が実際にどんな姿をしているのかさえ、はっきりしていない」"}],["$","p","22",{"children":"カスパリ氏は言う。「今回の発見により、ユーラシア大陸では少なくとも3000年前から、向精神作用を目的とした大麻使用が行われていたことになる。この時点で既に中国から欧州にかけて広がっていたようだ」"}],["$","p","23",{"children":"「今回の発見は大麻の合法化や医療利用をめぐる現在の議論に、文化的な考察のよりどころを与えるものだと思う」"}],["$","p","24",{"children":"研究結果は5日、科学誌サイエンスに掲載された。"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]]}],"$L3","$L4","$L5",null,"$L6","$L7"]}],["$L8"],"$L9"]}],"isPartial":"$@a","staleTime":"$b","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$b","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$b","varyParams":"$10"},{"rsc":"$L11","isPartial":"$@12","staleTime":"$b","varyParams":"$10"}],"isUpgradeableISRFallback":false,"a":"$@13","rootVaryParams":null,"needsRuntimeRequest":"$@14"}
+15:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+16:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+18:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+19:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1a:"$Sreact.suspense"
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1e:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1f:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+20:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/740145e09d4ce5574205398b15328457d57416e8?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}]
+17:T1661,（CNN） 考古学者のチームが3000年近く前の墓から、向精神作用を得る目的で大麻が使用されていたことを示す最古の証拠を発見した――。そんな新たな研究が発表された。
+
+論文の筆頭著者を務めたスイス・ベルン大学の研究者、ジノ・カスパリ氏がCNNに明らかにしたところによると、シベリア南部にある巨大な有力者の墓から、保存状態の良い大麻の種子と人間の毛髪が見つかった。
+
+カスパリ氏は「先史時代に植物由来の薬物が使用されていたと推測する説は多々あるが、今回の発見を通じ、そうした説に実際に裏付けがあることを示せた」と語る。
+
+墓はシベリアのウユク渓谷にあり、社会的地位の高かった様々な人の遺骨が収められている。カスパリ氏らは2017年からこの場所で作業を続け、スキタイ時代の初期に当たる2800年前の墓だという証拠を突き止めた。
+
+「彼らは騎馬遊牧民で、馬に乗りながら弓を射る高い技術と、精巧な金の装飾品で知られていた」（カスパリ氏）
+
+カスパリ氏と同僚は発掘現場で小さな黒い粒を発見し、大麻の種子であることを突き止めた。最終的に1400粒以上を回収し、放射性炭素年代測定を行った結果、およそ2800年前に埋納されたことが確認された。
+
+（CNN） 考古学者のチームが3000年近く前の墓から、向精神作用を得る目的で大麻が使用されていたことを示す最古の証拠を発見した――。そんな新たな研究が発表された。
+
+論文の筆頭著者を務めたスイス・ベルン大学の研究者、ジノ・カスパリ氏がCNNに明らかにしたところによると、シベリア南部にある巨大な有力者の墓から、保存状態の良い大麻の種子と人間の毛髪が見つかった。
+
+カスパリ氏は「先史時代に植物由来の薬物が使用されていたと推測する説は多々あるが、今回の発見を通じ、そうした説に実際に裏付けがあることを示せた」と語る。
+
+墓はシベリアのウユク渓谷にあり、社会的地位の高かった様々な人の遺骨が収められている。カスパリ氏らは2017年からこの場所で作業を続け、スキタイ時代の初期に当たる2800年前の墓だという証拠を突き止めた。
+
+「彼らは騎馬遊牧民で、馬に乗りながら弓を射る高い技術と、精巧な金の装飾品で知られていた」（カスパリ氏）
+
+カスパリ氏と同僚は発掘現場で小さな黒い粒を発見し、大麻の種子であることを突き止めた。最終的に1400粒以上を回収し、放射性炭素年代測定を行った結果、およそ2800年前に埋納されたことが確認された。
+
+研究チームは墓に保存されていた人間の毛髪も発見し、質量分析計を使って調査した。
+
+カスパリ氏はCNNに対し、「3000年近く前の植物が残っていること自体、極めて珍しい」と説明する。植物は一般に保存状態が悪いためだ。
+
+「さらに珍しいのは、植物が毛髪のような人間の軟組織と一緒に見つかったことだ。いわばこれにより、3000年前に亡くなった人物の薬物検査ができようになった」（カスパリ氏）
+
+分析の結果、この毛髪は大麻の主要な精神活性成分であるTHC（デルタ9-テトラヒドロカンナビノール）と、THCが空気に触れることで生成される化合物カンナビノールの陽性反応を示した。
+
+「驚きの瞬間だった」とカスパリ氏は振り返り、人類の大麻使用の歴史への理解がさらに深まりそうだとの見方を示した。
+
+研究チームの声明によると、従来の調査では、東アジアで少なくとも6000年前から大麻が栽培されていた証拠が見つかっていた。これはおそらく、油分を豊富に含む種子が目当てだったとみられる。
+
+精神作用を目的とした大麻の使用については従来、2500年前にさかのぼる証拠が見つかっていた。この中には中央アジアの儀式で使用されていたものも含まれる。
+
+「この墓における大麻の使用は、儀式との関わりの中で捉える必要がある。シャーマニズム信仰と結びついていた可能性もある」。カスパリ氏はCNNにそう語った。
+
+「何十頭もの生贄（いけにえ）の馬や、人身御供（ひとみごくう）とみられる形跡も発見されていることから、犠牲者に何か危害が加えられる前、大麻を使って沈静化させていたのかもしれない。ただ、それを証明することはできない」（カスパリ氏）
+
+「この重要な作物が文化の中でたどってきた悠久の歴史については、驚くほど少ししか分かっていない。例えば、純粋な野生の大麻が実際にどんな姿をしているのかさえ、はっきりしていない」
+
+カスパリ氏は言う。「今回の発見により、ユーラシア大陸では少なくとも3000年前から、向精神作用を目的とした大麻使用が行われていたことになる。この時点で既に中国から欧州にかけて広がっていたようだ」
+
+「今回の発見は大麻の合法化や医療利用をめぐる現在の議論に、文化的な考察のよりどころを与えるものだと思う」
+
+研究結果は5日、科学誌サイエンスに掲載された。4:["$","section",null,{"className":"article-actions","children":[["$","$L15",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/c59b3586c59b358699ac841e","title":"大麻使用の最古の証拠、シベリアの3000年近く前の墓から発見 向精神作用を得る目的(CNN.co.jp)","locale":"ja","take":null}],["$","$L16",null,{"title":"大麻使用の最古の証拠、シベリアの3000年近く前の墓から発見 向精神作用を得る目的(CNN.co.jp)","excerpt":"$17","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/c59b3586c59b358699ac841e","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E5%A4%A7%E9%BA%BB%E4%BD%BF%E7%94%A8%E3%81%AE%E6%9C%80%E5%8F%A4%E3%81%AE%E8%A8%BC%E6%8B%A0%E3%80%81%E3%82%B7%E3%83%99%E3%83%AA%E3%82%A2%E3%81%AE3000%E5%B9%B4%E8%BF%91%E3%81%8F%E5%89%8D%E3%81%AE%E5%A2%93%E3%81%8B%E3%82%89%E7%99%BA%E8%A6%8B+%E5%90%91%E7%B2%BE%E7%A5%9E%E4%BD%9C%E7%94%A8%E3%82%92%E5%BE%97%E3%82%8B%E7%9B%AE%E7%9A%84&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+5:["$","$L18",null,{"placement":"article","className":"mt-8"}]
+6:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+7:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-world:https://bbc.co.uk/news/articles/ckp8g4pm0y4lo",{"children":["$","$L2",null,{"href":"/ja/n/a0f395c2a0f395c23325ccbe","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason"}]]}]}],["$","li","euronews:https://euronews.com/2026/11/06/group-of-lawyers-suing-french-interior-minister-over-protesters-life-changing-injuries",{"children":["$","$L2",null,{"href":"/ja/n/03dc28e903dc28e9f1c4ffcd","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Euronews"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Group of lawyers suing French interior minister over protesters' life-changing injuries"}]]}]}],["$","li","npr-world:https://npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",{"children":["$","$L2",null,{"href":"/ja/n/28f6510e28f6510e5b0d2254","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NPR"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"The leader of a Kenyan doomsday cult is sentenced to 200 years in prison"}]]}]}]]}]]}]
+8:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+9:["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
+c:["$","$1","h",{"children":[null,["$","$L1c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1d",null,{"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"大麻使用の最古の証拠、シベリアの3000年近く前の墓から発見 向精神作用を得る目的(CNN.co.jp)"}],["$","meta","1",{"name":"description","content":"（CNN） 考古学者のチームが3000年近く前の墓から、向精神作用を得る目的で大麻が使用されていたことを示す最古の証拠を発見した――。そんな新たな研究が発表された。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"大麻使用の最古の証拠、シベリアの3000年近く前の墓から発見 向精神作用を得る目的(CNN.co.jp)"}],["$","meta","4",{"property":"og:description","content":"（CNN） 考古学者のチームが3000年近く前の墓から、向精神作用を得る目的で大麻が使用されていたことを示す最古の証拠を発見した――。そんな新たな研究が発表された。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/c59b3586c59b358699ac841e/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261106-35254511-cnn-000-4-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"大麻使用の最古の証拠、シベリアの3000年近く前の墓から発見 向精神作用を得る目的(CNN.co.jp)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"大麻使用の最古の証拠、シベリアの3000年近く前の墓から発見 向精神作用を得る目的(CNN.co.jp)"}],["$","meta","14",{"name":"twitter:description","content":"（CNN） 考古学者のチームが3000年近く前の墓から、向精神作用を得る目的で大麻が使用されていたことを示す最古の証拠を発見した――。そんな新たな研究が発表された。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261106-35254511-cnn-000-4-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1e","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+e:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+11:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+14:true
+1b:null
+b:300
+b:C
+13:0
+d:"$undefined"
+f:"$undefined"
+12:"$undefined"
+a:"$undefined"

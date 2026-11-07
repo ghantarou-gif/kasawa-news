@@ -1,0 +1,79 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261102-00107305-forbes-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","image"]
+e:X
+13:X
+13:C
+0:{"buildId":"v4pnrtun7pn_skbrgOFJo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-02","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"がんを撃退する「遺伝子改変T細胞療法」をAIで改良(Forbes JAPAN)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"5 日前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261102-00107305-forbes-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"コンピューターで設計されたヒトT細胞受容体（TCR）の改変体により、受容体の発現が向上し、TCR鎖のミスペアリング（誤結合）が抑制されたことで、遺伝子改変T細胞が腫瘍細胞を認識・攻撃する能力が高まった。"}],["$","p","1",{"children":"T細胞療法は、免疫系をがんに対する強力な武器に変えることができる。T細胞は感染した細胞や異常な細胞を特定し、破壊する役割を果たす免疫細胞だ。TCRと呼ばれる細胞表面のタンパク質を用いて潜在的な標的を認識する。"}],["$","p","2",{"children":"身体の中にあるさまざまな細胞は、表面にタンパク質の断片を提示しており、T細胞はTCRを使い、細胞表面分子によって提示された特定の断片を認識する。T細胞は標的を認識すると、活性化されて攻撃などの反応を開始する。しかし、がん細胞はこのプロセスを回避できるため、がん治療の一つとして患者のT細胞を遺伝子改変し、特定のがん関連の標的を認識できるようにする手法がとられている。"}],["$","p","3",{"children":"しかし、こうした受容体の改変は、ある問題を伴う。TCRは2本の鎖（α鎖とβ鎖）で構成されており、受容体が機能するにはそれらが正しく結合しなければならないのだ。改変されたTCRを患者のT細胞に導入すると、その鎖が細胞本来のTCR鎖と誤って結合してしまう可能性がある。その結果、細胞表面にある機能的な受容体が減少し、予期せぬ標的を攻撃してしまう（意図しない特異性を持つ）リスクが生じる恐れがある。"}],["$","p","4",{"children":"AIを用いた新たな研究では、TCRの定常領域（機能維持を担う基幹部分）を再設計した。その結果生まれた構造強化型TCR（structurally enhanced TCR：SET）は、T細胞の機能を向上させ、マウスモデルにおいて遺伝子改変T細胞が腫瘍を制御する能力を高めた。"}],["$","p","5",{"children":"■受容体の再設計"}],["$","p","6",{"children":"TCRは、標的を認識する「可変領域」と、2本のTCR鎖が組み合うのを助け、T細胞のシグナル伝達機構の他の部分と連結する「定常領域」から構成される。遺伝子改変T細胞が機能するには、完成した受容体が細胞表面に到達する前に、両方の鎖が正しく組み合わなければならない。"}],["$","p","7",{"children":"しかし、遺伝子改変された鎖は、細胞本来のTCR鎖とも競合することになり、その結果、機能する遺伝子改変受容体がさらに減少してしまう可能性がある。"}],["$","p","8",{"children":"TCRの定常領域は、その受容体がどのがん標的を認識するかを決定する領域ではない。今回の研究では、2つのタンパク質設計アルゴリズムを用いて、受容体の安定性を高め、鎖同士がペアを形成しやすくなる微小な変化を探索した。"}],["$","p","9",{"children":"第1ラウンドでは、主に定常領域の外面に、第2ラウンドでは、2つの鎖が交わる点に焦点を当てた。"}],["$","p","10",{"children":"最終的なSET受容体は、ヒトTCRの定常領域に18の変異が含まれていた。これらの変化の一部は、2本の鎖が組み合わされる仕組みを最適化するものだった。例えば、ある変化は2本の鎖の安定化相互作用を再現し、別の変化はアミノ酸の位置を変え、1本目の鎖との新たな相互作用を形成した。"}],["$","p","11",{"children":"■より多くの受容体が細胞表面に到達"}],["$","p","12",{"children":"再設計されたTCRは、細胞本来のTCR鎖と競合するにもかかわらず、ヒトT細胞の表面に、より多くの機能的な受容体を発現させた。ヒト初代T細胞（実験用細胞ではなく、生体から直接採取した細胞）において、SETは元のTCRに比べて、標的特異的な受容体の染色強度が約2倍高かった。"}],["$","p","13",{"children":"受容体の発現増加は、T細胞活性の増強につながった。SETを備えたT細胞が、その標的を保有するメラノーマ（悪性黒色腫）細胞に曝露されると、T細胞の活性化を示すシグナル伝達タンパク質をより多く放出した。また、通常はTCRとその標的の相互作用を安定化させる分子を欠いていた他のT細胞においても、SETはその活性を向上させた。"}],["$","p","14",{"children":"他のがん抗原やウイルスタンパク質など、互いに無関係な4つの標的を認識するよう設計されたTCRについても、SETの試験が行われた。いずれの場合も、再設計された定常領域により、元の受容体と比較してシグナル伝達タンパク質の放出量が増加した。これは、標的を変更することなく、その変更を異なるTCRに適用できることを示唆している。"}],["$","p","15",{"children":"■受容体の性能向上を、より優れた抗腫瘍効果へ"}],["$","p","16",{"children":"重要な疑問の一つは、再設計された受容体が、実際に腫瘍の抑制効果を高められるかどうかだった。実験では、SETを備えたT細胞は、元の受容体を持つT細胞よりも多くのメラノーマ細胞を死滅させた。48時間後の腫瘍細胞の生存率は、元のTCRを持つT細胞に曝露された場合は約78％だったのに対し、SET T細胞に曝露された場合は約30％まで低下した。"}],["$","p","17",{"children":"マウスにおいて、元の受容体は、腫瘍の増殖にほとんど影響を与えなかった。しかし、SETを発現するT細胞は、腫瘍の増殖を有意に遅らせ、生存期間を延長した。83日後、SET群の腫瘍は、元の受容体、または以前に再設計された受容体を投与された群に比べて、平均で35％小さくなっていた。127日目には、SET T細胞による治療を受けたマウスはすべて生存していたのに対し、対照群のマウスは半数未満しか生存していなかった。"}],["$","p","18",{"children":"この研究は、遺伝子改変T細胞療法を改善する新たな手法を提示している。がん標的を認識するTCRの領域を繰り返し改変する代わりに、コンピューターを用いた設計によって受容体の構造を改善できる。"}],"$L3","$L4"],"$L5"]}],"$L6","$L7","$L8",null,"$L9","$La"]}],["$Lb"],"$Lc"]}],"isPartial":"$@d","staleTime":"$e","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$e","varyParams":null},{"rsc":"$L11","isPartial":"$@12","staleTime":"$e","varyParams":"$13"},{"rsc":"$L14","isPartial":"$@15","staleTime":"$e","varyParams":"$13"}],"isUpgradeableISRFallback":false,"a":"$@16","rootVaryParams":null,"needsRuntimeRequest":"$@17"}
+18:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+19:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+1b:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1d:"$Sreact.suspense"
+1f:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+20:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+21:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+22:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+23:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","19",{"children":"また、これらの改良は、限られた設計サイクルで達成されたため、比較的コンパクトで効率的なアプローチといえる。SETの変更は、さまざまな標的特異性を持つTCRに追加できるため、同じ遺伝子改変戦略を、複数の治療法に活用できる可能性がある。"}]
+4:["$","p","20",{"children":"SETで改変されたTCRを、ヒトの治療法として評価するには、さらなる試験が必要だ。しかしこれは、コンピューターによるタンパク質設計のより広範な可能性を示唆している。治療効果を発揮するため、AIが全く新しい治療用分子を発明する必要はないのかもしれない。"}]
+5:["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]
+6:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/5c4c70fd6d5e36badb6cc5c78b0a8135c398e42c?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}]
+1a:T1af1,コンピューターで設計されたヒトT細胞受容体（TCR）の改変体により、受容体の発現が向上し、TCR鎖のミスペアリング（誤結合）が抑制されたことで、遺伝子改変T細胞が腫瘍細胞を認識・攻撃する能力が高まった。
+
+T細胞療法は、免疫系をがんに対する強力な武器に変えることができる。T細胞は感染した細胞や異常な細胞を特定し、破壊する役割を果たす免疫細胞だ。TCRと呼ばれる細胞表面のタンパク質を用いて潜在的な標的を認識する。
+
+身体の中にあるさまざまな細胞は、表面にタンパク質の断片を提示しており、T細胞はTCRを使い、細胞表面分子によって提示された特定の断片を認識する。T細胞は標的を認識すると、活性化されて攻撃などの反応を開始する。しかし、がん細胞はこのプロセスを回避できるため、がん治療の一つとして患者のT細胞を遺伝子改変し、特定のがん関連の標的を認識できるようにする手法がとられている。
+
+しかし、こうした受容体の改変は、ある問題を伴う。TCRは2本の鎖（α鎖とβ鎖）で構成されており、受容体が機能するにはそれらが正しく結合しなければならないのだ。改変されたTCRを患者のT細胞に導入すると、その鎖が細胞本来のTCR鎖と誤って結合してしまう可能性がある。その結果、細胞表面にある機能的な受容体が減少し、予期せぬ標的を攻撃してしまう（意図しない特異性を持つ）リスクが生じる恐れがある。
+
+AIを用いた新たな研究では、TCRの定常領域（機能維持を担う基幹部分）を再設計した。その結果生まれた構造強化型TCR（structurally enhanced TCR：SET）は、T細胞の機能を向上させ、マウスモデルにおいて遺伝子改変T細胞が腫瘍を制御する能力を高めた。
+
+■受容体の再設計
+
+TCRは、標的を認識する「可変領域」と、2本のTCR鎖が組み合うのを助け、T細胞のシグナル伝達機構の他の部分と連結する「定常領域」から構成される。遺伝子改変T細胞が機能するには、完成した受容体が細胞表面に到達する前に、両方の鎖が正しく組み合わなければならない。
+
+しかし、遺伝子改変された鎖は、細胞本来のTCR鎖とも競合することになり、その結果、機能する遺伝子改変受容体がさらに減少してしまう可能性がある。
+
+TCRの定常領域は、その受容体がどのがん標的を認識するかを決定する領域ではない。今回の研究では、2つのタンパク質設計アルゴリズムを用いて、受容体の安定性を高め、鎖同士がペアを形成しやすくなる微小な変化を探索した。
+
+第1ラウンドでは、主に定常領域の外面に、第2ラウンドでは、2つの鎖が交わる点に焦点を当てた。
+
+最終的なSET受容体は、ヒトTCRの定常領域に18の変異が含まれていた。これらの変化の一部は、2本の鎖が組み合わされる仕組みを最適化するものだった。例えば、ある変化は2本の鎖の安定化相互作用を再現し、別の変化はアミノ酸の位置を変え、1本目の鎖との新たな相互作用を形成した。
+
+■より多くの受容体が細胞表面に到達
+
+再設計されたTCRは、細胞本来のTCR鎖と競合するにもかかわらず、ヒトT細胞の表面に、より多くの機能的な受容体を発現させた。ヒト初代T細胞（実験用細胞ではなく、生体から直接採取した細胞）において、SETは元のTCRに比べて、標的特異的な受容体の染色強度が約2倍高かった。
+
+受容体の発現増加は、T細胞活性の増強につながった。SETを備えたT細胞が、その標的を保有するメラノーマ（悪性黒色腫）細胞に曝露されると、T細胞の活性化を示すシグナル伝達タンパク質をより多く放出した。また、通常はTCRとその標的の相互作用を安定化させる分子を欠いていた他のT細胞においても、SETはその活性を向上させた。
+
+他のがん抗原やウイルスタンパク質など、互いに無関係な4つの標的を認識するよう設計されたTCRについても、SETの試験が行われた。いずれの場合も、再設計された定常領域により、元の受容体と比較してシグナル伝達タンパク質の放出量が増加した。これは、標的を変更することなく、その変更を異なるTCRに適用できることを示唆している。
+
+■受容体の性能向上を、より優れた抗腫瘍効果へ
+
+重要な疑問の一つは、再設計された受容体が、実際に腫瘍の抑制効果を高められるかどうかだった。実験では、SETを備えたT細胞は、元の受容体を持つT細胞よりも多くのメラノーマ細胞を死滅させた。48時間後の腫瘍細胞の生存率は、元のTCRを持つT細胞に曝露された場合は約78％だったのに対し、SET T細胞に曝露された場合は約30％まで低下した。
+
+マウスにおいて、元の受容体は、腫瘍の増殖にほとんど影響を与えなかった。しかし、SETを発現するT細胞は、腫瘍の増殖を有意に遅らせ、生存期間を延長した。83日後、SET群の腫瘍は、元の受容体、または以前に再設計された受容体を投与された群に比べて、平均で35％小さくなっていた。127日目には、SET T細胞による治療を受けたマウスはすべて生存していたのに対し、対照群のマウスは半数未満しか生存していなかった。
+
+この研究は、遺伝子改変T細胞療法を改善する新たな手法を提示している。がん標的を認識するTCRの領域を繰り返し改変する代わりに、コンピューターを用いた設計によって受容体の構造を改善できる。
+
+また、これらの改良は、限られた設計サイクルで達成されたため、比較的コンパクトで効率的なアプローチといえる。SETの変更は、さまざまな標的特異性を持つTCRに追加できるため、同じ遺伝子改変戦略を、複数の治療法に活用できる可能性がある。
+
+SETで改変されたTCRを、ヒトの治療法として評価するには、さらなる試験が必要だ。しかしこれは、コンピューターによるタンパク質設計のより広範な可能性を示唆している。治療効果を発揮するため、AIが全く新しい治療用分子を発明する必要はないのかもしれない。7:["$","section",null,{"className":"article-actions","children":[["$","$L18",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/685270a8685270a8d346bbac","title":"がんを撃退する「遺伝子改変T細胞療法」をAIで改良(Forbes JAPAN)","locale":"ja","take":null}],["$","$L19",null,{"title":"がんを撃退する「遺伝子改変T細胞療法」をAIで改良(Forbes JAPAN)","excerpt":"$1a","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/685270a8685270a8d346bbac","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%81%8C%E3%82%93%E3%82%92%E6%92%83%E9%80%80%E3%81%99%E3%82%8B%E3%82%92AI%E3%81%A7%E6%94%B9%E8%89%AF&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+8:["$","$L1b",null,{"placement":"article","className":"mt-8"}]
+9:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+a:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","dw:https://dw.com/en/la-communities-kick-out-big-oil/a-79830843?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/8b928cda8b928cdae6f4a4a6","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"LA communities kick out Big Oil"}]]}]}],["$","li","nhk-politics:https://news.web.nhk/newsweb/na/nd-20261102de69793",{"children":["$","$L2",null,{"href":"/ja/n/c6954418c695441827065e40","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"アメリカ中間選挙 3日に投票開始 NW9広内キャスターが現地取材"}]]}]}],["$","li","nhk-society:https://news.web.nhk/newsweb/na/nd-20261102de69830",{"children":["$","$L2",null,{"href":"/ja/n/9730b9ef9730b9ef63b0ed87","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"アジア太平洋放送連合 次の会長にNHKの山名副会長を選出"}]]}]}]]}]]}]
+b:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+c:["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+f:["$","$1","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L20",null,{"children":["$","$1d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"がんを撃退する「遺伝子改変T細胞療法」をAIで改良(Forbes JAPAN)"}],["$","meta","1",{"name":"description","content":"コンピューターで設計されたヒトT細胞受容体（TCR）の改変体により、受容体の発現が向上し、TCR鎖のミスペアリング（誤結合）が抑制されたことで、遺伝子改変T細胞が腫瘍細胞を認識・攻撃する能力が高まった。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"がんを撃退する「遺伝子改変T細胞療法」をAIで改良(Forbes JAPAN)"}],["$","meta","4",{"property":"og:description","content":"コンピューターで設計されたヒトT細胞受容体（TCR）の改変体により、受容体の発現が向上し、TCR鎖のミスペアリング（誤結合）が抑制されたことで、遺伝子改変T細胞が腫瘍細胞を認識・攻撃する能力が高まった。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/685270a8685270a8d346bbac/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261102-00107305-forbes-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"がんを撃退する「遺伝子改変T細胞療法」をAIで改良(Forbes JAPAN)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"がんを撃退する「遺伝子改変T細胞療法」をAIで改良(Forbes JAPAN)"}],["$","meta","14",{"name":"twitter:description","content":"コンピューターで設計されたヒトT細胞受容体（TCR）の改変体により、受容体の発現が向上し、TCR鎖のミスペアリング（誤結合）が抑制されたことで、遺伝子改変T細胞が腫瘍細胞を認識・攻撃する能力が高まった。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261102-00107305-forbes-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L21","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+11:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+14:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+17:true
+1e:null
+e:300
+e:C
+16:0
+10:"$undefined"
+12:"$undefined"
+15:"$undefined"
+d:"$undefined"

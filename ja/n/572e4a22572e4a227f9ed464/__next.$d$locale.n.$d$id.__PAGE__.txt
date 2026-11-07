@@ -1,0 +1,87 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f846/live/1e389e90-d8ea-11f1-a701-fddedf244c16.jpg","image"]
+c:X
+11:X
+11:C
+0:{"buildId":"v4pnrtun7pn_skbrgOFJo","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-05","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"【米中間選挙2026】 トランプ氏、イランとの戦争が敗因との見方は「大方当たっている」"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"一昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f846/live/1e389e90-d8ea-11f1-a701-fddedf244c16.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"中間選挙後初めて公の場に姿を見せたトランプ米大統領。演説では選挙結果について何も語らず、記者団から質問されて初めて考えを述べた（4日、ホワイトハウス敷地内）"}],["$","p","1",{"children":"ダークスーツ姿のトランプ氏が左手にマイクをもち、口を開いている"}],["$","p","2",{"children":"アメリカのドナルド・トランプ大統領は4日、与党・共和党の大敗となった中間選挙について、イランとの戦争が影響したとの考えを示した。これより先にJ・D・ヴァンス副大統領がそうした見方を示しており、トランプ氏がそれを認める格好となった。今回の選挙では、民主党が連邦議会の上下両院の主導権を共和党から奪った。票の集計は多くの州でほぼ終了しているが、当落判定に時間がかかる見通しの選挙区もある。"}],["$","p","3",{"children":"トランプ政権に対する評価が問われた3日の中間選挙では、民主党が次々と共和党から議席や公職を奪った。"}],["$","p","4",{"children":"連邦議会では、上院と下院の過半数を奪還することが確実となっている。4日夜（日本時間5日朝）時点で、民主党は上院（定数100、改選35）の54議席、下院（定数435）の240議席を確保したと、米メディアは報じている。"}],["$","p","5",{"children":"上院2議席、下院48議席の行方がまだ決まっていない。"}],["$","p","6",{"children":"上院は、ミシシッピ州で極めて僅差の争いとなっており、東部時間4日午後2時半（日本時間5日午前4時半）すぎの開票率約96％の時点で、票差は65票となっている。アラスカ州では開票作業に時間がかかっている。"}],["$","p","7",{"children":"これから到着する郵便投票の集計もあり、最終結果がまとまるまで、ミシシッピ州で投票日から最大10日、アラスカ州で最大15日かかる可能性がある。"}],["$","p","8",{"children":"下院も、4日夜（日本時間5日朝）の時点で、西部カリフォルニア州などで開票率40～50％台の選挙区がいくつかある。"}],["$","p","9",{"children":"今回の選挙結果を受け、ヴァンス副大統領は4日午前、Xに長文を投稿。「私たちが負けた理由は（イランとの）戦争だ」と主張した。"}],["$","p","10",{"children":"ヴァンス氏は投稿で、「（前回大統領選の）2024年にトランプ／ヴァンスに投票した多くの人が、2026年には民主党に投票した」とし、「私たちの経済に関するメッセージがぼんやりしていた」のがその理由の一部だとした。"}],["$","p","11",{"children":"そして、トランプ支持者らにとって大事だったのは、共和党がイランでの戦争を終わらせ、インフレと生活費上昇への対策に力を注ぎ、アメリカを第一に置き、イスラエルとの関係を変えることだったと、最近の世論調査を引き合いに主張した。"}],["$","p","12",{"children":"ヴァンス氏はまた、移民取り締まりのあり方を変えることにも自分は前向きだとし、取り締まりの重点を不法就労者を雇用する企業に移すといった方法があるとした。"}],["$","p","13",{"children":"今回の選挙結果を腹立たしく思っている人々に向けては、「その怒りを原動力にして、私たちの国を救う取り組みに戻ろう」と呼びかけた。"}],["$","p","14",{"children":"【米中間選挙2026】民主党が議会両院を奪還、トランプ氏は今後どうする"}],["$","p","15",{"children":"トランプ大統領は4日午後、ホワイトハウスのボールルーム（大宴会場）の建設現場で演説をし、記者団の取材に応じた。選挙後に公の場に姿を見せたのは初めて。"}],["$","p","16",{"children":"トランプ氏は、演説では選挙結果に触れなかった。その後、記者団から、選挙運動について後悔していることがあるかと問われると、直接は答えず、「私の名が投票用紙にあったら、私たちは勝っていた」と主張した。"}],["$","p","17",{"children":"イランとの戦争が敗因となったとするヴァンス氏の投稿についての考えを聞かれると、「大方当たっている」と答えた。ただ、戦争そのものより、戦争によって起こったガソリン価格の高騰が影響したと述べた。"}],["$","p","18",{"children":"ピート・ヘグセス国防長官を解任する可能性についての質問には、解任は考えていないと返答。ヘグセス氏について、「とてもよい仕事」をしていると述べた。"}],["$","p","19",{"children":"民主党については、同党が「破壊的」でない限り協力する用意があるとの考えを、トランプ氏は示した。一方で、民主党の法案を阻止する拒否権は持ち続けるとした。"}],["$","p","20",{"children":"民主党が議会の主導権を取り戻したことで、再び弾劾されることを心配していないかと問われると、トランプ氏は「そんなことはちっともない」と答えた。"}],["$","p","21",{"children":"【米中間選挙2026】 民主党圧勝の結果に有権者は 「具体的な成果を」「対立だらけの2年間に」"}],["$","p","22",{"children":"BBCのダニエル・ブッシュ・ワシントン特派員は、ヴァンス氏の投稿について、現職の副大統領が大統領から距離を置く格好で、これほど率直に中間選挙の結果について語るのは、最近では例がないと説明。"}],["$","p","23",{"children":"ヴァンス氏がこの機会を使い、2028年大統領選に立候補する意向を示したとみる向きもあると伝えた。"}],["$","p","24",{"children":"そして、ヴァンス氏が、イランとの戦争に政治的な価値があるのか共和党は議論すべきだとも訴えていることもあり、「トランプ後」の共和党の外交政策をめぐる議論が、右派勢力で沸き起こるだろうと解説した。"}],["$","p","25",{"children":"（英語記事 LIVE：Trump points to Iran war in midterms defeat as Mississippi Senate race goes to the wire）"}]],"$L3"]}],"$L4","$L5","$L6",null,"$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":"$@b","staleTime":"$c","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$c","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$c","varyParams":"$11"},{"rsc":"$L12","isPartial":"$@13","staleTime":"$c","varyParams":"$11"}],"isUpgradeableISRFallback":false,"a":"$@14","rootVaryParams":null,"needsRuntimeRequest":"$@15"}
+16:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+17:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+19:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+1a:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1e:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1f:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+20:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+21:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]
+4:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/c5gm0rld0w8do","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}]
+18:T16ac,中間選挙後初めて公の場に姿を見せたトランプ米大統領。演説では選挙結果について何も語らず、記者団から質問されて初めて考えを述べた（4日、ホワイトハウス敷地内）
+
+ダークスーツ姿のトランプ氏が左手にマイクをもち、口を開いている
+
+アメリカのドナルド・トランプ大統領は4日、与党・共和党の大敗となった中間選挙について、イランとの戦争が影響したとの考えを示した。これより先にJ・D・ヴァンス副大統領がそうした見方を示しており、トランプ氏がそれを認める格好となった。今回の選挙では、民主党が連邦議会の上下両院の主導権を共和党から奪った。票の集計は多くの州でほぼ終了しているが、当落判定に時間がかかる見通しの選挙区もある。
+
+トランプ政権に対する評価が問われた3日の中間選挙では、民主党が次々と共和党から議席や公職を奪った。
+
+連邦議会では、上院と下院の過半数を奪還することが確実となっている。4日夜（日本時間5日朝）時点で、民主党は上院（定数100、改選35）の54議席、下院（定数435）の240議席を確保したと、米メディアは報じている。
+
+上院2議席、下院48議席の行方がまだ決まっていない。
+
+上院は、ミシシッピ州で極めて僅差の争いとなっており、東部時間4日午後2時半（日本時間5日午前4時半）すぎの開票率約96％の時点で、票差は65票となっている。アラスカ州では開票作業に時間がかかっている。
+
+これから到着する郵便投票の集計もあり、最終結果がまとまるまで、ミシシッピ州で投票日から最大10日、アラスカ州で最大15日かかる可能性がある。
+
+下院も、4日夜（日本時間5日朝）の時点で、西部カリフォルニア州などで開票率40～50％台の選挙区がいくつかある。
+
+今回の選挙結果を受け、ヴァンス副大統領は4日午前、Xに長文を投稿。「私たちが負けた理由は（イランとの）戦争だ」と主張した。
+
+ヴァンス氏は投稿で、「（前回大統領選の）2024年にトランプ／ヴァンスに投票した多くの人が、2026年には民主党に投票した」とし、「私たちの経済に関するメッセージがぼんやりしていた」のがその理由の一部だとした。
+
+そして、トランプ支持者らにとって大事だったのは、共和党がイランでの戦争を終わらせ、インフレと生活費上昇への対策に力を注ぎ、アメリカを第一に置き、イスラエルとの関係を変えることだったと、最近の世論調査を引き合いに主張した。
+
+ヴァンス氏はまた、移民取り締まりのあり方を変えることにも自分は前向きだとし、取り締まりの重点を不法就労者を雇用する企業に移すといった方法があるとした。
+
+今回の選挙結果を腹立たしく思っている人々に向けては、「その怒りを原動力にして、私たちの国を救う取り組みに戻ろう」と呼びかけた。
+
+【米中間選挙2026】民主党が議会両院を奪還、トランプ氏は今後どうする
+
+トランプ大統領は4日午後、ホワイトハウスのボールルーム（大宴会場）の建設現場で演説をし、記者団の取材に応じた。選挙後に公の場に姿を見せたのは初めて。
+
+トランプ氏は、演説では選挙結果に触れなかった。その後、記者団から、選挙運動について後悔していることがあるかと問われると、直接は答えず、「私の名が投票用紙にあったら、私たちは勝っていた」と主張した。
+
+イランとの戦争が敗因となったとするヴァンス氏の投稿についての考えを聞かれると、「大方当たっている」と答えた。ただ、戦争そのものより、戦争によって起こったガソリン価格の高騰が影響したと述べた。
+
+ピート・ヘグセス国防長官を解任する可能性についての質問には、解任は考えていないと返答。ヘグセス氏について、「とてもよい仕事」をしていると述べた。
+
+民主党については、同党が「破壊的」でない限り協力する用意があるとの考えを、トランプ氏は示した。一方で、民主党の法案を阻止する拒否権は持ち続けるとした。
+
+民主党が議会の主導権を取り戻したことで、再び弾劾されることを心配していないかと問われると、トランプ氏は「そんなことはちっともない」と答えた。
+
+【米中間選挙2026】 民主党圧勝の結果に有権者は 「具体的な成果を」「対立だらけの2年間に」
+
+BBCのダニエル・ブッシュ・ワシントン特派員は、ヴァンス氏の投稿について、現職の副大統領が大統領から距離を置く格好で、これほど率直に中間選挙の結果について語るのは、最近では例がないと説明。
+
+ヴァンス氏がこの機会を使い、2028年大統領選に立候補する意向を示したとみる向きもあると伝えた。
+
+そして、ヴァンス氏が、イランとの戦争に政治的な価値があるのか共和党は議論すべきだとも訴えていることもあり、「トランプ後」の共和党の外交政策をめぐる議論が、右派勢力で沸き起こるだろうと解説した。
+
+（英語記事 LIVE：Trump points to Iran war in midterms defeat as Mississippi Senate race goes to the wire）5:["$","section",null,{"className":"article-actions","children":[["$","$L16",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/572e4a22572e4a227f9ed464","title":"【米中間選挙2026】 トランプ氏、イランとの戦争が敗因との見方は「大方当たっている」","locale":"ja","take":null}],["$","$L17",null,{"title":"【米中間選挙2026】 トランプ氏、イランとの戦争が敗因との見方は「大方当たっている」","excerpt":"$18","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/572e4a22572e4a227f9ed464","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%80%90%E7%B1%B3%E4%B8%AD%E9%96%93%E9%81%B8%E6%8C%992026%E3%80%91+%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E6%B0%8F%E3%80%81%E3%82%A4%E3%83%A9%E3%83%B3%E3%81%A8%E3%81%AE%E6%88%A6%E4%BA%89%E3%81%8C%E6%95%97%E5%9B%A0%E3%81%A8%E3%81%AE%E8%A6%8B%E6%96%B9%E3%81%AF&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+6:["$","$L19",null,{"placement":"article","className":"mt-8"}]
+7:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+8:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-science:https://bbc.co.uk/news/articles/cx1l36y2d941o",{"children":["$","$L2",null,{"href":"/ja/n/8223d2e78223d2e72232e547","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Investigation into 'major fish kill' after pollution incident"}]]}]}],["$","li","dw:https://dw.com/en/russia-is-back-in-world-sport-but-who-is-drug-testing-its-athletes/a-79862467?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/f39bcadaf39bcadaf9ddbd54","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Russia is back in world sport, but who is drug testing its athletes?"}]]}]}],["$","li","bbc-sport:https://bbc.co.uk/sport/football/articles/cm93zvzzl33zo",{"children":["$","$L2",null,{"href":"/ja/n/5bc5741c5bc5741c68d81a3c","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"What new Kane deal means for England and the Premier League record"}]]}]}]]}]]}]
+9:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+a:["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]
+d:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1e",null,{"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"【米中間選挙2026】 トランプ氏、イランとの戦争が敗因との見方は「大方当たっている」"}],["$","meta","1",{"name":"description","content":"中間選挙後初めて公の場に姿を見せたトランプ米大統領。演説では選挙結果について何も語らず、記者団から質問されて初めて考えを述べた（4日、ホワイトハウス敷地内）"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"【米中間選挙2026】 トランプ氏、イランとの戦争が敗因との見方は「大方当たっている」"}],["$","meta","4",{"property":"og:description","content":"中間選挙後初めて公の場に姿を見せたトランプ米大統領。演説では選挙結果について何も語らず、記者団から質問されて初めて考えを述べた（4日、ホワイトハウス敷地内）"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/572e4a22572e4a227f9ed464/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Ff846%2Flive%2F1e389e90-d8ea-11f1-a701-fddedf244c16.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"【米中間選挙2026】 トランプ氏、イランとの戦争が敗因との見方は「大方当たっている」"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"【米中間選挙2026】 トランプ氏、イランとの戦争が敗因との見方は「大方当たっている」"}],["$","meta","14",{"name":"twitter:description","content":"中間選挙後初めて公の場に姿を見せたトランプ米大統領。演説では選挙結果について何も語らず、記者団から質問されて初めて考えを述べた（4日、ホワイトハウス敷地内）"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Ff846%2Flive%2F1e389e90-d8ea-11f1-a701-fddedf244c16.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1f","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
+12:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
+15:true
+1c:null
+c:300
+c:C
+14:0
+e:"$undefined"
+10:"$undefined"
+13:"$undefined"
+b:"$undefined"
