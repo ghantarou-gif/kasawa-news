@@ -1,0 +1,166 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+21:X
+26:X
+26:C
+0:{"buildId":"-K4CQycLbXq1d6wzPX_5Z","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-13","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Gigazine"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"2026年11月13日のヘッドラインニュース"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"『スター・ウォーズ』シリーズの第1作目となる『 スター・ウォーズ／新たなる希望 』が公開された1977年から50周年を迎えることを記念して、アメリカで公開されたオリジナル版を新たに修復した『 スター・ウォーズ 』が2027年2月19日から全国の映画館で公開されることが決定しました。"}],["$","p","1",{"children":"『スター・ウォーズ』劇場公開50周年記念上映すべての伝説は、ここから──。1977年、アメリカ公開のオリジナル版を2027年2⽉19⽇(⾦)、全国の映画館だけで公開決定！"}],["$","p","2",{"children":"『スター・ウォーズ』公開を記念したポスタービジュアル。"}],["$","p","3",{"children":"『スター・ウォーズ』は2027年2月19日(金)に日米同時公開されます。"}],["$","p","4",{"children":"ちなみに、過去の同月同日にはこんな記事が掲載されていました。"}],["$","p","5",{"children":"ソニックのデザインが不評すぎて作り直しになった実写版「ソニック・ザ・ムービー」の予告編が公開、新デザインへの反応は？ - GIGAZINE"}],["$","p","6",{"children":"宇宙に「低スペックなCPU」しか持って行けない理由とは？ - GIGAZINE"}],["$","p","7",{"children":"OpenAIの推論コストは​​どれくらい高いのか？ - GIGAZINE"}],["$","p","8",{"children":"大麻が世界各地で合法化されて判明した大麻の危険性とは？ - GIGAZINE"}],["$","p","9",{"children":"「ネット上で最も古い嘘」の一次ソースを探索した結果とは？ - GIGAZINE"}],["$","p","10",{"children":"名前で調べても検索に引っかからないステルス出展者と成り果てました pic.twitter.com/tAfFsm9BvC"}],["$","p","11",{"children":"今年は、紅白歌合戦に出演する事が出来ませんでした。応援してくださった方々、本当に申し訳ありませんでした。"}],["$","p","12",{"children":"年齢も、国境も、言葉の壁さえも越えていく。会った事のない誰かと、たった一曲で心を通わせる事ができる。…"}],["$","p","13",{"children":"いまだかつてないヴィランの襲来により、一部で「ドゥームズデイ（滅亡の日）」接近の噂が囁かれております。"}],["$","p","14",{"children":"現在、弊社におきましても、急ぎ事実確認およびフライドチキンへの影響を調査中です。…"}],["$","p","15",{"children":"ヘグセス国防長官、自身を叱責した衛兵に勲章授与「よくやった。続けてくれ」 写真4枚 国際ニュース：AFPBB News"}],["$","p","16",{"children":"陸自情報部隊が市民の思想傾向から性的嗜好・借金まで情報収集――この問題をうやむやにしてはならない理由（布施祐仁） - エキスパート - Yahoo!ニュース"}],["$","p","17",{"children":"ヘグセス米国防長官、自身らを叱責した兵士に勲章授与 「無名戦士の墓」で談笑 - CNN.co.jp"}],["$","p","18",{"children":"浅草の香港料理屋が「原因さっぱりわからない、10月から急にほとんどお客様来なくなった、一日中空いてるし、人も通らない」とのこと→Googleのレビューの問題？閑散期？ - Togetter"}],["$","p","19",{"children":"毛先ぱっつんのボブにしてほしいのにイメージ通りにならない…なんで？→カットコンテスト優勝者からアドバイス「ただ真っ直ぐ切ればいいというわけではない」 - Togetter"}],["$","p","20",{"children":"無謀な５万人来場想定の鳥取のグルメイベントになぜ出店してしまうのか。 - Everything you've ever Dreamed"}],["$","p","21",{"children":"父が相談なく入院、病室に来たら差額3万円以上の個室だったことに大横転…「これ誰が払うの？」と尋ねると「自分で払う」と言い張った…真っ当ではない家庭では起こりえる - Togetter"}],["$","p","22",{"children":"自治医大は私立大学である。卒後9年間は地域医療へ従事することで高額な授業の返済を免除される仕組み。"}],["$","p","23",{"children":"亡くなった夫が３０年飼っていた子をそのまま私が飼育していたのですが、あまりに大きくなって手に負えなくなってしまい今は某水族館にいます。"}],["$","p","24",{"children":"手放すのは苦渋の決断でしたが、大事に体調管理をしていただいていてとても感謝してます。 pic.twitter.com/fUgl47RXok"}],["$","p","25",{"children":"メキシコ人です。メキシコで日本語を教えているので、日本語でお答えします。"}],["$","p","26",{"children":"結論から言うと、映画は半分が誇張で、半分は本当です。"}],["$","p","27",{"children":"「メキシコ人めちゃくちゃハードワーカーなイメージある。こっちの時間に合わせて深夜とか朝6時とかに連絡返ってくるし」メキシコの平均労働時間は日本より遥かに多かった - Togetter"}],["$","p","28",{"children":"夫が何やら深刻な顔で「相談があるんだけど…」とか言ってくる、借金か浮気か？と思ったら猫カフェに通っていたことを告白してきた - Togetter"}],["$","p","29",{"children":"多くの日本人が毎日髪を洗うようになったのは1990年前後、バブル期以後ではないか？昔の洗髪事情が話題に→「シャワーがなかった」「銭湯で洗髪代を払う」地域差もありそう - Togetter"}],["$","p","30",{"children":"ぐんまちゃん本人Xアカウント（ @gunma_gunmachan ）の一部ポストに「AIで生成」と表示される場合がありますが、これはX側の自動判定によるものです。"}],["$","p","31",{"children":"今回の不具合は、音声放送システムのサーバーが不正アクセスによるランサムウェア攻撃を受けたことによるものです。"}],["$","p","32",{"children":"また、音声放送端末機の設置者の氏名又は事業所名が漏えいした可能性があり、現在、その調査を進めております。"}],["$","p","33",{"children":"対象となる可能性のある個人情報には、氏名、ニックネーム、連絡先情報（Eメールアドレスと電話番号を含みます）、生年月日、性別、プロフィール情報、住所および配送先住所、住所の地理座標、顧客セグメント情報、お客様が任意に入力された身体的特徴、アカウント識別情報、IPアドレス、個人メモ、およびサイト内ポイント残高が含まれる場合があります。また、現在も本件に関する詳細な調査を継続しております。なお、現時点では、決済情報またはパスワードが漏えいしたことを示す証拠は確認されておりません。"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17"],"$L18"]}],"$L19","$L1a","$L1b",null,"$L1c","$L1d"]}],["$L1e"],"$L1f"]}],"isPartial":"$@20","staleTime":"$21","varyParams":null},{"rsc":"$L22","isPartial":"$@23","staleTime":"$21","varyParams":null},{"rsc":"$L24","isPartial":"$@25","staleTime":"$21","varyParams":"$26"},{"rsc":"$L27","isPartial":"$@28","staleTime":"$21","varyParams":"$26"}],"isUpgradeableISRFallback":false,"a":"$@29","rootVaryParams":null,"needsRuntimeRequest":"$@2a"}
+2b:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+2c:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+2f:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+30:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+31:"$Sreact.suspense"
+33:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+34:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+35:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+36:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+37:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","34",{"children":"何やってんだMicrosoft、OutlookだけじゃなくてOffice全部使えなくしておけよ、Teamsは動くなよ！「台風で休校になった気分だったのに…」 - Togetter"}]
+4:["$","p","35",{"children":"TVアニメ「鍋に弾丸を受けながら」公式サイト – 美少女（おじさん）、世界クレイジーグルメ旅、はじまる＿＿ノンフィクション＆カオス＆ハードグルメリポートアニメ、2027年1月放送開始！"}]
+5:["$","p","36",{"children":"もう新しいバージョンは出ないと聞いたんですけれども…Animate 2027、出たんですよ pic.twitter.com/mmcbCQj5JY"}]
+6:["$","p","37",{"children":"『ブヨトピア』はジャンプ+で初回全話無料!"}]
+7:["$","p","38",{"children":"第27話は本日更新です pic.twitter.com/mRZLOxg85O"}]
+8:["$","p","39",{"children":"北米での『ゴジラ-0.0』感想コメントまとめ - YouTube"}]
+9:["$","p","40",{"children":"ララ・ズーデンシュタイン キャラクターPV｜TVアニメ「バーテックスフォース」毎週土曜日23:30より放送・配信中！ - YouTube"}]
+a:["$","p","41",{"children":"劇場版『チェンソーマン レゼ篇』-CINEMA LIVE 2027- CM | 2027.2.13(Sat)･2.14(Sun)開催 - YouTube"}]
+b:["$","p","42",{"children":"「ドーンブレイカー号テスト」開催決定！――『シーオブレムナンツ』ストーリーコンセプトPV「余燼」 - YouTube"}]
+c:["$","p","43",{"children":"『グランド・セフト・オートVI』の魅力に迫る！【広大なワールド編】 - YouTube"}]
+d:["$","p","44",{"children":"本日発売！『SONIC PICO PARK』に「スーパーソニック」が登場！！ - YouTube"}]
+e:["$","p","45",{"children":"死ぬか生きるかの戦いっていいな.SBR - ニコニコ動画"}]
+f:["$","p","46",{"children":"\"SEXY\" pic.twitter.com/RGMqG6KDv9"}]
+10:["$","p","47",{"children":"11/12(木)までの10日間で、国内観客動員数が200万人を突破しました！"}]
+11:["$","p","48",{"children":"本日からは4DX・MX4D・Dolby CINEMAも上映開始となりました。"}]
+12:["$","p","49",{"children":"週末は映画館でお会いしましょう！ #ゴジラマイナスゼロ #ゴジラ #キングギドラ pic.twitter.com/3g25l6ACin"}]
+13:["$","p","50",{"children":"&mdash; 『ゴジラ-0.0』【公式】 (@g_minus_zero) 2026年11月13日"}]
+14:["$","p","51",{"children":"コアラのマーチ史上最もワイルドな“EXILEコアラ”が誕生！！結成25周年記念を祝し、メンバー14名と夢の初コラボ！「コアラのマーチ＜with EXILE＞」を11月24日(火)より全国で発売いたします。｜ニュースリリース｜お口の恋人 ロッテ"}]
+15:["$","p","52",{"children":"甘さとほろ苦さにひたる、華やかな香りに包まれるふたつの贅沢なひととき！ゴディバ「ティラミス ショコリキサー」、「ロイヤルミルクティー ホットショコリキサー」～2026年11月27日（金）より～｜GODIVA"}]
+16:["$","p","53",{"children":"11月23日スタート！「ダブルテキサスBBQ」パティが2枚入ったボリュームバーガーが再び！"}]
+17:["$","p","54",{"children":"You can read the machine translated English article Headline news for November 13, 2026… ."}]
+18:["$","p",null,{"className":"article-credit","children":"本文の著作権はGigazineにあります。"}]
+19:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://gigazine.net/news/20261113-headline/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はGigazineで読む"}]}]
+2d:T228e,『スター・ウォーズ』シリーズの第1作目となる『 スター・ウォーズ／新たなる希望 』が公開された1977年から50周年を迎えることを記念して、アメリカで公開されたオリジナル版を新たに修復した『 スター・ウォーズ 』が2027年2月19日から全国の映画館で公開されることが決定しました。
+
+『スター・ウォーズ』劇場公開50周年記念上映すべての伝説は、ここから──。1977年、アメリカ公開のオリジナル版を2027年2⽉19⽇(⾦)、全国の映画館だけで公開決定！
+
+『スター・ウォーズ』公開を記念したポスタービジュアル。
+
+『スター・ウォーズ』は2027年2月19日(金)に日米同時公開されます。
+
+ちなみに、過去の同月同日にはこんな記事が掲載されていました。
+
+ソニックのデザインが不評すぎて作り直しになった実写版「ソニック・ザ・ムービー」の予告編が公開、新デザインへの反応は？ - GIGAZINE
+
+宇宙に「低スペックなCPU」しか持って行けない理由とは？ - GIGAZINE
+
+OpenAIの推論コストは​​どれくらい高いのか？ - GIGAZINE
+
+大麻が世界各地で合法化されて判明した大麻の危険性とは？ - GIGAZINE
+
+「ネット上で最も古い嘘」の一次ソースを探索した結果とは？ - GIGAZINE
+
+名前で調べても検索に引っかからないステルス出展者と成り果てました pic.twitter.com/tAfFsm9BvC
+
+今年は、紅白歌合戦に出演する事が出来ませんでした。応援してくださった方々、本当に申し訳ありませんでした。
+
+年齢も、国境も、言葉の壁さえも越えていく。会った事のない誰かと、たった一曲で心を通わせる事ができる。…
+
+いまだかつてないヴィランの襲来により、一部で「ドゥームズデイ（滅亡の日）」接近の噂が囁かれております。
+
+現在、弊社におきましても、急ぎ事実確認およびフライドチキンへの影響を調査中です。…
+
+ヘグセス国防長官、自身を叱責した衛兵に勲章授与「よくやった。続けてくれ」 写真4枚 国際ニュース：AFPBB News
+
+陸自情報部隊が市民の思想傾向から性的嗜好・借金まで情報収集――この問題をうやむやにしてはならない理由（布施祐仁） - エキスパート - Yahoo!ニュース
+
+ヘグセス米国防長官、自身らを叱責した兵士に勲章授与 「無名戦士の墓」で談笑 - CNN.co.jp
+
+浅草の香港料理屋が「原因さっぱりわからない、10月から急にほとんどお客様来なくなった、一日中空いてるし、人も通らない」とのこと→Googleのレビューの問題？閑散期？ - Togetter
+
+毛先ぱっつんのボブにしてほしいのにイメージ通りにならない…なんで？→カットコンテスト優勝者からアドバイス「ただ真っ直ぐ切ればいいというわけではない」 - Togetter
+
+無謀な５万人来場想定の鳥取のグルメイベントになぜ出店してしまうのか。 - Everything you've ever Dreamed
+
+父が相談なく入院、病室に来たら差額3万円以上の個室だったことに大横転…「これ誰が払うの？」と尋ねると「自分で払う」と言い張った…真っ当ではない家庭では起こりえる - Togetter
+
+自治医大は私立大学である。卒後9年間は地域医療へ従事することで高額な授業の返済を免除される仕組み。
+
+亡くなった夫が３０年飼っていた子をそのまま私が飼育していたのですが、あまりに大きくなって手に負えなくなってしまい今は某水族館にいます。
+
+手放すのは苦渋の決断でしたが、大事に体調管理をしていただいていてとても感謝してます。 pic.twitter.com/fUgl47RXok
+
+メキシコ人です。メキシコで日本語を教えているので、日本語でお答えします。
+
+結論から言うと、映画は半分が誇張で、半分は本当です。
+
+「メキシコ人めちゃくちゃハードワーカーなイメージある。こっちの時間に合わせて深夜とか朝6時とかに連絡返ってくるし」メキシコの平均労働時間は日本より遥かに多かった - Togetter
+
+夫が何やら深刻な顔で「相談があるんだけど…」とか言ってくる、借金か浮気か？と思ったら猫カフェに通っていたことを告白してきた - Togetter
+
+多くの日本人が毎日髪を洗うようになったのは1990年前後、バブル期以後ではないか？昔の洗髪事情が話題に→「シャワーがなかった」「銭湯で洗髪代を払う」地域差もありそう - Togetter
+
+ぐんまちゃん本人Xアカウント（ @gunma_gunmachan ）の一部ポストに「AIで生成」と表示される場合がありますが、これはX側の自動判定によるものです。
+
+今回の不具合は、音声放送システムのサーバーが不正アクセスによるランサムウェア攻撃を受けたことによるものです。
+
+また、音声放送端末機の設置者の氏名又は事業所名が漏えいした可能性があり、現在、その調査を進めております。
+
+対象となる可能性のある個人情報には、氏名、ニックネーム、連絡先情報（Eメールアドレスと電話番号を含みます）、生年月日、性別、プロフィール情報、住所および配送先住所、住所の地理座標、顧客セグメント情報、お客様が任意に入力された身体的特徴、アカウント識別情報、IPアドレス、個人メモ、およびサイト内ポイント残高が含まれる場合があります。また、現在も本件に関する詳細な調査を継続しております。なお、現時点では、決済情報またはパスワードが漏えいしたことを示す証拠は確認されておりません。
+
+何やってんだMicrosoft、OutlookだけじゃなくてOffice全部使えなくしておけよ、Teamsは動くなよ！「台風で休校になった気分だったのに…」 - Togetter
+
+TVアニメ「鍋に弾丸を受けながら」公式サイト – 美少女（おじさん）、世界クレイジーグルメ旅、はじまる＿＿ノンフィクション＆カオス＆ハードグルメリポートアニメ、2027年1月放送開始！
+
+もう新しいバージョンは出ないと聞いたんですけれども…Animate 2027、出たんですよ pic.twitter.com/mmcbCQj5JY
+
+『ブヨトピア』はジャンプ+で初回全話無料!
+
+第27話は本日更新です pic.twitter.com/mRZLOxg85O
+
+北米での『ゴジラ-0.0』感想コメントまとめ - YouTube
+
+ララ・ズーデンシュタイン キャラクターPV｜TVアニメ「バーテックスフォース」毎週土曜日23:30より放送・配信中！ - YouTube
+
+劇場版『チェンソーマン レゼ篇』-CINEMA LIVE 2027- CM | 2027.2.13(Sat)･2.14(Sun)開催 - YouTube
+
+「ドーンブレイカー号テスト」開催決定！――『シーオブレムナンツ』ストーリーコンセプトPV「余燼」 - YouTube
+
+『グランド・セフト・オートVI』の魅力に迫る！【広大なワールド編】 - YouTube
+
+本日発売！『SONIC PICO PARK』に「スーパーソニック」が登場！！ - YouTube
+
+死ぬか生きるかの戦いっていいな.SBR - ニコニコ動画
+
+"SEXY" pic.twitter.com/RGMqG6KDv9
+
+11/12(木)までの10日間で、国内観客動員数が200万人を突破しました！
+
+本日からは4DX・MX4D・Dolby CINEMAも上映開始となりました。
+
+週末は映画館でお会いしましょう！ #ゴジラマイナスゼロ #ゴジラ #キングギドラ pic.twitter.com/3g25l6ACin
+
+&mdash; 『ゴジラ-0.0』【公式】 (@g_minus_zero) 2026年11月13日
+
+コアラのマーチ史上最もワイルドな“EXILEコアラ”が誕生！！結成25周年記念を祝し、メンバー14名と夢の初コラボ！「コアラのマーチ＜with EXILE＞」を11月24日(火)より全国で発売いたします。｜ニュースリリース｜お口の恋人 ロッテ
+
+甘さとほろ苦さにひたる、華やかな香りに包まれるふたつの贅沢なひととき！ゴディバ「ティラミス ショコリキサー」、「ロイヤルミルクティー ホットショコリキサー」～2026年11月27日（金）より～｜GODIVA
+
+11月23日スタート！「ダブルテキサスBBQ」パティが2枚入ったボリュームバーガーが再び！
+
+You can read the machine translated English article Headline news for November 13, 2026… .1a:["$","section",null,{"className":"article-actions","children":[["$","$L2b",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/1f463f7c1f463f7cc7a3bfe8","title":"2026年11月13日のヘッドラインニュース","locale":"ja","take":null}],["$","$L2c",null,{"title":"2026年11月13日のヘッドラインニュース","excerpt":"$2d","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/1f463f7c1f463f7cc7a3bfe8","locale":"ja"}],"$L2e"]}]
+1b:["$","$L2f",null,{"placement":"article","className":"mt-8"}]
+1c:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+1d:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","euronews:https://euronews.com/video/2026/11/13/uk-christmas-at-kew-2026-unveils-spectacular-light-trail-in-london",{"children":["$","$L2",null,{"href":"/ja/n/83360355833603550dcb534d","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Euronews"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"UK: Christmas at Kew 2026 unveils spectacular light trail in London"}]]}]}],["$","li","nhk-politics:https://news.web.nhk/newsweb/na/nd-20261113de75730",{"children":["$","$L2",null,{"href":"/ja/n/246ad5de246ad5de4b1b325a","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"日本とメキシコの外相 有識者会議で中長期の戦略的関係議論へ"}]]}]}],["$","li","nhk-business:https://news.web.nhk/newsweb/na/nd-20261113de75739",{"children":["$","$L2",null,{"href":"/ja/n/a21f60c6a21f60c6acd101a6","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"ヤマダデンキ 不正アクセスで最大350万件が影響受けた可能性"}]]}]}]]}]]}]
+1e:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+1f:["$","$L30",null,{"children":["$","$31",null,{"name":"Next.MetadataOutlet","children":"$@32"}]}]
+22:["$","$1","h",{"children":[null,["$","$L33",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L34",null,{"children":["$","$31",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"2026年11月13日のヘッドラインニュース"}],["$","meta","1",{"name":"description","content":"『スター・ウォーズ』シリーズの第1作目となる『 スター・ウォーズ／新たなる希望 』が公開された1977年から50周年を迎えることを記念して、アメリカで公開されたオリジナル版を新たに修復した『 スター・ウォーズ 』が2027年2月19日から全国の映画館で公開されることが決定しました。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"2026年11月13日のヘッドラインニュース"}],["$","meta","4",{"property":"og:description","content":"『スター・ウォーズ』シリーズの第1作目となる『 スター・ウォーズ／新たなる希望 』が公開された1977年から50周年を迎えることを記念して、アメリカで公開されたオリジナル版を新たに修復した『 スター・ウォーズ 』が2027年2月19日から全国の映画館で公開されることが決定しました。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/1f463f7c1f463f7cc7a3bfe8/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"2026年11月13日のヘッドラインニュース"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"2026年11月13日のヘッドラインニュース"}],["$","meta","14",{"name":"twitter:description","content":"『スター・ウォーズ』シリーズの第1作目となる『 スター・ウォーズ／新たなる希望 』が公開された1977年から50周年を迎えることを記念して、アメリカで公開されたオリジナル版を新たに修復した『 スター・ウォーズ 』が2027年2月19日から全国の映画館で公開されることが決定しました。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L35","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+24:["$","$1","c",{"children":[null,["$","$L36",null,{"parallelRouterKey":"children","template":["$","$L37",null,{}]}]]}]
+27:["$","$1","c",{"children":[null,["$","$L36",null,{"parallelRouterKey":"children","template":["$","$L37",null,{}]}]]}]
+2a:true
+2e:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=2026%E5%B9%B411%E6%9C%8813%E6%97%A5%E3%81%AE%E3%83%98%E3%83%83%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&mode=phrase&url=gigazine.net&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+32:null
+21:300
+21:C
+29:0
+23:"$undefined"
+25:"$undefined"
+28:"$undefined"
+20:"$undefined"

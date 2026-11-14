@@ -1,0 +1,108 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+1b:X
+20:X
+20:C
+0:{"buildId":"-K4CQycLbXq1d6wzPX_5Z","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-13","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"CNET Japan"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"Googleの「カメラ付きAI眼鏡」最速実機インプレ--見たものを理解するGeminiの実力"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"Gentle Monsterのショールームで、4つのロボットの頭を見上げていた。透明な球体の中で回転しながら、それぞれ異なる言語で会話を交わしている。ところが、何を話しているのかは分かる。かけていたスマートグラスが、リアルタイムで翻訳してくれていたのだ。使っていたのは、米Googleと韓国Samsungが共同開発した「Intelligent Eyewear」のGentle Monsterモデル。Warby Parkerのモデルも用意されている。どちらもディスプレイは搭載せず、スマートフォンと接続してAI「Gemini」の音声支援を利用する。12月10日（現地時間）に米国では両ブランド、韓国ではGentle Monsterモデルが発売される。"}],["$","p","1",{"children":"Googleのスマートグラス復帰は2年近く前から予告されていたが、度付きレンズにも対応する最初の製品が、年末のこの時期に登場するのはやや珍しい。しかも、今回の製品はまだ始まりにすぎない。Googleはすでに、ディスプレイを内蔵したAI対応グラスの開発も進めている。"}],["$","p","2",{"children":"筆者はこれまでも、GoogleとSamsungのスマートグラスをデモで何度か試してきた。だが今月、Warby ParkerとGentle Monsterがデザインした最終製品版を初めてかけることができた。両ブランドがニューヨーク市内に開設する、予約制の体験型ショールームにも足を運んだ。"}],["$","p","3",{"children":"ショールームは、スマートグラスを試すために作られた遊び場のようだった。Warby Parkerには、旅をテーマにした図書室風の部屋や、奇想天外なオブジェが並ぶ。Gentle Monsterの方は一転して、無機質で不思議な部屋が続く。本物そっくりの馬や人、鶏にロボットが紛れ込み、宙に浮かぶ頭まである。その先に現れたのは……巨大な青い「ジェントル・モンスター」だった。"}],["$","p","4",{"children":"Metaのスマートグラスなどを長年レビューしてきた筆者にとって、今回の製品には見慣れた部分も多かった。ただ、Geminiが深く組み込まれたことで、使い勝手は大きく変わりそうだ。2027年にも登場すると予想される米Appleのスマートグラスがどのようなものになるのかを考える上でも、参考になるだろう。"}],["$","p","5",{"children":"Warby ParkerとGentle Monsterは、どちらも複数のフレームを用意する。価格は前者が395ドルから、後者が449ドルから。基本的な仕組みは共通だ。いずれもディスプレイはなく、度付きレンズなどは各ブランドが扱う種類から選べる。テンプルには、耳元に音を届けるスピーカーと、周囲の雑音を抑えながら顔を向けた方向の音を拾う4基のビームフォーミングマイクを内蔵する。左側にカメラを1基、右側にLEDインジケーターを備える。"}],["$","p","6",{"children":"すべてのフレームデザインを試着してから、度付きレンズを入れたものにかけ替え、展示スペースを歩き回りながら機能を試してみた。フレームの大きさやテンプルの長さは、最近の「Ray-Ban Meta Gen 3」によく似ている。大半のモデルは約40gと軽く、かけていても顔への負担はほとんど感じなかった。もっとも、筆者は普段から太めの眼鏡をかけているので、その点は差し引いて考えてほしい。"}],["$","p","7",{"children":"フレームは全体的にすっきりしたデザインで、少し保守的でもある。ただ、どれも実に見栄えがいい。Warby Parkerには落ち着いた色合いのモデルがそろい、特に気に入ったのは深い緑色の「パイン」だ。形も丸型やスクエア型など、なじみのあるものが中心となっている。"}],["$","p","8",{"children":"両ブランドのIntelligent Eyewearは、すべてのモデルにカメラを搭載する。GoogleのXR事業を率いるシャラム・イザディ氏は、ユーザーが置かれた状況を理解し、必要な支援をするためにはカメラが欠かせないと考えている。一方で、Metaが最近発売した「Ray-Ban Audio」のような、カメラを搭載しないモデルを将来投入することにも前向きだ。"}],["$","p","9",{"children":"Googleのグラスにも、Meta製品と同様に撮影中であることを周囲に知らせる仕組みがある。写真や動画を撮るとLEDが点滅し、音も鳴る。屋外ではLEDの明るさも自動的に調整される。"}],["$","p","10",{"children":"特に驚いたのは、会話を少し聴くだけでGeminiが言語を判別し、その場で翻訳してくれることだ。旅行先ではかなり重宝しそうだ。Gentle Monsterのショールームには、ロボットの頭がさまざまな言語でブランドのデザイン哲学を語る部屋がある。そこで10分ほど翻訳を聴いてみた。多少遅れたり、言葉がつかえたりすることはあったものの、翻訳が途切れることは一度もなかった。"}],["$","p","11",{"children":"話し言葉だけでなく、書かれた文字も認識できる。文字の言語認識は70以上の言語に対応しており、筆者がこれまで試してきた同種の製品を大きく上回る。テンプルを2本指で長押しすれば、リアルタイム翻訳が始まる。翻訳音声も一律ではなく、話し手の違いや声の抑揚に合わせて、声色や話し方が変わった。"}],["$","p","12",{"children":"テンプルの側面を長押しするとGeminiが起動する。一度起動すれば、会話が約15秒間途切れるまでやり取りを続けられる。つまり、質問するたびに「Hey Google」や、新しい起動フレーズの「Hey Gemini」と呼びかける必要はない。そのまま話し続け、次々と質問できる。テンプルを後方へスワイプすれば、セッションを終了できる。"}],["$","p","13",{"children":"Geminiとのやり取りは、すぐにメモや要約にまとめて「Google Keep」に保存できる。「Googleマップ」とも連携する。イザディ氏によると、スマートフォン版Geminiの主な機能は、将来ほぼすべてグラスでも使えるようになるという。「iPhone」と接続した場合も、クラウド経由でGoogleのアプリ群と連携し、Gmailやカレンダーなどにアクセスできるようになる。"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11"],"$L12"]}],"$L13","$L14","$L15",null,"$L16","$L17"]}],["$L18"],"$L19"]}],"isPartial":"$@1a","staleTime":"$1b","varyParams":null},{"rsc":"$L1c","isPartial":"$@1d","staleTime":"$1b","varyParams":null},{"rsc":"$L1e","isPartial":"$@1f","staleTime":"$1b","varyParams":"$20"},{"rsc":"$L21","isPartial":"$@22","staleTime":"$1b","varyParams":"$20"}],"isUpgradeableISRFallback":false,"a":"$@23","rootVaryParams":null,"needsRuntimeRequest":"$@24"}
+25:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+26:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+29:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+2a:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+2b:"$Sreact.suspense"
+2d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+2e:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+2f:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+30:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+31:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","14",{"children":"工夫を凝らしたデモをいくつも試すうちに、このグラスの可能性が見えてきた。Gentle Monsterのショールームには、世界各国の食品を並べた食料庫のような空間がある。そこで、目の前に並ぶ各国のマヨネーズを比較してほしいとGeminiに頼んでみた。気になるものを指して「これは何？」と尋ねるだけでも、何を指しているのかきちんと理解してくれた。"}]
+4:["$","p","15",{"children":"別のデモでは、手に持った楽譜をGeminiに見せると、曲を認識して再生してくれた。タロット占いにも挑戦したが、こちらも問題なかった。カードが正位置か逆位置かも、きちんと判別できた。"}]
+5:["$","p","16",{"children":"もちろん、何もかもうまくいったわけではない。筆者には十分読める距離にある壁の文字を、Geminiは遠すぎて読めないと答えた。妙な答えが返ってくることもある。壁に書かれた「レストランで席が空くまで45分待つのは問題ないか」という質問を読ませたところ、どういうわけか「8分」という答えが返ってきた。"}]
+6:["$","p","17",{"children":"テンプルをタップすれば音楽の再生・一時停止、スワイプで曲送り、2本指のスワイプで音量調整ができる。ただし、音量調整の操作は少し分かりにくかった。テンプル上部のボタンは、Metaのグラスと同じく写真や動画の撮影に使う。撮影した写真がPixelスマートフォンに転送されるまでの時間は、デモによってはMetaのアプリを使う場合よりもずっと短く感じられた。"}]
+7:["$","p","18",{"children":"人で混み合う室内で短時間試した限りでは、音楽の再生音も良好だった。特に音量は大きく感じられ、Metaのグラスを少し上回っているかもしれない。ただし、ここは正式なレビューで改めて確かめたい。"}]
+8:["$","p","19",{"children":"GoogleのIntelligent Eyewearを評価する上で気になるのは、AIと各種サービスがどこまで自然に連携するか、そしてバッテリーの持ちだ。Metaの「Ray-Ban Meta Scriber Optics」は最大8時間の駆動時間をうたう。筆者もここ数カ月使っているが、負荷の高い使い方をすると、それより早く電池が切れる。Googleのグラスなら、もっと長く使えるのだろうか。それとも大差ないのだろうか。"}]
+9:["$","p","20",{"children":"Googleが一歩リードするとすれば、AI機能とGoogleアプリの連携だろう。2つの没入型ショールームを数時間かけて巡り、複数のグラスを試した。それでも、見えたのは可能性のほんの一端にすぎない。筆者が本当に知りたいのは、このグラスがGeminiとの過去の会話やGmail、Googleドキュメント、Googleマップの履歴と、どこまで深くつながるのかということだ。どれほど賢く、どれほど多くの情報を組み合わせられるのか。そして、それは便利で快適な体験になるのか。それとも、少し薄気味悪いものになるのだろうか。"}]
+a:["$","p","21",{"children":"Googleは、このグラスからのライブ配信も認めない方針だ。グラスからライブ配信できるMetaの製品に比べると、慎重な姿勢といえる。ペイン氏は「信頼を築き直すために、現時点では常に保守的な道を選ぶ」と語った。"}]
+b:["$","p","22",{"children":"もっとも、こうした対策があるからといって、公共の場でAIモードを使う人のそばにいても、周囲の人が安心できるとは限らない。スマートグラスが常に録画しているわけではないと理解してもらうことさえ、すでに難しくなっている。Googleが、公共の場でスマートグラスを使うことへの信頼を取り戻そうとしているのは明らかだ。"}]
+c:["$","p","23",{"children":"Googleが準備しているウェアラブル端末は、Warby ParkerとGentle Monsterのモデルだけではない。プロセッサーを搭載した外部ユニットに有線接続し、ポータブルVRヘッドセットのように使える複合現実（MR）グラス「XREAL AURA」も、数週間以内に発売される予定だ。ディスプレイを内蔵したIntelligent Eyewearについても、来年の発売を視野に入れたテストが始まる。"}]
+d:["$","p","24",{"children":"イザディ氏によると、カメラを使った支援機能は今後さらに増えるという。その方向性を示すのが、Googleが「Guided Vision」と呼ぶ機能だ。長年開発を続けてきた「Project Astra」の延長線上にある。「今後数カ月で、我々の計画についてさらに詳しくお伝えする」と同氏は語った。"}]
+e:["$","p","25",{"children":"ただ、目指しているのが自律型AI、つまりAIエージェントであることは明らかだ。GoogleもMetaも、スマートグラスで利用できるAIエージェントの機能を拡張しようとしている。イザディ氏は「より多くの自律型AI機能と中核となるAI機能を導入し、ユーザーがAIの力をもっと頼れるようにする」と語る。Googleはこのグラスを、腕時計とも連携し、スマートフォンと一体になって働く端末へと進化させようとしている。"}]
+f:["$","p","26",{"children":"もっとも、そこに至るまでには、さまざまな形のハードウェアが次々と登場するかもしれない。GoogleとSamsungは、有線かワイヤレスか、ディスプレイがあるかないかといった違いも含め、複数のタイプのスマートグラスを投入する計画をすでに明らかにしている。今回のグラスは、まだ始まりにすぎないようだ。"}]
+10:["$","p","27",{"children":"Warby ParkerとGentle Monsterが、発売後のサポートをどこまで充実させ、その使い方をどれほど分かりやすく伝えられるのか。筆者はそこにも注目している。12月10日の発売までは、もうそう遠くない。"}]
+11:["$","p","28",{"children":"この記事は海外Ziff Davis発の 記事 を4Xが日本向けに編集したものです。"}]
+12:["$","p",null,{"className":"article-credit","children":"本文の著作権はCNET Japanにあります。"}]
+13:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://japan.cnet.com/article/35254849/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はCNET Japanで読む"}]}]
+27:T309b,Gentle Monsterのショールームで、4つのロボットの頭を見上げていた。透明な球体の中で回転しながら、それぞれ異なる言語で会話を交わしている。ところが、何を話しているのかは分かる。かけていたスマートグラスが、リアルタイムで翻訳してくれていたのだ。使っていたのは、米Googleと韓国Samsungが共同開発した「Intelligent Eyewear」のGentle Monsterモデル。Warby Parkerのモデルも用意されている。どちらもディスプレイは搭載せず、スマートフォンと接続してAI「Gemini」の音声支援を利用する。12月10日（現地時間）に米国では両ブランド、韓国ではGentle Monsterモデルが発売される。
+
+Googleのスマートグラス復帰は2年近く前から予告されていたが、度付きレンズにも対応する最初の製品が、年末のこの時期に登場するのはやや珍しい。しかも、今回の製品はまだ始まりにすぎない。Googleはすでに、ディスプレイを内蔵したAI対応グラスの開発も進めている。
+
+筆者はこれまでも、GoogleとSamsungのスマートグラスをデモで何度か試してきた。だが今月、Warby ParkerとGentle Monsterがデザインした最終製品版を初めてかけることができた。両ブランドがニューヨーク市内に開設する、予約制の体験型ショールームにも足を運んだ。
+
+ショールームは、スマートグラスを試すために作られた遊び場のようだった。Warby Parkerには、旅をテーマにした図書室風の部屋や、奇想天外なオブジェが並ぶ。Gentle Monsterの方は一転して、無機質で不思議な部屋が続く。本物そっくりの馬や人、鶏にロボットが紛れ込み、宙に浮かぶ頭まである。その先に現れたのは……巨大な青い「ジェントル・モンスター」だった。
+
+Metaのスマートグラスなどを長年レビューしてきた筆者にとって、今回の製品には見慣れた部分も多かった。ただ、Geminiが深く組み込まれたことで、使い勝手は大きく変わりそうだ。2027年にも登場すると予想される米Appleのスマートグラスがどのようなものになるのかを考える上でも、参考になるだろう。
+
+Warby ParkerとGentle Monsterは、どちらも複数のフレームを用意する。価格は前者が395ドルから、後者が449ドルから。基本的な仕組みは共通だ。いずれもディスプレイはなく、度付きレンズなどは各ブランドが扱う種類から選べる。テンプルには、耳元に音を届けるスピーカーと、周囲の雑音を抑えながら顔を向けた方向の音を拾う4基のビームフォーミングマイクを内蔵する。左側にカメラを1基、右側にLEDインジケーターを備える。
+
+すべてのフレームデザインを試着してから、度付きレンズを入れたものにかけ替え、展示スペースを歩き回りながら機能を試してみた。フレームの大きさやテンプルの長さは、最近の「Ray-Ban Meta Gen 3」によく似ている。大半のモデルは約40gと軽く、かけていても顔への負担はほとんど感じなかった。もっとも、筆者は普段から太めの眼鏡をかけているので、その点は差し引いて考えてほしい。
+
+フレームは全体的にすっきりしたデザインで、少し保守的でもある。ただ、どれも実に見栄えがいい。Warby Parkerには落ち着いた色合いのモデルがそろい、特に気に入ったのは深い緑色の「パイン」だ。形も丸型やスクエア型など、なじみのあるものが中心となっている。
+
+両ブランドのIntelligent Eyewearは、すべてのモデルにカメラを搭載する。GoogleのXR事業を率いるシャラム・イザディ氏は、ユーザーが置かれた状況を理解し、必要な支援をするためにはカメラが欠かせないと考えている。一方で、Metaが最近発売した「Ray-Ban Audio」のような、カメラを搭載しないモデルを将来投入することにも前向きだ。
+
+Googleのグラスにも、Meta製品と同様に撮影中であることを周囲に知らせる仕組みがある。写真や動画を撮るとLEDが点滅し、音も鳴る。屋外ではLEDの明るさも自動的に調整される。
+
+特に驚いたのは、会話を少し聴くだけでGeminiが言語を判別し、その場で翻訳してくれることだ。旅行先ではかなり重宝しそうだ。Gentle Monsterのショールームには、ロボットの頭がさまざまな言語でブランドのデザイン哲学を語る部屋がある。そこで10分ほど翻訳を聴いてみた。多少遅れたり、言葉がつかえたりすることはあったものの、翻訳が途切れることは一度もなかった。
+
+話し言葉だけでなく、書かれた文字も認識できる。文字の言語認識は70以上の言語に対応しており、筆者がこれまで試してきた同種の製品を大きく上回る。テンプルを2本指で長押しすれば、リアルタイム翻訳が始まる。翻訳音声も一律ではなく、話し手の違いや声の抑揚に合わせて、声色や話し方が変わった。
+
+テンプルの側面を長押しするとGeminiが起動する。一度起動すれば、会話が約15秒間途切れるまでやり取りを続けられる。つまり、質問するたびに「Hey Google」や、新しい起動フレーズの「Hey Gemini」と呼びかける必要はない。そのまま話し続け、次々と質問できる。テンプルを後方へスワイプすれば、セッションを終了できる。
+
+Geminiとのやり取りは、すぐにメモや要約にまとめて「Google Keep」に保存できる。「Googleマップ」とも連携する。イザディ氏によると、スマートフォン版Geminiの主な機能は、将来ほぼすべてグラスでも使えるようになるという。「iPhone」と接続した場合も、クラウド経由でGoogleのアプリ群と連携し、Gmailやカレンダーなどにアクセスできるようになる。
+
+工夫を凝らしたデモをいくつも試すうちに、このグラスの可能性が見えてきた。Gentle Monsterのショールームには、世界各国の食品を並べた食料庫のような空間がある。そこで、目の前に並ぶ各国のマヨネーズを比較してほしいとGeminiに頼んでみた。気になるものを指して「これは何？」と尋ねるだけでも、何を指しているのかきちんと理解してくれた。
+
+別のデモでは、手に持った楽譜をGeminiに見せると、曲を認識して再生してくれた。タロット占いにも挑戦したが、こちらも問題なかった。カードが正位置か逆位置かも、きちんと判別できた。
+
+もちろん、何もかもうまくいったわけではない。筆者には十分読める距離にある壁の文字を、Geminiは遠すぎて読めないと答えた。妙な答えが返ってくることもある。壁に書かれた「レストランで席が空くまで45分待つのは問題ないか」という質問を読ませたところ、どういうわけか「8分」という答えが返ってきた。
+
+テンプルをタップすれば音楽の再生・一時停止、スワイプで曲送り、2本指のスワイプで音量調整ができる。ただし、音量調整の操作は少し分かりにくかった。テンプル上部のボタンは、Metaのグラスと同じく写真や動画の撮影に使う。撮影した写真がPixelスマートフォンに転送されるまでの時間は、デモによってはMetaのアプリを使う場合よりもずっと短く感じられた。
+
+人で混み合う室内で短時間試した限りでは、音楽の再生音も良好だった。特に音量は大きく感じられ、Metaのグラスを少し上回っているかもしれない。ただし、ここは正式なレビューで改めて確かめたい。
+
+GoogleのIntelligent Eyewearを評価する上で気になるのは、AIと各種サービスがどこまで自然に連携するか、そしてバッテリーの持ちだ。Metaの「Ray-Ban Meta Scriber Optics」は最大8時間の駆動時間をうたう。筆者もここ数カ月使っているが、負荷の高い使い方をすると、それより早く電池が切れる。Googleのグラスなら、もっと長く使えるのだろうか。それとも大差ないのだろうか。
+
+Googleが一歩リードするとすれば、AI機能とGoogleアプリの連携だろう。2つの没入型ショールームを数時間かけて巡り、複数のグラスを試した。それでも、見えたのは可能性のほんの一端にすぎない。筆者が本当に知りたいのは、このグラスがGeminiとの過去の会話やGmail、Googleドキュメント、Googleマップの履歴と、どこまで深くつながるのかということだ。どれほど賢く、どれほど多くの情報を組み合わせられるのか。そして、それは便利で快適な体験になるのか。それとも、少し薄気味悪いものになるのだろうか。
+
+Googleは、このグラスからのライブ配信も認めない方針だ。グラスからライブ配信できるMetaの製品に比べると、慎重な姿勢といえる。ペイン氏は「信頼を築き直すために、現時点では常に保守的な道を選ぶ」と語った。
+
+もっとも、こうした対策があるからといって、公共の場でAIモードを使う人のそばにいても、周囲の人が安心できるとは限らない。スマートグラスが常に録画しているわけではないと理解してもらうことさえ、すでに難しくなっている。Googleが、公共の場でスマートグラスを使うことへの信頼を取り戻そうとしているのは明らかだ。
+
+Googleが準備しているウェアラブル端末は、Warby ParkerとGentle Monsterのモデルだけではない。プロセッサーを搭載した外部ユニットに有線接続し、ポータブルVRヘッドセットのように使える複合現実（MR）グラス「XREAL AURA」も、数週間以内に発売される予定だ。ディスプレイを内蔵したIntelligent Eyewearについても、来年の発売を視野に入れたテストが始まる。
+
+イザディ氏によると、カメラを使った支援機能は今後さらに増えるという。その方向性を示すのが、Googleが「Guided Vision」と呼ぶ機能だ。長年開発を続けてきた「Project Astra」の延長線上にある。「今後数カ月で、我々の計画についてさらに詳しくお伝えする」と同氏は語った。
+
+ただ、目指しているのが自律型AI、つまりAIエージェントであることは明らかだ。GoogleもMetaも、スマートグラスで利用できるAIエージェントの機能を拡張しようとしている。イザディ氏は「より多くの自律型AI機能と中核となるAI機能を導入し、ユーザーがAIの力をもっと頼れるようにする」と語る。Googleはこのグラスを、腕時計とも連携し、スマートフォンと一体になって働く端末へと進化させようとしている。
+
+もっとも、そこに至るまでには、さまざまな形のハードウェアが次々と登場するかもしれない。GoogleとSamsungは、有線かワイヤレスか、ディスプレイがあるかないかといった違いも含め、複数のタイプのスマートグラスを投入する計画をすでに明らかにしている。今回のグラスは、まだ始まりにすぎないようだ。
+
+Warby ParkerとGentle Monsterが、発売後のサポートをどこまで充実させ、その使い方をどれほど分かりやすく伝えられるのか。筆者はそこにも注目している。12月10日の発売までは、もうそう遠くない。
+
+この記事は海外Ziff Davis発の 記事 を4Xが日本向けに編集したものです。14:["$","section",null,{"className":"article-actions","children":[["$","$L25",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/e5fa6e5fe5fa6e5f5ec7d417","title":"Googleの「カメラ付きAI眼鏡」最速実機インプレ--見たものを理解するGeminiの実力","locale":"ja","take":null}],["$","$L26",null,{"title":"Googleの「カメラ付きAI眼鏡」最速実機インプレ--見たものを理解するGeminiの実力","excerpt":"$27","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/e5fa6e5fe5fa6e5f5ec7d417","locale":"ja"}],"$L28"]}]
+15:["$","$L29",null,{"placement":"article","className":"mt-8"}]
+16:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+17:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","euronews:https://euronews.com/video/2026/11/13/uk-christmas-at-kew-2026-unveils-spectacular-light-trail-in-london",{"children":["$","$L2",null,{"href":"/ja/n/83360355833603550dcb534d","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Euronews"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"UK: Christmas at Kew 2026 unveils spectacular light trail in London"}]]}]}],["$","li","nhk-politics:https://news.web.nhk/newsweb/na/nd-20261113de75730",{"children":["$","$L2",null,{"href":"/ja/n/246ad5de246ad5de4b1b325a","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"日本とメキシコの外相 有識者会議で中長期の戦略的関係議論へ"}]]}]}],["$","li","nhk-business:https://news.web.nhk/newsweb/na/nd-20261113de75739",{"children":["$","$L2",null,{"href":"/ja/n/a21f60c6a21f60c6acd101a6","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"ヤマダデンキ 不正アクセスで最大350万件が影響受けた可能性"}]]}]}]]}]]}]
+18:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+19:["$","$L2a",null,{"children":["$","$2b",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+1c:["$","$1","h",{"children":[null,["$","$L2d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L2e",null,{"children":["$","$2b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Googleの「カメラ付きAI眼鏡」最速実機インプレ--見たものを理解するGeminiの実力"}],["$","meta","1",{"name":"description","content":"Gentle Monsterのショールームで、4つのロボットの頭を見上げていた。透明な球体の中で回転しながら、それぞれ異なる言語で会話を交わしている。ところが、何を話しているのかは分かる。かけていたスマートグラスが、リアルタイムで翻訳してくれていたのだ。使っていたのは、米Googleと韓国Samsungが共同開発した「Intelligent Eyewear」のGentle Monsterモデル。Warby Parkerのモデルも用意されている。どちらもディスプレイは搭載せず、スマートフォンと接続してAI「Gemini」の音声支援を利用する。12月10日（現地時間）に米国では両ブランド、韓国ではGentle Monsterモデルが発売される。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"Googleの「カメラ付きAI眼鏡」最速実機インプレ--見たものを理解するGeminiの実力"}],["$","meta","4",{"property":"og:description","content":"Gentle Monsterのショールームで、4つのロボットの頭を見上げていた。透明な球体の中で回転しながら、それぞれ異なる言語で会話を交わしている。ところが、何を話しているのかは分かる。かけていたスマートグラスが、リアルタイムで翻訳してくれていたのだ。使っていたのは、米Googleと韓国Samsungが共同開発した「Intelligent Eyewear」のGentle Monsterモデル。Warby Parkerのモデルも用意されている。どちらもディスプレイは搭載せず、スマートフォンと接続してAI「Gemini」の音声支援を利用する。12月10日（現地時間）に米国では両ブランド、韓国ではGentle Monsterモデルが発売される。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/e5fa6e5fe5fa6e5f5ec7d417/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Googleの「カメラ付きAI眼鏡」最速実機インプレ--見たものを理解するGeminiの実力"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"Googleの「カメラ付きAI眼鏡」最速実機インプレ--見たものを理解するGeminiの実力"}],["$","meta","14",{"name":"twitter:description","content":"Gentle Monsterのショールームで、4つのロボットの頭を見上げていた。透明な球体の中で回転しながら、それぞれ異なる言語で会話を交わしている。ところが、何を話しているのかは分かる。かけていたスマートグラスが、リアルタイムで翻訳してくれていたのだ。使っていたのは、米Googleと韓国Samsungが共同開発した「Intelligent Eyewear」のGentle Monsterモデル。Warby Parkerのモデルも用意されている。どちらもディスプレイは搭載せず、スマートフォンと接続してAI「Gemini」の音声支援を利用する。12月10日（現地時間）に米国では両ブランド、韓国ではGentle Monsterモデルが発売される。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L2f","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+1e:["$","$1","c",{"children":[null,["$","$L30",null,{"parallelRouterKey":"children","template":["$","$L31",null,{}]}]]}]
+21:["$","$1","c",{"children":[null,["$","$L30",null,{"parallelRouterKey":"children","template":["$","$L31",null,{}]}]]}]
+24:true
+28:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=Google%E3%81%AE%E6%9C%80%E9%80%9F%E5%AE%9F%E6%A9%9F%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AC--%E8%A6%8B%E3%81%9F%E3%82%82%E3%81%AE%E3%82%92%E7%90%86%E8%A7%A3%E3%81%99%E3%82%8BGemini%E3%81%AE%E5%AE%9F%E5%8A%9B&mode=phrase&url=japan.cnet.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+2c:null
+1b:300
+1b:C
+23:0
+1d:"$undefined"
+1f:"$undefined"
+22:"$undefined"
+1a:"$undefined"

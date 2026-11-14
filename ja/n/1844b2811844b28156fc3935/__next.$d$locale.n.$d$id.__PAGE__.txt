@@ -1,0 +1,71 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg","image"]
+5:T11bd,ホワイトハウスによると、米ロ中の首脳は来週後半に会談する予定だ
+
+ドナルド・トランプ、ウラジーミル・プーチン、習近平の顔写真を並べてある。3人ともスーツにネクタイ
+
+米ホワイトハウスは13日、アメリカのドナルド・トランプ大統領、ロシアのウラジーミル・プーチン大統領、中国の習近平国家主席が19日、中国で首脳会談に臨むと発表した。
+
+ホワイトハウス報道官は記者団との電話会議で、トランプ大統領が中国南部・深圳で開かれるアジア太平洋経済協力会議（APEC）首脳会議に出席する際に、前例のない3首脳の会談が行われると明らかにした。
+
+「大統領は、他の議題の中でも特に、世界の核兵器削減について話し合うと明示している。トランプ大統領は、核兵器の拡散は非常に危険だと考えている」と、報道官は述べた。
+
+ロシア、中国両政府は今のところ、首脳会談についてコメントしていない。
+
+AP通信とロイター通信によると、アメリカ政府の匿名高官は、この三者会談で何かしらの合意に至る見込みはないと話している。
+
+世界の三大核保有国による会合では、イラン問題も議題に上がる可能性がある。ウクライナ問題が議題に上るかは不透明。米政府高官によると、トランプ氏はウクライナをこの三者会談で話すつもりはないという。
+
+18、19日両日に開かれるAPEC首脳会議に、トランプ大統領は18日深夜に到着する予定だ。19日には習主席との2国間会談にも参加する。これは、トランプ大統領が2025年に大統領に復帰して以来、両者にとって4回目の会談となる。
+
+「トランプ大統領は、合衆国大統領、中華人民共和国国家主席、ロシア連邦大統領による三者会談によって、中国訪問を締めくくる予定だ」と、ホワイトハウスのオリヴィア・ウェールズ報道官は述べた。
+
+トランプ氏は、17日にフィリピンで開かれる東南アジア諸国連合（ASEAN）首脳会議にも出席する予定。ウェールズ報道官は、トランプ氏の今回の外訪が「アメリカ国民にとって歴史的な勝利をもたらし、インド太平洋地域におけるアメリカの国益を促進する」と述べた。
+
+核兵器の管理に関するアメリカとロシアの最後の条約だった新戦略兵器削減条約（新START）核兵器管理条約が今年2月に失効したことで、世界の二大核保有国を制御する主だった安全装置が失われ、冷戦終結に貢献した軍備管理協力体制は事実上終わりを迎えた。
+
+この事態に国連は双方に対し、新しい枠組みに速やかに合意するよう促した。しかしトランプ大統領は、軍備増強を進めている中国を含めた、より良い合意に置き換えることができると述べた。
+
+新STARTの失効当時、元アメリカ政府高官やアナリストらはBBCに対し、中国とロシアの協力を求めるには大きな障害があり、何年もかかる可能性があると述べていた。
+
+核保有国の2026年1月時点の推定核弾頭保有数（配備、貯蔵、退役・解体待ちの合計）を示すグラフ。上からロシア（5420 ）、アメリカ（5042）、中国（620）、フランス（370）、イギリス（225）、インド（190）、パキスタン（170）、イスラエル（90）、北朝鮮（60）。出典はストックホルム国際平和研究所の年鑑（2026年版）
+
+習国家主席は今年5月、数日違いでプーチン大統領とトランプ大統領をそれぞれ北京に迎えた。トランプ大統領は9月に、習主席をワシントンに迎えた。
+
+中国国営メディアは13日、外務省報道官の話として、習主席がAPEC首脳会議の傍らで「2国間」協議に参加すると報じたが、三者会談については報じていない。
+
+ロシア国営通信社タスは今月初め、首脳会談でこうした協議をする「準備ができているという兆候」があると、ロシア大統領府のドミトリー・ペスコフ報道官が述べたと報じた。
+
+（英語記事 Trump, Putin and Xi plan historic joint meeting in China next week, White House says）d:X
+12:X
+12:C
+0:{"buildId":"-K4CQycLbXq1d6wzPX_5Z","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-14","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"ホワイトハウス、米ロ中首脳の歴史的会談を実施すると発表 トランプ大統領、プーチン大統領、習主席が来週中国に集まると"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"14 時間前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"ホワイトハウスによると、米ロ中の首脳は来週後半に会談する予定だ"}],["$","p","1",{"children":"ドナルド・トランプ、ウラジーミル・プーチン、習近平の顔写真を並べてある。3人ともスーツにネクタイ"}],["$","p","2",{"children":"米ホワイトハウスは13日、アメリカのドナルド・トランプ大統領、ロシアのウラジーミル・プーチン大統領、中国の習近平国家主席が19日、中国で首脳会談に臨むと発表した。"}],["$","p","3",{"children":"ホワイトハウス報道官は記者団との電話会議で、トランプ大統領が中国南部・深圳で開かれるアジア太平洋経済協力会議（APEC）首脳会議に出席する際に、前例のない3首脳の会談が行われると明らかにした。"}],["$","p","4",{"children":"「大統領は、他の議題の中でも特に、世界の核兵器削減について話し合うと明示している。トランプ大統領は、核兵器の拡散は非常に危険だと考えている」と、報道官は述べた。"}],["$","p","5",{"children":"ロシア、中国両政府は今のところ、首脳会談についてコメントしていない。"}],["$","p","6",{"children":"AP通信とロイター通信によると、アメリカ政府の匿名高官は、この三者会談で何かしらの合意に至る見込みはないと話している。"}],["$","p","7",{"children":"世界の三大核保有国による会合では、イラン問題も議題に上がる可能性がある。ウクライナ問題が議題に上るかは不透明。米政府高官によると、トランプ氏はウクライナをこの三者会談で話すつもりはないという。"}],["$","p","8",{"children":"18、19日両日に開かれるAPEC首脳会議に、トランプ大統領は18日深夜に到着する予定だ。19日には習主席との2国間会談にも参加する。これは、トランプ大統領が2025年に大統領に復帰して以来、両者にとって4回目の会談となる。"}],["$","p","9",{"children":"「トランプ大統領は、合衆国大統領、中華人民共和国国家主席、ロシア連邦大統領による三者会談によって、中国訪問を締めくくる予定だ」と、ホワイトハウスのオリヴィア・ウェールズ報道官は述べた。"}],["$","p","10",{"children":"トランプ氏は、17日にフィリピンで開かれる東南アジア諸国連合（ASEAN）首脳会議にも出席する予定。ウェールズ報道官は、トランプ氏の今回の外訪が「アメリカ国民にとって歴史的な勝利をもたらし、インド太平洋地域におけるアメリカの国益を促進する」と述べた。"}],["$","p","11",{"children":"核兵器の管理に関するアメリカとロシアの最後の条約だった新戦略兵器削減条約（新START）核兵器管理条約が今年2月に失効したことで、世界の二大核保有国を制御する主だった安全装置が失われ、冷戦終結に貢献した軍備管理協力体制は事実上終わりを迎えた。"}],["$","p","12",{"children":"この事態に国連は双方に対し、新しい枠組みに速やかに合意するよう促した。しかしトランプ大統領は、軍備増強を進めている中国を含めた、より良い合意に置き換えることができると述べた。"}],["$","p","13",{"children":"新STARTの失効当時、元アメリカ政府高官やアナリストらはBBCに対し、中国とロシアの協力を求めるには大きな障害があり、何年もかかる可能性があると述べていた。"}],["$","p","14",{"children":"核保有国の2026年1月時点の推定核弾頭保有数（配備、貯蔵、退役・解体待ちの合計）を示すグラフ。上からロシア（5420 ）、アメリカ（5042）、中国（620）、フランス（370）、イギリス（225）、インド（190）、パキスタン（170）、イスラエル（90）、北朝鮮（60）。出典はストックホルム国際平和研究所の年鑑（2026年版）"}],["$","p","15",{"children":"習国家主席は今年5月、数日違いでプーチン大統領とトランプ大統領をそれぞれ北京に迎えた。トランプ大統領は9月に、習主席をワシントンに迎えた。"}],["$","p","16",{"children":"中国国営メディアは13日、外務省報道官の話として、習主席がAPEC首脳会議の傍らで「2国間」協議に参加すると報じたが、三者会談については報じていない。"}],["$","p","17",{"children":"ロシア国営通信社タスは今月初め、首脳会談でこうした協議をする「準備ができているという兆候」があると、ロシア大統領府のドミトリー・ペスコフ報道官が述べたと報じた。"}],["$","p","18",{"children":"（英語記事 Trump, Putin and Xi plan historic joint meeting in China next week, White House says）"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/cwkgrn5pnv0mo","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/1844b2811844b28156fc3935","title":"ホワイトハウス、米ロ中首脳の歴史的会談を実施すると発表 トランプ大統領、プーチン大統領、習主席が来週中国に集まると","locale":"ja","take":null}],["$","$L4",null,{"title":"ホワイトハウス、米ロ中首脳の歴史的会談を実施すると発表 トランプ大統領、プーチン大統領、習主席が来週中国に集まると","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/1844b2811844b28156fc3935","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%8F%E3%82%A6%E3%82%B9%E3%80%81%E7%B1%B3%E3%83%AD%E4%B8%AD%E9%A6%96%E8%84%B3%E3%81%AE%E6%AD%B4%E5%8F%B2%E7%9A%84%E4%BC%9A%E8%AB%87%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%99%E3%82%8B%E3%81%A8%E7%99%BA%E8%A1%A8+%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E5%A4%A7%E7%B5%B1%E9%A0%98%E3%80%81%E3%83%97%E3%83%BC%E3%83%81%E3%83%B3%E5%A4%A7%E7%B5%B1%E9%A0%98%E3%80%81%E7%BF%92%E4%B8%BB%E5%B8%AD%E3%81%8C&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","cna:https://channelnewsasia.com/sport/de-jong-miss-yet-another-match-netherlands-6551946",{"children":["$","$L2",null,{"href":"/ja/n/bd38a891bd38a89159a329d9","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"CNA"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"De Jong to miss yet another match for the Netherlands"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/e43d302442d0378c2177555b94fc8bf4e96d366a?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/88ea8a8b88ea8a8b33ddf2c3","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"ドジャース専属美人リポーター カウボーイハット＆ファーコートで「なりたかった女性」姿公開(日刊スポーツ)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/10a2be7929f5b7b045daf01b31e388366cb39b30?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/0eab791b0eab791b4cf8c803","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"自身の活躍よりもチームの活躍が大事。静岡学園GK田邊匠真が静岡予選のMVPに(ゲキサカ)"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ホワイトハウス、米ロ中首脳の歴史的会談を実施すると発表 トランプ大統領、プーチン大統領、習主席が来週中国に集まると"}],["$","meta","1",{"name":"description","content":"ホワイトハウスによると、米ロ中の首脳は来週後半に会談する予定だ"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"ホワイトハウス、米ロ中首脳の歴史的会談を実施すると発表 トランプ大統領、プーチン大統領、習主席が来週中国に集まると"}],["$","meta","4",{"property":"og:description","content":"ホワイトハウスによると、米ロ中の首脳は来週後半に会談する予定だ"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/1844b2811844b28156fc3935/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F172e%2Flive%2Fbe162960-dfc9-11f1-81be-1f9bcd2a4214.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"ホワイトハウス、米ロ中首脳の歴史的会談を実施すると発表 トランプ大統領、プーチン大統領、習主席が来週中国に集まると"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"ホワイトハウス、米ロ中首脳の歴史的会談を実施すると発表 トランプ大統領、プーチン大統領、習主席が来週中国に集まると"}],["$","meta","14",{"name":"twitter:description","content":"ホワイトハウスによると、米ロ中の首脳は来週後半に会談する予定だ"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F172e%2Flive%2Fbe162960-dfc9-11f1-81be-1f9bcd2a4214.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

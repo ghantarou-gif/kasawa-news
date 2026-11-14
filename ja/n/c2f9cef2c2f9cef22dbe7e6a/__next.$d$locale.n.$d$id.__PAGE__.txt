@@ -1,0 +1,87 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261112-35254770-cnn-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","image"]
+13:X
+18:X
+18:C
+0:{"buildId":"-K4CQycLbXq1d6wzPX_5Z","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-12","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"大規模かつ詳細、新たなシミュレーションで垣間見る初期宇宙の姿(CNN.co.jp)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"3 日前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261112-35254770-cnn-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"（CNN） 米航空宇宙局（NASA）のジェームズ・ウェッブ宇宙望遠鏡をはじめとする高性能な観測装置は、宇宙がまだ若かった頃に形成された銀河の姿を我々に見せてくれる。しかし今、スーパーコンピューターを用いた新たなシミュレーションのおかげで、謎に満ちた初期宇宙の歴史の空白が埋められようとしている。"}],["$","p","1",{"children":"科学誌「王立天文学会月報（MNRAS）」に最近掲載された研究によると、国際研究チームが、初期宇宙を再現するものとしてはこれまでで最も詳細なモデルの一つを開発したという。"}],["$","p","2",{"children":"「ルミナ」と名付けられたこの新しいシミュレーションは、最初の星々やブラックホールがどのようにして「再電離」を引き起こしたのかを再現している。極めて重要でありながら謎に包まれた再電離という段階を通じ、宇宙はその姿を一変させた。「ビッグバン」以降、こうした初期の光源から放出された紫外線が水素原子から電子を剥ぎ取った。水素は宇宙で最も豊富に存在する元素。この現象を受けて光がより遠くまで届くようになり、銀河の形成過程にも変化が生じた。"}],["$","p","3",{"children":"宇宙がどのように進化して現在の姿になったのかを解明しようとする天文学者たちにとって、初期宇宙は刺激に満ちた新たな研究領域となっている。光が宇宙空間を移動するには時間がかかるため、高性能な望遠鏡を使えば何十億年も前の遠方の銀河の姿を捉えることが可能だ。しかし、これほどまでに長大な宇宙の歴史を研究するには、同じくらい巨大な規模のシミュレーションを行う必要がある。そこで登場するのが、ルミナのようなモデルだ。"}],["$","p","4",{"children":"米マサチューセッツ州ケンブリッジにあるハーバード・スミソニアン天体物理学センターの博士研究員であり、本研究の筆頭著者を務めたオリバー・ジア氏によると、ルミナが対象とする空間は従来のシミュレーションの100倍以上に相当する。そのため宇宙の網目構造（コズミック・ウェブ）を確認できると同時に、個々の銀河の細部まで解像することも可能だという。"}],["$","p","5",{"children":"（CNN） 米航空宇宙局（NASA）のジェームズ・ウェッブ宇宙望遠鏡をはじめとする高性能な観測装置は、宇宙がまだ若かった頃に形成された銀河の姿を我々に見せてくれる。しかし今、スーパーコンピューターを用いた新たなシミュレーションのおかげで、謎に満ちた初期宇宙の歴史の空白が埋められようとしている。"}],["$","p","6",{"children":"科学誌「王立天文学会月報（MNRAS）」に最近掲載された研究によると、国際研究チームが、初期宇宙を再現するものとしてはこれまでで最も詳細なモデルの一つを開発したという。"}],["$","p","7",{"children":"「ルミナ」と名付けられたこの新しいシミュレーションは、最初の星々やブラックホールがどのようにして「再電離」を引き起こしたのかを再現している。極めて重要でありながら謎に包まれた再電離という段階を通じ、宇宙はその姿を一変させた。「ビッグバン」以降、こうした初期の光源から放出された紫外線が水素原子から電子を剥ぎ取った。水素は宇宙で最も豊富に存在する元素。この現象を受けて光がより遠くまで届くようになり、銀河の形成過程にも変化が生じた。"}],["$","p","8",{"children":"宇宙がどのように進化して現在の姿になったのかを解明しようとする天文学者たちにとって、初期宇宙は刺激に満ちた新たな研究領域となっている。光が宇宙空間を移動するには時間がかかるため、高性能な望遠鏡を使えば何十億年も前の遠方の銀河の姿を捉えることが可能だ。しかし、これほどまでに長大な宇宙の歴史を研究するには、同じくらい巨大な規模のシミュレーションを行う必要がある。そこで登場するのが、ルミナのようなモデルだ。"}],["$","p","9",{"children":"米マサチューセッツ州ケンブリッジにあるハーバード・スミソニアン天体物理学センターの博士研究員であり、本研究の筆頭著者を務めたオリバー・ジア氏によると、ルミナが対象とする空間は従来のシミュレーションの100倍以上に相当する。そのため宇宙の網目構造（コズミック・ウェブ）を確認できると同時に、個々の銀河の細部まで解像することも可能だという。"}],["$","p","10",{"children":"ルミナがカバーする領域は、各方向にざっと15億光年。比較として挙げると、NASAによれば我々の天の川銀河の大きさは約10万光年だ。"}],["$","p","11",{"children":"この巨大なモデルの完成には3年近くの歳月が費やされた。実現に必要な計算能力を確保するため、テネシー州にあるオークリッジ国立研究所のスーパーコンピューター「フロンティア」上で、1万5000基を超える画像処理装置（GPU）が使用された。"}],["$","p","12",{"children":"ルミナは一般向けに完全公開されているわけではないが、シミュレーションの映像からは宇宙がいかに広大であるかがうかがえる。個々の銀河にズームインしたかと思えば、視点を引いて、宇宙全体の中でそれらがいかに小さな存在であるかを示すといった映像だ。地球は巨大に思えるかもしれないが、天の川銀河に存在する数多くの惑星の一つに過ぎず、その天の川銀河自体も、宇宙に無数に存在する銀河の一つに過ぎないと、ジア氏は語る。"}],["$","p","13",{"children":"ルミナによって研究者たちは初めて、水素およびヘリウムの変化が初期宇宙をどのように変容させたのかを、単一のシミュレーションの中で研究できるようになった。ヘリウムは宇宙で2番目に多く存在する元素。"}],["$","p","14",{"children":"テキサス大学オースティン校の天文学助教授で、今回の研究には直接関与していないジュリアン・ムニョス氏は、「ルミナは、技術的に非常に素晴らしい成果だ」と評した。"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9"],"$La"]}],"$Lb","$Lc","$Ld",null,"$Le","$Lf"]}],["$L10"],"$L11"]}],"isPartial":"$@12","staleTime":"$13","varyParams":null},{"rsc":"$L14","isPartial":"$@15","staleTime":"$13","varyParams":null},{"rsc":"$L16","isPartial":"$@17","staleTime":"$13","varyParams":"$18"},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$13","varyParams":"$18"}],"isUpgradeableISRFallback":false,"a":"$@1b","rootVaryParams":null,"needsRuntimeRequest":"$@1c"}
+1d:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+1e:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+21:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+22:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+23:"$Sreact.suspense"
+25:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+26:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+27:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+28:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+29:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","15",{"children":"ムニョス氏は電子メールの中で次のように述べている。「最初の銀河がどのように形成され、初期宇宙をどのように電離させたのかをシミュレーションするには多大なコストがかかる。そのため、これまでは宇宙の比較的小さな領域を、限られた期間だけ追跡するものが一般的だった。ルミナはこの種の詳細なシミュレーションとしては過去のものより大規模で、しかもより長い宇宙の時間軸をカバーしている」"}]
+4:["$","p","16",{"children":"初期宇宙は一様に変化したわけではなく、領域によって進化の速度が異なっている。ルミナの膨大なスケールのおかげで、研究者たちは各領域が時間の経過とともにどのように変化していったのかを観察できるようになったとムニョス氏は説明する。"}]
+5:["$","p","17",{"children":"さらに同氏は、このシミュレーションが、通常の物質とダークマター（暗黒物質）が宇宙空間においてそれぞれどのように異なる動きをしたのかを解明する助けになるだろうと付け加えた。"}]
+6:["$","p","18",{"children":"最初の銀河がどのように形成されたかを示すコンピューターモデルでは、多くの場合、宇宙を構成する三つの主要な要素間の相互作用に焦点を当てる。具体的には恒星や惑星、そして人間を形作る通常の物質と、宇宙の物質の大部分を占める目に見えないダークマター、そして放射線だ。"}]
+7:["$","p","19",{"children":"ダークマターとは異なり、通常の物質は光と相互作用するため、両者は異なる速度で移動することになる。宇宙の歴史の初期において、こうした違いが広範囲にまたがる宇宙のパターンを生み出した。こうしたパターンを望遠鏡で直接観測することはできないが、ルミナのようなシミュレーションを用いることで、その変動をマッピングできる。これにより科学者たちは、物質のダイナミクスが初期宇宙をどのように形成したのかを調査できると、ムニョス氏は述べた。"}]
+8:["$","p","20",{"children":"このシミュレーションは、小規模なモデルでは見落とされてしまうような希少な銀河を研究する上で役立つ可能性があると、英サセックス大学の天体物理学教授イリアン・イリエフ氏は指摘した。同氏は本研究には直接関与していない。"}]
+9:["$","p","21",{"children":"イリエフ氏は、ルミナと望遠鏡による新たな観測結果が互いを補完し合うことで、宇宙のより完全かつ正確な姿が明らかになるのを期待していると語った。"}]
+a:["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]
+b:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/8afcf385538374af44852778fb3c7d324efe35a9?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}]
+1f:T23ed,（CNN） 米航空宇宙局（NASA）のジェームズ・ウェッブ宇宙望遠鏡をはじめとする高性能な観測装置は、宇宙がまだ若かった頃に形成された銀河の姿を我々に見せてくれる。しかし今、スーパーコンピューターを用いた新たなシミュレーションのおかげで、謎に満ちた初期宇宙の歴史の空白が埋められようとしている。
+
+科学誌「王立天文学会月報（MNRAS）」に最近掲載された研究によると、国際研究チームが、初期宇宙を再現するものとしてはこれまでで最も詳細なモデルの一つを開発したという。
+
+「ルミナ」と名付けられたこの新しいシミュレーションは、最初の星々やブラックホールがどのようにして「再電離」を引き起こしたのかを再現している。極めて重要でありながら謎に包まれた再電離という段階を通じ、宇宙はその姿を一変させた。「ビッグバン」以降、こうした初期の光源から放出された紫外線が水素原子から電子を剥ぎ取った。水素は宇宙で最も豊富に存在する元素。この現象を受けて光がより遠くまで届くようになり、銀河の形成過程にも変化が生じた。
+
+宇宙がどのように進化して現在の姿になったのかを解明しようとする天文学者たちにとって、初期宇宙は刺激に満ちた新たな研究領域となっている。光が宇宙空間を移動するには時間がかかるため、高性能な望遠鏡を使えば何十億年も前の遠方の銀河の姿を捉えることが可能だ。しかし、これほどまでに長大な宇宙の歴史を研究するには、同じくらい巨大な規模のシミュレーションを行う必要がある。そこで登場するのが、ルミナのようなモデルだ。
+
+米マサチューセッツ州ケンブリッジにあるハーバード・スミソニアン天体物理学センターの博士研究員であり、本研究の筆頭著者を務めたオリバー・ジア氏によると、ルミナが対象とする空間は従来のシミュレーションの100倍以上に相当する。そのため宇宙の網目構造（コズミック・ウェブ）を確認できると同時に、個々の銀河の細部まで解像することも可能だという。
+
+（CNN） 米航空宇宙局（NASA）のジェームズ・ウェッブ宇宙望遠鏡をはじめとする高性能な観測装置は、宇宙がまだ若かった頃に形成された銀河の姿を我々に見せてくれる。しかし今、スーパーコンピューターを用いた新たなシミュレーションのおかげで、謎に満ちた初期宇宙の歴史の空白が埋められようとしている。
+
+科学誌「王立天文学会月報（MNRAS）」に最近掲載された研究によると、国際研究チームが、初期宇宙を再現するものとしてはこれまでで最も詳細なモデルの一つを開発したという。
+
+「ルミナ」と名付けられたこの新しいシミュレーションは、最初の星々やブラックホールがどのようにして「再電離」を引き起こしたのかを再現している。極めて重要でありながら謎に包まれた再電離という段階を通じ、宇宙はその姿を一変させた。「ビッグバン」以降、こうした初期の光源から放出された紫外線が水素原子から電子を剥ぎ取った。水素は宇宙で最も豊富に存在する元素。この現象を受けて光がより遠くまで届くようになり、銀河の形成過程にも変化が生じた。
+
+宇宙がどのように進化して現在の姿になったのかを解明しようとする天文学者たちにとって、初期宇宙は刺激に満ちた新たな研究領域となっている。光が宇宙空間を移動するには時間がかかるため、高性能な望遠鏡を使えば何十億年も前の遠方の銀河の姿を捉えることが可能だ。しかし、これほどまでに長大な宇宙の歴史を研究するには、同じくらい巨大な規模のシミュレーションを行う必要がある。そこで登場するのが、ルミナのようなモデルだ。
+
+米マサチューセッツ州ケンブリッジにあるハーバード・スミソニアン天体物理学センターの博士研究員であり、本研究の筆頭著者を務めたオリバー・ジア氏によると、ルミナが対象とする空間は従来のシミュレーションの100倍以上に相当する。そのため宇宙の網目構造（コズミック・ウェブ）を確認できると同時に、個々の銀河の細部まで解像することも可能だという。
+
+ルミナがカバーする領域は、各方向にざっと15億光年。比較として挙げると、NASAによれば我々の天の川銀河の大きさは約10万光年だ。
+
+この巨大なモデルの完成には3年近くの歳月が費やされた。実現に必要な計算能力を確保するため、テネシー州にあるオークリッジ国立研究所のスーパーコンピューター「フロンティア」上で、1万5000基を超える画像処理装置（GPU）が使用された。
+
+ルミナは一般向けに完全公開されているわけではないが、シミュレーションの映像からは宇宙がいかに広大であるかがうかがえる。個々の銀河にズームインしたかと思えば、視点を引いて、宇宙全体の中でそれらがいかに小さな存在であるかを示すといった映像だ。地球は巨大に思えるかもしれないが、天の川銀河に存在する数多くの惑星の一つに過ぎず、その天の川銀河自体も、宇宙に無数に存在する銀河の一つに過ぎないと、ジア氏は語る。
+
+ルミナによって研究者たちは初めて、水素およびヘリウムの変化が初期宇宙をどのように変容させたのかを、単一のシミュレーションの中で研究できるようになった。ヘリウムは宇宙で2番目に多く存在する元素。
+
+テキサス大学オースティン校の天文学助教授で、今回の研究には直接関与していないジュリアン・ムニョス氏は、「ルミナは、技術的に非常に素晴らしい成果だ」と評した。
+
+ムニョス氏は電子メールの中で次のように述べている。「最初の銀河がどのように形成され、初期宇宙をどのように電離させたのかをシミュレーションするには多大なコストがかかる。そのため、これまでは宇宙の比較的小さな領域を、限られた期間だけ追跡するものが一般的だった。ルミナはこの種の詳細なシミュレーションとしては過去のものより大規模で、しかもより長い宇宙の時間軸をカバーしている」
+
+初期宇宙は一様に変化したわけではなく、領域によって進化の速度が異なっている。ルミナの膨大なスケールのおかげで、研究者たちは各領域が時間の経過とともにどのように変化していったのかを観察できるようになったとムニョス氏は説明する。
+
+さらに同氏は、このシミュレーションが、通常の物質とダークマター（暗黒物質）が宇宙空間においてそれぞれどのように異なる動きをしたのかを解明する助けになるだろうと付け加えた。
+
+最初の銀河がどのように形成されたかを示すコンピューターモデルでは、多くの場合、宇宙を構成する三つの主要な要素間の相互作用に焦点を当てる。具体的には恒星や惑星、そして人間を形作る通常の物質と、宇宙の物質の大部分を占める目に見えないダークマター、そして放射線だ。
+
+ダークマターとは異なり、通常の物質は光と相互作用するため、両者は異なる速度で移動することになる。宇宙の歴史の初期において、こうした違いが広範囲にまたがる宇宙のパターンを生み出した。こうしたパターンを望遠鏡で直接観測することはできないが、ルミナのようなシミュレーションを用いることで、その変動をマッピングできる。これにより科学者たちは、物質のダイナミクスが初期宇宙をどのように形成したのかを調査できると、ムニョス氏は述べた。
+
+このシミュレーションは、小規模なモデルでは見落とされてしまうような希少な銀河を研究する上で役立つ可能性があると、英サセックス大学の天体物理学教授イリアン・イリエフ氏は指摘した。同氏は本研究には直接関与していない。
+
+イリエフ氏は、ルミナと望遠鏡による新たな観測結果が互いを補完し合うことで、宇宙のより完全かつ正確な姿が明らかになるのを期待していると語った。c:["$","section",null,{"className":"article-actions","children":[["$","$L1d",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/c2f9cef2c2f9cef22dbe7e6a","title":"大規模かつ詳細、新たなシミュレーションで垣間見る初期宇宙の姿(CNN.co.jp)","locale":"ja","take":null}],["$","$L1e",null,{"title":"大規模かつ詳細、新たなシミュレーションで垣間見る初期宇宙の姿(CNN.co.jp)","excerpt":"$1f","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/c2f9cef2c2f9cef22dbe7e6a","locale":"ja"}],"$L20"]}]
+d:["$","$L21",null,{"placement":"article","className":"mt-8"}]
+e:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+f:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-sport:https://bbc.co.uk/sport/tennis/videos/cqrmg2w1038ro",{"children":["$","$L2",null,{"href":"/ja/n/a0b15b68a0b15b689d149344","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Andreeva beats world number two Sabalenka to reach WTA semis"}]]}]}],["$","li","itmedia:https://www.itmedia.co.jp/news/article/2611/12/2000003160/",{"children":["$","$L2",null,{"href":"/ja/n/4cac5ac14cac5ac1d4f67df5","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"ITmedia"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"NVIDIA、“革ジャンCEO”ことフアン氏が辞任 クレスCFOが暫定CEOに"}]]}]}],["$","li","nhk-sports:https://news.web.nhk/newsweb/na/nd-20261112de75092",{"children":["$","$L2",null,{"href":"/ja/n/903acfd6903acfd6daad11be","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"野球日本代表 台湾に5対0で勝利 井口監督 初采配の国際大会で"}]]}]}]]}]]}]
+10:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+11:["$","$L22",null,{"children":["$","$23",null,{"name":"Next.MetadataOutlet","children":"$@24"}]}]
+14:["$","$1","h",{"children":[null,["$","$L25",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L26",null,{"children":["$","$23",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"大規模かつ詳細、新たなシミュレーションで垣間見る初期宇宙の姿(CNN.co.jp)"}],["$","meta","1",{"name":"description","content":"（CNN） 米航空宇宙局（NASA）のジェームズ・ウェッブ宇宙望遠鏡をはじめとする高性能な観測装置は、宇宙がまだ若かった頃に形成された銀河の姿を我々に見せてくれる。しかし今、スーパーコンピューターを用いた新たなシミュレーションのおかげで、謎に満ちた初期宇宙の歴史の空白が埋められようとしている。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"大規模かつ詳細、新たなシミュレーションで垣間見る初期宇宙の姿(CNN.co.jp)"}],["$","meta","4",{"property":"og:description","content":"（CNN） 米航空宇宙局（NASA）のジェームズ・ウェッブ宇宙望遠鏡をはじめとする高性能な観測装置は、宇宙がまだ若かった頃に形成された銀河の姿を我々に見せてくれる。しかし今、スーパーコンピューターを用いた新たなシミュレーションのおかげで、謎に満ちた初期宇宙の歴史の空白が埋められようとしている。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/c2f9cef2c2f9cef22dbe7e6a/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261112-35254770-cnn-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"大規模かつ詳細、新たなシミュレーションで垣間見る初期宇宙の姿(CNN.co.jp)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"大規模かつ詳細、新たなシミュレーションで垣間見る初期宇宙の姿(CNN.co.jp)"}],["$","meta","14",{"name":"twitter:description","content":"（CNN） 米航空宇宙局（NASA）のジェームズ・ウェッブ宇宙望遠鏡をはじめとする高性能な観測装置は、宇宙がまだ若かった頃に形成された銀河の姿を我々に見せてくれる。しかし今、スーパーコンピューターを用いた新たなシミュレーションのおかげで、謎に満ちた初期宇宙の歴史の空白が埋められようとしている。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261112-35254770-cnn-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L27","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+16:["$","$1","c",{"children":[null,["$","$L28",null,{"parallelRouterKey":"children","template":["$","$L29",null,{}]}]]}]
+19:["$","$1","c",{"children":[null,["$","$L28",null,{"parallelRouterKey":"children","template":["$","$L29",null,{}]}]]}]
+1c:true
+20:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E5%A4%A7%E8%A6%8F%E6%A8%A1%E3%81%8B%E3%81%A4%E8%A9%B3%E7%B4%B0%E3%80%81%E6%96%B0%E3%81%9F%E3%81%AA%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A7%E5%9E%A3%E9%96%93%E8%A6%8B%E3%82%8B%E5%88%9D%E6%9C%9F%E5%AE%87%E5%AE%99%E3%81%AE%E5%A7%BF&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+24:null
+13:300
+13:C
+1b:0
+15:"$undefined"
+17:"$undefined"
+1a:"$undefined"
+12:"$undefined"

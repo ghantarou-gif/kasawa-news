@@ -1,0 +1,65 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/35c3/live/a6b43310-dd22-11f1-ab46-9fae224bbf6f.jpg","image"]
+5:T1075,白いTシャツを着た人物が減量用の注射薬を両手で持っている
+
+米食品医薬品局（FDA）は9日、糖尿病や肥満症の治療に用いられるGLP-1受容体作動薬のメーカーに対し、突然の失明を引き起こす可能性のある珍しい眼の疾患に関する警告を追記するよう指示した。
+
+これにより、「マンジャロ」、「ゼップバウンド」（共に一般名チルゼパチド）、「ウゴービ」、「オゼンピック」（共に一般名セマグルチド）のメーカーは今後、これらの薬剤の使用者に、非動脈炎性前部虚血性視神経症（NAION）について警告しなければならない。この疾患は、視神経に血液を供給する血管が詰まり、酸素供給が途絶えることで発生する。
+
+FDAによると、NAIONは片目の急激な視力低下を無痛で引き起こす可能性がある。その視力低下は、永続的なものになる場合もあるという。
+
+米眼科学会はBBCへの声明で、「追加リスクは小さいとみられ、これらの薬剤がNAIONを引き起こすという事実は確立されていない」と述べた。
+
+同学会はまた、「GLP-1受容体作動薬は、糖尿病や肥満症、心臓病の患者に重要な利益をもたらす。だからこそ、患者へのメッセージはシンプルだ」、「医師に相談せずに服用を中止しないこと。また、片目に突然、痛みのない視力低下が見られた場合は、速やかに眼科医の診察を受けること」とした。
+
+NAIONによる視力低下を回復させる治療法は見つかっていない。米眼科学会によると、NAIONは50歳以上の人における急性視神経損傷の最も一般的な原因だという。
+
+FDAは、GLP-1製剤を使用している患者におけるNAION発症に関する詳細な調査と、他の研究との検討を行った結果、GLP-1製剤を使用している人では「まれなNAIONのリスクが増加する」と結論付けたと述べた。
+
+人気の高い減量薬の一つである「ウゴービ」を製造するデンマーク製薬大手ノボ ノルディスクは声明で、同社はこのデータが「因果関係を確立するものではない」と考えていると述べた。
+
+「NAIONが、患者とその家族に深刻な影響を与える可能性があると認識している。患者の安全は当社にとって最優先事項であり、当社は医薬品の安全性を継続的に監視している」
+
+FDAは、肥満症や2型糖尿病の治療のためにGLP-1受容体作動薬を服用している人は、薬剤とは別にNAIONのリスク因子を既に持っている可能性があるため、一部の研究の審査は困難だったと説明した。また、GLP-1受容体作動薬を服用している人のNAION発症リスクが高くなる理由は不明だという。
+
+これらの薬剤には、膵炎（すいえん）や胆のう疾患など、他のいくつかの疾患に対する警告表示が既に記載されている。多くのGLP-1受容体作動薬の主要成分であるセマグルチドの最も一般的な症状には、吐き気、嘔吐（おうと）、腹痛などがある。
+
+欧州医薬品庁（EMA）の安全部門は昨年、セマグルチドを服用している人のうち、1万人に1人までがNAIONの影響を受ける可能性があるとした。
+
+2024年に発表された1万7000人の患者を分析した研究では、セマグルチドを服用している患者は、服用していない患者に比べて、NAIONと診断される可能性が4倍高いことが明らかになった。
+
+しかし、この研究の著者の一人である米ハーヴァード大学医学部のジョセフ・リッツォ教授（眼科）は、この結果は「重要ではあるが暫定的なもの」であり、より多様な集団におけるこれらの薬剤と眼疾患との関連性について、追加研究が必要だと述べた。
+
+（英語記事 Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness）d:X
+12:X
+12:C
+0:{"buildId":"-K4CQycLbXq1d6wzPX_5Z","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-13","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"GLP-1製剤にまれな眼の疾患リスク、米当局がメーカーに警告表示を指示"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/35c3/live/a6b43310-dd22-11f1-ab46-9fae224bbf6f.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"白いTシャツを着た人物が減量用の注射薬を両手で持っている"}],["$","p","1",{"children":"米食品医薬品局（FDA）は9日、糖尿病や肥満症の治療に用いられるGLP-1受容体作動薬のメーカーに対し、突然の失明を引き起こす可能性のある珍しい眼の疾患に関する警告を追記するよう指示した。"}],["$","p","2",{"children":"これにより、「マンジャロ」、「ゼップバウンド」（共に一般名チルゼパチド）、「ウゴービ」、「オゼンピック」（共に一般名セマグルチド）のメーカーは今後、これらの薬剤の使用者に、非動脈炎性前部虚血性視神経症（NAION）について警告しなければならない。この疾患は、視神経に血液を供給する血管が詰まり、酸素供給が途絶えることで発生する。"}],["$","p","3",{"children":"FDAによると、NAIONは片目の急激な視力低下を無痛で引き起こす可能性がある。その視力低下は、永続的なものになる場合もあるという。"}],["$","p","4",{"children":"米眼科学会はBBCへの声明で、「追加リスクは小さいとみられ、これらの薬剤がNAIONを引き起こすという事実は確立されていない」と述べた。"}],["$","p","5",{"children":"同学会はまた、「GLP-1受容体作動薬は、糖尿病や肥満症、心臓病の患者に重要な利益をもたらす。だからこそ、患者へのメッセージはシンプルだ」、「医師に相談せずに服用を中止しないこと。また、片目に突然、痛みのない視力低下が見られた場合は、速やかに眼科医の診察を受けること」とした。"}],["$","p","6",{"children":"NAIONによる視力低下を回復させる治療法は見つかっていない。米眼科学会によると、NAIONは50歳以上の人における急性視神経損傷の最も一般的な原因だという。"}],["$","p","7",{"children":"FDAは、GLP-1製剤を使用している患者におけるNAION発症に関する詳細な調査と、他の研究との検討を行った結果、GLP-1製剤を使用している人では「まれなNAIONのリスクが増加する」と結論付けたと述べた。"}],["$","p","8",{"children":"人気の高い減量薬の一つである「ウゴービ」を製造するデンマーク製薬大手ノボ ノルディスクは声明で、同社はこのデータが「因果関係を確立するものではない」と考えていると述べた。"}],["$","p","9",{"children":"「NAIONが、患者とその家族に深刻な影響を与える可能性があると認識している。患者の安全は当社にとって最優先事項であり、当社は医薬品の安全性を継続的に監視している」"}],["$","p","10",{"children":"FDAは、肥満症や2型糖尿病の治療のためにGLP-1受容体作動薬を服用している人は、薬剤とは別にNAIONのリスク因子を既に持っている可能性があるため、一部の研究の審査は困難だったと説明した。また、GLP-1受容体作動薬を服用している人のNAION発症リスクが高くなる理由は不明だという。"}],["$","p","11",{"children":"これらの薬剤には、膵炎（すいえん）や胆のう疾患など、他のいくつかの疾患に対する警告表示が既に記載されている。多くのGLP-1受容体作動薬の主要成分であるセマグルチドの最も一般的な症状には、吐き気、嘔吐（おうと）、腹痛などがある。"}],["$","p","12",{"children":"欧州医薬品庁（EMA）の安全部門は昨年、セマグルチドを服用している人のうち、1万人に1人までがNAIONの影響を受ける可能性があるとした。"}],["$","p","13",{"children":"2024年に発表された1万7000人の患者を分析した研究では、セマグルチドを服用している患者は、服用していない患者に比べて、NAIONと診断される可能性が4倍高いことが明らかになった。"}],["$","p","14",{"children":"しかし、この研究の著者の一人である米ハーヴァード大学医学部のジョセフ・リッツォ教授（眼科）は、この結果は「重要ではあるが暫定的なもの」であり、より多様な集団におけるこれらの薬剤と眼疾患との関連性について、追加研究が必要だと述べた。"}],["$","p","15",{"children":"（英語記事 Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness）"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/cmp3e5k2gwx3o","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/efb4e878efb4e87899f57c26","title":"GLP-1製剤にまれな眼の疾患リスク、米当局がメーカーに警告表示を指示","locale":"ja","take":null}],["$","$L4",null,{"title":"GLP-1製剤にまれな眼の疾患リスク、米当局がメーカーに警告表示を指示","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/efb4e878efb4e87899f57c26","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=GLP-1%E8%A3%BD%E5%89%A4%E3%81%AB%E3%81%BE%E3%82%8C%E3%81%AA%E7%9C%BC%E3%81%AE%E7%96%BE%E6%82%A3%E3%83%AA%E3%82%B9%E3%82%AF%E3%80%81%E7%B1%B3%E5%BD%93%E5%B1%80%E3%81%8C%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AB%E8%AD%A6%E5%91%8A%E8%A1%A8%E7%A4%BA%E3%82%92%E6%8C%87%E7%A4%BA&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","euronews:https://euronews.com/video/2026/11/13/uk-christmas-at-kew-2026-unveils-spectacular-light-trail-in-london",{"children":["$","$L2",null,{"href":"/ja/n/83360355833603550dcb534d","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Euronews"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"UK: Christmas at Kew 2026 unveils spectacular light trail in London"}]]}]}],["$","li","nhk-politics:https://news.web.nhk/newsweb/na/nd-20261113de75730",{"children":["$","$L2",null,{"href":"/ja/n/246ad5de246ad5de4b1b325a","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"日本とメキシコの外相 有識者会議で中長期の戦略的関係議論へ"}]]}]}],["$","li","nhk-business:https://news.web.nhk/newsweb/na/nd-20261113de75739",{"children":["$","$L2",null,{"href":"/ja/n/a21f60c6a21f60c6acd101a6","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"ヤマダデンキ 不正アクセスで最大350万件が影響受けた可能性"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"GLP-1製剤にまれな眼の疾患リスク、米当局がメーカーに警告表示を指示"}],["$","meta","1",{"name":"description","content":"白いTシャツを着た人物が減量用の注射薬を両手で持っている"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"GLP-1製剤にまれな眼の疾患リスク、米当局がメーカーに警告表示を指示"}],["$","meta","4",{"property":"og:description","content":"白いTシャツを着た人物が減量用の注射薬を両手で持っている"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/efb4e878efb4e87899f57c26/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F35c3%2Flive%2Fa6b43310-dd22-11f1-ab46-9fae224bbf6f.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"GLP-1製剤にまれな眼の疾患リスク、米当局がメーカーに警告表示を指示"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"GLP-1製剤にまれな眼の疾患リスク、米当局がメーカーに警告表示を指示"}],["$","meta","14",{"name":"twitter:description","content":"白いTシャツを着た人物が減量用の注射薬を両手で持っている"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F35c3%2Flive%2Fa6b43310-dd22-11f1-ab46-9fae224bbf6f.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

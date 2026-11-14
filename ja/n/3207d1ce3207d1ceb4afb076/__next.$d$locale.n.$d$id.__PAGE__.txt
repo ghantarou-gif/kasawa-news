@@ -1,0 +1,102 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261115-00145590-toushin-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","image"]
+f:X
+14:X
+14:C
+0:{"buildId":"-K4CQycLbXq1d6wzPX_5Z","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-15","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💹"," ","経済"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"フリーランスで「ずっと白色申告」はいくら損？課税所得290万円なら所得税が“年約6.6万円”変わる青色申告の条件(LIMO)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"14 分前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261115-00145590-toushin-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"会社を辞めてフリーランスになり、確定申告はずっと白色申告のまま、という人もいるでしょう。青色申告にすれば「最大65万円の控除」が受けられると聞いても、税金がいくら変わり、いつまでに何を出せばよいのかは分かりにくいものです。"}],["$","p","1",{"children":"行政の現場を取材してきた経験からお伝えすると、税の特典は、金額よりも先に「期限」と「条件」を押さえておくことが欠かせません。ここでは、国税庁の案内をもとに、手続きの流れと所得税の変化を整理します。"}],["$","p","2",{"children":"試算では、青色申告特別控除を差し引く前の課税所得を290万円と仮定し、白色申告の場合と、青色申告で10万円・55万円・65万円の控除を受けた場合の所得税（復興特別所得税を含む）を比べます。"}],["$","p","3",{"children":"※国税庁「No.2072 青色申告特別控除」「No.2070 青色申告制度」「No.2260 所得税の税率」（いずれも2026年11月6日に確認）をもとにしています。"}],["$","p","4",{"children":"※住民税や国民健康保険料は試算に含めていません。"}],["$","p","5",{"children":"※編集部注:外部配信先ではハイパーリンクや図表などの画像を全部閲覧できない場合があります。その際はLIMO内でご確認ください。"}],["$","p","6",{"children":"会社を辞めてフリーランスになり、確定申告はずっと白色申告のまま、という人もいるでしょう。青色申告にすれば「最大65万円の控除」が受けられると聞いても、税金がいくら変わり、いつまでに何を出せばよいのかは分かりにくいものです。"}],["$","p","7",{"children":"行政の現場を取材してきた経験からお伝えすると、税の特典は、金額よりも先に「期限」と「条件」を押さえておくことが欠かせません。ここでは、国税庁の案内をもとに、手続きの流れと所得税の変化を整理します。"}],["$","p","8",{"children":"試算では、青色申告特別控除を差し引く前の課税所得を290万円と仮定し、白色申告の場合と、青色申告で10万円・55万円・65万円の控除を受けた場合の所得税（復興特別所得税を含む）を比べます。"}],["$","p","9",{"children":"※国税庁「No.2072 青色申告特別控除」「No.2070 青色申告制度」「No.2260 所得税の税率」（いずれも2026年11月6日に確認）をもとにしています。"}],["$","p","10",{"children":"※住民税や国民健康保険料は試算に含めていません。"}],["$","p","11",{"children":"※編集部注:外部配信先ではハイパーリンクや図表などの画像を全部閲覧できない場合があります。その際はLIMO内でご確認ください。"}],["$","p","12",{"children":"国税庁によると、所得税の税率は課税所得195万円から329万9000円までが10％（控除額9万7500円）です。復興特別所得税は、基準所得税額の2.1％とされています。この税率で、4つの場合を比べました。"}],["$","p","13",{"children":"・【白色申告（青色申告特別控除なし）】課税所得290万円、所得税と復興特別所得税で約19万7000円"}],["$","p","14",{"children":"・【青色申告・10万円控除】課税所得280万円、約18万6000円"}],["$","p","15",{"children":"・【青色申告・55万円控除】課税所得235万円、約14万円"}],["$","p","16",{"children":"・【青色申告・65万円控除】課税所得225万円、約13万円"}],["$","p","17",{"children":"白色申告と比べると、65万円控除では年約6万6000円、55万円控除では年約5万6000円、10万円控除では年約1万円少なくなる計算です。"}],["$","p","18",{"children":"※試算の前提:青色申告特別控除を差し引く前の課税所得を290万円と仮定し、国税庁が案内する2026年4月1日現在の所得税の税率で計算しました。復興特別所得税（2.1％）を含み、100円未満の端数処理はしていない概算です。住民税・国民健康保険料は含みません。"}],["$","p","19",{"children":"国税庁の案内では、55万円の控除を受けるには、次の3つを満たす必要があるとされています。"}],["$","p","20",{"children":"・【事業】不動産所得または事業所得を生ずべき事業を営んでいる"}],["$","p","21",{"children":"・【記帳】正規の簿記の原則（一般的には複式簿記）で記帳している"}],["$","p","22",{"children":"・【提出】記帳にもとづく貸借対照表・損益計算書などを確定申告書に添付し、期限（翌年3月15日）までに提出する"}],["$","p","23",{"children":"65万円の控除は、これらに加えて、仕訳帳・総勘定元帳の電子帳簿保存を行うか、確定申告書・貸借対照表・損益計算書などを期限までにe-Taxで送信することが条件と案内されています。"}],["$","p","24",{"children":"国税庁によると、青色申告をするには「青色申告承認申請書」を、原則として青色申告をしようとする年の3月15日までに提出する必要があります。その年の1月16日以後に新規に開業した場合は、業務を開始した日から2か月以内とされています。"}],["$","p","25",{"children":"・【承認申請書】青色申告にしたい年の3月15日まで（2027年分からなら2027年3月15日まで）"}],["$","p","26",{"children":"・【申告】翌年3月15日までに提出（2027年分なら2028年3月15日まで）"}],["$","p","27",{"children":"帳簿や書類は、原則として7年間の保存が必要とされています。請求書や見積書などは、5年でよいものもあります。"}],["$","p","28",{"children":"※本記事の試算は一定の前提に基づく概算です。実際の税額は、所得や控除の状況、制度の改正で変わる場合があります。最新の情報は国税庁や最寄りの税務署でご確認ください。"}],"$L3","$L4","$L5"],"$L6"]}],"$L7","$L8","$L9",null,"$La","$Lb"]}],["$Lc"],"$Ld"]}],"isPartial":"$@e","staleTime":"$f","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$f","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$f","varyParams":"$14"},{"rsc":"$L15","isPartial":"$@16","staleTime":"$f","varyParams":"$14"}],"isUpgradeableISRFallback":false,"a":"$@17","rootVaryParams":null,"needsRuntimeRequest":"$@18"}
+19:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+1a:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+1c:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+1d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1e:"$Sreact.suspense"
+20:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+21:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+22:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+23:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+24:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","29",{"children":"・国税庁「No.2072 青色申告特別控除」"}]
+4:["$","p","30",{"children":"・国税庁「No.2070 青色申告制度」"}]
+5:["$","p","31",{"children":"・国税庁「No.2260 所得税の税率」"}]
+6:["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]
+7:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/20b12317a55d8c4e6db7d18bd38fafcc7fec8a91?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}]
+1b:T160b,会社を辞めてフリーランスになり、確定申告はずっと白色申告のまま、という人もいるでしょう。青色申告にすれば「最大65万円の控除」が受けられると聞いても、税金がいくら変わり、いつまでに何を出せばよいのかは分かりにくいものです。
+
+行政の現場を取材してきた経験からお伝えすると、税の特典は、金額よりも先に「期限」と「条件」を押さえておくことが欠かせません。ここでは、国税庁の案内をもとに、手続きの流れと所得税の変化を整理します。
+
+試算では、青色申告特別控除を差し引く前の課税所得を290万円と仮定し、白色申告の場合と、青色申告で10万円・55万円・65万円の控除を受けた場合の所得税（復興特別所得税を含む）を比べます。
+
+※国税庁「No.2072 青色申告特別控除」「No.2070 青色申告制度」「No.2260 所得税の税率」（いずれも2026年11月6日に確認）をもとにしています。
+
+※住民税や国民健康保険料は試算に含めていません。
+
+※編集部注:外部配信先ではハイパーリンクや図表などの画像を全部閲覧できない場合があります。その際はLIMO内でご確認ください。
+
+会社を辞めてフリーランスになり、確定申告はずっと白色申告のまま、という人もいるでしょう。青色申告にすれば「最大65万円の控除」が受けられると聞いても、税金がいくら変わり、いつまでに何を出せばよいのかは分かりにくいものです。
+
+行政の現場を取材してきた経験からお伝えすると、税の特典は、金額よりも先に「期限」と「条件」を押さえておくことが欠かせません。ここでは、国税庁の案内をもとに、手続きの流れと所得税の変化を整理します。
+
+試算では、青色申告特別控除を差し引く前の課税所得を290万円と仮定し、白色申告の場合と、青色申告で10万円・55万円・65万円の控除を受けた場合の所得税（復興特別所得税を含む）を比べます。
+
+※国税庁「No.2072 青色申告特別控除」「No.2070 青色申告制度」「No.2260 所得税の税率」（いずれも2026年11月6日に確認）をもとにしています。
+
+※住民税や国民健康保険料は試算に含めていません。
+
+※編集部注:外部配信先ではハイパーリンクや図表などの画像を全部閲覧できない場合があります。その際はLIMO内でご確認ください。
+
+国税庁によると、所得税の税率は課税所得195万円から329万9000円までが10％（控除額9万7500円）です。復興特別所得税は、基準所得税額の2.1％とされています。この税率で、4つの場合を比べました。
+
+・【白色申告（青色申告特別控除なし）】課税所得290万円、所得税と復興特別所得税で約19万7000円
+
+・【青色申告・10万円控除】課税所得280万円、約18万6000円
+
+・【青色申告・55万円控除】課税所得235万円、約14万円
+
+・【青色申告・65万円控除】課税所得225万円、約13万円
+
+白色申告と比べると、65万円控除では年約6万6000円、55万円控除では年約5万6000円、10万円控除では年約1万円少なくなる計算です。
+
+※試算の前提:青色申告特別控除を差し引く前の課税所得を290万円と仮定し、国税庁が案内する2026年4月1日現在の所得税の税率で計算しました。復興特別所得税（2.1％）を含み、100円未満の端数処理はしていない概算です。住民税・国民健康保険料は含みません。
+
+国税庁の案内では、55万円の控除を受けるには、次の3つを満たす必要があるとされています。
+
+・【事業】不動産所得または事業所得を生ずべき事業を営んでいる
+
+・【記帳】正規の簿記の原則（一般的には複式簿記）で記帳している
+
+・【提出】記帳にもとづく貸借対照表・損益計算書などを確定申告書に添付し、期限（翌年3月15日）までに提出する
+
+65万円の控除は、これらに加えて、仕訳帳・総勘定元帳の電子帳簿保存を行うか、確定申告書・貸借対照表・損益計算書などを期限までにe-Taxで送信することが条件と案内されています。
+
+国税庁によると、青色申告をするには「青色申告承認申請書」を、原則として青色申告をしようとする年の3月15日までに提出する必要があります。その年の1月16日以後に新規に開業した場合は、業務を開始した日から2か月以内とされています。
+
+・【承認申請書】青色申告にしたい年の3月15日まで（2027年分からなら2027年3月15日まで）
+
+・【申告】翌年3月15日までに提出（2027年分なら2028年3月15日まで）
+
+帳簿や書類は、原則として7年間の保存が必要とされています。請求書や見積書などは、5年でよいものもあります。
+
+※本記事の試算は一定の前提に基づく概算です。実際の税額は、所得や控除の状況、制度の改正で変わる場合があります。最新の情報は国税庁や最寄りの税務署でご確認ください。
+
+・国税庁「No.2072 青色申告特別控除」
+
+・国税庁「No.2070 青色申告制度」
+
+・国税庁「No.2260 所得税の税率」8:["$","section",null,{"className":"article-actions","children":[["$","$L19",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/3207d1ce3207d1ceb4afb076","title":"フリーランスで「ずっと白色申告」はいくら損？課税所得290万円なら所得税が“年約6.6万円”変わる青色申告の条件(LIMO)","locale":"ja","take":null}],["$","$L1a",null,{"title":"フリーランスで「ずっと白色申告」はいくら損？課税所得290万円なら所得税が“年約6.6万円”変わる青色申告の条件(LIMO)","excerpt":"$1b","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/3207d1ce3207d1ceb4afb076","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%83%95%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%A7%E3%81%AF%E3%81%84%E3%81%8F%E3%82%89%E6%90%8D%EF%BC%9F%E8%AA%B2%E7%A8%8E%E6%89%80%E5%BE%97290%E4%B8%87%E5%86%86%E3%81%AA%E3%82%89%E6%89%80%E5%BE%97%E7%A8%8E%E3%81%8C%E2%80%9C%E5%B9%B4%E7%B4%846.6%E4%B8%87%E5%86%86%E2%80%9D%E5%A4%89%E3%82%8F%E3%82%8B%E9%9D%92%E8%89%B2%E7%94%B3%E5%91%8A%E3%81%AE%E6%9D%A1%E4%BB%B6&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+9:["$","$L1c",null,{"placement":"article","className":"mt-8"}]
+a:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+b:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-world:https://bbc.co.uk/news/articles/cwvg2l312ylqo",{"children":["$","$L2",null,{"href":"/ja/n/3a4741623a4741627d186732","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"US has floated Ukraine ceding Donbas for Nato membership, Zelensky says"}]]}]}],["$","li","yahoo-biz:https://news.yahoo.co.jp/articles/5426d71320f9ecedff15648464d20addb1062cb2?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/2cb1dfd82cb1dfd82755b40c","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"親の介護で使える助成は？住宅改修は生涯20万円、福祉用具は年度10万円、介護の負担には月の上限(LIMO)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/aa7a8633943247759e5d7a07e4b70d0f896a294d?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/38da9e0738da9e07f7a5cf67","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"【PFL】後藤丈司がセルジオ・ペティスにフルマークの判定勝ち！「日本のRIZINファイターがもっと強いってことを証明したい」(ゴング格闘技)"}]]}]}]]}]]}]
+c:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+d:["$","$L1d",null,{"children":["$","$1e",null,{"name":"Next.MetadataOutlet","children":"$@1f"}]}]
+10:["$","$1","h",{"children":[null,["$","$L20",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L21",null,{"children":["$","$1e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"フリーランスで「ずっと白色申告」はいくら損？課税所得290万円なら所得税が“年約6.6万円”変わる青色申告の条件(LIMO)"}],["$","meta","1",{"name":"description","content":"会社を辞めてフリーランスになり、確定申告はずっと白色申告のまま、という人もいるでしょう。青色申告にすれば「最大65万円の控除」が受けられると聞いても、税金がいくら変わり、いつまでに何を出せばよいのかは分かりにくいものです。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"フリーランスで「ずっと白色申告」はいくら損？課税所得290万円なら所得税が“年約6.6万円”変わる青色申告の条件(LIMO)"}],["$","meta","4",{"property":"og:description","content":"会社を辞めてフリーランスになり、確定申告はずっと白色申告のまま、という人もいるでしょう。青色申告にすれば「最大65万円の控除」が受けられると聞いても、税金がいくら変わり、いつまでに何を出せばよいのかは分かりにくいものです。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/3207d1ce3207d1ceb4afb076/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261115-00145590-toushin-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"フリーランスで「ずっと白色申告」はいくら損？課税所得290万円なら所得税が“年約6.6万円”変わる青色申告の条件(LIMO)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"フリーランスで「ずっと白色申告」はいくら損？課税所得290万円なら所得税が“年約6.6万円”変わる青色申告の条件(LIMO)"}],["$","meta","14",{"name":"twitter:description","content":"会社を辞めてフリーランスになり、確定申告はずっと白色申告のまま、という人もいるでしょう。青色申告にすれば「最大65万円の控除」が受けられると聞いても、税金がいくら変わり、いつまでに何を出せばよいのかは分かりにくいものです。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261115-00145590-toushin-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L22","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+12:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+15:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+18:true
+1f:null
+f:300
+f:C
+17:0
+11:"$undefined"
+13:"$undefined"
+16:"$undefined"
+e:"$undefined"

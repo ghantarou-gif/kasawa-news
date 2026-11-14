@@ -1,0 +1,75 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261114-00199744-sdigestw-000-8-view.jpg?pri=l&w=450&h=360&exp=10800","image"]
+c:X
+11:X
+11:C
+0:{"buildId":"-K4CQycLbXq1d6wzPX_5Z","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-14","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["⚽"," ","スポーツ"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"【セルジオ越後】ブラジルに勝ったけど、それで世界の強豪に肩を並べたと思ったら大間違い。日本は圧倒できていなかったし、ヴィニシウスのようなスターもいないんだから(SOCCER DIGEST Web)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"5 時間前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261114-00199744-sdigestw-000-8-view.jpg?pri=l&w=450&h=360&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"日本代表は11月14日、国際親善試合でブラジル代表とシンガポールで対戦。３－２で勝利した。"}],["$","p","1",{"children":"指折りの実力国でもあるブラジルに勝ったね。でも、私はまったく満足していないよ。確かに結果は素晴らしい。だけど、試合の中身を見れば、日本が圧倒したわけではない。ブラジルのほうがチャンスを作っていた。日本はゲームを支配できず、攻撃はカウンターが中心だった。"}],["$","p","2",{"children":"ブラジルを相手にボールを保持して押し込めなかったし、速攻でチャンスを狙う形ばかり。それで白星を挙げたこと自体は評価していいけど、この戦い方で日本が成長したと考えるのは違うんじゃないかな。"}],["$","p","3",{"children":"今のブラジルは、昔ほどの強さはない。ロナウド、ロナウジーニョ、カカがいた時代と比べれば、タレントの質と層の厚さも落ちている。かつては次から次へとスターが出てきたけど、今はレアル・マドリーのヴィニシウス・ジュニオールやバルセロナのラフィーニャといった一部の一流選手に頼る部分が大きい。ブラジルのレベルが下がっていることも忘れてはいけないね。"}],["$","p","4",{"children":"だからこそ、今回の勝利を過大評価してはいけない。ブラジルを負かしたという事実だけを見て、日本が世界の強豪に肩を並べたと思ったら大間違いだよ。相手の力が以前より劣っていることも踏まえて、冷静に内容を分析する必要がある。"}],["$","p","5",{"children":"もう１つ気になったのは、個の力だ。ヴィニシウスは圧巻の個人技で２得点した。やはり、あれだけレベルの高いプレーヤーがいると違うよ。局面を１人で変えられるし、相手にとって大きな脅威になる。"}],["$","p","6",{"children":"一方、日本には彼のように世界中から注目され、１人で試合を決定づけられる選手がまだいない。チームとして組織的に戦えても、最後に違いを生み出せるスターが出てこないとダメだよ。"}],["$","p","7",{"children":"親善試合でブラジルを下した。それは喜んでいい。だけど、それだけで日本が強くなったと勘違いしてはいけない。世界一を目ざすなら、この結果をどうやって次に繋げるかが大事。４年後を見据えて、厳しい目でチーム作りを進めてほしいね。"}],["$","p","8",{"children":"【著者プロフィール】"}],["$","p","9",{"children":"セルジオ越後（せるじお・えちご）／1945年７月28日生まれ、81歳。ブラジル・サンパウロ出身。日系ブラジル人。ブラジルではコリンチャンスやパウリスタなどでプレー。1972年に来日し、日本では藤和不動産サッカー部（現・湘南ベルマーレ）で活躍した。引退後は「さわやかサッカー教室」で全国を回り、サッカーの普及に努める。現在は解説者として、歯に衣着せぬ物言いで日本サッカーを鋭く斬る。"}],["$","p","10",{"children":"日本代表は11月14日、国際親善試合でブラジル代表とシンガポールで対戦。３－２で勝利した。"}],["$","p","11",{"children":"指折りの実力国でもあるブラジルに勝ったね。でも、私はまったく満足していないよ。確かに結果は素晴らしい。だけど、試合の中身を見れば、日本が圧倒したわけではない。ブラジルのほうがチャンスを作っていた。日本はゲームを支配できず、攻撃はカウンターが中心だった。"}],["$","p","12",{"children":"ブラジルを相手にボールを保持して押し込めなかったし、速攻でチャンスを狙う形ばかり。それで白星を挙げたこと自体は評価していいけど、この戦い方で日本が成長したと考えるのは違うんじゃないかな。"}],["$","p","13",{"children":"今のブラジルは、昔ほどの強さはない。ロナウド、ロナウジーニョ、カカがいた時代と比べれば、タレントの質と層の厚さも落ちている。かつては次から次へとスターが出てきたけど、今はレアル・マドリーのヴィニシウス・ジュニオールやバルセロナのラフィーニャといった一部の一流選手に頼る部分が大きい。ブラジルのレベルが下がっていることも忘れてはいけないね。"}],["$","p","14",{"children":"だからこそ、今回の勝利を過大評価してはいけない。ブラジルを負かしたという事実だけを見て、日本が世界の強豪に肩を並べたと思ったら大間違いだよ。相手の力が以前より劣っていることも踏まえて、冷静に内容を分析する必要がある。"}],["$","p","15",{"children":"もう１つ気になったのは、個の力だ。ヴィニシウスは圧巻の個人技で２得点した。やはり、あれだけレベルの高いプレーヤーがいると違うよ。局面を１人で変えられるし、相手にとって大きな脅威になる。"}],["$","p","16",{"children":"一方、日本には彼のように世界中から注目され、１人で試合を決定づけられる選手がまだいない。チームとして組織的に戦えても、最後に違いを生み出せるスターが出てこないとダメだよ。"}],["$","p","17",{"children":"親善試合でブラジルを下した。それは喜んでいい。だけど、それだけで日本が強くなったと勘違いしてはいけない。世界一を目ざすなら、この結果をどうやって次に繋げるかが大事。４年後を見据えて、厳しい目でチーム作りを進めてほしいね。"}],["$","p","18",{"children":"【著者プロフィール】"}],["$","p","19",{"children":"セルジオ越後（せるじお・えちご）／1945年７月28日生まれ、81歳。ブラジル・サンパウロ出身。日系ブラジル人。ブラジルではコリンチャンスやパウリスタなどでプレー。1972年に来日し、日本では藤和不動産サッカー部（現・湘南ベルマーレ）で活躍した。引退後は「さわやかサッカー教室」で全国を回り、サッカーの普及に努める。現在は解説者として、歯に衣着せぬ物言いで日本サッカーを鋭く斬る。"}]],"$L3"]}],"$L4","$L5","$L6",null,"$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":"$@b","staleTime":"$c","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$c","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$c","varyParams":"$11"},{"rsc":"$L12","isPartial":"$@13","staleTime":"$c","varyParams":"$11"}],"isUpgradeableISRFallback":false,"a":"$@14","rootVaryParams":null,"needsRuntimeRequest":"$@15"}
+16:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+17:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+19:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+1a:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1e:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1f:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+20:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+21:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]
+4:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/d54b9d213c3b328d801f9b8e2ea7b90411ca978a?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}]
+18:T17fe,日本代表は11月14日、国際親善試合でブラジル代表とシンガポールで対戦。３－２で勝利した。
+
+指折りの実力国でもあるブラジルに勝ったね。でも、私はまったく満足していないよ。確かに結果は素晴らしい。だけど、試合の中身を見れば、日本が圧倒したわけではない。ブラジルのほうがチャンスを作っていた。日本はゲームを支配できず、攻撃はカウンターが中心だった。
+
+ブラジルを相手にボールを保持して押し込めなかったし、速攻でチャンスを狙う形ばかり。それで白星を挙げたこと自体は評価していいけど、この戦い方で日本が成長したと考えるのは違うんじゃないかな。
+
+今のブラジルは、昔ほどの強さはない。ロナウド、ロナウジーニョ、カカがいた時代と比べれば、タレントの質と層の厚さも落ちている。かつては次から次へとスターが出てきたけど、今はレアル・マドリーのヴィニシウス・ジュニオールやバルセロナのラフィーニャといった一部の一流選手に頼る部分が大きい。ブラジルのレベルが下がっていることも忘れてはいけないね。
+
+だからこそ、今回の勝利を過大評価してはいけない。ブラジルを負かしたという事実だけを見て、日本が世界の強豪に肩を並べたと思ったら大間違いだよ。相手の力が以前より劣っていることも踏まえて、冷静に内容を分析する必要がある。
+
+もう１つ気になったのは、個の力だ。ヴィニシウスは圧巻の個人技で２得点した。やはり、あれだけレベルの高いプレーヤーがいると違うよ。局面を１人で変えられるし、相手にとって大きな脅威になる。
+
+一方、日本には彼のように世界中から注目され、１人で試合を決定づけられる選手がまだいない。チームとして組織的に戦えても、最後に違いを生み出せるスターが出てこないとダメだよ。
+
+親善試合でブラジルを下した。それは喜んでいい。だけど、それだけで日本が強くなったと勘違いしてはいけない。世界一を目ざすなら、この結果をどうやって次に繋げるかが大事。４年後を見据えて、厳しい目でチーム作りを進めてほしいね。
+
+【著者プロフィール】
+
+セルジオ越後（せるじお・えちご）／1945年７月28日生まれ、81歳。ブラジル・サンパウロ出身。日系ブラジル人。ブラジルではコリンチャンスやパウリスタなどでプレー。1972年に来日し、日本では藤和不動産サッカー部（現・湘南ベルマーレ）で活躍した。引退後は「さわやかサッカー教室」で全国を回り、サッカーの普及に努める。現在は解説者として、歯に衣着せぬ物言いで日本サッカーを鋭く斬る。
+
+日本代表は11月14日、国際親善試合でブラジル代表とシンガポールで対戦。３－２で勝利した。
+
+指折りの実力国でもあるブラジルに勝ったね。でも、私はまったく満足していないよ。確かに結果は素晴らしい。だけど、試合の中身を見れば、日本が圧倒したわけではない。ブラジルのほうがチャンスを作っていた。日本はゲームを支配できず、攻撃はカウンターが中心だった。
+
+ブラジルを相手にボールを保持して押し込めなかったし、速攻でチャンスを狙う形ばかり。それで白星を挙げたこと自体は評価していいけど、この戦い方で日本が成長したと考えるのは違うんじゃないかな。
+
+今のブラジルは、昔ほどの強さはない。ロナウド、ロナウジーニョ、カカがいた時代と比べれば、タレントの質と層の厚さも落ちている。かつては次から次へとスターが出てきたけど、今はレアル・マドリーのヴィニシウス・ジュニオールやバルセロナのラフィーニャといった一部の一流選手に頼る部分が大きい。ブラジルのレベルが下がっていることも忘れてはいけないね。
+
+だからこそ、今回の勝利を過大評価してはいけない。ブラジルを負かしたという事実だけを見て、日本が世界の強豪に肩を並べたと思ったら大間違いだよ。相手の力が以前より劣っていることも踏まえて、冷静に内容を分析する必要がある。
+
+もう１つ気になったのは、個の力だ。ヴィニシウスは圧巻の個人技で２得点した。やはり、あれだけレベルの高いプレーヤーがいると違うよ。局面を１人で変えられるし、相手にとって大きな脅威になる。
+
+一方、日本には彼のように世界中から注目され、１人で試合を決定づけられる選手がまだいない。チームとして組織的に戦えても、最後に違いを生み出せるスターが出てこないとダメだよ。
+
+親善試合でブラジルを下した。それは喜んでいい。だけど、それだけで日本が強くなったと勘違いしてはいけない。世界一を目ざすなら、この結果をどうやって次に繋げるかが大事。４年後を見据えて、厳しい目でチーム作りを進めてほしいね。
+
+【著者プロフィール】
+
+セルジオ越後（せるじお・えちご）／1945年７月28日生まれ、81歳。ブラジル・サンパウロ出身。日系ブラジル人。ブラジルではコリンチャンスやパウリスタなどでプレー。1972年に来日し、日本では藤和不動産サッカー部（現・湘南ベルマーレ）で活躍した。引退後は「さわやかサッカー教室」で全国を回り、サッカーの普及に努める。現在は解説者として、歯に衣着せぬ物言いで日本サッカーを鋭く斬る。5:["$","section",null,{"className":"article-actions","children":[["$","$L16",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/dac2d316dac2d316696639dc","title":"【セルジオ越後】ブラジルに勝ったけど、それで世界の強豪に肩を並べたと思ったら大間違い。日本は圧倒できていなかったし、ヴィニシウスのようなスターもいないんだから(SOCCER DIGEST Web)","locale":"ja","take":null}],["$","$L17",null,{"title":"【セルジオ越後】ブラジルに勝ったけど、それで世界の強豪に肩を並べたと思ったら大間違い。日本は圧倒できていなかったし、ヴィニシウスのようなスターもいないんだから(SOCCER DIGEST Web)","excerpt":"$18","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/dac2d316dac2d316696639dc","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%80%90%E3%82%BB%E3%83%AB%E3%82%B8%E3%82%AA%E8%B6%8A%E5%BE%8C%E3%80%91%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB%E3%81%AB%E5%8B%9D%E3%81%A3%E3%81%9F%E3%81%91%E3%81%A9%E3%80%81%E3%81%9D%E3%82%8C%E3%81%A7%E4%B8%96%E7%95%8C%E3%81%AE%E5%BC%B7%E8%B1%AA%E3%81%AB%E8%82%A9%E3%82%92%E4%B8%A6%E3%81%B9%E3%81%9F%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%9F%E3%82%89%E5%A4%A7%E9%96%93%E9%81%95%E3%81%84%E3%80%82%E6%97%A5%E6%9C%AC%E3%81%AF%E5%9C%A7%E5%80%92&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+6:["$","$L19",null,{"placement":"article","className":"mt-8"}]
+7:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+8:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","cna:https://channelnewsasia.com/sport/de-jong-miss-yet-another-match-netherlands-6551946",{"children":["$","$L2",null,{"href":"/ja/n/bd38a891bd38a89159a329d9","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"CNA"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"De Jong to miss yet another match for the Netherlands"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/e43d302442d0378c2177555b94fc8bf4e96d366a?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/88ea8a8b88ea8a8b33ddf2c3","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"ドジャース専属美人リポーター カウボーイハット＆ファーコートで「なりたかった女性」姿公開(日刊スポーツ)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/10a2be7929f5b7b045daf01b31e388366cb39b30?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/0eab791b0eab791b4cf8c803","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"自身の活躍よりもチームの活躍が大事。静岡学園GK田邊匠真が静岡予選のMVPに(ゲキサカ)"}]]}]}]]}]]}]
+9:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+a:["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]
+d:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1e",null,{"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"【セルジオ越後】ブラジルに勝ったけど、それで世界の強豪に肩を並べたと思ったら大間違い。日本は圧倒できていなかったし、ヴィニシウスのようなスターもいないんだから(SOCCER DIGEST Web)"}],["$","meta","1",{"name":"description","content":"日本代表は11月14日、国際親善試合でブラジル代表とシンガポールで対戦。３－２で勝利した。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"【セルジオ越後】ブラジルに勝ったけど、それで世界の強豪に肩を並べたと思ったら大間違い。日本は圧倒できていなかったし、ヴィニシウスのようなスターもいないんだから(SOCCER DIGEST Web)"}],["$","meta","4",{"property":"og:description","content":"日本代表は11月14日、国際親善試合でブラジル代表とシンガポールで対戦。３－２で勝利した。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/dac2d316dac2d316696639dc/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261114-00199744-sdigestw-000-8-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"【セルジオ越後】ブラジルに勝ったけど、それで世界の強豪に肩を並べたと思ったら大間違い。日本は圧倒できていなかったし、ヴィニシウスのようなスターもいないんだから(SOCCER DIGEST Web)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"【セルジオ越後】ブラジルに勝ったけど、それで世界の強豪に肩を並べたと思ったら大間違い。日本は圧倒できていなかったし、ヴィニシウスのようなスターもいないんだから(SOCCER DIGEST Web)"}],["$","meta","14",{"name":"twitter:description","content":"日本代表は11月14日、国際親善試合でブラジル代表とシンガポールで対戦。３－２で勝利した。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261114-00199744-sdigestw-000-8-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1f","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
+12:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
+15:true
+1c:null
+c:300
+c:C
+14:0
+e:"$undefined"
+10:"$undefined"
+13:"$undefined"
+b:"$undefined"

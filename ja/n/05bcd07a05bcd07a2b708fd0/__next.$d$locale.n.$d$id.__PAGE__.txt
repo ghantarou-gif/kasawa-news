@@ -1,0 +1,78 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+c:X
+11:X
+11:C
+0:{"buildId":"-K4CQycLbXq1d6wzPX_5Z","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-12","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"ITmedia"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"NVIDIA取締役会、フアンCEO解任の可否決定へ 2件の不倫報道で株価8％超下落"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"3 日前"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"米NVIDIAの取締役会は11月11日（現地時間）夜、ジェンスン・フアンCEOを解任するかどうかを決める会合を開く。事情に詳しい関係筋がロイターに明らかにした。AI半導体で圧倒的なシェアを持つNVIDIAは、長年経営トップを務めてきたフアン氏を巡る2件の不倫報道に揺れている。"}],["$","p","1",{"children":"NVIDIAは、取締役会の会合についてのコメント要請にすぐには応じなかった。"}],["$","p","2",{"children":"取締役会は8日にフアン氏と経営陣への信任を表明しており、今回の会合はそこからの急転換となる。NVIDIAの定款では、取締役の過半数が賛成すれば、フアン氏を「理由の有無を問わず」解任できる。取締役は11人で、フアン氏以外の全員を独立取締役と位置付けている。"}],["$","p","3",{"children":"フアン氏の解任準備を米Wall Street Journalが最初に報じたのを受け、NVIDIA株は時間外取引で8％超下落した。この下落が続けば、フアン氏と中国のスパイの疑いがある実業家アリス・フアン（Alice Huang）氏との関係について取締役会が調査を発表して以降、NVIDIAは約6000億ドルの時価総額を失ったことになる。"}],["$","p","4",{"children":"一連の動きの発端は、米情報機関がアリス・フアン氏について、中国企業へのNVIDIA製半導体の出荷を手助けした疑いで調べていたと明らかになったことだ。これをきっかけに、ウォール街ではNVIDIAの企業統治やフアン氏の個人的な行動を疑問視する声が上がり、同社の取締役会は外部の法律顧問を起用して内部調査を開始した。議員からは、中国向け半導体の輸出規制の強化を求める声も出ている。"}],["$","p","5",{"children":"NVIDIA株を保有する投資会社Minotaur Capitalの共同創業者で、ポートフォリオマネジャーを務めるアーミナ・ローゼンバーグ氏は「市場は創業者のいないNVIDIAを、テールリスク（発生確率は低いが、起きれば損失が大きいリスク）ではなく可能性の高い結末として織り込み始めている」と指摘する。その上で「ジェンスン氏を失えば大きな打撃になる」と話した。"}],["$","p","6",{"children":"フアン氏が退任すれば、時価総額約4兆ドルのNVIDIAの経営トップに空白が生じる。フアン氏は同社を共同で創業し、30年以上をかけて、世界的なAIブームと米中の技術覇権争いの中心にある半導体の最大手に育て上げた。"}],["$","p","7",{"children":"63歳のフアン氏に明確な後継者はおらず、NVIDIA株の約3.6％を保有する。直属の部下を数十人抱えており、同社を強く掌握していることがうかがえる。"}],["$","p","8",{"children":"米Bloombergは11日、事情に詳しい関係者の話として、取締役会が外部の企業と組んでフアン氏の後任候補を探していると報じた。"}],["$","p","9",{"children":"ローゼンバーグ氏は、10年以上CFO（最高財務責任者）を務めるコレット・クレス氏が暫定CEOの順当な候補だとみる。一方で、より大きな問題は長期的にNVIDIAの技術ロードマップを誰が率いるかだと指摘した。"}],["$","p","10",{"children":"予測市場サイト「Polymarket」では、フアン氏が年内に辞任するか解任に至る確率が88％に急上昇した。後任候補としては、データセンター向け事業を統括するイアン・バック氏が有力候補に挙がっている。"}],["$","p","11",{"children":"経営の混乱は、投資家がNVIDIAの業績と見通しについて説明を受ける予定日のわずか数日前に起きた。同社は17日に四半期決算を発表する予定だ。"}],["$","p","12",{"children":"11日には米New York Timesが、フアン氏は直属の部下の幹部とも不倫関係にあったと報じた。NVIDIAで働いていた5人の話として、相手は同社のヘルスケア担当バイスプレジデント、キンバリー・パウエル氏だったと伝えた。"}],["$","p","13",{"children":"New York Timesによると、11日に電話取材でパウエル氏との関係を問われたフアン氏は、「私に直接話をすべきではないと思う」と答え、電話を切ったという。"}],["$","p","14",{"children":"NVIDIAとパウエル氏はコメント要請にすぐには応じなかった。ロイターもこの報道をすぐには確認できていない。"}],["$","p","15",{"children":"米株価指数先物は下落し、ナスダック先物は1％安となった。時間外取引では米Micronが2％近く、米CoreWeaveが6％下げた。一方、競合する半導体メーカーの米AMDは4％、米Broadcomは3％上昇した。アジアでは韓国Samsung Electronicsが約1％上がり、同じく韓国のSK hynixは1％近く下落した。"}],["$","p","16",{"children":"投資家やアナリストからは、NVIDIA製半導体の需要が短期的に落ち込む可能性は低いものの、NVIDIAが支援する企業群は打撃を受けかねないとの見方が出ている。支援先の多くは、NVIDIAの半導体を使うデータセンターを建設している顧客企業だ。"}],["$","p","17",{"children":"シンガポールの資産運用会社Vantage Point Asset Managementで最高投資責任者を務めるニック・フェレス氏は「（NVIDIAは）顧客に資金を出している。この種のブームやバブルでは、ちょっとした減速だけで崩壊局面に移ることがある」と話す。"}],["$","p","18",{"children":"フアン氏は8日、従業員向けのメモで妻への不貞を認め、「全責任」を負うとしたが、関係の詳細には触れなかった。"}],["$","p","19",{"children":"トランプ米大統領は、疑惑についてフアン氏と話してはいないとしつつ、親しい間柄にあるフアン氏への支持を表明している。"}],["$","p","20",{"children":"フアン氏には、中国のスパイとの不倫疑惑について非公開のブリーフィングを行うよう求める要請が出ており、応じなければ議会から召喚状を受ける可能性がある。"}],["$","p","21",{"children":"また米Axiosは11日、高官筋の話として、ハワード・ラトニック米商務長官が、NVIDIA製半導体を中国に横流ししている疑いのある企業へのトランプ政権の取り締まりを滞らせていたと報じた。ホワイトハウスとラトニック氏の広報担当者は、コメント要請にすぐには応じなかった。"}]],"$L3"]}],"$L4","$L5","$L6",null,"$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":"$@b","staleTime":"$c","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$c","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$c","varyParams":"$11"},{"rsc":"$L12","isPartial":"$@13","staleTime":"$c","varyParams":"$11"}],"isUpgradeableISRFallback":false,"a":"$@14","rootVaryParams":null,"needsRuntimeRequest":"$@15"}
+16:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+17:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+19:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+1a:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1e:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1f:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+20:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+21:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p",null,{"className":"article-credit","children":"本文の著作権はITmediaにあります。"}]
+4:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://www.itmedia.co.jp/news/article/2611/12/2000003138/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はITmediaで読む"}]}]
+18:T1891,米NVIDIAの取締役会は11月11日（現地時間）夜、ジェンスン・フアンCEOを解任するかどうかを決める会合を開く。事情に詳しい関係筋がロイターに明らかにした。AI半導体で圧倒的なシェアを持つNVIDIAは、長年経営トップを務めてきたフアン氏を巡る2件の不倫報道に揺れている。
+
+NVIDIAは、取締役会の会合についてのコメント要請にすぐには応じなかった。
+
+取締役会は8日にフアン氏と経営陣への信任を表明しており、今回の会合はそこからの急転換となる。NVIDIAの定款では、取締役の過半数が賛成すれば、フアン氏を「理由の有無を問わず」解任できる。取締役は11人で、フアン氏以外の全員を独立取締役と位置付けている。
+
+フアン氏の解任準備を米Wall Street Journalが最初に報じたのを受け、NVIDIA株は時間外取引で8％超下落した。この下落が続けば、フアン氏と中国のスパイの疑いがある実業家アリス・フアン（Alice Huang）氏との関係について取締役会が調査を発表して以降、NVIDIAは約6000億ドルの時価総額を失ったことになる。
+
+一連の動きの発端は、米情報機関がアリス・フアン氏について、中国企業へのNVIDIA製半導体の出荷を手助けした疑いで調べていたと明らかになったことだ。これをきっかけに、ウォール街ではNVIDIAの企業統治やフアン氏の個人的な行動を疑問視する声が上がり、同社の取締役会は外部の法律顧問を起用して内部調査を開始した。議員からは、中国向け半導体の輸出規制の強化を求める声も出ている。
+
+NVIDIA株を保有する投資会社Minotaur Capitalの共同創業者で、ポートフォリオマネジャーを務めるアーミナ・ローゼンバーグ氏は「市場は創業者のいないNVIDIAを、テールリスク（発生確率は低いが、起きれば損失が大きいリスク）ではなく可能性の高い結末として織り込み始めている」と指摘する。その上で「ジェンスン氏を失えば大きな打撃になる」と話した。
+
+フアン氏が退任すれば、時価総額約4兆ドルのNVIDIAの経営トップに空白が生じる。フアン氏は同社を共同で創業し、30年以上をかけて、世界的なAIブームと米中の技術覇権争いの中心にある半導体の最大手に育て上げた。
+
+63歳のフアン氏に明確な後継者はおらず、NVIDIA株の約3.6％を保有する。直属の部下を数十人抱えており、同社を強く掌握していることがうかがえる。
+
+米Bloombergは11日、事情に詳しい関係者の話として、取締役会が外部の企業と組んでフアン氏の後任候補を探していると報じた。
+
+ローゼンバーグ氏は、10年以上CFO（最高財務責任者）を務めるコレット・クレス氏が暫定CEOの順当な候補だとみる。一方で、より大きな問題は長期的にNVIDIAの技術ロードマップを誰が率いるかだと指摘した。
+
+予測市場サイト「Polymarket」では、フアン氏が年内に辞任するか解任に至る確率が88％に急上昇した。後任候補としては、データセンター向け事業を統括するイアン・バック氏が有力候補に挙がっている。
+
+経営の混乱は、投資家がNVIDIAの業績と見通しについて説明を受ける予定日のわずか数日前に起きた。同社は17日に四半期決算を発表する予定だ。
+
+11日には米New York Timesが、フアン氏は直属の部下の幹部とも不倫関係にあったと報じた。NVIDIAで働いていた5人の話として、相手は同社のヘルスケア担当バイスプレジデント、キンバリー・パウエル氏だったと伝えた。
+
+New York Timesによると、11日に電話取材でパウエル氏との関係を問われたフアン氏は、「私に直接話をすべきではないと思う」と答え、電話を切ったという。
+
+NVIDIAとパウエル氏はコメント要請にすぐには応じなかった。ロイターもこの報道をすぐには確認できていない。
+
+米株価指数先物は下落し、ナスダック先物は1％安となった。時間外取引では米Micronが2％近く、米CoreWeaveが6％下げた。一方、競合する半導体メーカーの米AMDは4％、米Broadcomは3％上昇した。アジアでは韓国Samsung Electronicsが約1％上がり、同じく韓国のSK hynixは1％近く下落した。
+
+投資家やアナリストからは、NVIDIA製半導体の需要が短期的に落ち込む可能性は低いものの、NVIDIAが支援する企業群は打撃を受けかねないとの見方が出ている。支援先の多くは、NVIDIAの半導体を使うデータセンターを建設している顧客企業だ。
+
+シンガポールの資産運用会社Vantage Point Asset Managementで最高投資責任者を務めるニック・フェレス氏は「（NVIDIAは）顧客に資金を出している。この種のブームやバブルでは、ちょっとした減速だけで崩壊局面に移ることがある」と話す。
+
+フアン氏は8日、従業員向けのメモで妻への不貞を認め、「全責任」を負うとしたが、関係の詳細には触れなかった。
+
+トランプ米大統領は、疑惑についてフアン氏と話してはいないとしつつ、親しい間柄にあるフアン氏への支持を表明している。
+
+フアン氏には、中国のスパイとの不倫疑惑について非公開のブリーフィングを行うよう求める要請が出ており、応じなければ議会から召喚状を受ける可能性がある。
+
+また米Axiosは11日、高官筋の話として、ハワード・ラトニック米商務長官が、NVIDIA製半導体を中国に横流ししている疑いのある企業へのトランプ政権の取り締まりを滞らせていたと報じた。ホワイトハウスとラトニック氏の広報担当者は、コメント要請にすぐには応じなかった。5:["$","section",null,{"className":"article-actions","children":[["$","$L16",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/05bcd07a05bcd07a2b708fd0","title":"NVIDIA取締役会、フアンCEO解任の可否決定へ 2件の不倫報道で株価8％超下落","locale":"ja","take":null}],["$","$L17",null,{"title":"NVIDIA取締役会、フアンCEO解任の可否決定へ 2件の不倫報道で株価8％超下落","excerpt":"$18","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/05bcd07a05bcd07a2b708fd0","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=NVIDIA%E5%8F%96%E7%B7%A0%E5%BD%B9%E4%BC%9A%E3%80%81%E3%83%95%E3%82%A2%E3%83%B3CEO%E8%A7%A3%E4%BB%BB%E3%81%AE%E5%8F%AF%E5%90%A6%E6%B1%BA%E5%AE%9A%E3%81%B8+2%E4%BB%B6%E3%81%AE%E4%B8%8D%E5%80%AB%E5%A0%B1%E9%81%93%E3%81%A7%E6%A0%AA%E4%BE%A18%EF%BC%85%E8%B6%85%E4%B8%8B%E8%90%BD&mode=phrase&url=itmedia.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+6:["$","$L19",null,{"placement":"article","className":"mt-8"}]
+7:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+8:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","bbc-sport:https://bbc.co.uk/sport/tennis/videos/cqrmg2w1038ro",{"children":["$","$L2",null,{"href":"/ja/n/a0b15b68a0b15b689d149344","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Andreeva beats world number two Sabalenka to reach WTA semis"}]]}]}],["$","li","itmedia:https://www.itmedia.co.jp/news/article/2611/12/2000003160/",{"children":["$","$L2",null,{"href":"/ja/n/4cac5ac14cac5ac1d4f67df5","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"ITmedia"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"NVIDIA、“革ジャンCEO”ことフアン氏が辞任 クレスCFOが暫定CEOに"}]]}]}],["$","li","nhk-sports:https://news.web.nhk/newsweb/na/nd-20261112de75092",{"children":["$","$L2",null,{"href":"/ja/n/903acfd6903acfd6daad11be","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"野球日本代表 台湾に5対0で勝利 井口監督 初采配の国際大会で"}]]}]}]]}]]}]
+9:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+a:["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]
+d:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1e",null,{"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"NVIDIA取締役会、フアンCEO解任の可否決定へ 2件の不倫報道で株価8％超下落"}],["$","meta","1",{"name":"description","content":"米NVIDIAの取締役会は11月11日（現地時間）夜、ジェンスン・フアンCEOを解任するかどうかを決める会合を開く。事情に詳しい関係筋がロイターに明らかにした。AI半導体で圧倒的なシェアを持つNVIDIAは、長年経営トップを務めてきたフアン氏を巡る2件の不倫報道に揺れている。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"NVIDIA取締役会、フアンCEO解任の可否決定へ 2件の不倫報道で株価8％超下落"}],["$","meta","4",{"property":"og:description","content":"米NVIDIAの取締役会は11月11日（現地時間）夜、ジェンスン・フアンCEOを解任するかどうかを決める会合を開く。事情に詳しい関係筋がロイターに明らかにした。AI半導体で圧倒的なシェアを持つNVIDIAは、長年経営トップを務めてきたフアン氏を巡る2件の不倫報道に揺れている。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/05bcd07a05bcd07a2b708fd0/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"NVIDIA取締役会、フアンCEO解任の可否決定へ 2件の不倫報道で株価8％超下落"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"NVIDIA取締役会、フアンCEO解任の可否決定へ 2件の不倫報道で株価8％超下落"}],["$","meta","14",{"name":"twitter:description","content":"米NVIDIAの取締役会は11月11日（現地時間）夜、ジェンスン・フアンCEOを解任するかどうかを決める会合を開く。事情に詳しい関係筋がロイターに明らかにした。AI半導体で圧倒的なシェアを持つNVIDIAは、長年経営トップを務めてきたフアン氏を巡る2件の不倫報道に揺れている。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1f","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
+12:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
+15:true
+1c:null
+c:300
+c:C
+14:0
+e:"$undefined"
+10:"$undefined"
+13:"$undefined"
+b:"$undefined"

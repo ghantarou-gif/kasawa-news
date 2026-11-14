@@ -1,0 +1,79 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+d:X
+12:X
+12:C
+0:{"buildId":"-K4CQycLbXq1d6wzPX_5Z","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-13","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Gigazine"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"イーサリアム財団のライセンスを順守しなかった時は剣で自らの命を絶つ「切腹ライセンス」を拒否したことで解雇された従業員が訴訟を提起"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"ブロックチェーンの「 イーサリアム 」を関する開発プログラムの作成や国際会議を主催するイーサリアム財団の元従業員が、「イーサリアムのライセンスを順守しなかった場合、剣で自らの命を絶つ」という財団の内部方針に反対したことで不当に解雇されたとして、財団および共同創設者に対し2026年11月4日に訴訟を提起しました。"}],["$","p","1",{"children":"Ethereum Foundation Mandate | ethereum.org"}],["$","p","2",{"children":"イーサリアム財団では2026年2月25日に、「The Ethereum Foundation Mandate(イーサリアム財団の指令)」という文書が配布されました。以下は、アメリカの裁判記録を閲覧できる「CourtListener」に記録されている「The Ethereum Foundation Mandate」のPDFファイル。"}],["$","p","3",{"children":"The Ethereum Foundation Mandate.pdf"}],["$","p","4",{"children":"「The Ethereum Foundation Mandate」は、イーサリアム財団が存在意義や活動方針、価値観などについて定めた内部向けの文書です。イーサリアム財団はあくまでイーサリアムを管理・支配する組織ではなく、個人の自己主権と自由を守るための分散型インフラを維持する組織であることや、そのために必要な原則や指針について定められています。"}],["$","p","5",{"children":"そして、第3章の末尾には「SOURCE SEPPUKU LICENSE(ソース切腹ライセンス)」という条項があります。"}],["$","p","6",{"children":"切腹ライセンスに記載されている内容は以下の通り。"}],["$","p","7",{"children":"本ソフトウェアのソースコードおよび関連文書の完全かつ正確な複製を、行為者によるすべての改変を含め、常に自由に利用可能かつ公にアクセス可能な状態にすること。"}],["$","p","8",{"children":"本ライセンスの誓約のいずれかを順守できなかった場合、または本ライセンスのいかなる部分をも改変または削除した場合には、自ら剣で自害すること。"}],["$","p","9",{"children":"イーサリアムおよびインフィニット・ガーデンに対する私たちの厳粛な誓約を守れなかった場合、儀式的に自らの剣に身を投じることができますように。"}],["$","p","10",{"children":"このライセンスには複数の従業員が反対したとされており、ある従業員は同僚が2025年に自殺したばかりだということも指摘しました。こうした批判を受けて、イーサリアム財団の取締役会は改訂版の「The Ethereum Foundation Mandate」を発行しました。改訂版ではページ数が9ページほど増加したほか、各ページに女の子のキャラクターなどのビジュアルが追加されています。"}],["$","p","11",{"children":"The Ethereum Foundation Mandate.pdf"}],["$","p","12",{"children":"しかし、問題となった切腹ライセンスの箇所については、フォントを変更してネコと銃を突きつける女の子のキャラクターを添えたビジュアルに変更されたのみで、ライセンスは削除されませんでした。"}],["$","p","13",{"children":"イーサリアム財団の従業員は、2026年3月25日までにオンラインフォームを通じてこの方針へのコミットメントを表明するよう求められました。"}],["$","p","14",{"children":"イーサリアム財団でプロトコルサポートチームリーダーを務めるケイリーン・フルトン氏は、切腹ライセンスを「自殺誓約」として署名を拒否し、同僚と協力して「文書の大まかな方向性には同意するものの、現状のままでは同意できない」と記載した取締役会宛ての反対意見書を作成しました。また、フルトン氏は全従業員向けに送ったメールで「我々の多くは、職と生活を失うことを恐れ、やむを得ずこの任務への誓約書に署名しました。我々は、彼らの世論調査への回答は強制されたものであり、無意味だと考えています」と述べています。"}],["$","p","15",{"children":"その後、2026年4月6日にフルトン氏および協力した同僚は解雇されました。フルトン氏の意見書に署名したメンバーはすぐには解雇されなかったものの、9月までにほとんどが辞任または解雇されたとのこと。"}],["$","p","16",{"children":"この解雇が不当なものであるとして、フルトン氏はイーサリアム財団および共同設立者のヴィタリック・ブテリンらに対し訴訟を提起しました。2026年11月4日にコロラド州地方裁判所に提出された訴状では、フルトン氏の解雇は内部文書に反対されないための抑止力として行われ、フルトン氏の連邦法および州法で保護された権利について、悪意をもって、故意に、無視して行動したと主張しています。"}],["$","p","17",{"children":"イーサリアム財団の共同事務局長であるバスティアン・アウエ氏は、切腹ライセンスについて「文字通りの意味で書かれたものではありません」と説明しました。また訴状では、解雇はがんの診断を受けたフルトン氏がそれをイーサリアム財団に報告した後に行われ、解雇の際にアウエ氏が「がん患者は、イーサリアム財団が従業員に求める『専念的で精力的な集中力』を発揮できない」と述べたとされています。"}],["$","p","18",{"children":"フルトン氏は、イーサリアム財団がアメリカ障害者法、家族医療休暇法、コロラド州差別禁止法に違反したと主張し、未払い賃金と失われた福利厚生、復職に代わる将来の賃金、懲罰的損害賠償、精神的苦痛に対する補償を求めています。"}],["$","p","19",{"children":"仮想通貨・イーサリアムで使われている「Eth1／Eth2」という名称が段階的廃止へ、ユーザーへの影響は？ - GIGAZINE"}],["$","p","20",{"children":"イーサリアムの消費電力を99％以上削減する大型アップグレード「The Merge」とは？ - GIGAZINE"}],"$L3"],"$L4"]}],"$L5","$L6","$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+18:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+1a:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1f:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+20:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+21:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+22:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","21",{"children":"You can read the machine translated English article An employee who was fired for refusing t… ."}]
+4:["$","p",null,{"className":"article-credit","children":"本文の著作権はGigazineにあります。"}]
+5:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://gigazine.net/news/20261113-ethereum-foundation-sword/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はGigazineで読む"}]}]
+19:T1767,ブロックチェーンの「 イーサリアム 」を関する開発プログラムの作成や国際会議を主催するイーサリアム財団の元従業員が、「イーサリアムのライセンスを順守しなかった場合、剣で自らの命を絶つ」という財団の内部方針に反対したことで不当に解雇されたとして、財団および共同創設者に対し2026年11月4日に訴訟を提起しました。
+
+Ethereum Foundation Mandate | ethereum.org
+
+イーサリアム財団では2026年2月25日に、「The Ethereum Foundation Mandate(イーサリアム財団の指令)」という文書が配布されました。以下は、アメリカの裁判記録を閲覧できる「CourtListener」に記録されている「The Ethereum Foundation Mandate」のPDFファイル。
+
+The Ethereum Foundation Mandate.pdf
+
+「The Ethereum Foundation Mandate」は、イーサリアム財団が存在意義や活動方針、価値観などについて定めた内部向けの文書です。イーサリアム財団はあくまでイーサリアムを管理・支配する組織ではなく、個人の自己主権と自由を守るための分散型インフラを維持する組織であることや、そのために必要な原則や指針について定められています。
+
+そして、第3章の末尾には「SOURCE SEPPUKU LICENSE(ソース切腹ライセンス)」という条項があります。
+
+切腹ライセンスに記載されている内容は以下の通り。
+
+本ソフトウェアのソースコードおよび関連文書の完全かつ正確な複製を、行為者によるすべての改変を含め、常に自由に利用可能かつ公にアクセス可能な状態にすること。
+
+本ライセンスの誓約のいずれかを順守できなかった場合、または本ライセンスのいかなる部分をも改変または削除した場合には、自ら剣で自害すること。
+
+イーサリアムおよびインフィニット・ガーデンに対する私たちの厳粛な誓約を守れなかった場合、儀式的に自らの剣に身を投じることができますように。
+
+このライセンスには複数の従業員が反対したとされており、ある従業員は同僚が2025年に自殺したばかりだということも指摘しました。こうした批判を受けて、イーサリアム財団の取締役会は改訂版の「The Ethereum Foundation Mandate」を発行しました。改訂版ではページ数が9ページほど増加したほか、各ページに女の子のキャラクターなどのビジュアルが追加されています。
+
+The Ethereum Foundation Mandate.pdf
+
+しかし、問題となった切腹ライセンスの箇所については、フォントを変更してネコと銃を突きつける女の子のキャラクターを添えたビジュアルに変更されたのみで、ライセンスは削除されませんでした。
+
+イーサリアム財団の従業員は、2026年3月25日までにオンラインフォームを通じてこの方針へのコミットメントを表明するよう求められました。
+
+イーサリアム財団でプロトコルサポートチームリーダーを務めるケイリーン・フルトン氏は、切腹ライセンスを「自殺誓約」として署名を拒否し、同僚と協力して「文書の大まかな方向性には同意するものの、現状のままでは同意できない」と記載した取締役会宛ての反対意見書を作成しました。また、フルトン氏は全従業員向けに送ったメールで「我々の多くは、職と生活を失うことを恐れ、やむを得ずこの任務への誓約書に署名しました。我々は、彼らの世論調査への回答は強制されたものであり、無意味だと考えています」と述べています。
+
+その後、2026年4月6日にフルトン氏および協力した同僚は解雇されました。フルトン氏の意見書に署名したメンバーはすぐには解雇されなかったものの、9月までにほとんどが辞任または解雇されたとのこと。
+
+この解雇が不当なものであるとして、フルトン氏はイーサリアム財団および共同設立者のヴィタリック・ブテリンらに対し訴訟を提起しました。2026年11月4日にコロラド州地方裁判所に提出された訴状では、フルトン氏の解雇は内部文書に反対されないための抑止力として行われ、フルトン氏の連邦法および州法で保護された権利について、悪意をもって、故意に、無視して行動したと主張しています。
+
+イーサリアム財団の共同事務局長であるバスティアン・アウエ氏は、切腹ライセンスについて「文字通りの意味で書かれたものではありません」と説明しました。また訴状では、解雇はがんの診断を受けたフルトン氏がそれをイーサリアム財団に報告した後に行われ、解雇の際にアウエ氏が「がん患者は、イーサリアム財団が従業員に求める『専念的で精力的な集中力』を発揮できない」と述べたとされています。
+
+フルトン氏は、イーサリアム財団がアメリカ障害者法、家族医療休暇法、コロラド州差別禁止法に違反したと主張し、未払い賃金と失われた福利厚生、復職に代わる将来の賃金、懲罰的損害賠償、精神的苦痛に対する補償を求めています。
+
+仮想通貨・イーサリアムで使われている「Eth1／Eth2」という名称が段階的廃止へ、ユーザーへの影響は？ - GIGAZINE
+
+イーサリアムの消費電力を99％以上削減する大型アップグレード「The Merge」とは？ - GIGAZINE
+
+You can read the machine translated English article An employee who was fired for refusing t… .6:["$","section",null,{"className":"article-actions","children":[["$","$L17",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/b69915ddb69915ddb3f30499","title":"イーサリアム財団のライセンスを順守しなかった時は剣で自らの命を絶つ「切腹ライセンス」を拒否したことで解雇された従業員が訴訟を提起","locale":"ja","take":null}],["$","$L18",null,{"title":"イーサリアム財団のライセンスを順守しなかった時は剣で自らの命を絶つ「切腹ライセンス」を拒否したことで解雇された従業員が訴訟を提起","excerpt":"$19","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/b69915ddb69915ddb3f30499","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%82%A4%E3%83%BC%E3%82%B5%E3%83%AA%E3%82%A2%E3%83%A0%E8%B2%A1%E5%9B%A3%E3%81%AE%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E3%82%92%E9%A0%86%E5%AE%88%E3%81%97%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E6%99%82%E3%81%AF%E5%89%A3%E3%81%A7%E8%87%AA%E3%82%89%E3%81%AE%E5%91%BD%E3%82%92%E7%B5%B6%E3%81%A4%E3%82%92%E6%8B%92%E5%90%A6%E3%81%97%E3%81%9F%E3%81%93%E3%81%A8%E3%81%A7%E8%A7%A3%E9%9B%87%E3%81%95%E3%82%8C%E3%81%9F%E5%BE%93%E6%A5%AD&mode=phrase&url=gigazine.net&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+7:["$","$L1a",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","euronews:https://euronews.com/video/2026/11/13/uk-christmas-at-kew-2026-unveils-spectacular-light-trail-in-london",{"children":["$","$L2",null,{"href":"/ja/n/83360355833603550dcb534d","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Euronews"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"UK: Christmas at Kew 2026 unveils spectacular light trail in London"}]]}]}],["$","li","nhk-politics:https://news.web.nhk/newsweb/na/nd-20261113de75730",{"children":["$","$L2",null,{"href":"/ja/n/246ad5de246ad5de4b1b325a","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"日本とメキシコの外相 有識者会議で中長期の戦略的関係議論へ"}]]}]}],["$","li","nhk-business:https://news.web.nhk/newsweb/na/nd-20261113de75739",{"children":["$","$L2",null,{"href":"/ja/n/a21f60c6a21f60c6acd101a6","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"ヤマダデンキ 不正アクセスで最大350万件が影響受けた可能性"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1e",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1f",null,{"children":["$","$1c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"イーサリアム財団のライセンスを順守しなかった時は剣で自らの命を絶つ「切腹ライセンス」を拒否したことで解雇された従業員が訴訟を提起"}],["$","meta","1",{"name":"description","content":"ブロックチェーンの「 イーサリアム 」を関する開発プログラムの作成や国際会議を主催するイーサリアム財団の元従業員が、「イーサリアムのライセンスを順守しなかった場合、剣で自らの命を絶つ」という財団の内部方針に反対したことで不当に解雇されたとして、財団および共同創設者に対し2026年11月4日に訴訟を提起しました。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"イーサリアム財団のライセンスを順守しなかった時は剣で自らの命を絶つ「切腹ライセンス」を拒否したことで解雇された従業員が訴訟を提起"}],["$","meta","4",{"property":"og:description","content":"ブロックチェーンの「 イーサリアム 」を関する開発プログラムの作成や国際会議を主催するイーサリアム財団の元従業員が、「イーサリアムのライセンスを順守しなかった場合、剣で自らの命を絶つ」という財団の内部方針に反対したことで不当に解雇されたとして、財団および共同創設者に対し2026年11月4日に訴訟を提起しました。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/b69915ddb69915ddb3f30499/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"イーサリアム財団のライセンスを順守しなかった時は剣で自らの命を絶つ「切腹ライセンス」を拒否したことで解雇された従業員が訴訟を提起"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"イーサリアム財団のライセンスを順守しなかった時は剣で自らの命を絶つ「切腹ライセンス」を拒否したことで解雇された従業員が訴訟を提起"}],["$","meta","14",{"name":"twitter:description","content":"ブロックチェーンの「 イーサリアム 」を関する開発プログラムの作成や国際会議を主催するイーサリアム財団の元従業員が、「イーサリアムのライセンスを順守しなかった場合、剣で自らの命を絶つ」という財団の内部方針に反対したことで不当に解雇されたとして、財団および共同創設者に対し2026年11月4日に訴訟を提起しました。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L20","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L21",null,{"parallelRouterKey":"children","template":["$","$L22",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L21",null,{"parallelRouterKey":"children","template":["$","$L22",null,{}]}]]}]
+16:true
+1d:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

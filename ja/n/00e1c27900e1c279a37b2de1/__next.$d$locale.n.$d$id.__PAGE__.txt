@@ -1,0 +1,69 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d304/live/bfc281c0-db53-11f1-98f5-8d1276fd5e57.jpg","image"]
+5:Tddc,黒いトップスを着た男性が、カメラに向かってほほえんでいる
+
+イランは8日、今年1月の反政府抗議に関連し、新たに男性3人の死刑を執行した。イラン国営メディアが報じた。3人は、反政府抗議の最中に「武装騒乱」を起こしたとされる。
+
+イラン国営タスニム通信によると、死刑が執行されたのは、ハッサン・ディオバンド、ハミド・カゼミ、レザ・ザンガネ各氏の3人。首都テヘランの西に位置するカラジ市で、火炎瓶や手りゅう弾を投げ、刃物や銃器を使用したほか、公共施設に放火したとして罪で起訴された。
+
+イランでは、反政府抗議に関連する死刑執行が相次いでおり、イスラエルやアメリカとのつながりを疑われた人も対象となっている。
+
+イランでは、アメリカとイスラエルによる攻撃が2月下旬に始まって以降、死刑の執行件数が増加している。
+
+抗議運動は昨年12月、生活費の高騰をきっかけに始まった。その後、政府に対する大規模な抗議へと急速に発展し、今年1月8日と9日にピークを迎えた。
+
+イラン当局の発表によると、抗議に伴う死者は3000人を超えた。当局は、この暴力行為はアメリカとイスラエルが仕組んだ「テロ行為」だと非難した。
+
+一方、国外に拠点を置く非政府組織は、イラン当局の発表を上回る死者数を報告している。BBCにも、治安部隊が非武装の抗議者に発砲したとの証言が、複数のイラン人から寄せられた。
+
+タスニム通信によると、イラン最高裁判所は3人に対する有罪判決を支持した。3人は「イスラエルのシオニスト政権、アメリカ、および敵対勢力のために作戦活動に参加」したとして有罪となり、処刑されたという。
+
+3人によるものとされる被害には、カラジにある変電所への攻撃も含まれている。これにより一部地域で停電が発生したとされる。
+
+8日に死刑が執行されたディオバンド氏は、公共財産への攻撃や暴力行為の扇動に関与した疑いが捜査で浮上し、1月11日に逮捕された。
+
+その後、ディオバンド氏の指示で騒乱に加わったとされる別の10人も逮捕された。
+
+ロイター通信によると、10人にはそれぞれ禁錮5年から10年が言い渡された。
+
+今回の死刑執行は、国連のフォルカー・テュルク人権高等弁務官が、イランで死刑判決が増加していることに懸念を表明する中で行われた。
+
+テュルク氏は8月、3月19日以降に国家安全保障に関連する罪で少なくとも56人の死刑が執行されたと明らかにした。このうち27人は、1月にイラン全土へ広がった反政府抗議に関連するものだという。
+
+イランは、中国に次いで2番目に死刑執行が多い国だとされる。国際人権団体アムネスティ・インターナショナルによると、イランでは昨年、少なくとも2159人の死刑が執行された。
+
+これは、1981年以降で最多だと、同団体は指摘している。昨年の執行数には、国家安全保障関連の罪に問われた反体制派とみられる45人も含まれるという。
+
+（英語記事 Iran executes three men for 'armed unrest' after January protests）d:X
+12:X
+12:C
+0:{"buildId":"-K4CQycLbXq1d6wzPX_5Z","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-09","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"イラン、1月の反政府抗議めぐり3人の死刑執行 「武装騒乱」に関与と"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"6 日前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d304/live/bfc281c0-db53-11f1-98f5-8d1276fd5e57.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"黒いトップスを着た男性が、カメラに向かってほほえんでいる"}],["$","p","1",{"children":"イランは8日、今年1月の反政府抗議に関連し、新たに男性3人の死刑を執行した。イラン国営メディアが報じた。3人は、反政府抗議の最中に「武装騒乱」を起こしたとされる。"}],["$","p","2",{"children":"イラン国営タスニム通信によると、死刑が執行されたのは、ハッサン・ディオバンド、ハミド・カゼミ、レザ・ザンガネ各氏の3人。首都テヘランの西に位置するカラジ市で、火炎瓶や手りゅう弾を投げ、刃物や銃器を使用したほか、公共施設に放火したとして罪で起訴された。"}],["$","p","3",{"children":"イランでは、反政府抗議に関連する死刑執行が相次いでおり、イスラエルやアメリカとのつながりを疑われた人も対象となっている。"}],["$","p","4",{"children":"イランでは、アメリカとイスラエルによる攻撃が2月下旬に始まって以降、死刑の執行件数が増加している。"}],["$","p","5",{"children":"抗議運動は昨年12月、生活費の高騰をきっかけに始まった。その後、政府に対する大規模な抗議へと急速に発展し、今年1月8日と9日にピークを迎えた。"}],["$","p","6",{"children":"イラン当局の発表によると、抗議に伴う死者は3000人を超えた。当局は、この暴力行為はアメリカとイスラエルが仕組んだ「テロ行為」だと非難した。"}],["$","p","7",{"children":"一方、国外に拠点を置く非政府組織は、イラン当局の発表を上回る死者数を報告している。BBCにも、治安部隊が非武装の抗議者に発砲したとの証言が、複数のイラン人から寄せられた。"}],["$","p","8",{"children":"タスニム通信によると、イラン最高裁判所は3人に対する有罪判決を支持した。3人は「イスラエルのシオニスト政権、アメリカ、および敵対勢力のために作戦活動に参加」したとして有罪となり、処刑されたという。"}],["$","p","9",{"children":"3人によるものとされる被害には、カラジにある変電所への攻撃も含まれている。これにより一部地域で停電が発生したとされる。"}],["$","p","10",{"children":"8日に死刑が執行されたディオバンド氏は、公共財産への攻撃や暴力行為の扇動に関与した疑いが捜査で浮上し、1月11日に逮捕された。"}],["$","p","11",{"children":"その後、ディオバンド氏の指示で騒乱に加わったとされる別の10人も逮捕された。"}],["$","p","12",{"children":"ロイター通信によると、10人にはそれぞれ禁錮5年から10年が言い渡された。"}],["$","p","13",{"children":"今回の死刑執行は、国連のフォルカー・テュルク人権高等弁務官が、イランで死刑判決が増加していることに懸念を表明する中で行われた。"}],["$","p","14",{"children":"テュルク氏は8月、3月19日以降に国家安全保障に関連する罪で少なくとも56人の死刑が執行されたと明らかにした。このうち27人は、1月にイラン全土へ広がった反政府抗議に関連するものだという。"}],["$","p","15",{"children":"イランは、中国に次いで2番目に死刑執行が多い国だとされる。国際人権団体アムネスティ・インターナショナルによると、イランでは昨年、少なくとも2159人の死刑が執行された。"}],["$","p","16",{"children":"これは、1981年以降で最多だと、同団体は指摘している。昨年の執行数には、国家安全保障関連の罪に問われた反体制派とみられる45人も含まれるという。"}],["$","p","17",{"children":"（英語記事 Iran executes three men for 'armed unrest' after January protests）"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/crx2d2nz2793o","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/00e1c27900e1c279a37b2de1","title":"イラン、1月の反政府抗議めぐり3人の死刑執行 「武装騒乱」に関与と","locale":"ja","take":null}],["$","$L4",null,{"title":"イラン、1月の反政府抗議めぐり3人の死刑執行 「武装騒乱」に関与と","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/00e1c27900e1c279a37b2de1","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%82%A4%E3%83%A9%E3%83%B3%E3%80%811%E6%9C%88%E3%81%AE%E5%8F%8D%E6%94%BF%E5%BA%9C%E6%8A%97%E8%AD%B0%E3%82%81%E3%81%90%E3%82%8A3%E4%BA%BA%E3%81%AE%E6%AD%BB%E5%88%91%E5%9F%B7%E8%A1%8C+%E3%81%AB%E9%96%A2%E4%B8%8E%E3%81%A8&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","nhk-politics:https://news.web.nhk/newsweb/na/nd-20261109de72912",{"children":["$","$L2",null,{"href":"/ja/n/cd8017c2cd8017c2ca74b98a","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"日本ベトナム首脳会談 安保推進で一致 重要鉱物や原子力で連携"}]]}]}],["$","li","nhk-sports:https://news.web.nhk/newsweb/na/nd-20261109de73187",{"children":["$","$L2",null,{"href":"/ja/n/ef322f3def322f3dac204c61","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"射撃 世界選手権 野畑美咲が3位 ロサンゼルス五輪の出場枠獲得"}]]}]}],["$","li","dw:https://dw.com/en/37-years-after-fall-of-berlin-wall-how-divided-are-germans/a-79877461?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/c5d2d70cc5d2d70c02f27656","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"37 years after fall of Berlin Wall: How divided are Germans?"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"イラン、1月の反政府抗議めぐり3人の死刑執行 「武装騒乱」に関与と"}],["$","meta","1",{"name":"description","content":"黒いトップスを着た男性が、カメラに向かってほほえんでいる"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"イラン、1月の反政府抗議めぐり3人の死刑執行 「武装騒乱」に関与と"}],["$","meta","4",{"property":"og:description","content":"黒いトップスを着た男性が、カメラに向かってほほえんでいる"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/00e1c27900e1c279a37b2de1/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fd304%2Flive%2Fbfc281c0-db53-11f1-98f5-8d1276fd5e57.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"イラン、1月の反政府抗議めぐり3人の死刑執行 「武装騒乱」に関与と"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"イラン、1月の反政府抗議めぐり3人の死刑執行 「武装騒乱」に関与と"}],["$","meta","14",{"name":"twitter:description","content":"黒いトップスを着た男性が、カメラに向かってほほえんでいる"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fd304%2Flive%2Fbfc281c0-db53-11f1-98f5-8d1276fd5e57.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

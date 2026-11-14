@@ -1,0 +1,71 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7bb3/live/3e9f8480-dfcc-11f1-b441-2b33b063138f.jpg","image"]
+5:T10cc,マイクロソフトのガラス張りの建物に、赤、緑、青、黄の同社ロゴがついている
+
+米マイクロソフト（MS）の一部サービスで22時間以上にわたり続いた大規模障害は、日常生活に不可欠なサービスが、少数の大手テクノロジー企業にどれほど依存しているかを浮き彫りにし、疑問を投げかける出来事となった。
+
+大規模障害は、メールサービス「Outlook」など、「マイクロソフト365」が提供する各種サービスに影響を与えた。定期的に実行される自動点検によって一部のサーバーが切断され、稼働を続けていた残りのサーバーにトラフィックが集中したことが原因だった。
+
+エンジニアは段階的にサービスを復旧させ、復旧にはほぼ丸1日かかった。今回の障害は、マイクロソフトのサービスが現代社会にどれほど深く浸透しているかを浮き彫りにした。
+
+イギリスの中小企業支援団体「スモール・ビジネス・チャーター」のエグゼクティブ・ディレクター、フローラ・ハミルトン氏は、今回の障害について、企業が業務を維持するにあたり、マイクロソフトのOutlookなどの「デジタルシステム」にどれほど「依存」しているかを「痛感させる」出来事だったと指摘した。
+
+ハミルトン氏は、「多くの中小企業にとって、電子メールへの接続は、顧客や取引先とのコミュニケーションから収益の創出に至るまで、あらゆる業務の基盤となっている」と述べた。
+
+障害の影響は、企業だけでなく、世界各地の組織や公的機関も受けた。
+
+マイクロソフト365は世界中で約4億3000万人が利用しており、70カ国以上で問題が報告された。
+
+障害の影響は広範囲に及び、米連邦議会下院やオーストラリアの情報機関で電子メールシステムが使用できなくなった。シンガポールの裁判所のシステムや、インドの航空会社の顧客対応窓口にも支障が出た。
+
+マイクロソフト社は後に、今回の問題について謝罪し、サイバー攻撃ではなく技術的な不具合によるものだと説明した。
+
+同社は13日遅くに出した声明で、サービスが完全に復旧する時期について、見通しは立っていないと付け加えた。
+
+AIストラテジストのウォルター・パスカレリ氏はBBCに対し、今回の障害によって、各国政府や企業、重要インフラの「ぜい弱性と依存関係がはっきり示された」と指摘。「今後、AIアシスタントが電子メールやカレンダー、ファイルと連携するようになれば、今回のような障害の影響はさらに広がる可能性がある」とも述べた。
+
+複数の大手テクノロジー企業でソフトウェア・エンジニアリングを率いたゲルゲイ・オロス氏は、この種の障害自体は前例がないわけではないと説明した。ただ、マイクロソフトが復旧に要した時間の長さは異例だったと指摘した。
+
+マイクロソフトの広報担当は、「需要の規模を考慮」し、サービスを段階的に復旧させたのだと説明した。
+
+「このため、（復旧作業の）時間が長期化したが、安定したかたちでの復旧につながった」
+
+前出のオロス氏は、障害による混乱は、「ごく少数のアメリカの大企業に、いかに自分たちが依存」しているかをあらわにしたと述べた。
+
+将来的な対策としては、サービスを地域ごとに分割し、障害が発生した際の影響を抑える方法が考えられると、オロス氏は述べた。この手法は、米アマゾンのクラウドサービス「アマゾン・ウェブ・サービス（AWS）」ですでに導入されている。
+
+マイクロソフトは現在、障害の原因を調査中で、調査結果を踏まえて同様の事態が再発しないよう対策を講じる見通し。
+
+（英語記事 Microsoft outage 'stark reminder' of how much we rely on tech）d:X
+12:X
+12:C
+0:{"buildId":"-K4CQycLbXq1d6wzPX_5Z","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-14","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"【解説】 米マイクロソフトの大規模障害、テクノロジー依存を痛感する事態に"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"17 時間前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7bb3/live/3e9f8480-dfcc-11f1-b441-2b33b063138f.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"マイクロソフトのガラス張りの建物に、赤、緑、青、黄の同社ロゴがついている"}],["$","p","1",{"children":"米マイクロソフト（MS）の一部サービスで22時間以上にわたり続いた大規模障害は、日常生活に不可欠なサービスが、少数の大手テクノロジー企業にどれほど依存しているかを浮き彫りにし、疑問を投げかける出来事となった。"}],["$","p","2",{"children":"大規模障害は、メールサービス「Outlook」など、「マイクロソフト365」が提供する各種サービスに影響を与えた。定期的に実行される自動点検によって一部のサーバーが切断され、稼働を続けていた残りのサーバーにトラフィックが集中したことが原因だった。"}],["$","p","3",{"children":"エンジニアは段階的にサービスを復旧させ、復旧にはほぼ丸1日かかった。今回の障害は、マイクロソフトのサービスが現代社会にどれほど深く浸透しているかを浮き彫りにした。"}],["$","p","4",{"children":"イギリスの中小企業支援団体「スモール・ビジネス・チャーター」のエグゼクティブ・ディレクター、フローラ・ハミルトン氏は、今回の障害について、企業が業務を維持するにあたり、マイクロソフトのOutlookなどの「デジタルシステム」にどれほど「依存」しているかを「痛感させる」出来事だったと指摘した。"}],["$","p","5",{"children":"ハミルトン氏は、「多くの中小企業にとって、電子メールへの接続は、顧客や取引先とのコミュニケーションから収益の創出に至るまで、あらゆる業務の基盤となっている」と述べた。"}],["$","p","6",{"children":"障害の影響は、企業だけでなく、世界各地の組織や公的機関も受けた。"}],["$","p","7",{"children":"マイクロソフト365は世界中で約4億3000万人が利用しており、70カ国以上で問題が報告された。"}],["$","p","8",{"children":"障害の影響は広範囲に及び、米連邦議会下院やオーストラリアの情報機関で電子メールシステムが使用できなくなった。シンガポールの裁判所のシステムや、インドの航空会社の顧客対応窓口にも支障が出た。"}],["$","p","9",{"children":"マイクロソフト社は後に、今回の問題について謝罪し、サイバー攻撃ではなく技術的な不具合によるものだと説明した。"}],["$","p","10",{"children":"同社は13日遅くに出した声明で、サービスが完全に復旧する時期について、見通しは立っていないと付け加えた。"}],["$","p","11",{"children":"AIストラテジストのウォルター・パスカレリ氏はBBCに対し、今回の障害によって、各国政府や企業、重要インフラの「ぜい弱性と依存関係がはっきり示された」と指摘。「今後、AIアシスタントが電子メールやカレンダー、ファイルと連携するようになれば、今回のような障害の影響はさらに広がる可能性がある」とも述べた。"}],["$","p","12",{"children":"複数の大手テクノロジー企業でソフトウェア・エンジニアリングを率いたゲルゲイ・オロス氏は、この種の障害自体は前例がないわけではないと説明した。ただ、マイクロソフトが復旧に要した時間の長さは異例だったと指摘した。"}],["$","p","13",{"children":"マイクロソフトの広報担当は、「需要の規模を考慮」し、サービスを段階的に復旧させたのだと説明した。"}],["$","p","14",{"children":"「このため、（復旧作業の）時間が長期化したが、安定したかたちでの復旧につながった」"}],["$","p","15",{"children":"前出のオロス氏は、障害による混乱は、「ごく少数のアメリカの大企業に、いかに自分たちが依存」しているかをあらわにしたと述べた。"}],["$","p","16",{"children":"将来的な対策としては、サービスを地域ごとに分割し、障害が発生した際の影響を抑える方法が考えられると、オロス氏は述べた。この手法は、米アマゾンのクラウドサービス「アマゾン・ウェブ・サービス（AWS）」ですでに導入されている。"}],["$","p","17",{"children":"マイクロソフトは現在、障害の原因を調査中で、調査結果を踏まえて同様の事態が再発しないよう対策を講じる見通し。"}],["$","p","18",{"children":"（英語記事 Microsoft outage 'stark reminder' of how much we rely on tech）"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/cmy5xy6yvn95o","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/7c7472197c7472195ef7833d","title":"【解説】 米マイクロソフトの大規模障害、テクノロジー依存を痛感する事態に","locale":"ja","take":null}],["$","$L4",null,{"title":"【解説】 米マイクロソフトの大規模障害、テクノロジー依存を痛感する事態に","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/7c7472197c7472195ef7833d","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/1_nvq96x9uh4-.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%80%90%E8%A7%A3%E8%AA%AC%E3%80%91+%E7%B1%B3%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E5%A4%A7%E8%A6%8F%E6%A8%A1%E9%9A%9C%E5%AE%B3%E3%80%81%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E4%BE%9D%E5%AD%98%E3%82%92%E7%97%9B%E6%84%9F%E3%81%99%E3%82%8B%E4%BA%8B%E6%85%8B%E3%81%AB&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","cna:https://channelnewsasia.com/sport/de-jong-miss-yet-another-match-netherlands-6551946",{"children":["$","$L2",null,{"href":"/ja/n/bd38a891bd38a89159a329d9","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"CNA"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"De Jong to miss yet another match for the Netherlands"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/e43d302442d0378c2177555b94fc8bf4e96d366a?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/88ea8a8b88ea8a8b33ddf2c3","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"ドジャース専属美人リポーター カウボーイハット＆ファーコートで「なりたかった女性」姿公開(日刊スポーツ)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/10a2be7929f5b7b045daf01b31e388366cb39b30?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/0eab791b0eab791b4cf8c803","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"自身の活躍よりもチームの活躍が大事。静岡学園GK田邊匠真が静岡予選のMVPに(ゲキサカ)"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"【解説】 米マイクロソフトの大規模障害、テクノロジー依存を痛感する事態に"}],["$","meta","1",{"name":"description","content":"マイクロソフトのガラス張りの建物に、赤、緑、青、黄の同社ロゴがついている"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"【解説】 米マイクロソフトの大規模障害、テクノロジー依存を痛感する事態に"}],["$","meta","4",{"property":"og:description","content":"マイクロソフトのガラス張りの建物に、赤、緑、青、黄の同社ロゴがついている"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/7c7472197c7472195ef7833d/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F7bb3%2Flive%2F3e9f8480-dfcc-11f1-b441-2b33b063138f.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"【解説】 米マイクロソフトの大規模障害、テクノロジー依存を痛感する事態に"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"【解説】 米マイクロソフトの大規模障害、テクノロジー依存を痛感する事態に"}],["$","meta","14",{"name":"twitter:description","content":"マイクロソフトのガラス張りの建物に、赤、緑、青、黄の同社ロゴがついている"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F7bb3%2Flive%2F3e9f8480-dfcc-11f1-b441-2b33b063138f.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"
