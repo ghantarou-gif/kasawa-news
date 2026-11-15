@@ -10,6 +10,7 @@ export const memberSections = [
   "checklist",
   "frequency",
   "tool",
+  "stock",
 ] as const;
 
 export type MemberSection = (typeof memberSections)[number];
@@ -22,6 +23,7 @@ const pathBySection: Record<MemberSection, string> = {
   checklist: "checklist",
   frequency: "frequency",
   tool: "tool",
+  stock: "stock",
 };
 
 const labelKey: Record<MemberSection, keyof Dictionary> = {
@@ -32,6 +34,7 @@ const labelKey: Record<MemberSection, keyof Dictionary> = {
   checklist: "memberNavChecklist",
   frequency: "memberNavFrequency",
   tool: "memberNavTool",
+  stock: "memberNavStock",
 };
 
 const blurbKey: Record<MemberSection, keyof Dictionary> = {
@@ -42,6 +45,7 @@ const blurbKey: Record<MemberSection, keyof Dictionary> = {
   checklist: "memberBlurbChecklist",
   frequency: "memberBlurbFrequency",
   tool: "memberBlurbTool",
+  stock: "memberBlurbStock",
 };
 
 export function isMemberSection(value: string): value is MemberSection {
