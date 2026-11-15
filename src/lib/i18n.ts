@@ -42,6 +42,7 @@ const dictionary = {
     memberNavChecklist: "チェックリスト",
     memberNavFrequency: "投稿本数",
     memberNavTool: "構文メーカー",
+    memberNavStock: "投稿在庫",
     memberBlurbGuide: "投稿前に決める12の原則。",
     memberBlurbNews: "イスラム・ムスリム関連の見出しを自動収集。",
     memberBlurbSources: "拡散ネタを一次情報までたどった記録。",
@@ -49,6 +50,7 @@ const dictionary = {
     memberBlurbChecklist: "出す前に確認する毎日のリスト。",
     memberBlurbFrequency: "1日何本が伸びるかの集計。",
     memberBlurbTool: "構文を選んで下書きするメーカー。",
+    memberBlurbStock: "夜3時に20本足す英語下書き。コピーすると済が付く。",
     watchTitle: "イスラム・ムスリム情報 元ネタ帳",
     watchLead:
       "日本で拡散しているイスラム・ムスリム関連の投稿を、元の動画や発言までたどった記録です。新しいものが上です。",
@@ -174,6 +176,7 @@ const dictionary = {
     memberNavChecklist: "Checklist",
     memberNavFrequency: "Posts per day",
     memberNavTool: "Template maker",
+    memberNavStock: "Post stock",
     memberBlurbGuide: "Twelve principles before you write.",
     memberBlurbNews: "Auto-collected headlines about Islam and Muslims.",
     memberBlurbSources: "Viral claims traced back to primary sources.",
@@ -181,6 +184,7 @@ const dictionary = {
     memberBlurbChecklist: "The daily list before you hit post.",
     memberBlurbFrequency: "How many posts a day actually grew.",
     memberBlurbTool: "Pick a template and draft in the browser.",
+    memberBlurbStock: "Twenty English drafts added at 3:00 JST. Copying marks one done.",
     watchTitle: "Islam and Muslims: source log",
     watchLead:
       "Viral posts in Japan about Islam and Muslims, traced back to the original video or statement. Newest first.",
