@@ -1,6 +1,13 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { publicHref } from "@/lib/hosting";
+import {
+  addBrowserDrafts,
+  markBrowserCopied,
+  maybeNightlyBrowserStock,
+  readBrowserStock,
+} from "@/lib/studio/stock-browser";
 import type { StockPost } from "@/lib/studio/types";
 
 function compareStock(a: StockPost, b: StockPost): number {
@@ -10,28 +17,41 @@ function compareStock(a: StockPost, b: StockPost): number {
   return b.createdAt.localeCompare(a.createdAt);
 }
 
+function stockUrl(path: string): string {
+  return publicHref(`/api/studio/stock${path}`);
+}
+
+async function readApi(): Promise<StockPost[] | null> {
+  try {
+    const response = await fetch(stockUrl(""));
+    if (response.status === 404) return null;
+    const payload = (await response.json()) as { posts?: StockPost[]; error?: string };
+    if (!response.ok) return null;
+    return payload.posts ?? [];
+  } catch {
+    return null;
+  }
+}
+
 export function StockBoard() {
   const [posts, setPosts] = useState<StockPost[]>([]);
+  const [useBrowser, setUseBrowser] = useState(false);
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState("");
   const [copied, setCopied] = useState("");
 
-  async function refresh() {
-    const response = await fetch("/api/studio/stock");
-    const payload = (await response.json()) as { posts?: StockPost[] };
-    if (response.ok) setPosts(payload.posts ?? []);
-  }
-
   useEffect(() => {
     let cancelled = false;
-    fetch("/api/studio/stock")
-      .then((response) => response.json())
-      .then((payload: { posts?: StockPost[] }) => {
-        if (!cancelled) setPosts(payload.posts ?? []);
-      })
-      .catch(() => {
-        if (!cancelled) setError("在庫を読み込めませんでした。");
-      });
+    readApi().then((fromApi) => {
+      if (cancelled) return;
+      if (fromApi) {
+        setUseBrowser(false);
+        setPosts(fromApi);
+        return;
+      }
+      setUseBrowser(true);
+      setPosts(maybeNightlyBrowserStock());
+    });
     return () => {
       cancelled = true;
     };
@@ -41,8 +61,12 @@ export function StockBoard() {
     setError("");
     setBusy(true);
     try {
+      if (useBrowser) {
+        setPosts(addBrowserDrafts(20));
+        return;
+      }
       for (let index = 0; index < 4; index += 1) {
-        const response = await fetch("/api/studio/stock/replenish", {
+        const response = await fetch(stockUrl("/replenish"), {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ count: 5 }),
@@ -50,10 +74,11 @@ export function StockBoard() {
         const payload = (await response.json()) as { error?: string };
         if (!response.ok) throw new Error(payload.error || "追加に失敗しました。");
       }
+      const latest = await readApi();
+      if (latest) setPosts(latest);
     } catch (err) {
       setError(err instanceof Error ? err.message : "追加に失敗しました。");
     } finally {
-      await refresh().catch(() => undefined);
       setBusy(false);
     }
   }
@@ -68,7 +93,12 @@ export function StockBoard() {
     }
     setCopied(post.id);
     window.setTimeout(() => setCopied(""), 1600);
-    const response = await fetch(`/api/studio/stock/${post.id}/copied`, { method: "POST" });
+    if (useBrowser) {
+      const updated = markBrowserCopied(post.id);
+      if (updated) setPosts(readBrowserStock());
+      return;
+    }
+    const response = await fetch(stockUrl(`/${post.id}/copied`), { method: "POST" });
     const payload = (await response.json()) as { post?: StockPost; error?: string };
     if (!response.ok || !payload.post) {
       setError(payload.error || "印を付けられませんでした。");
