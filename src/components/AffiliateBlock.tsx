@@ -14,13 +14,19 @@ export function AffiliateBlock({
   const copy = t(locale);
   const offers = affiliateOffersForGenre(genre, locale);
 
+  if (offers.length === 0) return null;
+
   return (
     <aside className="affiliate-block">
-      <p className="affiliate-kicker">{copy.related}</p>
+      <p className="affiliate-kicker">{copy.adLabel}</p>
       <ul className="mt-3 flex flex-col gap-2">
         {offers.map((offer) => (
           <li key={offer.id}>
-            <Link href={`/go/${offer.id}?utm_source=site&utm_medium=affiliate`} className="affiliate-link">
+            <Link
+              href={`/go/${offer.id}?utm_source=site&utm_medium=affiliate&utm_campaign=article`}
+              className="affiliate-link"
+              rel="sponsored"
+            >
               {offer.label}
             </Link>
           </li>
