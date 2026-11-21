@@ -227,18 +227,128 @@ export function draftBuzzPosts(
   }));
 }
 
-export function parseBuzzPosts(raw: string): BuzzPost[] {
-  const match = raw.match(/\{[\s\S]*"posts"[\s\S]*\}/);
-  if (!match) throw new Error("bad json");
-  const parsed = JSON.parse(match[0]) as {
-    posts?: { text?: string; style?: string; tag?: string }[];
+function asPostText(value: unknown): string {
+  if (typeof value !== "string") return "";
+  return value.replace(/\\n/g, "\n").trim();
+}
+
+function onePost(item: unknown, index: number): BuzzPost | null {
+  if (typeof item === "string") {
+    const text = asPostText(item);
+    return text ? { id: index + 1, text, style: "", tag: "analysis" } : null;
+  }
+  if (!item || typeof item !== "object") return null;
+  const record = item as Record<string, unknown>;
+  const text = asPostText(record.text ?? record.body ?? record.content ?? record.post);
+  if (!text) return null;
+  return {
+    id: index + 1,
+    text,
+    style: typeof record.style === "string" ? record.style : "",
+    tag: typeof record.tag === "string" ? record.tag : "analysis",
   };
-  return (parsed.posts ?? [])
-    .map((post, index) => ({
-      id: index + 1,
-      text: (post.text ?? "").replace(/\\n/g, "\n"),
-      style: post.style ?? "",
-      tag: post.tag ?? "analysis",
-    }))
-    .filter((post) => post.text.trim());
+}
+
+function postsFromUnknown(value: unknown): BuzzPost[] {
+  if (Array.isArray(value)) {
+    return value.map(onePost).filter((post): post is BuzzPost => post !== null);
+  }
+  if (!value || typeof value !== "object") return [];
+  const record = value as Record<string, unknown>;
+  const list = record.posts ?? record.items ?? record.data;
+  if (Array.isArray(list)) {
+    return list.map(onePost).filter((post): post is BuzzPost => post !== null);
+  }
+  const single = onePost(record, 0);
+  return single ? [single] : [];
+}
+
+function repairJson(raw: string): string {
+  let out = "";
+  let inString = false;
+  let escaped = false;
+  for (const char of raw) {
+    if (inString) {
+      if (escaped) {
+        out += char;
+        escaped = false;
+        continue;
+      }
+      if (char === "\\") {
+        out += char;
+        escaped = true;
+        continue;
+      }
+      if (char === '"') {
+        inString = false;
+        out += char;
+        continue;
+      }
+      if (char === "\n") {
+        out += "\\n";
+        continue;
+      }
+      if (char === "\r") continue;
+      out += char;
+      continue;
+    }
+    if (char === '"') inString = true;
+    out += char === "\u201C" || char === "\u201D" ? '"' : char;
+  }
+  return out.replace(/,\s*([}\]])/g, "$1");
+}
+
+function extractJsonBlocks(raw: string): string[] {
+  const cleaned = raw.replace(/```(?:json)?/gi, "");
+  const blocks: string[] = [];
+  let cursor = 0;
+  while (cursor < cleaned.length) {
+    const relative = cleaned.slice(cursor).search(/[[{]/);
+    if (relative < 0) break;
+    const start = cursor + relative;
+    const open = cleaned[start];
+    const close = open === "[" ? "]" : "}";
+    let depth = 0;
+    let inString = false;
+    let escaped = false;
+    let end = -1;
+    for (let index = start; index < cleaned.length; index += 1) {
+      const char = cleaned[index];
+      if (inString) {
+        if (escaped) escaped = false;
+        else if (char === "\\") escaped = true;
+        else if (char === '"') inString = false;
+        continue;
+      }
+      if (char === '"') inString = true;
+      else if (char === open) depth += 1;
+      else if (char === close) {
+        depth -= 1;
+        if (depth === 0) {
+          end = index;
+          break;
+        }
+      }
+    }
+    if (end < 0) break;
+    blocks.push(cleaned.slice(start, end + 1));
+    cursor = end + 1;
+  }
+  return blocks;
+}
+
+export function parseBuzzPosts(raw: string): BuzzPost[] {
+  const trimmed = raw.trim();
+  if (!trimmed) return [];
+  for (const block of extractJsonBlocks(trimmed)) {
+    try {
+      const parsed = postsFromUnknown(JSON.parse(repairJson(block)));
+      if (parsed.length > 0) return parsed;
+    } catch {
+      /* try the next block */
+    }
+  }
+  const text = trimmed.replace(/```(?:json)?/gi, "").trim();
+  if (text.length < 2 || /^[[{]/.test(text)) return [];
+  return [{ id: 1, text, style: "", tag: "analysis" }];
 }
