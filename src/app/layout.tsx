@@ -7,9 +7,10 @@ import "./globals.css";
 
 const notoSans = Noto_Sans_JP({
   subsets: ["latin"],
-  weight: ["400", "500", "700"],
+  weight: ["400", "700"],
   variable: "--font-ui",
   display: "swap",
+  preload: false,
 });
 
 const adsensePublisher = adsenseClient();
@@ -58,10 +59,11 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       className={`${notoSans.variable} h-full antialiased`}
     >
       <head>
-        <AdSenseScript />
+        <link rel="preconnect" href="https://pagead2.googlesyndication.com" />
       </head>
       <body className="site-body min-h-full bg-paper text-ink">
         {children}
+        <AdSenseScript />
       </body>
     </html>
   );

@@ -1,16 +1,16 @@
 import { adsenseClient } from "@/lib/adsense";
 
-/** Exact AdSense head snippet so the ownership crawler can see it in static HTML. */
+/** Load AdSense after first paint so Safari is not competing with the news list. */
 export function AdSenseScript() {
   const client = adsenseClient();
   if (!client) return null;
+  const src = `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${client}`;
 
   return (
     <script
-      async
-      src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${client}`}
-      crossOrigin="anonymous"
-      fetchPriority="low"
+      dangerouslySetInnerHTML={{
+        __html: `(function(){function load(){var s=document.createElement("script");s.async=true;s.src=${JSON.stringify(src)};s.crossOrigin="anonymous";document.head.appendChild(s);}if("requestIdleCallback" in window){requestIdleCallback(load,{timeout:2500});}else{window.addEventListener("load",load);}})();`,
+      }}
     />
   );
 }

@@ -18,7 +18,15 @@ function GenreTag({ article, locale }: { article: Article; locale: Locale }) {
   );
 }
 
-function HeadlineRow({ article, locale }: { article: Article; locale: Locale }) {
+function HeadlineRow({
+  article,
+  locale,
+  thumb = true,
+}: {
+  article: Article;
+  locale: Locale;
+  thumb?: boolean;
+}) {
   const hub = articleHubPath(locale, article.id);
   return (
     <li className="headline-row">
@@ -31,11 +39,11 @@ function HeadlineRow({ article, locale }: { article: Article; locale: Locale }) 
             <span>{formatWhen(article.publishedAt ?? article.firstSeenAt, locale)}</span>
           </div>
         </div>
-        {article.image ? (
+        {thumb && article.image ? (
           <span className="headline-thumb">
             {/* RSS thumbnails come from many CDNs; a plain img avoids next/image allowlists. */}
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={article.image} alt="" loading="lazy" />
+            <img src={article.image} alt="" loading="lazy" decoding="async" width={84} height={56} />
           </span>
         ) : null}
       </Link>
@@ -89,7 +97,7 @@ export function TopStories({
               {lead.image ? (
                 // RSS thumbnails come from many CDNs; a plain img avoids next/image allowlists.
                 // eslint-disable-next-line @next/next/no-img-element
-                <img src={lead.image} alt="" loading="eager" />
+                <img src={lead.image} alt="" loading="eager" decoding="async" fetchPriority="high" />
               ) : (
                 <span className="lead-media-fallback" aria-hidden>
                   {copy.siteName}
@@ -130,7 +138,7 @@ export function TopStories({
           ) : null}
           <ol className="latest-grid">
             {latest.map((article) => (
-              <HeadlineRow key={article.id} article={article} locale={locale} />
+              <HeadlineRow key={article.id} article={article} locale={locale} thumb={false} />
             ))}
           </ol>
         </section>

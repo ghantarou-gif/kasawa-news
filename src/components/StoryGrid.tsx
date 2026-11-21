@@ -45,7 +45,7 @@ export function StoryGrid({
               <Link href={hub} className="story-image">
                 {/* RSS thumbnails come from many CDNs; a plain img avoids next/image allowlists. */}
                 {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img src={article.image} alt="" loading="lazy" />
+                <img src={article.image} alt="" loading="lazy" decoding="async" />
               </Link>
             ) : null}
             {article.excerpt ? (
