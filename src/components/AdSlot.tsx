@@ -21,24 +21,24 @@ export function AdSlot({
   const pushed = useRef(false);
 
   useEffect(() => {
-    if (!client || !slot || pushed.current) return;
+    if (!client || pushed.current) return;
     pushed.current = true;
     try {
       (window.adsbygoogle = window.adsbygoogle || []).push({});
     } catch {
       /* AdSense not ready yet */
     }
-  }, [client, slot]);
+  }, [client]);
 
-  if (!client || !slot) return null;
+  if (!client) return null;
 
   return (
     <aside className={`ad-slot ${className}`.trim()} aria-label="Advertisement">
       <ins
         className="adsbygoogle"
-        style={{ display: "block" }}
+        style={{ display: "block", minHeight: 90 }}
         data-ad-client={client}
-        data-ad-slot={slot}
+        {...(slot ? { "data-ad-slot": slot } : {})}
         data-ad-format="auto"
         data-full-width-responsive="true"
       />
