@@ -1,0 +1,64 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+5:Tf21,日清のカップ麺「ラ王」が「ドラゴンクエスト」とコラボした「 日清マ王 大魔王味噌 」を2026年11月23日に発売します。12月3日発売のゲーム『 ドラゴンクエストモンスターズ4 枯れ木の国のビアンカ・フローラ 』にちなんだ「4種配合」スープになっているとのことなので、発売に先駆けて編集部に届いた日清マ王 大魔王味噌を一足早く食べてみました。
+
+原材料にはみそやポークエキス、ガーリック調味料のほか、香辛料や豆板醤(とうばんじゃん)などが入っています。内容量は120g(めん75g)。「日清マ王 大魔王味噌」の辛さレベルは「4」です。
+
+フタを半分まで開けて4種の小袋「邪悪なうま味噌パウダー」「魔王の辛味噌スープ」「闇の衣黒マー油」「ピリつくはどうシビ辛パウダー」を取り出します。
+
+フタの内側には魔王・ゾーマが描かれていました。
+
+フタをして5分待ちます。この時、液体スープ「魔王の辛味噌スープ」とオイル「闇の衣黒マー油」はフタの上で温めます。
+
+5分たったら軽く麺をほぐし、「邪悪なうま味噌パウダー」を投入。
+
+「闇の衣黒マー油」を入れたら混ぜ合わせます。
+
+仕上げに「ピリつくはどうシビ辛パウダー」を振りかけます。味わいの決め手にもなるスパイス調味料ですが、辛さが気になる人は食べながら少しずつ追加してもいいかも。
+
+まずはスープを一口飲んでみると、口に入れた瞬間からスパイスの刺激が広がります。ホットな味わいが広がって汗が噴き出てきますが、辛さだけではなくみその深い味わいもしっかり感じられます。
+
+麺はラ王の食べごたえのあるちぢれ麺で、辛さうまみが強いスープにマッチしています。唐辛子のしびれる辛さがはっきりありつつもすすれないほどではなく、後からスパイスが体をどんどん熱くしてくる感じ。辛さレベル「4」というだけあって、ホットな刺激で舌がひりひりしてくる感じもあり、辛いものが苦手な人は食べきるのに苦労するかも。辛いもの好きな編集部員からは「辛さレベル『4』の割にはみその甘みとマッチしていて食べやすい」「『闇の衣黒マー油』の油の感じが唐辛子の刺激をマイルドにしてくれている」「サンショウのしびれる感じはあまり強くはなく、みそと唐辛子でうまみも強い感じの辛さ」という評価でした。
+
+「日清マ王 大魔王味噌」は2026年11月23日(月)に全国で新発売されます。メーカー希望小売価格は税別368円。また、「日清マ王 大魔王味噌」と「日清ラ王」シリーズ各商品および「日清ラ王×ドラゴンクエスト はぐれメタルブランケット」をセットにした オンラインストア限定商品 の予約販売も実施しています。価格は税抜4621円です。
+
+「日清マ王 大魔王味噌」はAmazon.co.jpでも取扱いがあり、12個セットが税込4442円です。
+
+Amazon.co.jp: ラ王 日清マ王 大魔王味噌 120g×12個 : 食品・飲料・お酒
+
+「黒いU.F.O.」「黒いカレーメシ」「黒いどん兵衛」試食レビュー、「背徳こそ正義！」とアピールする3品の味を確かめてみた - GIGAZINE
+
+日清カップヌードルと「銀だこ」「カラムーチョ」「ごはんですよ！」が合わさった「カップヌードル 異世界合体」シリーズ3品を食べてみた - GIGAZINE
+
+You can read the machine translated English article A taste test review of 'Nissin Maoh Daim… .d:X
+12:X
+12:C
+0:{"buildId":"XhCViw2vgdKt3hsQsz2oY","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-20","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Gigazine"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"「ラ王」が「ドラゴンクエスト」とコラボした「日清マ王 大魔王味噌」試食レビュー、4種配合のスープが濃厚＆刺激的"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"日清のカップ麺「ラ王」が「ドラゴンクエスト」とコラボした「 日清マ王 大魔王味噌 」を2026年11月23日に発売します。12月3日発売のゲーム『 ドラゴンクエストモンスターズ4 枯れ木の国のビアンカ・フローラ 』にちなんだ「4種配合」スープになっているとのことなので、発売に先駆けて編集部に届いた日清マ王 大魔王味噌を一足早く食べてみました。"}],["$","p","1",{"children":"原材料にはみそやポークエキス、ガーリック調味料のほか、香辛料や豆板醤(とうばんじゃん)などが入っています。内容量は120g(めん75g)。「日清マ王 大魔王味噌」の辛さレベルは「4」です。"}],["$","p","2",{"children":"フタを半分まで開けて4種の小袋「邪悪なうま味噌パウダー」「魔王の辛味噌スープ」「闇の衣黒マー油」「ピリつくはどうシビ辛パウダー」を取り出します。"}],["$","p","3",{"children":"フタの内側には魔王・ゾーマが描かれていました。"}],["$","p","4",{"children":"フタをして5分待ちます。この時、液体スープ「魔王の辛味噌スープ」とオイル「闇の衣黒マー油」はフタの上で温めます。"}],["$","p","5",{"children":"5分たったら軽く麺をほぐし、「邪悪なうま味噌パウダー」を投入。"}],["$","p","6",{"children":"「闇の衣黒マー油」を入れたら混ぜ合わせます。"}],["$","p","7",{"children":"仕上げに「ピリつくはどうシビ辛パウダー」を振りかけます。味わいの決め手にもなるスパイス調味料ですが、辛さが気になる人は食べながら少しずつ追加してもいいかも。"}],["$","p","8",{"children":"まずはスープを一口飲んでみると、口に入れた瞬間からスパイスの刺激が広がります。ホットな味わいが広がって汗が噴き出てきますが、辛さだけではなくみその深い味わいもしっかり感じられます。"}],["$","p","9",{"children":"麺はラ王の食べごたえのあるちぢれ麺で、辛さうまみが強いスープにマッチしています。唐辛子のしびれる辛さがはっきりありつつもすすれないほどではなく、後からスパイスが体をどんどん熱くしてくる感じ。辛さレベル「4」というだけあって、ホットな刺激で舌がひりひりしてくる感じもあり、辛いものが苦手な人は食べきるのに苦労するかも。辛いもの好きな編集部員からは「辛さレベル『4』の割にはみその甘みとマッチしていて食べやすい」「『闇の衣黒マー油』の油の感じが唐辛子の刺激をマイルドにしてくれている」「サンショウのしびれる感じはあまり強くはなく、みそと唐辛子でうまみも強い感じの辛さ」という評価でした。"}],["$","p","10",{"children":"「日清マ王 大魔王味噌」は2026年11月23日(月)に全国で新発売されます。メーカー希望小売価格は税別368円。また、「日清マ王 大魔王味噌」と「日清ラ王」シリーズ各商品および「日清ラ王×ドラゴンクエスト はぐれメタルブランケット」をセットにした オンラインストア限定商品 の予約販売も実施しています。価格は税抜4621円です。"}],["$","p","11",{"children":"「日清マ王 大魔王味噌」はAmazon.co.jpでも取扱いがあり、12個セットが税込4442円です。"}],["$","p","12",{"children":"Amazon.co.jp: ラ王 日清マ王 大魔王味噌 120g×12個 : 食品・飲料・お酒"}],["$","p","13",{"children":"「黒いU.F.O.」「黒いカレーメシ」「黒いどん兵衛」試食レビュー、「背徳こそ正義！」とアピールする3品の味を確かめてみた - GIGAZINE"}],["$","p","14",{"children":"日清カップヌードルと「銀だこ」「カラムーチョ」「ごはんですよ！」が合わさった「カップヌードル 異世界合体」シリーズ3品を食べてみた - GIGAZINE"}],["$","p","15",{"children":"You can read the machine translated English article A taste test review of 'Nissin Maoh Daim… ."}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はGigazineにあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://gigazine.net/news/20261120-nissin-mao-daimao-miso/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はGigazineで読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/4c3df8d34c3df8d3a1c2fce3","title":"「ラ王」が「ドラゴンクエスト」とコラボした「日清マ王 大魔王味噌」試食レビュー、4種配合のスープが濃厚＆刺激的","locale":"ja","take":null}],["$","$L4",null,{"title":"「ラ王」が「ドラゴンクエスト」とコラボした「日清マ王 大魔王味噌」試食レビュー、4種配合のスープが濃厚＆刺激的","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/4c3df8d34c3df8d3a1c2fce3","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E8%A9%A6%E9%A3%9F%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%80%814%E7%A8%AE%E9%85%8D%E5%90%88%E3%81%AE%E3%82%B9%E3%83%BC%E3%83%97%E3%81%8C%E6%BF%83%E5%8E%9A%EF%BC%86%E5%88%BA%E6%BF%80%E7%9A%84&mode=phrase&url=gigazine.net&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","yahoo-science:https://news.yahoo.co.jp/articles/4f11d29c81a37156d749aee40d3f7db31f4bba53?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/45e5f46645e5f4660290cf46","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"1光日の距離を越えた「ボイジャー1号」その行く手には何が？ ハッブルの観測が手がかりに(sorae 宇宙へのポータルサイト)"}]]}]}],["$","li","nhk-society:https://news.web.nhk/newsweb/na/nd-20261120de79424",{"children":["$","$L2",null,{"href":"/ja/n/771e6085771e608543c7dca1","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"長野 国道142号の新和田トンネル付近 車の滞留が解消"}]]}]}],["$","li","bbc-uk:https://bbc.co.uk/news/articles/cm2klg8512z0o",{"children":["$","$L2",null,{"href":"/ja/n/9dfed28f9dfed28fc5578ef7","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"'Dishonest' police officers sacked for lying over fatal crash searches"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"「ラ王」が「ドラゴンクエスト」とコラボした「日清マ王 大魔王味噌」試食レビュー、4種配合のスープが濃厚＆刺激的"}],["$","meta","1",{"name":"description","content":"日清のカップ麺「ラ王」が「ドラゴンクエスト」とコラボした「 日清マ王 大魔王味噌 」を2026年11月23日に発売します。12月3日発売のゲーム『 ドラゴンクエストモンスターズ4 枯れ木の国のビアンカ・フローラ 』にちなんだ「4種配合」スープになっているとのことなので、発売に先駆けて編集部に届いた日清マ王 大魔王味噌を一足早く食べてみました。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"「ラ王」が「ドラゴンクエスト」とコラボした「日清マ王 大魔王味噌」試食レビュー、4種配合のスープが濃厚＆刺激的"}],["$","meta","4",{"property":"og:description","content":"日清のカップ麺「ラ王」が「ドラゴンクエスト」とコラボした「 日清マ王 大魔王味噌 」を2026年11月23日に発売します。12月3日発売のゲーム『 ドラゴンクエストモンスターズ4 枯れ木の国のビアンカ・フローラ 』にちなんだ「4種配合」スープになっているとのことなので、発売に先駆けて編集部に届いた日清マ王 大魔王味噌を一足早く食べてみました。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/4c3df8d34c3df8d3a1c2fce3/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"「ラ王」が「ドラゴンクエスト」とコラボした「日清マ王 大魔王味噌」試食レビュー、4種配合のスープが濃厚＆刺激的"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"「ラ王」が「ドラゴンクエスト」とコラボした「日清マ王 大魔王味噌」試食レビュー、4種配合のスープが濃厚＆刺激的"}],["$","meta","14",{"name":"twitter:description","content":"日清のカップ麺「ラ王」が「ドラゴンクエスト」とコラボした「 日清マ王 大魔王味噌 」を2026年11月23日に発売します。12月3日発売のゲーム『 ドラゴンクエストモンスターズ4 枯れ木の国のビアンカ・フローラ 』にちなんだ「4種配合」スープになっているとのことなので、発売に先駆けて編集部に届いた日清マ王 大魔王味噌を一足早く食べてみました。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

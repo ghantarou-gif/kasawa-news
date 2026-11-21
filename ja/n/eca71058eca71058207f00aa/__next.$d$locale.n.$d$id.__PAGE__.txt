@@ -1,0 +1,81 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1524/live/baf89050-e227-11f1-a094-5fdc692f3e33.jpg","image"]
+c:X
+11:X
+11:C
+0:{"buildId":"XhCViw2vgdKt3hsQsz2oY","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-17","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"キーウの主要な橋2本をロシアが攻撃、市長が発表 米欧ウのオンライン協議の後に"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"4 日前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1524/live/baf89050-e227-11f1-a094-5fdc692f3e33.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"キーウのクリチコ市長。10月のミサイル攻撃の際に被害現場を訪れた"}],["$","p","1",{"children":"夜間、煙を上げる集合住宅の前で、黒い服を着た短髪の人が立っている。後方には緊急対応要員がいる"}],["$","p","2",{"children":"ウクライナの首都キーウで16日深夜、主要な橋2本がロシアの弾道ミサイルで攻撃された。ヴィタリ・クリチコ市長が明らかにした。"}],["$","p","3",{"children":"日付が変わる直前、市内に大きな爆発音が響いた。市長はまもなく、ドニプロ川に架かる北橋と南橋にミサイルが当たり、「重要インフラシステムに被害」が及んだと発表。「市内の一部で、水道と暖房の供給に支障が出ている」とした。"}],["$","p","4",{"children":"市民はシェルターへの避難が指示された。キーウでは空襲警報が出ると、住民らが地下鉄駅に避難するのが一般的。"}],["$","p","5",{"children":"当局によると、避難指示が出されたあと、地下鉄の地上走行区間の一部が被害を受けたという。"}],["$","p","6",{"children":"キーウでは、ドニプロ川に架かる主要な橋8本が、街の東西を結んでいる。推定300万人の住民がこれらの橋を利用している。"}],["$","p","7",{"children":"10月には、それらの橋のいくつかがロシアのドローンによって攻撃された。"}],["$","p","8",{"children":"キーウ市の航空写真で、市内を縦断する川にかかる五つの橋の名前と位置が示されている。北から、北橋、メトロ橋、パトン橋、ダルニツキー橋、南橋"}],["$","p","9",{"children":"16日には、ウクライナ、アメリカ、ヨーロッパの当局者らが、4年半以上続くウクライナでの戦争の終結に向けて協議した。協議はオンラインで実施され、米特使のジャレッド・クシュナー氏とスティーヴ・ウィトコフ氏も参加した。"}],["$","p","10",{"children":"このあと夜になって、ウクライナのウォロディミル・ゼレンスキー大統領は、ロシアがさらなる攻撃を実施する可能性があると警告していた。"}],["$","p","11",{"children":"一方、ロシアが併合したクリミア半島でも、橋への攻撃があった。ロシアと結ぶ象徴的なケルチ橋を、ウクライナが2日連続で攻撃した。ロシアが任命したクリミア地域のセルゲイ・アクショノフ知事が発表した。橋は通行止めになっていたという。"}],["$","p","12",{"children":"ロシアはこれよりも前、ウクライナが15日夜から戦争開始以降で最大規模のドローン攻撃を実施し、クリミアの同橋も損傷したと発表していた。ロシア当局によると、24時間でドローン2049機と長距離ミサイル「フラミンゴ」4発をロシア軍が迎撃・破壊した。モスクワのセルゲイ・ソビャニン市長は、首都だけでもドローン約600機が向かって来たと付け加えた。"}],["$","p","13",{"children":"ケルチ橋とも呼ばれるクリミア橋は、ロシアが2014年にクリミア半島を侵略・併合した後に建設された。2018年にロシアのウラジーミル・プーチン大統領が、盛大に開通した。空と海で幾重もの防衛線が張られ、厳重に警備されている。"}],["$","p","14",{"children":"ウクライナはこの橋を繰り返し攻撃している。今回の攻撃による被害はまだ明らかになっていない。"}],["$","p","15",{"children":"16日深夜のロシアによる攻撃の前にあったアメリカ、ウクライナ、ヨーロッパの当局者による協議では、戦争の終結に向けたロシアとヨーロッパの間での「直接的な関与」の促進について話し合われた。"}],["$","p","16",{"children":"アメリカの特使でドナルド・トランプ大統領の娘の夫のクシュナー氏は協議のあと、同国がウクライナに「強力で信頼できる安全の保証」を提供し、欧州連合（EU）加盟への道筋を示すことに力を尽くすと述べた。"}],["$","p","17",{"children":"また、北大西洋条約機構（NATO）は「ヨーロッパの安全保障にとって重要な柱であり続ける」とし、「近い将来の」さらなる多国間会合に向けた準備が進められていると付け加えた。"}],["$","p","18",{"children":"ゼレンスキー氏は16日夜の演説で、この日の協議は「困難だった」と述べた。そして、ロシアの弾道ミサイル攻撃に対するウクライナの防衛を支援するために、さらなる努力が必要だとした。"}],["$","p","19",{"children":"ゼレンスキー氏によると、今回の協議では初めて、ロシアとの協議に今後加わる欧州代表団の全メンバー（イギリス、フランス、ドイツ、イタリア、ポーランド、EU、NATOの代表者）が出席した。"}],["$","p","20",{"children":"ゼレンスキー氏は、和平協議に欧州代表団も含めるべきだと以前から主張してきた。ウクライナがEU加盟を長期目標に据えていることからも、ヨーロッパの参加は不可欠だと主張している。"}],["$","p","21",{"children":"ゼレンスキー氏はこの日の演説で、ロシアが北朝鮮から「毎月数十発のミサイル」を受け取っているとも述べた。"}],["$","p","22",{"children":"（英語記事 Two major Kyiv bridges hit in Russian attack, mayor says）"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/ck3rgq2nr8rro","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}],["$","section",null,{"className":"article-actions","children":["$L3","$L4","$L5"]}],"$L6",null,"$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":"$@b","staleTime":"$c","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$c","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$c","varyParams":"$11"},{"rsc":"$L12","isPartial":"$@13","staleTime":"$c","varyParams":"$11"}],"isUpgradeableISRFallback":false,"a":"$@14","rootVaryParams":null,"needsRuntimeRequest":"$@15"}
+16:I[36936,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+17:I[98337,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+19:I[9441,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+1a:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1e:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1f:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+20:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+21:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","$L16",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/eca71058eca71058207f00aa","title":"キーウの主要な橋2本をロシアが攻撃、市長が発表 米欧ウのオンライン協議の後に","locale":"ja","take":null}]
+18:T13ed,キーウのクリチコ市長。10月のミサイル攻撃の際に被害現場を訪れた
+
+夜間、煙を上げる集合住宅の前で、黒い服を着た短髪の人が立っている。後方には緊急対応要員がいる
+
+ウクライナの首都キーウで16日深夜、主要な橋2本がロシアの弾道ミサイルで攻撃された。ヴィタリ・クリチコ市長が明らかにした。
+
+日付が変わる直前、市内に大きな爆発音が響いた。市長はまもなく、ドニプロ川に架かる北橋と南橋にミサイルが当たり、「重要インフラシステムに被害」が及んだと発表。「市内の一部で、水道と暖房の供給に支障が出ている」とした。
+
+市民はシェルターへの避難が指示された。キーウでは空襲警報が出ると、住民らが地下鉄駅に避難するのが一般的。
+
+当局によると、避難指示が出されたあと、地下鉄の地上走行区間の一部が被害を受けたという。
+
+キーウでは、ドニプロ川に架かる主要な橋8本が、街の東西を結んでいる。推定300万人の住民がこれらの橋を利用している。
+
+10月には、それらの橋のいくつかがロシアのドローンによって攻撃された。
+
+キーウ市の航空写真で、市内を縦断する川にかかる五つの橋の名前と位置が示されている。北から、北橋、メトロ橋、パトン橋、ダルニツキー橋、南橋
+
+16日には、ウクライナ、アメリカ、ヨーロッパの当局者らが、4年半以上続くウクライナでの戦争の終結に向けて協議した。協議はオンラインで実施され、米特使のジャレッド・クシュナー氏とスティーヴ・ウィトコフ氏も参加した。
+
+このあと夜になって、ウクライナのウォロディミル・ゼレンスキー大統領は、ロシアがさらなる攻撃を実施する可能性があると警告していた。
+
+一方、ロシアが併合したクリミア半島でも、橋への攻撃があった。ロシアと結ぶ象徴的なケルチ橋を、ウクライナが2日連続で攻撃した。ロシアが任命したクリミア地域のセルゲイ・アクショノフ知事が発表した。橋は通行止めになっていたという。
+
+ロシアはこれよりも前、ウクライナが15日夜から戦争開始以降で最大規模のドローン攻撃を実施し、クリミアの同橋も損傷したと発表していた。ロシア当局によると、24時間でドローン2049機と長距離ミサイル「フラミンゴ」4発をロシア軍が迎撃・破壊した。モスクワのセルゲイ・ソビャニン市長は、首都だけでもドローン約600機が向かって来たと付け加えた。
+
+ケルチ橋とも呼ばれるクリミア橋は、ロシアが2014年にクリミア半島を侵略・併合した後に建設された。2018年にロシアのウラジーミル・プーチン大統領が、盛大に開通した。空と海で幾重もの防衛線が張られ、厳重に警備されている。
+
+ウクライナはこの橋を繰り返し攻撃している。今回の攻撃による被害はまだ明らかになっていない。
+
+16日深夜のロシアによる攻撃の前にあったアメリカ、ウクライナ、ヨーロッパの当局者による協議では、戦争の終結に向けたロシアとヨーロッパの間での「直接的な関与」の促進について話し合われた。
+
+アメリカの特使でドナルド・トランプ大統領の娘の夫のクシュナー氏は協議のあと、同国がウクライナに「強力で信頼できる安全の保証」を提供し、欧州連合（EU）加盟への道筋を示すことに力を尽くすと述べた。
+
+また、北大西洋条約機構（NATO）は「ヨーロッパの安全保障にとって重要な柱であり続ける」とし、「近い将来の」さらなる多国間会合に向けた準備が進められていると付け加えた。
+
+ゼレンスキー氏は16日夜の演説で、この日の協議は「困難だった」と述べた。そして、ロシアの弾道ミサイル攻撃に対するウクライナの防衛を支援するために、さらなる努力が必要だとした。
+
+ゼレンスキー氏によると、今回の協議では初めて、ロシアとの協議に今後加わる欧州代表団の全メンバー（イギリス、フランス、ドイツ、イタリア、ポーランド、EU、NATOの代表者）が出席した。
+
+ゼレンスキー氏は、和平協議に欧州代表団も含めるべきだと以前から主張してきた。ウクライナがEU加盟を長期目標に据えていることからも、ヨーロッパの参加は不可欠だと主張している。
+
+ゼレンスキー氏はこの日の演説で、ロシアが北朝鮮から「毎月数十発のミサイル」を受け取っているとも述べた。
+
+（英語記事 Two major Kyiv bridges hit in Russian attack, mayor says）4:["$","$L17",null,{"title":"キーウの主要な橋2本をロシアが攻撃、市長が発表 米欧ウのオンライン協議の後に","excerpt":"$18","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/eca71058eca71058207f00aa","locale":"ja"}]
+5:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%82%AD%E3%83%BC%E3%82%A6%E3%81%AE%E4%B8%BB%E8%A6%81%E3%81%AA%E6%A9%8B2%E6%9C%AC%E3%82%92%E3%83%AD%E3%82%B7%E3%82%A2%E3%81%8C%E6%94%BB%E6%92%83%E3%80%81%E5%B8%82%E9%95%B7%E3%81%8C%E7%99%BA%E8%A1%A8+%E7%B1%B3%E6%AC%A7%E3%82%A6%E3%81%AE%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E5%8D%94%E8%AD%B0%E3%81%AE%E5%BE%8C%E3%81%AB&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+6:["$","$L19",null,{"placement":"article","className":"mt-8"}]
+7:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+8:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","dw:https://dw.com/en/nvidia-forms-national-security-committee-after-huang-affair/a-79970447?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/b24f0a20b24f0a2040093660","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Nvidia forms national security committee after Huang affair"}]]}]}],["$","li","nhk-sports:https://news.web.nhk/newsweb/na/nd-20261117de77417",{"children":["$","$L2",null,{"href":"/ja/n/87dbe4da87dbe4daf935ef96","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"プロ野球トライアウト 元オリックス阿部や元広島矢野らが参加"}]]}]}],["$","li","nhk-business:https://news.web.nhk/newsweb/na/nd-20261117de77106",{"children":["$","$L2",null,{"href":"/ja/n/5f5a6e605f5a6e604f8247f8","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"集客や広告宣伝支援「KARTE」に不正アクセス 利用企業に影響"}]]}]}]]}]]}]
+9:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+a:["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]
+d:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1e",null,{"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"キーウの主要な橋2本をロシアが攻撃、市長が発表 米欧ウのオンライン協議の後に"}],["$","meta","1",{"name":"description","content":"キーウのクリチコ市長。10月のミサイル攻撃の際に被害現場を訪れた"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"キーウの主要な橋2本をロシアが攻撃、市長が発表 米欧ウのオンライン協議の後に"}],["$","meta","4",{"property":"og:description","content":"キーウのクリチコ市長。10月のミサイル攻撃の際に被害現場を訪れた"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/eca71058eca71058207f00aa/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F1524%2Flive%2Fbaf89050-e227-11f1-a094-5fdc692f3e33.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"キーウの主要な橋2本をロシアが攻撃、市長が発表 米欧ウのオンライン協議の後に"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"キーウの主要な橋2本をロシアが攻撃、市長が発表 米欧ウのオンライン協議の後に"}],["$","meta","14",{"name":"twitter:description","content":"キーウのクリチコ市長。10月のミサイル攻撃の際に被害現場を訪れた"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F1524%2Flive%2Fbaf89050-e227-11f1-a094-5fdc692f3e33.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1f","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
+12:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
+15:true
+1c:null
+c:300
+c:C
+14:0
+e:"$undefined"
+10:"$undefined"
+13:"$undefined"
+b:"$undefined"

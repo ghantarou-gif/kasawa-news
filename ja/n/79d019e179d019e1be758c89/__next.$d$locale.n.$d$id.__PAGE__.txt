@@ -1,0 +1,137 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261118-00010000-medical-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","image"]
+1f:X
+24:X
+24:C
+0:{"buildId":"XhCViw2vgdKt3hsQsz2oY","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-18","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"その「疲れ」、男性更年期かも？ 寿命とも関わる男性ホルモン「テストステロン」とは 【医師解説】(Medical Note)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"3 日前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261118-00010000-medical-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"近年、予防医学の世界では「Longevity（長寿）」という概念が急速に注目を集めている。単に寿命を延ばすだけでなく、健康で活力ある期間（健康寿命）をいかに長く保つかがテーマだ。"}],["$","p","1",{"children":"その中で、男性の若々しさと寿命を映すバロメーターとして世界中の研究者から熱い視線を注がれているのが、男性ホルモンの「テストステロン」である。近年、数万～数十万人規模の大規模研究によって、テストステロン値と「生物学的な老化」や死亡リスクとの関連が次々と明らかになってきた。一方で、テストステロンの低下は「男性更年期障害」として、疲労感や意欲低下といった不調の原因にもなる。"}],["$","p","2",{"children":"イーヘルスクリニック新宿院（東京都新宿区）の院長であり、日本抗加齢医学会が認定した抗加齢専門医でもある天野 方一（あまの ほういち）先生に、新しい研究データが示す「テストステロンと長寿の関係」、そして未来の個別化医療「Precision Longevity Medicine」について解説していただいた。"}],["$","p","3",{"children":"本題であるテストステロンと長寿に関する新しい研究について触れる前に、まずはベースとなる「男性更年期」の一般論について説明しましょう。"}],["$","p","4",{"children":"「更年期障害」というと女性特有のものと思われがちですが、男性にも存在します。医学的には「加齢男性性腺機能低下症候群（LOH症候群）」と呼ばれます。女性の更年期は、閉経を挟んだ前後約10年間に女性ホルモンが急激に揺らぎながら低下していくことで起こるのに対し、男性の場合は、男性ホルモン（テストステロン）が20歳代をピークに加齢とともに緩やかに減少していくことで発症します。"}],["$","p","5",{"children":"テストステロンの低下は、強い疲労感、筋力低下、睡眠障害といった「身体症状」、イライラ、意欲の低下、気分の落ち込みなどの「精神症状」、そして性欲減退やEDなどの「性機能症状」を複合的に引き起こします。40歳代以降の働き盛りに発症しやすく、「単なる疲れ」や「うつ」と間違われたまま放置されやすいのが特徴です。"}],["$","p","6",{"children":"男性更年期障害は、2025年6月に政府が出した「骨太方針2025」において、初めて性差に由来する健康課題として明記されました。男性更年期障害による経済損失は約1.2兆円とも推計されており、社会全体での対策が急がれています。"}],["$","p","7",{"children":"今世界で注目を集めているのが、「テストステロンが高い男性は、若々しく長生きできるのではないか？」という仮説です。これを裏付けるような大規模な研究結果が、近年相次いで発表されています。"}],["$","p","8",{"children":"最も注目すべきは、2025年に発表された米国、中国、英国の3か国・約17,000人の男性を対象とした解析です。この研究では、血中テストステロン値と「生物学的年齢（実際の年齢ではなく、細胞や臓器の機能から見た年齢）」の関係が調査されました。"}],["$","p","9",{"children":"結果として、血清総テストステロン値が高い男性ほど、生物学的な老化のスピード（加速）が遅い傾向がはっきりと認められました。年齢やそのほかの交絡因子を調整しても、この関連は維持されたのです。"}],["$","p","10",{"children":"さらに英国のUK Biobankのデータを用いた解析では、単に数値が高いだけでなく、「テストステロンの増加」が「生物学的年齢の加速の減少（老化スピードの鈍化）」と有意に関連していることも示唆されました。"}],["$","p","11",{"children":"つまり、テストステロン値は、男性の体がどれくらい老化しているかを示す強力な指標（バイオマーカー）となり得るのです。"}],["$","p","12",{"children":"生物学的な年齢だけでなく、実際の「寿命（死亡率）」との関係はどうでしょうか。"}],["$","p","13",{"children":"2024年に『Annals of Internal Medicine』に掲載された、計24,109人のデータを統合したメタ解析では、男性ホルモンの低下が命に関わるリスクになることが示されました。"}],["$","p","14",{"children":"具体的には、テストステロン値が213 ng/dL（2.13 ng/mL）未満で「全死亡リスク」が上昇し、153 ng/dL（1.53 ng/mL）未満で「心血管死亡リスク」が上昇することが報告されています。"}],["$","p","15",{"children":"さらに2025年の35万人以上（女性を含む）を対象とした大規模なシステマティックレビュー・メタ解析においても、総テストステロン高値群は、低値群と比較して全死亡リスクが低い（ハザード比：0.89）という関連性が報告されました。"}],["$","p","16",{"children":"では、なぜテストステロンがこれほどまでに生物学的老化や寿命に直結するのでしょうか。その背景には、大きく5つのメカニズム（はたらき）が考えられます。"}],["$","p","17",{"children":"・筋肉への作用：筋タンパクの合成を促し、筋量を維持。サルコペニア（加齢性筋肉減弱症）やフレイルを防ぐ。"}],["$","p","18",{"children":"・代謝への作用：脂肪量の調節やインスリン感受性に関与し、肥満や糖尿病のリスクを下げる。"}],["$","p","19",{"children":"・骨格への作用：骨量・骨強度を維持し、高齢期の骨折による寝たきりを防ぐ。"}],["$","p","20",{"children":"・炎症の抑制：免疫や炎症経路と相互に作用し、老化の大きな原因である「慢性炎症」を抑える。"}],["$","p","21",{"children":"・精神・神経への作用：性欲、気分、意欲を向上させ、QOL（生活の質）と日々の活動性を高く保つ。"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15"],"$L16"]}],"$L17","$L18","$L19",null,"$L1a","$L1b"]}],["$L1c"],"$L1d"]}],"isPartial":"$@1e","staleTime":"$1f","varyParams":null},{"rsc":"$L20","isPartial":"$@21","staleTime":"$1f","varyParams":null},{"rsc":"$L22","isPartial":"$@23","staleTime":"$1f","varyParams":"$24"},{"rsc":"$L25","isPartial":"$@26","staleTime":"$1f","varyParams":"$24"}],"isUpgradeableISRFallback":false,"a":"$@27","rootVaryParams":null,"needsRuntimeRequest":"$@28"}
+29:I[36936,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+2a:I[98337,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+2d:I[9441,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+2e:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+2f:"$Sreact.suspense"
+31:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+32:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+33:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+34:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+35:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","22",{"children":"テストステロンは、まさに「心身のエンジン」として全身の健康を底上げしているのです。"}]
+4:["$","p","23",{"children":"ここで重要な疑問が浮かびます。「テストステロンを補充すれば、若返って長生きできるのか？」ということです。"}]
+5:["$","p","24",{"children":"現時点での医学的な答えは、「テストステロンを補充することによる生物学的年齢の若返りや寿命延長は、まだ証明されていない」となります。テストステロンが足りない男性に補充する治療法は「テストステロン補充療法（TRT）」と呼ばれ、男性更年期障害のつらい症状を改善する効果は広く認められていますが、「アンチエイジングの魔法の薬」として健康な方が寿命を延ばすために使う段階には至っていません。"}]
+6:["$","p","25",{"children":"では、テストステロン値を気にかけることに意味はないのでしょうか。決してそうではありません。大切なのは、テストステロン値を「上げる」ことよりも、それが自分の体にとって何を意味しているのかを正しく知ることです。"}]
+7:["$","p","26",{"children":"ここで重要になるのが、「Precision Longevity Medicine（精密長寿医療）」です。Precision Longevity Medicineとは、一人ひとりの体の状態を詳しく分析し、その方に合った方法で健康寿命を延ばすことを目指す医療のことです。"}]
+8:["$","p","27",{"children":"これまでの医療では、血圧が高ければ血圧を下げる、血糖値が高ければ血糖値を下げるというように、それぞれの検査値や病気に注目して治療することが一般的でした。しかし、実際の人間の老化は、それほど単純ではありません。"}]
+9:["$","p","28",{"children":"たとえば、同じ50歳の男性でも、筋肉量が多く、腎機能や血糖値が正常で、慢性的な炎症も少ない方がいる一方で、テストステロンが低下し、内臓脂肪が増え、慢性的な炎症や腎機能の低下が始まっている方もいます。つまり、同じ年齢でも体の老化の進み方は人によって大きく異なるのです。"}]
+a:["$","p","29",{"children":"Precision Longevity Medicineでは、テストステロン、血糖値、腎機能、炎症、筋肉量など、さまざまな情報を組み合わせて、その方の健康状態や将来のリスクを総合的に評価します。"}]
+b:["$","p","30",{"children":"さらにAIや機械学習を活用することで、人間が一つひとつの検査値を見るだけでは気付きにくい、複数の検査値の組み合わせやパターンを発見できる可能性があります。"}]
+c:["$","p","31",{"children":"では、AI医療が普及するまで、私たちはただ待つしかないのでしょうか。そんなことはありません。個別化医療の出発点は、今の自分自身の状態を客観的に知ることです。そしてそれは、今日からでも始められます。"}]
+d:["$","p","32",{"children":"とはいえ、「最近疲れやすい」「意欲が湧かない」「もしかしたら自分も……」と思っても、いきなり医療機関へ行くのはハードルが高いという方もいらっしゃるでしょう。"}]
+e:["$","p","33",{"children":"そこでまず活用いただきたいのが、世界的に用いられているスクリーニング検査（質問票）である「AMSスコア（Aging Males’ Symptoms scale）」です。"}]
+f:["$","p","34",{"children":"この質問票は、「総合的に調子が思わしくない」「ひげの伸びが遅くなった」「性欲（セックスをしたいという欲求）が低下した」など、17項目の質問に答えることで、更年期症状の重症度を客観的に数値化できる評価シートです。"}]
+10:["$","p","35",{"children":"医療機関での診断補助に使われるだけでなく、Webサイトなどで公開されています。インターネットで「AMSスコア」と検索すれば、どなたでもご自身で簡単にセルフチェックを行うことができます。"}]
+11:["$","p","36",{"children":"「なんとなく不調」という感覚を数値で確認することは、受診への第一歩となります。チェックの結果点数が高かった場合や特定の症状がつらい場合は、迷わず医師に相談してください。"}]
+12:["$","p","37",{"children":"当院が行ったアンケートでは、症状を感じてもどこへ行くべきか分からない、という方が4割以上いらっしゃいました（図1）。受診すべき診療科は、「泌尿器科」や「内科」です。最近では「メンズヘルス外来」や「男性更年期外来」を標榜する内科や泌尿器科のクリニックも増えています。"}]
+13:["$","p","38",{"children":"医療機関では、前述のAMSスコアによる問診と、採血による血中のテストステロン値の測定によって診断が行われます。また、治療法としては減少したホルモンを注射などで補う「テストステロン補充療法（TRT）」が一般的ですが、症状や希望に合わせて漢方薬やED治療薬などが処方されることもあります。さらに、食事や運動、睡眠といった生活習慣の改善指導も並行して行われることが一般的です。"}]
+14:["$","p","39",{"children":"テストステロン値は、男性の体の老化の度合いを映すサインの1つです。ただし、その数値が何を意味するかは、全身の状態と併せて見て初めて正しく読み解くことができます。"}]
+15:["$","p","40",{"children":"疲れやすさや意欲の低下を、「年のせい」「仕事のせい」と片づけてはいないでしょうか。11月19日の国際男性デーは、忙しさの中で後回しにしがちな自分の体と向き合うよいきっかけです。この機会に、ご自身のテストステロン値や全身の健康状態を知ることから始めてみてはいかがでしょうか。"}]
+16:["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]
+17:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/18f76eca860d6ff632ab3d15a6282a6dabd4afeb?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}]
+2b:T2d49,近年、予防医学の世界では「Longevity（長寿）」という概念が急速に注目を集めている。単に寿命を延ばすだけでなく、健康で活力ある期間（健康寿命）をいかに長く保つかがテーマだ。
+
+その中で、男性の若々しさと寿命を映すバロメーターとして世界中の研究者から熱い視線を注がれているのが、男性ホルモンの「テストステロン」である。近年、数万～数十万人規模の大規模研究によって、テストステロン値と「生物学的な老化」や死亡リスクとの関連が次々と明らかになってきた。一方で、テストステロンの低下は「男性更年期障害」として、疲労感や意欲低下といった不調の原因にもなる。
+
+イーヘルスクリニック新宿院（東京都新宿区）の院長であり、日本抗加齢医学会が認定した抗加齢専門医でもある天野 方一（あまの ほういち）先生に、新しい研究データが示す「テストステロンと長寿の関係」、そして未来の個別化医療「Precision Longevity Medicine」について解説していただいた。
+
+本題であるテストステロンと長寿に関する新しい研究について触れる前に、まずはベースとなる「男性更年期」の一般論について説明しましょう。
+
+「更年期障害」というと女性特有のものと思われがちですが、男性にも存在します。医学的には「加齢男性性腺機能低下症候群（LOH症候群）」と呼ばれます。女性の更年期は、閉経を挟んだ前後約10年間に女性ホルモンが急激に揺らぎながら低下していくことで起こるのに対し、男性の場合は、男性ホルモン（テストステロン）が20歳代をピークに加齢とともに緩やかに減少していくことで発症します。
+
+テストステロンの低下は、強い疲労感、筋力低下、睡眠障害といった「身体症状」、イライラ、意欲の低下、気分の落ち込みなどの「精神症状」、そして性欲減退やEDなどの「性機能症状」を複合的に引き起こします。40歳代以降の働き盛りに発症しやすく、「単なる疲れ」や「うつ」と間違われたまま放置されやすいのが特徴です。
+
+男性更年期障害は、2025年6月に政府が出した「骨太方針2025」において、初めて性差に由来する健康課題として明記されました。男性更年期障害による経済損失は約1.2兆円とも推計されており、社会全体での対策が急がれています。
+
+今世界で注目を集めているのが、「テストステロンが高い男性は、若々しく長生きできるのではないか？」という仮説です。これを裏付けるような大規模な研究結果が、近年相次いで発表されています。
+
+最も注目すべきは、2025年に発表された米国、中国、英国の3か国・約17,000人の男性を対象とした解析です。この研究では、血中テストステロン値と「生物学的年齢（実際の年齢ではなく、細胞や臓器の機能から見た年齢）」の関係が調査されました。
+
+結果として、血清総テストステロン値が高い男性ほど、生物学的な老化のスピード（加速）が遅い傾向がはっきりと認められました。年齢やそのほかの交絡因子を調整しても、この関連は維持されたのです。
+
+さらに英国のUK Biobankのデータを用いた解析では、単に数値が高いだけでなく、「テストステロンの増加」が「生物学的年齢の加速の減少（老化スピードの鈍化）」と有意に関連していることも示唆されました。
+
+つまり、テストステロン値は、男性の体がどれくらい老化しているかを示す強力な指標（バイオマーカー）となり得るのです。
+
+生物学的な年齢だけでなく、実際の「寿命（死亡率）」との関係はどうでしょうか。
+
+2024年に『Annals of Internal Medicine』に掲載された、計24,109人のデータを統合したメタ解析では、男性ホルモンの低下が命に関わるリスクになることが示されました。
+
+具体的には、テストステロン値が213 ng/dL（2.13 ng/mL）未満で「全死亡リスク」が上昇し、153 ng/dL（1.53 ng/mL）未満で「心血管死亡リスク」が上昇することが報告されています。
+
+さらに2025年の35万人以上（女性を含む）を対象とした大規模なシステマティックレビュー・メタ解析においても、総テストステロン高値群は、低値群と比較して全死亡リスクが低い（ハザード比：0.89）という関連性が報告されました。
+
+では、なぜテストステロンがこれほどまでに生物学的老化や寿命に直結するのでしょうか。その背景には、大きく5つのメカニズム（はたらき）が考えられます。
+
+・筋肉への作用：筋タンパクの合成を促し、筋量を維持。サルコペニア（加齢性筋肉減弱症）やフレイルを防ぐ。
+
+・代謝への作用：脂肪量の調節やインスリン感受性に関与し、肥満や糖尿病のリスクを下げる。
+
+・骨格への作用：骨量・骨強度を維持し、高齢期の骨折による寝たきりを防ぐ。
+
+・炎症の抑制：免疫や炎症経路と相互に作用し、老化の大きな原因である「慢性炎症」を抑える。
+
+・精神・神経への作用：性欲、気分、意欲を向上させ、QOL（生活の質）と日々の活動性を高く保つ。
+
+テストステロンは、まさに「心身のエンジン」として全身の健康を底上げしているのです。
+
+ここで重要な疑問が浮かびます。「テストステロンを補充すれば、若返って長生きできるのか？」ということです。
+
+現時点での医学的な答えは、「テストステロンを補充することによる生物学的年齢の若返りや寿命延長は、まだ証明されていない」となります。テストステロンが足りない男性に補充する治療法は「テストステロン補充療法（TRT）」と呼ばれ、男性更年期障害のつらい症状を改善する効果は広く認められていますが、「アンチエイジングの魔法の薬」として健康な方が寿命を延ばすために使う段階には至っていません。
+
+では、テストステロン値を気にかけることに意味はないのでしょうか。決してそうではありません。大切なのは、テストステロン値を「上げる」ことよりも、それが自分の体にとって何を意味しているのかを正しく知ることです。
+
+ここで重要になるのが、「Precision Longevity Medicine（精密長寿医療）」です。Precision Longevity Medicineとは、一人ひとりの体の状態を詳しく分析し、その方に合った方法で健康寿命を延ばすことを目指す医療のことです。
+
+これまでの医療では、血圧が高ければ血圧を下げる、血糖値が高ければ血糖値を下げるというように、それぞれの検査値や病気に注目して治療することが一般的でした。しかし、実際の人間の老化は、それほど単純ではありません。
+
+たとえば、同じ50歳の男性でも、筋肉量が多く、腎機能や血糖値が正常で、慢性的な炎症も少ない方がいる一方で、テストステロンが低下し、内臓脂肪が増え、慢性的な炎症や腎機能の低下が始まっている方もいます。つまり、同じ年齢でも体の老化の進み方は人によって大きく異なるのです。
+
+Precision Longevity Medicineでは、テストステロン、血糖値、腎機能、炎症、筋肉量など、さまざまな情報を組み合わせて、その方の健康状態や将来のリスクを総合的に評価します。
+
+さらにAIや機械学習を活用することで、人間が一つひとつの検査値を見るだけでは気付きにくい、複数の検査値の組み合わせやパターンを発見できる可能性があります。
+
+では、AI医療が普及するまで、私たちはただ待つしかないのでしょうか。そんなことはありません。個別化医療の出発点は、今の自分自身の状態を客観的に知ることです。そしてそれは、今日からでも始められます。
+
+とはいえ、「最近疲れやすい」「意欲が湧かない」「もしかしたら自分も……」と思っても、いきなり医療機関へ行くのはハードルが高いという方もいらっしゃるでしょう。
+
+そこでまず活用いただきたいのが、世界的に用いられているスクリーニング検査（質問票）である「AMSスコア（Aging Males’ Symptoms scale）」です。
+
+この質問票は、「総合的に調子が思わしくない」「ひげの伸びが遅くなった」「性欲（セックスをしたいという欲求）が低下した」など、17項目の質問に答えることで、更年期症状の重症度を客観的に数値化できる評価シートです。
+
+医療機関での診断補助に使われるだけでなく、Webサイトなどで公開されています。インターネットで「AMSスコア」と検索すれば、どなたでもご自身で簡単にセルフチェックを行うことができます。
+
+「なんとなく不調」という感覚を数値で確認することは、受診への第一歩となります。チェックの結果点数が高かった場合や特定の症状がつらい場合は、迷わず医師に相談してください。
+
+当院が行ったアンケートでは、症状を感じてもどこへ行くべきか分からない、という方が4割以上いらっしゃいました（図1）。受診すべき診療科は、「泌尿器科」や「内科」です。最近では「メンズヘルス外来」や「男性更年期外来」を標榜する内科や泌尿器科のクリニックも増えています。
+
+医療機関では、前述のAMSスコアによる問診と、採血による血中のテストステロン値の測定によって診断が行われます。また、治療法としては減少したホルモンを注射などで補う「テストステロン補充療法（TRT）」が一般的ですが、症状や希望に合わせて漢方薬やED治療薬などが処方されることもあります。さらに、食事や運動、睡眠といった生活習慣の改善指導も並行して行われることが一般的です。
+
+テストステロン値は、男性の体の老化の度合いを映すサインの1つです。ただし、その数値が何を意味するかは、全身の状態と併せて見て初めて正しく読み解くことができます。
+
+疲れやすさや意欲の低下を、「年のせい」「仕事のせい」と片づけてはいないでしょうか。11月19日の国際男性デーは、忙しさの中で後回しにしがちな自分の体と向き合うよいきっかけです。この機会に、ご自身のテストステロン値や全身の健康状態を知ることから始めてみてはいかがでしょうか。18:["$","section",null,{"className":"article-actions","children":[["$","$L29",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/79d019e179d019e1be758c89","title":"その「疲れ」、男性更年期かも？ 寿命とも関わる男性ホルモン「テストステロン」とは 【医師解説】(Medical Note)","locale":"ja","take":null}],["$","$L2a",null,{"title":"その「疲れ」、男性更年期かも？ 寿命とも関わる男性ホルモン「テストステロン」とは 【医師解説】(Medical Note)","excerpt":"$2b","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/79d019e179d019e1be758c89","locale":"ja"}],"$L2c"]}]
+19:["$","$L2d",null,{"placement":"article","className":"mt-8"}]
+1a:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+1b:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","nhk-business:https://news.web.nhk/newsweb/na/nd-20261118de77672",{"children":["$","$L2",null,{"href":"/ja/n/166b4561166b456118b75749","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"ネットにつながらない携帯電話発売へ 脱ネット需要がねらい"}]]}]}],["$","li","guardian-world:https://theguardian.com/world/2026/nov/18/israel-construction-contracts-e1-west-bank-settlement-uk-sanctions",{"children":["$","$L2",null,{"href":"/ja/n/05993dfa05993dfa72eb0816","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"The Guardian"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Israel delays building contracts for West Bank settlement after UK sanctions"}]]}]}],["$","li","nhk-world:https://news.web.nhk/newsweb/na/nd-20261118de78049",{"children":["$","$L2",null,{"href":"/ja/n/01d7360e01d7360ee9e23484","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"ヤルタ会談の舞台に米中ロ首脳の肖像画"}]]}]}]]}]]}]
+1c:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+1d:["$","$L2e",null,{"children":["$","$2f",null,{"name":"Next.MetadataOutlet","children":"$@30"}]}]
+20:["$","$1","h",{"children":[null,["$","$L31",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L32",null,{"children":["$","$2f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"その「疲れ」、男性更年期かも？ 寿命とも関わる男性ホルモン「テストステロン」とは 【医師解説】(Medical Note)"}],["$","meta","1",{"name":"description","content":"近年、予防医学の世界では「Longevity（長寿）」という概念が急速に注目を集めている。単に寿命を延ばすだけでなく、健康で活力ある期間（健康寿命）をいかに長く保つかがテーマだ。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"その「疲れ」、男性更年期かも？ 寿命とも関わる男性ホルモン「テストステロン」とは 【医師解説】(Medical Note)"}],["$","meta","4",{"property":"og:description","content":"近年、予防医学の世界では「Longevity（長寿）」という概念が急速に注目を集めている。単に寿命を延ばすだけでなく、健康で活力ある期間（健康寿命）をいかに長く保つかがテーマだ。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/79d019e179d019e1be758c89/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261118-00010000-medical-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"その「疲れ」、男性更年期かも？ 寿命とも関わる男性ホルモン「テストステロン」とは 【医師解説】(Medical Note)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"その「疲れ」、男性更年期かも？ 寿命とも関わる男性ホルモン「テストステロン」とは 【医師解説】(Medical Note)"}],["$","meta","14",{"name":"twitter:description","content":"近年、予防医学の世界では「Longevity（長寿）」という概念が急速に注目を集めている。単に寿命を延ばすだけでなく、健康で活力ある期間（健康寿命）をいかに長く保つかがテーマだ。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261118-00010000-medical-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L33","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+22:["$","$1","c",{"children":[null,["$","$L34",null,{"parallelRouterKey":"children","template":["$","$L35",null,{}]}]]}]
+25:["$","$1","c",{"children":[null,["$","$L34",null,{"parallelRouterKey":"children","template":["$","$L35",null,{}]}]]}]
+28:true
+2c:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%81%9D%E3%81%AE%E3%81%A8%E3%81%AF+%E3%80%90%E5%8C%BB%E5%B8%AB%E8%A7%A3%E8%AA%AC%E3%80%91&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+30:null
+1f:300
+1f:C
+27:0
+21:"$undefined"
+23:"$undefined"
+26:"$undefined"
+1e:"$undefined"

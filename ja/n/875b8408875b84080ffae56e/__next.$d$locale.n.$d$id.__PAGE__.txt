@@ -1,0 +1,67 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ead6/live/066e7440-e3af-11f1-8476-9fd445fc522b.jpg","image"]
+5:Tfad,オークションのプレビューで公開された、フィンセント・ファン・ゴッホの絵画「花咲く栗の木」（10月13日、香港）
+
+木製の額に入った油絵にスポットライトが当たり、暗がりでスタッフ2人が額を左右から、白手袋をはめた手で持ち上げている。絵は、濃紺の空を背に並ぶ大きい栗の木々が花を咲かせ、その下に女性3人が立つ様子を描いている
+
+フィンセント・ファン・ゴッホ作の絵画「花咲く栗の木」が18日、サザビーズによるオークションで、1億9040万ドル（約303億5200万円）で落札された。ゴッホ作品の落札価格としては、過去最高となった。
+
+「花咲く栗の木」は、ゴッホが1890年7月に亡くなる前の2カ月間で描いたもの。サザビーズによると、同時期の作品の内、個人所有のものとして最重要な作品の一つだという。
+
+この絵については、20世紀初頭からドイツで所有していた一族の相続人が、ナチス・ドイツが台頭するなかで先祖が売らざるを得なかったものだとして、オークションを中止するよう主張していた。出品者たちとの交渉の結果、直前に合意がまとまり、オークションが実施された。
+
+米紙ニューヨーク・タイムズは、ニューヨークを拠点とする世界的画商ウィリアム・アクアヴェラ氏が落札したと伝えている。
+
+ゴッホ作品のこれまでの最高落札額は、2022年のクリスティーズで落札された「果樹園と糸杉」の1億1720万ドルだった。
+
+「花咲く栗の木」は、アルゼンチンのブラキエール＝アリエタ・コレクションから出品された12点のうちの一つ。オークション実施前は、推定1億8000万ドルの価値があるとされていた。
+
+サザビーズはオークションの数時間前、ブラキエール家と、この作品をかつて所有していたドイツのフィッシャー家の相続人との間の、売却をめぐる紛争が解決したと発表した。
+
+これに先立ち、フィッシャー家の相続人の代理を務める弁護士は、一族はこの絵を、ナチスの台頭期に売らざるを得なかった可能性があると主張していた。
+
+弁護士はサザビーズに対し、この絵はフィッシャー家が第2次世界大戦前にアムステルダムで売却したもので、絵を売った理由は、一族が経営する出版社がナチス政権下で財政難に陥ったからだと説明したとされる。BBCは弁護士にコメントを求めている。
+
+サザビーズは18日、「この絵にはナチス時代の複雑な歴史があり、ホロコーストの最中にフィッシャー家は苦難に耐えた。こうしたことを踏まえ、両家は双方にとって満足のいく解決策に達し、作品は双方の合意に基づいて売却されることになった」と発表した。
+
+サザビーズのウェブサイトには、この油絵の来歴と、1890年以降の所有者の変遷を調査した経緯が詳しく記載されている。
+
+それによると、ドイツの著名出版人だったサミュエル・フィッシャー氏が1909年に絵を入手。1934年にサミュエル氏が亡くなると、家族が受け継いだという。
+
+サザビーズによると、この絵は1932年か1933年にアムステルダムの美術商パウル・カッシーラーに預けられた後、1936年にパリの有名コレクター、アンリエットとマルセル・カプフェレ夫妻の手に渡ったという。
+
+サザビーズによると、ブラキエール家は1975年にこの絵を取得し、今回の売却まで半世紀以上にわたり所有し続けていたという。
+
+（英語記事 Van Gogh painting sells for record $190.4m after row over its Nazi history）d:X
+12:X
+12:C
+0:{"buildId":"XhCViw2vgdKt3hsQsz2oY","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-19","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"ゴッホ晩年の作品、記録的な1億9040万ドルで落札 ナチスとの関係めぐり論争"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"一昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ead6/live/066e7440-e3af-11f1-8476-9fd445fc522b.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"オークションのプレビューで公開された、フィンセント・ファン・ゴッホの絵画「花咲く栗の木」（10月13日、香港）"}],["$","p","1",{"children":"木製の額に入った油絵にスポットライトが当たり、暗がりでスタッフ2人が額を左右から、白手袋をはめた手で持ち上げている。絵は、濃紺の空を背に並ぶ大きい栗の木々が花を咲かせ、その下に女性3人が立つ様子を描いている"}],["$","p","2",{"children":"フィンセント・ファン・ゴッホ作の絵画「花咲く栗の木」が18日、サザビーズによるオークションで、1億9040万ドル（約303億5200万円）で落札された。ゴッホ作品の落札価格としては、過去最高となった。"}],["$","p","3",{"children":"「花咲く栗の木」は、ゴッホが1890年7月に亡くなる前の2カ月間で描いたもの。サザビーズによると、同時期の作品の内、個人所有のものとして最重要な作品の一つだという。"}],["$","p","4",{"children":"この絵については、20世紀初頭からドイツで所有していた一族の相続人が、ナチス・ドイツが台頭するなかで先祖が売らざるを得なかったものだとして、オークションを中止するよう主張していた。出品者たちとの交渉の結果、直前に合意がまとまり、オークションが実施された。"}],["$","p","5",{"children":"米紙ニューヨーク・タイムズは、ニューヨークを拠点とする世界的画商ウィリアム・アクアヴェラ氏が落札したと伝えている。"}],["$","p","6",{"children":"ゴッホ作品のこれまでの最高落札額は、2022年のクリスティーズで落札された「果樹園と糸杉」の1億1720万ドルだった。"}],["$","p","7",{"children":"「花咲く栗の木」は、アルゼンチンのブラキエール＝アリエタ・コレクションから出品された12点のうちの一つ。オークション実施前は、推定1億8000万ドルの価値があるとされていた。"}],["$","p","8",{"children":"サザビーズはオークションの数時間前、ブラキエール家と、この作品をかつて所有していたドイツのフィッシャー家の相続人との間の、売却をめぐる紛争が解決したと発表した。"}],["$","p","9",{"children":"これに先立ち、フィッシャー家の相続人の代理を務める弁護士は、一族はこの絵を、ナチスの台頭期に売らざるを得なかった可能性があると主張していた。"}],["$","p","10",{"children":"弁護士はサザビーズに対し、この絵はフィッシャー家が第2次世界大戦前にアムステルダムで売却したもので、絵を売った理由は、一族が経営する出版社がナチス政権下で財政難に陥ったからだと説明したとされる。BBCは弁護士にコメントを求めている。"}],["$","p","11",{"children":"サザビーズは18日、「この絵にはナチス時代の複雑な歴史があり、ホロコーストの最中にフィッシャー家は苦難に耐えた。こうしたことを踏まえ、両家は双方にとって満足のいく解決策に達し、作品は双方の合意に基づいて売却されることになった」と発表した。"}],["$","p","12",{"children":"サザビーズのウェブサイトには、この油絵の来歴と、1890年以降の所有者の変遷を調査した経緯が詳しく記載されている。"}],["$","p","13",{"children":"それによると、ドイツの著名出版人だったサミュエル・フィッシャー氏が1909年に絵を入手。1934年にサミュエル氏が亡くなると、家族が受け継いだという。"}],["$","p","14",{"children":"サザビーズによると、この絵は1932年か1933年にアムステルダムの美術商パウル・カッシーラーに預けられた後、1936年にパリの有名コレクター、アンリエットとマルセル・カプフェレ夫妻の手に渡ったという。"}],["$","p","15",{"children":"サザビーズによると、ブラキエール家は1975年にこの絵を取得し、今回の売却まで半世紀以上にわたり所有し続けていたという。"}],["$","p","16",{"children":"（英語記事 Van Gogh painting sells for record $190.4m after row over its Nazi history）"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/cx30gd42zv3mo","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/875b8408875b84080ffae56e","title":"ゴッホ晩年の作品、記録的な1億9040万ドルで落札 ナチスとの関係めぐり論争","locale":"ja","take":null}],["$","$L4",null,{"title":"ゴッホ晩年の作品、記録的な1億9040万ドルで落札 ナチスとの関係めぐり論争","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/875b8408875b84080ffae56e","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%82%B4%E3%83%83%E3%83%9B%E6%99%A9%E5%B9%B4%E3%81%AE%E4%BD%9C%E5%93%81%E3%80%81%E8%A8%98%E9%8C%B2%E7%9A%84%E3%81%AA1%E5%84%849040%E4%B8%87%E3%83%89%E3%83%AB%E3%81%A7%E8%90%BD%E6%9C%AD+%E3%83%8A%E3%83%81%E3%82%B9%E3%81%A8%E3%81%AE%E9%96%A2%E4%BF%82%E3%82%81%E3%81%90%E3%82%8A%E8%AB%96%E4%BA%89&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","dw:https://dw.com/en/eu-commission-confirms-it-was-targeted-in-cyberattack-using-ai-tools/a-79993016?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/52f592a852f592a827ca2572","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"EU Commission confirms it was targeted in cyberattack using AI tools"}]]}]}],["$","li","nhk-politics:https://news.web.nhk/newsweb/na/nd-20261119de78721",{"children":["$","$L2",null,{"href":"/ja/n/f198a053f198a0531e4e87e3","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"高市首相 トランプ大統領から米中ロ首脳会談の説明受ける"}]]}]}],["$","li","nhk-world:https://news.web.nhk/newsweb/na/nd-20261119de78423",{"children":["$","$L2",null,{"href":"/ja/n/ad8d725fad8d725f99f72887","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"【解説】初の米中ロ首脳会談 どう見たか"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ゴッホ晩年の作品、記録的な1億9040万ドルで落札 ナチスとの関係めぐり論争"}],["$","meta","1",{"name":"description","content":"オークションのプレビューで公開された、フィンセント・ファン・ゴッホの絵画「花咲く栗の木」（10月13日、香港）"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"ゴッホ晩年の作品、記録的な1億9040万ドルで落札 ナチスとの関係めぐり論争"}],["$","meta","4",{"property":"og:description","content":"オークションのプレビューで公開された、フィンセント・ファン・ゴッホの絵画「花咲く栗の木」（10月13日、香港）"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/875b8408875b84080ffae56e/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fead6%2Flive%2F066e7440-e3af-11f1-8476-9fd445fc522b.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"ゴッホ晩年の作品、記録的な1億9040万ドルで落札 ナチスとの関係めぐり論争"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"ゴッホ晩年の作品、記録的な1億9040万ドルで落札 ナチスとの関係めぐり論争"}],["$","meta","14",{"name":"twitter:description","content":"オークションのプレビューで公開された、フィンセント・ファン・ゴッホの絵画「花咲く栗の木」（10月13日、香港）"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fead6%2Flive%2F066e7440-e3af-11f1-8476-9fd445fc522b.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

@@ -1,0 +1,108 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://i.guim.co.uk/img/media/2c2f610959bc39253f07a4995c553a3099e2c600/203_0_4826_3863/master/4826.jpg?width=140&quality=85&auto=format&fit=max&s=cfd4682eae9415da0b32b4c20bfbe26a","image"]
+1c:X
+21:X
+21:C
+0:{"buildId":"XhCViw2vgdKt3hsQsz2oY","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-16","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"The Guardian"}],["$","span",null,{"children":["💹"," ","経済"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"5 日前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://i.guim.co.uk/img/media/2c2f610959bc39253f07a4995c553a3099e2c600/203_0_4826_3863/master/4826.jpg?width=140&quality=85&auto=format&fit=max&s=cfd4682eae9415da0b32b4c20bfbe26a","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"Megaspeed International, the company linked to the downfall of the Nvidia chief, Jensen Huang , says it is a “legitimate and lawful business” and has announced that its director, who allegedly had an affair with Jensen Huang, left the business in late 2025."}],["$","p","1",{"children":"The Singapore-based cloud computing company on the weekend said it was “aware of recent media reports containing assertions about our business, supply chain and global operations that are not supported by verifiable evidence”."}],["$","p","2",{"children":"Megaspeed said it had “retained external legal counsel to conduct a thorough internal investigation”."}],["$","p","3",{"children":"Jensen Huang resigned as chief executive of the chip manufacturer Nvidia after reports of extramarital affairs with Alice Huang and two company employees."}],["$","p","4",{"children":"US intelligence agencies believe the tech chief, whose products have been crucial to the AI boom, had been targeted by Alice Huang, the former director of Megaspeed International."}],["$","p","5",{"children":"US officials have alleged Alice Huang may have been acting as a Chinese intelligence asset, passing commercial information to Beijing, the New York Times has reported ."}],["$","p","6",{"children":"In the past three years, Megaspeed has been one of Nvidia’s biggest foreign customers, buying nearly US$5bn (A$7.4bn, £3.8bn) in AI chips and advanced hardware."}],["$","p","7",{"children":"A US senator asked the commerce department to investigate whether Megaspeed had diverted Nvidia chips to China."}],["$","p","8",{"children":"Megaspeed said on Sunday it would not comment on Alice Huang’s “personal and private matters”."}],["$","p","9",{"children":"“Alice Huang officially left Megaspeed effective August 30, 2025 and currently has no role with the company,” it said in a statement."}],["$","p","10",{"children":"The global facades of Megaspeed International form a puzzling corporate picture , and involve a lottery retailer in rural Australia, a dilapidated storefront in Kuala Lumpur and a near-empty office in Singapore."}],["$","p","11",{"children":"The company on Sunday said: “Megaspeed designs and maintains its global operational and supply-chain control frameworks to comply with all applicable laws and regulatory regimes, including United States export control requirements and local jurisdiction rules in every market where we operate.”"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12"],"$L13"]}],"$L14","$L15","$L16",null,"$L17","$L18"]}],["$L19"],"$L1a"]}],"isPartial":"$@1b","staleTime":"$1c","varyParams":null},{"rsc":"$L1d","isPartial":"$@1e","staleTime":"$1c","varyParams":null},{"rsc":"$L1f","isPartial":"$@20","staleTime":"$1c","varyParams":"$21"},{"rsc":"$L22","isPartial":"$@23","staleTime":"$1c","varyParams":"$21"}],"isUpgradeableISRFallback":false,"a":"$@24","rootVaryParams":null,"needsRuntimeRequest":"$@25"}
+26:I[36936,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+27:I[98337,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+2a:I[9441,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+2b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+2c:"$Sreact.suspense"
+2e:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+2f:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+30:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+31:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+32:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","12",{"children":"Short seller Culper Research in May quoted a Megaspeed employee as saying Alice Huang was “still our boss”, in a report accusing Nvidia of having a “China problem”."}]
+4:["$","p","13",{"children":"On Thursday, Singaporean authorities said Alice Huang had been barred from re-entering the city state after a 2025 investigation into the company’s “suspected breaches of our domestic laws”."}]
+5:["$","p","14",{"children":"The ministry of home affairs said it had held Alice Huang’s passport from June 2025 until February. Police believed she had given them “inaccurate” information, to downplay her role at the company, but released her due to insufficient evidence."}]
+6:["$","p","15",{"children":"She was issued a stern warning and barred from re-entering the country. Taiwan has also barred her from re-entry, its authorities have said."}]
+7:["$","p","16",{"children":"Singapore’s initial investigation related to Megaspeed’s potential “false declarations” over the purchase of computer servers."}]
+8:["$","p","17",{"children":"On Friday, Malaysia said it was investigating a subsidiary of Megaspeed International over the possible diversion of advanced AI chips to other countries."}]
+9:["$","p","18",{"children":"Megaspeed has previously said there was no evidence of illegal chip transfers."}]
+a:["$","p","19",{"children":"Its registered Sydney office is home to numerous business and had no Megaspeed signage, mailbox or physical presence when the Guardian visited last week . No one had heard of Megaspeed Australia or its listed director, 29-year-old Kai Kang."}]
+b:["$","p","20",{"children":"Reuters visited a news agency and lottery retailer, in Seymour, Victoria, an hour’s drive north of Melbourne, where a woman, who identified herself as Kang’s mother, said Kang was based in Shanghai and did not know anything about the Singaporean company."}]
+c:["$","p","21",{"children":"Kang has not been accused of any wrongdoing. Attempts to contact him were unsuccessful."}]
+d:["$","p","22",{"children":"The US attorney general, Todd Blanche, said last week that the Justice Department had not concluded whether Alice Huang was a Chinese spy."}]
+e:["$","p","23",{"children":"Asked whether she was a spy, the US president, Donald Trump, said: “I don’t know if that’s been determined yet.”"}]
+f:["$","p","24",{"children":"Beijing rejected the allegations as unsubstantiated. Associated Press was unable to reach Alice Huang for comment. The Guardian has sought comment from Alice Huang."}]
+10:["$","p","25",{"children":"Megaspeed began as the overseas arm of a Chinese video game developer and was incorporated in Singapore in 2015 as 7Road International. It adopted its current name in March 2023, when all its shares were transferred to Huang Le Limited, a British Virgin Islands company. Alice Huang is also known by her Chinese name, Huang Le."}]
+11:["$","p","26",{"children":"By November 2023, she was no longer listed as a Megaspeed director, and all her shares had been transferred to an entity owned by Singaporean businessman Tan Yong Pong, also known as James Tan."}]
+12:["$","p","27",{"children":"The company’s finances have also attracted attention. Singapore corporate records show its total assets rose roughly 90-fold from end-2023 to 2024, reaching almost US$3bn (A$4.4bn, £2.3bn)."}]
+13:["$","p",null,{"className":"article-credit","children":"本文の著作権はThe Guardianにあります。"}]
+14:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はThe Guardianで読む"}]}]
+28:T1396,Megaspeed International, the company linked to the downfall of the Nvidia chief, Jensen Huang , says it is a “legitimate and lawful business” and has announced that its director, who allegedly had an affair with Jensen Huang, left the business in late 2025.
+
+The Singapore-based cloud computing company on the weekend said it was “aware of recent media reports containing assertions about our business, supply chain and global operations that are not supported by verifiable evidence”.
+
+Megaspeed said it had “retained external legal counsel to conduct a thorough internal investigation”.
+
+Jensen Huang resigned as chief executive of the chip manufacturer Nvidia after reports of extramarital affairs with Alice Huang and two company employees.
+
+US intelligence agencies believe the tech chief, whose products have been crucial to the AI boom, had been targeted by Alice Huang, the former director of Megaspeed International.
+
+US officials have alleged Alice Huang may have been acting as a Chinese intelligence asset, passing commercial information to Beijing, the New York Times has reported .
+
+In the past three years, Megaspeed has been one of Nvidia’s biggest foreign customers, buying nearly US$5bn (A$7.4bn, £3.8bn) in AI chips and advanced hardware.
+
+A US senator asked the commerce department to investigate whether Megaspeed had diverted Nvidia chips to China.
+
+Megaspeed said on Sunday it would not comment on Alice Huang’s “personal and private matters”.
+
+“Alice Huang officially left Megaspeed effective August 30, 2025 and currently has no role with the company,” it said in a statement.
+
+The global facades of Megaspeed International form a puzzling corporate picture , and involve a lottery retailer in rural Australia, a dilapidated storefront in Kuala Lumpur and a near-empty office in Singapore.
+
+The company on Sunday said: “Megaspeed designs and maintains its global operational and supply-chain control frameworks to comply with all applicable laws and regulatory regimes, including United States export control requirements and local jurisdiction rules in every market where we operate.”
+
+Short seller Culper Research in May quoted a Megaspeed employee as saying Alice Huang was “still our boss”, in a report accusing Nvidia of having a “China problem”.
+
+On Thursday, Singaporean authorities said Alice Huang had been barred from re-entering the city state after a 2025 investigation into the company’s “suspected breaches of our domestic laws”.
+
+The ministry of home affairs said it had held Alice Huang’s passport from June 2025 until February. Police believed she had given them “inaccurate” information, to downplay her role at the company, but released her due to insufficient evidence.
+
+She was issued a stern warning and barred from re-entering the country. Taiwan has also barred her from re-entry, its authorities have said.
+
+Singapore’s initial investigation related to Megaspeed’s potential “false declarations” over the purchase of computer servers.
+
+On Friday, Malaysia said it was investigating a subsidiary of Megaspeed International over the possible diversion of advanced AI chips to other countries.
+
+Megaspeed has previously said there was no evidence of illegal chip transfers.
+
+Its registered Sydney office is home to numerous business and had no Megaspeed signage, mailbox or physical presence when the Guardian visited last week . No one had heard of Megaspeed Australia or its listed director, 29-year-old Kai Kang.
+
+Reuters visited a news agency and lottery retailer, in Seymour, Victoria, an hour’s drive north of Melbourne, where a woman, who identified herself as Kang’s mother, said Kang was based in Shanghai and did not know anything about the Singaporean company.
+
+Kang has not been accused of any wrongdoing. Attempts to contact him were unsuccessful.
+
+The US attorney general, Todd Blanche, said last week that the Justice Department had not concluded whether Alice Huang was a Chinese spy.
+
+Asked whether she was a spy, the US president, Donald Trump, said: “I don’t know if that’s been determined yet.”
+
+Beijing rejected the allegations as unsubstantiated. Associated Press was unable to reach Alice Huang for comment. The Guardian has sought comment from Alice Huang.
+
+Megaspeed began as the overseas arm of a Chinese video game developer and was incorporated in Singapore in 2015 as 7Road International. It adopted its current name in March 2023, when all its shares were transferred to Huang Le Limited, a British Virgin Islands company. Alice Huang is also known by her Chinese name, Huang Le.
+
+By November 2023, she was no longer listed as a Megaspeed director, and all her shares had been transferred to an entity owned by Singaporean businessman Tan Yong Pong, also known as James Tan.
+
+The company’s finances have also attracted attention. Singapore corporate records show its total assets rose roughly 90-fold from end-2023 to 2024, reaching almost US$3bn (A$4.4bn, £2.3bn).15:["$","section",null,{"className":"article-actions","children":[["$","$L26",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/0bf699820bf69982edeffeec","title":"Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’","locale":"ja","take":null}],["$","$L27",null,{"title":"Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’","excerpt":"$28","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/0bf699820bf69982edeffeec","locale":"ja"}],"$L29"]}]
+16:["$","$L2a",null,{"placement":"article","className":"mt-8"}]
+17:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+18:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","nhk-world:https://news.web.nhk/newsweb/na/nd-20261116de76848",{"children":["$","$L2",null,{"href":"/ja/n/6666971566669715be2a1121","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"ASEAN 国境を越える煙害で対策強化へ"}]]}]}],["$","li","dw:https://dw.com/en/cop31-draft-deal-calls-for-immediate-shift-away-from-fossil-fuels/a-79960705?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/6aa16e056aa16e05e2192d51","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"COP31 draft deal calls for 'immediate' shift away from fossil fuels"}]]}]}],["$","li","nhk-science:https://news.web.nhk/newsweb/na/nd-20261116de76841",{"children":["$","$L2",null,{"href":"/ja/n/4ea7d5c44ea7d5c403d641ae","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"「アンコール遺跡群」研究の第一人者 石澤良昭さん死去"}]]}]}]]}]]}]
+19:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+1a:["$","$L2b",null,{"children":["$","$2c",null,{"name":"Next.MetadataOutlet","children":"$@2d"}]}]
+1d:["$","$1","h",{"children":[null,["$","$L2e",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L2f",null,{"children":["$","$2c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’"}],["$","meta","1",{"name":"description","content":"Megaspeed International, the company linked to the downfall of the Nvidia chief, Jensen Huang , says it is a “legitimate and lawful business” and has announced that its director, who allegedly had an affair with Jensen Huang, left the business in late 2025."}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’"}],["$","meta","4",{"property":"og:description","content":"Megaspeed International, the company linked to the downfall of the Nvidia chief, Jensen Huang , says it is a “legitimate and lawful business” and has announced that its director, who allegedly had an affair with Jensen Huang, left the business in late 2025."}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/0bf699820bf69982edeffeec/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F2c2f610959bc39253f07a4995c553a3099e2c600%2F203_0_4826_3863%2Fmaster%2F4826.jpg%3Fwidth%3D140%26quality%3D85%26auto%3Dformat%26fit%3Dmax%26s%3Dcfd4682eae9415da0b32b4c20bfbe26a&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’"}],["$","meta","14",{"name":"twitter:description","content":"Megaspeed International, the company linked to the downfall of the Nvidia chief, Jensen Huang , says it is a “legitimate and lawful business” and has announced that its director, who allegedly had an affair with Jensen Huang, left the business in late 2025."}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F2c2f610959bc39253f07a4995c553a3099e2c600%2F203_0_4826_3863%2Fmaster%2F4826.jpg%3Fwidth%3D140%26quality%3D85%26auto%3Dformat%26fit%3Dmax%26s%3Dcfd4682eae9415da0b32b4c20bfbe26a&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L30","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+1f:["$","$1","c",{"children":[null,["$","$L31",null,{"parallelRouterKey":"children","template":["$","$L32",null,{}]}]]}]
+22:["$","$1","c",{"children":[null,["$","$L31",null,{"parallelRouterKey":"children","template":["$","$L32",null,{}]}]]}]
+25:true
+29:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=Megaspeed%2C+the+company+linked+to+the+downfall+of&mode=phrase&url=theguardian.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+2d:null
+1c:300
+1c:C
+24:0
+1e:"$undefined"
+20:"$undefined"
+23:"$undefined"
+1b:"$undefined"

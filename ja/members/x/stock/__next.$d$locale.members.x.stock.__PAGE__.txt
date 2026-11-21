@@ -1,0 +1,35 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/2pu5f312197j7.js","/kasawa-news/_next/static/chunks/2_mczfd2btf57.js"],""]
+3:I[88951,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/2pu5f312197j7.js","/kasawa-news/_next/static/chunks/2_mczfd2btf57.js"],"StockBoard"]
+4:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+a:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+8:X
+15:X
+15:C
+0:{"buildId":"XhCViw2vgdKt3hsQsz2oY","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"lg:grid lg:grid-cols-[13.5rem_minmax(0,1fr)] lg:gap-10","children":[["$","aside",null,{"className":"mb-8 lg:mb-0","children":[["$","p",null,{"className":"font-sans text-[11px] tracking-[0.2em] uppercase text-accent","children":"Subscribers"}],["$","$L2",null,{"href":"/ja/members/x","className":"mt-2 block font-display text-[18px] leading-snug tracking-[-0.02em] hover:text-accent","children":"Xで伸ばすための「編集者思考」"}],["$","div",null,{"className":"mt-4 border-t border-line pt-4","children":["$","nav",null,{"aria-label":"会員","className":"space-y-1","children":[["$","$L2",null,{"href":"/ja/members/x","className":"block rounded-lg px-3 py-2 font-sans text-[14px] text-muted hover:bg-card hover:text-ink","children":"トップ"}],[["$","$L2","guide",{"href":"/ja/members/x/guide","className":"block rounded-lg px-3 py-2 font-sans text-[14px] text-muted hover:bg-card hover:text-ink","children":"編集者思考"}],["$","$L2","news",{"href":"/ja/members/x/news","className":"block rounded-lg px-3 py-2 font-sans text-[14px] text-muted hover:bg-card hover:text-ink","children":"関連ニュース"}],["$","$L2","sources",{"href":"/ja/members/x/sources","className":"block rounded-lg px-3 py-2 font-sans text-[14px] text-muted hover:bg-card hover:text-ink","children":"元ネタ帳"}],["$","$L2","templates",{"href":"/ja/members/x/templates","className":"block rounded-lg px-3 py-2 font-sans text-[14px] text-muted hover:bg-card hover:text-ink","children":"17構文"}],["$","$L2","checklist",{"href":"/ja/members/x/checklist","className":"block rounded-lg px-3 py-2 font-sans text-[14px] text-muted hover:bg-card hover:text-ink","children":"チェックリスト"}],["$","$L2","frequency",{"href":"/ja/members/x/frequency","className":"block rounded-lg px-3 py-2 font-sans text-[14px] text-muted hover:bg-card hover:text-ink","children":"投稿本数"}],["$","$L2","tool",{"href":"/ja/members/x/tool","className":"block rounded-lg px-3 py-2 font-sans text-[14px] text-muted hover:bg-card hover:text-ink","children":"構文メーカー"}],["$","$L2","stock",{"href":"/ja/members/x/stock","className":"block rounded-lg bg-ink px-3 py-2 font-sans text-[14px] text-card","aria-current":"page","children":"投稿在庫"}]]]}]}]]}],["$","div",null,{"className":"min-w-0","children":[["$","h1",null,{"className":"font-display max-w-3xl text-[clamp(1.85rem,4.5vw,2.8rem)] leading-[1.12] tracking-[-0.03em]","children":"投稿在庫"}],["$","p",null,{"className":"mt-4 max-w-2xl text-[17px] leading-8 text-muted","children":"夜3時に20本足す英語下書き。コピーすると済が付く。"}],["$","div",null,{"className":"mt-8","children":["$","$L3",null,{}]}]]}]]}],[["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/2_mczfd2btf57.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"投稿在庫 · Xで伸ばすための「編集者思考」"}],["$","meta","1",{"name":"description","content":"夜3時に20本足す英語下書き。コピーすると済が付く。"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","4",{"property":"og:title","content":"投稿在庫 · Xで伸ばすための「編集者思考」"}],["$","meta","5",{"property":"og:description","content":"夜3時に20本足す英語下書き。コピーすると済が付く。"}],["$","meta","6",{"property":"og:locale","content":"ja_JP"}],["$","meta","7",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","8",{"property":"og:image:type","content":"image/png"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"property":"og:image:alt","content":"NyanChu"}],["$","meta","12",{"property":"og:type","content":"website"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10"]}]}]}],"$L11"]}],"isPartial":"$@12","staleTime":"$8","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$8","varyParams":"$15"},{"rsc":"$L16","isPartial":"$@17","staleTime":"$8","varyParams":null},{"rsc":"$L18","isPartial":"$@19","staleTime":"$8","varyParams":"$15"}],"isUpgradeableISRFallback":false,"a":"$@1a","rootVaryParams":null,"needsRuntimeRequest":"$@1b"}
+1c:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1d:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1e:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[57469,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/2pu5f312197j7.js"],"MemberAccess"]
+6:null
+b:["$","meta","14",{"name":"twitter:title","content":"投稿在庫 · Xで伸ばすための「編集者思考」"}]
+c:["$","meta","15",{"name":"twitter:description","content":"夜3時に20本足す英語下書き。コピーすると済が付く。"}]
+d:["$","meta","16",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}]
+e:["$","link","17",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
+f:["$","link","18",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}]
+10:["$","$L1c","19",{}]
+11:["$","meta",null,{"name":"next-size-adjust","content":""}]
+13:["$","$1","c",{"children":[null,["$","$L1d",null,{"parallelRouterKey":"children","template":["$","$L1e",null,{}]}]]}]
+16:["$","$1","c",{"children":[[["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/2pu5f312197j7.js","async":true}]],["$","$L1f",null,{"locale":"ja","children":["$","$L1d",null,{"parallelRouterKey":"children","template":["$","$L1e",null,{}]}]}]]}]
+18:["$","$1","c",{"children":[null,["$","$L1d",null,{"parallelRouterKey":"children","template":["$","$L1e",null,{}]}]]}]
+1b:true
+8:300
+8:C
+1a:0
+12:"$undefined"
+14:"$undefined"
+17:"$undefined"
+19:"$undefined"
+7:"$undefined"

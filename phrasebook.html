@@ -1,0 +1,1366 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=1">
+<title>Travel Japanese</title>
+<meta name="description" content="Learn Japanese for travel. Flashcards, lists, and tap-to-hear.">
+<meta name="theme-color" content="#f2f2f7">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Travel Japanese">
+<link rel="manifest" href="phrasebook.webmanifest">
+<link rel="icon" href="phrasebook-icon.svg">
+<style>
+:root{
+  --bg:#f2f2f7; --card:#fff; --ink:#1c1c1e; --sub:#8e8e93; --line:rgba(60,60,67,.12);
+  --blue:#007aff; --ok:#34c759; --no:#ff3b30;
+}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0;min-height:100%;background:#0b0b0d;color:var(--ink);
+  font-family:-apple-system,"SF Pro Text","Hiragino Sans","Hiragino Kaku Gothic ProN",sans-serif;
+  -webkit-font-smoothing:antialiased;overscroll-behavior:none}
+.desk{min-height:100dvh;display:flex;align-items:center;justify-content:center;padding:24px}
+.phone{width:min(100%,390px);height:min(100dvh,844px);background:#000;border-radius:0;
+  box-shadow:none;position:relative;padding:0}
+.screen{height:100%;background:var(--bg);position:relative;overflow:hidden;display:flex;flex-direction:column}
+.island,.statusbar,.homeind{display:none}
+.app{flex:1;overflow:auto;-webkit-overflow-scrolling:touch;padding-bottom:calc(72px + env(safe-area-inset-bottom))}
+@media(min-width:700px){
+  .phone{height:844px;border-radius:56px;padding:11px;
+    box-shadow:0 0 0 1px #2c2c2e,0 0 0 8px #111,0 50px 100px rgba(0,0,0,.55)}
+  .screen{border-radius:46px}
+  .island{display:block;position:absolute;top:12px;left:50%;transform:translateX(-50%);
+    width:126px;height:36px;background:#000;border-radius:20px;z-index:40}
+  .statusbar{display:flex;justify-content:space-between;align-items:center;
+    padding:16px 28px 0;height:54px;font-size:15px;font-weight:700;position:relative;z-index:30}
+  .sb-right{display:flex;gap:6px;align-items:center}
+  .homeind{display:block;position:absolute;left:50%;bottom:8px;transform:translateX(-50%);
+    width:134px;height:5px;background:#1c1c1e;border-radius:99px;opacity:.28;z-index:40}
+  .app{padding-bottom:78px}
+}
+@media(max-width:699px){
+  html,body,.desk{background:var(--bg)}
+  .desk{padding:0;min-height:100dvh}
+  .phone{width:100%;height:100dvh;border-radius:0}
+}
+header.topbar{display:none;padding:8px 20px 0}
+body[data-mode="list"] header.topbar,
+body[data-mode="cards"] header.topbar,
+body[data-mode="quiz"] header.topbar{display:block}
+.brand{display:flex;align-items:center;gap:4px}
+.brand h1{margin:0;font-size:34px;font-weight:800;letter-spacing:-.04em}
+.brand small{display:none}
+.back{border:0;background:0;color:var(--blue);font-size:34px;line-height:.8;padding:0 6px 0 0;cursor:pointer;font-weight:300}
+.search{display:flex;padding:10px 20px 0}
+.search input{width:100%;padding:11px 14px;border:0;border-radius:12px;background:#e5e5ea;font-size:16px;outline:none}
+.toolbar{display:none}
+.seg{display:flex;background:#e5e5ea;border-radius:10px;padding:2px}
+.seg button{flex:1;border:0;background:transparent;padding:8px 6px;border-radius:8px;font-size:13px;font-weight:700;color:var(--sub);cursor:pointer}
+.seg button.on{background:#fff;color:var(--ink)}
+.romaji-toggle{display:none}
+.cats{display:flex;gap:8px;overflow-x:auto;padding:12px 20px 4px;scrollbar-width:none}
+.cats::-webkit-scrollbar{display:none}
+.cats button{flex:none;border:0;background:#fff;color:var(--ink);padding:8px 12px;border-radius:999px;font-size:13px;font-weight:700;cursor:pointer}
+.cats button.on{background:var(--ink);color:#fff}
+main{padding:8px 20px 24px}
+.count{color:var(--sub);font-size:12px;margin:6px 20px 10px;font-weight:600}
+.card{background:#fff;border-radius:16px;padding:14px 16px;margin-bottom:10px;display:flex;gap:12px;cursor:pointer}
+.card .en{font-size:14px;font-weight:700}
+.card .ja{font-size:22px;font-weight:800;margin-top:4px}
+.card .ro{font-size:13px;color:var(--sub);margin-top:2px}
+.card .tag{display:none}
+.speak,.pin,.cspeak,.p-speak{flex:none;width:40px;height:40px;border:0;border-radius:50%;background:#f2f2f7;cursor:pointer;font-size:0;color:transparent;
+  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='18' height='18' fill='none' stroke='%231c1c1e' stroke-width='1.6'><path d='M3 8.5v2h3l4 3V5.5L6 8.5H3z'/><path d='M13.5 7.6a2.6 2.6 0 0 1 0 2.8'/></svg>");
+  background-repeat:no-repeat;background-position:center}
+.pin{border-radius:10px;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='none' stroke='%238e8e93' stroke-width='1.5'><path d='M8 2.4 9.7 6l3.8.5-2.8 2.7.7 3.8L8 11.2 4.6 13l.7-3.8L2.5 6.5 6.3 6z'/></svg>")}
+.pin.on{background:#fff3c4;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='%23f5b400' stroke='%23f5b400'><path d='M8 2.4 9.7 6l3.8.5-2.8 2.7.7 3.8L8 11.2 4.6 13l.7-3.8L2.5 6.5 6.3 6z'/></svg>")}
+.empty{text-align:center;color:var(--sub);padding:40px 0}
+footer{display:none}
+.warn{display:none;margin:10px 20px 0;color:var(--no);font-size:12px}
+.warn.show{display:block}
+.hide-ro .ro{display:none}
+.modeSwitch.tabbar{position:absolute;left:0;right:0;bottom:0;display:flex;
+  background:rgba(249,249,249,.92);backdrop-filter:saturate(180%) blur(20px);
+  border-top:1px solid rgba(0,0,0,.08);padding:4px 8px 18px;z-index:30}
+@media(max-width:699px){.modeSwitch.tabbar{position:fixed;padding-bottom:calc(8px + env(safe-area-inset-bottom))}}
+.modeSwitch button{flex:1;border:0;background:transparent;color:var(--sub);padding:6px 0 2px;
+  font-size:10px;font-weight:600;cursor:pointer;display:flex;flex-direction:column;align-items:center;gap:3px}
+.modeSwitch button:before{content:"";width:26px;height:26px;background:currentColor;opacity:.45;
+  mask:var(--ico) center/24px no-repeat;-webkit-mask:var(--ico) center/24px no-repeat}
+.modeSwitch button.on{color:var(--blue)}
+.modeSwitch button.on:before{opacity:1}
+.modeSwitch [data-m="home"]{--ico:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M3 11.2 12 3.5 21 11.2V21h-6.5v-6h-5v6H3z'/></svg>")}
+.modeSwitch [data-m="list"]{--ico:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M4 6.5h16v2.2H4zm0 4.4h16v2.2H4zm0 4.4h16v2.2H4z'/></svg>")}
+.modeSwitch [data-m="cards"]{--ico:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M8 4h11a2 2 0 0 1 2 2v12h-2.2V6.8H8zM3 7h13a2 2 0 0 1 2 2v11H5a2 2 0 0 1-2-2z'/></svg>")}
+.modeSwitch [data-m="quiz"]{--ico:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M12 2a10 10 0 1 0 .01 20.01A10 10 0 0 0 12 2zm.1 15.2a1.2 1.2 0 1 1 0-2.4 1.2 1.2 0 0 1 0 2.4zM12 6.8c2 0 3.4 1.2 3.4 3.1 0 1.3-.7 2.1-1.9 2.8-.9.6-1.1 1-1.1 1.7v.3h-1.7v-.5c0-1.2.5-2 1.6-2.7 1-.6 1.4-1.1 1.4-1.7 0-.7-.5-1.2-1.4-1.2-.9 0-1.5.5-1.6 1.4H8.8C9 8 10.2 6.8 12 6.8z'/></svg>")}
+body.studying .tabbar,body.quizzing .tabbar{display:none}
+body[data-mode="quiz"] .browse-only,
+body[data-mode="cards"] .browse-only,
+body[data-mode="home"] .browse-only,
+body[data-mode="list"] .browse-only{display:none}
+body[data-mode="browse"] #quizView,
+body[data-mode="browse"] #cardView,
+body[data-mode="browse"] #homeView,
+body[data-mode="browse"] #useView,
+body[data-mode="quiz"] #homeView,
+body[data-mode="quiz"] #cardView,
+body[data-mode="quiz"] #useView,
+body[data-mode="cards"] #homeView,
+body[data-mode="cards"] #quizView,
+body[data-mode="cards"] #useView,
+body[data-mode="home"] #quizView,
+body[data-mode="home"] #cardView,
+body[data-mode="home"] #useView,
+body[data-mode="list"] #homeView,
+body[data-mode="list"] #quizView,
+body[data-mode="list"] #cardView{display:none}
+#homeView,#useView,#quizView,#cardView{animation:rise .35s ease}
+@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+#quizView,#cardView{padding:8px 20px 24px}
+.quiz-panel{background:transparent;padding:0;margin:0;border:0}
+.q-title{margin:8px 0 6px;font-size:34px;font-weight:800;letter-spacing:-.04em}
+.q-sub{color:var(--sub);margin:0 0 16px;font-size:15px}
+.q-label{display:block;font-size:13px;font-weight:600;color:var(--sub);margin:16px 0 6px}
+select,#qCat,#qLv,#cCat,#cLv{width:100%;padding:13px 14px;border:0;border-radius:12px;font-size:16px;background:#fff}
+.seg.full{width:100%}
+.q-start,.q-next{width:100%;margin-top:22px;padding:16px;border:0;border-radius:14px;background:var(--blue);color:#fff;font-size:17px;font-weight:700;cursor:pointer}
+.q-again{width:100%;margin-top:10px;padding:14px;border:0;border-radius:14px;background:#fff;color:var(--blue);font-size:16px;font-weight:700;cursor:pointer}
+.q-best{color:var(--sub);margin-top:14px;font-size:13px;font-weight:600}
+.q-top{display:flex;align-items:center;gap:12px}
+.q-prog{flex:1;height:4px;background:#e5e5ea;border-radius:99px;overflow:hidden}
+.q-prog-bar{height:100%;width:0;background:var(--blue);transition:width .3s}
+.q-score{font-weight:800;min-width:24px;text-align:right}
+.q-count{color:var(--sub);font-size:12px;font-weight:700;margin:14px 0 8px}
+.q-prompt{position:relative;text-align:center;padding:44px 16px;border-radius:28px;margin-bottom:16px;background:#fff;box-shadow:0 18px 40px rgba(0,0,0,.08)}
+.q-prompt .p-main{font-size:30px;font-weight:800;line-height:1.35}
+.q-prompt .p-sub{color:var(--sub);font-size:12px;margin-top:8px}
+.q-prompt .p-speak{position:absolute;top:12px;right:12px}
+.q-options{display:flex;flex-direction:column;gap:8px}
+.q-opt{text-align:left;padding:16px;border:0;border-radius:16px;background:#fff;font-size:17px;font-weight:700;cursor:pointer;width:100%}
+.q-opt small{color:var(--sub);font-weight:600}
+.q-opt.correct{background:#e8f8ee;color:#1b7f3a}
+.q-opt.wrong{background:#fdecec;color:#c42929}
+.q-scorebig{text-align:center;font-size:48px;font-weight:900;margin:16px 0}
+.q-msg{text-align:center;color:var(--sub);margin-bottom:14px}
+.q-revh{font-size:12px;color:var(--sub);margin:18px 0 8px;font-weight:800}
+.q-rev{display:flex;flex-direction:column;padding:12px 0;border-bottom:1px solid var(--line)}
+.q-rev b{font-size:14px}.q-rev span{font-size:20px;font-weight:800;margin-top:2px}
+.q-rev i{color:var(--sub);font-size:12px;font-style:normal}
+.q-perfect{text-align:center;color:var(--ok);font-weight:800;padding:12px}
+.card-scene{perspective:1400px;margin:18px 0 8px;position:relative}
+.ghost{position:absolute;left:8px;right:8px;top:10px;height:360px;border-radius:28px;background:#fff;box-shadow:0 10px 24px rgba(0,0,0,.05);z-index:0}
+.ghost.g2{top:18px;left:16px;right:16px;transform:scale(.97);opacity:.65}
+.card-scene .flip{z-index:1}
+.flip{position:relative;width:100%;height:360px;transform-style:preserve-3d;transition:transform .45s cubic-bezier(.2,.8,.2,1);cursor:pointer}
+.flip.flipped{transform:rotateY(180deg)}
+.face{position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;
+  display:flex;flex-direction:column;align-items:center;justify-content:center;
+  background:#fff;border-radius:28px;padding:28px;text-align:center;box-shadow:0 20px 50px rgba(0,0,0,.12)}
+.face.back{transform:rotateY(180deg)}
+.face .big{font-size:34px;font-weight:800;line-height:1.35}
+.face .ro2{color:var(--sub);margin-top:12px;font-size:16px}
+.face .hint{position:absolute;bottom:18px;color:var(--sub);font-size:12px}
+.face .cspeak{position:absolute;top:14px;right:14px}
+.card-actions{display:flex;gap:10px;margin-top:6px}
+.card-actions button{flex:1;padding:16px;border:0;border-radius:16px;font-size:16px;font-weight:800;cursor:pointer;background:#fff}
+.btn-still{color:var(--no)}
+.btn-got{color:var(--ok)}
+.card-meta{display:flex;justify-content:space-between;color:var(--sub);font-size:12px;font-weight:700;margin-bottom:8px}
+.reset-link{display:block;width:100%;margin-top:20px;border:0;background:none;color:var(--sub);font-size:13px;cursor:pointer}
+.swipe-hint{text-align:center;color:var(--sub);font-size:12px;margin-top:8px}
+#homeView{display:none;padding:10px 22px 28px}
+body[data-mode="home"] #homeView{display:block}
+.book-title{margin:8px 2px 20px;font-size:34px;font-weight:800;letter-spacing:-.045em}
+.book-title.sm{margin:10px 2px 14px;font-size:22px}
+.home-meta{display:none}
+.book{display:flex;flex-direction:column;gap:26px;background:transparent;box-shadow:none;padding:0}
+.book:before,.book:after{display:none}
+.deck{position:relative;height:132px;border:0;background:transparent;padding:0;cursor:pointer;text-align:left}
+.deck .sheet{position:absolute;left:0;right:0;top:0;height:112px;border-radius:24px;background:#fff;
+  box-shadow:0 18px 40px rgba(0,0,0,.1)}
+.deck .s2{top:22px;transform:scale(.9) rotate(-3deg);opacity:.7;box-shadow:none;background:#ececf0}
+.deck .s1{top:11px;transform:scale(.955) rotate(2.2deg);opacity:.92;box-shadow:0 8px 18px rgba(0,0,0,.05);background:#f6f6f8}
+.deck .front{display:grid;grid-template-columns:28px 1fr auto;gap:10px;align-items:center;
+  padding:24px 20px;z-index:2}
+.deck:active{transform:scale(.98)}
+.deck .num,.row .num{color:#c7c7cc;font-size:18px;font-weight:700;font-variant-numeric:tabular-nums}
+.deck b,.row b{display:block;font-size:22px;font-weight:800;letter-spacing:-.03em}
+.deck small,.row small{display:block;color:var(--sub);font-size:12px;font-weight:600;margin-top:4px}
+.deck .n,.row .n{font-size:30px;font-weight:800;font-variant-numeric:tabular-nums;letter-spacing:-.05em;line-height:1}
+.deck .n span,.row .n span{display:block;font-size:11px;color:var(--sub);font-weight:700;margin-top:4px;text-align:right}
+.scenes{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.tile{border:0;background:#fff;border-radius:18px;padding:16px 14px;text-align:left;cursor:pointer;
+  box-shadow:0 8px 20px rgba(0,0,0,.04)}
+.tile:active{transform:scale(.98)}
+.tile b{display:block;font-size:16px;font-weight:800}
+.tile small{display:block;color:var(--sub);font-size:11px;margin-top:4px;font-weight:600}
+.row{width:100%;border:0;background:transparent;display:grid;grid-template-columns:28px 1fr auto;gap:10px;align-items:center;
+  padding:17px 16px;text-align:left;cursor:pointer}
+#useView{display:none;padding:4px 0 24px}
+body[data-mode="list"] #useView{display:block}
+.use-row{background:#fff;margin:0 16px 8px;border-radius:16px;padding:14px 16px;display:flex;gap:12px;align-items:flex-start;cursor:pointer}
+.use-row:active{transform:scale(.99)}
+.use-row .no{display:none}
+.use-row .ja{font-size:24px;font-weight:800;line-height:1.35}
+.use-row .en{font-size:14px;font-weight:700;margin-top:4px}
+.use-row .ro{color:var(--sub);font-size:12px;margin-top:2px}
+.use-row.speaking{box-shadow:0 0 0 2px var(--blue)}
+.check{display:flex;align-items:center;gap:8px;margin-top:16px;font-size:14px;color:var(--sub);cursor:pointer}
+.check input{accent-color:var(--blue)}
+.kbd{display:none}
+
+</style>
+</head>
+<body>
+<div class="desk"><div class="phone"><div class="screen">
+<div class="island"></div>
+<div class="statusbar">
+  <span id="clock">9:41</span>
+  <span class="sb-right" aria-hidden="true">
+    <svg width="17" height="11" viewBox="0 0 17 11"><rect x="0" y="7" width="3" height="4" rx=".5" fill="#1c1c1e"/><rect x="4.5" y="5" width="3" height="6" rx=".5" fill="#1c1c1e"/><rect x="9" y="2.5" width="3" height="8.5" rx=".5" fill="#1c1c1e"/><rect x="13.5" y="0" width="3" height="11" rx=".5" fill="#1c1c1e"/></svg>
+    <svg width="16" height="12" viewBox="0 0 16 12"><path d="M8 3.2c2.2 0 4.1 1 5.5 2.5l-1.2 1.2A6.1 6.1 0 0 0 8 5.2a6.1 6.1 0 0 0-4.3 1.7L2.5 5.7A7.8 7.8 0 0 1 8 3.2zm0 3.2c1.3 0 2.4.5 3.3 1.4L8 11 4.7 7.8A4.6 4.6 0 0 1 8 6.4z" fill="#1c1c1e"/></svg>
+    <svg width="27" height="13" viewBox="0 0 27 13"><rect x=".5" y=".5" width="22" height="12" rx="3.2" fill="none" stroke="#1c1c1e" stroke-width="1"/><rect x="2" y="2" width="19" height="9" rx="2" fill="#1c1c1e"/><rect x="23.5" y="4.2" width="2.2" height="4.6" rx="1" fill="#1c1c1e"/></svg>
+  </span>
+</div>
+<div class="app">
+<header class="topbar">
+  <div class="brand">
+    <button class="back" id="goHome" type="button" aria-label="Back">‹</button>
+    <h1 id="pageTitle">List</h1>
+  </div>
+  <div class="search browse-only">
+    <input id="q" type="search" placeholder="Search English, Japanese, or romaji…" autocomplete="off">
+  </div>
+  <div class="toolbar browse-only">
+    <div class="seg" id="typeSeg">
+      <button data-t="all" class="on">All</button>
+      <button data-t="p">Phrases</button>
+      <button data-t="w">Words</button>
+    </div>
+    <label class="romaji-toggle"><input type="checkbox" id="roToggle" checked> Romaji</label>
+    <label class="romaji-toggle"><input type="checkbox" id="hideKnown"> Hide learned</label>
+  </div>
+</header>
+
+<div class="warn" id="warn">Japanese voice is missing on this browser. Safari or Chrome can read the lines aloud.</div>
+
+<section id="homeView">
+  <h1 class="book-title">Travel Japanese</h1>
+  <p class="home-meta"><b id="stKnown">0</b> · <b id="stStreak">0</b> · <b id="stTotal">0</b></p>
+  <div class="book" id="packs"></div>
+  <h2 class="book-title sm">Use now</h2>
+  <div class="scenes" id="homeScenes"></div>
+</section>
+
+<section id="useView">
+  <div class="search" style="margin:8px 0 10px">
+    <input id="useQ" type="search" placeholder="Search this list" autocomplete="off">
+  </div>
+  <div class="cats" id="useCats"></div>
+  <div class="count" id="useCount"></div>
+  <div id="useList"></div>
+</section>
+
+<div class="levels browse-only" id="levels"></div>
+<div class="cats browse-only" id="cats"></div>
+
+<main class="browse-only">
+  <div class="count" id="count"></div>
+  <div id="list"></div>
+</main>
+
+<section id="quizView">
+  <div id="quizSetup" class="quiz-panel">
+    <h2 class="q-title">Quiz</h2>
+    <p class="q-sub">4 choices from the current deck.</p>
+    <label class="q-label">Level</label>
+    <select id="qLv"></select>
+    <label class="q-label">Category</label>
+    <select id="qCat"></select>
+    <label class="q-label">Direction</label>
+    <div class="seg full" id="qDir">
+      <button data-d="en2ja" class="on">EN → JP</button>
+      <button data-d="ja2en">JP → EN</button>
+      <button data-d="mix">Mix</button>
+    </div>
+    <label class="q-label">Questions</label>
+    <div class="seg full" id="qLen">
+      <button data-n="10" class="on">10</button>
+      <button data-n="20">20</button>
+      <button data-n="0">All</button>
+    </div>
+    <label class="check"><input type="checkbox" id="qUnlearned"> Quiz unlearned only</label>
+    <button class="q-start" id="qStart">Start</button>
+    <div class="q-best" id="qBest"></div>
+  </div>
+
+  <div id="quizPlay" class="quiz-panel" style="display:none">
+    <div class="q-top">
+      <div class="q-prog"><div class="q-prog-bar" id="qProg"></div></div>
+      <div class="q-score" id="qScoreLive">0</div>
+    </div>
+    <div class="q-count" id="qCount"></div>
+    <div class="q-prompt" id="qPrompt"></div>
+    <div class="q-options" id="qOptions"></div>
+    <button class="q-next" id="qNext" style="display:none">Next</button>
+  </div>
+
+  <div id="quizResult" class="quiz-panel" style="display:none">
+    <h2 class="q-title">Results</h2>
+    <div class="q-scorebig" id="qScoreBig"></div>
+    <div class="q-msg" id="qMsg"></div>
+    <div id="qReview"></div>
+    <button class="q-start" id="qRetryWrong" style="display:none">Retry misses</button>
+    <button class="q-again" id="qAgain">Try again</button>
+  </div>
+</section>
+
+<section id="cardView">
+  <div id="cardSetup" class="quiz-panel">
+    <h2 class="q-title">Cards</h2>
+    <p class="q-sub">Look at the word. Right if you know it, left if not.</p>
+    <label class="q-label">Level</label>
+    <select id="cLv"></select>
+    <label class="q-label">Category</label>
+    <select id="cCat"></select>
+    <label class="q-label">Front side</label>
+    <div class="seg full" id="cFront">
+      <button data-f="en" class="on">English</button>
+      <button data-f="ja">Japanese</button>
+    </div>
+    <label class="q-label">Cards this session</label>
+    <div class="seg full" id="cLen">
+      <button data-n="10" class="on">10</button>
+      <button data-n="20">20</button>
+      <button data-n="0">All</button>
+    </div>
+    <label class="check"><input type="checkbox" id="cUnlearned" checked> Unlearned only</label>
+    <button class="q-start" id="cStart">Start</button>
+    <div class="q-best" id="cInfo"></div>
+    <button class="reset-link" id="cReset">Reset progress</button>
+  </div>
+
+  <div id="cardPlay" class="quiz-panel" style="display:none">
+    <div class="card-meta"><span id="cCount"></span><span id="cLearned"></span></div>
+    <div class="q-prog"><div class="q-prog-bar" id="cProg"></div></div>
+    <div class="card-scene">
+      <i class="ghost g2"></i><i class="ghost"></i>
+      <div class="flip" id="cFlip">
+        <div class="face front">
+          <button class="cspeak" id="cSpeakF" style="display:none" aria-label="Play"></button>
+          <div class="big" id="cFrontText"></div>
+          <div class="hint">Tap for the answer</div>
+        </div>
+        <div class="face back">
+          <button class="cspeak" id="cSpeakB" aria-label="Play"></button>
+          <div class="big" id="cBackText"></div>
+          <div class="ro2" id="cBackRo"></div>
+          <div class="hint">Tap to flip back</div>
+        </div>
+      </div>
+    </div>
+    <div class="card-actions">
+      <button class="btn-still" id="cStill">Still learning</button>
+      <button class="btn-got" id="cGot">Got it</button>
+    </div>
+    <div class="swipe-hint">Left: still learning · Right: got it · Tap for the answer</div>
+  </div>
+
+  <div id="cardDone" class="quiz-panel" style="display:none">
+    <h2 class="q-title">Done</h2>
+    <div class="q-msg" id="cDoneMsg"></div>
+    <button class="q-start" id="cAgain">Study again</button>
+  </div>
+</section>
+
+<nav class="modeSwitch tabbar" id="modeSwitch">
+  <button data-m="home" class="on">Home</button>
+  <button data-m="list">List</button>
+  <button data-m="cards">Cards</button>
+  <button data-m="quiz">Quiz</button>
+</nav>
+</div>
+<div class="homeind"></div>
+</div></div></div>
+
+<script src="phrasebook-extra.js"></script>
+<script>
+/* ---- Data: {c:category, t:'p'|'w', en, ja, ro} ---- */
+const CATS = ["Basics","Greetings","Numbers & Time","Directions & Transport",
+  "Restaurant","Shopping","Convenience Store","Hotel","Sightseeing",
+  "Emergency & Health","Polite / Small Talk","Useful Words",
+  "Airport","Onsen & Bath","Money & Phone","Nightlife","Post & Luggage",
+  "Pharmacy","Cafe","Family","Driving","Outdoors"];
+
+const DATA = [
+  // ---------- Basics ----------
+  {c:"Basics",t:"p",en:"Yes.",ja:"はい。",ro:"Hai."},
+  {c:"Basics",t:"p",en:"No.",ja:"いいえ。",ro:"Iie."},
+  {c:"Basics",t:"p",en:"Thank you.",ja:"ありがとうございます。",ro:"Arigatō gozaimasu."},
+  {c:"Basics",t:"p",en:"You're welcome.",ja:"どういたしまして。",ro:"Dō itashimashite."},
+  {c:"Basics",t:"p",en:"Excuse me. / Sorry.",ja:"すみません。",ro:"Sumimasen."},
+  {c:"Basics",t:"p",en:"I'm sorry.",ja:"ごめんなさい。",ro:"Gomen nasai."},
+  {c:"Basics",t:"p",en:"Please.",ja:"お願いします。",ro:"Onegai shimasu."},
+  {c:"Basics",t:"p",en:"OK / Understood.",ja:"わかりました。",ro:"Wakarimashita."},
+  {c:"Basics",t:"p",en:"I don't understand.",ja:"わかりません。",ro:"Wakarimasen."},
+  {c:"Basics",t:"p",en:"Do you speak English?",ja:"英語を話せますか？",ro:"Eigo o hanasemasu ka?"},
+  {c:"Basics",t:"p",en:"I don't speak Japanese.",ja:"日本語が話せません。",ro:"Nihongo ga hanasemasen."},
+  {c:"Basics",t:"p",en:"Please say it again.",ja:"もう一度お願いします。",ro:"Mō ichido onegai shimasu."},
+  {c:"Basics",t:"p",en:"Please speak slowly.",ja:"ゆっくり話してください。",ro:"Yukkuri hanashite kudasai."},
+  {c:"Basics",t:"p",en:"What does this mean?",ja:"これはどういう意味ですか？",ro:"Kore wa dō iu imi desu ka?"},
+  {c:"Basics",t:"p",en:"Just a moment, please.",ja:"少々お待ちください。",ro:"Shōshō omachi kudasai."},
+  {c:"Basics",t:"p",en:"It's OK. / No problem.",ja:"大丈夫です。",ro:"Daijōbu desu."},
+  {c:"Basics",t:"p",en:"I'm fine, thank you. (no need)",ja:"けっこうです。",ro:"Kekkō desu."},
+  {c:"Basics",t:"p",en:"Help me, please.",ja:"助けてください。",ro:"Tasukete kudasai."},
+
+  // ---------- Greetings ----------
+  {c:"Greetings",t:"p",en:"Good morning.",ja:"おはようございます。",ro:"Ohayō gozaimasu."},
+  {c:"Greetings",t:"p",en:"Hello. / Good afternoon.",ja:"こんにちは。",ro:"Konnichiwa."},
+  {c:"Greetings",t:"p",en:"Good evening.",ja:"こんばんは。",ro:"Konbanwa."},
+  {c:"Greetings",t:"p",en:"Good night.",ja:"おやすみなさい。",ro:"Oyasumi nasai."},
+  {c:"Greetings",t:"p",en:"Goodbye.",ja:"さようなら。",ro:"Sayōnara."},
+  {c:"Greetings",t:"p",en:"See you later.",ja:"またね。",ro:"Mata ne."},
+  {c:"Greetings",t:"p",en:"Nice to meet you.",ja:"はじめまして。",ro:"Hajimemashite."},
+  {c:"Greetings",t:"p",en:"How are you?",ja:"お元気ですか？",ro:"Ogenki desu ka?"},
+  {c:"Greetings",t:"p",en:"I'm good.",ja:"元気です。",ro:"Genki desu."},
+  {c:"Greetings",t:"p",en:"Thanks for the meal. (before)",ja:"いただきます。",ro:"Itadakimasu."},
+  {c:"Greetings",t:"p",en:"Thanks for the meal. (after)",ja:"ごちそうさまでした。",ro:"Gochisōsama deshita."},
+  {c:"Greetings",t:"p",en:"Welcome! (from staff)",ja:"いらっしゃいませ。",ro:"Irasshaimase."},
+  {c:"Greetings",t:"p",en:"Take care.",ja:"お気をつけて。",ro:"Oki o tsukete."},
+  {c:"Greetings",t:"p",en:"Congratulations!",ja:"おめでとうございます！",ro:"Omedetō gozaimasu!"},
+  {c:"Greetings",t:"p",en:"Cheers! (toast)",ja:"乾杯！",ro:"Kanpai!"},
+
+  // ---------- Numbers & Time ----------
+  {c:"Numbers & Time",t:"w",en:"1",ja:"一（いち）",ro:"ichi"},
+  {c:"Numbers & Time",t:"w",en:"2",ja:"二（に）",ro:"ni"},
+  {c:"Numbers & Time",t:"w",en:"3",ja:"三（さん）",ro:"san"},
+  {c:"Numbers & Time",t:"w",en:"4",ja:"四（よん）",ro:"yon"},
+  {c:"Numbers & Time",t:"w",en:"5",ja:"五（ご）",ro:"go"},
+  {c:"Numbers & Time",t:"w",en:"6",ja:"六（ろく）",ro:"roku"},
+  {c:"Numbers & Time",t:"w",en:"7",ja:"七（なな）",ro:"nana"},
+  {c:"Numbers & Time",t:"w",en:"8",ja:"八（はち）",ro:"hachi"},
+  {c:"Numbers & Time",t:"w",en:"9",ja:"九（きゅう）",ro:"kyū"},
+  {c:"Numbers & Time",t:"w",en:"10",ja:"十（じゅう）",ro:"jū"},
+  {c:"Numbers & Time",t:"w",en:"100",ja:"百（ひゃく）",ro:"hyaku"},
+  {c:"Numbers & Time",t:"w",en:"1,000",ja:"千（せん）",ro:"sen"},
+  {c:"Numbers & Time",t:"w",en:"10,000",ja:"一万（いちまん）",ro:"ichiman"},
+  {c:"Numbers & Time",t:"w",en:"How much? (price)",ja:"いくらですか？",ro:"Ikura desu ka?"},
+  {c:"Numbers & Time",t:"p",en:"What time is it?",ja:"今、何時ですか？",ro:"Ima, nanji desu ka?"},
+  {c:"Numbers & Time",t:"p",en:"What time do you open?",ja:"何時に開きますか？",ro:"Nanji ni akimasu ka?"},
+  {c:"Numbers & Time",t:"p",en:"What time do you close?",ja:"何時に閉まりますか？",ro:"Nanji ni shimarimasu ka?"},
+  {c:"Numbers & Time",t:"w",en:"today",ja:"今日（きょう）",ro:"kyō"},
+  {c:"Numbers & Time",t:"w",en:"tomorrow",ja:"明日（あした）",ro:"ashita"},
+  {c:"Numbers & Time",t:"w",en:"yesterday",ja:"昨日（きのう）",ro:"kinō"},
+  {c:"Numbers & Time",t:"w",en:"now",ja:"今（いま）",ro:"ima"},
+  {c:"Numbers & Time",t:"w",en:"morning",ja:"朝（あさ）",ro:"asa"},
+  {c:"Numbers & Time",t:"w",en:"night",ja:"夜（よる）",ro:"yoru"},
+
+  // ---------- Directions & Transport ----------
+  {c:"Directions & Transport",t:"p",en:"Where is the station?",ja:"駅はどこですか？",ro:"Eki wa doko desu ka?"},
+  {c:"Directions & Transport",t:"p",en:"Where is the toilet?",ja:"トイレはどこですか？",ro:"Toire wa doko desu ka?"},
+  {c:"Directions & Transport",t:"p",en:"How do I get to ___ ?",ja:"___ へはどう行きますか？",ro:"___ e wa dō ikimasu ka?"},
+  {c:"Directions & Transport",t:"p",en:"Is it far from here?",ja:"ここから遠いですか？",ro:"Koko kara tōi desu ka?"},
+  {c:"Directions & Transport",t:"p",en:"Please take me to this address.",ja:"この住所までお願いします。",ro:"Kono jūsho made onegai shimasu."},
+  {c:"Directions & Transport",t:"p",en:"Which platform?",ja:"何番線ですか？",ro:"Nanban-sen desu ka?"},
+  {c:"Directions & Transport",t:"p",en:"Does this train go to ___ ?",ja:"この電車は ___ に行きますか？",ro:"Kono densha wa ___ ni ikimasu ka?"},
+  {c:"Directions & Transport",t:"p",en:"One ticket to ___, please.",ja:"___ まで一枚お願いします。",ro:"___ made ichimai onegai shimasu."},
+  {c:"Directions & Transport",t:"p",en:"Please stop here.",ja:"ここで止めてください。",ro:"Koko de tomete kudasai."},
+  {c:"Directions & Transport",t:"p",en:"Where can I buy tickets?",ja:"切符はどこで買えますか？",ro:"Kippu wa doko de kaemasu ka?"},
+  {c:"Directions & Transport",t:"p",en:"Is there Wi-Fi here?",ja:"ここにWi-Fiはありますか？",ro:"Koko ni Wai-Fai wa arimasu ka?"},
+  {c:"Directions & Transport",t:"w",en:"right",ja:"右（みぎ）",ro:"migi"},
+  {c:"Directions & Transport",t:"w",en:"left",ja:"左（ひだり）",ro:"hidari"},
+  {c:"Directions & Transport",t:"w",en:"straight",ja:"まっすぐ",ro:"massugu"},
+  {c:"Directions & Transport",t:"w",en:"station",ja:"駅（えき）",ro:"eki"},
+  {c:"Directions & Transport",t:"w",en:"train",ja:"電車（でんしゃ）",ro:"densha"},
+  {c:"Directions & Transport",t:"w",en:"bus",ja:"バス",ro:"basu"},
+  {c:"Directions & Transport",t:"w",en:"taxi",ja:"タクシー",ro:"takushī"},
+  {c:"Directions & Transport",t:"w",en:"airport",ja:"空港（くうこう）",ro:"kūkō"},
+  {c:"Directions & Transport",t:"w",en:"ticket",ja:"切符（きっぷ）",ro:"kippu"},
+  {c:"Directions & Transport",t:"w",en:"entrance",ja:"入口（いりぐち）",ro:"iriguchi"},
+  {c:"Directions & Transport",t:"w",en:"exit",ja:"出口（でぐち）",ro:"deguchi"},
+
+  // ---------- Restaurant ----------
+  {c:"Restaurant",t:"p",en:"A table for two, please.",ja:"二人です。",ro:"Futari desu."},
+  {c:"Restaurant",t:"p",en:"Menu, please.",ja:"メニューをお願いします。",ro:"Menyū o onegai shimasu."},
+  {c:"Restaurant",t:"p",en:"This one, please. (pointing)",ja:"これをください。",ro:"Kore o kudasai."},
+  {c:"Restaurant",t:"p",en:"Do you have an English menu?",ja:"英語のメニューはありますか？",ro:"Eigo no menyū wa arimasu ka?"},
+  {c:"Restaurant",t:"p",en:"What do you recommend?",ja:"おすすめは何ですか？",ro:"Osusume wa nan desu ka?"},
+  {c:"Restaurant",t:"p",en:"I'll have the same.",ja:"同じものをください。",ro:"Onaji mono o kudasai."},
+  {c:"Restaurant",t:"p",en:"Water, please.",ja:"お水をください。",ro:"Omizu o kudasai."},
+  {c:"Restaurant",t:"p",en:"Check, please.",ja:"お会計をお願いします。",ro:"Okaikei o onegai shimasu."},
+  {c:"Restaurant",t:"p",en:"Is this spicy?",ja:"これは辛いですか？",ro:"Kore wa karai desu ka?"},
+  {c:"Restaurant",t:"p",en:"I have an allergy.",ja:"アレルギーがあります。",ro:"Arerugī ga arimasu."},
+  {c:"Restaurant",t:"p",en:"I can't eat pork.",ja:"豚肉が食べられません。",ro:"Butaniku ga taberaremasen."},
+  {c:"Restaurant",t:"p",en:"I'm vegetarian.",ja:"ベジタリアンです。",ro:"Bejitarian desu."},
+  {c:"Restaurant",t:"p",en:"It's delicious!",ja:"おいしいです！",ro:"Oishii desu!"},
+  {c:"Restaurant",t:"p",en:"Can I pay by card?",ja:"カードで払えますか？",ro:"Kādo de haraemasu ka?"},
+  {c:"Restaurant",t:"p",en:"Separate checks, please.",ja:"別々でお願いします。",ro:"Betsubetsu de onegai shimasu."},
+  {c:"Restaurant",t:"w",en:"water",ja:"水（みず）",ro:"mizu"},
+  {c:"Restaurant",t:"w",en:"tea",ja:"お茶（おちゃ）",ro:"ocha"},
+  {c:"Restaurant",t:"w",en:"beer",ja:"ビール",ro:"bīru"},
+  {c:"Restaurant",t:"w",en:"rice",ja:"ご飯（ごはん）",ro:"gohan"},
+  {c:"Restaurant",t:"w",en:"chicken",ja:"鶏肉（とりにく）",ro:"toriniku"},
+  {c:"Restaurant",t:"w",en:"fish",ja:"魚（さかな）",ro:"sakana"},
+  {c:"Restaurant",t:"w",en:"delicious",ja:"おいしい",ro:"oishii"},
+
+  // ---------- Shopping ----------
+  {c:"Shopping",t:"p",en:"How much is this?",ja:"これはいくらですか？",ro:"Kore wa ikura desu ka?"},
+  {c:"Shopping",t:"p",en:"I'll take this.",ja:"これをください。",ro:"Kore o kudasai."},
+  {c:"Shopping",t:"p",en:"I'm just looking.",ja:"見ているだけです。",ro:"Mite iru dake desu."},
+  {c:"Shopping",t:"p",en:"Do you have a bigger size?",ja:"もっと大きいサイズはありますか？",ro:"Motto ōkii saizu wa arimasu ka?"},
+  {c:"Shopping",t:"p",en:"Can I try it on?",ja:"試着してもいいですか？",ro:"Shichaku shite mo ii desu ka?"},
+  {c:"Shopping",t:"p",en:"Do you accept credit cards?",ja:"クレジットカードは使えますか？",ro:"Kurejitto kādo wa tsukaemasu ka?"},
+  {c:"Shopping",t:"p",en:"Tax-free, please.",ja:"免税でお願いします。",ro:"Menzei de onegai shimasu."},
+  {c:"Shopping",t:"p",en:"Can I have a bag?",ja:"袋をもらえますか？",ro:"Fukuro o moraemasu ka?"},
+  {c:"Shopping",t:"p",en:"That's a bit expensive.",ja:"ちょっと高いです。",ro:"Chotto takai desu."},
+  {c:"Shopping",t:"p",en:"Where is the cashier?",ja:"レジはどこですか？",ro:"Reji wa doko desu ka?"},
+  {c:"Shopping",t:"w",en:"money",ja:"お金（おかね）",ro:"okane"},
+  {c:"Shopping",t:"w",en:"cheap",ja:"安い（やすい）",ro:"yasui"},
+  {c:"Shopping",t:"w",en:"expensive",ja:"高い（たかい）",ro:"takai"},
+  {c:"Shopping",t:"w",en:"receipt",ja:"レシート",ro:"reshīto"},
+  {c:"Shopping",t:"w",en:"cash",ja:"現金（げんきん）",ro:"genkin"},
+
+  // ---------- Convenience Store ----------
+  {c:"Convenience Store",t:"p",en:"A bag, please.",ja:"袋をください。",ro:"Fukuro o kudasai."},
+  {c:"Convenience Store",t:"p",en:"No bag, thank you.",ja:"袋はいりません。",ro:"Fukuro wa irimasen."},
+  {c:"Convenience Store",t:"p",en:"Please heat this up.",ja:"温めてください。",ro:"Atatamete kudasai."},
+  {c:"Convenience Store",t:"p",en:"Can I withdraw cash here (ATM)?",ja:"ここでお金をおろせますか？",ro:"Koko de okane o orosemasu ka?"},
+  {c:"Convenience Store",t:"p",en:"Chopsticks, please.",ja:"お箸をください。",ro:"Ohashi o kudasai."},
+  {c:"Convenience Store",t:"p",en:"I'll pay with IC card.",ja:"ICカードで払います。",ro:"Ai-Shī kādo de haraimasu."},
+  {c:"Convenience Store",t:"w",en:"convenience store",ja:"コンビニ",ro:"konbini"},
+  {c:"Convenience Store",t:"w",en:"plastic bag",ja:"袋（ふくろ）",ro:"fukuro"},
+  {c:"Convenience Store",t:"w",en:"chopsticks",ja:"お箸（おはし）",ro:"ohashi"},
+  {c:"Convenience Store",t:"w",en:"lunch box",ja:"お弁当（おべんとう）",ro:"obentō"},
+
+  // ---------- Hotel ----------
+  {c:"Hotel",t:"p",en:"I have a reservation.",ja:"予約しています。",ro:"Yoyaku shite imasu."},
+  {c:"Hotel",t:"p",en:"I'd like to check in.",ja:"チェックインをお願いします。",ro:"Chekkuin o onegai shimasu."},
+  {c:"Hotel",t:"p",en:"I'd like to check out.",ja:"チェックアウトをお願いします。",ro:"Chekkuauto o onegai shimasu."},
+  {c:"Hotel",t:"p",en:"What time is checkout?",ja:"チェックアウトは何時ですか？",ro:"Chekkuauto wa nanji desu ka?"},
+  {c:"Hotel",t:"p",en:"Can I leave my luggage?",ja:"荷物を預かってもらえますか？",ro:"Nimotsu o azukatte moraemasu ka?"},
+  {c:"Hotel",t:"p",en:"Is breakfast included?",ja:"朝食は付いていますか？",ro:"Chōshoku wa tsuite imasu ka?"},
+  {c:"Hotel",t:"p",en:"The Wi-Fi password, please.",ja:"Wi-Fiのパスワードをお願いします。",ro:"Wai-Fai no pasuwādo o onegai shimasu."},
+  {c:"Hotel",t:"p",en:"The room key, please.",ja:"部屋の鍵をお願いします。",ro:"Heya no kagi o onegai shimasu."},
+  {c:"Hotel",t:"p",en:"The air conditioner isn't working.",ja:"エアコンが動きません。",ro:"Eakon ga ugokimasen."},
+  {c:"Hotel",t:"w",en:"room",ja:"部屋（へや）",ro:"heya"},
+  {c:"Hotel",t:"w",en:"key",ja:"鍵（かぎ）",ro:"kagi"},
+  {c:"Hotel",t:"w",en:"luggage",ja:"荷物（にもつ）",ro:"nimotsu"},
+  {c:"Hotel",t:"w",en:"towel",ja:"タオル",ro:"taoru"},
+
+  // ---------- Sightseeing ----------
+  {c:"Sightseeing",t:"p",en:"Can I take a photo?",ja:"写真を撮ってもいいですか？",ro:"Shashin o totte mo ii desu ka?"},
+  {c:"Sightseeing",t:"p",en:"Could you take our photo?",ja:"写真を撮ってもらえますか？",ro:"Shashin o totte moraemasu ka?"},
+  {c:"Sightseeing",t:"p",en:"How much is admission?",ja:"入場料はいくらですか？",ro:"Nyūjōryō wa ikura desu ka?"},
+  {c:"Sightseeing",t:"p",en:"Is there an English guide?",ja:"英語のガイドはありますか？",ro:"Eigo no gaido wa arimasu ka?"},
+  {c:"Sightseeing",t:"p",en:"What time does it start?",ja:"何時に始まりますか？",ro:"Nanji ni hajimarimasu ka?"},
+  {c:"Sightseeing",t:"p",en:"That's beautiful!",ja:"きれいですね！",ro:"Kirei desu ne!"},
+  {c:"Sightseeing",t:"p",en:"Where is the information center?",ja:"案内所はどこですか？",ro:"Annaijo wa doko desu ka?"},
+  {c:"Sightseeing",t:"w",en:"temple",ja:"お寺（おてら）",ro:"otera"},
+  {c:"Sightseeing",t:"w",en:"shrine",ja:"神社（じんじゃ）",ro:"jinja"},
+  {c:"Sightseeing",t:"w",en:"castle",ja:"城（しろ）",ro:"shiro"},
+  {c:"Sightseeing",t:"w",en:"hot spring",ja:"温泉（おんせん）",ro:"onsen"},
+  {c:"Sightseeing",t:"w",en:"photo",ja:"写真（しゃしん）",ro:"shashin"},
+  {c:"Sightseeing",t:"w",en:"ticket (admission)",ja:"入場券（にゅうじょうけん）",ro:"nyūjōken"},
+
+  // ---------- Emergency & Health ----------
+  {c:"Emergency & Health",t:"p",en:"Help!",ja:"助けて！",ro:"Tasukete!"},
+  {c:"Emergency & Health",t:"p",en:"Please call the police.",ja:"警察を呼んでください。",ro:"Keisatsu o yonde kudasai."},
+  {c:"Emergency & Health",t:"p",en:"Please call an ambulance.",ja:"救急車を呼んでください。",ro:"Kyūkyūsha o yonde kudasai."},
+  {c:"Emergency & Health",t:"p",en:"I feel sick.",ja:"気分が悪いです。",ro:"Kibun ga warui desu."},
+  {c:"Emergency & Health",t:"p",en:"It hurts here.",ja:"ここが痛いです。",ro:"Koko ga itai desu."},
+  {c:"Emergency & Health",t:"p",en:"Where is a hospital?",ja:"病院はどこですか？",ro:"Byōin wa doko desu ka?"},
+  {c:"Emergency & Health",t:"p",en:"Where is a pharmacy?",ja:"薬局はどこですか？",ro:"Yakkyoku wa doko desu ka?"},
+  {c:"Emergency & Health",t:"p",en:"I lost my passport.",ja:"パスポートをなくしました。",ro:"Pasupōto o nakushimashita."},
+  {c:"Emergency & Health",t:"p",en:"I lost my wallet.",ja:"財布をなくしました。",ro:"Saifu o nakushimashita."},
+  {c:"Emergency & Health",t:"p",en:"Please call a doctor.",ja:"医者を呼んでください。",ro:"Isha o yonde kudasai."},
+  {c:"Emergency & Health",t:"w",en:"hospital",ja:"病院（びょういん）",ro:"byōin"},
+  {c:"Emergency & Health",t:"w",en:"police",ja:"警察（けいさつ）",ro:"keisatsu"},
+  {c:"Emergency & Health",t:"w",en:"medicine",ja:"薬（くすり）",ro:"kusuri"},
+  {c:"Emergency & Health",t:"w",en:"pain / hurts",ja:"痛い（いたい）",ro:"itai"},
+  {c:"Emergency & Health",t:"w",en:"passport",ja:"パスポート",ro:"pasupōto"},
+
+  // ---------- Polite / Small Talk ----------
+  {c:"Polite / Small Talk",t:"p",en:"May I ask you something?",ja:"ちょっといいですか？",ro:"Chotto ii desu ka?"},
+  {c:"Polite / Small Talk",t:"p",en:"I'm a tourist.",ja:"観光客です。",ro:"Kankōkyaku desu."},
+  {c:"Polite / Small Talk",t:"p",en:"I'm from America.",ja:"アメリカから来ました。",ro:"Amerika kara kimashita."},
+  {c:"Polite / Small Talk",t:"p",en:"This is my first time in Japan.",ja:"日本は初めてです。",ro:"Nihon wa hajimete desu."},
+  {c:"Polite / Small Talk",t:"p",en:"Japan is wonderful.",ja:"日本は素晴らしいです。",ro:"Nihon wa subarashii desu."},
+  {c:"Polite / Small Talk",t:"p",en:"Thank you for your kindness.",ja:"ご親切にありがとうございます。",ro:"Goshinsetsu ni arigatō gozaimasu."},
+  {c:"Polite / Small Talk",t:"p",en:"What's your name?",ja:"お名前は何ですか？",ro:"Onamae wa nan desu ka?"},
+  {c:"Polite / Small Talk",t:"p",en:"My name is ___.",ja:"私は ___ です。",ro:"Watashi wa ___ desu."},
+  {c:"Polite / Small Talk",t:"p",en:"Really?",ja:"本当ですか？",ro:"Hontō desu ka?"},
+  {c:"Polite / Small Talk",t:"p",en:"That's great!",ja:"いいですね！",ro:"Ii desu ne!"},
+
+  // ---------- Useful Words ----------
+  {c:"Useful Words",t:"w",en:"this",ja:"これ",ro:"kore"},
+  {c:"Useful Words",t:"w",en:"that",ja:"それ",ro:"sore"},
+  {c:"Useful Words",t:"w",en:"here",ja:"ここ",ro:"koko"},
+  {c:"Useful Words",t:"w",en:"there",ja:"そこ",ro:"soko"},
+  {c:"Useful Words",t:"w",en:"where",ja:"どこ",ro:"doko"},
+  {c:"Useful Words",t:"w",en:"what",ja:"何（なに）",ro:"nani"},
+  {c:"Useful Words",t:"w",en:"who",ja:"誰（だれ）",ro:"dare"},
+  {c:"Useful Words",t:"w",en:"when",ja:"いつ",ro:"itsu"},
+  {c:"Useful Words",t:"w",en:"why",ja:"なぜ",ro:"naze"},
+  {c:"Useful Words",t:"w",en:"how much",ja:"いくら",ro:"ikura"},
+  {c:"Useful Words",t:"w",en:"big",ja:"大きい（おおきい）",ro:"ōkii"},
+  {c:"Useful Words",t:"w",en:"small",ja:"小さい（ちいさい）",ro:"chiisai"},
+  {c:"Useful Words",t:"w",en:"hot",ja:"暑い（あつい）",ro:"atsui"},
+  {c:"Useful Words",t:"w",en:"cold",ja:"寒い（さむい）",ro:"samui"},
+  {c:"Useful Words",t:"w",en:"good",ja:"いい",ro:"ii"},
+  {c:"Useful Words",t:"w",en:"bad",ja:"悪い（わるい）",ro:"warui"},
+  {c:"Useful Words",t:"w",en:"a little",ja:"少し（すこし）",ro:"sukoshi"},
+  {c:"Useful Words",t:"w",en:"a lot",ja:"たくさん",ro:"takusan"},
+  {c:"Useful Words",t:"w",en:"restroom / toilet",ja:"トイレ",ro:"toire"},
+  {c:"Useful Words",t:"w",en:"restaurant",ja:"レストラン",ro:"resutoran"},
+
+  // ========== EXPANSION ==========
+  // ---- Basics (more) ----
+  {c:"Basics",t:"p",en:"Yes, please.",ja:"はい、お願いします。",ro:"Hai, onegai shimasu."},
+  {c:"Basics",t:"p",en:"No, thank you.",ja:"いいえ、けっこうです。",ro:"Iie, kekkō desu."},
+  {c:"Basics",t:"p",en:"Maybe.",ja:"たぶん。",ro:"Tabun."},
+  {c:"Basics",t:"p",en:"I know.",ja:"知っています。",ro:"Shitte imasu."},
+  {c:"Basics",t:"p",en:"I don't know.",ja:"知りません。",ro:"Shirimasen."},
+  {c:"Basics",t:"p",en:"Is that so?",ja:"そうですか。",ro:"Sō desu ka."},
+  {c:"Basics",t:"p",en:"That's right.",ja:"その通りです。",ro:"Sono tōri desu."},
+  {c:"Basics",t:"p",en:"Wait a moment.",ja:"ちょっと待ってください。",ro:"Chotto matte kudasai."},
+  {c:"Basics",t:"p",en:"Let's go.",ja:"行きましょう。",ro:"Ikimashō."},
+  {c:"Basics",t:"p",en:"Is this OK?",ja:"これでいいですか？",ro:"Kore de ii desu ka?"},
+  {c:"Basics",t:"p",en:"Once more, please.",ja:"もう一回お願いします。",ro:"Mō ikkai onegai shimasu."},
+  {c:"Basics",t:"p",en:"Could you write it down?",ja:"書いてもらえますか？",ro:"Kaite moraemasu ka?"},
+  {c:"Basics",t:"p",en:"Please point on the map.",ja:"地図で示してください。",ro:"Chizu de shimeshite kudasai."},
+  {c:"Basics",t:"p",en:"I'll do my best.",ja:"がんばります。",ro:"Ganbarimasu."},
+
+  // ---- Greetings (more) ----
+  {c:"Greetings",t:"p",en:"Long time no see.",ja:"お久しぶりです。",ro:"Ohisashiburi desu."},
+  {c:"Greetings",t:"p",en:"See you tomorrow.",ja:"また明日。",ro:"Mata ashita."},
+  {c:"Greetings",t:"p",en:"Thank you very much.",ja:"どうもありがとうございます。",ro:"Dōmo arigatō gozaimasu."},
+  {c:"Greetings",t:"p",en:"Excuse me for leaving. (goodbye at work)",ja:"お先に失礼します。",ro:"Osaki ni shitsurei shimasu."},
+  {c:"Greetings",t:"p",en:"Please treat me well.",ja:"よろしくお願いします。",ro:"Yoroshiku onegai shimasu."},
+  {c:"Greetings",t:"p",en:"Welcome back.",ja:"おかえりなさい。",ro:"Okaeri nasai."},
+  {c:"Greetings",t:"p",en:"I'm home.",ja:"ただいま。",ro:"Tadaima."},
+  {c:"Greetings",t:"p",en:"I'm leaving. (see you)",ja:"いってきます。",ro:"Ittekimasu."},
+  {c:"Greetings",t:"p",en:"Have a good day.",ja:"よい一日を。",ro:"Yoi ichinichi o."},
+
+  // ---- Numbers & Time (more) ----
+  {c:"Numbers & Time",t:"w",en:"20",ja:"二十（にじゅう）",ro:"nijū"},
+  {c:"Numbers & Time",t:"w",en:"50",ja:"五十（ごじゅう）",ro:"gojū"},
+  {c:"Numbers & Time",t:"w",en:"500",ja:"五百（ごひゃく）",ro:"gohyaku"},
+  {c:"Numbers & Time",t:"w",en:"5,000",ja:"五千（ごせん）",ro:"gosen"},
+  {c:"Numbers & Time",t:"w",en:"one (item)",ja:"一つ（ひとつ）",ro:"hitotsu"},
+  {c:"Numbers & Time",t:"w",en:"two (items)",ja:"二つ（ふたつ）",ro:"futatsu"},
+  {c:"Numbers & Time",t:"w",en:"three (items)",ja:"三つ（みっつ）",ro:"mittsu"},
+  {c:"Numbers & Time",t:"w",en:"one person",ja:"一人（ひとり）",ro:"hitori"},
+  {c:"Numbers & Time",t:"w",en:"two people",ja:"二人（ふたり）",ro:"futari"},
+  {c:"Numbers & Time",t:"p",en:"For how many people?",ja:"何名様ですか？",ro:"Nanmei-sama desu ka?"},
+  {c:"Numbers & Time",t:"w",en:"Monday",ja:"月曜日（げつようび）",ro:"getsuyōbi"},
+  {c:"Numbers & Time",t:"w",en:"Saturday",ja:"土曜日（どようび）",ro:"doyōbi"},
+  {c:"Numbers & Time",t:"w",en:"Sunday",ja:"日曜日（にちようび）",ro:"nichiyōbi"},
+  {c:"Numbers & Time",t:"w",en:"minute",ja:"分（ふん）",ro:"fun"},
+  {c:"Numbers & Time",t:"w",en:"hour / o'clock",ja:"時（じ）",ro:"ji"},
+  {c:"Numbers & Time",t:"p",en:"From what time?",ja:"何時からですか？",ro:"Nanji kara desu ka?"},
+  {c:"Numbers & Time",t:"p",en:"Until what time?",ja:"何時までですか？",ro:"Nanji made desu ka?"},
+
+  // ---- Directions & Transport (more) ----
+  {c:"Directions & Transport",t:"p",en:"Where am I now? (on map)",ja:"今どこですか？",ro:"Ima doko desu ka?"},
+  {c:"Directions & Transport",t:"p",en:"How long does it take?",ja:"どのくらいかかりますか？",ro:"Dono kurai kakarimasu ka?"},
+  {c:"Directions & Transport",t:"p",en:"Which line should I take?",ja:"どの路線に乗ればいいですか？",ro:"Dono rosen ni noreba ii desu ka?"},
+  {c:"Directions & Transport",t:"p",en:"Where do I transfer?",ja:"どこで乗り換えますか？",ro:"Doko de norikaemasu ka?"},
+  {c:"Directions & Transport",t:"p",en:"Is this the right way to ___ ?",ja:"___ はこっちで合っていますか？",ro:"___ wa kocchi de atte imasu ka?"},
+  {c:"Directions & Transport",t:"p",en:"Please write the fare.",ja:"料金を書いてください。",ro:"Ryōkin o kaite kudasai."},
+  {c:"Directions & Transport",t:"p",en:"Where is the taxi stand?",ja:"タクシー乗り場はどこですか？",ro:"Takushī noriba wa doko desu ka?"},
+  {c:"Directions & Transport",t:"p",en:"Please hurry.",ja:"急いでください。",ro:"Isoide kudasai."},
+  {c:"Directions & Transport",t:"w",en:"subway",ja:"地下鉄（ちかてつ）",ro:"chikatetsu"},
+  {c:"Directions & Transport",t:"w",en:"bullet train",ja:"新幹線（しんかんせん）",ro:"shinkansen"},
+  {c:"Directions & Transport",t:"w",en:"platform",ja:"ホーム",ro:"hōmu"},
+  {c:"Directions & Transport",t:"w",en:"north",ja:"北（きた）",ro:"kita"},
+  {c:"Directions & Transport",t:"w",en:"south",ja:"南（みなみ）",ro:"minami"},
+  {c:"Directions & Transport",t:"w",en:"east",ja:"東（ひがし）",ro:"higashi"},
+  {c:"Directions & Transport",t:"w",en:"west",ja:"西（にし）",ro:"nishi"},
+  {c:"Directions & Transport",t:"w",en:"map",ja:"地図（ちず）",ro:"chizu"},
+
+  // ---- Restaurant (more) ----
+  {c:"Restaurant",t:"p",en:"Do you have a seat available?",ja:"席は空いていますか？",ro:"Seki wa aite imasu ka?"},
+  {c:"Restaurant",t:"p",en:"Non-smoking seat, please.",ja:"禁煙席をお願いします。",ro:"Kin'en-seki o onegai shimasu."},
+  {c:"Restaurant",t:"p",en:"Could I get one more?",ja:"もう一つもらえますか？",ro:"Mō hitotsu moraemasu ka?"},
+  {c:"Restaurant",t:"p",en:"Not too spicy, please.",ja:"辛さ控えめでお願いします。",ro:"Karasa hikaeme de onegai shimasu."},
+  {c:"Restaurant",t:"p",en:"Is this raw?",ja:"これは生ですか？",ro:"Kore wa nama desu ka?"},
+  {c:"Restaurant",t:"p",en:"Can I take it out?",ja:"持ち帰りできますか？",ro:"Mochikaeri dekimasu ka?"},
+  {c:"Restaurant",t:"p",en:"For here, please.",ja:"ここで食べます。",ro:"Koko de tabemasu."},
+  {c:"Restaurant",t:"p",en:"To go, please.",ja:"持ち帰りでお願いします。",ro:"Mochikaeri de onegai shimasu."},
+  {c:"Restaurant",t:"p",en:"I can't eat this.",ja:"これは食べられません。",ro:"Kore wa taberaremasen."},
+  {c:"Restaurant",t:"p",en:"No wasabi, please.",ja:"わさび抜きでお願いします。",ro:"Wasabi nuki de onegai shimasu."},
+  {c:"Restaurant",t:"p",en:"I'm full.",ja:"お腹いっぱいです。",ro:"Onaka ippai desu."},
+  {c:"Restaurant",t:"w",en:"chopsticks",ja:"箸（はし）",ro:"hashi"},
+  {c:"Restaurant",t:"w",en:"fork",ja:"フォーク",ro:"fōku"},
+  {c:"Restaurant",t:"w",en:"spoon",ja:"スプーン",ro:"supūn"},
+  {c:"Restaurant",t:"w",en:"noodles (ramen)",ja:"ラーメン",ro:"rāmen"},
+  {c:"Restaurant",t:"w",en:"sushi",ja:"寿司（すし）",ro:"sushi"},
+  {c:"Restaurant",t:"w",en:"vegetables",ja:"野菜（やさい）",ro:"yasai"},
+  {c:"Restaurant",t:"w",en:"pork",ja:"豚肉（ぶたにく）",ro:"butaniku"},
+  {c:"Restaurant",t:"w",en:"beef",ja:"牛肉（ぎゅうにく）",ro:"gyūniku"},
+  {c:"Restaurant",t:"w",en:"coffee",ja:"コーヒー",ro:"kōhī"},
+  {c:"Restaurant",t:"w",en:"cold water (ice water)",ja:"お冷や（おひや）",ro:"ohiya"},
+
+  // ---- Shopping (more) ----
+  {c:"Shopping",t:"p",en:"Do you have this in another color?",ja:"別の色はありますか？",ro:"Betsu no iro wa arimasu ka?"},
+  {c:"Shopping",t:"p",en:"Where is the fitting room?",ja:"試着室はどこですか？",ro:"Shichakushitsu wa doko desu ka?"},
+  {c:"Shopping",t:"p",en:"Can you gift-wrap it?",ja:"プレゼント用に包めますか？",ro:"Purezento-yō ni tsutsumemasu ka?"},
+  {c:"Shopping",t:"p",en:"I'd like a refund.",ja:"返金してほしいです。",ro:"Henkin shite hoshii desu."},
+  {c:"Shopping",t:"p",en:"Can I exchange this?",ja:"交換できますか？",ro:"Kōkan dekimasu ka?"},
+  {c:"Shopping",t:"p",en:"Is this on sale?",ja:"これはセール中ですか？",ro:"Kore wa sēru-chū desu ka?"},
+  {c:"Shopping",t:"p",en:"Do you take this IC card / QR pay?",ja:"この電子マネーは使えますか？",ro:"Kono denshi manē wa tsukaemasu ka?"},
+  {c:"Shopping",t:"w",en:"size",ja:"サイズ",ro:"saizu"},
+  {c:"Shopping",t:"w",en:"color",ja:"色（いろ）",ro:"iro"},
+  {c:"Shopping",t:"w",en:"souvenir",ja:"お土産（おみやげ）",ro:"omiyage"},
+  {c:"Shopping",t:"w",en:"discount",ja:"割引（わりびき）",ro:"waribiki"},
+
+  // ---- Convenience Store (more) ----
+  {c:"Convenience Store",t:"p",en:"Where are the drinks?",ja:"飲み物はどこですか？",ro:"Nomimono wa doko desu ka?"},
+  {c:"Convenience Store",t:"p",en:"Do you have stamps?",ja:"切手はありますか？",ro:"Kitte wa arimasu ka?"},
+  {c:"Convenience Store",t:"p",en:"Can I print here?",ja:"ここで印刷できますか？",ro:"Koko de insatsu dekimasu ka?"},
+  {c:"Convenience Store",t:"p",en:"A spoon, please.",ja:"スプーンをください。",ro:"Supūn o kudasai."},
+  {c:"Convenience Store",t:"w",en:"rice ball",ja:"おにぎり",ro:"onigiri"},
+  {c:"Convenience Store",t:"w",en:"water bottle",ja:"ペットボトル",ro:"petto botoru"},
+
+  // ---- Hotel (more) ----
+  {c:"Hotel",t:"p",en:"Do you have a room available tonight?",ja:"今夜空いている部屋はありますか？",ro:"Kon'ya aite iru heya wa arimasu ka?"},
+  {c:"Hotel",t:"p",en:"How much per night?",ja:"一泊いくらですか？",ro:"Ippaku ikura desu ka?"},
+  {c:"Hotel",t:"p",en:"Can I have an extra towel?",ja:"タオルをもう一枚もらえますか？",ro:"Taoru o mō ichimai moraemasu ka?"},
+  {c:"Hotel",t:"p",en:"Please clean the room.",ja:"部屋を掃除してください。",ro:"Heya o sōji shite kudasai."},
+  {c:"Hotel",t:"p",en:"Can I extend my stay?",ja:"延泊できますか？",ro:"Enpaku dekimasu ka?"},
+  {c:"Hotel",t:"p",en:"Please call a taxi for me.",ja:"タクシーを呼んでください。",ro:"Takushī o yonde kudasai."},
+  {c:"Hotel",t:"w",en:"reservation",ja:"予約（よやく）",ro:"yoyaku"},
+  {c:"Hotel",t:"w",en:"front desk",ja:"フロント",ro:"furonto"},
+  {c:"Hotel",t:"w",en:"bath",ja:"お風呂（おふろ）",ro:"ofuro"},
+
+  // ---- Sightseeing (more) ----
+  {c:"Sightseeing",t:"p",en:"Is photography allowed?",ja:"撮影してもいいですか？",ro:"Satsuei shite mo ii desu ka?"},
+  {c:"Sightseeing",t:"p",en:"Where is the entrance?",ja:"入口はどこですか？",ro:"Iriguchi wa doko desu ka?"},
+  {c:"Sightseeing",t:"p",en:"Is there a discount for students?",ja:"学生割引はありますか？",ro:"Gakusei waribiki wa arimasu ka?"},
+  {c:"Sightseeing",t:"p",en:"What is this place?",ja:"ここは何ですか？",ro:"Koko wa nan desu ka?"},
+  {c:"Sightseeing",t:"p",en:"Can I go inside?",ja:"中に入れますか？",ro:"Naka ni hairemasu ka?"},
+  {c:"Sightseeing",t:"w",en:"park",ja:"公園（こうえん）",ro:"kōen"},
+  {c:"Sightseeing",t:"w",en:"museum",ja:"美術館（びじゅつかん）",ro:"bijutsukan"},
+  {c:"Sightseeing",t:"w",en:"garden",ja:"庭園（ていえん）",ro:"teien"},
+  {c:"Sightseeing",t:"w",en:"souvenir shop",ja:"お土産屋（おみやげや）",ro:"omiyage-ya"},
+
+  // ---- Emergency & Health (more) ----
+  {c:"Emergency & Health",t:"p",en:"I have a fever.",ja:"熱があります。",ro:"Netsu ga arimasu."},
+  {c:"Emergency & Health",t:"p",en:"I have a headache.",ja:"頭が痛いです。",ro:"Atama ga itai desu."},
+  {c:"Emergency & Health",t:"p",en:"I have a stomachache.",ja:"お腹が痛いです。",ro:"Onaka ga itai desu."},
+  {c:"Emergency & Health",t:"p",en:"Is there a doctor who speaks English?",ja:"英語が話せる医者はいますか？",ro:"Eigo ga hanaseru isha wa imasu ka?"},
+  {c:"Emergency & Health",t:"p",en:"I need this medicine.",ja:"この薬が必要です。",ro:"Kono kusuri ga hitsuyō desu."},
+  {c:"Emergency & Health",t:"p",en:"Please help, it's an emergency.",ja:"緊急です、助けてください。",ro:"Kinkyū desu, tasukete kudasai."},
+  {c:"Emergency & Health",t:"p",en:"I'm allergic to this.",ja:"これにアレルギーがあります。",ro:"Kore ni arerugī ga arimasu."},
+  {c:"Emergency & Health",t:"w",en:"fever",ja:"熱（ねつ）",ro:"netsu"},
+  {c:"Emergency & Health",t:"w",en:"pharmacy",ja:"薬局（やっきょく）",ro:"yakkyoku"},
+  {c:"Emergency & Health",t:"w",en:"ambulance",ja:"救急車（きゅうきゅうしゃ）",ro:"kyūkyūsha"},
+  {c:"Emergency & Health",t:"w",en:"embassy",ja:"大使館（たいしかん）",ro:"taishikan"},
+
+  // ---- Polite / Small Talk (more) ----
+  {c:"Polite / Small Talk",t:"p",en:"Where are you from? (asking)",ja:"どちらから来ましたか？",ro:"Dochira kara kimashita ka?"},
+  {c:"Polite / Small Talk",t:"p",en:"I like Japan very much.",ja:"日本が大好きです。",ro:"Nihon ga daisuki desu."},
+  {c:"Polite / Small Talk",t:"p",en:"The food is delicious.",ja:"料理がおいしいです。",ro:"Ryōri ga oishii desu."},
+  {c:"Polite / Small Talk",t:"p",en:"You're very kind.",ja:"とても親切ですね。",ro:"Totemo shinsetsu desu ne."},
+  {c:"Polite / Small Talk",t:"p",en:"Can we take a photo together?",ja:"一緒に写真を撮れますか？",ro:"Issho ni shashin o toremasu ka?"},
+  {c:"Polite / Small Talk",t:"p",en:"I had a great time.",ja:"楽しかったです。",ro:"Tanoshikatta desu."},
+  {c:"Polite / Small Talk",t:"p",en:"See you again.",ja:"また会いましょう。",ro:"Mata aimashō."},
+
+  // ---- Useful Words (more) ----
+  {c:"Useful Words",t:"w",en:"open (shop)",ja:"営業中（えいぎょうちゅう）",ro:"eigyō-chū"},
+  {c:"Useful Words",t:"w",en:"closed",ja:"閉店（へいてん）",ro:"heiten"},
+  {c:"Useful Words",t:"w",en:"free (no charge)",ja:"無料（むりょう）",ro:"muryō"},
+  {c:"Useful Words",t:"w",en:"forbidden",ja:"禁止（きんし）",ro:"kinshi"},
+  {c:"Useful Words",t:"w",en:"danger",ja:"危険（きけん）",ro:"kiken"},
+  {c:"Useful Words",t:"w",en:"caution",ja:"注意（ちゅうい）",ro:"chūi"},
+  {c:"Useful Words",t:"w",en:"男 (men's)",ja:"男（おとこ）",ro:"otoko"},
+  {c:"Useful Words",t:"w",en:"女 (women's)",ja:"女（おんな）",ro:"onna"},
+  {c:"Useful Words",t:"w",en:"emergency exit",ja:"非常口（ひじょうぐち）",ro:"hijōguchi"},
+  {c:"Useful Words",t:"w",en:"elevator",ja:"エレベーター",ro:"erebētā"},
+  {c:"Useful Words",t:"w",en:"convenience",ja:"便利（べんり）",ro:"benri"},
+  {c:"Useful Words",t:"w",en:"tired",ja:"疲れた（つかれた）",ro:"tsukareta"},
+  {c:"Useful Words",t:"w",en:"hungry",ja:"お腹がすいた（おなかがすいた）",ro:"onaka ga suita"},
+  {c:"Useful Words",t:"w",en:"cute",ja:"かわいい",ro:"kawaii"},
+  {c:"Useful Words",t:"w",en:"amazing",ja:"すごい",ro:"sugoi"},
+];
+
+if (Array.isArray(window.PHRASE_EXTRA)) DATA.push(...window.PHRASE_EXTRA);
+DATA.forEach((it, i) => { if (!it.lv) it.lv = i < 196 ? 1 : 2; });
+
+const LV_LABEL = {1:"CORE",2:"USEFUL",3:"EXTRA"};
+const MARK={
+  talk:'<svg class="mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M4 12c3-6 13-6 16 0M8 14c2 3 6 3 8 0"/></svg>',
+  eat:'<svg class="mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M5 11h14v2a7 7 0 0 1-14 0zM8 7v4M12 6v5M16 7v4"/></svg>',
+  train:'<svg class="mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><rect x="5" y="4" width="14" height="12" rx="2"/><path d="M5 12h14M8 20l2-4h4l2 4"/></svg>',
+  shop:'<svg class="mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M4 8h16l-1 11H5L4 8zM8 8V6a4 4 0 0 1 8 0v2"/></svg>',
+  conv:'<svg class="mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M4 20V9l8-5 8 5v11H4zM10 20v-6h4v6"/></svg>',
+  sleep:'<svg class="mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M4 18V9h16v9M4 13h16M8 9V6h3v3"/></svg>',
+  see:'<svg class="mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M4 18h16M6 18V9l6-4 6 4v9"/></svg>',
+  help:'<svg class="mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><circle cx="12" cy="12" r="8"/><path d="M12 8v5M12 16.2v.4"/></svg>',
+  air:'<svg class="mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M3 13h8l8-7 2 1-5 8h5l-2 2H3z"/></svg>',
+  onsen:'<svg class="mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M4 16h16M7 16c0-3 3-5 5-5s5 2 5 5M9 8c0 1.2-1 2-1 3M15 8c0 1.2 1 2 1 3"/></svg>',
+  money:'<svg class="mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><rect x="3" y="6" width="18" height="12" rx="2"/><path d="M12 10v4M8 12h8"/></svg>',
+  night:'<svg class="mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M8 19c5 0 8-4 8-9 3 1 4 4 3 7-4 4-11 4-11 2z"/></svg>',
+  post:'<svg class="mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><rect x="3" y="6" width="18" height="12" rx="1"/><path d="M3 8l9 6 9-6"/></svg>',
+  drug:'<svg class="mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><rect x="7" y="3" width="10" height="18" rx="2"/><path d="M12 7v6M9 10h6"/></svg>',
+  cafe:'<svg class="mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M5 8h11v7a4 4 0 0 1-4 4H9a4 4 0 0 1-4-4V8zM16 10h2a3 3 0 0 1 0 6h-2"/></svg>',
+  family:'<svg class="mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><circle cx="8" cy="8" r="2.2"/><circle cx="16" cy="8" r="2.2"/><path d="M4 19c1-4 3-6 4-6s3 2 4 6M12 19c1-4 3-6 4-6s3 2 4 6"/></svg>',
+  drive:'<svg class="mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M4 14h16l-2-5H6zM6 17h.01M18 17h.01"/></svg>',
+  hike:'<svg class="mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M3 19l7-12 4 7 3-5 4 10H3z"/></svg>',
+};
+const USE_SCENES = [
+  {id:"all", label:"All", sub:"Useful phrases", cats:null},
+  {id:"talk", label:"Greetings", sub:"Thanks and sorry", cats:["Basics","Greetings","Polite / Small Talk"]},
+  {id:"air", label:"Airport", sub:"Immigration and bags", cats:["Airport"]},
+  {id:"eat", label:"Restaurant", sub:"Order, bill, allergies", cats:["Restaurant"]},
+  {id:"train", label:"Station & taxi", sub:"Tickets and platforms", cats:["Directions & Transport"]},
+  {id:"shop", label:"Shopping", sub:"Price, tax-free, size", cats:["Shopping"]},
+  {id:"conv", label:"Convenience store", sub:"At the register", cats:["Convenience Store"]},
+  {id:"sleep", label:"Hotel", sub:"Check-in and Wi-Fi", cats:["Hotel"]},
+  {id:"onsen", label:"Onsen", sub:"Baths and tattoos", cats:["Onsen & Bath"]},
+  {id:"see", label:"Sightseeing", sub:"Photos and tickets", cats:["Sightseeing"]},
+  {id:"money", label:"Money & phone", sub:"ATM, SIM, Wi-Fi", cats:["Money & Phone"]},
+  {id:"night", label:"Nightlife", sub:"Bars and last trains", cats:["Nightlife"]},
+  {id:"post", label:"Post & luggage", sub:"Shipping and lockers", cats:["Post & Luggage"]},
+  {id:"drug", label:"Pharmacy", sub:"Medicine and symptoms", cats:["Pharmacy"]},
+  {id:"cafe", label:"Cafe", sub:"Coffee, Wi-Fi, seats", cats:["Cafe"]},
+  {id:"family", label:"Family", sub:"Kids and strollers", cats:["Family"]},
+  {id:"drive", label:"Driving", sub:"Rental car and parking", cats:["Driving"]},
+  {id:"hike", label:"Outdoors", sub:"Hiking and weather", cats:["Outdoors"]},
+  {id:"help", label:"Emergency", sub:"Hospital and police", cats:["Emergency & Health"]},
+];
+function paperTap(){
+  try{
+    const AC=window.AudioContext||window.webkitAudioContext;
+    if(!AC) return;
+    if(!paperTap.ac) paperTap.ac=new AC();
+    const a=paperTap.ac, o=a.createOscillator(), g=a.createGain();
+    o.type="triangle"; o.frequency.value=210;
+    g.gain.setValueAtTime(0.035,a.currentTime);
+    g.gain.exponentialRampToValueAtTime(0.001,a.currentTime+0.07);
+    o.connect(g); g.connect(a.destination); o.start(); o.stop(a.currentTime+0.08);
+  }catch(e){}
+}
+const PIN_KEY="nyanchu_pins";
+let useScene="all", useQuery="";
+function loadPins(){try{return new Set(JSON.parse(localStorage.getItem(PIN_KEY)||"[]"));}catch(e){return new Set();}}
+function savePins(s){localStorage.setItem(PIN_KEY,JSON.stringify([...s]));}
+
+/* ---- State ---- */
+let curCat = "All";
+let curLv = 0;
+let curType = "all";
+let query = "";
+let showRo = true;
+let hideKnown = false;
+const STATS_KEY="nyanchu_stats";
+function todayStr(){return new Date().toISOString().slice(0,10);}
+function loadStats(){try{return JSON.parse(localStorage.getItem(STATS_KEY)||"{}");}catch(e){return {};}}
+function saveStats(s){localStorage.setItem(STATS_KEY,JSON.stringify(s));}
+function markStudy(){
+  const s=loadStats();
+  const t=todayStr();
+  if(s.lastDay===t) return;
+  const y=new Date(); y.setDate(y.getDate()-1);
+  const ymd=y.toISOString().slice(0,10);
+  s.streak = (s.lastDay===ymd ? (s.streak||0)+1 : 1);
+  s.lastDay=t;
+  saveStats(s);
+}
+
+/* ---- TTS ---- */
+let jaVoice = null;
+function pickVoice(){
+  const voices = window.speechSynthesis ? speechSynthesis.getVoices() : [];
+  jaVoice = voices.find(v=>v.lang==="ja-JP") || voices.find(v=>v.lang && v.lang.startsWith("ja")) || null;
+  const hasSpeech = "speechSynthesis" in window;
+  document.getElementById("warn").classList.toggle("show", hasSpeech && voices.length>0 && !jaVoice);
+}
+if("speechSynthesis" in window){
+  pickVoice();
+  speechSynthesis.onvoiceschanged = pickVoice;
+}
+function speak(text){
+  if(!("speechSynthesis" in window)) return;
+  speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = "ja-JP";
+  if(jaVoice) u.voice = jaVoice;
+  u.rate = 0.9;
+  speechSynthesis.speak(u);
+}
+// strip furigana in ( ) for cleaner speech, keep kanji
+function speakText(ja){
+  return ja.replace(/（[^）]*）/g,"").replace(/___/g,"");
+}
+
+/* ---- Render ---- */
+const catsEl = document.getElementById("cats");
+const listEl = document.getElementById("list");
+const countEl = document.getElementById("count");
+
+function buildLevels(){
+  const el = document.getElementById("levels");
+  if(!el) return;
+  const opts = [[0,"All levels"],[1,"① Core"],[2,"② Useful"],[3,"③ Extra"]];
+  el.innerHTML = "";
+  opts.forEach(([id,label])=>{
+    const b = document.createElement("button");
+    b.textContent = label;
+    if(id===curLv) b.classList.add("on");
+    b.onclick = ()=>{ curLv=id; render(); [...el.children].forEach(x=>x.classList.remove("on")); b.classList.add("on"); };
+    el.appendChild(b);
+  });
+}
+
+function buildCats(){
+  const all = ["All", ...CATS];
+  catsEl.innerHTML = "";
+  all.forEach(c=>{
+    const b = document.createElement("button");
+    b.textContent = c;
+    if(c===curCat) b.classList.add("on");
+    b.onclick = ()=>{ curCat=c; render(); [...catsEl.children].forEach(x=>x.classList.remove("on")); b.classList.add("on"); };
+    catsEl.appendChild(b);
+  });
+}
+
+function poolFilter(item, cat, lv){
+  if(lv && item.lv!==lv) return false;
+  if(cat && cat!=="All" && item.c!==cat) return false;
+  return true;
+}
+
+function match(item){
+  if(curType!=="all" && item.t!==curType) return false;
+  if(!poolFilter(item, curCat, curLv)) return false;
+  if(hideKnown && loadKnown().has(keyOf(item))) return false;
+  if(query){
+    const q = query.toLowerCase();
+    if(!(item.en.toLowerCase().includes(q) || item.ja.includes(query) || item.ro.toLowerCase().includes(q))) return false;
+  }
+  return true;
+}
+
+function render(){
+  const items = DATA.filter(match);
+  countEl.textContent = `${items.length} ${items.length===1?"entry":"entries"}`;
+  listEl.className = showRo ? "" : "hide-ro";
+  if(items.length===0){
+    listEl.innerHTML = `<div class="empty">No results. Try another word.</div>`;
+    return;
+  }
+  listEl.innerHTML = "";
+  items.forEach(it=>{
+    const card = document.createElement("div");
+    card.className = "card";
+    card.innerHTML = `
+      <div class="body">
+        <div class="en">${escapeHtml(it.en)}</div>
+        <div class="ja">${escapeHtml(it.ja)}</div>
+        <div class="ro">${escapeHtml(it.ro)}</div>
+        <span class="tag ${it.t==='w'?'w':''}">${it.t==='w'?'WORD':'PHRASE'}</span>
+        <span class="tag lv${it.lv||1}">${LV_LABEL[it.lv||1]}</span>
+      </div>
+      <button class="speak" aria-label="Play pronunciation">🔊</button>`;
+    const doSpeak = (e)=>{ e && e.stopPropagation(); speak(speakText(it.ja)); };
+    card.querySelector(".speak").onclick = doSpeak;
+    card.onclick = ()=>speak(speakText(it.ja));
+    listEl.appendChild(card);
+  });
+}
+
+function escapeHtml(s){return s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));}
+
+/* ---- Events ---- */
+document.getElementById("q").addEventListener("input", e=>{ query=e.target.value.trim(); render(); });
+document.getElementById("typeSeg").addEventListener("click", e=>{
+  if(e.target.tagName!=="BUTTON") return;
+  curType = e.target.dataset.t;
+  [...e.currentTarget.children].forEach(b=>b.classList.remove("on"));
+  e.target.classList.add("on");
+  render();
+});
+document.getElementById("roToggle").addEventListener("change", e=>{ showRo=e.target.checked; render(); });
+document.getElementById("hideKnown").addEventListener("change", e=>{ hideKnown=e.target.checked; render(); });
+document.getElementById("useQ").addEventListener("input", e=>{ useQuery=e.target.value.trim(); renderUse(); });
+
+/* ================= QUIZ ================= */
+const qCatSel = document.getElementById('qCat');
+let qDir="en2ja", qLen=10, quiz=[], qi=0, qScore=0, qWrong=[];
+
+function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
+function promptText(it,dir){return dir==="en2ja"?it.en:it.ja;}
+function answerText(it,dir){return dir==="en2ja"?it.ja:it.en;}
+const BEST_KEY="nyanchu_quiz_best";
+
+function fillLvSelect(sel){
+  sel.innerHTML="";
+  [["0","All levels"],["1","① Core — must-know"],["2","② Useful — next step"],["3","③ Extra — more vocab"]].forEach(([v,t])=>{
+    const o=document.createElement("option");o.value=v;o.textContent=t;sel.appendChild(o);
+  });
+}
+function fillQuizCats(){
+  qCatSel.innerHTML="";
+  ["All",...CATS].forEach(c=>{const o=document.createElement("option");o.value=c;o.textContent=c;qCatSel.appendChild(o);});
+  fillLvSelect(document.getElementById("qLv"));
+}
+function makeQuestion(item,dirMode){
+  const dir = dirMode==="mix" ? (Math.random()<0.5?"en2ja":"ja2en") : dirMode;
+  const others = DATA.filter(x=>x!==item);
+  const same = others.filter(x=>x.c===item.c);
+  const src = shuffle((same.length>=3?same:others).slice());
+  const distract=[]; const seen=new Set([answerText(item,dir)]);
+  for(const o of src){const t=answerText(o,dir);if(!seen.has(t)){seen.add(t);distract.push(o);}if(distract.length>=3)break;}
+  return {item,dir,opts:shuffle([item,...distract])};
+}
+function buildQuizFromItems(items){ quiz=items.map(it=>makeQuestion(it,qDir)); qi=0; qScore=0; qWrong=[]; }
+function buildQuiz(){
+  const cat=qCatSel.value;
+  const lv=parseInt(document.getElementById("qLv").value,10);
+  const known=loadKnown();
+  let pool=DATA.filter(x=>poolFilter(x,cat,lv));
+  if(document.getElementById("qUnlearned").checked) pool=pool.filter(x=>!known.has(keyOf(x)));
+  pool=shuffle(pool.slice());
+  buildQuizFromItems(qLen>0?pool.slice(0,qLen):pool);
+}
+function showQuizSetup(){
+  document.body.classList.remove("quizzing");
+  document.getElementById("quizPlay").style.display="none";
+  document.getElementById("quizResult").style.display="none";
+  document.getElementById("quizSetup").style.display="block";
+  const b=localStorage.getItem(BEST_KEY);
+  document.getElementById("qBest").textContent = b?("🏆 Best score: "+b+"%"):"";
+}
+function startQuiz(){
+  buildQuiz();
+  if(quiz.length<1){alert("Not enough entries for a quiz.");return;}
+  document.body.classList.add("quizzing");
+  document.getElementById("quizSetup").style.display="none";
+  document.getElementById("quizResult").style.display="none";
+  document.getElementById("quizPlay").style.display="block";
+  renderQuestion();
+}
+function renderQuestion(){
+  const q=quiz[qi];
+  document.getElementById("qCount").textContent=`Question ${qi+1} / ${quiz.length}`;
+  document.getElementById("qProg").style.width=(qi/quiz.length*100)+"%";
+  document.getElementById("qScoreLive").textContent=qScore;
+  const isJa = q.dir==="ja2en";
+  const p=document.getElementById("qPrompt");
+  p.innerHTML=`<div class="p-main">${escapeHtml(promptText(q.item,q.dir))}</div>`
+    + (isJa?`<button class="p-speak" id="pSpeak" aria-label="Play">🔊</button>`:"")
+    + `<div class="p-sub">${q.dir==="en2ja"?"Choose the Japanese":"Choose the English"}</div>`;
+  if(isJa){const sp=document.getElementById("pSpeak");sp.onclick=()=>speak(speakText(q.item.ja));speak(speakText(q.item.ja));}
+  const optEl=document.getElementById("qOptions");optEl.innerHTML="";
+  q.opts.forEach(o=>{
+    const b=document.createElement("button");b.className="q-opt";b._item=o;
+    const t=answerText(o,q.dir);
+    b.innerHTML=`<span>${escapeHtml(t)}</span>`+(q.dir==="en2ja"?`<small>${escapeHtml(o.ro)}</small>`:"");
+    b.onclick=()=>answer(b,o,q);
+    optEl.appendChild(b);
+  });
+  document.getElementById("qNext").style.display="none";
+}
+function answer(btn,chosen,q){
+  const optEl=document.getElementById("qOptions");
+  [...optEl.children].forEach(b=>{b.classList.add("locked");b.onclick=null;});
+  if(chosen===q.item){btn.classList.add("correct");qScore++;}
+  else{btn.classList.add("wrong");qWrong.push(q);[...optEl.children].forEach(b=>{if(b._item===q.item)b.classList.add("correct");});}
+  speak(speakText(q.item.ja));
+  document.getElementById("qScoreLive").textContent=qScore;
+  document.getElementById("qProg").style.width=((qi+1)/quiz.length*100)+"%";
+  const nx=document.getElementById("qNext");
+  nx.textContent = (qi+1>=quiz.length)?"See results":"Next";
+  nx.style.display="block";
+}
+function showResults(){
+  document.body.classList.remove("quizzing");
+  document.getElementById("quizPlay").style.display="none";
+  document.getElementById("quizResult").style.display="block";
+  const pct=Math.round(qScore/quiz.length*100);
+  document.getElementById("qScoreBig").textContent=`${qScore} / ${quiz.length}　(${pct}%)`;
+  document.getElementById("qMsg").textContent =
+    pct>=90?"Excellent!":pct>=70?"Nice work!":pct>=50?"Keep going!":"Try again!";
+  const best=parseInt(localStorage.getItem(BEST_KEY)||"0",10);
+  if(pct>best)localStorage.setItem(BEST_KEY,String(pct));
+  markStudy();
+  refreshHome();
+  const rev=document.getElementById("qReview");
+  if(qWrong.length===0){rev.innerHTML='<div class="q-perfect">All correct! 🎉</div>';}
+  else{rev.innerHTML='<div class="q-revh">Review your misses</div>'+qWrong.map(q=>
+    `<div class="q-rev"><b>${escapeHtml(q.item.en)}</b><span>${escapeHtml(q.item.ja)}</span><i>${escapeHtml(q.item.ro)}</i></div>`).join("");}
+  document.getElementById("qRetryWrong").style.display=qWrong.length?"block":"none";
+}
+document.getElementById("qNext").onclick=()=>{qi++; if(qi>=quiz.length)showResults(); else renderQuestion();};
+document.getElementById("qRetryWrong").onclick=()=>{
+  const items=qWrong.map(q=>q.item);
+  document.body.classList.add("quizzing");
+  document.getElementById("quizResult").style.display="none";
+  document.getElementById("quizPlay").style.display="block";
+  buildQuizFromItems(items); renderQuestion();
+};
+document.getElementById("qAgain").onclick=showQuizSetup;
+document.getElementById("qStart").onclick=startQuiz;
+document.getElementById("qDir").addEventListener("click",e=>{if(e.target.tagName!=="BUTTON")return;qDir=e.target.dataset.d;[...e.currentTarget.children].forEach(b=>b.classList.remove("on"));e.target.classList.add("on");});
+document.getElementById("qLen").addEventListener("click",e=>{if(e.target.tagName!=="BUTTON")return;qLen=parseInt(e.target.dataset.n,10);[...e.currentTarget.children].forEach(b=>b.classList.remove("on"));e.target.classList.add("on");});
+
+/* ================= FLASHCARDS ================= */
+const cCatSel=document.getElementById("cCat");
+let cFront="en", cQueue=[], cTotal=0, cLearnedSession=0, cFlipped=false, cLen=10;
+const KNOWN_KEY="nyanchu_known";
+function loadKnown(){try{return new Set(JSON.parse(localStorage.getItem(KNOWN_KEY)||"[]"));}catch(e){return new Set();}}
+function saveKnown(set){localStorage.setItem(KNOWN_KEY,JSON.stringify([...set]));}
+function keyOf(it){return it.en+"|"+it.ja;}
+function fillCardCats(){cCatSel.innerHTML="";["All",...CATS].forEach(c=>{const o=document.createElement("option");o.value=c;o.textContent=c;cCatSel.appendChild(o);});fillLvSelect(document.getElementById("cLv"));}
+function cardPool(){
+  const cat=cCatSel.value;
+  const lv=parseInt(document.getElementById("cLv").value,10);
+  return DATA.filter(x=>poolFilter(x,cat,lv));
+}
+function cardInfo(){
+  const known=loadKnown();
+  const pool=cardPool();
+  const learned=pool.filter(x=>known.has(keyOf(x))).length;
+  document.getElementById("cInfo").textContent=`Learned ${learned} / ${pool.length} in this set`;
+}
+function showCardSetup(){
+  document.body.classList.remove("studying");
+  document.getElementById("cardPlay").style.display="none";
+  document.getElementById("cardDone").style.display="none";
+  document.getElementById("cardSetup").style.display="block";
+  cardInfo();
+}
+function startCards(){
+  const known=loadKnown();
+  let pool=cardPool();
+  if(document.getElementById("cUnlearned").checked) pool=pool.filter(x=>!known.has(keyOf(x)));
+  cQueue=shuffle(pool.slice());
+  if(cLen>0) cQueue=cQueue.slice(0,cLen);
+  if(cQueue.length<1){alert("Nothing left to study in this set. Uncheck “Unlearned only” or pick another pack.");return;}
+  cTotal=cQueue.length;cLearnedSession=0;
+  document.body.classList.add("studying");
+  document.getElementById("cardSetup").style.display="none";
+  document.getElementById("cardDone").style.display="none";
+  document.getElementById("cardPlay").style.display="block";
+  renderCard();
+}
+function renderCard(){
+  if(cQueue.length===0){showCardDone();return;}
+  cFlipped=false;
+  document.getElementById("cFlip").classList.remove("flipped");
+  const it=cQueue[0];
+  const frontIsEn=cFront==="en";
+  document.getElementById("cFrontText").textContent=frontIsEn?it.en:it.ja;
+  document.getElementById("cBackText").textContent=frontIsEn?it.ja:it.en;
+  document.getElementById("cBackRo").textContent=it.ro;
+  const sf=document.getElementById("cSpeakF");
+  sf.style.display=frontIsEn?"none":"flex";
+  sf.onclick=(e)=>{e.stopPropagation();speak(speakText(it.ja));};
+  document.getElementById("cSpeakB").onclick=(e)=>{e.stopPropagation();speak(speakText(it.ja));};
+  document.getElementById("cCount").textContent=`${cQueue.length} left`;
+  document.getElementById("cLearned").textContent=`${cLearnedSession} known`;
+  document.getElementById("cProg").style.width=(cLearnedSession/cTotal*100)+"%";
+}
+function showCardDone(){
+  document.getElementById("cardPlay").style.display="none";
+  document.getElementById("cardDone").style.display="block";
+  document.getElementById("cDoneMsg").textContent=`Deck finished. You marked ${cLearnedSession} as known.`;
+  document.body.classList.remove("studying");
+}
+document.getElementById("cFlip").onclick=()=>{
+  cFlipped=!cFlipped;
+  document.getElementById("cFlip").classList.toggle("flipped",cFlipped);
+  if(cFlipped){const it=cQueue[0];if(it)speak(speakText(it.ja));}
+};
+document.getElementById("cGot").onclick=()=>{
+  const it=cQueue.shift();const known=loadKnown();known.add(keyOf(it));saveKnown(known);
+  cLearnedSession++; markStudy(); renderCard();
+};
+document.getElementById("cStill").onclick=()=>{const it=cQueue.shift();cQueue.push(it);renderCard();};
+document.getElementById("cStart").onclick=startCards;
+document.getElementById("cAgain").onclick=showCardSetup;
+document.getElementById("cReset").onclick=()=>{if(confirm("Reset all learned progress?")){localStorage.removeItem(KNOWN_KEY);cardInfo();}};
+document.getElementById("cFront").addEventListener("click",e=>{if(e.target.tagName!=="BUTTON")return;cFront=e.target.dataset.f;[...e.currentTarget.children].forEach(b=>b.classList.remove("on"));e.target.classList.add("on");});
+document.getElementById("cLen").addEventListener("click",e=>{if(e.target.tagName!=="BUTTON")return;cLen=parseInt(e.target.dataset.n,10);[...e.currentTarget.children].forEach(b=>b.classList.remove("on"));e.target.classList.add("on");});
+document.getElementById("cCat").addEventListener("change",cardInfo);
+document.getElementById("cLv").addEventListener("change",cardInfo);
+/* swipe on flashcards */
+(function(){
+  const el=document.getElementById("cFlip");
+  let sx=0,sy=0,drag=false;
+  el.addEventListener("touchstart",e=>{const t=e.changedTouches[0];sx=t.clientX;sy=t.clientY;drag=true;},{passive:true});
+  el.addEventListener("touchmove",e=>{
+    if(!drag) return;
+    const t=e.changedTouches[0], dx=t.clientX-sx;
+    el.style.transition="none";
+    el.style.transform=`translateX(${dx}px) rotate(${dx/18}deg)`;
+  },{passive:true});
+  el.addEventListener("touchend",e=>{
+    drag=false;
+    el.style.transition="";
+    el.style.transform="";
+    const t=e.changedTouches[0];const dx=t.clientX-sx,dy=t.clientY-sy;
+    if(Math.abs(dx)<50||Math.abs(dx)<Math.abs(dy)) return;
+    paperTap();
+    if(dx>0) document.getElementById("cGot").click();
+    else document.getElementById("cStill").click();
+  },{passive:true});
+})();
+
+function refreshHome(){
+  const known=loadKnown();
+  const s=loadStats();
+  document.getElementById("stStreak").textContent=s.streak||0;
+  document.getElementById("stKnown").textContent=DATA.filter(x=>known.has(keyOf(x))).length;
+  document.getElementById("stTotal").textContent=DATA.length;
+  const packs=document.getElementById("packs");
+  const meta=[
+    {lv:1,title:"Must-know",desc:"Airport, station, shops first", num:"1"},
+    {lv:2,title:"Useful",desc:"Hotel, shopping, sightseeing", num:"2"},
+    {lv:3,title:"Extra",desc:"Menus and culture words", num:"3"},
+  ];
+  packs.innerHTML="";
+  meta.forEach(m=>{
+    const pool=DATA.filter(x=>x.lv===m.lv);
+    const b=document.createElement("button");
+    b.className="deck";
+    b.innerHTML=`<i class="sheet s2"></i><i class="sheet s1"></i>
+      <div class="sheet front">
+        <span class="num">${m.num}</span>
+        <span><b>${m.title}</b><small>${m.desc}</small></span>
+        <span class="n">${pool.length}<span>cards</span></span>
+      </div>`;
+    b.onclick=()=>{
+      document.getElementById("cLv").value=String(m.lv);
+      setMode("cards");
+    };
+    packs.appendChild(b);
+  });
+  const hs=document.getElementById("homeScenes");
+  hs.innerHTML="";
+  USE_SCENES.filter(s=>s.id!=="all").forEach(s=>{
+    const b=document.createElement("button");
+    b.className="tile";
+    b.innerHTML=`<b>${s.label}</b><small>${s.sub}</small>`;
+    b.onclick=()=>openUse(s.id);
+    hs.appendChild(b);
+  });
+}
+function openUse(id){
+  useScene=id;
+  setMode("list");
+  renderUse();
+}
+function usePool(){
+  const scene=USE_SCENES.find(s=>s.id===useScene)||USE_SCENES[0];
+  let items=DATA.filter(x=>!scene.cats||scene.cats.includes(x.c));
+  if(useScene!=="all") items=items.filter(x=>x.t==="p"||x.lv===1);
+  if(useQuery){
+    const q=useQuery.toLowerCase();
+    items=items.filter(x=>x.en.toLowerCase().includes(q)||x.ja.includes(useQuery)||x.ro.toLowerCase().includes(q));
+  }
+  const pins=loadPins();
+  return items.slice().sort((a,b)=>{
+    const pa=pins.has(keyOf(a))?0:1, pb=pins.has(keyOf(b))?0:1;
+    if(pa!==pb) return pa-pb;
+    if(a.t!==b.t) return a.t==="p"?-1:1;
+    return (a.lv||9)-(b.lv||9);
+  });
+}
+function renderUse(){
+  const cats=document.getElementById("useCats");
+  cats.innerHTML="";
+  USE_SCENES.forEach(s=>{
+    const b=document.createElement("button");
+    b.textContent=s.label;
+    if(s.id===useScene) b.classList.add("on");
+    b.onclick=()=>{useScene=s.id;renderUse();};
+    cats.appendChild(b);
+  });
+  const items=usePool();
+  document.getElementById("useCount").textContent=`${items.length} lines · tap to hear`;
+  const box=document.getElementById("useList");
+  const pins=loadPins();
+  box.innerHTML="";
+  items.forEach((it,i)=>{
+    const row=document.createElement("div");
+    row.className="use-row";
+    const pinned=pins.has(keyOf(it));
+    row.innerHTML=`<div class="no">${String(i+1).padStart(2,"0")}</div>
+      <div class="body" style="flex:1">
+        <div class="ja">${escapeHtml(it.ja)}</div>
+        <div class="en">${escapeHtml(it.en)}</div>
+        <div class="ro">${escapeHtml(it.ro)}</div>
+      </div>
+      <button class="pin${pinned?" on":""}" aria-label="Pin"></button>`;
+    row.querySelector(".pin").onclick=(e)=>{
+      e.stopPropagation();
+      const p=loadPins();
+      const k=keyOf(it);
+      if(p.has(k)) p.delete(k); else p.add(k);
+      savePins(p); renderUse();
+    };
+    row.onclick=()=>{
+      paperTap();
+      document.querySelectorAll(".use-row.speaking").forEach(n=>n.classList.remove("speaking"));
+      row.classList.add("speaking");
+      speak(speakText(it.ja));
+    };
+    box.appendChild(row);
+  });
+}
+const PAGE_TITLE={home:"Travel Japanese",list:"List",cards:"Cards",quiz:"Quiz",browse:"Browse"};
+function setMode(m){
+  if(m!=="cards") document.body.classList.remove("studying");
+  if(m!=="quiz") document.body.classList.remove("quizzing");
+  document.body.dataset.mode=m;
+  const t=document.getElementById("pageTitle");
+  if(t) t.textContent=PAGE_TITLE[m]||"Travel Japanese";
+  [...document.getElementById("modeSwitch").children].forEach(b=>b.classList.toggle("on",b.dataset.m===m));
+  if(m==="quiz")showQuizSetup();
+  if(m==="cards"){
+    const play=document.getElementById("cardPlay");
+    if(play.style.display==="none") startCards();
+  }
+  if(m==="home")refreshHome();
+  if(m==="browse")render();
+  if(m==="list")renderUse();
+}
+document.getElementById("modeSwitch").addEventListener("click",e=>{if(e.target.tagName!=="BUTTON")return;setMode(e.target.dataset.m);});
+document.getElementById("goHome").onclick=()=>setMode("home");
+(function tickClock(){
+  const el=document.getElementById("clock");
+  if(el) el.textContent=new Date().toLocaleTimeString([], {hour:"numeric", minute:"2-digit"});
+  setTimeout(tickClock, 15000);
+})();
+
+document.addEventListener("keydown",e=>{
+  if(e.target && (e.target.tagName==="INPUT"||e.target.tagName==="SELECT"||e.target.tagName==="TEXTAREA")) return;
+  const mode=document.body.dataset.mode;
+  if(mode==="cards" && document.getElementById("cardPlay").style.display!=="none"){
+    if(e.key===" "||e.key==="Enter"){e.preventDefault();document.getElementById("cFlip").click();}
+    if(e.key==="ArrowLeft"){e.preventDefault();document.getElementById("cStill").click();}
+    if(e.key==="ArrowRight"){e.preventDefault();document.getElementById("cGot").click();}
+  }
+  if(mode==="quiz" && document.getElementById("quizPlay").style.display!=="none"){
+    const n=parseInt(e.key,10);
+    if(n>=1&&n<=4){
+      const btns=[...document.getElementById("qOptions").children];
+      if(btns[n-1] && !btns[n-1].classList.contains("locked")) btns[n-1].click();
+    }
+    if(e.key==="Enter" && document.getElementById("qNext").style.display!=="none") document.getElementById("qNext").click();
+  }
+});
+
+fillQuizCats();
+fillCardCats();
+document.body.dataset.mode="home";
+buildLevels();
+buildCats();
+refreshHome();
+render();
+</script>
+</body>
+</html>

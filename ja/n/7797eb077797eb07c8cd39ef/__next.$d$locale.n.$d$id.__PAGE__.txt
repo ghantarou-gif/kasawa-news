@@ -1,0 +1,78 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+10:X
+15:X
+15:C
+0:{"buildId":"XhCViw2vgdKt3hsQsz2oY","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-21","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Gigazine"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"自分の仕事が「天職」だと思うことは私生活や人生の満足度にどのような影響を与えるのか？"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"32 分前"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"日々の仕事内容が自分のやりたいことや能力にぴったり当てはまっている人は、「この仕事は天職だ」と感じているかもしれません。自分の仕事が天職だと思うことが私生活や人生の満足度に与える影響について、ドイツの研究チームが調査しました。"}],["$","p","1",{"children":"Can You Identify Too Much with Your Job? Exploring Spill-Over Effects of Occupational Identity on Different Life Domain Satisfactions and Satisfaction with Life Overall | Social Indicators Research | Springer Nature Link"}],["$","p","2",{"children":"What happens to your well-being when your job becomes your calling?"}],["$","p","3",{"children":"仕事が天職だと感じることは、一見すると幸せかもしれません。しかし、仕事がアイデンティティの大半を占めるようになると、大仕事が終わったタイミングで燃え尽き症候群に陥ったり、仕事にかまけて家族関係が悪化したりして、私生活が犠牲になるのではないかという懸念もあります。"}],["$","p","4",{"children":"そこでドイツの研究チームは、職業的アイデンティティが私生活に悪影響を及ぼすのか、それともポジティブな影響を及ぼすのかを調査しました。これまでの研究では、職業的アイデンティティが強い人は仕事への満足度が高いことがわかっていますが、余暇・友人関係・恋愛関係といった仕事以外の領域に与える影響はあまり研究されてこなかったとのこと。"}],["$","p","5",{"children":"研究チームは、職業的アイデンティティと人生の満足度との関係性が「逆U字型」になると予想しました。このシナリオでは、職業的アイデンティティの強まりはある程度まで人生の満足度を高めるものの、一定のラインを超えると仕事に対する過度の執着によって私生活が犠牲となり、次第に人生の満足度が低下していくとされています。"}],["$","p","6",{"children":"今回の研究では、ドイツの熟練職人760人から収集したデータを分析しました。被験者には大工・電気技師・屋根職人・塗装工・配管工など100種類以上の職種が含まれており、ドイツにおける工芸の最高国家資格である マイスター を持つ割合も高かったとのこと。なお、被験者の大部分は男性でしたが、これはドイツの熟練職人における男女比率を反映しています。"}],["$","p","7",{"children":"被験者は「仕事が人格の重要な部分を占めていると思うか」「自分の仕事を天職だと思っているか」「自分の仕事に誇りを持っているか」「仕事が情熱の対象になっているか」という、仕事に対する考えや感情を調べる4つの質問に答えました。研究チームはこれらの結果を基に、被験者の「職業的アイデンティティスコア」を算出。また、被験者は仕事・労働時間・余暇・社会生活・恋愛関係・人生全体の満足度についても7段階評価で回答しました。"}],["$","p","8",{"children":"統計モデルでは年齢や性別、教育レベル、属するコミュニティの規模、基本的な性格特性のほか、仕事の自律性や使うスキルの多様性、同流と社会的交流をする機会の有無といった職場特有の項目についても考慮されたとのこと。"}],["$","p","9",{"children":"データを分析した結果、職業的アイデンティティと職場における幸福感には強い正の相関関係があることが判明。職業的アイデンティティスコアの大幅な向上は、仕事と労働時間に対する満足度の著しい向上と関連していました。これは、仕事の自律性といった職場特有の特徴よりも強い結びつきだったとのことです。"}],["$","p","10",{"children":"一方、職業的アイデンティティスコアの高まりは、余暇・社会生活・恋愛関係の満足度との間に有意な負の相関関係を示しませんでした。また、最も職業的アイデンティティスコアが高い従業員は、生活のどの領域においても満足度の低下を示しませんでした。つまり、「自分の仕事を天職だと思うこと」に明確なデメリットはみられなかったといえます。"}],["$","p","11",{"children":"さらに研究チームは、職業的アイデンティティスコアの下位25％と上位25％の労働者について、中間層の労働者と比較しています。その結果、スコアが最も低い労働者は仕事や労働時間への満足度が著しく低い上に、余暇や人間関係の満足度も低いことが確認されました。対照的に、スコアが最も高い労働者は仕事と労働時間の満足度がわずかに高かった一方、余暇や人間関係の満足度は中間層と同程度だったと報告されています。"}],["$","p","12",{"children":"職業的アイデンティティスコアと人生全体の満足度に着目したところ、平均的に職業的アイデンティティスコアが高い人ほど、人生全体の満足度もわずかに高くなることが示されました。スコアが人生の満足度に与える効果は、仕事の満足度に与える効果の4分の1程度でした。"}],["$","p","13",{"children":"なお、今回の研究は因果関係を証明するものではなく、仕事に対する考えと生活満足度の関連性を示すものです。また、ドイツの職人集団は高い自律性や具体的な創造活動といった特徴を持っており、激しい競争圧力や企業の監視にさらされていない点にも注意が必要です。外部からの圧力にさらされている職場では、高い職業的アイデンティティが異なる結果を示す可能性があります。"}],["$","p","14",{"children":"心理学系メディアのPsyPostは、「経営者と従業員にとってこれらの調査結果は有益な指針となります。仕事に深く没頭することが必ずしも私生活を悪化させたり、人間関係を損なったりするわけではないことが示唆されています。従業員が自分の仕事に誇りを持ち、日々の業務に個人的な意義を見出すよう促すことは、職場の士気と生活全般の満足度を高めることにつながります」と述べました。"}],["$","p","15",{"children":"失業期間を経て再び就職活動をする時に有益な「5つのヒント」とは？ - GIGAZINE"}],"$L3","$L4","$L5","$L6"],"$L7"]}],"$L8","$L9","$La",null,"$Lb","$Lc"]}],["$Ld"],"$Le"]}],"isPartial":"$@f","staleTime":"$10","varyParams":null},{"rsc":"$L11","isPartial":"$@12","staleTime":"$10","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$10","varyParams":"$15"},{"rsc":"$L16","isPartial":"$@17","staleTime":"$10","varyParams":"$15"}],"isUpgradeableISRFallback":false,"a":"$@18","rootVaryParams":null,"needsRuntimeRequest":"$@19"}
+1a:I[36936,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+1b:I[98337,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+1d:I[9441,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+1e:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1f:"$Sreact.suspense"
+21:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+22:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+23:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+24:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+25:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","16",{"children":"キャリアが行き詰まる「5つの理由」を専門家が解説、どうすれば停滞した状況を打破できるのか？ - GIGAZINE"}]
+4:["$","p","17",{"children":"AIの発展によって私たち「人間」に残される仕事は何か？人間とAIの「共同超知能」というビジョン - GIGAZINE"}]
+5:["$","p","18",{"children":"どのような仕事に従事する労働者が「ワーカホリック」になりやすいのか？"}]
+6:["$","p","19",{"children":"You can read the machine translated English article How does believing your job is your 'cal… ."}]
+7:["$","p",null,{"className":"article-credit","children":"本文の著作権はGigazineにあります。"}]
+8:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://gigazine.net/news/20261121-job-becomes-calling-well-being/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はGigazineで読む"}]}]
+1c:T1b02,日々の仕事内容が自分のやりたいことや能力にぴったり当てはまっている人は、「この仕事は天職だ」と感じているかもしれません。自分の仕事が天職だと思うことが私生活や人生の満足度に与える影響について、ドイツの研究チームが調査しました。
+
+Can You Identify Too Much with Your Job? Exploring Spill-Over Effects of Occupational Identity on Different Life Domain Satisfactions and Satisfaction with Life Overall | Social Indicators Research | Springer Nature Link
+
+What happens to your well-being when your job becomes your calling?
+
+仕事が天職だと感じることは、一見すると幸せかもしれません。しかし、仕事がアイデンティティの大半を占めるようになると、大仕事が終わったタイミングで燃え尽き症候群に陥ったり、仕事にかまけて家族関係が悪化したりして、私生活が犠牲になるのではないかという懸念もあります。
+
+そこでドイツの研究チームは、職業的アイデンティティが私生活に悪影響を及ぼすのか、それともポジティブな影響を及ぼすのかを調査しました。これまでの研究では、職業的アイデンティティが強い人は仕事への満足度が高いことがわかっていますが、余暇・友人関係・恋愛関係といった仕事以外の領域に与える影響はあまり研究されてこなかったとのこと。
+
+研究チームは、職業的アイデンティティと人生の満足度との関係性が「逆U字型」になると予想しました。このシナリオでは、職業的アイデンティティの強まりはある程度まで人生の満足度を高めるものの、一定のラインを超えると仕事に対する過度の執着によって私生活が犠牲となり、次第に人生の満足度が低下していくとされています。
+
+今回の研究では、ドイツの熟練職人760人から収集したデータを分析しました。被験者には大工・電気技師・屋根職人・塗装工・配管工など100種類以上の職種が含まれており、ドイツにおける工芸の最高国家資格である マイスター を持つ割合も高かったとのこと。なお、被験者の大部分は男性でしたが、これはドイツの熟練職人における男女比率を反映しています。
+
+被験者は「仕事が人格の重要な部分を占めていると思うか」「自分の仕事を天職だと思っているか」「自分の仕事に誇りを持っているか」「仕事が情熱の対象になっているか」という、仕事に対する考えや感情を調べる4つの質問に答えました。研究チームはこれらの結果を基に、被験者の「職業的アイデンティティスコア」を算出。また、被験者は仕事・労働時間・余暇・社会生活・恋愛関係・人生全体の満足度についても7段階評価で回答しました。
+
+統計モデルでは年齢や性別、教育レベル、属するコミュニティの規模、基本的な性格特性のほか、仕事の自律性や使うスキルの多様性、同流と社会的交流をする機会の有無といった職場特有の項目についても考慮されたとのこと。
+
+データを分析した結果、職業的アイデンティティと職場における幸福感には強い正の相関関係があることが判明。職業的アイデンティティスコアの大幅な向上は、仕事と労働時間に対する満足度の著しい向上と関連していました。これは、仕事の自律性といった職場特有の特徴よりも強い結びつきだったとのことです。
+
+一方、職業的アイデンティティスコアの高まりは、余暇・社会生活・恋愛関係の満足度との間に有意な負の相関関係を示しませんでした。また、最も職業的アイデンティティスコアが高い従業員は、生活のどの領域においても満足度の低下を示しませんでした。つまり、「自分の仕事を天職だと思うこと」に明確なデメリットはみられなかったといえます。
+
+さらに研究チームは、職業的アイデンティティスコアの下位25％と上位25％の労働者について、中間層の労働者と比較しています。その結果、スコアが最も低い労働者は仕事や労働時間への満足度が著しく低い上に、余暇や人間関係の満足度も低いことが確認されました。対照的に、スコアが最も高い労働者は仕事と労働時間の満足度がわずかに高かった一方、余暇や人間関係の満足度は中間層と同程度だったと報告されています。
+
+職業的アイデンティティスコアと人生全体の満足度に着目したところ、平均的に職業的アイデンティティスコアが高い人ほど、人生全体の満足度もわずかに高くなることが示されました。スコアが人生の満足度に与える効果は、仕事の満足度に与える効果の4分の1程度でした。
+
+なお、今回の研究は因果関係を証明するものではなく、仕事に対する考えと生活満足度の関連性を示すものです。また、ドイツの職人集団は高い自律性や具体的な創造活動といった特徴を持っており、激しい競争圧力や企業の監視にさらされていない点にも注意が必要です。外部からの圧力にさらされている職場では、高い職業的アイデンティティが異なる結果を示す可能性があります。
+
+心理学系メディアのPsyPostは、「経営者と従業員にとってこれらの調査結果は有益な指針となります。仕事に深く没頭することが必ずしも私生活を悪化させたり、人間関係を損なったりするわけではないことが示唆されています。従業員が自分の仕事に誇りを持ち、日々の業務に個人的な意義を見出すよう促すことは、職場の士気と生活全般の満足度を高めることにつながります」と述べました。
+
+失業期間を経て再び就職活動をする時に有益な「5つのヒント」とは？ - GIGAZINE
+
+キャリアが行き詰まる「5つの理由」を専門家が解説、どうすれば停滞した状況を打破できるのか？ - GIGAZINE
+
+AIの発展によって私たち「人間」に残される仕事は何か？人間とAIの「共同超知能」というビジョン - GIGAZINE
+
+どのような仕事に従事する労働者が「ワーカホリック」になりやすいのか？
+
+You can read the machine translated English article How does believing your job is your 'cal… .9:["$","section",null,{"className":"article-actions","children":[["$","$L1a",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/7797eb077797eb07c8cd39ef","title":"自分の仕事が「天職」だと思うことは私生活や人生の満足度にどのような影響を与えるのか？","locale":"ja","take":null}],["$","$L1b",null,{"title":"自分の仕事が「天職」だと思うことは私生活や人生の満足度にどのような影響を与えるのか？","excerpt":"$1c","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/7797eb077797eb07c8cd39ef","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E8%87%AA%E5%88%86%E3%81%AE%E4%BB%95%E4%BA%8B%E3%81%8C%E3%81%A0%E3%81%A8%E6%80%9D%E3%81%86%E3%81%93%E3%81%A8%E3%81%AF%E7%A7%81%E7%94%9F%E6%B4%BB%E3%82%84%E4%BA%BA%E7%94%9F%E3%81%AE%E6%BA%80%E8%B6%B3%E5%BA%A6%E3%81%AB%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E5%BD%B1%E9%9F%BF%E3%82%92%E4%B8%8E%E3%81%88%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F&mode=phrase&url=gigazine.net&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+a:["$","$L1d",null,{"placement":"article","className":"mt-8"}]
+b:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+c:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/d989bae5d0f27ac7a31940fcee747d29c6056e53?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/25a9c77125a9c77158df094d","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"朝乃山「あの４連敗があったから今がある」２横綱２大関に敗戦も…９連勝で三役復帰ほぼ確実(日刊スポーツ)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/0111f3bdbd96c74aec1ab4140605cca75d59fafb?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/dc7c1a25dc7c1a2507e2dbd9","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"【マイルCS・前日情報】「めちゃくちゃいいですよ」最低人気のレザベーションは落ち着いて登坂(日刊スポーツ)"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/cbfc1751638ffd0251895a8c9948a80e2793359b?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/ac94a500ac94a500ad1582e6","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"【マイルCS・前日情報】ワールズエンドの池添師「気合乗り、息づかいがすごく良くなってます」(日刊スポーツ)"}]]}]}]]}]]}]
+d:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+e:["$","$L1e",null,{"children":["$","$1f",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+11:["$","$1","h",{"children":[null,["$","$L21",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L22",null,{"children":["$","$1f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"自分の仕事が「天職」だと思うことは私生活や人生の満足度にどのような影響を与えるのか？"}],["$","meta","1",{"name":"description","content":"日々の仕事内容が自分のやりたいことや能力にぴったり当てはまっている人は、「この仕事は天職だ」と感じているかもしれません。自分の仕事が天職だと思うことが私生活や人生の満足度に与える影響について、ドイツの研究チームが調査しました。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"自分の仕事が「天職」だと思うことは私生活や人生の満足度にどのような影響を与えるのか？"}],["$","meta","4",{"property":"og:description","content":"日々の仕事内容が自分のやりたいことや能力にぴったり当てはまっている人は、「この仕事は天職だ」と感じているかもしれません。自分の仕事が天職だと思うことが私生活や人生の満足度に与える影響について、ドイツの研究チームが調査しました。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/7797eb077797eb07c8cd39ef/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"自分の仕事が「天職」だと思うことは私生活や人生の満足度にどのような影響を与えるのか？"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"自分の仕事が「天職」だと思うことは私生活や人生の満足度にどのような影響を与えるのか？"}],["$","meta","14",{"name":"twitter:description","content":"日々の仕事内容が自分のやりたいことや能力にぴったり当てはまっている人は、「この仕事は天職だ」と感じているかもしれません。自分の仕事が天職だと思うことが私生活や人生の満足度に与える影響について、ドイツの研究チームが調査しました。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L23","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+13:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+16:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+19:true
+20:null
+10:300
+10:C
+18:0
+12:"$undefined"
+14:"$undefined"
+17:"$undefined"
+f:"$undefined"

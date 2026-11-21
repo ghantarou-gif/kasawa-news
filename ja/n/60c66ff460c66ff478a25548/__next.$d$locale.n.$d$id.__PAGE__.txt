@@ -1,0 +1,98 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00015000-sportal-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","image"]
+14:X
+19:X
+19:C
+0:{"buildId":"XhCViw2vgdKt3hsQsz2oY","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-19","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"トラウマのレンズをかけ、人の傷つきに寄り添い逆境を乗り越える（大岡由佳／武庫川女子大学教授）(Science Portal)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"一昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00015000-sportal-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"私たちは生活の中で「トラウマ」という言葉を耳にすることがある。日常会話では軽いショックを受けたときにも使われがちであるが、専門的には「個人の対処できる限界を超えた、非常に強い不安や恐怖をもたらす出来事」を指す。自然災害や痛ましい事故、あるいは暴力や虐待、いじめ、貧困といった体験が心に深い傷を残す。近年、そのような人々のトラウマについて正しい知識を持ち、その影響を理解した上で人に接する関わり方、「トラウマインフォームドケア（TIC）」が、福祉や心理、教育、司法分野で重要とされるようになっている。"}],["$","p","1",{"children":"私はこれまで、被害者支援やトラウマに関する研究・実践に携わってきた。本稿ではトラウマやその関わり方について一緒に考えてみてほしい。"}],["$","p","2",{"children":"トラウマによる不調は「本人の気持ちの問題」ではない"}],["$","p","3",{"children":"大きなトラウマを体験すると、私たちの心やからだ、行動にはさまざまな変化が現れる。例えば、つらい出来事を悪夢で見たり突然思い出したりする「再体験」、関連する場所や人を避けようとする「回避」、孤立感や罪悪感を強く抱く「認知と気分の陰性の変化」、そして眠れなくなったり些細なことでイライラして怒ったりする「覚醒亢進（こうしん）」といった症状である。"}],["$","p","4",{"children":"これらは決して「心が弱いから」起きるものではない。自分の対処能力を超えたトラウマ体験により安心感や信頼感が崩れ去った結果起こる、脳や神経の反応である。専門家は「異常な事態に対する正常な反応」と表現する。苦しんでいる人を責めたり、「本人の気持ちの問題」で片付けたりしてはならないのである。"}],["$","p","5",{"children":"かつて障害や不調は「個人の中にある病気や問題」と捉えられ、医療による個別の治療やリハビリテーションばかりが重視されていた（医学モデル）。しかし現在では、「社会や環境にある障害物（生きづらさ）こそが問題である」と考える「社会モデル」の重要性が唱えられている。障害者基本法をはじめとした法律にもその発想が取り入れられた。"}],["$","p","6",{"children":"実際、生活する環境や社会階層によって、受けやすいリスクや健康状態に差が生じることがわかっている。さらに近年の研究では、気候変動による異常気象や酷暑といった環境の変化すらも、家庭内のストレスを増やし、虐待や暴力、いじめなどのリスクを高めることが指摘されている。困難を抱える人を個人の責任にするのではなく、社会や周囲の環境の側を変えて支えを作っていく発想が不可欠である。"}],["$","p","7",{"children":"「何が悪いのか」ではなく「何が起きているのか」に目を向ける"}],["$","p","8",{"children":"では、どのように環境を変え、支えを作っていけばよいのだろうか。そこで登場するのが「トラウマのレンズ」という考え方である。"}],["$","p","9",{"children":"従来の見方では、困った行動をする人に対して「この人は何が悪いの？（What’s wrong with you？）」と、その人の中に問題を探す問いかけをしがちであった。しかし、トラウマのレンズを通して見ると、「この人に何が起こっているの？（What’s happened to you？）」と、その人が遭遇した出来事やそれによる影響に目を向けた問いかけに変わる。さらに、このレンズで環境に目を向けると「この人を取り巻く環境の中で、何が負担になっているの？（What’s happened to your surrounding？）」という環境面の障壁を尋ねる問いかけになる。"}],["$","p","10",{"children":"このような見方を通して人を理解し支援しようとする考え方がトラウマインフォームドケア（TIC）の基盤となっている。TICは、特定の治療法というよりも、人々や社会の「文化を変えるプロセス」である。具体的には、次の4つのステップが重視される。"}],["$","p","11",{"children":"・トラウマの影響を理解する（Realize）"}],["$","p","12",{"children":"・トラウマのサインに気づく（Recognize）"}],["$","p","13",{"children":"・十分な知識をもって適切に対応する（Respond）"}],["$","p","14",{"children":"・再トラウマを招かない（Resist re-traumatization）"}],["$","p","15",{"children":"相手の言動の背景に「目に見えない心のケガ」があるかもしれないと想像することが、安全で安心な関わりの第一歩となる。"}],["$","p","16",{"children":"こうした視点を育んでもらう取り組みの一つとして、私は「トラウマ展」という展覧会を開催した。きっかけは「人生について描いてください」と描いてもらったワークショップでの絵の半数以上がトラウマティックな出来事を示すものだったことだ。"}],["$","p","17",{"children":"親の板挟みになり泣いている子どもの絵、精神科病院の保護室で拘束されている人の目を真っ赤に塗った絵、交通事故で家族を亡くしたこころの中を描いた絵、山の頂きが描かれていない岩山を登る人を描いた8歳の子どもの絵もあった。多くの人が心に傷を抱えていることを実感するとともに、アートとして表現された他人の痛みに触れ、理解と共感を深められるのではないかと考えたのである。"}],["$","p","18",{"children":"展覧会では、こども時代の逆境的体験やグリーフ（悲嘆）、DV（ドメスティックバイオレンス）、事故やいじめ等の経験を描いた絵画を来場者が鑑賞し、他者の痛みに触れる。終了後の調査では、多くの来場者が「自分の中にもトラウマがあることに気づいた」「他人事ではないと感じた」と回答した。人の傷つきに触れる体験は、私たちの共感力を高め、他人の苦しみを「自分事」として捉え直すきっかけを与えるのである。"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La"],"$Lb"]}],"$Lc","$Ld","$Le",null,"$Lf","$L10"]}],["$L11"],"$L12"]}],"isPartial":"$@13","staleTime":"$14","varyParams":null},{"rsc":"$L15","isPartial":"$@16","staleTime":"$14","varyParams":null},{"rsc":"$L17","isPartial":"$@18","staleTime":"$14","varyParams":"$19"},{"rsc":"$L1a","isPartial":"$@1b","staleTime":"$14","varyParams":"$19"}],"isUpgradeableISRFallback":false,"a":"$@1c","rootVaryParams":null,"needsRuntimeRequest":"$@1d"}
+1e:I[36936,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+1f:I[98337,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+22:I[9441,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+23:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+24:"$Sreact.suspense"
+26:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+27:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+28:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+29:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+2a:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","19",{"children":"日常の温かな支え合いが逆境を乗り越える力に"}]
+4:["$","p","20",{"children":"人間には、どんなに大きな逆境や折れそうな出来事に見舞われても、それを乗り越えて立ち直る力がある。この力を「レジリエンス（回復力）」と呼ぶ。レジリエンスは、強い力で曲げられても折れることなく、しなやかに元の形に戻り、さらに成長していく若い小枝のような能力である。さらに、大きな挫折やトラウマを経験した後に、人の温かさを知ったり、人生の価値観が変わったりして、以前よりも人間として大きく成長していく現象もある。これを「心的外傷後成長（PTG）」と呼ぶ。"}]
+5:["$","p","21",{"children":"レジリエンスや成長は、一人きりで孤独に生み出せるものではない。地域での温かい繋がりや、日常的な支え合いのネットワークが存在して初めて育まれる。例えば、大学生が地域の子どもたちと一緒に「防災お菓子ポシェット」を作る活動では、楽しみながら災害への備えを学ぶことで、地域全体の防災意識と回復力が高まった。"}]
+6:["$","p","22",{"children":"「子ども期の肯定的体験（PCEs）」と呼ばれる、子どもが安全で支持的であたたかな関わりを継続的に経験することにより、子ども時代に虐待等の逆境的な経験をしていたとしても、トラウマの影響に左右されずに生きていけることが科学的に証明されている。"}]
+7:["$","p","23",{"children":"人による暴力や気候変動、自然災害など、社会の多様な困難が増す現代において、誰しもが何らかの傷やリスクを抱えて生きている。だからこそ、一人ひとりが「トラウマのレンズ」を通して、相手の痛みに気づき、温かく寄り添う社会を作ることが求められている。一人ひとりの尊厳が守られ、安心・安全・信頼感を感じられる暮らしが保証されたとき、私たちはどんな逆境をも共に乗り越えていけるのである。"}]
+8:["$","p","24",{"children":"大岡由佳（おおおか・ゆうか)"}]
+9:["$","p","25",{"children":"武庫川女子大学 心理・社会福祉学部 教授"}]
+a:["$","p","26",{"children":"関西大学社会学部卒業後、民間精神科病院勤務を経て2003年より久留米大学医学部精神神経科学教室において精神保健福祉士として勤務。同時期に、同大学博士課程在籍。08年に博士（保健福祉学）取得後、帝塚山大学心理福祉学部の助手、講師を務める。10年より武庫川女子大学に着任し、現在に至る。"}]
+b:["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]
+c:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/3cb21b755ff5520c1acbdf15940f930f7252abc3?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}]
+20:T224b,私たちは生活の中で「トラウマ」という言葉を耳にすることがある。日常会話では軽いショックを受けたときにも使われがちであるが、専門的には「個人の対処できる限界を超えた、非常に強い不安や恐怖をもたらす出来事」を指す。自然災害や痛ましい事故、あるいは暴力や虐待、いじめ、貧困といった体験が心に深い傷を残す。近年、そのような人々のトラウマについて正しい知識を持ち、その影響を理解した上で人に接する関わり方、「トラウマインフォームドケア（TIC）」が、福祉や心理、教育、司法分野で重要とされるようになっている。
+
+私はこれまで、被害者支援やトラウマに関する研究・実践に携わってきた。本稿ではトラウマやその関わり方について一緒に考えてみてほしい。
+
+トラウマによる不調は「本人の気持ちの問題」ではない
+
+大きなトラウマを体験すると、私たちの心やからだ、行動にはさまざまな変化が現れる。例えば、つらい出来事を悪夢で見たり突然思い出したりする「再体験」、関連する場所や人を避けようとする「回避」、孤立感や罪悪感を強く抱く「認知と気分の陰性の変化」、そして眠れなくなったり些細なことでイライラして怒ったりする「覚醒亢進（こうしん）」といった症状である。
+
+これらは決して「心が弱いから」起きるものではない。自分の対処能力を超えたトラウマ体験により安心感や信頼感が崩れ去った結果起こる、脳や神経の反応である。専門家は「異常な事態に対する正常な反応」と表現する。苦しんでいる人を責めたり、「本人の気持ちの問題」で片付けたりしてはならないのである。
+
+かつて障害や不調は「個人の中にある病気や問題」と捉えられ、医療による個別の治療やリハビリテーションばかりが重視されていた（医学モデル）。しかし現在では、「社会や環境にある障害物（生きづらさ）こそが問題である」と考える「社会モデル」の重要性が唱えられている。障害者基本法をはじめとした法律にもその発想が取り入れられた。
+
+実際、生活する環境や社会階層によって、受けやすいリスクや健康状態に差が生じることがわかっている。さらに近年の研究では、気候変動による異常気象や酷暑といった環境の変化すらも、家庭内のストレスを増やし、虐待や暴力、いじめなどのリスクを高めることが指摘されている。困難を抱える人を個人の責任にするのではなく、社会や周囲の環境の側を変えて支えを作っていく発想が不可欠である。
+
+「何が悪いのか」ではなく「何が起きているのか」に目を向ける
+
+では、どのように環境を変え、支えを作っていけばよいのだろうか。そこで登場するのが「トラウマのレンズ」という考え方である。
+
+従来の見方では、困った行動をする人に対して「この人は何が悪いの？（What’s wrong with you？）」と、その人の中に問題を探す問いかけをしがちであった。しかし、トラウマのレンズを通して見ると、「この人に何が起こっているの？（What’s happened to you？）」と、その人が遭遇した出来事やそれによる影響に目を向けた問いかけに変わる。さらに、このレンズで環境に目を向けると「この人を取り巻く環境の中で、何が負担になっているの？（What’s happened to your surrounding？）」という環境面の障壁を尋ねる問いかけになる。
+
+このような見方を通して人を理解し支援しようとする考え方がトラウマインフォームドケア（TIC）の基盤となっている。TICは、特定の治療法というよりも、人々や社会の「文化を変えるプロセス」である。具体的には、次の4つのステップが重視される。
+
+・トラウマの影響を理解する（Realize）
+
+・トラウマのサインに気づく（Recognize）
+
+・十分な知識をもって適切に対応する（Respond）
+
+・再トラウマを招かない（Resist re-traumatization）
+
+相手の言動の背景に「目に見えない心のケガ」があるかもしれないと想像することが、安全で安心な関わりの第一歩となる。
+
+こうした視点を育んでもらう取り組みの一つとして、私は「トラウマ展」という展覧会を開催した。きっかけは「人生について描いてください」と描いてもらったワークショップでの絵の半数以上がトラウマティックな出来事を示すものだったことだ。
+
+親の板挟みになり泣いている子どもの絵、精神科病院の保護室で拘束されている人の目を真っ赤に塗った絵、交通事故で家族を亡くしたこころの中を描いた絵、山の頂きが描かれていない岩山を登る人を描いた8歳の子どもの絵もあった。多くの人が心に傷を抱えていることを実感するとともに、アートとして表現された他人の痛みに触れ、理解と共感を深められるのではないかと考えたのである。
+
+展覧会では、こども時代の逆境的体験やグリーフ（悲嘆）、DV（ドメスティックバイオレンス）、事故やいじめ等の経験を描いた絵画を来場者が鑑賞し、他者の痛みに触れる。終了後の調査では、多くの来場者が「自分の中にもトラウマがあることに気づいた」「他人事ではないと感じた」と回答した。人の傷つきに触れる体験は、私たちの共感力を高め、他人の苦しみを「自分事」として捉え直すきっかけを与えるのである。
+
+日常の温かな支え合いが逆境を乗り越える力に
+
+人間には、どんなに大きな逆境や折れそうな出来事に見舞われても、それを乗り越えて立ち直る力がある。この力を「レジリエンス（回復力）」と呼ぶ。レジリエンスは、強い力で曲げられても折れることなく、しなやかに元の形に戻り、さらに成長していく若い小枝のような能力である。さらに、大きな挫折やトラウマを経験した後に、人の温かさを知ったり、人生の価値観が変わったりして、以前よりも人間として大きく成長していく現象もある。これを「心的外傷後成長（PTG）」と呼ぶ。
+
+レジリエンスや成長は、一人きりで孤独に生み出せるものではない。地域での温かい繋がりや、日常的な支え合いのネットワークが存在して初めて育まれる。例えば、大学生が地域の子どもたちと一緒に「防災お菓子ポシェット」を作る活動では、楽しみながら災害への備えを学ぶことで、地域全体の防災意識と回復力が高まった。
+
+「子ども期の肯定的体験（PCEs）」と呼ばれる、子どもが安全で支持的であたたかな関わりを継続的に経験することにより、子ども時代に虐待等の逆境的な経験をしていたとしても、トラウマの影響に左右されずに生きていけることが科学的に証明されている。
+
+人による暴力や気候変動、自然災害など、社会の多様な困難が増す現代において、誰しもが何らかの傷やリスクを抱えて生きている。だからこそ、一人ひとりが「トラウマのレンズ」を通して、相手の痛みに気づき、温かく寄り添う社会を作ることが求められている。一人ひとりの尊厳が守られ、安心・安全・信頼感を感じられる暮らしが保証されたとき、私たちはどんな逆境をも共に乗り越えていけるのである。
+
+大岡由佳（おおおか・ゆうか)
+
+武庫川女子大学 心理・社会福祉学部 教授
+
+関西大学社会学部卒業後、民間精神科病院勤務を経て2003年より久留米大学医学部精神神経科学教室において精神保健福祉士として勤務。同時期に、同大学博士課程在籍。08年に博士（保健福祉学）取得後、帝塚山大学心理福祉学部の助手、講師を務める。10年より武庫川女子大学に着任し、現在に至る。d:["$","section",null,{"className":"article-actions","children":[["$","$L1e",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/60c66ff460c66ff478a25548","title":"トラウマのレンズをかけ、人の傷つきに寄り添い逆境を乗り越える（大岡由佳／武庫川女子大学教授）(Science Portal)","locale":"ja","take":null}],["$","$L1f",null,{"title":"トラウマのレンズをかけ、人の傷つきに寄り添い逆境を乗り越える（大岡由佳／武庫川女子大学教授）(Science Portal)","excerpt":"$20","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/60c66ff460c66ff478a25548","locale":"ja"}],"$L21"]}]
+e:["$","$L22",null,{"placement":"article","className":"mt-8"}]
+f:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+10:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","dw:https://dw.com/en/eu-commission-confirms-it-was-targeted-in-cyberattack-using-ai-tools/a-79993016?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/52f592a852f592a827ca2572","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"EU Commission confirms it was targeted in cyberattack using AI tools"}]]}]}],["$","li","nhk-politics:https://news.web.nhk/newsweb/na/nd-20261119de78721",{"children":["$","$L2",null,{"href":"/ja/n/f198a053f198a0531e4e87e3","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"高市首相 トランプ大統領から米中ロ首脳会談の説明受ける"}]]}]}],["$","li","nhk-world:https://news.web.nhk/newsweb/na/nd-20261119de78423",{"children":["$","$L2",null,{"href":"/ja/n/ad8d725fad8d725f99f72887","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"【解説】初の米中ロ首脳会談 どう見たか"}]]}]}]]}]]}]
+11:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+12:["$","$L23",null,{"children":["$","$24",null,{"name":"Next.MetadataOutlet","children":"$@25"}]}]
+15:["$","$1","h",{"children":[null,["$","$L26",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L27",null,{"children":["$","$24",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"トラウマのレンズをかけ、人の傷つきに寄り添い逆境を乗り越える（大岡由佳／武庫川女子大学教授）(Science Portal)"}],["$","meta","1",{"name":"description","content":"私たちは生活の中で「トラウマ」という言葉を耳にすることがある。日常会話では軽いショックを受けたときにも使われがちであるが、専門的には「個人の対処できる限界を超えた、非常に強い不安や恐怖をもたらす出来事」を指す。自然災害や痛ましい事故、あるいは暴力や虐待、いじめ、貧困といった体験が心に深い傷を残す。近年、そのような人々のトラウマについて正しい知識を持ち、その影響を理解した上で人に接する関わり方、「トラウマインフォームドケア（TIC）」が、福祉や心理、教育、司法分野で重要とされるようになっている。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"トラウマのレンズをかけ、人の傷つきに寄り添い逆境を乗り越える（大岡由佳／武庫川女子大学教授）(Science Portal)"}],["$","meta","4",{"property":"og:description","content":"私たちは生活の中で「トラウマ」という言葉を耳にすることがある。日常会話では軽いショックを受けたときにも使われがちであるが、専門的には「個人の対処できる限界を超えた、非常に強い不安や恐怖をもたらす出来事」を指す。自然災害や痛ましい事故、あるいは暴力や虐待、いじめ、貧困といった体験が心に深い傷を残す。近年、そのような人々のトラウマについて正しい知識を持ち、その影響を理解した上で人に接する関わり方、「トラウマインフォームドケア（TIC）」が、福祉や心理、教育、司法分野で重要とされるようになっている。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/60c66ff460c66ff478a25548/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261119-00015000-sportal-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"トラウマのレンズをかけ、人の傷つきに寄り添い逆境を乗り越える（大岡由佳／武庫川女子大学教授）(Science Portal)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"トラウマのレンズをかけ、人の傷つきに寄り添い逆境を乗り越える（大岡由佳／武庫川女子大学教授）(Science Portal)"}],["$","meta","14",{"name":"twitter:description","content":"私たちは生活の中で「トラウマ」という言葉を耳にすることがある。日常会話では軽いショックを受けたときにも使われがちであるが、専門的には「個人の対処できる限界を超えた、非常に強い不安や恐怖をもたらす出来事」を指す。自然災害や痛ましい事故、あるいは暴力や虐待、いじめ、貧困といった体験が心に深い傷を残す。近年、そのような人々のトラウマについて正しい知識を持ち、その影響を理解した上で人に接する関わり方、「トラウマインフォームドケア（TIC）」が、福祉や心理、教育、司法分野で重要とされるようになっている。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261119-00015000-sportal-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L28","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+17:["$","$1","c",{"children":[null,["$","$L29",null,{"parallelRouterKey":"children","template":["$","$L2a",null,{}]}]]}]
+1a:["$","$1","c",{"children":[null,["$","$L29",null,{"parallelRouterKey":"children","template":["$","$L2a",null,{}]}]]}]
+1d:true
+21:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%83%88%E3%83%A9%E3%82%A6%E3%83%9E%E3%81%AE%E3%83%AC%E3%83%B3%E3%82%BA%E3%82%92%E3%81%8B%E3%81%91%E3%80%81%E4%BA%BA%E3%81%AE%E5%82%B7%E3%81%A4%E3%81%8D%E3%81%AB%E5%AF%84%E3%82%8A%E6%B7%BB%E3%81%84%E9%80%86%E5%A2%83%E3%82%92%E4%B9%97%E3%82%8A%E8%B6%8A%E3%81%88%E3%82%8B&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+25:null
+14:300
+14:C
+1c:0
+16:"$undefined"
+18:"$undefined"
+1b:"$undefined"
+13:"$undefined"
