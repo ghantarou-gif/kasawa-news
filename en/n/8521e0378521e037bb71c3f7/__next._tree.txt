@@ -1,0 +1,5 @@
+:HL["/kasawa-news/_next/static/chunks/34wcii1toj0ua.css","style"]
+:HL["/kasawa-news/_next/static/chunks/0c_awa2y669zf.css","style"]
+:HC["/",""]
+:HL["https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-28T103002Z_427415069_RC2WWOASQ1Q0_RTRMADP_3_IRAN-CRISIS-YEMEN-STRIKE-1024x683.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4184,"slots":{"children":{"name":"locale","param":{"type":"d","key":"en","siblings":["go"]},"prefetchHints":4196,"slots":{"children":{"name":"n","param":null,"prefetchHints":4192,"slots":{"children":{"name":"id","param":{"type":"d","key":"8521e0378521e037bb71c3f7","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"VRkKTfqjSA9WSnVt327gj"}

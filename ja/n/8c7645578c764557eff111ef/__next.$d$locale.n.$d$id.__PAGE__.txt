@@ -1,0 +1,113 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg","image"]
+15:X
+1a:X
+1a:C
+0:{"buildId":"VRkKTfqjSA9WSnVt327gj","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-25","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"ロシアのウクライナでの戦死者は約50万人 流出公式データをBBCが分析"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"3 日前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"ロシアは戦死兵の数を公表していない。写真はロシア西部ヴォルガ地方にある戦没者墓地"}],["$","p","1",{"children":"故人の写真が飾られた十字架や軍旗、花束などにあふれた墓地を撮影した"}],["$","p","2",{"children":"オルガ・イヴシナ記者、ヤロスラヴァ・キリュヒナ記者（BBCロシア語）"}],["$","p","3",{"children":"流出したロシア政府の統計によると、2022年のウクライナへの全面侵攻以来、少なくとも49万334人のロシア兵が死亡していることが、BBCの分析で明らかになった。"}],["$","p","4",{"children":"流出したロシア連邦統計局（Rosstat）のデータは、ウクライナへの本格的な侵攻がロシア人の死因や死亡年齢などのパターンを根本的に変化させたこと、そしてウラジーミル・プーチン大統領が数日で終わると考えていた戦争が今やほぼ5年も続いている中で、どれほど多くの人命が犠牲になったかを明らかにしている。"}],["$","p","5",{"children":"BBCロシア語版はこのほど、ベラルーシのサイバーグループ「サイバー・パルチザンズBY」とウクライナのハッカー集団「サイレント・クロウ」によるハッキングを経て、2021年から2026年9月までの1100万件以上の死亡記録にアクセスすることができた。"}],["$","p","6",{"children":"Rosstatはサイバー攻撃を受けたことを認めたものの、機密情報が漏洩（ろうえい）したことは否定している。"}],["$","p","7",{"children":"BBCロシア語はロシアの独立系サイト「メディアゾナ」と共に、Rosstatのデータと、侵攻開始以降にオープンソースからBBCが収集したデータに基づく独自の戦死者リストを比較した。その結果、90％で一致が見られた。"}],["$","p","8",{"children":"統計によると、2025年にロシアで命を落とした18歳～24歳の若者のうち、65%が戦死だった。25歳～34歳では59%だった。一方、45歳～54歳に限っては、心血管疾患による死者数が戦死者を上回っていた。"}],["$","p","9",{"children":"このデータは、ウクライナの特定地域における損失の規模も明らかにしている。約2万人のロシア兵が、ウクライナの10カ所の村の支配権をめぐる戦闘で命を落とした。この10カ所の村の戦前人口は、計1万2000人だった"}],["$","p","10",{"children":"東部ドネツク州バフムートの南にあるアンドリーウカという小さな村をめぐる戦闘では、1122人のロシア人が命を落とした。戦前、この村には74人が住んでいた。"}],["$","p","11",{"children":"ロシアは、2022年2月に全面侵攻を開始して以降の人的損失についてデータを公表していない。2024年からは、軍事損失の規模を測る指標として用いられていた「外因による死者数」のデータも更新されていない。"}],["$","p","12",{"children":"例えば、ウクライナ東部ドネツク州とルハンスク州の占領地域出身でロシア軍に加わって戦い、死亡したロシア兵について、Rosstatの記録に掲載されていたのは、BBCとメディアゾナが確認している死者の70％に過ぎなかった。"}],["$","p","13",{"children":"Rosstatのデータセットに死者の氏名は含まれていないが、年齢、居住地、死亡場所、および死亡状況が記録されている。"}],["$","p","14",{"children":"BBCはまず、データを場所別に絞り込み、ウクライナ国内と、ウクライナ軍による侵攻があったロシア国境地域のみを残した。"}],["$","p","15",{"children":"次に、戦闘作戦中の爆発や破片など、死因が軍事関連だとはっきりしている42万5174件の記録を特定した。"}],["$","p","16",{"children":"この統計には民間人が含まれる可能性があるため、女性と18～65歳以外の男性を除外した。ロシアが占領しているウクライナの4地域に居住し、そこで死亡した人については、兵役記録がない限り、民間人の可能性があるとして除外した。"}],["$","p","17",{"children":"さらに、雇用状況を調べることで追加で1万4093件を特定した。"}],["$","p","18",{"children":"また、裁判所の判決に基づいて死者として記録されていた5万1067件も加えた。裁判所が死者と記録するよう命じるのは、兵士が戦闘地域で6カ月以上行方不明になり、遺体が発見されていない場合の記録に多い。"}],["$","p","19",{"children":"ここでも、ウクライナとロシアの紛争地域での死者数のみを数えることで、民間人を除外した。"}],["$","p","20",{"children":"BBCロシア語とメディアゾナ独自の詳細な記録では、この戦争におけるロシアの死者数は29万12人に達している。この数字は、公式報告書やソーシャルメディア、新しい慰霊碑や墓地などから検証したもの。すべての死者が公に報告されているわけではないため、実際の死者数はさらに多い可能性が高い。"}],["$","p","21",{"children":"全体として、Rosstatのデータセットは、BBCが独自に集計したデータから観測した傾向を裏付けていた。"}],["$","p","22",{"children":"BBCロシア語が分析した流出文書によると、2022年の戦死者の平均年齢は34歳だった。その後、捕虜や雇い兵が加わったことで、2025年までに平均年齢は40歳に上昇した。BBCの独自集計では、戦死者の平均年齢は推定38歳だった。"}],["$","p","23",{"children":"戦死者数において圧倒的な割合を占めているのが、ロシアで最も貧しい地域の一つの東シベリア地方だ。トゥヴァ共和国、ブリヤート共和国、ザバイカル地方の男性は、モスクワやサンクトペテルブルクといった大都市の住民に比べて、戦争で死亡する確率が20～25倍も高い。"}],["$","p","24",{"children":"モスクワから南西110キロに位置するカルーガ州マロヤロスラヴェツの中心部にある街灯柱には、ウクライナで戦死したロシア兵の遺影が飾られている"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"],"$Lc"]}],"$Ld","$Le","$Lf",null,"$L10","$L11"]}],["$L12"],"$L13"]}],"isPartial":"$@14","staleTime":"$15","varyParams":null},{"rsc":"$L16","isPartial":"$@17","staleTime":"$15","varyParams":null},{"rsc":"$L18","isPartial":"$@19","staleTime":"$15","varyParams":"$1a"},{"rsc":"$L1b","isPartial":"$@1c","staleTime":"$15","varyParams":"$1a"}],"isUpgradeableISRFallback":false,"a":"$@1d","rootVaryParams":null,"needsRuntimeRequest":"$@1e"}
+1f:I[36936,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+20:I[98337,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+23:I[9441,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+24:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+25:"$Sreact.suspense"
+27:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+28:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+29:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+2a:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+2b:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","25",{"children":"ロシア正教会の鐘楼と、電柱に飾られたロシア兵の遺影、その下で険しい顔をしてうつむいている女性を仰ぎ見る形で撮影した写真。背景の空は曇っている"}]
+4:["$","p","26",{"children":"ほとんどの地域では、Rosstatのデータに基づく死者数の分布は、BBCロシア語のリストの分布と、わずか数十分の1パーセントポイントしか違わなかった。"}]
+5:["$","p","27",{"children":"Rosstatの資料を分析した結果、ロシアのために戦って死亡した兵士の中には、少なくとも5017人の外国人が含まれていた。その内訳はウズベキスタン人1031人、タジキスタン人720人となっている。民間人を含めないようにするため、ウクライナ人はこの集計から除外した。"}]
+6:["$","p","28",{"children":"これは控えめな推定値だ。データベースでは2重国籍者はロシア人として登録されているほか、2024年にウクライナ軍のロシア侵攻を撃退する際に死亡した北朝鮮人について、言及がないからだ。"}]
+7:["$","p","29",{"children":"BBCは、人工衛星画像と、北朝鮮の首都・平壌に新しく建てられた慰霊碑の公式写真を分析することで、ロシアで死亡した北朝鮮兵士2304人を特定した。"}]
+8:["$","p","30",{"children":"ハッキングされたロシアの統計は不完全かもしれないが、BBCロシア語とメディアゾナの独自調査の結果と組み合わせて考えることで重要な意味を持つ。軍事専門家は、オープンソースから得られた29万12人という死者数は、実際の死者数の45～55％に相当する可能性があると推定している。つまり、ロシアではこの戦争で52万7295人から64万4471人が犠牲となった可能性がある。"}]
+9:["$","p","31",{"children":"4年10カ月に及ぶ戦争という状況を踏まえ、1989年に終結したソ連のアフガニスタン戦争と比較すると、ロシアにとってこれらの数値は高いものだと言える。"}]
+a:["$","p","32",{"children":"ウクライナのウォロディミル・ゼレンスキー大統領は今年7月、同国の戦死者は約5万人だと述べ、これが最新の公表数となっている。しかし、匿名ウェブサイト「UA Losses」がオープンソースに基づいて作成したリストでは、その数は11万5952人となっている。"}]
+b:["$","p","33",{"children":"（英語記事 Russia's own figures show almost 500,000 deaths in war in Ukraine）"}]
+c:["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]
+d:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/cmp3ell1k2y5o","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}]
+21:T200b,ロシアは戦死兵の数を公表していない。写真はロシア西部ヴォルガ地方にある戦没者墓地
+
+故人の写真が飾られた十字架や軍旗、花束などにあふれた墓地を撮影した
+
+オルガ・イヴシナ記者、ヤロスラヴァ・キリュヒナ記者（BBCロシア語）
+
+流出したロシア政府の統計によると、2022年のウクライナへの全面侵攻以来、少なくとも49万334人のロシア兵が死亡していることが、BBCの分析で明らかになった。
+
+流出したロシア連邦統計局（Rosstat）のデータは、ウクライナへの本格的な侵攻がロシア人の死因や死亡年齢などのパターンを根本的に変化させたこと、そしてウラジーミル・プーチン大統領が数日で終わると考えていた戦争が今やほぼ5年も続いている中で、どれほど多くの人命が犠牲になったかを明らかにしている。
+
+BBCロシア語版はこのほど、ベラルーシのサイバーグループ「サイバー・パルチザンズBY」とウクライナのハッカー集団「サイレント・クロウ」によるハッキングを経て、2021年から2026年9月までの1100万件以上の死亡記録にアクセスすることができた。
+
+Rosstatはサイバー攻撃を受けたことを認めたものの、機密情報が漏洩（ろうえい）したことは否定している。
+
+BBCロシア語はロシアの独立系サイト「メディアゾナ」と共に、Rosstatのデータと、侵攻開始以降にオープンソースからBBCが収集したデータに基づく独自の戦死者リストを比較した。その結果、90％で一致が見られた。
+
+統計によると、2025年にロシアで命を落とした18歳～24歳の若者のうち、65%が戦死だった。25歳～34歳では59%だった。一方、45歳～54歳に限っては、心血管疾患による死者数が戦死者を上回っていた。
+
+このデータは、ウクライナの特定地域における損失の規模も明らかにしている。約2万人のロシア兵が、ウクライナの10カ所の村の支配権をめぐる戦闘で命を落とした。この10カ所の村の戦前人口は、計1万2000人だった
+
+東部ドネツク州バフムートの南にあるアンドリーウカという小さな村をめぐる戦闘では、1122人のロシア人が命を落とした。戦前、この村には74人が住んでいた。
+
+ロシアは、2022年2月に全面侵攻を開始して以降の人的損失についてデータを公表していない。2024年からは、軍事損失の規模を測る指標として用いられていた「外因による死者数」のデータも更新されていない。
+
+例えば、ウクライナ東部ドネツク州とルハンスク州の占領地域出身でロシア軍に加わって戦い、死亡したロシア兵について、Rosstatの記録に掲載されていたのは、BBCとメディアゾナが確認している死者の70％に過ぎなかった。
+
+Rosstatのデータセットに死者の氏名は含まれていないが、年齢、居住地、死亡場所、および死亡状況が記録されている。
+
+BBCはまず、データを場所別に絞り込み、ウクライナ国内と、ウクライナ軍による侵攻があったロシア国境地域のみを残した。
+
+次に、戦闘作戦中の爆発や破片など、死因が軍事関連だとはっきりしている42万5174件の記録を特定した。
+
+この統計には民間人が含まれる可能性があるため、女性と18～65歳以外の男性を除外した。ロシアが占領しているウクライナの4地域に居住し、そこで死亡した人については、兵役記録がない限り、民間人の可能性があるとして除外した。
+
+さらに、雇用状況を調べることで追加で1万4093件を特定した。
+
+また、裁判所の判決に基づいて死者として記録されていた5万1067件も加えた。裁判所が死者と記録するよう命じるのは、兵士が戦闘地域で6カ月以上行方不明になり、遺体が発見されていない場合の記録に多い。
+
+ここでも、ウクライナとロシアの紛争地域での死者数のみを数えることで、民間人を除外した。
+
+BBCロシア語とメディアゾナ独自の詳細な記録では、この戦争におけるロシアの死者数は29万12人に達している。この数字は、公式報告書やソーシャルメディア、新しい慰霊碑や墓地などから検証したもの。すべての死者が公に報告されているわけではないため、実際の死者数はさらに多い可能性が高い。
+
+全体として、Rosstatのデータセットは、BBCが独自に集計したデータから観測した傾向を裏付けていた。
+
+BBCロシア語が分析した流出文書によると、2022年の戦死者の平均年齢は34歳だった。その後、捕虜や雇い兵が加わったことで、2025年までに平均年齢は40歳に上昇した。BBCの独自集計では、戦死者の平均年齢は推定38歳だった。
+
+戦死者数において圧倒的な割合を占めているのが、ロシアで最も貧しい地域の一つの東シベリア地方だ。トゥヴァ共和国、ブリヤート共和国、ザバイカル地方の男性は、モスクワやサンクトペテルブルクといった大都市の住民に比べて、戦争で死亡する確率が20～25倍も高い。
+
+モスクワから南西110キロに位置するカルーガ州マロヤロスラヴェツの中心部にある街灯柱には、ウクライナで戦死したロシア兵の遺影が飾られている
+
+ロシア正教会の鐘楼と、電柱に飾られたロシア兵の遺影、その下で険しい顔をしてうつむいている女性を仰ぎ見る形で撮影した写真。背景の空は曇っている
+
+ほとんどの地域では、Rosstatのデータに基づく死者数の分布は、BBCロシア語のリストの分布と、わずか数十分の1パーセントポイントしか違わなかった。
+
+Rosstatの資料を分析した結果、ロシアのために戦って死亡した兵士の中には、少なくとも5017人の外国人が含まれていた。その内訳はウズベキスタン人1031人、タジキスタン人720人となっている。民間人を含めないようにするため、ウクライナ人はこの集計から除外した。
+
+これは控えめな推定値だ。データベースでは2重国籍者はロシア人として登録されているほか、2024年にウクライナ軍のロシア侵攻を撃退する際に死亡した北朝鮮人について、言及がないからだ。
+
+BBCは、人工衛星画像と、北朝鮮の首都・平壌に新しく建てられた慰霊碑の公式写真を分析することで、ロシアで死亡した北朝鮮兵士2304人を特定した。
+
+ハッキングされたロシアの統計は不完全かもしれないが、BBCロシア語とメディアゾナの独自調査の結果と組み合わせて考えることで重要な意味を持つ。軍事専門家は、オープンソースから得られた29万12人という死者数は、実際の死者数の45～55％に相当する可能性があると推定している。つまり、ロシアではこの戦争で52万7295人から64万4471人が犠牲となった可能性がある。
+
+4年10カ月に及ぶ戦争という状況を踏まえ、1989年に終結したソ連のアフガニスタン戦争と比較すると、ロシアにとってこれらの数値は高いものだと言える。
+
+ウクライナのウォロディミル・ゼレンスキー大統領は今年7月、同国の戦死者は約5万人だと述べ、これが最新の公表数となっている。しかし、匿名ウェブサイト「UA Losses」がオープンソースに基づいて作成したリストでは、その数は11万5952人となっている。
+
+（英語記事 Russia's own figures show almost 500,000 deaths in war in Ukraine）e:["$","section",null,{"className":"article-actions","children":[["$","$L1f",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/8c7645578c764557eff111ef","title":"ロシアのウクライナでの戦死者は約50万人 流出公式データをBBCが分析","locale":"ja","take":null}],["$","$L20",null,{"title":"ロシアのウクライナでの戦死者は約50万人 流出公式データをBBCが分析","excerpt":"$21","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/8c7645578c764557eff111ef","locale":"ja"}],"$L22"]}]
+f:["$","$L23",null,{"placement":"article","className":"mt-8"}]
+10:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+11:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","yahoo-science:https://news.yahoo.co.jp/articles/d637fef2807bff6a7f353c6e49a4ea16e10ac362?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/8da0e2918da0e291e6357f89","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"2028年度に月に打ち上げ予定の「無人探査機」 走行する様子を初公開 JAXA(テレビ朝日系（ANN）)"}]]}]}],["$","li","nhk-sports:https://news.web.nhk/newsweb/na/nd-20261125de81524",{"children":["$","$L2",null,{"href":"/ja/n/14d5ada714d5ada7564f2e8f","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"サッカーJ1 第16節 首位FC東京はサンフレッチェ広島と引き分け"}]]}]}],["$","li","dw:https://dw.com/en/german-firms-eye-africa-as-global-trade-shocks-hit-traditional-markets/a-80047671?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/d4f3604fd4f3604f08201457","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"German firms eye Africa as global trade shocks hit traditional markets"}]]}]}]]}]]}]
+12:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+13:["$","$L24",null,{"children":["$","$25",null,{"name":"Next.MetadataOutlet","children":"$@26"}]}]
+16:["$","$1","h",{"children":[null,["$","$L27",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L28",null,{"children":["$","$25",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ロシアのウクライナでの戦死者は約50万人 流出公式データをBBCが分析"}],["$","meta","1",{"name":"description","content":"ロシアは戦死兵の数を公表していない。写真はロシア西部ヴォルガ地方にある戦没者墓地"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"ロシアのウクライナでの戦死者は約50万人 流出公式データをBBCが分析"}],["$","meta","4",{"property":"og:description","content":"ロシアは戦死兵の数を公表していない。写真はロシア西部ヴォルガ地方にある戦没者墓地"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/8c7645578c764557eff111ef/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F9e47%2Flive%2F6a03aa70-e832-11f1-917e-35f1674fb52c.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"ロシアのウクライナでの戦死者は約50万人 流出公式データをBBCが分析"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"ロシアのウクライナでの戦死者は約50万人 流出公式データをBBCが分析"}],["$","meta","14",{"name":"twitter:description","content":"ロシアは戦死兵の数を公表していない。写真はロシア西部ヴォルガ地方にある戦没者墓地"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F9e47%2Flive%2F6a03aa70-e832-11f1-917e-35f1674fb52c.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L29","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+18:["$","$1","c",{"children":[null,["$","$L2a",null,{"parallelRouterKey":"children","template":["$","$L2b",null,{}]}]]}]
+1b:["$","$1","c",{"children":[null,["$","$L2a",null,{"parallelRouterKey":"children","template":["$","$L2b",null,{}]}]]}]
+1e:true
+22:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%83%AD%E3%82%B7%E3%82%A2%E3%81%AE%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E3%81%A7%E3%81%AE%E6%88%A6%E6%AD%BB%E8%80%85%E3%81%AF%E7%B4%8450%E4%B8%87%E4%BA%BA+%E6%B5%81%E5%87%BA%E5%85%AC%E5%BC%8F%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92BBC%E3%81%8C%E5%88%86%E6%9E%90&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+26:null
+15:300
+15:C
+1d:0
+17:"$undefined"
+19:"$undefined"
+1c:"$undefined"
+14:"$undefined"

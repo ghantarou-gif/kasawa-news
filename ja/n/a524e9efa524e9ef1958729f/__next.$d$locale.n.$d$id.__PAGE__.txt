@@ -1,0 +1,139 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261129-02232695-soccerk-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","image"]
+1b:X
+20:X
+20:C
+0:{"buildId":"VRkKTfqjSA9WSnVt327gj","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-29","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["⚽"," ","スポーツ"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"シャルケが8失点惨敗で8戦未勝利…田中聡は大勢決した後半終盤に途中出場(サッカーキング)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"26 分前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261129-02232695-soccerk-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"ブンデスリーガ第11節が28日に行われ、パーダーボルンとシャルケが対戦した。"}],["$","p","1",{"children":"現在7試合未勝利で入れ替えプレーオフ圏内の16位に沈むシャルケ。8戦ぶりの白星を目指したアウェイゲームでは勝ち点3差で15位に位置するパーダーボルンとのシックスポインターに臨んだ。なお、田中聡はこの試合でベンチスタートとなった。"}],["$","p","2",{"children":"40歳のエディン・ジェコを5試合ぶりに先発起用したシャルケは、開始直後に完璧に裏抜け下ジュニオール・アダムがボックス内でDFをかわして左足を振るが、これはややパワー不足でGKのセーブに遭う。"}],["$","p","3",{"children":"ただ、以降も縦への速さを見せた攻撃でいい形の攻めを幾度も見せていく。だが、時間の経過とともにイーブンな展開に持ち込まれると、17分には相手のロングカウンターからステファノ・マリーノにボックス内へ抜け出されるが、ここはGKロリス・カリウスの冷静な飛び出しで事なきを得る。"}],["$","p","4",{"children":"だが、直後の21分には自陣右サイドで与えたFKの場面でボックス中央でマリーノが頭でファーへ流したボールを大外に飛び込んだヤノ・テア・ホルストに押し込まれ、敵地で先に失点した。"}],["$","p","5",{"children":"その後は攻勢に転じたシャルケだったが、ジェコら前線の選手がなかなか効果的にフィニッシュまで持ち込めない。"}],["$","p","6",{"children":"すると、前半終盤の39分にはボックス中央で右からのクロスを収めたマリーノに複数のDFを無効化する、まるでダンスのような鮮やかステップワークで完全にGKカリウスもタイミングを外され、右足シュートを左隅に突き刺さされた。さらに前半アディショナルタイムにはカウンター返しで右サイドからのクロスを再びマリーノに右足ワンタッチで流し込まれ、3点ビハインドで試合を折り返した。"}],["$","p","7",{"children":"後半は押し込む入りを見せたシャルケだったが、守備の崩壊が止まらない。55分にはロングカウンターでシュテフェン・ティゲスにボックス内に持ち込まれて浮き球シュートで4点目を奪われると、その2分後には絶好調のマリーノにパーダーボルンの選手としてブンデスリーガ初のハットトリックを達成される。"}],["$","p","8",{"children":"この連続失点で試合の大勢が決した中、59分にはボックス左でボールを受けたアディル・アウシシュが正確な右足シュートで意地の1点を決める。69分にはファン・ヒチャンらアタッカー2人をピッチに送り出す。"}],["$","p","9",{"children":"だが、73分にはパーダーボルンの途中出場2選手の連携からデニズ・ツァイトラーに6点目を献上。この直後の75分にはジェコがベンチに下がり、田中がピッチに送り込まれた。"}],["$","p","10",{"children":"その後、試合はパーダーボルンが85分にPK、後半アディショナルタイムにもフェリックス・ゲッツェのゴールで2点を追加した。"}],["$","p","11",{"children":"この結果、残留争い直接対決で屈辱の8失点惨敗となったシャルケは泥沼の8試合未勝利となった。"}],["$","p","12",{"children":"パーダーボルン 8－1 シャルケ"}],["$","p","13",{"children":"1－0 21分 ヤノ・テア・ホルスト（パーダーボルン）"}],["$","p","14",{"children":"2－0 39分 ステファノ・マリーノ（パーダーボルン）"}],["$","p","15",{"children":"3－0 45分＋4 ステファノ・マリーノ（パーダーボルン）"}],["$","p","16",{"children":"4－0 55分 シュテフェン・ティゲス（パーダーボルン）"}],["$","p","17",{"children":"5－0 57分 ステファノ・マリーノ（パーダーボルン）"}],["$","p","18",{"children":"5－1 59分 アディル・アウシシュ（シャルケ）"}],["$","p","19",{"children":"6－1 73分 デニズ・ツァイトラー（パーダーボルン）"}],["$","p","20",{"children":"6－1 85分 ガブリエル・ヴィドヴィッチ（PK/パーダーボルン）"}],["$","p","21",{"children":"8－1 90分＋6 フェリックス・ゲッツェ（パーダーボルン）"}],["$","p","22",{"children":"ブンデスリーガ第11節が28日に行われ、パーダーボルンとシャルケが対戦した。"}],["$","p","23",{"children":"現在7試合未勝利で入れ替えプレーオフ圏内の16位に沈むシャルケ。8戦ぶりの白星を目指したアウェイゲームでは勝ち点3差で15位に位置するパーダーボルンとのシックスポインターに臨んだ。なお、田中聡はこの試合でベンチスタートとなった。"}],["$","p","24",{"children":"40歳のエディン・ジェコを5試合ぶりに先発起用したシャルケは、開始直後に完璧に裏抜け下ジュニオール・アダムがボックス内でDFをかわして左足を振るが、これはややパワー不足でGKのセーブに遭う。"}],["$","p","25",{"children":"ただ、以降も縦への速さを見せた攻撃でいい形の攻めを幾度も見せていく。だが、時間の経過とともにイーブンな展開に持ち込まれると、17分には相手のロングカウンターからステファノ・マリーノにボックス内へ抜け出されるが、ここはGKロリス・カリウスの冷静な飛び出しで事なきを得る。"}],["$","p","26",{"children":"だが、直後の21分には自陣右サイドで与えたFKの場面でボックス中央でマリーノが頭でファーへ流したボールを大外に飛び込んだヤノ・テア・ホルストに押し込まれ、敵地で先に失点した。"}],["$","p","27",{"children":"その後は攻勢に転じたシャルケだったが、ジェコら前線の選手がなかなか効果的にフィニッシュまで持ち込めない。"}],["$","p","28",{"children":"すると、前半終盤の39分にはボックス中央で右からのクロスを収めたマリーノに複数のDFを無効化する、まるでダンスのような鮮やかステップワークで完全にGKカリウスもタイミングを外され、右足シュートを左隅に突き刺さされた。さらに前半アディショナルタイムにはカウンター返しで右サイドからのクロスを再びマリーノに右足ワンタッチで流し込まれ、3点ビハインドで試合を折り返した。"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11"],"$L12"]}],"$L13","$L14","$L15",null,"$L16","$L17"]}],["$L18"],"$L19"]}],"isPartial":"$@1a","staleTime":"$1b","varyParams":null},{"rsc":"$L1c","isPartial":"$@1d","staleTime":"$1b","varyParams":null},{"rsc":"$L1e","isPartial":"$@1f","staleTime":"$1b","varyParams":"$20"},{"rsc":"$L21","isPartial":"$@22","staleTime":"$1b","varyParams":"$20"}],"isUpgradeableISRFallback":false,"a":"$@23","rootVaryParams":null,"needsRuntimeRequest":"$@24"}
+25:I[36936,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+26:I[98337,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+29:I[9441,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+2a:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+2b:"$Sreact.suspense"
+2d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+2e:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+2f:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+30:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+31:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","29",{"children":"後半は押し込む入りを見せたシャルケだったが、守備の崩壊が止まらない。55分にはロングカウンターでシュテフェン・ティゲスにボックス内に持ち込まれて浮き球シュートで4点目を奪われると、その2分後には絶好調のマリーノにパーダーボルンの選手としてブンデスリーガ初のハットトリックを達成される。"}]
+4:["$","p","30",{"children":"この連続失点で試合の大勢が決した中、59分にはボックス左でボールを受けたアディル・アウシシュが正確な右足シュートで意地の1点を決める。69分にはファン・ヒチャンらアタッカー2人をピッチに送り出す。"}]
+5:["$","p","31",{"children":"だが、73分にはパーダーボルンの途中出場2選手の連携からデニズ・ツァイトラーに6点目を献上。この直後の75分にはジェコがベンチに下がり、田中がピッチに送り込まれた。"}]
+6:["$","p","32",{"children":"その後、試合はパーダーボルンが85分にPK、後半アディショナルタイムにもフェリックス・ゲッツェのゴールで2点を追加した。"}]
+7:["$","p","33",{"children":"この結果、残留争い直接対決で屈辱の8失点惨敗となったシャルケは泥沼の8試合未勝利となった。"}]
+8:["$","p","34",{"children":"パーダーボルン 8－1 シャルケ"}]
+9:["$","p","35",{"children":"1－0 21分 ヤノ・テア・ホルスト（パーダーボルン）"}]
+a:["$","p","36",{"children":"2－0 39分 ステファノ・マリーノ（パーダーボルン）"}]
+b:["$","p","37",{"children":"3－0 45分＋4 ステファノ・マリーノ（パーダーボルン）"}]
+c:["$","p","38",{"children":"4－0 55分 シュテフェン・ティゲス（パーダーボルン）"}]
+d:["$","p","39",{"children":"5－0 57分 ステファノ・マリーノ（パーダーボルン）"}]
+e:["$","p","40",{"children":"5－1 59分 アディル・アウシシュ（シャルケ）"}]
+f:["$","p","41",{"children":"6－1 73分 デニズ・ツァイトラー（パーダーボルン）"}]
+10:["$","p","42",{"children":"6－1 85分 ガブリエル・ヴィドヴィッチ（PK/パーダーボルン）"}]
+11:["$","p","43",{"children":"8－1 90分＋6 フェリックス・ゲッツェ（パーダーボルン）"}]
+12:["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]
+13:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/726a5638c83ee2791979fad54fc9c596d024f44e?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}]
+27:T1f38,ブンデスリーガ第11節が28日に行われ、パーダーボルンとシャルケが対戦した。
+
+現在7試合未勝利で入れ替えプレーオフ圏内の16位に沈むシャルケ。8戦ぶりの白星を目指したアウェイゲームでは勝ち点3差で15位に位置するパーダーボルンとのシックスポインターに臨んだ。なお、田中聡はこの試合でベンチスタートとなった。
+
+40歳のエディン・ジェコを5試合ぶりに先発起用したシャルケは、開始直後に完璧に裏抜け下ジュニオール・アダムがボックス内でDFをかわして左足を振るが、これはややパワー不足でGKのセーブに遭う。
+
+ただ、以降も縦への速さを見せた攻撃でいい形の攻めを幾度も見せていく。だが、時間の経過とともにイーブンな展開に持ち込まれると、17分には相手のロングカウンターからステファノ・マリーノにボックス内へ抜け出されるが、ここはGKロリス・カリウスの冷静な飛び出しで事なきを得る。
+
+だが、直後の21分には自陣右サイドで与えたFKの場面でボックス中央でマリーノが頭でファーへ流したボールを大外に飛び込んだヤノ・テア・ホルストに押し込まれ、敵地で先に失点した。
+
+その後は攻勢に転じたシャルケだったが、ジェコら前線の選手がなかなか効果的にフィニッシュまで持ち込めない。
+
+すると、前半終盤の39分にはボックス中央で右からのクロスを収めたマリーノに複数のDFを無効化する、まるでダンスのような鮮やかステップワークで完全にGKカリウスもタイミングを外され、右足シュートを左隅に突き刺さされた。さらに前半アディショナルタイムにはカウンター返しで右サイドからのクロスを再びマリーノに右足ワンタッチで流し込まれ、3点ビハインドで試合を折り返した。
+
+後半は押し込む入りを見せたシャルケだったが、守備の崩壊が止まらない。55分にはロングカウンターでシュテフェン・ティゲスにボックス内に持ち込まれて浮き球シュートで4点目を奪われると、その2分後には絶好調のマリーノにパーダーボルンの選手としてブンデスリーガ初のハットトリックを達成される。
+
+この連続失点で試合の大勢が決した中、59分にはボックス左でボールを受けたアディル・アウシシュが正確な右足シュートで意地の1点を決める。69分にはファン・ヒチャンらアタッカー2人をピッチに送り出す。
+
+だが、73分にはパーダーボルンの途中出場2選手の連携からデニズ・ツァイトラーに6点目を献上。この直後の75分にはジェコがベンチに下がり、田中がピッチに送り込まれた。
+
+その後、試合はパーダーボルンが85分にPK、後半アディショナルタイムにもフェリックス・ゲッツェのゴールで2点を追加した。
+
+この結果、残留争い直接対決で屈辱の8失点惨敗となったシャルケは泥沼の8試合未勝利となった。
+
+パーダーボルン 8－1 シャルケ
+
+1－0 21分 ヤノ・テア・ホルスト（パーダーボルン）
+
+2－0 39分 ステファノ・マリーノ（パーダーボルン）
+
+3－0 45分＋4 ステファノ・マリーノ（パーダーボルン）
+
+4－0 55分 シュテフェン・ティゲス（パーダーボルン）
+
+5－0 57分 ステファノ・マリーノ（パーダーボルン）
+
+5－1 59分 アディル・アウシシュ（シャルケ）
+
+6－1 73分 デニズ・ツァイトラー（パーダーボルン）
+
+6－1 85分 ガブリエル・ヴィドヴィッチ（PK/パーダーボルン）
+
+8－1 90分＋6 フェリックス・ゲッツェ（パーダーボルン）
+
+ブンデスリーガ第11節が28日に行われ、パーダーボルンとシャルケが対戦した。
+
+現在7試合未勝利で入れ替えプレーオフ圏内の16位に沈むシャルケ。8戦ぶりの白星を目指したアウェイゲームでは勝ち点3差で15位に位置するパーダーボルンとのシックスポインターに臨んだ。なお、田中聡はこの試合でベンチスタートとなった。
+
+40歳のエディン・ジェコを5試合ぶりに先発起用したシャルケは、開始直後に完璧に裏抜け下ジュニオール・アダムがボックス内でDFをかわして左足を振るが、これはややパワー不足でGKのセーブに遭う。
+
+ただ、以降も縦への速さを見せた攻撃でいい形の攻めを幾度も見せていく。だが、時間の経過とともにイーブンな展開に持ち込まれると、17分には相手のロングカウンターからステファノ・マリーノにボックス内へ抜け出されるが、ここはGKロリス・カリウスの冷静な飛び出しで事なきを得る。
+
+だが、直後の21分には自陣右サイドで与えたFKの場面でボックス中央でマリーノが頭でファーへ流したボールを大外に飛び込んだヤノ・テア・ホルストに押し込まれ、敵地で先に失点した。
+
+その後は攻勢に転じたシャルケだったが、ジェコら前線の選手がなかなか効果的にフィニッシュまで持ち込めない。
+
+すると、前半終盤の39分にはボックス中央で右からのクロスを収めたマリーノに複数のDFを無効化する、まるでダンスのような鮮やかステップワークで完全にGKカリウスもタイミングを外され、右足シュートを左隅に突き刺さされた。さらに前半アディショナルタイムにはカウンター返しで右サイドからのクロスを再びマリーノに右足ワンタッチで流し込まれ、3点ビハインドで試合を折り返した。
+
+後半は押し込む入りを見せたシャルケだったが、守備の崩壊が止まらない。55分にはロングカウンターでシュテフェン・ティゲスにボックス内に持ち込まれて浮き球シュートで4点目を奪われると、その2分後には絶好調のマリーノにパーダーボルンの選手としてブンデスリーガ初のハットトリックを達成される。
+
+この連続失点で試合の大勢が決した中、59分にはボックス左でボールを受けたアディル・アウシシュが正確な右足シュートで意地の1点を決める。69分にはファン・ヒチャンらアタッカー2人をピッチに送り出す。
+
+だが、73分にはパーダーボルンの途中出場2選手の連携からデニズ・ツァイトラーに6点目を献上。この直後の75分にはジェコがベンチに下がり、田中がピッチに送り込まれた。
+
+その後、試合はパーダーボルンが85分にPK、後半アディショナルタイムにもフェリックス・ゲッツェのゴールで2点を追加した。
+
+この結果、残留争い直接対決で屈辱の8失点惨敗となったシャルケは泥沼の8試合未勝利となった。
+
+パーダーボルン 8－1 シャルケ
+
+1－0 21分 ヤノ・テア・ホルスト（パーダーボルン）
+
+2－0 39分 ステファノ・マリーノ（パーダーボルン）
+
+3－0 45分＋4 ステファノ・マリーノ（パーダーボルン）
+
+4－0 55分 シュテフェン・ティゲス（パーダーボルン）
+
+5－0 57分 ステファノ・マリーノ（パーダーボルン）
+
+5－1 59分 アディル・アウシシュ（シャルケ）
+
+6－1 73分 デニズ・ツァイトラー（パーダーボルン）
+
+6－1 85分 ガブリエル・ヴィドヴィッチ（PK/パーダーボルン）
+
+8－1 90分＋6 フェリックス・ゲッツェ（パーダーボルン）14:["$","section",null,{"className":"article-actions","children":[["$","$L25",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/a524e9efa524e9ef1958729f","title":"シャルケが8失点惨敗で8戦未勝利…田中聡は大勢決した後半終盤に途中出場(サッカーキング)","locale":"ja","take":null}],["$","$L26",null,{"title":"シャルケが8失点惨敗で8戦未勝利…田中聡は大勢決した後半終盤に途中出場(サッカーキング)","excerpt":"$27","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/a524e9efa524e9ef1958729f","locale":"ja"}],"$L28"]}]
+15:["$","$L29",null,{"placement":"article","className":"mt-8"}]
+16:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+17:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/ad46a88f3458c7bd9485e2573821bbb59e1bd872?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/0a3a6c190a3a6c19514627c5","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"田中碧と坂元達裕のプレミア日本人対決が実現！ 好調のリーズがコベントリーに３－０で快勝し、今季初の３連勝！(SOCCER DIGEST Web)"}]]}]}],["$","li","mynavi:https://news.mynavi.jp/article/20261129-5433955/",{"children":["$","$L2",null,{"href":"/ja/n/3fc141c43fc141c4f81d9cb0","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"マイナビニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"新体制ホーム初陣のマンUが2戦連続0－4の惨敗でリーグ10戦未勝利…再三決定機決め切れずブレントフォードに屈す"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/4fab3f60489f7cedacd42b5bef74da335612da1f?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/2143922121439221fe8b30b1","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"新体制ホーム初陣のマンUが2戦連続0－4の惨敗でリーグ10戦未勝利…再三決定機決め切れずブレントフォードに屈す(サッカーキング)"}]]}]}]]}]]}]
+18:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+19:["$","$L2a",null,{"children":["$","$2b",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+1c:["$","$1","h",{"children":[null,["$","$L2d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L2e",null,{"children":["$","$2b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"シャルケが8失点惨敗で8戦未勝利…田中聡は大勢決した後半終盤に途中出場(サッカーキング)"}],["$","meta","1",{"name":"description","content":"ブンデスリーガ第11節が28日に行われ、パーダーボルンとシャルケが対戦した。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"シャルケが8失点惨敗で8戦未勝利…田中聡は大勢決した後半終盤に途中出場(サッカーキング)"}],["$","meta","4",{"property":"og:description","content":"ブンデスリーガ第11節が28日に行われ、パーダーボルンとシャルケが対戦した。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/a524e9efa524e9ef1958729f/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261129-02232695-soccerk-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"シャルケが8失点惨敗で8戦未勝利…田中聡は大勢決した後半終盤に途中出場(サッカーキング)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"シャルケが8失点惨敗で8戦未勝利…田中聡は大勢決した後半終盤に途中出場(サッカーキング)"}],["$","meta","14",{"name":"twitter:description","content":"ブンデスリーガ第11節が28日に行われ、パーダーボルンとシャルケが対戦した。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261129-02232695-soccerk-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L2f","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+1e:["$","$1","c",{"children":[null,["$","$L30",null,{"parallelRouterKey":"children","template":["$","$L31",null,{}]}]]}]
+21:["$","$1","c",{"children":[null,["$","$L30",null,{"parallelRouterKey":"children","template":["$","$L31",null,{}]}]]}]
+24:true
+28:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%B1%E3%81%8C8%E5%A4%B1%E7%82%B9%E6%83%A8%E6%95%97%E3%81%A78%E6%88%A6%E6%9C%AA%E5%8B%9D%E5%88%A9&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+2c:null
+1b:300
+1b:C
+23:0
+1d:"$undefined"
+1f:"$undefined"
+22:"$undefined"
+1a:"$undefined"

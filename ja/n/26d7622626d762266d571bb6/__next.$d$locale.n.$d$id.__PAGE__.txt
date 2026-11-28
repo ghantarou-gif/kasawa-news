@@ -1,0 +1,65 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261126-00000018-giz-000-1-view.jpg?pri=l&w=450&h=259&exp=10800","image"]
+5:Tbf9,ウニの喉（のど）から、新種の貝が出てきました。しかも、食べられた貝が残っていたわけではなく、ウニの食道をすみかにしていたというんです。
+
+実は、ウニの消化管に貝がいることは1970年代から報告されていました。ただ、その正体はわからないまま。今回、約50年越しに新種だと判明しました。
+
+ウニの喉（のど）から、新種の貝が出てきました。しかも、食べられた貝が残っていたわけではなく、ウニの食道をすみかにしていたというんです。
+
+実は、ウニの消化管に貝がいることは1970年代から報告されていました。ただ、その正体はわからないまま。今回、約50年越しに新種だと判明しました。
+
+京都大学などの国際研究チームは11月19日、オーストラリア南岸沖の水深約4000〜5000mで採集されたウニの食道から、新種の二枚貝を発見したと発表しました。
+
+名前は「Vaticinaria gulicola（ヴァティキナリア・グリコラ）」。学名には「喉にすむもの」という意味があります。殻の大きさは最大約19mm。ウニの口のすぐ奥にある食道で暮らしていました。
+
+貝の存在を報告していたのは、旧ソ連の研究者。1970年代に今回と同じ種類のウニの消化管から見つけていましたが、当時は貝の正体がわからないままでした。
+
+今回、研究チームがウニの食道から見つかった貝の殻や体のつくりなどを詳しく調べたところ、新種であることが判明したんです。
+
+そもそも、この貝が属するウロコガイ上科には、ほかの生き物と共生する種類が多くいます。浅い海ではウニの体表にくっついて暮らす仲間も知られていますが、ウニの体内にすむ属が確認されたのは初めてです。
+
+気になるのは、そんな場所で何を食べているのかということ。
+
+このウニは海底の泥を飲み込んで暮らしています。泥には有機物も含まれているため、貝はそこから餌を得ている可能性があるそうです。貝の体には細かな突起が並ぶ部分があり、研究チームは、泥をふるい分けながら水を取り込む役割があるのではないかと考えています。
+
+そして今回、研究チームはさらに古いウニの標本からも貝を見つけています。
+
+その標本が採集されたのは、約150年前。
+
+1872〜1876年に行なわれた英国のチャレンジャー号探検で採集されたウニを調べたところ、食道から今回の新種と同じ属の別種「Vaticinaria moseleyi」が見つかったんです。
+
+約150年前の標本にも、ウニの食道で暮らす貝が残っていたとは驚きです。ちなみに、この貝がどうやってウニの食道に入り込むのかは、まだわかっていません。
+
+Source: 京都大学, ZooKeysd:X
+12:X
+12:C
+0:{"buildId":"VRkKTfqjSA9WSnVt327gj","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-26","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"ウニの「のど」に住んでいた未知の生物、50年越しに正体が判明(ギズモード・ジャパン)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"一昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261126-00000018-giz-000-1-view.jpg?pri=l&w=450&h=259&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"ウニの喉（のど）から、新種の貝が出てきました。しかも、食べられた貝が残っていたわけではなく、ウニの食道をすみかにしていたというんです。"}],["$","p","1",{"children":"実は、ウニの消化管に貝がいることは1970年代から報告されていました。ただ、その正体はわからないまま。今回、約50年越しに新種だと判明しました。"}],["$","p","2",{"children":"ウニの喉（のど）から、新種の貝が出てきました。しかも、食べられた貝が残っていたわけではなく、ウニの食道をすみかにしていたというんです。"}],["$","p","3",{"children":"実は、ウニの消化管に貝がいることは1970年代から報告されていました。ただ、その正体はわからないまま。今回、約50年越しに新種だと判明しました。"}],["$","p","4",{"children":"京都大学などの国際研究チームは11月19日、オーストラリア南岸沖の水深約4000〜5000mで採集されたウニの食道から、新種の二枚貝を発見したと発表しました。"}],["$","p","5",{"children":"名前は「Vaticinaria gulicola（ヴァティキナリア・グリコラ）」。学名には「喉にすむもの」という意味があります。殻の大きさは最大約19mm。ウニの口のすぐ奥にある食道で暮らしていました。"}],["$","p","6",{"children":"貝の存在を報告していたのは、旧ソ連の研究者。1970年代に今回と同じ種類のウニの消化管から見つけていましたが、当時は貝の正体がわからないままでした。"}],["$","p","7",{"children":"今回、研究チームがウニの食道から見つかった貝の殻や体のつくりなどを詳しく調べたところ、新種であることが判明したんです。"}],["$","p","8",{"children":"そもそも、この貝が属するウロコガイ上科には、ほかの生き物と共生する種類が多くいます。浅い海ではウニの体表にくっついて暮らす仲間も知られていますが、ウニの体内にすむ属が確認されたのは初めてです。"}],["$","p","9",{"children":"気になるのは、そんな場所で何を食べているのかということ。"}],["$","p","10",{"children":"このウニは海底の泥を飲み込んで暮らしています。泥には有機物も含まれているため、貝はそこから餌を得ている可能性があるそうです。貝の体には細かな突起が並ぶ部分があり、研究チームは、泥をふるい分けながら水を取り込む役割があるのではないかと考えています。"}],["$","p","11",{"children":"そして今回、研究チームはさらに古いウニの標本からも貝を見つけています。"}],["$","p","12",{"children":"その標本が採集されたのは、約150年前。"}],["$","p","13",{"children":"1872〜1876年に行なわれた英国のチャレンジャー号探検で採集されたウニを調べたところ、食道から今回の新種と同じ属の別種「Vaticinaria moseleyi」が見つかったんです。"}],["$","p","14",{"children":"約150年前の標本にも、ウニの食道で暮らす貝が残っていたとは驚きです。ちなみに、この貝がどうやってウニの食道に入り込むのかは、まだわかっていません。"}],["$","p","15",{"children":"Source: 京都大学, ZooKeys"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/dc3b1eaba96708da3e2ec1fec164da4ef4afe78b?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/26d7622626d762266d571bb6","title":"ウニの「のど」に住んでいた未知の生物、50年越しに正体が判明(ギズモード・ジャパン)","locale":"ja","take":null}],["$","$L4",null,{"title":"ウニの「のど」に住んでいた未知の生物、50年越しに正体が判明(ギズモード・ジャパン)","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/26d7622626d762266d571bb6","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%82%A6%E3%83%8B%E3%81%AE%E3%81%AB%E4%BD%8F%E3%82%93%E3%81%A7%E3%81%84%E3%81%9F%E6%9C%AA%E7%9F%A5%E3%81%AE%E7%94%9F%E7%89%A9%E3%80%8150%E5%B9%B4%E8%B6%8A%E3%81%97%E3%81%AB%E6%AD%A3%E4%BD%93%E3%81%8C%E5%88%A4%E6%98%8E&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","dw:https://dw.com/en/freigang-banned-germany-star-to-miss-2027-world-cup/a-80063930?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/99e7358e99e7358eeae3c476","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Freigang banned — Germany star to miss 2027 World Cup"}]]}]}],["$","li","dw:https://dw.com/en/fifa-says-a-cyberattack-against-it-targeted-a-limited-set-of-personal-and-business-information/a-80062660?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/d9a7d076d9a7d076baa4e0d4","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"FIFA says a cyberattack against it targeted a 'limited set of personal and business information'"}]]}]}],["$","li","bbc-europe:https://bbc.co.uk/news/articles/cmlyd76kyx44o",{"children":["$","$L2",null,{"href":"/ja/n/5adbf3f15adbf3f1631699d9","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ウニの「のど」に住んでいた未知の生物、50年越しに正体が判明(ギズモード・ジャパン)"}],["$","meta","1",{"name":"description","content":"ウニの喉（のど）から、新種の貝が出てきました。しかも、食べられた貝が残っていたわけではなく、ウニの食道をすみかにしていたというんです。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"ウニの「のど」に住んでいた未知の生物、50年越しに正体が判明(ギズモード・ジャパン)"}],["$","meta","4",{"property":"og:description","content":"ウニの喉（のど）から、新種の貝が出てきました。しかも、食べられた貝が残っていたわけではなく、ウニの食道をすみかにしていたというんです。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/26d7622626d762266d571bb6/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261126-00000018-giz-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"ウニの「のど」に住んでいた未知の生物、50年越しに正体が判明(ギズモード・ジャパン)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"ウニの「のど」に住んでいた未知の生物、50年越しに正体が判明(ギズモード・ジャパン)"}],["$","meta","14",{"name":"twitter:description","content":"ウニの喉（のど）から、新種の貝が出てきました。しかも、食べられた貝が残っていたわけではなく、ウニの食道をすみかにしていたというんです。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261126-00000018-giz-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

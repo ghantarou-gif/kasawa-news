@@ -1,0 +1,83 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261125-00000009-giz-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","image"]
+5:T100e,時速約2万2000kmで探査機がぶつかった小惑星。
+
+いったいどんな姿になっているのでしょうか？
+
+2022年、NASA（米航空宇宙局）は小惑星「ディモルフォス」に探査機を体当たりさせるという、映画『アルマゲドン』のような実験を行ないました。
+
+あれから4年。ESA（欧州宇宙機関）が、日本時間11月26日午前3時45分からのライブ配信で、衝突後のディモルフォスの詳細な接近画像を初公開します。
+
+時速約2万2000kmで探査機がぶつかった小惑星。
+
+いったいどんな姿になっているのでしょうか？
+
+2022年、NASA（米航空宇宙局）は小惑星「ディモルフォス」に探査機を体当たりさせるという、映画『アルマゲドン』のような実験を行ないました。
+
+あれから4年。ESA（欧州宇宙機関）が、日本時間11月26日午前3時45分からのライブ配信で、衝突後のディモルフォスの詳細な接近画像を初公開します。
+
+もし、地球に向かってくる小惑星が見つかったら、どうやって衝突を回避すればいいのでしょうか？
+
+NASAが試したのは、探査機をぶつけて小惑星の軌道を変える方法です。
+
+2022年9月、重さ約600kgの探査機「DART（ダート）」が、直径約170mのディモルフォスに体当たりしました。ちなみに、ディモルフォスはもともと地球に衝突する危険のない小惑星です。
+
+直径170mといえば、東京タワーの高さの約半分。そんな巨大な岩の塊に、重さ1トンにも満たない探査機をぶつけたわけです。
+
+ディモルフォスは、直径が約5倍もある小惑星「ディディモス」の周りを約11時間55分かけて回っていました。DARTの衝突によって、1周するのにかかる時間が約33分も短くなりました。
+
+地球に向かってくる小惑星があったとしても、十分に遠くにいるうちに軌道を少しずらせれば、衝突を回避できる可能性があります。
+
+人類はこの実験で、意図的に小惑星の軌道を変えられることを実証したのです。
+
+2024年にNASAが発表した研究によると、衝突の衝撃でディモルフォスそのものが変形した可能性があるそうです。
+
+衝突前は上から押しつぶしたボールのような形をしていましたが、衝突後は細長いスイカのような形になったと推定されています。
+
+ただ、この形は地球からの観測データなどをもとに推定したもの。実際にどんな姿になったのかを詳しく調べるため、ESAは2024年10月に探査機「Hera（ヘラ）」を打ち上げ、今年11月4日に現地に到着しました。
+
+以下はESAが公開したHeraのミッション紹介映像。DARTの衝突で岩石やちりが飛び散る様子や、Heraが搭載カメラで小惑星を調査する様子が描かれています。
+
+大きなクレーターができているのか、それとも小惑星全体の形が変わってしまったのか。Heraは今後、質量や内部構造なども調べていきます。
+
+ちなみに、今回の探査には日本も参加しています。HeraにはJAXA（宇宙航空研究開発機構）が提供した熱赤外カメラが搭載されており、小惑星の表面温度から、砂や岩の分布などを調べることができます。
+
+4年前に体当たりして軌道を変えることには成功しましたが、どんな小惑星にどれくらいの力を加えれば軌道を変えられるのか、まだ調べることはたくさんあります。
+
+ライブ配信は日本時間の11月26日午前3時45分から4時30分まで。かなりの夜更かし（早起き？）になりそうです。
+
+ちなみに余談ですが、Googleで「DART 探査機」と検索すると、検索画面にDARTが登場、勇ましい衝突を見せてくれます。
+
+Source: ESA, NASA, NASA Technical Reports Server, JAXAd:X
+12:X
+12:C
+0:{"buildId":"VRkKTfqjSA9WSnVt327gj","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-25","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"NASAが探査機をぶつけた小惑星、4年後の姿を今夜ライブ配信で初公開(ギズモード・ジャパン)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"3 日前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261125-00000009-giz-000-1-view.jpg?pri=l&w=450&h=300&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"時速約2万2000kmで探査機がぶつかった小惑星。"}],["$","p","1",{"children":"いったいどんな姿になっているのでしょうか？"}],["$","p","2",{"children":"2022年、NASA（米航空宇宙局）は小惑星「ディモルフォス」に探査機を体当たりさせるという、映画『アルマゲドン』のような実験を行ないました。"}],["$","p","3",{"children":"あれから4年。ESA（欧州宇宙機関）が、日本時間11月26日午前3時45分からのライブ配信で、衝突後のディモルフォスの詳細な接近画像を初公開します。"}],["$","p","4",{"children":"時速約2万2000kmで探査機がぶつかった小惑星。"}],["$","p","5",{"children":"いったいどんな姿になっているのでしょうか？"}],["$","p","6",{"children":"2022年、NASA（米航空宇宙局）は小惑星「ディモルフォス」に探査機を体当たりさせるという、映画『アルマゲドン』のような実験を行ないました。"}],["$","p","7",{"children":"あれから4年。ESA（欧州宇宙機関）が、日本時間11月26日午前3時45分からのライブ配信で、衝突後のディモルフォスの詳細な接近画像を初公開します。"}],["$","p","8",{"children":"もし、地球に向かってくる小惑星が見つかったら、どうやって衝突を回避すればいいのでしょうか？"}],["$","p","9",{"children":"NASAが試したのは、探査機をぶつけて小惑星の軌道を変える方法です。"}],["$","p","10",{"children":"2022年9月、重さ約600kgの探査機「DART（ダート）」が、直径約170mのディモルフォスに体当たりしました。ちなみに、ディモルフォスはもともと地球に衝突する危険のない小惑星です。"}],["$","p","11",{"children":"直径170mといえば、東京タワーの高さの約半分。そんな巨大な岩の塊に、重さ1トンにも満たない探査機をぶつけたわけです。"}],["$","p","12",{"children":"ディモルフォスは、直径が約5倍もある小惑星「ディディモス」の周りを約11時間55分かけて回っていました。DARTの衝突によって、1周するのにかかる時間が約33分も短くなりました。"}],["$","p","13",{"children":"地球に向かってくる小惑星があったとしても、十分に遠くにいるうちに軌道を少しずらせれば、衝突を回避できる可能性があります。"}],["$","p","14",{"children":"人類はこの実験で、意図的に小惑星の軌道を変えられることを実証したのです。"}],["$","p","15",{"children":"2024年にNASAが発表した研究によると、衝突の衝撃でディモルフォスそのものが変形した可能性があるそうです。"}],["$","p","16",{"children":"衝突前は上から押しつぶしたボールのような形をしていましたが、衝突後は細長いスイカのような形になったと推定されています。"}],["$","p","17",{"children":"ただ、この形は地球からの観測データなどをもとに推定したもの。実際にどんな姿になったのかを詳しく調べるため、ESAは2024年10月に探査機「Hera（ヘラ）」を打ち上げ、今年11月4日に現地に到着しました。"}],["$","p","18",{"children":"以下はESAが公開したHeraのミッション紹介映像。DARTの衝突で岩石やちりが飛び散る様子や、Heraが搭載カメラで小惑星を調査する様子が描かれています。"}],["$","p","19",{"children":"大きなクレーターができているのか、それとも小惑星全体の形が変わってしまったのか。Heraは今後、質量や内部構造なども調べていきます。"}],["$","p","20",{"children":"ちなみに、今回の探査には日本も参加しています。HeraにはJAXA（宇宙航空研究開発機構）が提供した熱赤外カメラが搭載されており、小惑星の表面温度から、砂や岩の分布などを調べることができます。"}],["$","p","21",{"children":"4年前に体当たりして軌道を変えることには成功しましたが、どんな小惑星にどれくらいの力を加えれば軌道を変えられるのか、まだ調べることはたくさんあります。"}],["$","p","22",{"children":"ライブ配信は日本時間の11月26日午前3時45分から4時30分まで。かなりの夜更かし（早起き？）になりそうです。"}],["$","p","23",{"children":"ちなみに余談ですが、Googleで「DART 探査機」と検索すると、検索画面にDARTが登場、勇ましい衝突を見せてくれます。"}],["$","p","24",{"children":"Source: ESA, NASA, NASA Technical Reports Server, JAXA"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/24f0470d90e773c69554d4d88f4751ca9a15bee2?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/13708fe913708fe9cd0c03ad","title":"NASAが探査機をぶつけた小惑星、4年後の姿を今夜ライブ配信で初公開(ギズモード・ジャパン)","locale":"ja","take":null}],["$","$L4",null,{"title":"NASAが探査機をぶつけた小惑星、4年後の姿を今夜ライブ配信で初公開(ギズモード・ジャパン)","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/13708fe913708fe9cd0c03ad","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=NASA%E3%81%8C%E6%8E%A2%E6%9F%BB%E6%A9%9F%E3%82%92%E3%81%B6%E3%81%A4%E3%81%91%E3%81%9F%E5%B0%8F%E6%83%91%E6%98%9F%E3%80%814%E5%B9%B4%E5%BE%8C%E3%81%AE%E5%A7%BF%E3%82%92%E4%BB%8A%E5%A4%9C%E3%83%A9%E3%82%A4%E3%83%96%E9%85%8D%E4%BF%A1%E3%81%A7%E5%88%9D%E5%85%AC%E9%96%8B&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","yahoo-science:https://news.yahoo.co.jp/articles/d637fef2807bff6a7f353c6e49a4ea16e10ac362?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/8da0e2918da0e291e6357f89","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"2028年度に月に打ち上げ予定の「無人探査機」 走行する様子を初公開 JAXA(テレビ朝日系（ANN）)"}]]}]}],["$","li","nhk-sports:https://news.web.nhk/newsweb/na/nd-20261125de81524",{"children":["$","$L2",null,{"href":"/ja/n/14d5ada714d5ada7564f2e8f","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"サッカーJ1 第16節 首位FC東京はサンフレッチェ広島と引き分け"}]]}]}],["$","li","dw:https://dw.com/en/german-firms-eye-africa-as-global-trade-shocks-hit-traditional-markets/a-80047671?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/d4f3604fd4f3604f08201457","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"German firms eye Africa as global trade shocks hit traditional markets"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"NASAが探査機をぶつけた小惑星、4年後の姿を今夜ライブ配信で初公開(ギズモード・ジャパン)"}],["$","meta","1",{"name":"description","content":"時速約2万2000kmで探査機がぶつかった小惑星。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"NASAが探査機をぶつけた小惑星、4年後の姿を今夜ライブ配信で初公開(ギズモード・ジャパン)"}],["$","meta","4",{"property":"og:description","content":"時速約2万2000kmで探査機がぶつかった小惑星。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/13708fe913708fe9cd0c03ad/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261125-00000009-giz-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"NASAが探査機をぶつけた小惑星、4年後の姿を今夜ライブ配信で初公開(ギズモード・ジャパン)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"NASAが探査機をぶつけた小惑星、4年後の姿を今夜ライブ配信で初公開(ギズモード・ジャパン)"}],["$","meta","14",{"name":"twitter:description","content":"時速約2万2000kmで探査機がぶつかった小惑星。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261125-00000009-giz-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

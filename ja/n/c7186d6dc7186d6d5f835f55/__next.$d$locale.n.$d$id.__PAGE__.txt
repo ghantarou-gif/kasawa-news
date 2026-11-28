@@ -1,0 +1,65 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261128-10292944-abemav-000-1-view.jpg?pri=l&w=450&h=252&exp=10800","image"]
+5:Tcaa,パレスチナ・ガザ地区を暫定統治する「平和評議会」などの高官が、都内でシンポジウムに出席し、散発的な衝突がある中でも、「停戦を維持し続けることが何よりも重要」と述べました。
+
+「平和評議会」のムラデノフ上級代表や暫定政府「ガザ行政国民委員会」のアリー・シャアス委員長は28日、都内で開催されたシンポジウムに出席しました。
+
+ガザ地区でハマスの武装解除が進まず、イスラエル軍の散発的な攻撃があることに対してムラデノフ氏は、「停戦は完全に維持されているわけではない」と指摘しました。
+
+一方、暫定政府である「ガザ行政国民委員会」がガザ地区に入れていないことについてシャアス委員長は、イスラエルが選挙を理由に訪問を拒否していたと明らかにしました。
+
+そのうえで、「選挙は終わったため、近いうちにガザに行けることを期待している」と述べています。
+
+日本からは外務省の大久保ガザ担当大使が出席し、ガザ行政国民委員会の間で更なる連携に向けたワーキンググループの設置などで協力覚書が交わされました。
+
+パレスチナ駐日代表部からは1人が参加していたものの、大使は出席していませんでした。
+
+平和評議会は、アメリカのトランプ大統領が主導するガザ地区の暫定統治や復興の監督を目的に今年1月に発足した国際機関です。（ANNニュース）
+
+パレスチナ・ガザ地区を暫定統治する「平和評議会」などの高官が、都内でシンポジウムに出席し、散発的な衝突がある中でも、「停戦を維持し続けることが何よりも重要」と述べました。
+
+「平和評議会」のムラデノフ上級代表や暫定政府「ガザ行政国民委員会」のアリー・シャアス委員長は28日、都内で開催されたシンポジウムに出席しました。
+
+ガザ地区でハマスの武装解除が進まず、イスラエル軍の散発的な攻撃があることに対してムラデノフ氏は、「停戦は完全に維持されているわけではない」と指摘しました。
+
+一方、暫定政府である「ガザ行政国民委員会」がガザ地区に入れていないことについてシャアス委員長は、イスラエルが選挙を理由に訪問を拒否していたと明らかにしました。
+
+そのうえで、「選挙は終わったため、近いうちにガザに行けることを期待している」と述べています。
+
+日本からは外務省の大久保ガザ担当大使が出席し、ガザ行政国民委員会の間で更なる連携に向けたワーキンググループの設置などで協力覚書が交わされました。
+
+パレスチナ駐日代表部からは1人が参加していたものの、大使は出席していませんでした。
+
+平和評議会は、アメリカのトランプ大統領が主導するガザ地区の暫定統治や復興の監督を目的に今年1月に発足した国際機関です。（ANNニュース）d:X
+12:X
+12:C
+0:{"buildId":"VRkKTfqjSA9WSnVt327gj","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-28","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"ガザ暫定統治機関の高官「停戦維持が最重要」(ABEMA TIMES)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"2 時間前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261128-10292944-abemav-000-1-view.jpg?pri=l&w=450&h=252&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"パレスチナ・ガザ地区を暫定統治する「平和評議会」などの高官が、都内でシンポジウムに出席し、散発的な衝突がある中でも、「停戦を維持し続けることが何よりも重要」と述べました。"}],["$","p","1",{"children":"「平和評議会」のムラデノフ上級代表や暫定政府「ガザ行政国民委員会」のアリー・シャアス委員長は28日、都内で開催されたシンポジウムに出席しました。"}],["$","p","2",{"children":"ガザ地区でハマスの武装解除が進まず、イスラエル軍の散発的な攻撃があることに対してムラデノフ氏は、「停戦は完全に維持されているわけではない」と指摘しました。"}],["$","p","3",{"children":"一方、暫定政府である「ガザ行政国民委員会」がガザ地区に入れていないことについてシャアス委員長は、イスラエルが選挙を理由に訪問を拒否していたと明らかにしました。"}],["$","p","4",{"children":"そのうえで、「選挙は終わったため、近いうちにガザに行けることを期待している」と述べています。"}],["$","p","5",{"children":"日本からは外務省の大久保ガザ担当大使が出席し、ガザ行政国民委員会の間で更なる連携に向けたワーキンググループの設置などで協力覚書が交わされました。"}],["$","p","6",{"children":"パレスチナ駐日代表部からは1人が参加していたものの、大使は出席していませんでした。"}],["$","p","7",{"children":"平和評議会は、アメリカのトランプ大統領が主導するガザ地区の暫定統治や復興の監督を目的に今年1月に発足した国際機関です。（ANNニュース）"}],["$","p","8",{"children":"パレスチナ・ガザ地区を暫定統治する「平和評議会」などの高官が、都内でシンポジウムに出席し、散発的な衝突がある中でも、「停戦を維持し続けることが何よりも重要」と述べました。"}],["$","p","9",{"children":"「平和評議会」のムラデノフ上級代表や暫定政府「ガザ行政国民委員会」のアリー・シャアス委員長は28日、都内で開催されたシンポジウムに出席しました。"}],["$","p","10",{"children":"ガザ地区でハマスの武装解除が進まず、イスラエル軍の散発的な攻撃があることに対してムラデノフ氏は、「停戦は完全に維持されているわけではない」と指摘しました。"}],["$","p","11",{"children":"一方、暫定政府である「ガザ行政国民委員会」がガザ地区に入れていないことについてシャアス委員長は、イスラエルが選挙を理由に訪問を拒否していたと明らかにしました。"}],["$","p","12",{"children":"そのうえで、「選挙は終わったため、近いうちにガザに行けることを期待している」と述べています。"}],["$","p","13",{"children":"日本からは外務省の大久保ガザ担当大使が出席し、ガザ行政国民委員会の間で更なる連携に向けたワーキンググループの設置などで協力覚書が交わされました。"}],["$","p","14",{"children":"パレスチナ駐日代表部からは1人が参加していたものの、大使は出席していませんでした。"}],["$","p","15",{"children":"平和評議会は、アメリカのトランプ大統領が主導するガザ地区の暫定統治や復興の監督を目的に今年1月に発足した国際機関です。（ANNニュース）"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/051f1dc80f202e3d803a13c65a826d161f620745?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/c7186d6dc7186d6d5f835f55","title":"ガザ暫定統治機関の高官「停戦維持が最重要」(ABEMA TIMES)","locale":"ja","take":null}],["$","$L4",null,{"title":"ガザ暫定統治機関の高官「停戦維持が最重要」(ABEMA TIMES)","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/c7186d6dc7186d6d5f835f55","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%82%AC%E3%82%B6%E6%9A%AB%E5%AE%9A%E7%B5%B1%E6%B2%BB%E6%A9%9F%E9%96%A2%E3%81%AE%E9%AB%98%E5%AE%98&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","yahoo-domestic:https://news.yahoo.co.jp/articles/d6b7aa318337b3455421df89356328951db8edec?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/e936f94ae936f94ac02e89cc","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"千葉東金道路で5台絡む事故 2人心肺停止 一部区間で通行止め(テレビ朝日系（ANN）)"}]]}]}],["$","li","nhk-top:https://news.web.nhk/newsweb/na/nd-20261128de83063",{"children":["$","$L2",null,{"href":"/ja/n/cc5f56c8cc5f56c812f75562","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"フィギュア GPファイナル進出者 女子3人 男子1人 ペア1組に"}]]}]}],["$","li","yahoo-picks:https://news.yahoo.co.jp/pickup/6604350?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/015448bf015448bf9bc698ff","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"第3子から1千万円給付案 街の声は"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ガザ暫定統治機関の高官「停戦維持が最重要」(ABEMA TIMES)"}],["$","meta","1",{"name":"description","content":"パレスチナ・ガザ地区を暫定統治する「平和評議会」などの高官が、都内でシンポジウムに出席し、散発的な衝突がある中でも、「停戦を維持し続けることが何よりも重要」と述べました。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"ガザ暫定統治機関の高官「停戦維持が最重要」(ABEMA TIMES)"}],["$","meta","4",{"property":"og:description","content":"パレスチナ・ガザ地区を暫定統治する「平和評議会」などの高官が、都内でシンポジウムに出席し、散発的な衝突がある中でも、「停戦を維持し続けることが何よりも重要」と述べました。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/c7186d6dc7186d6d5f835f55/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261128-10292944-abemav-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"ガザ暫定統治機関の高官「停戦維持が最重要」(ABEMA TIMES)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"ガザ暫定統治機関の高官「停戦維持が最重要」(ABEMA TIMES)"}],["$","meta","14",{"name":"twitter:description","content":"パレスチナ・ガザ地区を暫定統治する「平和評議会」などの高官が、都内でシンポジウムに出席し、散発的な衝突がある中でも、「停戦を維持し続けることが何よりも重要」と述べました。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261128-10292944-abemav-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

@@ -1,0 +1,199 @@
+1:"$Sreact.fragment"
+2:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+4:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"LoadingBoundaryProvider"]
+7:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+f:I[68027,[],"default",1]
+:HL["/kasawa-news/_next/static/chunks/34wcii1toj0ua.css","style"]
+:HL["/kasawa-news/_next/static/chunks/0c_awa2y669zf.css","style"]
+:HC["/",""]
+a:X
+0:{"P":null,"c":["","ja","n","48c285b248c285b29c4ce9a2",""],"q":"","i":false,"f":[[["",{"children":[["locale","ja","d",["go"]],{"children":["n",{"children":[["id","48c285b248c285b29c4ce9a2","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4612]},"$undefined","$undefined",4632],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/34wcii1toj0ua.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/0c_awa2y669zf.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ja","suppressHydrationWarning":true,"className":"noto_sans_jp_db74d4db-module__qvKuoq__variable h-full antialiased","children":[["$","head",null,{"children":["$","link",null,{"rel":"preconnect","href":"https://pagead2.googlesyndication.com"}]}],["$","body",null,{"className":"site-body min-h-full bg-paper text-ink","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){function load(){var s=document.createElement(\"script\");s.async=true;s.src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9222859203841922\";s.crossOrigin=\"anonymous\";document.head.appendChild(s);}if(\"requestIdleCallback\" in window){requestIdleCallback(load,{timeout:2500});}else{window.addEventListener(\"load\",load);}})();"}}]]}]]}]]}],{"children":[["$","$L4",null,{"loading":[["$","div","l",{"className":"py-16","children":[["$","div",null,{"className":"h-3 w-24 bg-ink/10"}],["$","div",null,{"className":"mt-4 h-16 w-4/5 bg-ink/10"}],["$","div",null,{"className":"mt-6 h-4 w-full bg-ink/10"}],["$","div",null,{"className":"mt-2 h-4 w-2/3 bg-ink/10"}],["$","div",null,{"className":"mt-12 space-y-6","children":[["$","div",null,{"className":"h-10 bg-ink/10"}],["$","div",null,{"className":"h-10 bg-ink/10"}],["$","div",null,{"className":"h-10 w-5/6 bg-ink/10"}]]}]]}],[],null],"children":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","async":true,"nonce":"$undefined"}]],"$L5"]}]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$a"]},null,false,"$a"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$Le"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[["$","link","0",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/34wcii1toj0ua.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/kasawa-news/_next/static/chunks/0c_awa2y669zf.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"VRkKTfqjSA9WSnVt327gj"}
+10:I[50155,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js"],"HtmlLang"]
+11:I[22016,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+12:I[86168,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js"],"LanguageSwitch"]
+a:C
+5:["$","div",null,{"className":"flex min-h-full flex-col","children":[["$","$L10",null,{"locale":"ja"}],["$","header",null,{"className":"desk-hero","children":["$","div",null,{"className":"site-shell mx-auto flex w-full max-w-6xl flex-col gap-4 px-4 py-6 sm:px-6 sm:py-7","children":[["$","div",null,{"className":"flex min-w-0 items-start gap-3","children":[["$","span",null,{"className":"brand-mark mt-1 shrink-0","aria-hidden":true,"children":"NC"}],["$","div",null,{"className":"min-w-0","children":[["$","p",null,{"className":"text-[10px] font-bold tracking-[0.2em] text-muted uppercase sm:text-[11px] sm:tracking-[0.24em]","children":"NYANCHU NEWS"}],["$","$L11",null,{"href":"/ja","className":"font-display mt-1 block text-[clamp(1.65rem,8vw,3.2rem)] leading-[1.05] tracking-[-0.03em] hover:opacity-90","children":[["$","span",null,{"className":"text-accent","children":"BREAKING"}]," ",["$","span",null,{"className":"text-ink","children":"NyanChu"}]]}],["$","p",null,{"className":"mt-1 font-sans text-[11px] tracking-[0.14em] text-muted sm:text-[12px] sm:tracking-[0.16em]","children":"ニャンチュ"}]]}]]}],["$","nav",null,{"className":"header-nav","aria-label":"サイト","children":[["$","$L12",null,{"locale":"ja"}],["$","a",null,{"href":"/kasawa-news/search.html","className":"header-nav-link","children":"NyanChu検索する"}],["$","$L11",null,{"href":"/ja/election","className":"header-nav-link","children":"選挙"}],["$","$L11",null,{"href":"/ja/travel","className":"header-nav-link","children":"旅ガイド"}],["$","a",null,{"href":"/kasawa-news/phrasebook.html","className":"header-nav-link","children":"旅の日本語"}],["$","$L11",null,{"href":"/ja/book","className":"header-nav-link","children":"本"}],["$","$L11",null,{"href":"/ja/members/x","className":"header-nav-link","children":"会員"}]]}],["$","p",null,{"className":"max-w-2xl text-[13px] leading-6 text-muted sm:text-[14px]","children":["日付ごとに保存。最新は先頭。ジャンルチップから各日のフィードへ。"," ","2026-11-29 02:05"," ","更新"]}]]}]}],["$","div",null,{"className":"site-shell mx-auto w-full max-w-6xl flex-1 px-4 sm:px-6","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"py-24 text-center","children":[["$","p",null,{"className":"font-display text-5xl tracking-[-0.04em]","children":"404"}],["$","p",null,{"className":"mt-4 text-muted","children":"Page not found. / ページが見つかりません。"}],["$","$L11",null,{"href":"/ja","className":"mt-8 inline-block font-sans text-[12px] tracking-[0.18em] uppercase text-accent","children":"NyanChu"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","div",null,{"className":"site-shell mx-auto w-full max-w-6xl px-4 sm:px-6","children":["$","footer",null,{"className":"mt-16 border-t border-line pt-8 pb-12 text-[13px] leading-6 text-muted","children":[["$","div",null,{"className":"flex flex-wrap items-start justify-between gap-6","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-lg tracking-wide text-ink","children":"NyanChu"}],["$","p",null,{"className":"mt-2 max-w-xl","children":"見出しから、記事の本文へ。"}]]}],["$","nav",null,{"className":"flex flex-wrap gap-x-5 gap-y-2 font-sans text-[12px] tracking-[0.14em] uppercase","children":[["$","$L11",null,{"href":"/ja","className":"hover:text-accent","children":"トップ"}],["$","$L11",null,{"href":"/ja/travel","className":"hover:text-accent","children":"旅ガイド"}],["$","a",null,{"href":"/kasawa-news/phrasebook.html","className":"hover:text-accent","children":"旅の日本語"}],["$","$L11",null,{"href":"/ja/book","className":"hover:text-accent","children":"本"}],["$","$L11",null,{"href":"/ja/members/x","className":"hover:text-accent","children":"会員"}],["$","a",null,{"href":"/kasawa-news/search.html","className":"hover:text-accent","children":"NyanChu検索する"}]]}]]}],["$","p",null,{"className":"mt-6 max-w-3xl","children":"配信に含まれる本文を記事ページに出しています。見出しだけの配信は、発行元ページの要点を表示します。有料記事は入れていません。著作権は各社にあります。"}],["$","p",null,{"className":"mt-4","children":["配信元",": ","BBC日本語 · BBC · NPR · The Guardian · Al Jazeera · Deutsche Welle · France 24 · ABC Australia · CBC · CNA · Euronews · UN News · ITmedia · Gigazine · CNET Japan · マイナビニュース · Yahoo!ニュース · ライブドアニュース · NHKニュース"]}],["$","p",null,{"className":"mt-1","children":["30分ごとに取り込み",["$","span",null,{"className":"mx-2 text-ink/30","children":"/"}],"表は24時間以内"]}]]}]}]]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]
+37:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261129-90205473-ann-000-1-view.jpg?pri=l&w=450&h=253&exp=10800","image"]
+6:["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L11",null,{"href":"/ja/d/2026-11-29","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💹"," ","経済"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"イクラは“１粒７円” かまぼこは“緊急事態宣言” おせち食材高騰の意外な背景(テレビ朝日系（ANN）)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"32 分前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261129-90205473-ann-000-1-view.jpg?pri=l&w=450&h=253&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"まもなく12月を迎えますが、正月の準備に欠かせない「おせち」の製造現場では悲痛な声が上がっています。イクラは“一粒7円”、そして、かまぼこの“緊急事態”。おせち食材を追跡取材すると、かつてない高騰を招いている背景がみえてきました。（サタデーステーション11月28日OA）"}],["$","p","1",{"children":"報告・水上真生ディレクター"}],["$","p","2",{"children":"「正午を迎えた函館朝市です。買い物を楽しむ人たちで賑わっています」"}],["$","p","3",{"children":"今年も残り1か月あまり。北海道函館市朝市では、おせち料理にも使われる海産物の値上げに対し、買い控えをする人たちの姿がありました。"}],["$","p","4",{"children":"東京からの観光客"}],["$","p","5",{"children":"「知り合いに毛ガニ見てきてって言われたんだけど、すごく価格が上がっているから無理かなと」"}],["$","p","6",{"children":"そして店側も、あまりの高騰ぶりに商品の仕入れを控える事態に…。"}],["$","p","7",{"children":"安岡商店 安岡隆司さん"}],["$","p","8",{"children":"「今年から作るイクラは、正直な話、100グラム7000円超えになっちゃいます。（イクラが）入ってきませんというより、仕入れできません。高くて」"}],["$","p","9",{"children":"他の店では、今年からイクラの試食をやめたといいます。"}],["$","p","10",{"children":"広海水産 佐藤裕美さん"}],["$","p","11",{"children":"「（イクラを）半分の量で販売するようになったし、お客さんも『手が出ないよね』って言うから、『半分もあるよ』って」"}],["$","p","12",{"children":"東京都内のスーパーでは約2000円で販売されていた、北海道産のイクラ。一粒あたりいくらになるのかを調べるために、数えてみると…。"}],["$","p","13",{"children":"報告・荒川三冬ディレクター"}],["$","p","14",{"children":"「数えてみた結果、290粒でした」"}],["$","p","15",{"children":"なんと、一粒だけで約7円になる計算に。ごはんにちょっとイクラをのせただけで、約210円です。イクラの原料である「すじこ」は、この3年間で約6.5倍にまで高騰しています。背景にあるのは、秋サケの記録的な不漁。温暖化による海水温の上昇などによって、引き起こされていると考えられています。ミシュランガイドにも掲載されている東京都内の日本料理店でも、イクラの高騰が悩みのタネに…。"}],["$","p","16",{"children":"日本料理店「清澄 たか原」店主 高原紫紋さん"}],["$","p","17",{"children":"「イクラが去年の1.5倍、おととしの2倍。やっぱり色味もきれいですし、子孫繁栄という意味もあるので、（おせち料理とは）切っても切れない、大事な食材の一つだと思う」"}],["$","p","18",{"children":"今年は80品目の食材を使って、おせちの製造・販売を行なう予定ですが、材料の高騰を受け、初めての試みに着手していました。"}],["$","p","19",{"children":"日本料理店「清澄 たか原」店主 高原紫紋さん"}],["$","p","20",{"children":"「今年は、かまぼこなどは全て手作りでやらせていただいております」"}],["$","p","21",{"children":"鯛とホタテを使い、すり身からかまぼこを作ることで、完成品を仕入れるよりも10〜25％程度、コストカットが可能になるといいます。こうした積み重ねによって、去年と同じ価格のおせち料理を実現しました。"}],["$","p","22",{"children":"日本料理店「清澄 たか原」店主 高原紫紋さん"}],["$","p","23",{"children":"「（調理に）時間はかかりますけれども、作った方がより美味しくコストも削減、両方できる。いいこと尽くしなので、その方がお客様にも喜んでもらえる」"}],["$","p","24",{"children":"ただ、かまぼこについては、全国のかまぼこメーカーなどが加盟する業界団体が“緊急事態宣言”を出す局面になっています。"}],["$","p","25",{"children":"日本かまぼこ協会の声明（10月）"}],["$","p","26",{"children":"「このまま原料の高騰と供給不安が続けば、地域の練り製品企業の存続、ひいては日本の食文化そのものにも影響を及ぼしかねません」"}],["$","p","27",{"children":"日本でかまぼこのすり身の原料として、よく使われているスケトウダラ。大半を輸入品に頼っていますが、この1年で価格は約1.7倍に高騰しました。日本発祥の「すり身」は、今や海外でも「SURIMI」として知られていて、ヨーロッパではフライやソテーの需要も増加。日本は円安などの影響も相まって、海外との買い付け競争で苦戦しているといいます。さらに…。"}],["$","p","28",{"children":"日本料理店「清澄 たか原」店主 高原紫紋さん"}],["$","p","29",{"children":"「かまぼこを作る際にすり身をのばしたりするのに昆布の出汁を使っています」"}],["$","p","30",{"children":"おせち料理を根幹から支えている昆布も記録的不漁が続いている状況です。"}],["$","p","31",{"children":"北海道函館市の食品加工工場を訪ねると…。"}],["$","p","32",{"children":"タカハシ食品 高橋拓郎営業部長"}],["$","p","33",{"children":"「こちらがきのう味付けして、きょう製品になる昆布巻き」"}],["$","p","34",{"children":"作られていたのは、おせち用の昆布巻き。これから年末にかけて、1万5000本を製造する予定です。"}],["$","p","35",{"children":"タカハシ食品 高橋拓郎営業部長"}],["$","p","36",{"children":"「昔は年中（店頭に）出ていたんですけど、通常月に売れるような金額ではなくなってしまったので、年末のおせちに向けて作っているような形」"}],["$","p","37",{"children":"この企業は昆布巻き用に、北海道産の天然昆布を約600キロ用意していますが、仕入れ価格は3年前の2倍以上になっているといいます。原因として考えられているのは、海水温の上昇などによる天然昆布の漁獲量の激減や、漁業者数の減少などです。"}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30"],"$L31"]}],"$L32","$L33","$L34",null,"$L35","$L36"]}]
+9:null
+e:[["$","title","0",{"children":"イクラは“１粒７円” かまぼこは“緊急事態宣言” おせち食材高騰の意外な背景(テレビ朝日系（ANN）)"}],["$","meta","1",{"name":"description","content":"まもなく12月を迎えますが、正月の準備に欠かせない「おせち」の製造現場では悲痛な声が上がっています。イクラは“一粒7円”、そして、かまぼこの“緊急事態”。おせち食材を追跡取材すると、かつてない高騰を招いている背景がみえてきました。（サタデーステーション11月28日OA）"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"イクラは“１粒７円” かまぼこは“緊急事態宣言” おせち食材高騰の意外な背景(テレビ朝日系（ANN）)"}],["$","meta","4",{"property":"og:description","content":"まもなく12月を迎えますが、正月の準備に欠かせない「おせち」の製造現場では悲痛な声が上がっています。イクラは“一粒7円”、そして、かまぼこの“緊急事態”。おせち食材を追跡取材すると、かつてない高騰を招いている背景がみえてきました。（サタデーステーション11月28日OA）"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/48c285b248c285b29c4ce9a2/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261129-90205473-ann-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"イクラは“１粒７円” かまぼこは“緊急事態宣言” おせち食材高騰の意外な背景(テレビ朝日系（ANN）)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"イクラは“１粒７円” かまぼこは“緊急事態宣言” おせち食材高騰の意外な背景(テレビ朝日系（ANN）)"}],["$","meta","14",{"name":"twitter:description","content":"まもなく12月を迎えますが、正月の準備に欠かせない「おせち」の製造現場では悲痛な声が上がっています。イクラは“一粒7円”、そして、かまぼこの“緊急事態”。おせち食材を追跡取材すると、かつてない高騰を招いている背景がみえてきました。（サタデーステーション11月28日OA）"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261129-90205473-ann-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L37","18",{}]]
+38:I[36936,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+39:I[98337,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+3c:I[9441,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+13:["$","p","38",{"children":"タカハシ食品 高橋拓郎営業部長"}]
+14:["$","p","39",{"children":"「昆布をとれる数が減っていってしまっているので、（仕入れ先から）うちが今までもらえていた量をいただくことは、（今後）できないんじゃないかなと」"}]
+15:["$","p","40",{"children":"事態が好転する見通しもなく、1年後に製造する予定の昆布巻きも価格が200円前後上がってしまう可能性があるといいます。"}]
+16:["$","p","41",{"children":"タカハシ食品 高橋拓郎営業部長"}]
+17:["$","p","42",{"children":"「昆布巻きは3、4年前までは1本500〜600円で買えていたものが、今年1000円近くになってしまって、来年はもっと高くなってしまう。おせちも予算があるので、昆布巻き自体が（おせちから）なくなってしまう可能性はあると思う。1年を迎えるにあたって、『喜び+昆布=よろこぶ』という重要な意味があるので、そういった意味を守る意味でも、昆布巻きは残していきたい」"}]
+18:["$","p","43",{"children":"報告・畑中彩里ディレクター"}]
+19:["$","p","44",{"children":"「今、卵に砂糖を入れていますね」"}]
+1a:["$","p","45",{"children":"28日、静岡市にある老舗かまぼこ店の工場では、約20人のスタッフが機械や手作業で、おせち料理の定番の一品を作っていました。出来上がったのは、錦玉子です。この日、1日だけで500キロ以上の卵を使いましたが…。"}]
+1b:["$","p","46",{"children":"さすぼし蒲鉾 古牧久弥社長"}]
+1c:["$","p","47",{"children":"「今は10年前から比べると、2倍くらいになっちゃっている」"}]
+1d:["$","p","48",{"children":"卵1パックの全国平均小売価格は、先月、過去最高の312円を記録したばかりです。この時期はクリスマスケーキの卵需要とも重なっているため、卵の仕入れ価格が高くなりやすいといいます。一方で、原料は卵の他に塩と砂糖だけでコストカットも難しい状況です。"}]
+1e:["$","p","49",{"children":"さすぼし蒲鉾 古牧久弥社長"}]
+1f:["$","p","50",{"children":"「味とか品質を第一に考えているので、正直に原料が上がったら、正直に値上げをすると」"}]
+20:["$","p","51",{"children":"今後、年末にかけて1万本を製造する予定です。"}]
+21:["$","p","52",{"children":"さすぼし蒲鉾 古牧久弥社長"}]
+22:["$","p","53",{"children":"「（価格が）高くなってしまって、食べていただくお客さんが減っていけば、やっぱり製造量が減ってしまうので、それは将来に向けては不安材料。作ることで食文化を守って、そして伝えることで継承していきたい」"}]
+23:["$","p","54",{"children":"高島彩キャスター"}]
+24:["$","p","55",{"children":"「値上げの波は、お正月に欠かせないお餅にも押し寄せているそうなんです」"}]
+25:["$","p","56",{"children":"板倉朋希アナウンサー"}]
+26:["$","p","57",{"children":"「サトウ食品は“鏡餅シリーズ”を約17〜20％の値上げ、越後製菓では最大で約30％の値上げする商品もあるということです。いずれも原料となるもち米や、資材費、物流費、人件費などの高騰を理由に挙げています」"}]
+27:["$","p","58",{"children":"高島彩キャスター"}]
+28:["$","p","59",{"children":"「値上げの理由の1つに原料の米の高騰とありますが、主食用のお米はいま値段下がっていますよね。でも、もち米は上がっているってことなんでしょうか?」"}]
+29:["$","p","60",{"children":"板倉朋希アナウンサー"}]
+2a:["$","p","61",{"children":"「そうなんです。サトウ食品は原料米の高騰の要因について『もち米からうるち米への作付け転換による』と説明しています。米の流通に詳しい宇都宮大学・松平尚也助教に聞いたところ、令和の米騒動の際、もち米から収益性の高い主食用の米に生産を切り替える農家が増加。結果、去年のもち米の生産量が減って価格高騰につながってしまったというわけです」"}]
+2b:["$","p","62",{"children":"高島彩キャスター"}]
+2c:["$","p","63",{"children":"「柳澤さん、あの米騒動のつけがこうした形で現れたということですね」"}]
+2d:["$","p","64",{"children":"ジャーナリスト 柳澤秀夫氏"}]
+2e:["$","p","65",{"children":"「もち米の生産を減らせば、もち米が少なくなるというのは、当然分かっていたことだと思うんですよね。ですから、令和の米騒動のときの対応がいかに場当たり的だったかということは、否めないような気がするんですよね。やはり米作り全体に目配せをした、きめ細かい農業政策というものが改めて必要だなということを感じましたね」"}]
+2f:["$","p","66",{"children":"高島彩キャスター"}]
+30:["$","p","67",{"children":"「何かと物入りの時期ですから、自分たちでできる工夫や無駄の見直しなどもしていくといいかなと思います」"}]
+31:["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]
+32:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/9e30ac69aa8be1c70c97119d16b36f247beeb6e3?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}]
+3a:T2726,まもなく12月を迎えますが、正月の準備に欠かせない「おせち」の製造現場では悲痛な声が上がっています。イクラは“一粒7円”、そして、かまぼこの“緊急事態”。おせち食材を追跡取材すると、かつてない高騰を招いている背景がみえてきました。（サタデーステーション11月28日OA）
+
+報告・水上真生ディレクター
+
+「正午を迎えた函館朝市です。買い物を楽しむ人たちで賑わっています」
+
+今年も残り1か月あまり。北海道函館市朝市では、おせち料理にも使われる海産物の値上げに対し、買い控えをする人たちの姿がありました。
+
+東京からの観光客
+
+「知り合いに毛ガニ見てきてって言われたんだけど、すごく価格が上がっているから無理かなと」
+
+そして店側も、あまりの高騰ぶりに商品の仕入れを控える事態に…。
+
+安岡商店 安岡隆司さん
+
+「今年から作るイクラは、正直な話、100グラム7000円超えになっちゃいます。（イクラが）入ってきませんというより、仕入れできません。高くて」
+
+他の店では、今年からイクラの試食をやめたといいます。
+
+広海水産 佐藤裕美さん
+
+「（イクラを）半分の量で販売するようになったし、お客さんも『手が出ないよね』って言うから、『半分もあるよ』って」
+
+東京都内のスーパーでは約2000円で販売されていた、北海道産のイクラ。一粒あたりいくらになるのかを調べるために、数えてみると…。
+
+報告・荒川三冬ディレクター
+
+「数えてみた結果、290粒でした」
+
+なんと、一粒だけで約7円になる計算に。ごはんにちょっとイクラをのせただけで、約210円です。イクラの原料である「すじこ」は、この3年間で約6.5倍にまで高騰しています。背景にあるのは、秋サケの記録的な不漁。温暖化による海水温の上昇などによって、引き起こされていると考えられています。ミシュランガイドにも掲載されている東京都内の日本料理店でも、イクラの高騰が悩みのタネに…。
+
+日本料理店「清澄 たか原」店主 高原紫紋さん
+
+「イクラが去年の1.5倍、おととしの2倍。やっぱり色味もきれいですし、子孫繁栄という意味もあるので、（おせち料理とは）切っても切れない、大事な食材の一つだと思う」
+
+今年は80品目の食材を使って、おせちの製造・販売を行なう予定ですが、材料の高騰を受け、初めての試みに着手していました。
+
+日本料理店「清澄 たか原」店主 高原紫紋さん
+
+「今年は、かまぼこなどは全て手作りでやらせていただいております」
+
+鯛とホタテを使い、すり身からかまぼこを作ることで、完成品を仕入れるよりも10〜25％程度、コストカットが可能になるといいます。こうした積み重ねによって、去年と同じ価格のおせち料理を実現しました。
+
+日本料理店「清澄 たか原」店主 高原紫紋さん
+
+「（調理に）時間はかかりますけれども、作った方がより美味しくコストも削減、両方できる。いいこと尽くしなので、その方がお客様にも喜んでもらえる」
+
+ただ、かまぼこについては、全国のかまぼこメーカーなどが加盟する業界団体が“緊急事態宣言”を出す局面になっています。
+
+日本かまぼこ協会の声明（10月）
+
+「このまま原料の高騰と供給不安が続けば、地域の練り製品企業の存続、ひいては日本の食文化そのものにも影響を及ぼしかねません」
+
+日本でかまぼこのすり身の原料として、よく使われているスケトウダラ。大半を輸入品に頼っていますが、この1年で価格は約1.7倍に高騰しました。日本発祥の「すり身」は、今や海外でも「SURIMI」として知られていて、ヨーロッパではフライやソテーの需要も増加。日本は円安などの影響も相まって、海外との買い付け競争で苦戦しているといいます。さらに…。
+
+日本料理店「清澄 たか原」店主 高原紫紋さん
+
+「かまぼこを作る際にすり身をのばしたりするのに昆布の出汁を使っています」
+
+おせち料理を根幹から支えている昆布も記録的不漁が続いている状況です。
+
+北海道函館市の食品加工工場を訪ねると…。
+
+タカハシ食品 高橋拓郎営業部長
+
+「こちらがきのう味付けして、きょう製品になる昆布巻き」
+
+作られていたのは、おせち用の昆布巻き。これから年末にかけて、1万5000本を製造する予定です。
+
+タカハシ食品 高橋拓郎営業部長
+
+「昔は年中（店頭に）出ていたんですけど、通常月に売れるような金額ではなくなってしまったので、年末のおせちに向けて作っているような形」
+
+この企業は昆布巻き用に、北海道産の天然昆布を約600キロ用意していますが、仕入れ価格は3年前の2倍以上になっているといいます。原因として考えられているのは、海水温の上昇などによる天然昆布の漁獲量の激減や、漁業者数の減少などです。
+
+タカハシ食品 高橋拓郎営業部長
+
+「昆布をとれる数が減っていってしまっているので、（仕入れ先から）うちが今までもらえていた量をいただくことは、（今後）できないんじゃないかなと」
+
+事態が好転する見通しもなく、1年後に製造する予定の昆布巻きも価格が200円前後上がってしまう可能性があるといいます。
+
+タカハシ食品 高橋拓郎営業部長
+
+「昆布巻きは3、4年前までは1本500〜600円で買えていたものが、今年1000円近くになってしまって、来年はもっと高くなってしまう。おせちも予算があるので、昆布巻き自体が（おせちから）なくなってしまう可能性はあると思う。1年を迎えるにあたって、『喜び+昆布=よろこぶ』という重要な意味があるので、そういった意味を守る意味でも、昆布巻きは残していきたい」
+
+報告・畑中彩里ディレクター
+
+「今、卵に砂糖を入れていますね」
+
+28日、静岡市にある老舗かまぼこ店の工場では、約20人のスタッフが機械や手作業で、おせち料理の定番の一品を作っていました。出来上がったのは、錦玉子です。この日、1日だけで500キロ以上の卵を使いましたが…。
+
+さすぼし蒲鉾 古牧久弥社長
+
+「今は10年前から比べると、2倍くらいになっちゃっている」
+
+卵1パックの全国平均小売価格は、先月、過去最高の312円を記録したばかりです。この時期はクリスマスケーキの卵需要とも重なっているため、卵の仕入れ価格が高くなりやすいといいます。一方で、原料は卵の他に塩と砂糖だけでコストカットも難しい状況です。
+
+さすぼし蒲鉾 古牧久弥社長
+
+「味とか品質を第一に考えているので、正直に原料が上がったら、正直に値上げをすると」
+
+今後、年末にかけて1万本を製造する予定です。
+
+さすぼし蒲鉾 古牧久弥社長
+
+「（価格が）高くなってしまって、食べていただくお客さんが減っていけば、やっぱり製造量が減ってしまうので、それは将来に向けては不安材料。作ることで食文化を守って、そして伝えることで継承していきたい」
+
+高島彩キャスター
+
+「値上げの波は、お正月に欠かせないお餅にも押し寄せているそうなんです」
+
+板倉朋希アナウンサー
+
+「サトウ食品は“鏡餅シリーズ”を約17〜20％の値上げ、越後製菓では最大で約30％の値上げする商品もあるということです。いずれも原料となるもち米や、資材費、物流費、人件費などの高騰を理由に挙げています」
+
+高島彩キャスター
+
+「値上げの理由の1つに原料の米の高騰とありますが、主食用のお米はいま値段下がっていますよね。でも、もち米は上がっているってことなんでしょうか?」
+
+板倉朋希アナウンサー
+
+「そうなんです。サトウ食品は原料米の高騰の要因について『もち米からうるち米への作付け転換による』と説明しています。米の流通に詳しい宇都宮大学・松平尚也助教に聞いたところ、令和の米騒動の際、もち米から収益性の高い主食用の米に生産を切り替える農家が増加。結果、去年のもち米の生産量が減って価格高騰につながってしまったというわけです」
+
+高島彩キャスター
+
+「柳澤さん、あの米騒動のつけがこうした形で現れたということですね」
+
+ジャーナリスト 柳澤秀夫氏
+
+「もち米の生産を減らせば、もち米が少なくなるというのは、当然分かっていたことだと思うんですよね。ですから、令和の米騒動のときの対応がいかに場当たり的だったかということは、否めないような気がするんですよね。やはり米作り全体に目配せをした、きめ細かい農業政策というものが改めて必要だなということを感じましたね」
+
+高島彩キャスター
+
+「何かと物入りの時期ですから、自分たちでできる工夫や無駄の見直しなどもしていくといいかなと思います」33:["$","section",null,{"className":"article-actions","children":[["$","$L38",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/48c285b248c285b29c4ce9a2","title":"イクラは“１粒７円” かまぼこは“緊急事態宣言” おせち食材高騰の意外な背景(テレビ朝日系（ANN）)","locale":"ja","take":null}],["$","$L39",null,{"title":"イクラは“１粒７円” かまぼこは“緊急事態宣言” おせち食材高騰の意外な背景(テレビ朝日系（ANN）)","excerpt":"$3a","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/48c285b248c285b29c4ce9a2","locale":"ja"}],"$L3b"]}]
+34:["$","$L3c",null,{"placement":"article","className":"mt-8"}]
+35:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L11",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+36:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/ad46a88f3458c7bd9485e2573821bbb59e1bd872?source=rss",{"children":["$","$L11",null,{"href":"/ja/n/0a3a6c190a3a6c19514627c5","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"田中碧と坂元達裕のプレミア日本人対決が実現！ 好調のリーズがコベントリーに３－０で快勝し、今季初の３連勝！(SOCCER DIGEST Web)"}]]}]}],["$","li","mynavi:https://news.mynavi.jp/article/20261129-5433955/",{"children":["$","$L11",null,{"href":"/ja/n/3fc141c43fc141c4f81d9cb0","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"マイナビニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"新体制ホーム初陣のマンUが2戦連続0－4の惨敗でリーグ10戦未勝利…再三決定機決め切れずブレントフォードに屈す"}]]}]}],["$","li","yahoo-sports:https://news.yahoo.co.jp/articles/4fab3f60489f7cedacd42b5bef74da335612da1f?source=rss",{"children":["$","$L11",null,{"href":"/ja/n/2143922121439221fe8b30b1","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"新体制ホーム初陣のマンUが2戦連続0－4の惨敗でリーグ10戦未勝利…再三決定機決め切れずブレントフォードに屈す(サッカーキング)"}]]}]}]]}]]}]
+3b:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%82%A4%E3%82%AF%E3%83%A9%E3%81%AF%E2%80%9C%EF%BC%91%E7%B2%92%EF%BC%97%E5%86%86%E2%80%9D+%E3%81%8B%E3%81%BE%E3%81%BC%E3%81%93%E3%81%AF%E2%80%9C%E7%B7%8A%E6%80%A5%E4%BA%8B%E6%85%8B%E5%AE%A3%E8%A8%80%E2%80%9D+%E3%81%8A%E3%81%9B%E3%81%A1%E9%A3%9F%E6%9D%90%E9%AB%98%E9%A8%B0%E3%81%AE%E6%84%8F%E5%A4%96%E3%81%AA%E8%83%8C%E6%99%AF%29&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]

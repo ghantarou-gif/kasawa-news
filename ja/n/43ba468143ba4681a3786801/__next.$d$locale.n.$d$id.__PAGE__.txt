@@ -1,0 +1,68 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+c:X
+11:X
+11:C
+0:{"buildId":"VRkKTfqjSA9WSnVt327gj","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-28","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Gigazine"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"人類は350年前にどうやって「光にも速さがある」と気づいたのか？"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"16 時間前"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"光の速さは真空中で秒速約30万kmであることが知られていますが、光が移動するのに時間がかかることが観測によって初めて実証されたのは1676年のことです。現代のような精密な測定機器が存在しなかった350年前に、デンマークの天文学者である オーレ・レーマー がどのようにして光の速さが有限であることを突き止めたのかについて、科学メディアのScience Norwayが解説しています。"}],["$","p","1",{"children":"レーマーは商人の家に生まれ、コペンハーゲン大学で数学や天文学を学んだあと、フランス政府に招かれてパリへ渡り、パリ天文台で天文学者として活動しました。"}],["$","p","2",{"children":"レーマーらが観測の対象としていたのが木星の衛星であるイオです。イオは約42時間半で木星の周囲を1周しており、木星の影に入ると地球からは見えなくなり、影から抜け出すと再び姿を現します。この現象は規則的に発生するため、当時は正確な時刻を把握できる自然の時計として、航海における経度の測定などに利用できると考えられていました。"}],["$","p","3",{"children":"レーマーはイオが木星の影に入る時刻や影から抜け出す時刻を詳細に記録していく中で、ある規則性に気付きました。地球が木星から遠ざかっている時期には現象が予測よりも遅く観測され、反対に地球が木星に近づいている時期には予測よりも早く観測されたのです。"}],["$","p","4",{"children":"ノルウェー科学技術大学物理学部のヤコブ・リンダー教授によると、レーマーは地球と木星の距離によって光が移動するのに必要な時間が変化するため、観測時刻にずれが生じると考えました。もし光が瞬時に伝わるのであれば、地球と木星の距離の変化に応じて観測時刻が早まったり遅れたりすることはないはずだというわけです。"}],["$","p","5",{"children":"1676年9月、レーマーはパリの科学アカデミーで、同年11月9日にイオが木星の影から姿を現す時刻が従来の予測よりも10分遅くなると発表しました。実際の観測結果はレーマーの予測と一致し、光の伝わる速さが有限であることを裏付けました。この発見は1676年12月7日に学術誌の「Journal des sçavans」で報告されています。"}],["$","p","6",{"children":"以下はレーマーの光速に関する論文に掲載された図。地球が木星に近づくとき(F～G)と遠ざかるとき(L～K)でイオが姿を現す時刻に生じるずれを調べることで、光が移動するのにかかる時間を推定しました。"}],["$","p","7",{"children":"レーマーは観測結果から、光が地球の公転軌道の直径に相当する距離を移動するのに約22分かかると推定しました。現在知られている地球の公転軌道の大きさを用いて光速を計算すると、秒速約22万5000kmとなり、実際の光速よりも約25％遅い値です。リンダー教授は、当時の技術水準を考えれば驚くべき成果であり、数値の正確さ以上に光の速さが有限で測定可能であることを示した点に意義があると指摘しています。"}],["$","p","8",{"children":"光の速さが有限である可能性については、古代ギリシャの哲学者であるエンペドクレスをはじめ、レーマー以前にも複数の哲学者や科学者が言及していました。しかし、実際の観測結果に基づいて有限であることを示したのはレーマーが初めてです。"}],["$","p","9",{"children":"レーマーの発見はすぐに科学界全体に受け入れられたわけではなく、当時のパリ天文台の責任者もレーマーの説明を完全には受け入れなかったとのこと。一方で、光の波動説を唱えた クリスティアーン・ホイヘンス や アイザック・ニュートン といった著名な科学者からは支持を得ました。"}],["$","p","10",{"children":"レーマーの発見から約50年後にはイギリスの天文学者である ジェームズ・ブラッドリー が、「光行差」と呼ばれる現象を発見しました。光行差とは、地球の公転と光の速さが有限であることによって、恒星の見かけ上の位置が1年を通じてわずかに変化する現象です。これにより、レーマーとは全く異なる観測方法でも光の速さが有限であることが裏付けられました。"}],["$","p","11",{"children":"光の速さが有限であるという事実は、現代の天文学においても極めて重要な意味を持っています。例えば地球に届くまでに100億年かかった光を観測すれば、その光を放った天体の100億年前の姿を見ることができます。遠くの宇宙を観測するほど過去の宇宙の姿を知ることができるため、レーマーの発見は宇宙の歴史や進化を解明する上でも重要な意味を持っているとリンダー教授は述べています。"}],["$","p","12",{"children":"光速を超えずに光より速く進むとどうなるのか？ - GIGAZINE"}],["$","p","13",{"children":"「光速が時速5kmだったらどうなるか？」を体験できるウェブサイト - GIGAZINE"}],["$","p","14",{"children":"GPSの物理学、なぜナビに相対性理論が必要なのか？ - GIGAZINE"}],["$","p","15",{"children":"2020年ノーベル物理学賞受賞者が語る「ビッグバン以前の宇宙」とは？"}],["$","p","16",{"children":"You can read the machine translated English article How did humanity realize 350 years ago t… ."}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はGigazineにあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://gigazine.net/news/20261128-light-speed-discovered-350-years-ago/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はGigazineで読む"}]}],["$","section",null,{"className":"article-actions","children":["$L3","$L4","$L5"]}],"$L6",null,"$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":"$@b","staleTime":"$c","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$c","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$c","varyParams":"$11"},{"rsc":"$L12","isPartial":"$@13","staleTime":"$c","varyParams":"$11"}],"isUpgradeableISRFallback":false,"a":"$@14","rootVaryParams":null,"needsRuntimeRequest":"$@15"}
+16:I[36936,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+17:I[98337,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+19:I[9441,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+1a:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1e:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1f:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+20:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+21:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","$L16",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/43ba468143ba4681a3786801","title":"人類は350年前にどうやって「光にも速さがある」と気づいたのか？","locale":"ja","take":null}]
+18:T1594,光の速さは真空中で秒速約30万kmであることが知られていますが、光が移動するのに時間がかかることが観測によって初めて実証されたのは1676年のことです。現代のような精密な測定機器が存在しなかった350年前に、デンマークの天文学者である オーレ・レーマー がどのようにして光の速さが有限であることを突き止めたのかについて、科学メディアのScience Norwayが解説しています。
+
+レーマーは商人の家に生まれ、コペンハーゲン大学で数学や天文学を学んだあと、フランス政府に招かれてパリへ渡り、パリ天文台で天文学者として活動しました。
+
+レーマーらが観測の対象としていたのが木星の衛星であるイオです。イオは約42時間半で木星の周囲を1周しており、木星の影に入ると地球からは見えなくなり、影から抜け出すと再び姿を現します。この現象は規則的に発生するため、当時は正確な時刻を把握できる自然の時計として、航海における経度の測定などに利用できると考えられていました。
+
+レーマーはイオが木星の影に入る時刻や影から抜け出す時刻を詳細に記録していく中で、ある規則性に気付きました。地球が木星から遠ざかっている時期には現象が予測よりも遅く観測され、反対に地球が木星に近づいている時期には予測よりも早く観測されたのです。
+
+ノルウェー科学技術大学物理学部のヤコブ・リンダー教授によると、レーマーは地球と木星の距離によって光が移動するのに必要な時間が変化するため、観測時刻にずれが生じると考えました。もし光が瞬時に伝わるのであれば、地球と木星の距離の変化に応じて観測時刻が早まったり遅れたりすることはないはずだというわけです。
+
+1676年9月、レーマーはパリの科学アカデミーで、同年11月9日にイオが木星の影から姿を現す時刻が従来の予測よりも10分遅くなると発表しました。実際の観測結果はレーマーの予測と一致し、光の伝わる速さが有限であることを裏付けました。この発見は1676年12月7日に学術誌の「Journal des sçavans」で報告されています。
+
+以下はレーマーの光速に関する論文に掲載された図。地球が木星に近づくとき(F～G)と遠ざかるとき(L～K)でイオが姿を現す時刻に生じるずれを調べることで、光が移動するのにかかる時間を推定しました。
+
+レーマーは観測結果から、光が地球の公転軌道の直径に相当する距離を移動するのに約22分かかると推定しました。現在知られている地球の公転軌道の大きさを用いて光速を計算すると、秒速約22万5000kmとなり、実際の光速よりも約25％遅い値です。リンダー教授は、当時の技術水準を考えれば驚くべき成果であり、数値の正確さ以上に光の速さが有限で測定可能であることを示した点に意義があると指摘しています。
+
+光の速さが有限である可能性については、古代ギリシャの哲学者であるエンペドクレスをはじめ、レーマー以前にも複数の哲学者や科学者が言及していました。しかし、実際の観測結果に基づいて有限であることを示したのはレーマーが初めてです。
+
+レーマーの発見はすぐに科学界全体に受け入れられたわけではなく、当時のパリ天文台の責任者もレーマーの説明を完全には受け入れなかったとのこと。一方で、光の波動説を唱えた クリスティアーン・ホイヘンス や アイザック・ニュートン といった著名な科学者からは支持を得ました。
+
+レーマーの発見から約50年後にはイギリスの天文学者である ジェームズ・ブラッドリー が、「光行差」と呼ばれる現象を発見しました。光行差とは、地球の公転と光の速さが有限であることによって、恒星の見かけ上の位置が1年を通じてわずかに変化する現象です。これにより、レーマーとは全く異なる観測方法でも光の速さが有限であることが裏付けられました。
+
+光の速さが有限であるという事実は、現代の天文学においても極めて重要な意味を持っています。例えば地球に届くまでに100億年かかった光を観測すれば、その光を放った天体の100億年前の姿を見ることができます。遠くの宇宙を観測するほど過去の宇宙の姿を知ることができるため、レーマーの発見は宇宙の歴史や進化を解明する上でも重要な意味を持っているとリンダー教授は述べています。
+
+光速を超えずに光より速く進むとどうなるのか？ - GIGAZINE
+
+「光速が時速5kmだったらどうなるか？」を体験できるウェブサイト - GIGAZINE
+
+GPSの物理学、なぜナビに相対性理論が必要なのか？ - GIGAZINE
+
+2020年ノーベル物理学賞受賞者が語る「ビッグバン以前の宇宙」とは？
+
+You can read the machine translated English article How did humanity realize 350 years ago t… .4:["$","$L17",null,{"title":"人類は350年前にどうやって「光にも速さがある」と気づいたのか？","excerpt":"$18","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/43ba468143ba4681a3786801","locale":"ja"}]
+5:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E4%BA%BA%E9%A1%9E%E3%81%AF350%E5%B9%B4%E5%89%8D%E3%81%AB%E3%81%A9%E3%81%86%E3%82%84%E3%81%A3%E3%81%A6%E3%81%A8%E6%B0%97%E3%81%A5%E3%81%84%E3%81%9F%E3%81%AE%E3%81%8B%EF%BC%9F&mode=phrase&url=gigazine.net&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+6:["$","$L19",null,{"placement":"article","className":"mt-8"}]
+7:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+8:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","yahoo-domestic:https://news.yahoo.co.jp/articles/d6b7aa318337b3455421df89356328951db8edec?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/e936f94ae936f94ac02e89cc","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"千葉東金道路で5台絡む事故 2人心肺停止 一部区間で通行止め(テレビ朝日系（ANN）)"}]]}]}],["$","li","nhk-top:https://news.web.nhk/newsweb/na/nd-20261128de83063",{"children":["$","$L2",null,{"href":"/ja/n/cc5f56c8cc5f56c812f75562","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"フィギュア GPファイナル進出者 女子3人 男子1人 ペア1組に"}]]}]}],["$","li","yahoo-picks:https://news.yahoo.co.jp/pickup/6604350?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/015448bf015448bf9bc698ff","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"第3子から1千万円給付案 街の声は"}]]}]}]]}]]}]
+9:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+a:["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]
+d:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1e",null,{"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"人類は350年前にどうやって「光にも速さがある」と気づいたのか？"}],["$","meta","1",{"name":"description","content":"光の速さは真空中で秒速約30万kmであることが知られていますが、光が移動するのに時間がかかることが観測によって初めて実証されたのは1676年のことです。現代のような精密な測定機器が存在しなかった350年前に、デンマークの天文学者である オーレ・レーマー がどのようにして光の速さが有限であることを突き止めたのかについて、科学メディアのScience Norwayが解説しています。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"人類は350年前にどうやって「光にも速さがある」と気づいたのか？"}],["$","meta","4",{"property":"og:description","content":"光の速さは真空中で秒速約30万kmであることが知られていますが、光が移動するのに時間がかかることが観測によって初めて実証されたのは1676年のことです。現代のような精密な測定機器が存在しなかった350年前に、デンマークの天文学者である オーレ・レーマー がどのようにして光の速さが有限であることを突き止めたのかについて、科学メディアのScience Norwayが解説しています。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/43ba468143ba4681a3786801/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"人類は350年前にどうやって「光にも速さがある」と気づいたのか？"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"人類は350年前にどうやって「光にも速さがある」と気づいたのか？"}],["$","meta","14",{"name":"twitter:description","content":"光の速さは真空中で秒速約30万kmであることが知られていますが、光が移動するのに時間がかかることが観測によって初めて実証されたのは1676年のことです。現代のような精密な測定機器が存在しなかった350年前に、デンマークの天文学者である オーレ・レーマー がどのようにして光の速さが有限であることを突き止めたのかについて、科学メディアのScience Norwayが解説しています。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1f","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
+12:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
+15:true
+1c:null
+c:300
+c:C
+14:0
+e:"$undefined"
+10:"$undefined"
+13:"$undefined"
+b:"$undefined"

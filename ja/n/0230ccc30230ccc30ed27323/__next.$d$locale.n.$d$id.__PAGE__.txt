@@ -1,0 +1,69 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg","image"]
+5:Tea9,与党連合が合意に至らない場合、ニュージーランドは再び選挙を実施せざるを得なくなるかもしれない
+
+ニュージーランドの国旗が国会議事堂前に掲揚されている
+
+ニュージーランドの選挙管理委員会は27日、7日に行われた総選挙の公式結果を発表した。クリス・ラクソン首相の右派連立政権は過半数議席に1議席届かず、政権を維持できるか危ぶまれている。
+
+ラクソン首相率いる中道右派の国民党は、議会（定数130）で40議席を獲得。連立政権を組む右派ACT党およびニュージーランド・ファースト党はそれぞれ13議席と12議席を得たが、3党合わせても過半数には届かない。
+
+政権維持のためには、中道オポチュニティー党（7議席）の支持が必要だ。支持を取り付けられなかった場合、再選挙となる可能性がある。
+
+一方、36議席を獲得した中道左派の野党・労働党は、仮にオポチュニティー党の支持を得られたとしても、十分な議席を確保できないため、政権を担うことができない。
+
+このほか、緑の党は17議席、マオリの利益を代表するテ・パティ・マオリは5議席となった。
+
+選挙直後、二大政党である国民党と労働党は、それぞれ連立政権樹立に向けた交渉の準備を進めた。一方、オポチュニティー党はどちらの陣営とも協力しうるとしていた。
+
+オポチュニティー党のキューレイ・ウォン党首は27日、記者団に対し、同党は国民党と交渉する予定だが、あらゆる選択肢を検討していると述べた。
+
+「この議会には七つの政党があり、ニュージーランドに安定した政権をもたらすために、全員が全力を尽くす責任を負っている。私たちだけの責任ではない」
+
+選挙当日に発表された暫定結果では、国民党とその連立パートナーが左派勢力に対してわずかなリードを保つ見通しとされた。
+
+しかし27日の公式集計によると、特別票（有権者が選挙区外から投じた票、海外からの投票も含まれる）が加えられたことで、国民党は2議席を失ったことが明らかになった。これらの特別投票は通常、左派に有利に働く。
+
+国民党の主要な選挙公約には、減税、エネルギー価格の引き下げ、再生可能エネルギー発電の拡大、国防への重点的な取り組みなどが含まれる。一方の労働党は、医療や公共交通機関、燃料の費用の削減や、公営住宅への政府支援の拡充などを公約に掲げて選挙運動を展開していた。
+
+ニュージーランドの小選挙区比例代表併用制では、ほとんどの政権が連立政権となる。 有権者は、自分の選挙区の議員を選ぶとともに、政党にも投票する。
+
+BBCが以前行った取材では、多くの有権者が、全国的な生活費の高騰と高い失業率、そして政治家への信頼の低下に不満を表明していた。
+
+ニュージーランドの公共政策シンクタンク「ヘレン・クラーク財団」の調査によると、国民の半数以上が、もはやニュージーランドを機会の国とは見ていないという。
+
+ニュージーランド国民の国外流出は記録的な規模に達しており、ジャシンダ・アーダーン元首相をはじめ、多くの人々がオーストラリアに移住している。
+
+（英語記事 New Zealand's ruling coalition falls short of parliamentary majority by one seat）d:X
+12:X
+12:C
+0:{"buildId":"VRkKTfqjSA9WSnVt327gj","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-27","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"ニュージーランド総選挙、連立与党が過半数に1議席届かず"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"与党連合が合意に至らない場合、ニュージーランドは再び選挙を実施せざるを得なくなるかもしれない"}],["$","p","1",{"children":"ニュージーランドの国旗が国会議事堂前に掲揚されている"}],["$","p","2",{"children":"ニュージーランドの選挙管理委員会は27日、7日に行われた総選挙の公式結果を発表した。クリス・ラクソン首相の右派連立政権は過半数議席に1議席届かず、政権を維持できるか危ぶまれている。"}],["$","p","3",{"children":"ラクソン首相率いる中道右派の国民党は、議会（定数130）で40議席を獲得。連立政権を組む右派ACT党およびニュージーランド・ファースト党はそれぞれ13議席と12議席を得たが、3党合わせても過半数には届かない。"}],["$","p","4",{"children":"政権維持のためには、中道オポチュニティー党（7議席）の支持が必要だ。支持を取り付けられなかった場合、再選挙となる可能性がある。"}],["$","p","5",{"children":"一方、36議席を獲得した中道左派の野党・労働党は、仮にオポチュニティー党の支持を得られたとしても、十分な議席を確保できないため、政権を担うことができない。"}],["$","p","6",{"children":"このほか、緑の党は17議席、マオリの利益を代表するテ・パティ・マオリは5議席となった。"}],["$","p","7",{"children":"選挙直後、二大政党である国民党と労働党は、それぞれ連立政権樹立に向けた交渉の準備を進めた。一方、オポチュニティー党はどちらの陣営とも協力しうるとしていた。"}],["$","p","8",{"children":"オポチュニティー党のキューレイ・ウォン党首は27日、記者団に対し、同党は国民党と交渉する予定だが、あらゆる選択肢を検討していると述べた。"}],["$","p","9",{"children":"「この議会には七つの政党があり、ニュージーランドに安定した政権をもたらすために、全員が全力を尽くす責任を負っている。私たちだけの責任ではない」"}],["$","p","10",{"children":"選挙当日に発表された暫定結果では、国民党とその連立パートナーが左派勢力に対してわずかなリードを保つ見通しとされた。"}],["$","p","11",{"children":"しかし27日の公式集計によると、特別票（有権者が選挙区外から投じた票、海外からの投票も含まれる）が加えられたことで、国民党は2議席を失ったことが明らかになった。これらの特別投票は通常、左派に有利に働く。"}],["$","p","12",{"children":"国民党の主要な選挙公約には、減税、エネルギー価格の引き下げ、再生可能エネルギー発電の拡大、国防への重点的な取り組みなどが含まれる。一方の労働党は、医療や公共交通機関、燃料の費用の削減や、公営住宅への政府支援の拡充などを公約に掲げて選挙運動を展開していた。"}],["$","p","13",{"children":"ニュージーランドの小選挙区比例代表併用制では、ほとんどの政権が連立政権となる。 有権者は、自分の選挙区の議員を選ぶとともに、政党にも投票する。"}],["$","p","14",{"children":"BBCが以前行った取材では、多くの有権者が、全国的な生活費の高騰と高い失業率、そして政治家への信頼の低下に不満を表明していた。"}],["$","p","15",{"children":"ニュージーランドの公共政策シンクタンク「ヘレン・クラーク財団」の調査によると、国民の半数以上が、もはやニュージーランドを機会の国とは見ていないという。"}],["$","p","16",{"children":"ニュージーランド国民の国外流出は記録的な規模に達しており、ジャシンダ・アーダーン元首相をはじめ、多くの人々がオーストラリアに移住している。"}],["$","p","17",{"children":"（英語記事 New Zealand's ruling coalition falls short of parliamentary majority by one seat）"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/cmd91jkqwx5zo","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/0230ccc30230ccc30ed27323","title":"ニュージーランド総選挙、連立与党が過半数に1議席届かず","locale":"ja","take":null}],["$","$L4",null,{"title":"ニュージーランド総選挙、連立与党が過半数に1議席届かず","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/0230ccc30230ccc30ed27323","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E7%B7%8F%E9%81%B8%E6%8C%99%E3%80%81%E9%80%A3%E7%AB%8B%E4%B8%8E%E5%85%9A%E3%81%8C%E9%81%8E%E5%8D%8A%E6%95%B0%E3%81%AB1%E8%AD%B0%E5%B8%AD%E5%B1%8A%E3%81%8B%E3%81%9A&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","euronews:https://euronews.com/video/2026/11/27/uk-londons-cake-and-bake-show-honours-david-attenboroughs-centenary",{"children":["$","$L2",null,{"href":"/ja/n/9f036f4d9f036f4da52e1a61","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Euronews"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"UK: London's Cake and Bake Show honours David Attenborough's centenary"}]]}]}],["$","li","nhk-politics:https://news.web.nhk/newsweb/na/nd-20261127de82796",{"children":["$","$L2",null,{"href":"/ja/n/ae837425ae837425fc5f1895","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"自民 麻生副総裁 茂木外相らが会談 消費税減税法案など成立を"}]]}]}],["$","li","euronews:https://euronews.com/2026/11/27/black-friday-where-in-europe-are-shoppers-the-gloomiest",{"children":["$","$L2",null,{"href":"/ja/n/c1f14256c1f14256df16968c","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Euronews"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Black Friday: Where in Europe are shoppers the gloomiest?"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ニュージーランド総選挙、連立与党が過半数に1議席届かず"}],["$","meta","1",{"name":"description","content":"与党連合が合意に至らない場合、ニュージーランドは再び選挙を実施せざるを得なくなるかもしれない"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"ニュージーランド総選挙、連立与党が過半数に1議席届かず"}],["$","meta","4",{"property":"og:description","content":"与党連合が合意に至らない場合、ニュージーランドは再び選挙を実施せざるを得なくなるかもしれない"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/0230ccc30230ccc30ed27323/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F6f08%2Flive%2Fc2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"ニュージーランド総選挙、連立与党が過半数に1議席届かず"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"ニュージーランド総選挙、連立与党が過半数に1議席届かず"}],["$","meta","14",{"name":"twitter:description","content":"与党連合が合意に至らない場合、ニュージーランドは再び選挙を実施せざるを得なくなるかもしれない"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F6f08%2Flive%2Fc2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

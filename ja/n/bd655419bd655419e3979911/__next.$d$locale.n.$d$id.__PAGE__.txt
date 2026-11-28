@@ -1,0 +1,71 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7152/live/395fc860-e975-11f1-acd8-af22a7ebb474.jpg","image"]
+5:Teaf,ミャンマーのミンアウンフライン大統領。2021年の軍事クーデターで権力を掌握して以来、同国を率いている
+
+ダークスーツ姿でめがねをかけた大統領が前を見つめている
+
+ミャンマーのミンアウンフライン大統領は25日、同国が少数派イスラム教徒ロヒンギャに対してジェノサイド（集団殺害）を行ったと認定した国際司法裁判所（ICJ）の判決について、初めて公の場で発言し、「不適切」な部分には従わないと述べた。国営メディアが26日報じた。
+
+ICJは19日、ミャンマーが2016年から2017年にかけてあった国軍の弾圧で、ロヒンギャ約1万人を殺害し、70万人以上に徒歩や海路でのバングラデシュへの避難を余儀なくさせたと認める歴史的な判決を出した。1948年に国連で採択されたジェノサイド条約について、国家による違反を認定したのは初めてだった。
+
+判決はまた、ロヒンギャ約81万5000人が何らかの形で弾圧の対象にされたと認めた。
+
+これに対し、ミャンマーはジェノサイドを否定。国軍による行為は、武装集団からの攻撃への対応だったと主張している。
+
+国営メディアによると、2021年のクーデターを率い、のちに大統領となったミンアウンフライン氏は25日の会合で、「『ジェノサイド』という言葉は国の評判に深刻な影響を与えた」と発言。
+
+「ミャンマーは責任ある国として適切な行動をとるが、不適切と考える要求には従わない」と述べた。判決のどの部分を不服としているのかは明言しなかった。
+
+ジェノサイドに関するこの訴訟は、2019年にガンビアがICJに提起した。ロヒンギャの多くが居住するラカイン州で2016～2017年に実施された「掃討作戦」を訴えの中心に据えていた。
+
+さまざまな国の出身の裁判官らが審理し、賛成9、反対6の多数決で今回の判決を出した。
+
+ICJはまた、ミャンマーがジェノサイド条約の他のいくつかの条項にも違反したと、多数決で認定した。
+
+ICJはミャンマーに、相応の賠償金の支払いを命じた。その額は後日決定されるとした。
+
+ICJはさらに、いま行われている違反行為をやめ、ジェノサイド条約に違反した疑いのある者について直ちに捜査を進めるよう、ミャンマーに命じた。
+
+ただ、ICJにはこれらを強制する権限はない。判決の内容を実行させるには、国連安全保障理事会や政治的圧力に頼らざるを得ない。
+
+今回の判決は、象徴的な意味合いが強いが、長年にわたって苦難を訴えてきたロヒンギャのコミュニティーや人権団体からは歓迎された。
+
+判決に対しては、10カ国以上が承認を表明している。イギリスは、ミャンマー軍の複数の高官に対する制裁措置を発表している。
+
+ミャンマーは、2021年にミンアウンフライン国軍総司令官（当時）が率いた軍事クーデターで、文民指導者アウンサンスーチー氏を拘束して以来、内戦によって荒廃している。ミャンマーは国際社会から孤立し、軍事政権はさまざまな国際的な制裁に直面している。
+
+ミンアウンフライン氏はミャンマーの国際社会への復帰に努めてきたが、同国は依然として主要な外交舞台からほぼ締め出されている。
+
+（英語記事 Myanmar refuses to comply with parts of ICJ genocide ruling）d:X
+12:X
+12:C
+0:{"buildId":"VRkKTfqjSA9WSnVt327gj","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-27","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"ミャンマー大統領、ジェノサイド認定したICJ判決の一部には従わないと表明"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"一昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7152/live/395fc860-e975-11f1-acd8-af22a7ebb474.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"ミャンマーのミンアウンフライン大統領。2021年の軍事クーデターで権力を掌握して以来、同国を率いている"}],["$","p","1",{"children":"ダークスーツ姿でめがねをかけた大統領が前を見つめている"}],["$","p","2",{"children":"ミャンマーのミンアウンフライン大統領は25日、同国が少数派イスラム教徒ロヒンギャに対してジェノサイド（集団殺害）を行ったと認定した国際司法裁判所（ICJ）の判決について、初めて公の場で発言し、「不適切」な部分には従わないと述べた。国営メディアが26日報じた。"}],["$","p","3",{"children":"ICJは19日、ミャンマーが2016年から2017年にかけてあった国軍の弾圧で、ロヒンギャ約1万人を殺害し、70万人以上に徒歩や海路でのバングラデシュへの避難を余儀なくさせたと認める歴史的な判決を出した。1948年に国連で採択されたジェノサイド条約について、国家による違反を認定したのは初めてだった。"}],["$","p","4",{"children":"判決はまた、ロヒンギャ約81万5000人が何らかの形で弾圧の対象にされたと認めた。"}],["$","p","5",{"children":"これに対し、ミャンマーはジェノサイドを否定。国軍による行為は、武装集団からの攻撃への対応だったと主張している。"}],["$","p","6",{"children":"国営メディアによると、2021年のクーデターを率い、のちに大統領となったミンアウンフライン氏は25日の会合で、「『ジェノサイド』という言葉は国の評判に深刻な影響を与えた」と発言。"}],["$","p","7",{"children":"「ミャンマーは責任ある国として適切な行動をとるが、不適切と考える要求には従わない」と述べた。判決のどの部分を不服としているのかは明言しなかった。"}],["$","p","8",{"children":"ジェノサイドに関するこの訴訟は、2019年にガンビアがICJに提起した。ロヒンギャの多くが居住するラカイン州で2016～2017年に実施された「掃討作戦」を訴えの中心に据えていた。"}],["$","p","9",{"children":"さまざまな国の出身の裁判官らが審理し、賛成9、反対6の多数決で今回の判決を出した。"}],["$","p","10",{"children":"ICJはまた、ミャンマーがジェノサイド条約の他のいくつかの条項にも違反したと、多数決で認定した。"}],["$","p","11",{"children":"ICJはミャンマーに、相応の賠償金の支払いを命じた。その額は後日決定されるとした。"}],["$","p","12",{"children":"ICJはさらに、いま行われている違反行為をやめ、ジェノサイド条約に違反した疑いのある者について直ちに捜査を進めるよう、ミャンマーに命じた。"}],["$","p","13",{"children":"ただ、ICJにはこれらを強制する権限はない。判決の内容を実行させるには、国連安全保障理事会や政治的圧力に頼らざるを得ない。"}],["$","p","14",{"children":"今回の判決は、象徴的な意味合いが強いが、長年にわたって苦難を訴えてきたロヒンギャのコミュニティーや人権団体からは歓迎された。"}],["$","p","15",{"children":"判決に対しては、10カ国以上が承認を表明している。イギリスは、ミャンマー軍の複数の高官に対する制裁措置を発表している。"}],["$","p","16",{"children":"ミャンマーは、2021年にミンアウンフライン国軍総司令官（当時）が率いた軍事クーデターで、文民指導者アウンサンスーチー氏を拘束して以来、内戦によって荒廃している。ミャンマーは国際社会から孤立し、軍事政権はさまざまな国際的な制裁に直面している。"}],["$","p","17",{"children":"ミンアウンフライン氏はミャンマーの国際社会への復帰に努めてきたが、同国は依然として主要な外交舞台からほぼ締め出されている。"}],["$","p","18",{"children":"（英語記事 Myanmar refuses to comply with parts of ICJ genocide ruling）"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/c6742dd74d4eo","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/bd655419bd655419e3979911","title":"ミャンマー大統領、ジェノサイド認定したICJ判決の一部には従わないと表明","locale":"ja","take":null}],["$","$L4",null,{"title":"ミャンマー大統領、ジェノサイド認定したICJ判決の一部には従わないと表明","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/bd655419bd655419e3979911","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%83%9F%E3%83%A3%E3%83%B3%E3%83%9E%E3%83%BC%E5%A4%A7%E7%B5%B1%E9%A0%98%E3%80%81%E3%82%B8%E3%82%A7%E3%83%8E%E3%82%B5%E3%82%A4%E3%83%89%E8%AA%8D%E5%AE%9A%E3%81%97%E3%81%9FICJ%E5%88%A4%E6%B1%BA%E3%81%AE%E4%B8%80%E9%83%A8%E3%81%AB%E3%81%AF%E5%BE%93%E3%82%8F%E3%81%AA%E3%81%84%E3%81%A8%E8%A1%A8%E6%98%8E&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","euronews:https://euronews.com/video/2026/11/27/uk-londons-cake-and-bake-show-honours-david-attenboroughs-centenary",{"children":["$","$L2",null,{"href":"/ja/n/9f036f4d9f036f4da52e1a61","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Euronews"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"UK: London's Cake and Bake Show honours David Attenborough's centenary"}]]}]}],["$","li","nhk-politics:https://news.web.nhk/newsweb/na/nd-20261127de82796",{"children":["$","$L2",null,{"href":"/ja/n/ae837425ae837425fc5f1895","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"自民 麻生副総裁 茂木外相らが会談 消費税減税法案など成立を"}]]}]}],["$","li","euronews:https://euronews.com/2026/11/27/black-friday-where-in-europe-are-shoppers-the-gloomiest",{"children":["$","$L2",null,{"href":"/ja/n/c1f14256c1f14256df16968c","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Euronews"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Black Friday: Where in Europe are shoppers the gloomiest?"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ミャンマー大統領、ジェノサイド認定したICJ判決の一部には従わないと表明"}],["$","meta","1",{"name":"description","content":"ミャンマーのミンアウンフライン大統領。2021年の軍事クーデターで権力を掌握して以来、同国を率いている"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"ミャンマー大統領、ジェノサイド認定したICJ判決の一部には従わないと表明"}],["$","meta","4",{"property":"og:description","content":"ミャンマーのミンアウンフライン大統領。2021年の軍事クーデターで権力を掌握して以来、同国を率いている"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/bd655419bd655419e3979911/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F7152%2Flive%2F395fc860-e975-11f1-acd8-af22a7ebb474.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"ミャンマー大統領、ジェノサイド認定したICJ判決の一部には従わないと表明"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"ミャンマー大統領、ジェノサイド認定したICJ判決の一部には従わないと表明"}],["$","meta","14",{"name":"twitter:description","content":"ミャンマーのミンアウンフライン大統領。2021年の軍事クーデターで権力を掌握して以来、同国を率いている"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F7152%2Flive%2F395fc860-e975-11f1-acd8-af22a7ebb474.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

@@ -1,0 +1,79 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261126-00010007-sorae_jp-000-1-view.jpg?pri=l&w=415&h=450&exp=10800","image"]
+c:X
+11:X
+11:C
+0:{"buildId":"VRkKTfqjSA9WSnVt327gj","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-26","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"Yahoo!ニュース"}],["$","span",null,{"children":["💻"," ","テック"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"赤色巨星「ミラA」から噴き出した巨大なループ アルマ望遠鏡が捉えた磁場による噴出(sorae 宇宙へのポータルサイト)"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"一昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261126-00010007-sorae_jp-000-1-view.jpg?pri=l&w=415&h=450&exp=10800","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"こちらは、南米・チリの電波望遠鏡群「アルマ望遠鏡（ALMA）」が観測した赤色巨星「ミラA（Mira A）」。くじら座の方向、地球から約330光年先にあります。"}],["$","p","1",{"children":"赤色巨星とは、寿命の終わりが近づいて大きく膨らみ、表面の温度が下がって赤く見えるようになった星のことです。"}],["$","p","2",{"children":"赤外線で測ったミラAの半径は、約1.5天文単位。1天文単位（約1億5000万km）は地球と太陽の平均距離に由来するので、もしもミラAを太陽の位置に置けば、地球の公転軌道がすっぽり収まってしまうほどの大きさです。"}],["$","p","3",{"children":"ミラAは、膨張と収縮を約331日の周期で繰り返し、肉眼で見えるほど明るくなったり、見えなくなるほど暗くなったりする変光星でもあります。"}],["$","p","4",{"children":"1600年代の天文学者は、この星をラテン語で「不思議なもの」を意味する「ミラ」と名付けました。現在ではミラが2つの星からなる連星だとわかっていて、赤色巨星の方がミラAと呼ばれています。"}],["$","p","5",{"children":"ESO（ヨーロッパ南天天文台）によると、電波で捉えた画像の中央で明るく輝いているのがミラAの表面です。その周りに連なる光は、ミラAから噴き出したガスが描く巨大なループ。ループは、ミラAの中心から約12天文単位まで広がっていて、太陽から土星までの距離を上回ります。"}],["$","p","6",{"children":"こちらは、南米・チリの電波望遠鏡群「アルマ望遠鏡（ALMA）」が観測した赤色巨星「ミラA（Mira A）」。くじら座の方向、地球から約330光年先にあります。"}],["$","p","7",{"children":"赤色巨星とは、寿命の終わりが近づいて大きく膨らみ、表面の温度が下がって赤く見えるようになった星のことです。"}],["$","p","8",{"children":"赤外線で測ったミラAの半径は、約1.5天文単位。1天文単位（約1億5000万km）は地球と太陽の平均距離に由来するので、もしもミラAを太陽の位置に置けば、地球の公転軌道がすっぽり収まってしまうほどの大きさです。"}],["$","p","9",{"children":"ミラAは、膨張と収縮を約331日の周期で繰り返し、肉眼で見えるほど明るくなったり、見えなくなるほど暗くなったりする変光星でもあります。"}],["$","p","10",{"children":"1600年代の天文学者は、この星をラテン語で「不思議なもの」を意味する「ミラ」と名付けました。現在ではミラが2つの星からなる連星だとわかっていて、赤色巨星の方がミラAと呼ばれています。"}],["$","p","11",{"children":"ESO（ヨーロッパ南天天文台）によると、電波で捉えた画像の中央で明るく輝いているのがミラAの表面です。その周りに連なる光は、ミラAから噴き出したガスが描く巨大なループ。ループは、ミラAの中心から約12天文単位まで広がっていて、太陽から土星までの距離を上回ります。"}],["$","p","12",{"children":"ミラAのような赤色巨星は、外層のガスを宇宙へ放出し続けています。これまでは、星の外側の大気で冷えたガスから塵（ダスト）ができ、その塵が星の光の圧力に押されてガスを引きずることで、穏やかで途切れのない“風”が流れ出すと考えられてきました。"}],["$","p","13",{"children":"ところが、チャルマース工科大学のWouter Vlemmings教授を筆頭とする研究チームによると、ミラAのループは途切れのない風ではなく、一度の突発的な噴出で打ち出されたガスなのだといいます。"}],["$","p","14",{"children":"Vlemmings教授らは、ループが放つ電波の偏光（電磁波の振動する向きの偏り）を分析した結果、ループには強い磁場があり、ガスを噴き出させるほどの力を持っていたと判断しました。"}],["$","p","15",{"children":"教授らはこの噴出を、プラズマ化した大量のガスが太陽から磁場の働きによって塊状に放出される「コロナ質量放出（CME）」に似た現象だと結論づけています。"}],["$","p","16",{"children":"また、同大学のMiora Andriantsaralaza博士研究員を筆頭とする研究チームによると、ミラAの表面には、電波で見積もった温度が周囲より数千度も高い「ホットスポット」が、最も明るくなる時期の前後に繰り返し現れているとみられます。"}],["$","p","17",{"children":"ホットスポットのひとつは2023年6～7月の観測で捉えられましたが、この時期はVlemmings教授らがガスの速さを仮定して逆算した噴出の時期にあたる2023年半ばから2024年初めと重なります。"}],["$","p","18",{"children":"このことからVlemmings教授らは、ミラAの表面で解放されたエネルギーがガスを熱してホットスポットを生み、同時にループとなるガスを打ち出したとみています。その上で、ミラAのような年老いた星では磁場による噴出がガス放出の主役になり得ると考えています。"}],["$","p","19",{"children":"ESO - Mira lives up to its name"}],["$","p","20",{"children":"Vlemmings et al. - A giant magnetic eruption from the asymptotic-giant-branch star Mira A (Astronomy & Astrophysics)"}],["$","p","21",{"children":"Andriantsaralaza et al. - Periodic activity on the (sub)millimetre surface of the asymptotic giant branch star Mira A (Astronomy & Astrophysics)"}]],"$L3"]}],"$L4","$L5","$L6",null,"$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":"$@b","staleTime":"$c","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$c","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$c","varyParams":"$11"},{"rsc":"$L12","isPartial":"$@13","staleTime":"$c","varyParams":"$11"}],"isUpgradeableISRFallback":false,"a":"$@14","rootVaryParams":null,"needsRuntimeRequest":"$@15"}
+16:I[36936,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+17:I[98337,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+19:I[9441,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+1a:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1e:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1f:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+20:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+21:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p",null,{"className":"article-credit","children":"本文の著作権はYahoo!ニュースにあります。"}]
+4:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://news.yahoo.co.jp/articles/0deaae30f0bf6b195df61f8fcd973972eef85087?source=rss","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はYahoo!ニュースで読む"}]}]
+18:T14b8,こちらは、南米・チリの電波望遠鏡群「アルマ望遠鏡（ALMA）」が観測した赤色巨星「ミラA（Mira A）」。くじら座の方向、地球から約330光年先にあります。
+
+赤色巨星とは、寿命の終わりが近づいて大きく膨らみ、表面の温度が下がって赤く見えるようになった星のことです。
+
+赤外線で測ったミラAの半径は、約1.5天文単位。1天文単位（約1億5000万km）は地球と太陽の平均距離に由来するので、もしもミラAを太陽の位置に置けば、地球の公転軌道がすっぽり収まってしまうほどの大きさです。
+
+ミラAは、膨張と収縮を約331日の周期で繰り返し、肉眼で見えるほど明るくなったり、見えなくなるほど暗くなったりする変光星でもあります。
+
+1600年代の天文学者は、この星をラテン語で「不思議なもの」を意味する「ミラ」と名付けました。現在ではミラが2つの星からなる連星だとわかっていて、赤色巨星の方がミラAと呼ばれています。
+
+ESO（ヨーロッパ南天天文台）によると、電波で捉えた画像の中央で明るく輝いているのがミラAの表面です。その周りに連なる光は、ミラAから噴き出したガスが描く巨大なループ。ループは、ミラAの中心から約12天文単位まで広がっていて、太陽から土星までの距離を上回ります。
+
+こちらは、南米・チリの電波望遠鏡群「アルマ望遠鏡（ALMA）」が観測した赤色巨星「ミラA（Mira A）」。くじら座の方向、地球から約330光年先にあります。
+
+赤色巨星とは、寿命の終わりが近づいて大きく膨らみ、表面の温度が下がって赤く見えるようになった星のことです。
+
+赤外線で測ったミラAの半径は、約1.5天文単位。1天文単位（約1億5000万km）は地球と太陽の平均距離に由来するので、もしもミラAを太陽の位置に置けば、地球の公転軌道がすっぽり収まってしまうほどの大きさです。
+
+ミラAは、膨張と収縮を約331日の周期で繰り返し、肉眼で見えるほど明るくなったり、見えなくなるほど暗くなったりする変光星でもあります。
+
+1600年代の天文学者は、この星をラテン語で「不思議なもの」を意味する「ミラ」と名付けました。現在ではミラが2つの星からなる連星だとわかっていて、赤色巨星の方がミラAと呼ばれています。
+
+ESO（ヨーロッパ南天天文台）によると、電波で捉えた画像の中央で明るく輝いているのがミラAの表面です。その周りに連なる光は、ミラAから噴き出したガスが描く巨大なループ。ループは、ミラAの中心から約12天文単位まで広がっていて、太陽から土星までの距離を上回ります。
+
+ミラAのような赤色巨星は、外層のガスを宇宙へ放出し続けています。これまでは、星の外側の大気で冷えたガスから塵（ダスト）ができ、その塵が星の光の圧力に押されてガスを引きずることで、穏やかで途切れのない“風”が流れ出すと考えられてきました。
+
+ところが、チャルマース工科大学のWouter Vlemmings教授を筆頭とする研究チームによると、ミラAのループは途切れのない風ではなく、一度の突発的な噴出で打ち出されたガスなのだといいます。
+
+Vlemmings教授らは、ループが放つ電波の偏光（電磁波の振動する向きの偏り）を分析した結果、ループには強い磁場があり、ガスを噴き出させるほどの力を持っていたと判断しました。
+
+教授らはこの噴出を、プラズマ化した大量のガスが太陽から磁場の働きによって塊状に放出される「コロナ質量放出（CME）」に似た現象だと結論づけています。
+
+また、同大学のMiora Andriantsaralaza博士研究員を筆頭とする研究チームによると、ミラAの表面には、電波で見積もった温度が周囲より数千度も高い「ホットスポット」が、最も明るくなる時期の前後に繰り返し現れているとみられます。
+
+ホットスポットのひとつは2023年6～7月の観測で捉えられましたが、この時期はVlemmings教授らがガスの速さを仮定して逆算した噴出の時期にあたる2023年半ばから2024年初めと重なります。
+
+このことからVlemmings教授らは、ミラAの表面で解放されたエネルギーがガスを熱してホットスポットを生み、同時にループとなるガスを打ち出したとみています。その上で、ミラAのような年老いた星では磁場による噴出がガス放出の主役になり得ると考えています。
+
+ESO - Mira lives up to its name
+
+Vlemmings et al. - A giant magnetic eruption from the asymptotic-giant-branch star Mira A (Astronomy & Astrophysics)
+
+Andriantsaralaza et al. - Periodic activity on the (sub)millimetre surface of the asymptotic giant branch star Mira A (Astronomy & Astrophysics)5:["$","section",null,{"className":"article-actions","children":[["$","$L16",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/cac0e2e7cac0e2e7afc3ed27","title":"赤色巨星「ミラA」から噴き出した巨大なループ アルマ望遠鏡が捉えた磁場による噴出(sorae 宇宙へのポータルサイト)","locale":"ja","take":null}],["$","$L17",null,{"title":"赤色巨星「ミラA」から噴き出した巨大なループ アルマ望遠鏡が捉えた磁場による噴出(sorae 宇宙へのポータルサイト)","excerpt":"$18","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/cac0e2e7cac0e2e7afc3ed27","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E8%B5%A4%E8%89%B2%E5%B7%A8%E6%98%9F%E3%81%8B%E3%82%89%E5%99%B4%E3%81%8D%E5%87%BA%E3%81%97%E3%81%9F%E5%B7%A8%E5%A4%A7%E3%81%AA%E3%83%AB%E3%83%BC%E3%83%97+%E3%82%A2%E3%83%AB%E3%83%9E%E6%9C%9B%E9%81%A0%E9%8F%A1%E3%81%8C%E6%8D%89%E3%81%88%E3%81%9F%E7%A3%81%E5%A0%B4%E3%81%AB%E3%82%88%E3%82%8B%E5%99%B4%E5%87%BA&mode=phrase&url=news.yahoo.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+6:["$","$L19",null,{"placement":"article","className":"mt-8"}]
+7:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+8:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","dw:https://dw.com/en/freigang-banned-germany-star-to-miss-2027-world-cup/a-80063930?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/99e7358e99e7358eeae3c476","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Freigang banned — Germany star to miss 2027 World Cup"}]]}]}],["$","li","dw:https://dw.com/en/fifa-says-a-cyberattack-against-it-targeted-a-limited-set-of-personal-and-business-information/a-80062660?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/d9a7d076d9a7d076baa4e0d4","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"FIFA says a cyberattack against it targeted a 'limited set of personal and business information'"}]]}]}],["$","li","bbc-europe:https://bbc.co.uk/news/articles/cmlyd76kyx44o",{"children":["$","$L2",null,{"href":"/ja/n/5adbf3f15adbf3f1631699d9","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules"}]]}]}]]}]]}]
+9:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+a:["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]
+d:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1e",null,{"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"赤色巨星「ミラA」から噴き出した巨大なループ アルマ望遠鏡が捉えた磁場による噴出(sorae 宇宙へのポータルサイト)"}],["$","meta","1",{"name":"description","content":"こちらは、南米・チリの電波望遠鏡群「アルマ望遠鏡（ALMA）」が観測した赤色巨星「ミラA（Mira A）」。くじら座の方向、地球から約330光年先にあります。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"赤色巨星「ミラA」から噴き出した巨大なループ アルマ望遠鏡が捉えた磁場による噴出(sorae 宇宙へのポータルサイト)"}],["$","meta","4",{"property":"og:description","content":"こちらは、南米・チリの電波望遠鏡群「アルマ望遠鏡（ALMA）」が観測した赤色巨星「ミラA（Mira A）」。くじら座の方向、地球から約330光年先にあります。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/cac0e2e7cac0e2e7afc3ed27/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261126-00010007-sorae_jp-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"赤色巨星「ミラA」から噴き出した巨大なループ アルマ望遠鏡が捉えた磁場による噴出(sorae 宇宙へのポータルサイト)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"赤色巨星「ミラA」から噴き出した巨大なループ アルマ望遠鏡が捉えた磁場による噴出(sorae 宇宙へのポータルサイト)"}],["$","meta","14",{"name":"twitter:description","content":"こちらは、南米・チリの電波望遠鏡群「アルマ望遠鏡（ALMA）」が観測した赤色巨星「ミラA（Mira A）」。くじら座の方向、地球から約330光年先にあります。"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20261126-00010007-sorae_jp-000-1-view.jpg%3Fpri%3Dl%26w%3D1200%26h%3D630%26exp%3D10800&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1f","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
+12:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
+15:true
+1c:null
+c:300
+c:C
+14:0
+e:"$undefined"
+10:"$undefined"
+13:"$undefined"
+b:"$undefined"

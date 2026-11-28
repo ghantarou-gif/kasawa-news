@@ -1,0 +1,105 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+18:X
+1d:X
+1d:C
+0:{"buildId":"VRkKTfqjSA9WSnVt327gj","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-27","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"CNET Japan"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"2026年版「Kindle」実機レビュー Paperwhiteに見劣りしない仕様に Amazonでセール中"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"昨日"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"米アマゾンが数年おきに電子書籍リーダー「 Kindle 」の新モデルを出すたびに、「どれを買えばいい？」と聞かれる。以前なら迷わず「Kindle Paperwhite」と答えていた。かつての標準モデルは見た目も手触りも少し安っぽく、フロントライトすら備えていなかった。画面の解像度もPaperwhiteより低かった。"}],["$","p","1",{"children":"Amazon のアソシエイトとして、CNET Japanは適格販売により収入を得ています。記事内リンクから製品ページに飛ぶ場合があります。"}],["$","p","2",{"children":"だが、最新の6インチ「Kindle」は、単なる入門機と呼ぶにはもったいないほどよくできている。Paperwhiteとの差はずいぶん縮まり、価格や重さを考えると、今ではむしろ標準モデルの方に魅力を感じるほどだ。6インチには樹脂製の標準モデルとアルミ筐体版があり、どちらも外出先での読書にはぴったりだ。"}],["$","p","3",{"children":"米CNETでは10点満点中8.4点と評価し、編集部の推奨製品「Editors’ Choice」に選んだ。ポケットに収まる本体は先代より軽く、薄くなり、画面とベゼルの段差もなくなった。フロントライトのLEDは4灯から9灯に増え、アルミ筐体版の洗練されたデザインも魅力的だ。一方、6インチの2モデルはいずれも防水には対応せず、バッテリーの持ちもPaperwhiteには及ばない。"}],["$","p","4",{"children":"部品不足でさまざまなデジタル機器が値上がりしているが、Kindleの価格上昇には少々驚かされた。日本では2024年に登場した先代の標準モデルが発売時に1万9980円だったのに対し、今回の新モデルは2万9980円からと、1万円も高くなっている。"}],["$","p","5",{"children":"アマゾンは新モデルを「これまでで最もポケットに収まりやすいKindle」とうたっている。Paperwhiteと同じように画面とベゼルがフラットになり、電源ボタンも底面から右側面の上部に移った。これはうれしい変更だ。"}],["$","p","6",{"children":"本体は先代よりひと回り小さくなり、厚みもわずかに減った。背面が樹脂製の標準モデルはわずか140gだ。先代は約159gだった。20gにも満たない差だが、両手に1台ずつ持って比べてみると、新モデルの軽さははっきりと分かる。"}],["$","p","7",{"children":"6インチの2026年モデルには、3万3980円のアルミ筐体版も加わった。重量は162gと少し増えるが、見た目にはより高級感があり、ストレージ容量も16GBから32GBに倍増する。3万9980円の新型「Kindle Paperwhite」との価格差は6000円だ。"}],["$","p","8",{"children":"Paperwhiteにも4万4980円の上位モデル「シグニチャーエディション」がある。こちらはアルミ筐体に32GBのストレージと環境光センサーを備え、背面の接点を介して対応アクセサリーと接続できる。その1つが、物理的なページめくりボタンを追加できる1万1980円の「ページめくりボタン付き マグネット装着式 植物性レザーカバー」だ。昔のKindleにあったページめくりボタンが恋しい人にはうれしいケースだが、なかなかいい値段がする。"}],["$","p","9",{"children":"文字を大きく表示する必要がないのであれば、小さくて軽い電子書籍リーダーにはメリットが多い。長時間の読書でも片手で持ち続けやすいし、ジーンズの前ポケットにもすんなり収まる。私はたいてい上着のポケットに入れて持ち歩いていた。羽のように軽いとまでは言わないが、300ページほどのペーパーバック（ソフトカバーの本）の半分くらいの重さしかない。"}],["$","p","10",{"children":"画面サイズは先代と同じ6インチだ。一方、新型Paperwhiteは7インチ。こちらも先代より少し軽く、薄くなったものの、重量は204gある。6インチのKindleもPaperwhiteと同じように画面とベゼルの段差がなくなったが、防水には対応しておらず、フロントライトの色温度も調整できない。"}],["$","p","11",{"children":"ただ、フロントライト自体は改良され、LEDの数が4灯から9灯に増えた。19灯を備えるPaperwhiteには及ばないが、明るさを最大にすると、先代よりも少し明るくなったことが分かる。"}],["$","p","12",{"children":"電子ペーパー「E Ink」を採用しているので、日差しの強い屋外でも快適に読書を楽しめる。スマートフォンやタブレットのように画面が見づらくなるどころか、周囲が明るいほど文字は読みやすくなる。ウェブやメール、メッセージ、次々に届く通知、無数の娯楽アプリに気を取られることなく、読書に没頭できるのも専用端末ならではの魅力だ。"}],["$","p","13",{"children":"電子書籍リーダーの愛用者には、画面のわずかな違いにも敏感な人がいる。新モデルはフロントライトを消した状態で比べると、先代よりも画面がわずかに暗く、コントラストも少し低いように見えた。画面とベゼルをフラットにしたことが影響しているのかもしれない。また、明るさを最大にすると、先代と同じく画面がやや青みがかって見える。"}],["$","p","14",{"children":"私は色温度の微妙な違いをそれほど気にする方ではないので、画面やフロントライトの品質には満足している。文字も十分にくっきりと表示される。モノクロ表示時の画素密度は、どのKindleも300ppiだ。フロントライトの色合いにもこだわり、より紙の本に近い見え方を求めるなら、Paperwhiteを選ぶといいだろう。"}],["$","p","15",{"children":"バッテリーの持ちにも差がある。アマゾンの公称値では、6インチのKindleは先代と同じ最長6週間、新型Paperwhiteは最長12週間だ。どちらも1回の充電で数十時間は読書を楽しめるので、私にとってはそれほど大きな問題ではない。ただ、新型Kindleはバッテリーの減りが少し早いという声もある。"}],["$","p","16",{"children":"私も1週間ほど使ってみて、バッテリーの減りが早いと感じることがあった。もっとも、アマゾンが公称値の算出条件としている1日30分の読書よりも、電力を消費する使い方をしていた。読書そのものにはあまり電力を使わないが、Wi-Fi経由で電子書籍をダウンロードするときは、それなりにバッテリーを消費する。フロントライトも24段階のうち、19前後まで明るくすることが多かった。"}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le"],"$Lf"]}],"$L10","$L11","$L12",null,"$L13","$L14"]}],["$L15"],"$L16"]}],"isPartial":"$@17","staleTime":"$18","varyParams":null},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$18","varyParams":null},{"rsc":"$L1b","isPartial":"$@1c","staleTime":"$18","varyParams":"$1d"},{"rsc":"$L1e","isPartial":"$@1f","staleTime":"$18","varyParams":"$1d"}],"isUpgradeableISRFallback":false,"a":"$@20","rootVaryParams":null,"needsRuntimeRequest":"$@21"}
+22:I[36936,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+23:I[98337,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+26:I[9441,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+27:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+28:"$Sreact.suspense"
+2a:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+2b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+2c:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+2d:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+2e:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","17",{"children":"E Inkはもともと画面の書き換えに時間がかかるため、最新の「iPhone」やAndroidスマートフォンのように滑らかにスクロールできるわけではない。それでもアマゾンは、ソフトウェアの最適化やハードウェアの細かな改良を重ねてきた。今回のKindleの反応の速さにも十分満足している。先代と同じ1GHzのプロセッサーを搭載し、ページめくりは軽快だ。残像を消すために画面全体が一瞬点滅することがあるが、その間隔も30〜50ページに1回程度だった。"}]
+4:["$","p","18",{"children":"ライブラリーやKindleストアをスクロールすると、まだ多少のもたつきは感じるが、いら立つほどではない。文章にハイライトを付けたり、メモを残したり、単語の意味を調べたりする操作も比較的スムーズだ。もっとも、機能によってはインターネット接続の状態にも左右される。"}]
+5:["$","p","19",{"children":"全体的な動作の速さは先代とほぼ変わらない。ただ、アマゾンによると、ライブラリーにある電子書籍を開く速度は先代より30％向上したという。使っていてPaperwhiteとの性能差もほとんど感じられなかった。上位機種を選ぶ理由は、やはり色温度を調整できるフロントライトと防水性能にあるだろう。"}]
+6:["$","p","20",{"children":"すでに2024年モデルを持っているなら、わざわざ買い替えるほどの進化はないと思う。デザインは確かに良くなったし、画面とベゼルの段差がなくなったことも、フロントライトの改良も歓迎したい。それでも、読書体験そのものが大きく変わるわけではない。"}]
+7:["$","p","21",{"children":"お風呂やプールサイド、ビーチ、船の上などで読書を楽しむ人にとっては、防水に対応していれば大きな進歩だっただろう。標準モデルが防水になるのは、早くても次の世代、2028年ごろだろうか。それまでは、もう少しお金を出してPaperwhiteを選ぶしかない。"}]
+8:["$","p","22",{"children":"もう少し大きな画面や、色温度を調整できるフロントライトが欲しい人にはPaperwhiteを勧めるが、私自身は6インチモデルのコンパクトさと軽さがすっかり気に入っている。"}]
+9:["$","p","23",{"children":"予算に余裕があり、カラー画面が欲しいなら、改良された「Kindle Colorsoft」も魅力的な選択肢だ。ただし、価格は5万1980円から。マンガなどを読まない人にとって、カラー表示が本当に必要かどうかは意見が分かれるところだろう。とはいえ、世代を重ねても劇的な進化の少ないE Ink端末にとって、カラー表示は近年で最も大きな変化だと思う。"}]
+a:["$","p","24",{"children":"6インチの樹脂製モデルとアルミ筐体版のどちらを選ぶかは、好みの色と予算次第だ。「ウベパープル」が気に入ったなら標準モデルを選べばいい。「グラファイト」もある。ただでさえ値上がりしたKindleに、さらに4000円を払うのは気が引けるという人なら、なおさらだ。"}]
+b:["$","p","25",{"children":"逆に「アルペンスカイブルー」や「シーグラスグリーン」にひと目ぼれしたなら、「アルミ筐体の方が高級感もあるし」と自分に言い聞かせて、上位版を選ぶのも悪くない。"}]
+c:["$","p","26",{"children":"Kindleの価格がこれほど急に上がったことには、私も少し驚いている。最近購入した「iPhone 18 Pro」をはじめ、ほかのデジタル機器も値上がりしていることを考えれば、無理もないのかもしれないが。価格が上がれば、それだけ製品への期待も高まり、購入者の目も厳しくなる。今後、Amazonの購入者レビューでKindle各モデルに対する辛口の評価が増えたとしても、私は驚かないだろう。"}]
+d:["$","p","27",{"children":"今回取り上げた新モデルに加え、「Kindle Scribe」だけでも3機種あり、Kindleの選択肢はかつてないほど豊富になった。それでも、値段にさえ納得できるのであれば、この小さなKindleは実に愛着のわく1台だ。今回登場した新モデルの中では、今のところ私のいちばんのお気に入りかもしれない。"}]
+e:["$","p","28",{"children":"この記事は海外Ziff Davis発の 記事 を4Xが日本向けに編集したものです。"}]
+f:["$","p",null,{"className":"article-credit","children":"本文の著作権はCNET Japanにあります。"}]
+10:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://japan.cnet.com/article/35255494/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はCNET Japanで読む"}]}]
+24:T2b31,米アマゾンが数年おきに電子書籍リーダー「 Kindle 」の新モデルを出すたびに、「どれを買えばいい？」と聞かれる。以前なら迷わず「Kindle Paperwhite」と答えていた。かつての標準モデルは見た目も手触りも少し安っぽく、フロントライトすら備えていなかった。画面の解像度もPaperwhiteより低かった。
+
+Amazon のアソシエイトとして、CNET Japanは適格販売により収入を得ています。記事内リンクから製品ページに飛ぶ場合があります。
+
+だが、最新の6インチ「Kindle」は、単なる入門機と呼ぶにはもったいないほどよくできている。Paperwhiteとの差はずいぶん縮まり、価格や重さを考えると、今ではむしろ標準モデルの方に魅力を感じるほどだ。6インチには樹脂製の標準モデルとアルミ筐体版があり、どちらも外出先での読書にはぴったりだ。
+
+米CNETでは10点満点中8.4点と評価し、編集部の推奨製品「Editors’ Choice」に選んだ。ポケットに収まる本体は先代より軽く、薄くなり、画面とベゼルの段差もなくなった。フロントライトのLEDは4灯から9灯に増え、アルミ筐体版の洗練されたデザインも魅力的だ。一方、6インチの2モデルはいずれも防水には対応せず、バッテリーの持ちもPaperwhiteには及ばない。
+
+部品不足でさまざまなデジタル機器が値上がりしているが、Kindleの価格上昇には少々驚かされた。日本では2024年に登場した先代の標準モデルが発売時に1万9980円だったのに対し、今回の新モデルは2万9980円からと、1万円も高くなっている。
+
+アマゾンは新モデルを「これまでで最もポケットに収まりやすいKindle」とうたっている。Paperwhiteと同じように画面とベゼルがフラットになり、電源ボタンも底面から右側面の上部に移った。これはうれしい変更だ。
+
+本体は先代よりひと回り小さくなり、厚みもわずかに減った。背面が樹脂製の標準モデルはわずか140gだ。先代は約159gだった。20gにも満たない差だが、両手に1台ずつ持って比べてみると、新モデルの軽さははっきりと分かる。
+
+6インチの2026年モデルには、3万3980円のアルミ筐体版も加わった。重量は162gと少し増えるが、見た目にはより高級感があり、ストレージ容量も16GBから32GBに倍増する。3万9980円の新型「Kindle Paperwhite」との価格差は6000円だ。
+
+Paperwhiteにも4万4980円の上位モデル「シグニチャーエディション」がある。こちらはアルミ筐体に32GBのストレージと環境光センサーを備え、背面の接点を介して対応アクセサリーと接続できる。その1つが、物理的なページめくりボタンを追加できる1万1980円の「ページめくりボタン付き マグネット装着式 植物性レザーカバー」だ。昔のKindleにあったページめくりボタンが恋しい人にはうれしいケースだが、なかなかいい値段がする。
+
+文字を大きく表示する必要がないのであれば、小さくて軽い電子書籍リーダーにはメリットが多い。長時間の読書でも片手で持ち続けやすいし、ジーンズの前ポケットにもすんなり収まる。私はたいてい上着のポケットに入れて持ち歩いていた。羽のように軽いとまでは言わないが、300ページほどのペーパーバック（ソフトカバーの本）の半分くらいの重さしかない。
+
+画面サイズは先代と同じ6インチだ。一方、新型Paperwhiteは7インチ。こちらも先代より少し軽く、薄くなったものの、重量は204gある。6インチのKindleもPaperwhiteと同じように画面とベゼルの段差がなくなったが、防水には対応しておらず、フロントライトの色温度も調整できない。
+
+ただ、フロントライト自体は改良され、LEDの数が4灯から9灯に増えた。19灯を備えるPaperwhiteには及ばないが、明るさを最大にすると、先代よりも少し明るくなったことが分かる。
+
+電子ペーパー「E Ink」を採用しているので、日差しの強い屋外でも快適に読書を楽しめる。スマートフォンやタブレットのように画面が見づらくなるどころか、周囲が明るいほど文字は読みやすくなる。ウェブやメール、メッセージ、次々に届く通知、無数の娯楽アプリに気を取られることなく、読書に没頭できるのも専用端末ならではの魅力だ。
+
+電子書籍リーダーの愛用者には、画面のわずかな違いにも敏感な人がいる。新モデルはフロントライトを消した状態で比べると、先代よりも画面がわずかに暗く、コントラストも少し低いように見えた。画面とベゼルをフラットにしたことが影響しているのかもしれない。また、明るさを最大にすると、先代と同じく画面がやや青みがかって見える。
+
+私は色温度の微妙な違いをそれほど気にする方ではないので、画面やフロントライトの品質には満足している。文字も十分にくっきりと表示される。モノクロ表示時の画素密度は、どのKindleも300ppiだ。フロントライトの色合いにもこだわり、より紙の本に近い見え方を求めるなら、Paperwhiteを選ぶといいだろう。
+
+バッテリーの持ちにも差がある。アマゾンの公称値では、6インチのKindleは先代と同じ最長6週間、新型Paperwhiteは最長12週間だ。どちらも1回の充電で数十時間は読書を楽しめるので、私にとってはそれほど大きな問題ではない。ただ、新型Kindleはバッテリーの減りが少し早いという声もある。
+
+私も1週間ほど使ってみて、バッテリーの減りが早いと感じることがあった。もっとも、アマゾンが公称値の算出条件としている1日30分の読書よりも、電力を消費する使い方をしていた。読書そのものにはあまり電力を使わないが、Wi-Fi経由で電子書籍をダウンロードするときは、それなりにバッテリーを消費する。フロントライトも24段階のうち、19前後まで明るくすることが多かった。
+
+E Inkはもともと画面の書き換えに時間がかかるため、最新の「iPhone」やAndroidスマートフォンのように滑らかにスクロールできるわけではない。それでもアマゾンは、ソフトウェアの最適化やハードウェアの細かな改良を重ねてきた。今回のKindleの反応の速さにも十分満足している。先代と同じ1GHzのプロセッサーを搭載し、ページめくりは軽快だ。残像を消すために画面全体が一瞬点滅することがあるが、その間隔も30〜50ページに1回程度だった。
+
+ライブラリーやKindleストアをスクロールすると、まだ多少のもたつきは感じるが、いら立つほどではない。文章にハイライトを付けたり、メモを残したり、単語の意味を調べたりする操作も比較的スムーズだ。もっとも、機能によってはインターネット接続の状態にも左右される。
+
+全体的な動作の速さは先代とほぼ変わらない。ただ、アマゾンによると、ライブラリーにある電子書籍を開く速度は先代より30％向上したという。使っていてPaperwhiteとの性能差もほとんど感じられなかった。上位機種を選ぶ理由は、やはり色温度を調整できるフロントライトと防水性能にあるだろう。
+
+すでに2024年モデルを持っているなら、わざわざ買い替えるほどの進化はないと思う。デザインは確かに良くなったし、画面とベゼルの段差がなくなったことも、フロントライトの改良も歓迎したい。それでも、読書体験そのものが大きく変わるわけではない。
+
+お風呂やプールサイド、ビーチ、船の上などで読書を楽しむ人にとっては、防水に対応していれば大きな進歩だっただろう。標準モデルが防水になるのは、早くても次の世代、2028年ごろだろうか。それまでは、もう少しお金を出してPaperwhiteを選ぶしかない。
+
+もう少し大きな画面や、色温度を調整できるフロントライトが欲しい人にはPaperwhiteを勧めるが、私自身は6インチモデルのコンパクトさと軽さがすっかり気に入っている。
+
+予算に余裕があり、カラー画面が欲しいなら、改良された「Kindle Colorsoft」も魅力的な選択肢だ。ただし、価格は5万1980円から。マンガなどを読まない人にとって、カラー表示が本当に必要かどうかは意見が分かれるところだろう。とはいえ、世代を重ねても劇的な進化の少ないE Ink端末にとって、カラー表示は近年で最も大きな変化だと思う。
+
+6インチの樹脂製モデルとアルミ筐体版のどちらを選ぶかは、好みの色と予算次第だ。「ウベパープル」が気に入ったなら標準モデルを選べばいい。「グラファイト」もある。ただでさえ値上がりしたKindleに、さらに4000円を払うのは気が引けるという人なら、なおさらだ。
+
+逆に「アルペンスカイブルー」や「シーグラスグリーン」にひと目ぼれしたなら、「アルミ筐体の方が高級感もあるし」と自分に言い聞かせて、上位版を選ぶのも悪くない。
+
+Kindleの価格がこれほど急に上がったことには、私も少し驚いている。最近購入した「iPhone 18 Pro」をはじめ、ほかのデジタル機器も値上がりしていることを考えれば、無理もないのかもしれないが。価格が上がれば、それだけ製品への期待も高まり、購入者の目も厳しくなる。今後、Amazonの購入者レビューでKindle各モデルに対する辛口の評価が増えたとしても、私は驚かないだろう。
+
+今回取り上げた新モデルに加え、「Kindle Scribe」だけでも3機種あり、Kindleの選択肢はかつてないほど豊富になった。それでも、値段にさえ納得できるのであれば、この小さなKindleは実に愛着のわく1台だ。今回登場した新モデルの中では、今のところ私のいちばんのお気に入りかもしれない。
+
+この記事は海外Ziff Davis発の 記事 を4Xが日本向けに編集したものです。11:["$","section",null,{"className":"article-actions","children":[["$","$L22",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/c708d1a2c708d1a2f376d040","title":"2026年版「Kindle」実機レビュー Paperwhiteに見劣りしない仕様に Amazonでセール中","locale":"ja","take":null}],["$","$L23",null,{"title":"2026年版「Kindle」実機レビュー Paperwhiteに見劣りしない仕様に Amazonでセール中","excerpt":"$24","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/c708d1a2c708d1a2f376d040","locale":"ja"}],"$L25"]}]
+12:["$","$L26",null,{"placement":"article","className":"mt-8"}]
+13:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+14:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","euronews:https://euronews.com/video/2026/11/27/uk-londons-cake-and-bake-show-honours-david-attenboroughs-centenary",{"children":["$","$L2",null,{"href":"/ja/n/9f036f4d9f036f4da52e1a61","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Euronews"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"UK: London's Cake and Bake Show honours David Attenborough's centenary"}]]}]}],["$","li","nhk-politics:https://news.web.nhk/newsweb/na/nd-20261127de82796",{"children":["$","$L2",null,{"href":"/ja/n/ae837425ae837425fc5f1895","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"自民 麻生副総裁 茂木外相らが会談 消費税減税法案など成立を"}]]}]}],["$","li","euronews:https://euronews.com/2026/11/27/black-friday-where-in-europe-are-shoppers-the-gloomiest",{"children":["$","$L2",null,{"href":"/ja/n/c1f14256c1f14256df16968c","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Euronews"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Black Friday: Where in Europe are shoppers the gloomiest?"}]]}]}]]}]]}]
+15:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+16:["$","$L27",null,{"children":["$","$28",null,{"name":"Next.MetadataOutlet","children":"$@29"}]}]
+19:["$","$1","h",{"children":[null,["$","$L2a",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L2b",null,{"children":["$","$28",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"2026年版「Kindle」実機レビュー Paperwhiteに見劣りしない仕様に Amazonでセール中"}],["$","meta","1",{"name":"description","content":"米アマゾンが数年おきに電子書籍リーダー「 Kindle 」の新モデルを出すたびに、「どれを買えばいい？」と聞かれる。以前なら迷わず「Kindle Paperwhite」と答えていた。かつての標準モデルは見た目も手触りも少し安っぽく、フロントライトすら備えていなかった。画面の解像度もPaperwhiteより低かった。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"2026年版「Kindle」実機レビュー Paperwhiteに見劣りしない仕様に Amazonでセール中"}],["$","meta","4",{"property":"og:description","content":"米アマゾンが数年おきに電子書籍リーダー「 Kindle 」の新モデルを出すたびに、「どれを買えばいい？」と聞かれる。以前なら迷わず「Kindle Paperwhite」と答えていた。かつての標準モデルは見た目も手触りも少し安っぽく、フロントライトすら備えていなかった。画面の解像度もPaperwhiteより低かった。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/c708d1a2c708d1a2f376d040/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"2026年版「Kindle」実機レビュー Paperwhiteに見劣りしない仕様に Amazonでセール中"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"2026年版「Kindle」実機レビュー Paperwhiteに見劣りしない仕様に Amazonでセール中"}],["$","meta","14",{"name":"twitter:description","content":"米アマゾンが数年おきに電子書籍リーダー「 Kindle 」の新モデルを出すたびに、「どれを買えばいい？」と聞かれる。以前なら迷わず「Kindle Paperwhite」と答えていた。かつての標準モデルは見た目も手触りも少し安っぽく、フロントライトすら備えていなかった。画面の解像度もPaperwhiteより低かった。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L2c","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+1b:["$","$1","c",{"children":[null,["$","$L2d",null,{"parallelRouterKey":"children","template":["$","$L2e",null,{}]}]]}]
+1e:["$","$1","c",{"children":[null,["$","$L2d",null,{"parallelRouterKey":"children","template":["$","$L2e",null,{}]}]]}]
+21:true
+25:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=2026%E5%B9%B4%E7%89%88%E5%AE%9F%E6%A9%9F%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+Paperwhite%E3%81%AB%E8%A6%8B%E5%8A%A3%E3%82%8A%E3%81%97%E3%81%AA%E3%81%84%E4%BB%95%E6%A7%98%E3%81%AB+Amazon%E3%81%A7%E3%82%BB%E3%83%BC%E3%83%AB%E4%B8%AD&mode=phrase&url=japan.cnet.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+29:null
+18:300
+18:C
+20:0
+1a:"$undefined"
+1c:"$undefined"
+1f:"$undefined"
+17:"$undefined"

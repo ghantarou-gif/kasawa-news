@@ -1,0 +1,119 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+:HL["https://i.guim.co.uk/img/media/410de3602ab2ab8903a9af5f132992edaef060f8/918_0_6498_5199/master/6498.jpg?width=140&quality=85&auto=format&fit=max&s=4ba3b5b51963d6026bab8c5d5e3eb66a","image"]
+21:X
+26:X
+26:C
+0:{"buildId":"VRkKTfqjSA9WSnVt327gj","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-28","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"The Guardian"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"Jess Wilson’s rapid rise is hard to believe - but Victorian Labor’s collapse has been years in the making"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"4 時間前"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://i.guim.co.uk/img/media/410de3602ab2ab8903a9af5f132992edaef060f8/918_0_6498_5199/master/6498.jpg?width=140&quality=85&auto=format&fit=max&s=4ba3b5b51963d6026bab8c5d5e3eb66a","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"It is difficult to overstate how far the Victorian Coalition has come."}],["$","p","1",{"children":"In the days after Christmas 2024, Brad Battin toppled John Pesutto as Liberal leader after a court found the Hawthorn MP defamed his colleague. A million-dollar loan by the party to Pesutto to help cover his legal costs also ended up in court. Battin lasted less than a year before his leadership also came undone and he was replaced by Jess Wilson in November 2025."}],["$","p","2",{"children":"A year on, Wilson has become the first woman to be popularly elected as Victoria’s premier and at 36, the state’s youngest leader since federation. As of 10pm, the Coalition had won 53 seats – well above the 45 needed to form a majority government – and her Labor opponents have been wiped out, from 56 seats in 2022 to just six declared seats, according to Guardian Australia’s analysis , with a little more than a quarter of the vote counted."}],["$","p","3",{"children":"The Labor leader, Ben Carroll , has secured two unwanted places in Australian political history: becoming the first premier to lose their seat at a Victorian election and the state’s shortest-serving modern premier, in the job for just 123 days."}],["$","p","4",{"children":"While the final seat tally won’t be known for a few days, the Coalition has won seats in parts of the state it hasn’t ever held."}],["$","p","5",{"children":"The state that had come to regard Labor as its natural party of government has consigned it to the electoral wilderness. At the current count, more people voted for One Nation across the state than Labor, with the party recording a 21% primary vote, though this did not translate into seats."}],["$","p","6",{"children":"This was in part due to them overtaking Labor, on 17.6%. The Coalition’s landslide win comes off the back of a 34.78% primary vote, only a small increase from the 29.6% it recorded in its 2022 loss ."}],["$","p","7",{"children":"There is also a real possibility the Greens, who have won eight seats, will end up being the official opposition, with Labor consigned to the crossbench."}],["$","p","8",{"children":"“It is wild, the number of seats we’re in hunt for,” the Greens leader, Ellen Sandell, said on Saturday night."}],["$","p","9",{"children":"It’s difficult to see how Labor will be able to rebuild into anything remotely electable in four years."}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17"],"$L18"]}],"$L19","$L1a","$L1b",null,"$L1c","$L1d"]}],["$L1e"],"$L1f"]}],"isPartial":"$@20","staleTime":"$21","varyParams":null},{"rsc":"$L22","isPartial":"$@23","staleTime":"$21","varyParams":null},{"rsc":"$L24","isPartial":"$@25","staleTime":"$21","varyParams":"$26"},{"rsc":"$L27","isPartial":"$@28","staleTime":"$21","varyParams":"$26"}],"isUpgradeableISRFallback":false,"a":"$@29","rootVaryParams":null,"needsRuntimeRequest":"$@2a"}
+2b:I[36936,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+2c:I[98337,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+2f:I[9441,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+30:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+31:"$Sreact.suspense"
+33:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+34:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+35:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+36:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+37:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p","10",{"children":"It’s hard to believe Wilson only entered parliament at the last election after the former member for Kew did not run again after a drink-driving incident in which he crashed his car into a child’s bedroom."}]
+4:["$","p","11",{"children":"Immediately promoted to shadow cabinet, then to shadow treasurer and now also leader, she’s taken a party that was deeply divided and turned it into an election-winning, unified outfit."}]
+5:["$","p","12",{"children":"Wilson is relatable, approachable and a small-l Liberal in a state that remains broadly progressive – if you consider the almost 20% of Victorians who voted for either the Greens or the Victorian Socialists. Much of her success can be attributed to her ability to reach beyond the Coalition’s traditional base."}]
+6:["$","p","13",{"children":"Her rise has also helped attract a new calibre of candidate. She persuaded several female contenders to contest winnable seats, including Samantha Byrne, who has won Niddrie off Carroll. The party has also made a concerted effort to recruit more diverse candidates and build relationships with multicultural communities Labor has taken for granted."}]
+7:["$","p","14",{"children":"In her victory speech, Wilson acknowledged it was the first time many Victorians had voted Liberals."}]
+8:["$","p","15",{"children":"“I realise that you have lent us your vote. We don’t own it. And we will work every single day to demonstrate that you were right to place your trust in us,” she said."}]
+9:["$","p","16",{"children":"Wilson knows winning an election is one thing but governing is another."}]
+a:["$","p","17",{"children":"Her first challenge will be translating an election victory into a mandate to govern. Many Victorians voted for change but may not know what that involves."}]
+b:["$","p","18",{"children":"After all, many voters got their first meaningful taste just 48 hours before polling day, when the Coalition’s costings revealed plans to privatise or sell off around $13bn state government assets, including the state’s sewerage infrastructure ."}]
+c:["$","p","19",{"children":"Then, Wilson will have to manage the competing ambitions within her own ranks. She currently holds the shadow treasurer portfolio, a position several colleagues would dearly like to claim in government. She insists she intends to keep it."}]
+d:["$","p","20",{"children":"The Coalition has a relatively shallow pool of experience on which to draw after 12 years in the wilderness. Bringing someone like Pesutto on to the frontbench would make sense but enrage others in the party room. It’s no wonder Wilson was tight lipped about the prospect when interviewed last month."}]
+e:["$","p","21",{"children":"She described the election as a referendum on Labor. Now, she has to deliver for all those who gave her a party a chance."}]
+f:["$","p","22",{"children":"Meanwhile, in Labor, recriminations have already started. In reality, they had weeks ago. Most of the criticism is the same – Carroll’s campaign focused too much on crime and his inability to acknowledge the 12 years of Labor that came before him – epitomised by the moment he avoided uttering Daniel Andrews and Jacinta Allan’s names in the debate."}]
+10:["$","p","23",{"children":"But a result like this was years in the making."}]
+11:["$","p","24",{"children":"After the 2022 election, Andrews vowed to do more for the communities that swung hard against Labor in the wake of the pandemic. Now, it doesn’t have one. Seats such as Kororoit, Kalkallo, Tarneit and Melton in Melbourne’s north and west and Narre Warren North in the city’s southeast, which have never been held by a party other than Labor, have turned blue."}]
+12:["$","p","25",{"children":"On Saturday night, the deputy leader, Gabrielle Williams, said while the party increased seats four years ago, it ignored the main message voters were sending."}]
+13:["$","p","26",{"children":"“There were certainly warning signs from the 2022 result that we should have responded to and perhaps didn’t take the opportunity,” she said."}]
+14:["$","p","27",{"children":"“It should have been an inflection on point that caused us to stop and see what is happening to our base and what they weren’t getting from us.”"}]
+15:["$","p","28",{"children":"Labor missed another opportunity to reset when Allan became premier in 2023. “She just tried to carry on as if she was the new Daniel Andrews, it was continuation of the old government,” a campaign source said."}]
+16:["$","p","29",{"children":"That government, according to the source, was bogged down by debt, alleged corruption on government construction sites, waste, crime and potholes. The potholes became daily reminders of a government that many Victorians felt was no longer delivering."}]
+17:["$","p","30",{"children":"“Is there no better symbol that shows we failed to get the basics rights?” they said."}]
+18:["$","p",null,{"className":"article-credit","children":"本文の著作権はThe Guardianにあります。"}]
+19:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://theguardian.com/australia-news/2026/nov/28/jess-wilson-coalition-rise-victorian-labor-collapse-election-2026-ntwnfb","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はThe Guardianで読む"}]}]
+2d:T1928,It is difficult to overstate how far the Victorian Coalition has come.
+
+In the days after Christmas 2024, Brad Battin toppled John Pesutto as Liberal leader after a court found the Hawthorn MP defamed his colleague. A million-dollar loan by the party to Pesutto to help cover his legal costs also ended up in court. Battin lasted less than a year before his leadership also came undone and he was replaced by Jess Wilson in November 2025.
+
+A year on, Wilson has become the first woman to be popularly elected as Victoria’s premier and at 36, the state’s youngest leader since federation. As of 10pm, the Coalition had won 53 seats – well above the 45 needed to form a majority government – and her Labor opponents have been wiped out, from 56 seats in 2022 to just six declared seats, according to Guardian Australia’s analysis , with a little more than a quarter of the vote counted.
+
+The Labor leader, Ben Carroll , has secured two unwanted places in Australian political history: becoming the first premier to lose their seat at a Victorian election and the state’s shortest-serving modern premier, in the job for just 123 days.
+
+While the final seat tally won’t be known for a few days, the Coalition has won seats in parts of the state it hasn’t ever held.
+
+The state that had come to regard Labor as its natural party of government has consigned it to the electoral wilderness. At the current count, more people voted for One Nation across the state than Labor, with the party recording a 21% primary vote, though this did not translate into seats.
+
+This was in part due to them overtaking Labor, on 17.6%. The Coalition’s landslide win comes off the back of a 34.78% primary vote, only a small increase from the 29.6% it recorded in its 2022 loss .
+
+There is also a real possibility the Greens, who have won eight seats, will end up being the official opposition, with Labor consigned to the crossbench.
+
+“It is wild, the number of seats we’re in hunt for,” the Greens leader, Ellen Sandell, said on Saturday night.
+
+It’s difficult to see how Labor will be able to rebuild into anything remotely electable in four years.
+
+It’s hard to believe Wilson only entered parliament at the last election after the former member for Kew did not run again after a drink-driving incident in which he crashed his car into a child’s bedroom.
+
+Immediately promoted to shadow cabinet, then to shadow treasurer and now also leader, she’s taken a party that was deeply divided and turned it into an election-winning, unified outfit.
+
+Wilson is relatable, approachable and a small-l Liberal in a state that remains broadly progressive – if you consider the almost 20% of Victorians who voted for either the Greens or the Victorian Socialists. Much of her success can be attributed to her ability to reach beyond the Coalition’s traditional base.
+
+Her rise has also helped attract a new calibre of candidate. She persuaded several female contenders to contest winnable seats, including Samantha Byrne, who has won Niddrie off Carroll. The party has also made a concerted effort to recruit more diverse candidates and build relationships with multicultural communities Labor has taken for granted.
+
+In her victory speech, Wilson acknowledged it was the first time many Victorians had voted Liberals.
+
+“I realise that you have lent us your vote. We don’t own it. And we will work every single day to demonstrate that you were right to place your trust in us,” she said.
+
+Wilson knows winning an election is one thing but governing is another.
+
+Her first challenge will be translating an election victory into a mandate to govern. Many Victorians voted for change but may not know what that involves.
+
+After all, many voters got their first meaningful taste just 48 hours before polling day, when the Coalition’s costings revealed plans to privatise or sell off around $13bn state government assets, including the state’s sewerage infrastructure .
+
+Then, Wilson will have to manage the competing ambitions within her own ranks. She currently holds the shadow treasurer portfolio, a position several colleagues would dearly like to claim in government. She insists she intends to keep it.
+
+The Coalition has a relatively shallow pool of experience on which to draw after 12 years in the wilderness. Bringing someone like Pesutto on to the frontbench would make sense but enrage others in the party room. It’s no wonder Wilson was tight lipped about the prospect when interviewed last month.
+
+She described the election as a referendum on Labor. Now, she has to deliver for all those who gave her a party a chance.
+
+Meanwhile, in Labor, recriminations have already started. In reality, they had weeks ago. Most of the criticism is the same – Carroll’s campaign focused too much on crime and his inability to acknowledge the 12 years of Labor that came before him – epitomised by the moment he avoided uttering Daniel Andrews and Jacinta Allan’s names in the debate.
+
+But a result like this was years in the making.
+
+After the 2022 election, Andrews vowed to do more for the communities that swung hard against Labor in the wake of the pandemic. Now, it doesn’t have one. Seats such as Kororoit, Kalkallo, Tarneit and Melton in Melbourne’s north and west and Narre Warren North in the city’s southeast, which have never been held by a party other than Labor, have turned blue.
+
+On Saturday night, the deputy leader, Gabrielle Williams, said while the party increased seats four years ago, it ignored the main message voters were sending.
+
+“There were certainly warning signs from the 2022 result that we should have responded to and perhaps didn’t take the opportunity,” she said.
+
+“It should have been an inflection on point that caused us to stop and see what is happening to our base and what they weren’t getting from us.”
+
+Labor missed another opportunity to reset when Allan became premier in 2023. “She just tried to carry on as if she was the new Daniel Andrews, it was continuation of the old government,” a campaign source said.
+
+That government, according to the source, was bogged down by debt, alleged corruption on government construction sites, waste, crime and potholes. The potholes became daily reminders of a government that many Victorians felt was no longer delivering.
+
+“Is there no better symbol that shows we failed to get the basics rights?” they said.1a:["$","section",null,{"className":"article-actions","children":[["$","$L2b",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/30d6280230d6280233c757a8","title":"Jess Wilson’s rapid rise is hard to believe - but Victorian Labor’s collapse has been years in the making","locale":"ja","take":null}],["$","$L2c",null,{"title":"Jess Wilson’s rapid rise is hard to believe - but Victorian Labor’s collapse has been years in the making","excerpt":"$2d","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/30d6280230d6280233c757a8","locale":"ja"}],"$L2e"]}]
+1b:["$","$L2f",null,{"placement":"article","className":"mt-8"}]
+1c:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+1d:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","yahoo-domestic:https://news.yahoo.co.jp/articles/d6b7aa318337b3455421df89356328951db8edec?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/e936f94ae936f94ac02e89cc","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"千葉東金道路で5台絡む事故 2人心肺停止 一部区間で通行止め(テレビ朝日系（ANN）)"}]]}]}],["$","li","nhk-top:https://news.web.nhk/newsweb/na/nd-20261128de83063",{"children":["$","$L2",null,{"href":"/ja/n/cc5f56c8cc5f56c812f75562","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"フィギュア GPファイナル進出者 女子3人 男子1人 ペア1組に"}]]}]}],["$","li","yahoo-picks:https://news.yahoo.co.jp/pickup/6604350?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/015448bf015448bf9bc698ff","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"第3子から1千万円給付案 街の声は"}]]}]}]]}]]}]
+1e:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+1f:["$","$L30",null,{"children":["$","$31",null,{"name":"Next.MetadataOutlet","children":"$@32"}]}]
+22:["$","$1","h",{"children":[null,["$","$L33",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L34",null,{"children":["$","$31",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Jess Wilson’s rapid rise is hard to believe - but Victorian Labor’s collapse has been years in the making"}],["$","meta","1",{"name":"description","content":"It is difficult to overstate how far the Victorian Coalition has come."}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"Jess Wilson’s rapid rise is hard to believe - but Victorian Labor’s collapse has been years in the making"}],["$","meta","4",{"property":"og:description","content":"It is difficult to overstate how far the Victorian Coalition has come."}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/30d6280230d6280233c757a8/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F410de3602ab2ab8903a9af5f132992edaef060f8%2F918_0_6498_5199%2Fmaster%2F6498.jpg%3Fwidth%3D140%26quality%3D85%26auto%3Dformat%26fit%3Dmax%26s%3D4ba3b5b51963d6026bab8c5d5e3eb66a&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Jess Wilson’s rapid rise is hard to believe - but Victorian Labor’s collapse has been years in the making"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"Jess Wilson’s rapid rise is hard to believe - but Victorian Labor’s collapse has been years in the making"}],["$","meta","14",{"name":"twitter:description","content":"It is difficult to overstate how far the Victorian Coalition has come."}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F410de3602ab2ab8903a9af5f132992edaef060f8%2F918_0_6498_5199%2Fmaster%2F6498.jpg%3Fwidth%3D140%26quality%3D85%26auto%3Dformat%26fit%3Dmax%26s%3D4ba3b5b51963d6026bab8c5d5e3eb66a&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L35","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+24:["$","$1","c",{"children":[null,["$","$L36",null,{"parallelRouterKey":"children","template":["$","$L37",null,{}]}]]}]
+27:["$","$1","c",{"children":[null,["$","$L36",null,{"parallelRouterKey":"children","template":["$","$L37",null,{}]}]]}]
+2a:true
+2e:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=Jess+Wilson%E2%80%99s+rapid+rise+is+hard+to+believe+-+bu&mode=phrase&url=theguardian.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+32:null
+21:300
+21:C
+29:0
+23:"$undefined"
+25:"$undefined"
+28:"$undefined"
+20:"$undefined"

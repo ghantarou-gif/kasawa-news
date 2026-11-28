@@ -1,0 +1,76 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+c:X
+11:X
+11:C
+0:{"buildId":"VRkKTfqjSA9WSnVt327gj","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-28","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"ITmedia"}],["$","span",null,{"children":["🇯🇵"," ","国内"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"そばチェーン「ゆで太郎」は、なぜ個人情報を「持たない」と決めた？ 8年続いたバースデークラブ終了の理由を社長に聞いた"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"16 時間前"}],null,["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"そばチェーン「ゆで太郎」を展開するゆで太郎システム（東京都品川区）は10月28日、個人情報の漏えいリスクを理由に、会員の誕生月にクーポン券を送る「バースデークラブ」の終了を発表した。会員数は約4000人。実際に情報漏えいが起きたわけではないにもかかわらず、なぜ8年続けてきた制度を終了するのか。同社の池田智昭社長に話を聞いた。"}],["$","p","1",{"children":"ゆで太郎は1994年、東京都中央区で誕生したそばチェーンだ。2004年に設立したゆで太郎システムが都心から郊外へと出店エリアを広げ、現在は全国に約250店舗を展開している。"}],["$","p","2",{"children":"今回廃止したバースデークラブは、同社が8年前に始めた会員制度。会員の誕生月にそばの大盛り無料券5枚を付けたはがきを郵送する。池田社長によると、「販促目的ではなく、ゆで太郎に愛着を持つ顧客とのつながりを深める狙いがあった」という。"}],["$","p","3",{"children":"同社はバースデークラブ会員の住所や氏名、電話番号、生年月日を控え、専用アプリは開発せずにExcelで情報を管理していた。データにアクセスできるのは、原則として商品部長1人に限定していたという。"}],["$","p","4",{"children":"入会希望者にはFacebookのメッセンジャーを通じて連絡してもらい、同社がコード番号を送付。その番号を使って本申し込みをする仕組みだった。当初はメールで申し込みを受け付け、はがきの発送も自社で行っていたが、会員数の増加に伴い、発送業務を外部業者に委託するようになった。なお、取得した個人情報は、はがきの発送以外には活用していなかったという。"}],["$","p","5",{"children":"制度を終了するきっかけとなったのは、相次ぐ他社の個人情報漏えい事件だ。池田社長自身も、複数の企業から情報漏えいの通知を受け取った経験がある。"}],["$","p","6",{"children":"同社は会員情報が漏えいするリスクは高くないと見ていたものの、可能性はゼロではない。池田社長は終了を思い立ったその日に役員にメールで意見を求め、翌日の定例会議で終了を決めた。"}],["$","p","7",{"children":"短期間で終了を決断できた背景として池田社長は、バースデークラブで集めた個人情報を営業活動に使っていなかったことを挙げる。情報の用途ははがきの発送に限り、商品の宣伝や販売には利用していなかった。"}],["$","p","8",{"children":"「基本的には『セキュリティを強化して継続します』というのが企業の取る方法だと思う。ただ、うちは会員情報をバースデークラブでしか使っていなかったので、ぱっとやめた」（池田社長）"}],["$","p","9",{"children":"バースデークラブの特典である大盛り無料券は、有効期間が1年で期間中5回まで使える。池田社長は、券そのものが来店のきっかけになることは少なく、制度の終了による売上高への影響はほとんどないとみている。"}],["$","p","10",{"children":"同社は11月末から12月初旬にかけて、12月生まれの会員と、2026年に入会してまだはがきを受け取っていない会員に最後のはがきを送る。12月中旬ごろまで未着などの問い合わせを待ち、問題がなければ会員情報を完全に消去するという。"}],["$","p","11",{"children":"バースデークラブを終了する一方、17年前から続けているトッピング無料クーポン券の配布は今後も続ける。年4回、1回当たり200万～300万枚を印刷して店舗でクーポンを配っており、来店客の3割以上が利用しているという。"}],["$","p","12",{"children":"池田社長は、ゆで太郎のようにリピーターが多い店では、デジタルよりも紙のクーポン券の方が販促効果が高いと考えている。デジタルの場合、配信しても忘れられやすく、利用時の操作にも時間がかかる。一方、紙であれば財布に入れて持ち歩くため、日常的に目に留まり利用を促しやすい。店舗に足を運ばなければ手に入らないことも、来店の動機になるという。"}],["$","p","13",{"children":"また、クーポン券の受け取りや利用を通じて、顧客と従業員の間にコミュニケーションが生まれることも重視している。券売機で購入した商品の情報は厨房でも確認できるが、顧客と対面で接する機会を設けるため、あえてカウンターまで食券を持ってきてもらう仕組みにしている。"}],["$","p","14",{"children":"「手を掛けて気を配るのがおもてなし」と池田社長。バースデークラブも顧客との接点を生み出す役割を果たしていた。ただ、販促という点ではトッピング無料クーポン券の方が効果が大きく、個人情報を取得せずとも集客につなげられると話した。"}],["$","p","15",{"children":"同社はバースデークラブとは別に、Facebook上で約7200人が参加するファンクラブを運営している。もともとは顧客が自主的に立ち上げたコミュニティーで、現在は池田社長自身が管理する。運営に当たり、同社は会員の個人情報を別途取得していない。"}],["$","p","16",{"children":"ファンクラブに寄せられた意見を基に、朝食メニューのかき揚げをワカメに変更できるようにしたり、無料クーポン券の配布開始時期を前倒ししたりするなど、顧客の声を店舗運営にも反映しているという。"}],["$","p","17",{"children":"バースデークラブの終了を告知した際には、終了を惜しむ声もあったが、池田社長の感覚では、8割以上が「今までありがとう」といった反応だったという。"}],["$","p","18",{"children":"一方、池田社長は、安全に個人情報を管理できる仕組みが登場すれば、バースデークラブを復活させる可能性もあると話す。"}],["$","p","19",{"children":"「8年も続けてきたので、別にやめたかったわけではない。ただ、万が一情報が漏えいしたとき、実害がなかったとしても、お客さまはいい気分にはならない。だから『そもそも個人情報なんて持ってません』というのが一番いいのかなと」（池田社長）"}],["$","p","20",{"children":"個人情報を取得して顧客との接点を増やすことが主流になりつつある中、あえて情報を持たず、顧客との関係を築く。ゆで太郎システムの取り組みは、企業が個人情報を保有する必要性を考えなおすヒントになりそうだ。"}]],"$L3"]}],"$L4","$L5","$L6",null,"$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":"$@b","staleTime":"$c","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$c","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$c","varyParams":"$11"},{"rsc":"$L12","isPartial":"$@13","staleTime":"$c","varyParams":"$11"}],"isUpgradeableISRFallback":false,"a":"$@14","rootVaryParams":null,"needsRuntimeRequest":"$@15"}
+16:I[36936,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+17:I[98337,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+19:I[9441,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+1a:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1d:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1e:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1f:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+20:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+21:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:["$","p",null,{"className":"article-credit","children":"本文の著作権はITmediaにあります。"}]
+4:["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://www.itmedia.co.jp/news/article/2611/28/2000003529/","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はITmediaで読む"}]}]
+18:T19de,そばチェーン「ゆで太郎」を展開するゆで太郎システム（東京都品川区）は10月28日、個人情報の漏えいリスクを理由に、会員の誕生月にクーポン券を送る「バースデークラブ」の終了を発表した。会員数は約4000人。実際に情報漏えいが起きたわけではないにもかかわらず、なぜ8年続けてきた制度を終了するのか。同社の池田智昭社長に話を聞いた。
+
+ゆで太郎は1994年、東京都中央区で誕生したそばチェーンだ。2004年に設立したゆで太郎システムが都心から郊外へと出店エリアを広げ、現在は全国に約250店舗を展開している。
+
+今回廃止したバースデークラブは、同社が8年前に始めた会員制度。会員の誕生月にそばの大盛り無料券5枚を付けたはがきを郵送する。池田社長によると、「販促目的ではなく、ゆで太郎に愛着を持つ顧客とのつながりを深める狙いがあった」という。
+
+同社はバースデークラブ会員の住所や氏名、電話番号、生年月日を控え、専用アプリは開発せずにExcelで情報を管理していた。データにアクセスできるのは、原則として商品部長1人に限定していたという。
+
+入会希望者にはFacebookのメッセンジャーを通じて連絡してもらい、同社がコード番号を送付。その番号を使って本申し込みをする仕組みだった。当初はメールで申し込みを受け付け、はがきの発送も自社で行っていたが、会員数の増加に伴い、発送業務を外部業者に委託するようになった。なお、取得した個人情報は、はがきの発送以外には活用していなかったという。
+
+制度を終了するきっかけとなったのは、相次ぐ他社の個人情報漏えい事件だ。池田社長自身も、複数の企業から情報漏えいの通知を受け取った経験がある。
+
+同社は会員情報が漏えいするリスクは高くないと見ていたものの、可能性はゼロではない。池田社長は終了を思い立ったその日に役員にメールで意見を求め、翌日の定例会議で終了を決めた。
+
+短期間で終了を決断できた背景として池田社長は、バースデークラブで集めた個人情報を営業活動に使っていなかったことを挙げる。情報の用途ははがきの発送に限り、商品の宣伝や販売には利用していなかった。
+
+「基本的には『セキュリティを強化して継続します』というのが企業の取る方法だと思う。ただ、うちは会員情報をバースデークラブでしか使っていなかったので、ぱっとやめた」（池田社長）
+
+バースデークラブの特典である大盛り無料券は、有効期間が1年で期間中5回まで使える。池田社長は、券そのものが来店のきっかけになることは少なく、制度の終了による売上高への影響はほとんどないとみている。
+
+同社は11月末から12月初旬にかけて、12月生まれの会員と、2026年に入会してまだはがきを受け取っていない会員に最後のはがきを送る。12月中旬ごろまで未着などの問い合わせを待ち、問題がなければ会員情報を完全に消去するという。
+
+バースデークラブを終了する一方、17年前から続けているトッピング無料クーポン券の配布は今後も続ける。年4回、1回当たり200万～300万枚を印刷して店舗でクーポンを配っており、来店客の3割以上が利用しているという。
+
+池田社長は、ゆで太郎のようにリピーターが多い店では、デジタルよりも紙のクーポン券の方が販促効果が高いと考えている。デジタルの場合、配信しても忘れられやすく、利用時の操作にも時間がかかる。一方、紙であれば財布に入れて持ち歩くため、日常的に目に留まり利用を促しやすい。店舗に足を運ばなければ手に入らないことも、来店の動機になるという。
+
+また、クーポン券の受け取りや利用を通じて、顧客と従業員の間にコミュニケーションが生まれることも重視している。券売機で購入した商品の情報は厨房でも確認できるが、顧客と対面で接する機会を設けるため、あえてカウンターまで食券を持ってきてもらう仕組みにしている。
+
+「手を掛けて気を配るのがおもてなし」と池田社長。バースデークラブも顧客との接点を生み出す役割を果たしていた。ただ、販促という点ではトッピング無料クーポン券の方が効果が大きく、個人情報を取得せずとも集客につなげられると話した。
+
+同社はバースデークラブとは別に、Facebook上で約7200人が参加するファンクラブを運営している。もともとは顧客が自主的に立ち上げたコミュニティーで、現在は池田社長自身が管理する。運営に当たり、同社は会員の個人情報を別途取得していない。
+
+ファンクラブに寄せられた意見を基に、朝食メニューのかき揚げをワカメに変更できるようにしたり、無料クーポン券の配布開始時期を前倒ししたりするなど、顧客の声を店舗運営にも反映しているという。
+
+バースデークラブの終了を告知した際には、終了を惜しむ声もあったが、池田社長の感覚では、8割以上が「今までありがとう」といった反応だったという。
+
+一方、池田社長は、安全に個人情報を管理できる仕組みが登場すれば、バースデークラブを復活させる可能性もあると話す。
+
+「8年も続けてきたので、別にやめたかったわけではない。ただ、万が一情報が漏えいしたとき、実害がなかったとしても、お客さまはいい気分にはならない。だから『そもそも個人情報なんて持ってません』というのが一番いいのかなと」（池田社長）
+
+個人情報を取得して顧客との接点を増やすことが主流になりつつある中、あえて情報を持たず、顧客との関係を築く。ゆで太郎システムの取り組みは、企業が個人情報を保有する必要性を考えなおすヒントになりそうだ。5:["$","section",null,{"className":"article-actions","children":[["$","$L16",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/94dc159994dc159986c01fed","title":"そばチェーン「ゆで太郎」は、なぜ個人情報を「持たない」と決めた？ 8年続いたバースデークラブ終了の理由を社長に聞いた","locale":"ja","take":null}],["$","$L17",null,{"title":"そばチェーン「ゆで太郎」は、なぜ個人情報を「持たない」と決めた？ 8年続いたバースデークラブ終了の理由を社長に聞いた","excerpt":"$18","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/94dc159994dc159986c01fed","locale":"ja"}],["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%81%9D%E3%81%B0%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%81%A8%E6%B1%BA%E3%82%81%E3%81%9F%EF%BC%9F+8%E5%B9%B4%E7%B6%9A%E3%81%84%E3%81%9F%E3%83%90%E3%83%BC%E3%82%B9%E3%83%87%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%96%E7%B5%82%E4%BA%86%E3%81%AE%E7%90%86%E7%94%B1%E3%82%92%E7%A4%BE%E9%95%B7%E3%81%AB%E8%81%9E%E3%81%84%E3%81%9F&mode=phrase&url=itmedia.co.jp&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]]}]
+6:["$","$L19",null,{"placement":"article","className":"mt-8"}]
+7:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+8:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","yahoo-domestic:https://news.yahoo.co.jp/articles/d6b7aa318337b3455421df89356328951db8edec?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/e936f94ae936f94ac02e89cc","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"千葉東金道路で5台絡む事故 2人心肺停止 一部区間で通行止め(テレビ朝日系（ANN）)"}]]}]}],["$","li","nhk-top:https://news.web.nhk/newsweb/na/nd-20261128de83063",{"children":["$","$L2",null,{"href":"/ja/n/cc5f56c8cc5f56c812f75562","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"NHKニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"フィギュア GPファイナル進出者 女子3人 男子1人 ペア1組に"}]]}]}],["$","li","yahoo-picks:https://news.yahoo.co.jp/pickup/6604350?source=rss",{"children":["$","$L2",null,{"href":"/ja/n/015448bf015448bf9bc698ff","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Yahoo!ニュース"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"第3子から1千万円給付案 街の声は"}]]}]}]]}]]}]
+9:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+a:["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]
+d:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1e",null,{"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"そばチェーン「ゆで太郎」は、なぜ個人情報を「持たない」と決めた？ 8年続いたバースデークラブ終了の理由を社長に聞いた"}],["$","meta","1",{"name":"description","content":"そばチェーン「ゆで太郎」を展開するゆで太郎システム（東京都品川区）は10月28日、個人情報の漏えいリスクを理由に、会員の誕生月にクーポン券を送る「バースデークラブ」の終了を発表した。会員数は約4000人。実際に情報漏えいが起きたわけではないにもかかわらず、なぜ8年続けてきた制度を終了するのか。同社の池田智昭社長に話を聞いた。"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"そばチェーン「ゆで太郎」は、なぜ個人情報を「持たない」と決めた？ 8年続いたバースデークラブ終了の理由を社長に聞いた"}],["$","meta","4",{"property":"og:description","content":"そばチェーン「ゆで太郎」を展開するゆで太郎システム（東京都品川区）は10月28日、個人情報の漏えいリスクを理由に、会員の誕生月にクーポン券を送る「バースデークラブ」の終了を発表した。会員数は約4000人。実際に情報漏えいが起きたわけではないにもかかわらず、なぜ8年続けてきた制度を終了するのか。同社の池田智昭社長に話を聞いた。"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/94dc159994dc159986c01fed/"}],["$","meta","6",{"property":"og:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"そばチェーン「ゆで太郎」は、なぜ個人情報を「持たない」と決めた？ 8年続いたバースデークラブ終了の理由を社長に聞いた"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"そばチェーン「ゆで太郎」は、なぜ個人情報を「持たない」と決めた？ 8年続いたバースデークラブ終了の理由を社長に聞いた"}],["$","meta","14",{"name":"twitter:description","content":"そばチェーン「ゆで太郎」を展開するゆで太郎システム（東京都品川区）は10月28日、個人情報の漏えいリスクを理由に、会員の誕生月にクーポン券を送る「バースデークラブ」の終了を発表した。会員数は約4000人。実際に情報漏えいが起きたわけではないにもかかわらず、なぜ8年続けてきた制度を終了するのか。同社の池田智昭社長に話を聞いた。"}],["$","meta","15",{"name":"twitter:image","content":"https://ghantarou-gif.github.io/kasawa-news/og-default.png"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1f","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
+12:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
+15:true
+1c:null
+c:300
+c:C
+14:0
+e:"$undefined"
+10:"$undefined"
+13:"$undefined"
+b:"$undefined"

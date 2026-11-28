@@ -1,0 +1,65 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8f1e/live/27d88ec0-e8e3-11f1-a3b9-79c60ec9ab33.jpg","image"]
+5:Tc80,ダークスーツに黄色と白のネクタイを締めたトランプ米大統領が前方を見ている
+
+英公共放送BBCは25日、ドナルド・トランプ米大統領がBBCを相手に起こした名誉毀損（きそん）訴訟の継続を認めた米フロリダ州連邦判事の決定に対し、「緊急」に控訴した。
+
+トランプ氏は、2021年1月の連邦議会議事堂での暴動の前に行った自らの演説の2カ所を編集してつなぎ合わせたBBCの番組「パノラマ」をめぐり、昨年12月にフロリダ州でBBCを提訴。総額100億ドル（約1兆6000億円）の損害賠償を求めている。
+
+BBCは訴訟の棄却を求めていたが、フロリダ州のジェフリー・クンツ連邦判事は今月10日、審理の継続を認める決定を出した。
+
+BBCは今回、フロリダ州の裁判所にはこの事件を審理する管轄権がないとして、第11巡回区控訴裁判所に控訴した。同州の誰かがパノラマの番組にアクセスしたという「証拠は全くない」と主張するとともに、BBCがアメリカで「このドキュメンタリーへのアクセスを阻止するため、厳格かつ組織的な努力」を行ったとしている。
+
+BBCの広報担当者は、「この訴訟をフロリダで審理するという裁判所の決定に、我々は驚きと失望を感じている」と述べた。
+
+「当初から明確にしてきたように、BBCはこのドキュメンタリーをイギリスでのみ放送した。フロリダでは放送していないし、他のどの放送局でも放送していない」
+
+「この問題の緊急性を鑑み、我々は現在、上級裁判所に対し決定の見直しを求めている」
+
+トランプ大統領は、自身が2021年1月6日に行った演説を、BBCが「意図的に、悪意をもって、人を欺くように改変した」と非難している。
+
+BBCは、「パノラマ」による演説の編集が、「（トランプ氏が）暴力的行動を直接呼びかけた」という「誤った印象」を与えたと認め、謝罪している。
+
+その一方でBBCは、当該番組は名誉毀損の法的要件を満たしておらず、またアメリカのプラットフォームでは配信されていなかったとして、訴えを退けるよう裁判所に求めている。
+
+クンツ連邦判事の先の決定は、トランプ氏の名誉毀損の訴えについて、審理を継続するのに十分だと判断したもの。ただ、内容についての判断を示したわけではない。
+
+トランプ氏は判事の決定について、自身のソーシャルメディア「トゥルース・ソーシャル」への投稿で、「大きな勝利」と呼んだ。
+
+この訴訟をめぐっては、トランプ氏は12月11日までに宣誓下で質問に答えるよう命じられている。
+
+クンツ判事はまた、この訴訟の公判を2027年5月3日にフロリダ州フォートローダーデールの裁判所で開くと決定している。
+
+（英語記事 BBC appeals against decision to allow Trump's $10bn lawsuit to go ahead）d:X
+12:X
+12:C
+0:{"buildId":"VRkKTfqjSA9WSnVt327gj","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-26","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"BBC、トランプ氏による名誉棄損訴訟の継続決定に対し控訴"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"一昨日"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8f1e/live/27d88ec0-e8e3-11f1-a3b9-79c60ec9ab33.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"ダークスーツに黄色と白のネクタイを締めたトランプ米大統領が前方を見ている"}],["$","p","1",{"children":"英公共放送BBCは25日、ドナルド・トランプ米大統領がBBCを相手に起こした名誉毀損（きそん）訴訟の継続を認めた米フロリダ州連邦判事の決定に対し、「緊急」に控訴した。"}],["$","p","2",{"children":"トランプ氏は、2021年1月の連邦議会議事堂での暴動の前に行った自らの演説の2カ所を編集してつなぎ合わせたBBCの番組「パノラマ」をめぐり、昨年12月にフロリダ州でBBCを提訴。総額100億ドル（約1兆6000億円）の損害賠償を求めている。"}],["$","p","3",{"children":"BBCは訴訟の棄却を求めていたが、フロリダ州のジェフリー・クンツ連邦判事は今月10日、審理の継続を認める決定を出した。"}],["$","p","4",{"children":"BBCは今回、フロリダ州の裁判所にはこの事件を審理する管轄権がないとして、第11巡回区控訴裁判所に控訴した。同州の誰かがパノラマの番組にアクセスしたという「証拠は全くない」と主張するとともに、BBCがアメリカで「このドキュメンタリーへのアクセスを阻止するため、厳格かつ組織的な努力」を行ったとしている。"}],["$","p","5",{"children":"BBCの広報担当者は、「この訴訟をフロリダで審理するという裁判所の決定に、我々は驚きと失望を感じている」と述べた。"}],["$","p","6",{"children":"「当初から明確にしてきたように、BBCはこのドキュメンタリーをイギリスでのみ放送した。フロリダでは放送していないし、他のどの放送局でも放送していない」"}],["$","p","7",{"children":"「この問題の緊急性を鑑み、我々は現在、上級裁判所に対し決定の見直しを求めている」"}],["$","p","8",{"children":"トランプ大統領は、自身が2021年1月6日に行った演説を、BBCが「意図的に、悪意をもって、人を欺くように改変した」と非難している。"}],["$","p","9",{"children":"BBCは、「パノラマ」による演説の編集が、「（トランプ氏が）暴力的行動を直接呼びかけた」という「誤った印象」を与えたと認め、謝罪している。"}],["$","p","10",{"children":"その一方でBBCは、当該番組は名誉毀損の法的要件を満たしておらず、またアメリカのプラットフォームでは配信されていなかったとして、訴えを退けるよう裁判所に求めている。"}],["$","p","11",{"children":"クンツ連邦判事の先の決定は、トランプ氏の名誉毀損の訴えについて、審理を継続するのに十分だと判断したもの。ただ、内容についての判断を示したわけではない。"}],["$","p","12",{"children":"トランプ氏は判事の決定について、自身のソーシャルメディア「トゥルース・ソーシャル」への投稿で、「大きな勝利」と呼んだ。"}],["$","p","13",{"children":"この訴訟をめぐっては、トランプ氏は12月11日までに宣誓下で質問に答えるよう命じられている。"}],["$","p","14",{"children":"クンツ判事はまた、この訴訟の公判を2027年5月3日にフロリダ州フォートローダーデールの裁判所で開くと決定している。"}],["$","p","15",{"children":"（英語記事 BBC appeals against decision to allow Trump's $10bn lawsuit to go ahead）"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/cw8dv6d2eg1ro","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/24ba93e224ba93e2b459a8e8","title":"BBC、トランプ氏による名誉棄損訴訟の継続決定に対し控訴","locale":"ja","take":null}],["$","$L4",null,{"title":"BBC、トランプ氏による名誉棄損訴訟の継続決定に対し控訴","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/24ba93e224ba93e2b459a8e8","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=BBC%E3%80%81%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E6%B0%8F%E3%81%AB%E3%82%88%E3%82%8B%E5%90%8D%E8%AA%89%E6%A3%84%E6%90%8D%E8%A8%B4%E8%A8%9F%E3%81%AE%E7%B6%99%E7%B6%9A%E6%B1%BA%E5%AE%9A%E3%81%AB%E5%AF%BE%E3%81%97%E6%8E%A7%E8%A8%B4&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","dw:https://dw.com/en/freigang-banned-germany-star-to-miss-2027-world-cup/a-80063930?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/99e7358e99e7358eeae3c476","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Freigang banned — Germany star to miss 2027 World Cup"}]]}]}],["$","li","dw:https://dw.com/en/fifa-says-a-cyberattack-against-it-targeted-a-limited-set-of-personal-and-business-information/a-80062660?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/d9a7d076d9a7d076baa4e0d4","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"FIFA says a cyberattack against it targeted a 'limited set of personal and business information'"}]]}]}],["$","li","bbc-europe:https://bbc.co.uk/news/articles/cmlyd76kyx44o",{"children":["$","$L2",null,{"href":"/ja/n/5adbf3f15adbf3f1631699d9","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"BBC"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"BBC、トランプ氏による名誉棄損訴訟の継続決定に対し控訴"}],["$","meta","1",{"name":"description","content":"ダークスーツに黄色と白のネクタイを締めたトランプ米大統領が前方を見ている"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"BBC、トランプ氏による名誉棄損訴訟の継続決定に対し控訴"}],["$","meta","4",{"property":"og:description","content":"ダークスーツに黄色と白のネクタイを締めたトランプ米大統領が前方を見ている"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/24ba93e224ba93e2b459a8e8/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F8f1e%2Flive%2F27d88ec0-e8e3-11f1-a3b9-79c60ec9ab33.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"BBC、トランプ氏による名誉棄損訴訟の継続決定に対し控訴"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"BBC、トランプ氏による名誉棄損訴訟の継続決定に対し控訴"}],["$","meta","14",{"name":"twitter:description","content":"ダークスーツに黄色と白のネクタイを締めたトランプ米大統領が前方を見ている"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F8f1e%2Flive%2F27d88ec0-e8e3-11f1-a3b9-79c60ec9ab33.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

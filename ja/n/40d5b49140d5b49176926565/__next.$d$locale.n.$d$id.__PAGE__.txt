@@ -1,0 +1,65 @@
+1:"$Sreact.fragment"
+2:I[22016,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],""]
+3:I[36936,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ShareBar"]
+4:I[98337,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"ArticleBuzz"]
+:HL["https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0351/live/2e8de2e0-e106-11f1-93e1-3b657b665bcf.jpg","image"]
+5:Tedf,ホルムズ海峡をめぐりイランとアメリカが支配権を争っている
+
+イランは15日、バーレーンにある米軍基地をドローンで攻撃した。イランがアメリカの施設を攻撃したのは過去3日間で2回目となる。
+
+イランのイスラム革命防衛隊（IRGC）は、バーレーンのアル・リファ空軍基地にあるアメリカの防空レーダー施設を、ドローン6機で攻撃したと発表した。「ホルムズ海峡は封鎖されており、敵であるアメリカによるいかなる侵略にも厳しく、強力に対応する」と主張した。
+
+バーレーンではこの日、全土でサイレンが鳴り響いた。同国の内務省は、最寄りの安全な場所に避難するよう国民に呼びかけた。
+
+バーレーン軍は、防空システムによってイランのドローンを「目的を達成する前に」迎撃し、破壊したと説明した。
+
+バーレーンの外務省は、「バーレーン王国は、自国領土に対するイランの継続的で残忍な攻撃を最も強い言葉で非難し、その影響についてイランに全責任を負わせる」との声明を発表した。
+
+イランは13日にもバーレーンに向けてドローンを発射した。イランが湾岸諸国を攻撃したのは9月以来だった。IRGCは、バーレーンにあるアメリカの早期警戒レーダーシステムを攻撃したと主張した。
+
+一方、米軍はこの主張を否定。IRGCがバーレーンに向けて発射した片道飛行のドローン2機を、米軍が撃墜したとした。負傷者や物的損害はなかったという。
+
+アメリカとイランは、ホルムズ海峡をめぐって膠着（こうちゃく）状態にある。同海峡は、通常なら世界のガスと石油の約5分の1が通過する重要航路だが、戦争が2月に始まって以降、船舶の航行制限が続いている。
+
+イランは同海峡の支配権を主張しており、「無許可」だとする船舶を攻撃している。一方、米軍は、湾岸諸国による石油の輸出を維持するため、同海峡を通過するタンカーを警護している。
+
+両国は6月、戦争終結とホルムズ海峡再開に向けた暫定合意に達した。だが、イランが船舶への攻撃を再開し、米軍もイランの港を再び海上封鎖したことで、合意は数週間で崩壊した。
+
+イランの交渉団は、アメリカが7項目の条件を満たせば2日以内にホルムズ海峡を再開させると提案し、仲介者と協議を進めていた。それらの条件には、海上封鎖の解除やイラン資産の凍結解除などが含まれていたとされる。
+
+しかし、アメリカのドナルド・トランプ大統領は先週、イランとの戦争終結に向けた合意にはもはや関心がないと発言。交渉再開に向けて動いていたJ・D・ヴァンス副大統領に対し、国内政治に専念するよう指示した。
+
+BBCがアメリカで提携するCBSはそれ以前、複数の米当局者の話として、アメリカがホルムズ海峡にあるイランのゲシュム島を攻撃したと報じた。攻撃は限定的かつ防衛的なもので、IRGCが米軍機を攻撃したことへの報復だったという。
+
+イラン国営通信社IRNAは今月2日、ゲシュム島で爆発があったと報じた。IRGCはこの爆発についてコメントを出していないが、同島の南側でアメリカのMQM-170ドローン2機を、ホルムズ海峡の東でMQ-9ドローン1機を、それぞれ撃墜したと発表した。
+
+（英語記事 Iran targets US military base in Bahrain with drone attack）d:X
+12:X
+12:C
+0:{"buildId":"VRkKTfqjSA9WSnVt327gj","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"break-words py-6 sm:py-8","children":[["$","$L2",null,{"href":"/ja/d/2026-11-16","className":"font-sans text-[12px] tracking-[0.16em] uppercase text-muted hover:text-accent","children":"この日の一覧へ"}],["$","div",null,{"className":"mt-4 flex flex-wrap items-center justify-between gap-3 text-[11px] tracking-[0.12em] uppercase text-muted","children":[["$","span",null,{"children":"BBC日本語"}],["$","span",null,{"children":["🌐"," ","海外"]}]]}],["$","h1",null,{"className":"font-display mt-4 text-[clamp(1.45rem,6.5vw,2.75rem)] leading-tight tracking-[-0.03em]","children":"イラン、バーレーンの米軍基地をドローン攻撃"}],["$","p",null,{"className":"mt-3 text-[13px] text-muted","children":"11月16日 02:51"}],["$","div",null,{"className":"story-image mt-6","children":["$","img",null,{"src":"https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0351/live/2e8de2e0-e106-11f1-93e1-3b657b665bcf.jpg","alt":""}]}],["$","div",null,{"className":"article-copy","children":[[["$","p","0",{"children":"ホルムズ海峡をめぐりイランとアメリカが支配権を争っている"}],["$","p","1",{"children":"イランは15日、バーレーンにある米軍基地をドローンで攻撃した。イランがアメリカの施設を攻撃したのは過去3日間で2回目となる。"}],["$","p","2",{"children":"イランのイスラム革命防衛隊（IRGC）は、バーレーンのアル・リファ空軍基地にあるアメリカの防空レーダー施設を、ドローン6機で攻撃したと発表した。「ホルムズ海峡は封鎖されており、敵であるアメリカによるいかなる侵略にも厳しく、強力に対応する」と主張した。"}],["$","p","3",{"children":"バーレーンではこの日、全土でサイレンが鳴り響いた。同国の内務省は、最寄りの安全な場所に避難するよう国民に呼びかけた。"}],["$","p","4",{"children":"バーレーン軍は、防空システムによってイランのドローンを「目的を達成する前に」迎撃し、破壊したと説明した。"}],["$","p","5",{"children":"バーレーンの外務省は、「バーレーン王国は、自国領土に対するイランの継続的で残忍な攻撃を最も強い言葉で非難し、その影響についてイランに全責任を負わせる」との声明を発表した。"}],["$","p","6",{"children":"イランは13日にもバーレーンに向けてドローンを発射した。イランが湾岸諸国を攻撃したのは9月以来だった。IRGCは、バーレーンにあるアメリカの早期警戒レーダーシステムを攻撃したと主張した。"}],["$","p","7",{"children":"一方、米軍はこの主張を否定。IRGCがバーレーンに向けて発射した片道飛行のドローン2機を、米軍が撃墜したとした。負傷者や物的損害はなかったという。"}],["$","p","8",{"children":"アメリカとイランは、ホルムズ海峡をめぐって膠着（こうちゃく）状態にある。同海峡は、通常なら世界のガスと石油の約5分の1が通過する重要航路だが、戦争が2月に始まって以降、船舶の航行制限が続いている。"}],["$","p","9",{"children":"イランは同海峡の支配権を主張しており、「無許可」だとする船舶を攻撃している。一方、米軍は、湾岸諸国による石油の輸出を維持するため、同海峡を通過するタンカーを警護している。"}],["$","p","10",{"children":"両国は6月、戦争終結とホルムズ海峡再開に向けた暫定合意に達した。だが、イランが船舶への攻撃を再開し、米軍もイランの港を再び海上封鎖したことで、合意は数週間で崩壊した。"}],["$","p","11",{"children":"イランの交渉団は、アメリカが7項目の条件を満たせば2日以内にホルムズ海峡を再開させると提案し、仲介者と協議を進めていた。それらの条件には、海上封鎖の解除やイラン資産の凍結解除などが含まれていたとされる。"}],["$","p","12",{"children":"しかし、アメリカのドナルド・トランプ大統領は先週、イランとの戦争終結に向けた合意にはもはや関心がないと発言。交渉再開に向けて動いていたJ・D・ヴァンス副大統領に対し、国内政治に専念するよう指示した。"}],["$","p","13",{"children":"BBCがアメリカで提携するCBSはそれ以前、複数の米当局者の話として、アメリカがホルムズ海峡にあるイランのゲシュム島を攻撃したと報じた。攻撃は限定的かつ防衛的なもので、IRGCが米軍機を攻撃したことへの報復だったという。"}],["$","p","14",{"children":"イラン国営通信社IRNAは今月2日、ゲシュム島で爆発があったと報じた。IRGCはこの爆発についてコメントを出していないが、同島の南側でアメリカのMQM-170ドローン2機を、ホルムズ海峡の東でMQ-9ドローン1機を、それぞれ撃墜したと発表した。"}],["$","p","15",{"children":"（英語記事 Iran targets US military base in Bahrain with drone attack）"}]],["$","p",null,{"className":"article-credit","children":"本文の著作権はBBC日本語にあります。"}]]}],["$","div",null,{"className":"action-row mt-6","children":["$","a",null,{"href":"https://bbc.com/japanese/articles/c85y1w3e7lnno","target":"_blank","rel":"noopener noreferrer","className":"open-btn text-[13px]","children":"原文はBBC日本語で読む"}]}],["$","section",null,{"className":"article-actions","children":[["$","$L3",null,{"url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/40d5b49140d5b49176926565","title":"イラン、バーレーンの米軍基地をドローン攻撃","locale":"ja","take":null}],["$","$L4",null,{"title":"イラン、バーレーンの米軍基地をドローン攻撃","excerpt":"$5","url":"https://ghantarou-gif.github.io/kasawa-news/ja/n/40d5b49140d5b49176926565","locale":"ja"}],"$L6"]}],"$L7",null,"$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[9441,["/kasawa-news/_next/static/chunks/3hpft9-s4dm9t.js","/kasawa-news/_next/static/chunks/03jeyzkp81phc.js"],"AdSlot"]
+18:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1c:I[97367,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1d:I[27201,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1e:I[39756,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+1f:I[37457,["/kasawa-news/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:["$","div",null,{"className":"action-row mt-3","children":["$","a",null,{"href":"/kasawa-news/search.html?kw=%E3%82%A4%E3%83%A9%E3%83%B3%E3%80%81%E3%83%90%E3%83%BC%E3%83%AC%E3%83%BC%E3%83%B3%E3%81%AE%E7%B1%B3%E8%BB%8D%E5%9F%BA%E5%9C%B0%E3%82%92%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E6%94%BB%E6%92%83&mode=phrase&url=bbc.com&wt=24&wtUnit=h&lang=ja&via=nyanchu","target":"_blank","rel":"noopener noreferrer","className":"ghost-btn inline-flex","children":"NyanChu検索する"}]}]
+7:["$","$L17",null,{"placement":"article","className":"mt-8"}]
+8:["$","div",null,{"className":"mt-8","children":["$","aside",null,{"className":"affiliate-block","children":[["$","p",null,{"className":"affiliate-kicker","children":"関連"}],["$","ul",null,{"className":"mt-3 flex flex-col gap-2","children":[["$","li","kindle",{"children":["$","$L2",null,{"href":"/go/kindle?utm_source=site&utm_medium=affiliate","className":"affiliate-link","children":"著者のKindle本"}]}]]}],["$","p",null,{"className":"mt-4 text-[12px] leading-5 text-muted","children":"※リンクにアフィリエイト（広告）が含まれる場合があります。"}]]}]}]
+9:["$","section",null,{"className":"mt-10 border-t border-line pt-8","children":[["$","h2",null,{"className":"font-display text-[1.35rem] tracking-[-0.02em]","children":"同じ日の他の見出し"}],["$","ul",null,{"className":"mt-4 flex flex-col gap-3","children":[["$","li","dw:https://dw.com/en/cop31-draft-deal-calls-for-immediate-shift-away-from-fossil-fuels/a-79960705?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/6aa16e056aa16e05e2192d51","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"COP31 draft deal calls for 'immediate' shift away from fossil fuels"}]]}]}],["$","li","dw:https://dw.com/en/klopp-wants-infantino-out-as-fifa-candidate-deadline-looms/a-79958229?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/383599a2383599a219c99ba0","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Klopp wants Infantino out as FIFA candidate deadline looms"}]]}]}],["$","li","dw:https://dw.com/en/can-a-coalition-of-the-willing-create-momentum-for-a-fossil-fuel-phaseout/a-79926748?maca=en-rss-en-all-1573-rdf",{"children":["$","$L2",null,{"href":"/ja/n/0320dbf50320dbf5714314f1","className":"related-link block rounded-xl border border-line bg-card px-4 py-3 hover:border-accent/35","children":[["$","p",null,{"className":"text-[11px] uppercase tracking-[0.12em] text-muted","children":"Deutsche Welle"}],["$","p",null,{"className":"mt-1 font-display text-[1.05rem] leading-snug","children":"Can a 'coalition of the willing' create momentum for a fossil fuel phaseout?"}]]}]}]]}]]}]
+a:["$","script","script-0",{"src":"/kasawa-news/_next/static/chunks/03jeyzkp81phc.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#fbf6df"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"イラン、バーレーンの米軍基地をドローン攻撃"}],["$","meta","1",{"name":"description","content":"ホルムズ海峡をめぐりイランとアメリカが支配権を争っている"}],["$","meta","2",{"name":"google-adsense-account","content":"ca-pub-9222859203841922"}],["$","meta","3",{"property":"og:title","content":"イラン、バーレーンの米軍基地をドローン攻撃"}],["$","meta","4",{"property":"og:description","content":"ホルムズ海峡をめぐりイランとアメリカが支配権を争っている"}],["$","meta","5",{"property":"og:url","content":"https://ghantarou-gif.github.io/kasawa-news/ja/n/40d5b49140d5b49176926565/"}],["$","meta","6",{"property":"og:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F0351%2Flive%2F2e8de2e0-e106-11f1-93e1-3b657b665bcf.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","meta","7",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"イラン、バーレーンの米軍基地をドローン攻撃"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"イラン、バーレーンの米軍基地をドローン攻撃"}],["$","meta","14",{"name":"twitter:description","content":"ホルムズ海峡をめぐりイランとアメリカが支配権を争っている"}],["$","meta","15",{"name":"twitter:image","content":"https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F0351%2Flive%2F2e8de2e0-e106-11f1-93e1-3b657b665bcf.jpg&w=1200&h=630&fit=cover&output=jpg"}],["$","link","16",{"rel":"icon","href":"/kasawa-news/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/kasawa-news/icon.png?icon.18tm6fouqa1dj.png","sizes":"32x32","type":"image/png"}],["$","$L1d","18",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1e",null,{"parallelRouterKey":"children","template":["$","$L1f",null,{}]}]]}]
+16:true
+1a:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"
